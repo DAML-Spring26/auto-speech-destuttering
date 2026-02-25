@@ -10,13 +10,13 @@ print(f"Using device: {device}")
 # 2. Load model once
 model = whisper.load_model("base", device=device)
 
-input_dir = "data/word_level/word_sub"
-output_dir = "transcripts/word_sub_transcripts_json"
+input_dir = "data/word_level/word_sub" #change folder to generate new transcripts from
+output_dir = "transcripts/word_sub_transcripts_json" #which output folder
 os.makedirs(output_dir, exist_ok=True)
 
 # 3. Get list of files
 all_audio_files = [f for f in os.listdir(input_dir) if f.endswith(".wav")]
-audio_files = all_audio_files[0:100]
+audio_files = all_audio_files[0:100] #index of data
 
 # 4. Process loop
 for filename in tqdm(audio_files, desc="Transcribing"):
