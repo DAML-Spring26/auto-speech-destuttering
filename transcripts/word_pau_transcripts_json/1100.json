@@ -1,0 +1,94 @@
+{
+    "text": " Please make sure to bring your passport for international flights.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.5,
+            "text": " Please make sure to bring your passport for international flights.",
+            "tokens": [
+                50364,
+                2555,
+                652,
+                988,
+                281,
+                1565,
+                428,
+                24694,
+                337,
+                5058,
+                21089,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3447397436414446,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.008677298203110695,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.6674577593803406
+                },
+                {
+                    "word": " make",
+                    "start": 0.26,
+                    "end": 0.52,
+                    "probability": 0.9741215705871582
+                },
+                {
+                    "word": " sure",
+                    "start": 0.52,
+                    "end": 0.78,
+                    "probability": 0.999204695224762
+                },
+                {
+                    "word": " to",
+                    "start": 0.78,
+                    "end": 1.02,
+                    "probability": 0.9964566826820374
+                },
+                {
+                    "word": " bring",
+                    "start": 1.02,
+                    "end": 1.22,
+                    "probability": 0.9817319512367249
+                },
+                {
+                    "word": " your",
+                    "start": 1.22,
+                    "end": 1.4,
+                    "probability": 0.9923045039176941
+                },
+                {
+                    "word": " passport",
+                    "start": 1.4,
+                    "end": 1.74,
+                    "probability": 0.993362307548523
+                },
+                {
+                    "word": " for",
+                    "start": 1.74,
+                    "end": 2.22,
+                    "probability": 0.6523582339286804
+                },
+                {
+                    "word": " international",
+                    "start": 2.22,
+                    "end": 5.58,
+                    "probability": 0.35832229256629944
+                },
+                {
+                    "word": " flights.",
+                    "start": 5.58,
+                    "end": 6.5,
+                    "probability": 0.9940656423568726
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

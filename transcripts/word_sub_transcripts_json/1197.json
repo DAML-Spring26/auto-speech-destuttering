@@ -1,0 +1,60 @@
+{
+    "text": " She specialises in cognitive mythology.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.52,
+            "text": " She specialises in cognitive mythology.",
+            "tokens": [
+                50364,
+                1240,
+                2121,
+                3598,
+                294,
+                15605,
+                30871,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.46543006896972655,
+            "compression_ratio": 0.8297872340425532,
+            "no_speech_prob": 0.003715440398082137,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.588982105255127
+                },
+                {
+                    "word": " specialises",
+                    "start": 0.2,
+                    "end": 1.1,
+                    "probability": 0.7520360350608826
+                },
+                {
+                    "word": " in",
+                    "start": 1.1,
+                    "end": 1.34,
+                    "probability": 0.9990147352218628
+                },
+                {
+                    "word": " cognitive",
+                    "start": 1.34,
+                    "end": 1.8,
+                    "probability": 0.6980177164077759
+                },
+                {
+                    "word": " mythology.",
+                    "start": 1.8,
+                    "end": 2.52,
+                    "probability": 0.9596800208091736
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

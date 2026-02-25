@@ -1,0 +1,66 @@
+{
+    "text": " We must maintain strict quality patrol.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.74,
+            "text": " We must maintain strict quality patrol.",
+            "tokens": [
+                50364,
+                492,
+                1633,
+                6909,
+                10910,
+                3125,
+                26305,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25706918239593507,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.004312089644372463,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5689980387687683
+                },
+                {
+                    "word": " must",
+                    "start": 0.12,
+                    "end": 0.24,
+                    "probability": 0.9955915808677673
+                },
+                {
+                    "word": " maintain",
+                    "start": 0.24,
+                    "end": 0.56,
+                    "probability": 0.9933643341064453
+                },
+                {
+                    "word": " strict",
+                    "start": 0.56,
+                    "end": 0.96,
+                    "probability": 0.9817472100257874
+                },
+                {
+                    "word": " quality",
+                    "start": 0.96,
+                    "end": 1.38,
+                    "probability": 0.9834255576133728
+                },
+                {
+                    "word": " patrol.",
+                    "start": 1.38,
+                    "end": 1.74,
+                    "probability": 0.9619336724281311
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

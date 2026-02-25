@@ -1,0 +1,76 @@
+{
+    "text": " The report was comprehensive and well-earched.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.84,
+            "text": " The report was comprehensive and well-earched.",
+            "tokens": [
+                50364,
+                440,
+                2275,
+                390,
+                13914,
+                293,
+                731,
+                12,
+                68,
+                1178,
+                292,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5465562343597412,
+            "compression_ratio": 0.8518518518518519,
+            "no_speech_prob": 0.008527194149792194,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.794335663318634
+                },
+                {
+                    "word": " report",
+                    "start": 0.1,
+                    "end": 0.44,
+                    "probability": 0.9943763017654419
+                },
+                {
+                    "word": " was",
+                    "start": 0.44,
+                    "end": 0.9,
+                    "probability": 0.9964117407798767
+                },
+                {
+                    "word": " comprehensive",
+                    "start": 0.9,
+                    "end": 1.54,
+                    "probability": 0.9538975954055786
+                },
+                {
+                    "word": " and",
+                    "start": 1.54,
+                    "end": 2.42,
+                    "probability": 0.9765008687973022
+                },
+                {
+                    "word": " well",
+                    "start": 2.42,
+                    "end": 2.8,
+                    "probability": 0.9717661738395691
+                },
+                {
+                    "word": "-earched.",
+                    "start": 2.8,
+                    "end": 3.84,
+                    "probability": 0.5319672888144851
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

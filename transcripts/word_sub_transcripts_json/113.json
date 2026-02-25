@@ -1,0 +1,59 @@
+{
+    "text": " please submit their required nomination.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.86,
+            "text": " please submit their required nomination.",
+            "tokens": [
+                50364,
+                1767,
+                10315,
+                641,
+                4739,
+                30375,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6113093164232042,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.018918946385383606,
+            "words": [
+                {
+                    "word": " please",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.48895445466041565
+                },
+                {
+                    "word": " submit",
+                    "start": 0.2,
+                    "end": 0.62,
+                    "probability": 0.9833024144172668
+                },
+                {
+                    "word": " their",
+                    "start": 0.62,
+                    "end": 0.84,
+                    "probability": 0.8568460941314697
+                },
+                {
+                    "word": " required",
+                    "start": 0.84,
+                    "end": 1.2,
+                    "probability": 0.3548039197921753
+                },
+                {
+                    "word": " nomination.",
+                    "start": 1.2,
+                    "end": 1.86,
+                    "probability": 0.9707452654838562
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

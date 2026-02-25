@@ -1,0 +1,126 @@
+{
+    "text": " Would you mind picking up? The dry cleaning on your way home.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.2,
+            "text": " Would you mind picking up?",
+            "tokens": [
+                50364,
+                6068,
+                291,
+                1575,
+                8867,
+                493,
+                30,
+                50556
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4172105538217645,
+            "compression_ratio": 0.9384615384615385,
+            "no_speech_prob": 0.006345473695546389,
+            "words": [
+                {
+                    "word": " Would",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.676814615726471
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.26,
+                    "probability": 0.9920241832733154
+                },
+                {
+                    "word": " mind",
+                    "start": 0.26,
+                    "end": 0.44,
+                    "probability": 0.9966493248939514
+                },
+                {
+                    "word": " picking",
+                    "start": 0.44,
+                    "end": 0.78,
+                    "probability": 0.9922743439674377
+                },
+                {
+                    "word": " up?",
+                    "start": 0.78,
+                    "end": 1.2,
+                    "probability": 0.9949079155921936
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.34,
+            "end": 5.48,
+            "text": " The dry cleaning on your way home.",
+            "tokens": [
+                50556,
+                440,
+                4016,
+                8924,
+                322,
+                428,
+                636,
+                1280,
+                13,
+                50656
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4172105538217645,
+            "compression_ratio": 0.9384615384615385,
+            "no_speech_prob": 0.006345473695546389,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 3.34,
+                    "end": 3.92,
+                    "probability": 0.8741779327392578
+                },
+                {
+                    "word": " dry",
+                    "start": 3.92,
+                    "end": 4.2,
+                    "probability": 0.9947053790092468
+                },
+                {
+                    "word": " cleaning",
+                    "start": 4.2,
+                    "end": 4.58,
+                    "probability": 0.9903101325035095
+                },
+                {
+                    "word": " on",
+                    "start": 4.58,
+                    "end": 4.8,
+                    "probability": 0.9918113946914673
+                },
+                {
+                    "word": " your",
+                    "start": 4.8,
+                    "end": 4.92,
+                    "probability": 0.9944309592247009
+                },
+                {
+                    "word": " way",
+                    "start": 4.92,
+                    "end": 5.18,
+                    "probability": 0.9406223893165588
+                },
+                {
+                    "word": " home.",
+                    "start": 5.18,
+                    "end": 5.48,
+                    "probability": 0.9640898108482361
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

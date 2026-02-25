@@ -1,0 +1,98 @@
+{
+    "text": " The latest software update includes enhanced. Security features.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.26,
+            "text": " The latest software update includes enhanced.",
+            "tokens": [
+                50364,
+                440,
+                6792,
+                4722,
+                5623,
+                5974,
+                21191,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6363992691040039,
+            "compression_ratio": 0.9552238805970149,
+            "no_speech_prob": 0.0023636394180357456,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.9236642718315125
+                },
+                {
+                    "word": " latest",
+                    "start": 0.1,
+                    "end": 0.32,
+                    "probability": 0.9862577319145203
+                },
+                {
+                    "word": " software",
+                    "start": 0.32,
+                    "end": 0.76,
+                    "probability": 0.9985404014587402
+                },
+                {
+                    "word": " update",
+                    "start": 0.76,
+                    "end": 1.1,
+                    "probability": 0.9010294079780579
+                },
+                {
+                    "word": " includes",
+                    "start": 1.1,
+                    "end": 1.5,
+                    "probability": 0.9795133471488953
+                },
+                {
+                    "word": " enhanced.",
+                    "start": 1.5,
+                    "end": 2.26,
+                    "probability": 0.47675466537475586
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.3,
+            "end": 7.2,
+            "text": " Security features.",
+            "tokens": [
+                50679,
+                11164,
+                4122,
+                13,
+                50744
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6363992691040039,
+            "compression_ratio": 0.9552238805970149,
+            "no_speech_prob": 0.0023636394180357456,
+            "words": [
+                {
+                    "word": " Security",
+                    "start": 6.199999999999999,
+                    "end": 6.68,
+                    "probability": 0.9767090082168579
+                },
+                {
+                    "word": " features.",
+                    "start": 6.68,
+                    "end": 7.2,
+                    "probability": 0.9028727412223816
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

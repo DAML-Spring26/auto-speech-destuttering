@@ -1,0 +1,66 @@
+{
+    "text": " She competed the survey last week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.64,
+            "text": " She competed the survey last week.",
+            "tokens": [
+                50364,
+                1240,
+                43619,
+                264,
+                8984,
+                1036,
+                1243,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3869121551513672,
+            "compression_ratio": 0.85,
+            "no_speech_prob": 0.011291787959635258,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.624075174331665
+                },
+                {
+                    "word": " competed",
+                    "start": 0.16,
+                    "end": 0.52,
+                    "probability": 0.9502533078193665
+                },
+                {
+                    "word": " the",
+                    "start": 0.52,
+                    "end": 0.72,
+                    "probability": 0.9133462905883789
+                },
+                {
+                    "word": " survey",
+                    "start": 0.72,
+                    "end": 1.02,
+                    "probability": 0.768688440322876
+                },
+                {
+                    "word": " last",
+                    "start": 1.02,
+                    "end": 1.32,
+                    "probability": 0.9722272157669067
+                },
+                {
+                    "word": " week.",
+                    "start": 1.32,
+                    "end": 1.64,
+                    "probability": 0.9982317090034485
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,99 @@
+{
+    "text": " The new operating system features improved battery. Optimization.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.6,
+            "text": " The new operating system features improved battery.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                7447,
+                1185,
+                4122,
+                9689,
+                5809,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5793829560279846,
+            "compression_ratio": 0.9285714285714286,
+            "no_speech_prob": 0.001847455045208335,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6785752773284912
+                },
+                {
+                    "word": " new",
+                    "start": 0.1,
+                    "end": 0.38,
+                    "probability": 0.9860657453536987
+                },
+                {
+                    "word": " operating",
+                    "start": 0.38,
+                    "end": 1.0,
+                    "probability": 0.9604461789131165
+                },
+                {
+                    "word": " system",
+                    "start": 1.0,
+                    "end": 1.6,
+                    "probability": 0.9926649928092957
+                },
+                {
+                    "word": " features",
+                    "start": 1.6,
+                    "end": 2.18,
+                    "probability": 0.9941895008087158
+                },
+                {
+                    "word": " improved",
+                    "start": 2.18,
+                    "end": 2.86,
+                    "probability": 0.9217032194137573
+                },
+                {
+                    "word": " battery.",
+                    "start": 2.86,
+                    "end": 3.6,
+                    "probability": 0.9943429231643677
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.84,
+            "end": 8.02,
+            "text": " Optimization.",
+            "tokens": [
+                50714,
+                35013,
+                2144,
+                13,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5793829560279846,
+            "compression_ratio": 0.9285714285714286,
+            "no_speech_prob": 0.001847455045208335,
+            "words": [
+                {
+                    "word": " Optimization.",
+                    "start": 6.84,
+                    "end": 8.02,
+                    "probability": 0.9111819863319397
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

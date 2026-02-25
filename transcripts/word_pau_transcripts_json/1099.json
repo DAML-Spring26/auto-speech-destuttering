@@ -1,0 +1,87 @@
+{
+    "text": " The test result should be available within 48 hours.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.66,
+            "text": " The test result should be available within 48 hours.",
+            "tokens": [
+                50364,
+                440,
+                1500,
+                1874,
+                820,
+                312,
+                2435,
+                1951,
+                11174,
+                2496,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30394497284522426,
+            "compression_ratio": 0.8813559322033898,
+            "no_speech_prob": 0.005386203061789274,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7221135497093201
+                },
+                {
+                    "word": " test",
+                    "start": 0.1,
+                    "end": 0.42,
+                    "probability": 0.9897776246070862
+                },
+                {
+                    "word": " result",
+                    "start": 0.42,
+                    "end": 0.84,
+                    "probability": 0.5385769009590149
+                },
+                {
+                    "word": " should",
+                    "start": 0.84,
+                    "end": 1.16,
+                    "probability": 0.9919494390487671
+                },
+                {
+                    "word": " be",
+                    "start": 1.16,
+                    "end": 1.52,
+                    "probability": 0.9960507750511169
+                },
+                {
+                    "word": " available",
+                    "start": 1.52,
+                    "end": 5.22,
+                    "probability": 0.8952767252922058
+                },
+                {
+                    "word": " within",
+                    "start": 5.22,
+                    "end": 5.64,
+                    "probability": 0.9833539724349976
+                },
+                {
+                    "word": " 48",
+                    "start": 5.64,
+                    "end": 6.3,
+                    "probability": 0.9791415333747864
+                },
+                {
+                    "word": " hours.",
+                    "start": 6.3,
+                    "end": 6.66,
+                    "probability": 0.9615575671195984
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

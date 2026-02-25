@@ -1,0 +1,59 @@
+{
+    "text": " the team achieved their markets.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.48,
+            "text": " the team achieved their markets.",
+            "tokens": [
+                50364,
+                264,
+                1469,
+                11042,
+                641,
+                8383,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32062864303588867,
+            "compression_ratio": 0.8,
+            "no_speech_prob": 0.012397676706314087,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.697850227355957
+                },
+                {
+                    "word": " team",
+                    "start": 0.14,
+                    "end": 0.42,
+                    "probability": 0.9938150644302368
+                },
+                {
+                    "word": " achieved",
+                    "start": 0.42,
+                    "end": 0.84,
+                    "probability": 0.9702048897743225
+                },
+                {
+                    "word": " their",
+                    "start": 0.84,
+                    "end": 1.06,
+                    "probability": 0.9961611032485962
+                },
+                {
+                    "word": " markets.",
+                    "start": 1.06,
+                    "end": 1.48,
+                    "probability": 0.9528359770774841
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

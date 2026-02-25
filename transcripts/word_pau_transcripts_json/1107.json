@@ -1,0 +1,82 @@
+{
+    "text": " Your appointment has been rescheduled for next Tuesday.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.92,
+            "text": " Your appointment has been rescheduled for next Tuesday.",
+            "tokens": [
+                50364,
+                2260,
+                13653,
+                575,
+                668,
+                725,
+                19318,
+                45893,
+                337,
+                958,
+                10017,
+                13,
+                50636
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3542705604008266,
+            "compression_ratio": 0.8870967741935484,
+            "no_speech_prob": 0.009840838611125946,
+            "words": [
+                {
+                    "word": " Your",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.7297855615615845
+                },
+                {
+                    "word": " appointment",
+                    "start": 0.2,
+                    "end": 0.6,
+                    "probability": 0.9869825839996338
+                },
+                {
+                    "word": " has",
+                    "start": 0.6,
+                    "end": 0.92,
+                    "probability": 0.9924328327178955
+                },
+                {
+                    "word": " been",
+                    "start": 0.92,
+                    "end": 1.08,
+                    "probability": 0.9979414343833923
+                },
+                {
+                    "word": " rescheduled",
+                    "start": 1.08,
+                    "end": 1.72,
+                    "probability": 0.9368370970090231
+                },
+                {
+                    "word": " for",
+                    "start": 1.72,
+                    "end": 2.04,
+                    "probability": 0.9827131032943726
+                },
+                {
+                    "word": " next",
+                    "start": 2.04,
+                    "end": 2.72,
+                    "probability": 0.5539982318878174
+                },
+                {
+                    "word": " Tuesday.",
+                    "start": 2.72,
+                    "end": 4.92,
+                    "probability": 0.8250305652618408
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

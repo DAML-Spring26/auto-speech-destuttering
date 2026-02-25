@@ -1,0 +1,74 @@
+{
+    "text": " We're having pasta like for dinner tonight.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.5,
+            "text": " We're having pasta like for dinner tonight.",
+            "tokens": [
+                50364,
+                492,
+                434,
+                1419,
+                13296,
+                411,
+                337,
+                6148,
+                4440,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5487332344055176,
+            "compression_ratio": 0.8431372549019608,
+            "no_speech_prob": 0.18587042391300201,
+            "words": [
+                {
+                    "word": " We're",
+                    "start": 0.0,
+                    "end": 1.68,
+                    "probability": 0.8676104843616486
+                },
+                {
+                    "word": " having",
+                    "start": 1.68,
+                    "end": 2.0,
+                    "probability": 0.9947102069854736
+                },
+                {
+                    "word": " pasta",
+                    "start": 2.0,
+                    "end": 2.64,
+                    "probability": 0.8588119745254517
+                },
+                {
+                    "word": " like",
+                    "start": 2.64,
+                    "end": 4.08,
+                    "probability": 0.3119126260280609
+                },
+                {
+                    "word": " for",
+                    "start": 4.08,
+                    "end": 4.66,
+                    "probability": 0.9283148646354675
+                },
+                {
+                    "word": " dinner",
+                    "start": 4.66,
+                    "end": 5.0,
+                    "probability": 0.9973477125167847
+                },
+                {
+                    "word": " tonight.",
+                    "start": 5.0,
+                    "end": 5.5,
+                    "probability": 0.984826922416687
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,129 @@
+{
+    "text": " She asked me if I could pick up some milk on my home from work.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.64,
+            "text": " She asked me if I could pick up some milk on my home from work.",
+            "tokens": [
+                50364,
+                1240,
+                2351,
+                385,
+                498,
+                286,
+                727,
+                1888,
+                493,
+                512,
+                5392,
+                322,
+                452,
+                1280,
+                490,
+                589,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26766571245695414,
+            "compression_ratio": 0.9402985074626866,
+            "no_speech_prob": 0.006168392952531576,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8369913697242737
+                },
+                {
+                    "word": " asked",
+                    "start": 0.14,
+                    "end": 0.4,
+                    "probability": 0.9575185179710388
+                },
+                {
+                    "word": " me",
+                    "start": 0.4,
+                    "end": 0.54,
+                    "probability": 0.9656562805175781
+                },
+                {
+                    "word": " if",
+                    "start": 0.54,
+                    "end": 0.68,
+                    "probability": 0.9951995611190796
+                },
+                {
+                    "word": " I",
+                    "start": 0.68,
+                    "end": 0.82,
+                    "probability": 0.987632155418396
+                },
+                {
+                    "word": " could",
+                    "start": 0.82,
+                    "end": 0.98,
+                    "probability": 0.9896061420440674
+                },
+                {
+                    "word": " pick",
+                    "start": 0.98,
+                    "end": 1.2,
+                    "probability": 0.9932019114494324
+                },
+                {
+                    "word": " up",
+                    "start": 1.2,
+                    "end": 1.32,
+                    "probability": 0.9881079792976379
+                },
+                {
+                    "word": " some",
+                    "start": 1.32,
+                    "end": 1.52,
+                    "probability": 0.99221271276474
+                },
+                {
+                    "word": " milk",
+                    "start": 1.52,
+                    "end": 1.74,
+                    "probability": 0.9362941980361938
+                },
+                {
+                    "word": " on",
+                    "start": 1.74,
+                    "end": 1.9,
+                    "probability": 0.900789737701416
+                },
+                {
+                    "word": " my",
+                    "start": 1.9,
+                    "end": 2.04,
+                    "probability": 0.27507373690605164
+                },
+                {
+                    "word": " home",
+                    "start": 2.04,
+                    "end": 2.26,
+                    "probability": 0.8835917711257935
+                },
+                {
+                    "word": " from",
+                    "start": 2.26,
+                    "end": 2.44,
+                    "probability": 0.8017520308494568
+                },
+                {
+                    "word": " work.",
+                    "start": 2.44,
+                    "end": 2.64,
+                    "probability": 0.9979584217071533
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

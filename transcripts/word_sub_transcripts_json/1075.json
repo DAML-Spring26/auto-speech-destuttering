@@ -1,0 +1,73 @@
+{
+    "text": " The fight was too damn to read.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.58,
+            "text": " The fight was too damn to read.",
+            "tokens": [
+                50364,
+                440,
+                2092,
+                390,
+                886,
+                8151,
+                281,
+                1401,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3285947712984952,
+            "compression_ratio": 0.8378378378378378,
+            "no_speech_prob": 0.00453150225803256,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8472400307655334
+                },
+                {
+                    "word": " fight",
+                    "start": 0.12,
+                    "end": 0.34,
+                    "probability": 0.9965741634368896
+                },
+                {
+                    "word": " was",
+                    "start": 0.34,
+                    "end": 0.54,
+                    "probability": 0.9950950145721436
+                },
+                {
+                    "word": " too",
+                    "start": 0.54,
+                    "end": 0.78,
+                    "probability": 0.9949559569358826
+                },
+                {
+                    "word": " damn",
+                    "start": 0.78,
+                    "end": 1.04,
+                    "probability": 0.44631484150886536
+                },
+                {
+                    "word": " to",
+                    "start": 1.04,
+                    "end": 1.32,
+                    "probability": 0.8463159203529358
+                },
+                {
+                    "word": " read.",
+                    "start": 1.32,
+                    "end": 1.58,
+                    "probability": 0.9963196516036987
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

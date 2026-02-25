@@ -1,0 +1,66 @@
+{
+    "text": " The committee approved the budget plan.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.42,
+            "text": " The committee approved the budget plan.",
+            "tokens": [
+                50364,
+                440,
+                7482,
+                10826,
+                264,
+                4706,
+                1393,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5168565273284912,
+            "compression_ratio": 0.8478260869565217,
+            "no_speech_prob": 0.00588707672432065,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6072253584861755
+                },
+                {
+                    "word": " committee",
+                    "start": 0.12,
+                    "end": 0.64,
+                    "probability": 0.9268222451210022
+                },
+                {
+                    "word": " approved",
+                    "start": 0.64,
+                    "end": 1.38,
+                    "probability": 0.9878411889076233
+                },
+                {
+                    "word": " the",
+                    "start": 1.38,
+                    "end": 1.58,
+                    "probability": 0.9912050366401672
+                },
+                {
+                    "word": " budget",
+                    "start": 1.58,
+                    "end": 1.96,
+                    "probability": 0.8475582599639893
+                },
+                {
+                    "word": " plan.",
+                    "start": 1.96,
+                    "end": 2.42,
+                    "probability": 0.668587327003479
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,94 @@
+{
+    "text": " The results of the experiment were more significant than expected.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.7,
+            "text": " The results of the experiment were more significant than expected.",
+            "tokens": [
+                50364,
+                440,
+                3542,
+                295,
+                264,
+                5120,
+                645,
+                544,
+                4776,
+                813,
+                5176,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27055369104657856,
+            "compression_ratio": 0.9850746268656716,
+            "no_speech_prob": 0.002518549095839262,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7847201228141785
+                },
+                {
+                    "word": " results",
+                    "start": 0.12,
+                    "end": 0.4,
+                    "probability": 0.9114416241645813
+                },
+                {
+                    "word": " of",
+                    "start": 0.4,
+                    "end": 0.74,
+                    "probability": 0.9937517046928406
+                },
+                {
+                    "word": " the",
+                    "start": 0.74,
+                    "end": 0.88,
+                    "probability": 0.9828611612319946
+                },
+                {
+                    "word": " experiment",
+                    "start": 0.88,
+                    "end": 1.44,
+                    "probability": 0.9863161444664001
+                },
+                {
+                    "word": " were",
+                    "start": 1.44,
+                    "end": 1.82,
+                    "probability": 0.9844018816947937
+                },
+                {
+                    "word": " more",
+                    "start": 1.82,
+                    "end": 2.32,
+                    "probability": 0.9932020306587219
+                },
+                {
+                    "word": " significant",
+                    "start": 2.32,
+                    "end": 3.82,
+                    "probability": 0.5983050465583801
+                },
+                {
+                    "word": " than",
+                    "start": 3.82,
+                    "end": 4.18,
+                    "probability": 0.8658964037895203
+                },
+                {
+                    "word": " expected.",
+                    "start": 4.18,
+                    "end": 4.7,
+                    "probability": 0.9979596138000488
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

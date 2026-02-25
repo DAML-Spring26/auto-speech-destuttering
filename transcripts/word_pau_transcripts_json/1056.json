@@ -1,0 +1,96 @@
+{
+    "text": " I'm afraid we don't offer that service at this location.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.66,
+            "text": " I'm afraid we don't offer that service at this location.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                4638,
+                321,
+                500,
+                380,
+                2626,
+                300,
+                2643,
+                412,
+                341,
+                4914,
+                13,
+                50560
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.349213570356369,
+            "compression_ratio": 0.9032258064516129,
+            "no_speech_prob": 0.007886634208261967,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.9304008483886719
+                },
+                {
+                    "word": " afraid",
+                    "start": 0.2,
+                    "end": 0.5,
+                    "probability": 0.9944603443145752
+                },
+                {
+                    "word": " we",
+                    "start": 0.5,
+                    "end": 0.72,
+                    "probability": 0.963341474533081
+                },
+                {
+                    "word": " don't",
+                    "start": 0.72,
+                    "end": 0.92,
+                    "probability": 0.9900111556053162
+                },
+                {
+                    "word": " offer",
+                    "start": 0.92,
+                    "end": 1.18,
+                    "probability": 0.998619794845581
+                },
+                {
+                    "word": " that",
+                    "start": 1.18,
+                    "end": 1.38,
+                    "probability": 0.5897924304008484
+                },
+                {
+                    "word": " service",
+                    "start": 1.38,
+                    "end": 1.7,
+                    "probability": 0.7989048361778259
+                },
+                {
+                    "word": " at",
+                    "start": 1.7,
+                    "end": 1.88,
+                    "probability": 0.290994256734848
+                },
+                {
+                    "word": " this",
+                    "start": 1.88,
+                    "end": 3.06,
+                    "probability": 0.6450554132461548
+                },
+                {
+                    "word": " location.",
+                    "start": 3.06,
+                    "end": 3.66,
+                    "probability": 0.9928666353225708
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

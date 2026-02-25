@@ -1,0 +1,87 @@
+{
+    "text": " The artist creating a masterpiece for the upcoming exhibition.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.92,
+            "text": " The artist creating a masterpiece for the upcoming exhibition.",
+            "tokens": [
+                50364,
+                440,
+                5748,
+                4084,
+                257,
+                32208,
+                337,
+                264,
+                11500,
+                14414,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32523470658522385,
+            "compression_ratio": 0.9538461538461539,
+            "no_speech_prob": 0.004517729859799147,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6819015741348267
+                },
+                {
+                    "word": " artist",
+                    "start": 0.12,
+                    "end": 0.4,
+                    "probability": 0.9840291142463684
+                },
+                {
+                    "word": " creating",
+                    "start": 0.4,
+                    "end": 0.86,
+                    "probability": 0.7542570233345032
+                },
+                {
+                    "word": " a",
+                    "start": 0.86,
+                    "end": 1.0,
+                    "probability": 0.9974028468132019
+                },
+                {
+                    "word": " masterpiece",
+                    "start": 1.0,
+                    "end": 1.38,
+                    "probability": 0.9971756935119629
+                },
+                {
+                    "word": " for",
+                    "start": 1.38,
+                    "end": 1.76,
+                    "probability": 0.9906260967254639
+                },
+                {
+                    "word": " the",
+                    "start": 1.76,
+                    "end": 1.92,
+                    "probability": 0.9925293326377869
+                },
+                {
+                    "word": " upcoming",
+                    "start": 1.92,
+                    "end": 2.28,
+                    "probability": 0.9229807257652283
+                },
+                {
+                    "word": " exhibition.",
+                    "start": 2.28,
+                    "end": 2.92,
+                    "probability": 0.9973878264427185
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

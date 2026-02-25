@@ -1,0 +1,115 @@
+{
+    "text": " She asked him whether he finished a report that was due yesterday afternoon.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.38,
+            "text": " She asked him whether he finished a report that was due yesterday afternoon.",
+            "tokens": [
+                50364,
+                1240,
+                2351,
+                796,
+                1968,
+                415,
+                4335,
+                257,
+                2275,
+                300,
+                390,
+                3462,
+                5186,
+                6499,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30859986473532286,
+            "compression_ratio": 1.0555555555555556,
+            "no_speech_prob": 0.0035213432274758816,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.6614169478416443
+                },
+                {
+                    "word": " asked",
+                    "start": 0.24,
+                    "end": 0.5,
+                    "probability": 0.9918318390846252
+                },
+                {
+                    "word": " him",
+                    "start": 0.5,
+                    "end": 0.7,
+                    "probability": 0.7791880369186401
+                },
+                {
+                    "word": " whether",
+                    "start": 0.7,
+                    "end": 0.9,
+                    "probability": 0.9946810603141785
+                },
+                {
+                    "word": " he",
+                    "start": 0.9,
+                    "end": 1.04,
+                    "probability": 0.9976323843002319
+                },
+                {
+                    "word": " finished",
+                    "start": 1.04,
+                    "end": 1.32,
+                    "probability": 0.9901238083839417
+                },
+                {
+                    "word": " a",
+                    "start": 1.32,
+                    "end": 1.52,
+                    "probability": 0.8832403421401978
+                },
+                {
+                    "word": " report",
+                    "start": 1.52,
+                    "end": 1.8,
+                    "probability": 0.9955196380615234
+                },
+                {
+                    "word": " that",
+                    "start": 1.8,
+                    "end": 2.0,
+                    "probability": 0.9885708689689636
+                },
+                {
+                    "word": " was",
+                    "start": 2.0,
+                    "end": 2.14,
+                    "probability": 0.9988144636154175
+                },
+                {
+                    "word": " due",
+                    "start": 2.14,
+                    "end": 2.36,
+                    "probability": 0.9756115078926086
+                },
+                {
+                    "word": " yesterday",
+                    "start": 2.36,
+                    "end": 2.78,
+                    "probability": 0.9949693083763123
+                },
+                {
+                    "word": " afternoon.",
+                    "start": 2.78,
+                    "end": 3.38,
+                    "probability": 0.9834817051887512
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

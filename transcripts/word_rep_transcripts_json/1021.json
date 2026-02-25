@@ -1,0 +1,67 @@
+{
+    "text": " your flight departs out at noon.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.98,
+            "text": " your flight departs out at noon.",
+            "tokens": [
+                50364,
+                428,
+                7018,
+                9110,
+                82,
+                484,
+                412,
+                24040,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4762449264526367,
+            "compression_ratio": 0.8,
+            "no_speech_prob": 0.006900413893163204,
+            "words": [
+                {
+                    "word": " your",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.47545692324638367
+                },
+                {
+                    "word": " flight",
+                    "start": 0.12,
+                    "end": 0.44,
+                    "probability": 0.9867520332336426
+                },
+                {
+                    "word": " departs",
+                    "start": 0.44,
+                    "end": 1.16,
+                    "probability": 0.7707196772098541
+                },
+                {
+                    "word": " out",
+                    "start": 1.16,
+                    "end": 1.42,
+                    "probability": 0.4968883991241455
+                },
+                {
+                    "word": " at",
+                    "start": 1.42,
+                    "end": 1.64,
+                    "probability": 0.9560105204582214
+                },
+                {
+                    "word": " noon.",
+                    "start": 1.64,
+                    "end": 1.98,
+                    "probability": 0.9978727102279663
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

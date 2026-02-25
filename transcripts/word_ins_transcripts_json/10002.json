@@ -1,0 +1,102 @@
+{
+    "text": " Do you want to know, go for a hike this weekend?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.7,
+            "text": " Do you want to know, go for a hike this weekend?",
+            "tokens": [
+                50364,
+                1144,
+                291,
+                528,
+                281,
+                458,
+                11,
+                352,
+                337,
+                257,
+                23282,
+                341,
+                6711,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30658483505249023,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.01983797177672386,
+            "words": [
+                {
+                    "word": " Do",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.924907922744751
+                },
+                {
+                    "word": " you",
+                    "start": 0.44,
+                    "end": 0.58,
+                    "probability": 0.9924845099449158
+                },
+                {
+                    "word": " want",
+                    "start": 0.58,
+                    "end": 0.68,
+                    "probability": 0.9961925745010376
+                },
+                {
+                    "word": " to",
+                    "start": 0.68,
+                    "end": 0.86,
+                    "probability": 0.744034469127655
+                },
+                {
+                    "word": " know,",
+                    "start": 0.86,
+                    "end": 1.1,
+                    "probability": 0.939422070980072
+                },
+                {
+                    "word": " go",
+                    "start": 1.48,
+                    "end": 1.62,
+                    "probability": 0.728373110294342
+                },
+                {
+                    "word": " for",
+                    "start": 1.62,
+                    "end": 1.82,
+                    "probability": 0.9962509274482727
+                },
+                {
+                    "word": " a",
+                    "start": 1.82,
+                    "end": 1.92,
+                    "probability": 0.9938522577285767
+                },
+                {
+                    "word": " hike",
+                    "start": 1.92,
+                    "end": 2.14,
+                    "probability": 0.9988695979118347
+                },
+                {
+                    "word": " this",
+                    "start": 2.14,
+                    "end": 2.42,
+                    "probability": 0.9946669340133667
+                },
+                {
+                    "word": " weekend?",
+                    "start": 2.42,
+                    "end": 2.7,
+                    "probability": 0.9969107508659363
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

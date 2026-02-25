@@ -1,0 +1,130 @@
+{
+    "text": " I'm not sure whether I should take bus or walk to the office tomorrow morning.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.04,
+            "text": " I'm not sure whether I should take bus or walk to the office tomorrow morning.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                406,
+                988,
+                1968,
+                286,
+                820,
+                747,
+                1255,
+                420,
+                1792,
+                281,
+                264,
+                3398,
+                4153,
+                2446,
+                13,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23380000591278077,
+            "compression_ratio": 1.0263157894736843,
+            "no_speech_prob": 0.004418309777975082,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.9358718991279602
+                },
+                {
+                    "word": " not",
+                    "start": 0.22,
+                    "end": 0.28,
+                    "probability": 0.9973278045654297
+                },
+                {
+                    "word": " sure",
+                    "start": 0.28,
+                    "end": 0.5,
+                    "probability": 0.9986012578010559
+                },
+                {
+                    "word": " whether",
+                    "start": 0.5,
+                    "end": 0.84,
+                    "probability": 0.9744893312454224
+                },
+                {
+                    "word": " I",
+                    "start": 0.84,
+                    "end": 0.98,
+                    "probability": 0.9767111539840698
+                },
+                {
+                    "word": " should",
+                    "start": 0.98,
+                    "end": 1.1,
+                    "probability": 0.9976533055305481
+                },
+                {
+                    "word": " take",
+                    "start": 1.1,
+                    "end": 1.32,
+                    "probability": 0.995546817779541
+                },
+                {
+                    "word": " bus",
+                    "start": 1.32,
+                    "end": 1.46,
+                    "probability": 0.38716939091682434
+                },
+                {
+                    "word": " or",
+                    "start": 1.46,
+                    "end": 1.6,
+                    "probability": 0.9753667116165161
+                },
+                {
+                    "word": " walk",
+                    "start": 1.6,
+                    "end": 1.82,
+                    "probability": 0.997837483882904
+                },
+                {
+                    "word": " to",
+                    "start": 1.82,
+                    "end": 2.04,
+                    "probability": 0.9877452254295349
+                },
+                {
+                    "word": " the",
+                    "start": 2.04,
+                    "end": 2.14,
+                    "probability": 0.9385583996772766
+                },
+                {
+                    "word": " office",
+                    "start": 2.14,
+                    "end": 2.4,
+                    "probability": 0.9938545227050781
+                },
+                {
+                    "word": " tomorrow",
+                    "start": 2.4,
+                    "end": 2.66,
+                    "probability": 0.982003390789032
+                },
+                {
+                    "word": " morning.",
+                    "start": 2.66,
+                    "end": 3.04,
+                    "probability": 0.9964543581008911
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

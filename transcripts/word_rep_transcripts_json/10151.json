@@ -1,0 +1,156 @@
+{
+    "text": " The new safety regulations which aim to reduce workplace accidents will be enforced. Enforced next month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.74,
+            "text": " The new safety regulations which aim to reduce workplace accidents will be enforced.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                4514,
+                12563,
+                597,
+                5939,
+                281,
+                5407,
+                15328,
+                23875,
+                486,
+                312,
+                40953,
+                13,
+                50645
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40066158294677734,
+            "compression_ratio": 1.1170212765957446,
+            "no_speech_prob": 0.003644871059805155,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8023536205291748
+                },
+                {
+                    "word": " new",
+                    "start": 0.12,
+                    "end": 0.32,
+                    "probability": 0.884246826171875
+                },
+                {
+                    "word": " safety",
+                    "start": 0.32,
+                    "end": 0.76,
+                    "probability": 0.8471726775169373
+                },
+                {
+                    "word": " regulations",
+                    "start": 0.76,
+                    "end": 1.42,
+                    "probability": 0.993299126625061
+                },
+                {
+                    "word": " which",
+                    "start": 1.42,
+                    "end": 1.94,
+                    "probability": 0.5358325242996216
+                },
+                {
+                    "word": " aim",
+                    "start": 1.94,
+                    "end": 2.18,
+                    "probability": 0.9740204811096191
+                },
+                {
+                    "word": " to",
+                    "start": 2.18,
+                    "end": 2.32,
+                    "probability": 0.9977719187736511
+                },
+                {
+                    "word": " reduce",
+                    "start": 2.32,
+                    "end": 2.66,
+                    "probability": 0.9947827458381653
+                },
+                {
+                    "word": " workplace",
+                    "start": 2.66,
+                    "end": 3.12,
+                    "probability": 0.874056875705719
+                },
+                {
+                    "word": " accidents",
+                    "start": 3.12,
+                    "end": 3.68,
+                    "probability": 0.9815750122070312
+                },
+                {
+                    "word": " will",
+                    "start": 3.68,
+                    "end": 4.0,
+                    "probability": 0.9682428240776062
+                },
+                {
+                    "word": " be",
+                    "start": 4.0,
+                    "end": 4.2,
+                    "probability": 0.9947787523269653
+                },
+                {
+                    "word": " enforced.",
+                    "start": 4.2,
+                    "end": 4.74,
+                    "probability": 0.986332356929779
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.4,
+            "end": 6.46,
+            "text": " Enforced next month.",
+            "tokens": [
+                50645,
+                2193,
+                2994,
+                1232,
+                958,
+                1618,
+                13,
+                50695
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40066158294677734,
+            "compression_ratio": 1.1170212765957446,
+            "no_speech_prob": 0.003644871059805155,
+            "words": [
+                {
+                    "word": " Enforced",
+                    "start": 5.4,
+                    "end": 6.06,
+                    "probability": 0.6594449381033579
+                },
+                {
+                    "word": " next",
+                    "start": 6.06,
+                    "end": 6.26,
+                    "probability": 0.9733977913856506
+                },
+                {
+                    "word": " month.",
+                    "start": 6.26,
+                    "end": 6.46,
+                    "probability": 0.9868780970573425
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

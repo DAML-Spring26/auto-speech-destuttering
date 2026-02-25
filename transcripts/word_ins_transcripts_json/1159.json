@@ -1,0 +1,80 @@
+{
+    "text": " Have you finished the quarterly financial report with?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.7200000000000002,
+            "end": 3.78,
+            "text": " Have you finished the quarterly financial report with?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                4335,
+                264,
+                38633,
+                4669,
+                2275,
+                365,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3912525177001953,
+            "compression_ratio": 0.9,
+            "no_speech_prob": 0.10696069896221161,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.7200000000000002,
+                    "end": 1.44,
+                    "probability": 0.8321701288223267
+                },
+                {
+                    "word": " you",
+                    "start": 1.44,
+                    "end": 1.6,
+                    "probability": 0.9973276853561401
+                },
+                {
+                    "word": " finished",
+                    "start": 1.6,
+                    "end": 1.96,
+                    "probability": 0.9890643954277039
+                },
+                {
+                    "word": " the",
+                    "start": 1.96,
+                    "end": 2.16,
+                    "probability": 0.98663330078125
+                },
+                {
+                    "word": " quarterly",
+                    "start": 2.16,
+                    "end": 2.52,
+                    "probability": 0.7966499924659729
+                },
+                {
+                    "word": " financial",
+                    "start": 2.52,
+                    "end": 3.04,
+                    "probability": 0.9634941816329956
+                },
+                {
+                    "word": " report",
+                    "start": 3.04,
+                    "end": 3.42,
+                    "probability": 0.9971266388893127
+                },
+                {
+                    "word": " with?",
+                    "start": 3.42,
+                    "end": 3.78,
+                    "probability": 0.9675676226615906
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

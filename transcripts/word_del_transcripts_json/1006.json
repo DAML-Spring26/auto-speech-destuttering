@@ -1,0 +1,115 @@
+{
+    "text": " The company is offering referral bonus to employees who recommend successful job candidates.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.46,
+            "text": " The company is offering referral bonus to employees who recommend successful job candidates.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                307,
+                8745,
+                33494,
+                10882,
+                281,
+                6619,
+                567,
+                2748,
+                4406,
+                1691,
+                11255,
+                13,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23227298960966222,
+            "compression_ratio": 1.0952380952380953,
+            "no_speech_prob": 0.0035646057222038507,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.9040966033935547
+                },
+                {
+                    "word": " company",
+                    "start": 0.1,
+                    "end": 0.42,
+                    "probability": 0.983488142490387
+                },
+                {
+                    "word": " is",
+                    "start": 0.42,
+                    "end": 0.66,
+                    "probability": 0.9945525527000427
+                },
+                {
+                    "word": " offering",
+                    "start": 0.66,
+                    "end": 0.98,
+                    "probability": 0.997414231300354
+                },
+                {
+                    "word": " referral",
+                    "start": 0.98,
+                    "end": 1.3,
+                    "probability": 0.722887396812439
+                },
+                {
+                    "word": " bonus",
+                    "start": 1.3,
+                    "end": 1.66,
+                    "probability": 0.9780510663986206
+                },
+                {
+                    "word": " to",
+                    "start": 1.66,
+                    "end": 1.88,
+                    "probability": 0.9818170070648193
+                },
+                {
+                    "word": " employees",
+                    "start": 1.88,
+                    "end": 2.3,
+                    "probability": 0.9765917658805847
+                },
+                {
+                    "word": " who",
+                    "start": 2.3,
+                    "end": 2.54,
+                    "probability": 0.9962663054466248
+                },
+                {
+                    "word": " recommend",
+                    "start": 2.54,
+                    "end": 2.92,
+                    "probability": 0.9720292091369629
+                },
+                {
+                    "word": " successful",
+                    "start": 2.92,
+                    "end": 3.58,
+                    "probability": 0.6447708606719971
+                },
+                {
+                    "word": " job",
+                    "start": 3.58,
+                    "end": 3.92,
+                    "probability": 0.9677813649177551
+                },
+                {
+                    "word": " candidates.",
+                    "start": 3.92,
+                    "end": 4.46,
+                    "probability": 0.9965852499008179
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

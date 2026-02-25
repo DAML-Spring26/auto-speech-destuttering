@@ -1,0 +1,66 @@
+{
+    "text": " What time does our flight depart?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.96,
+            "text": " What time does our flight depart?",
+            "tokens": [
+                50364,
+                708,
+                565,
+                775,
+                527,
+                7018,
+                9110,
+                30,
+                50539
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4616436004638672,
+            "compression_ratio": 0.8048780487804879,
+            "no_speech_prob": 0.02967107854783535,
+            "words": [
+                {
+                    "word": " What",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.7962120771408081
+                },
+                {
+                    "word": " time",
+                    "start": 0.2,
+                    "end": 0.56,
+                    "probability": 0.9609476923942566
+                },
+                {
+                    "word": " does",
+                    "start": 0.56,
+                    "end": 0.84,
+                    "probability": 0.9796329736709595
+                },
+                {
+                    "word": " our",
+                    "start": 0.84,
+                    "end": 1.18,
+                    "probability": 0.8455737233161926
+                },
+                {
+                    "word": " flight",
+                    "start": 1.18,
+                    "end": 2.46,
+                    "probability": 0.9025245904922485
+                },
+                {
+                    "word": " depart?",
+                    "start": 2.46,
+                    "end": 2.96,
+                    "probability": 0.9875659346580505
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

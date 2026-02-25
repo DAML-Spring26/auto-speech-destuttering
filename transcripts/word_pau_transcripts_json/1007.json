@@ -1,0 +1,99 @@
+{
+    "text": " The professor's lecture on... Quantum mechanics was fascinating.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " The professor's lecture on...",
+            "tokens": [
+                50364,
+                440,
+                8304,
+                311,
+                7991,
+                322,
+                485,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7289284467697144,
+            "compression_ratio": 0.9411764705882353,
+            "no_speech_prob": 0.0055888923816382885,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7766891717910767
+                },
+                {
+                    "word": " professor's",
+                    "start": 0.12,
+                    "end": 0.76,
+                    "probability": 0.7254497408866882
+                },
+                {
+                    "word": " lecture",
+                    "start": 0.76,
+                    "end": 1.1,
+                    "probability": 0.8915762901306152
+                },
+                {
+                    "word": " on...",
+                    "start": 1.1,
+                    "end": 2.0,
+                    "probability": 0.5571615248918533
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.84,
+            "end": 6.68,
+            "text": " Quantum mechanics was fascinating.",
+            "tokens": [
+                50606,
+                44964,
+                12939,
+                390,
+                10343,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7289284467697144,
+            "compression_ratio": 0.9411764705882353,
+            "no_speech_prob": 0.0055888923816382885,
+            "words": [
+                {
+                    "word": " Quantum",
+                    "start": 4.619999999999999,
+                    "end": 5.18,
+                    "probability": 0.7080752849578857
+                },
+                {
+                    "word": " mechanics",
+                    "start": 5.18,
+                    "end": 5.74,
+                    "probability": 0.8511888980865479
+                },
+                {
+                    "word": " was",
+                    "start": 5.74,
+                    "end": 6.06,
+                    "probability": 0.9913650751113892
+                },
+                {
+                    "word": " fascinating.",
+                    "start": 6.06,
+                    "end": 6.68,
+                    "probability": 0.9931716918945312
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

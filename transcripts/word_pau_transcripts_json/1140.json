@@ -1,0 +1,87 @@
+{
+    "text": " The new marketing strategy aims to increase brand awareness.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.56,
+            "text": " The new marketing strategy aims to increase brand awareness.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                6370,
+                5206,
+                24683,
+                281,
+                3488,
+                3360,
+                8888,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27517197682307315,
+            "compression_ratio": 0.967741935483871,
+            "no_speech_prob": 0.0019356575794517994,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7566881775856018
+                },
+                {
+                    "word": " new",
+                    "start": 0.16,
+                    "end": 0.36,
+                    "probability": 0.9026957154273987
+                },
+                {
+                    "word": " marketing",
+                    "start": 0.36,
+                    "end": 0.78,
+                    "probability": 0.805961549282074
+                },
+                {
+                    "word": " strategy",
+                    "start": 0.78,
+                    "end": 1.52,
+                    "probability": 0.9881788492202759
+                },
+                {
+                    "word": " aims",
+                    "start": 1.52,
+                    "end": 1.88,
+                    "probability": 0.9912607073783875
+                },
+                {
+                    "word": " to",
+                    "start": 1.88,
+                    "end": 2.34,
+                    "probability": 0.9921696782112122
+                },
+                {
+                    "word": " increase",
+                    "start": 2.34,
+                    "end": 5.76,
+                    "probability": 0.7029686570167542
+                },
+                {
+                    "word": " brand",
+                    "start": 5.76,
+                    "end": 6.14,
+                    "probability": 0.9690154790878296
+                },
+                {
+                    "word": " awareness.",
+                    "start": 6.14,
+                    "end": 6.56,
+                    "probability": 0.9970186948776245
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

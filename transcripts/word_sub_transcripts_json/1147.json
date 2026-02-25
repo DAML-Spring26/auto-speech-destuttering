@@ -1,0 +1,59 @@
+{
+    "text": " they supposed a new solution.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.02,
+            "text": " they supposed a new solution.",
+            "tokens": [
+                50364,
+                436,
+                3442,
+                257,
+                777,
+                3827,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5905129644605849,
+            "compression_ratio": 0.7837837837837838,
+            "no_speech_prob": 0.005801525432616472,
+            "words": [
+                {
+                    "word": " they",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.5114566683769226
+                },
+                {
+                    "word": " supposed",
+                    "start": 0.2,
+                    "end": 0.8,
+                    "probability": 0.3704547882080078
+                },
+                {
+                    "word": " a",
+                    "start": 0.8,
+                    "end": 1.18,
+                    "probability": 0.980995237827301
+                },
+                {
+                    "word": " new",
+                    "start": 1.18,
+                    "end": 1.42,
+                    "probability": 0.9855493903160095
+                },
+                {
+                    "word": " solution.",
+                    "start": 1.42,
+                    "end": 2.02,
+                    "probability": 0.9976098537445068
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

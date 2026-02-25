@@ -1,0 +1,87 @@
+{
+    "text": " Did the CEO announce a new strategic partnership yesterday?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.08,
+            "text": " Did the CEO announce a new strategic partnership yesterday?",
+            "tokens": [
+                50364,
+                2589,
+                264,
+                9282,
+                7478,
+                257,
+                777,
+                10924,
+                9982,
+                5186,
+                30,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38486304649939906,
+            "compression_ratio": 0.921875,
+            "no_speech_prob": 0.028117187321186066,
+            "words": [
+                {
+                    "word": " Did",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.352379709482193
+                },
+                {
+                    "word": " the",
+                    "start": 0.14,
+                    "end": 0.3,
+                    "probability": 0.9770352840423584
+                },
+                {
+                    "word": " CEO",
+                    "start": 0.3,
+                    "end": 0.64,
+                    "probability": 0.9276724457740784
+                },
+                {
+                    "word": " announce",
+                    "start": 0.64,
+                    "end": 1.04,
+                    "probability": 0.7594687342643738
+                },
+                {
+                    "word": " a",
+                    "start": 1.04,
+                    "end": 1.3,
+                    "probability": 0.8651215434074402
+                },
+                {
+                    "word": " new",
+                    "start": 1.3,
+                    "end": 1.44,
+                    "probability": 0.9432641863822937
+                },
+                {
+                    "word": " strategic",
+                    "start": 1.44,
+                    "end": 1.96,
+                    "probability": 0.8839787840843201
+                },
+                {
+                    "word": " partnership",
+                    "start": 1.96,
+                    "end": 2.46,
+                    "probability": 0.9969697594642639
+                },
+                {
+                    "word": " yesterday?",
+                    "start": 2.46,
+                    "end": 3.08,
+                    "probability": 0.9932195544242859
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,88 @@
+{
+    "text": " We should review the budgetum before making any decisions.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.74,
+            "text": " We should review the budgetum before making any decisions.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                3131,
+                264,
+                4706,
+                449,
+                949,
+                1455,
+                604,
+                5327,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32000395229884554,
+            "compression_ratio": 0.9206349206349206,
+            "no_speech_prob": 0.009286233223974705,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.48,
+                    "probability": 0.8460412621498108
+                },
+                {
+                    "word": " should",
+                    "start": 0.48,
+                    "end": 0.66,
+                    "probability": 0.9960934519767761
+                },
+                {
+                    "word": " review",
+                    "start": 0.66,
+                    "end": 0.98,
+                    "probability": 0.985365092754364
+                },
+                {
+                    "word": " the",
+                    "start": 0.98,
+                    "end": 1.22,
+                    "probability": 0.9906031489372253
+                },
+                {
+                    "word": " budgetum",
+                    "start": 1.22,
+                    "end": 1.78,
+                    "probability": 0.6474993526935577
+                },
+                {
+                    "word": " before",
+                    "start": 1.78,
+                    "end": 2.46,
+                    "probability": 0.908282458782196
+                },
+                {
+                    "word": " making",
+                    "start": 2.46,
+                    "end": 2.94,
+                    "probability": 0.9966670870780945
+                },
+                {
+                    "word": " any",
+                    "start": 2.94,
+                    "end": 3.26,
+                    "probability": 0.9973462820053101
+                },
+                {
+                    "word": " decisions.",
+                    "start": 3.26,
+                    "end": 3.74,
+                    "probability": 0.9768398404121399
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

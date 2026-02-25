@@ -1,0 +1,103 @@
+{
+    "text": " Can you explain the side effects, you know, of this treatment?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.8,
+            "text": " Can you explain the side effects, you know, of this treatment?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                2903,
+                264,
+                1252,
+                5065,
+                11,
+                291,
+                458,
+                11,
+                295,
+                341,
+                5032,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32880210876464844,
+            "compression_ratio": 0.9538461538461539,
+            "no_speech_prob": 0.10694028437137604,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.94,
+                    "probability": 0.3977901041507721
+                },
+                {
+                    "word": " you",
+                    "start": 0.94,
+                    "end": 1.08,
+                    "probability": 0.9870589971542358
+                },
+                {
+                    "word": " explain",
+                    "start": 1.08,
+                    "end": 1.42,
+                    "probability": 0.9959497451782227
+                },
+                {
+                    "word": " the",
+                    "start": 1.42,
+                    "end": 1.62,
+                    "probability": 0.9711307287216187
+                },
+                {
+                    "word": " side",
+                    "start": 1.62,
+                    "end": 1.86,
+                    "probability": 0.992302417755127
+                },
+                {
+                    "word": " effects,",
+                    "start": 1.86,
+                    "end": 2.2,
+                    "probability": 0.985665500164032
+                },
+                {
+                    "word": " you",
+                    "start": 2.78,
+                    "end": 2.9,
+                    "probability": 0.9687476754188538
+                },
+                {
+                    "word": " know,",
+                    "start": 2.9,
+                    "end": 3.02,
+                    "probability": 0.9968886971473694
+                },
+                {
+                    "word": " of",
+                    "start": 3.22,
+                    "end": 3.22,
+                    "probability": 0.9928317070007324
+                },
+                {
+                    "word": " this",
+                    "start": 3.22,
+                    "end": 3.4,
+                    "probability": 0.9966208934783936
+                },
+                {
+                    "word": " treatment?",
+                    "start": 3.4,
+                    "end": 3.8,
+                    "probability": 0.9910927414894104
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

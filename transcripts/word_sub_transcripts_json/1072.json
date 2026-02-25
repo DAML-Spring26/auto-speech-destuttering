@@ -1,0 +1,73 @@
+{
+    "text": " they will contact the survey next month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.1,
+            "text": " they will contact the survey next month.",
+            "tokens": [
+                50364,
+                436,
+                486,
+                3385,
+                264,
+                8984,
+                958,
+                1618,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40853261947631836,
+            "compression_ratio": 0.8888888888888888,
+            "no_speech_prob": 0.007843732833862305,
+            "words": [
+                {
+                    "word": " they",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5164284706115723
+                },
+                {
+                    "word": " will",
+                    "start": 0.12,
+                    "end": 0.22,
+                    "probability": 0.9792873859405518
+                },
+                {
+                    "word": " contact",
+                    "start": 0.22,
+                    "end": 0.72,
+                    "probability": 0.996292233467102
+                },
+                {
+                    "word": " the",
+                    "start": 0.72,
+                    "end": 1.08,
+                    "probability": 0.9367601275444031
+                },
+                {
+                    "word": " survey",
+                    "start": 1.08,
+                    "end": 1.52,
+                    "probability": 0.6820651888847351
+                },
+                {
+                    "word": " next",
+                    "start": 1.52,
+                    "end": 1.82,
+                    "probability": 0.9932171702384949
+                },
+                {
+                    "word": " month.",
+                    "start": 1.82,
+                    "end": 2.1,
+                    "probability": 0.9961771965026855
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

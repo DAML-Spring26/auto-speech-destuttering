@@ -1,0 +1,116 @@
+{
+    "text": " The company's new policy states all employees must attend a safety training session.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.36,
+            "text": " The company's new policy states all employees must attend a safety training session.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                777,
+                3897,
+                4368,
+                439,
+                6619,
+                1633,
+                6888,
+                257,
+                4514,
+                3097,
+                5481,
+                13,
+                50592
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19507123364342582,
+            "compression_ratio": 1.0769230769230769,
+            "no_speech_prob": 0.0034667220897972584,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.9063054919242859
+                },
+                {
+                    "word": " company's",
+                    "start": 0.14,
+                    "end": 0.66,
+                    "probability": 0.9872854948043823
+                },
+                {
+                    "word": " new",
+                    "start": 0.66,
+                    "end": 0.8,
+                    "probability": 0.9910616874694824
+                },
+                {
+                    "word": " policy",
+                    "start": 0.8,
+                    "end": 1.18,
+                    "probability": 0.9805865287780762
+                },
+                {
+                    "word": " states",
+                    "start": 1.18,
+                    "end": 1.58,
+                    "probability": 0.7848559617996216
+                },
+                {
+                    "word": " all",
+                    "start": 1.58,
+                    "end": 1.86,
+                    "probability": 0.8607054948806763
+                },
+                {
+                    "word": " employees",
+                    "start": 1.86,
+                    "end": 2.32,
+                    "probability": 0.9972374439239502
+                },
+                {
+                    "word": " must",
+                    "start": 2.32,
+                    "end": 2.58,
+                    "probability": 0.9936829805374146
+                },
+                {
+                    "word": " attend",
+                    "start": 2.58,
+                    "end": 3.0,
+                    "probability": 0.9968611001968384
+                },
+                {
+                    "word": " a",
+                    "start": 3.0,
+                    "end": 3.2,
+                    "probability": 0.9948831796646118
+                },
+                {
+                    "word": " safety",
+                    "start": 3.2,
+                    "end": 3.5,
+                    "probability": 0.8880220651626587
+                },
+                {
+                    "word": " training",
+                    "start": 3.5,
+                    "end": 3.92,
+                    "probability": 0.978421151638031
+                },
+                {
+                    "word": " session.",
+                    "start": 3.92,
+                    "end": 4.36,
+                    "probability": 0.9964492321014404
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

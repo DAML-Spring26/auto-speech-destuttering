@@ -1,0 +1,87 @@
+{
+    "text": " The new treatment shows promising results in clinical trials.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.12,
+            "text": " The new treatment shows promising results in clinical trials.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                5032,
+                3110,
+                20257,
+                3542,
+                294,
+                9115,
+                12450,
+                13,
+                50588
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3739083730257474,
+            "compression_ratio": 0.953125,
+            "no_speech_prob": 0.007291058544069529,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.739351749420166
+                },
+                {
+                    "word": " new",
+                    "start": 0.12,
+                    "end": 0.28,
+                    "probability": 0.8531193137168884
+                },
+                {
+                    "word": " treatment",
+                    "start": 0.28,
+                    "end": 0.6,
+                    "probability": 0.9488794803619385
+                },
+                {
+                    "word": " shows",
+                    "start": 0.6,
+                    "end": 1.16,
+                    "probability": 0.9736551642417908
+                },
+                {
+                    "word": " promising",
+                    "start": 1.16,
+                    "end": 2.5,
+                    "probability": 0.9726563096046448
+                },
+                {
+                    "word": " results",
+                    "start": 2.5,
+                    "end": 3.02,
+                    "probability": 0.9948692321777344
+                },
+                {
+                    "word": " in",
+                    "start": 3.02,
+                    "end": 3.28,
+                    "probability": 0.9945060610771179
+                },
+                {
+                    "word": " clinical",
+                    "start": 3.28,
+                    "end": 3.66,
+                    "probability": 0.9972737431526184
+                },
+                {
+                    "word": " trials.",
+                    "start": 3.66,
+                    "end": 4.12,
+                    "probability": 0.8571270108222961
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

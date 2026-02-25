@@ -1,0 +1,101 @@
+{
+    "text": " Our team has has been working on this project for months.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.18,
+            "text": " Our team has has been working on this project for months.",
+            "tokens": [
+                50364,
+                2621,
+                1469,
+                575,
+                575,
+                668,
+                1364,
+                322,
+                341,
+                1716,
+                337,
+                2493,
+                13,
+                50544
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.5828280131022135,
+            "compression_ratio": 0.9344262295081968,
+            "no_speech_prob": 0.0023220062721520662,
+            "words": [
+                {
+                    "word": " Our",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.020524505525827408
+                },
+                {
+                    "word": " team",
+                    "start": 0.18,
+                    "end": 0.46,
+                    "probability": 0.7129743099212646
+                },
+                {
+                    "word": " has",
+                    "start": 0.46,
+                    "end": 0.82,
+                    "probability": 0.7424567341804504
+                },
+                {
+                    "word": " has",
+                    "start": 0.82,
+                    "end": 1.14,
+                    "probability": 0.24867357313632965
+                },
+                {
+                    "word": " been",
+                    "start": 1.14,
+                    "end": 1.34,
+                    "probability": 0.9853901863098145
+                },
+                {
+                    "word": " working",
+                    "start": 1.34,
+                    "end": 1.66,
+                    "probability": 0.9825670123100281
+                },
+                {
+                    "word": " on",
+                    "start": 1.66,
+                    "end": 1.86,
+                    "probability": 0.9940575361251831
+                },
+                {
+                    "word": " this",
+                    "start": 1.86,
+                    "end": 2.04,
+                    "probability": 0.9863401651382446
+                },
+                {
+                    "word": " project",
+                    "start": 2.04,
+                    "end": 2.44,
+                    "probability": 0.9982755184173584
+                },
+                {
+                    "word": " for",
+                    "start": 2.44,
+                    "end": 2.76,
+                    "probability": 0.9893015027046204
+                },
+                {
+                    "word": " months.",
+                    "start": 2.76,
+                    "end": 3.18,
+                    "probability": 0.9953219294548035
+                }
+            ]
+        }
+    ],
+    "language": "cy"
+}

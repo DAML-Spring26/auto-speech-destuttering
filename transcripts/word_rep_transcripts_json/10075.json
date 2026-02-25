@@ -1,0 +1,108 @@
+{
+    "text": " The conference will feature keynote speakers from various fields of scientific research.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.56,
+            "text": " The conference will feature keynote speakers from various fields of scientific research.",
+            "tokens": [
+                50364,
+                440,
+                7586,
+                486,
+                4111,
+                33896,
+                9518,
+                490,
+                3683,
+                7909,
+                295,
+                8134,
+                2132,
+                13,
+                50608
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26198330521583557,
+            "compression_ratio": 1.1139240506329113,
+            "no_speech_prob": 0.009749257005751133,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8155905604362488
+                },
+                {
+                    "word": " conference",
+                    "start": 0.12,
+                    "end": 0.54,
+                    "probability": 0.9745433330535889
+                },
+                {
+                    "word": " will",
+                    "start": 0.54,
+                    "end": 0.8,
+                    "probability": 0.9972687363624573
+                },
+                {
+                    "word": " feature",
+                    "start": 0.8,
+                    "end": 1.1,
+                    "probability": 0.9976951479911804
+                },
+                {
+                    "word": " keynote",
+                    "start": 1.1,
+                    "end": 1.52,
+                    "probability": 0.7731988430023193
+                },
+                {
+                    "word": " speakers",
+                    "start": 1.52,
+                    "end": 2.02,
+                    "probability": 0.9972593784332275
+                },
+                {
+                    "word": " from",
+                    "start": 2.02,
+                    "end": 2.28,
+                    "probability": 0.9937437176704407
+                },
+                {
+                    "word": " various",
+                    "start": 2.28,
+                    "end": 2.66,
+                    "probability": 0.99524986743927
+                },
+                {
+                    "word": " fields",
+                    "start": 2.66,
+                    "end": 3.0,
+                    "probability": 0.9337185621261597
+                },
+                {
+                    "word": " of",
+                    "start": 3.0,
+                    "end": 3.24,
+                    "probability": 0.9962946772575378
+                },
+                {
+                    "word": " scientific",
+                    "start": 3.24,
+                    "end": 3.84,
+                    "probability": 0.8109568953514099
+                },
+                {
+                    "word": " research.",
+                    "start": 3.84,
+                    "end": 4.56,
+                    "probability": 0.999046266078949
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

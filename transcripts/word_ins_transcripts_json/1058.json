@@ -1,0 +1,82 @@
+{
+    "text": " I'd like to speak to a manager, please.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.98,
+            "text": " I'd like to speak to a manager, please.",
+            "tokens": [
+                50364,
+                286,
+                1116,
+                411,
+                281,
+                1710,
+                281,
+                257,
+                6598,
+                11,
+                1767,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26388183661869596,
+            "compression_ratio": 0.8863636363636364,
+            "no_speech_prob": 0.015634702518582344,
+            "words": [
+                {
+                    "word": " I'd",
+                    "start": 0.0,
+                    "end": 0.52,
+                    "probability": 0.9508631825447083
+                },
+                {
+                    "word": " like",
+                    "start": 0.52,
+                    "end": 0.6,
+                    "probability": 0.9977154731750488
+                },
+                {
+                    "word": " to",
+                    "start": 0.6,
+                    "end": 0.76,
+                    "probability": 0.9988425374031067
+                },
+                {
+                    "word": " speak",
+                    "start": 0.76,
+                    "end": 0.96,
+                    "probability": 0.9941944479942322
+                },
+                {
+                    "word": " to",
+                    "start": 0.96,
+                    "end": 1.12,
+                    "probability": 0.998434841632843
+                },
+                {
+                    "word": " a",
+                    "start": 1.12,
+                    "end": 1.2,
+                    "probability": 0.9936026930809021
+                },
+                {
+                    "word": " manager,",
+                    "start": 1.2,
+                    "end": 1.58,
+                    "probability": 0.9561148285865784
+                },
+                {
+                    "word": " please.",
+                    "start": 1.78,
+                    "end": 1.98,
+                    "probability": 0.9226901531219482
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

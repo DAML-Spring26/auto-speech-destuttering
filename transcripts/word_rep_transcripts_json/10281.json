@@ -1,0 +1,80 @@
+{
+    "text": " The latest software update should resolve this issue.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.6,
+            "text": " The latest software update should resolve this issue.",
+            "tokens": [
+                50364,
+                440,
+                6792,
+                4722,
+                5623,
+                820,
+                14151,
+                341,
+                2734,
+                13,
+                50550
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.276328166325887,
+            "compression_ratio": 0.8983050847457628,
+            "no_speech_prob": 0.006084927823394537,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7483453154563904
+                },
+                {
+                    "word": " latest",
+                    "start": 0.1,
+                    "end": 0.4,
+                    "probability": 0.9416533708572388
+                },
+                {
+                    "word": " software",
+                    "start": 0.4,
+                    "end": 0.96,
+                    "probability": 0.960608184337616
+                },
+                {
+                    "word": " update",
+                    "start": 0.96,
+                    "end": 1.38,
+                    "probability": 0.8700512051582336
+                },
+                {
+                    "word": " should",
+                    "start": 1.38,
+                    "end": 1.82,
+                    "probability": 0.8057519793510437
+                },
+                {
+                    "word": " resolve",
+                    "start": 1.82,
+                    "end": 2.9,
+                    "probability": 0.9865266680717468
+                },
+                {
+                    "word": " this",
+                    "start": 2.9,
+                    "end": 3.22,
+                    "probability": 0.9785127639770508
+                },
+                {
+                    "word": " issue.",
+                    "start": 3.22,
+                    "end": 3.6,
+                    "probability": 0.997302770614624
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

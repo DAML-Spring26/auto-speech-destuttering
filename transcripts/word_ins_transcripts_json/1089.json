@@ -1,0 +1,80 @@
+{
+    "text": " She quickly ran to catch really the bus.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.08,
+            "text": " She quickly ran to catch really the bus.",
+            "tokens": [
+                50364,
+                1240,
+                2661,
+                5872,
+                281,
+                3745,
+                534,
+                264,
+                1255,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3447912136713664,
+            "compression_ratio": 0.8888888888888888,
+            "no_speech_prob": 0.020191706717014313,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.68,
+                    "probability": 0.812226414680481
+                },
+                {
+                    "word": " quickly",
+                    "start": 0.68,
+                    "end": 1.1,
+                    "probability": 0.9967915415763855
+                },
+                {
+                    "word": " ran",
+                    "start": 1.1,
+                    "end": 1.42,
+                    "probability": 0.9949643611907959
+                },
+                {
+                    "word": " to",
+                    "start": 1.42,
+                    "end": 1.74,
+                    "probability": 0.9914734363555908
+                },
+                {
+                    "word": " catch",
+                    "start": 1.74,
+                    "end": 2.16,
+                    "probability": 0.9934671521186829
+                },
+                {
+                    "word": " really",
+                    "start": 2.16,
+                    "end": 2.62,
+                    "probability": 0.9761715531349182
+                },
+                {
+                    "word": " the",
+                    "start": 2.62,
+                    "end": 2.82,
+                    "probability": 0.9977701902389526
+                },
+                {
+                    "word": " bus.",
+                    "start": 2.82,
+                    "end": 3.08,
+                    "probability": 0.9906514883041382
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,66 @@
+{
+    "text": " we should consider all plausible outcomes.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.12,
+            "text": " we should consider all plausible outcomes.",
+            "tokens": [
+                50364,
+                321,
+                820,
+                1949,
+                439,
+                39925,
+                10070,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4524996757507324,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.005655689164996147,
+            "words": [
+                {
+                    "word": " we",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5488072037696838
+                },
+                {
+                    "word": " should",
+                    "start": 0.14,
+                    "end": 0.34,
+                    "probability": 0.9955765008926392
+                },
+                {
+                    "word": " consider",
+                    "start": 0.34,
+                    "end": 0.84,
+                    "probability": 0.994060218334198
+                },
+                {
+                    "word": " all",
+                    "start": 0.84,
+                    "end": 1.14,
+                    "probability": 0.9806217551231384
+                },
+                {
+                    "word": " plausible",
+                    "start": 1.14,
+                    "end": 1.42,
+                    "probability": 0.8218234777450562
+                },
+                {
+                    "word": " outcomes.",
+                    "start": 1.42,
+                    "end": 2.12,
+                    "probability": 0.9820111393928528
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

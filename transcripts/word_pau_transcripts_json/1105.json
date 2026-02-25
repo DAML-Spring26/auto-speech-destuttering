@@ -1,0 +1,87 @@
+{
+    "text": " The professor explained the concept of relativity and detail.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.18,
+            "text": " The professor explained the concept of relativity and detail.",
+            "tokens": [
+                50364,
+                440,
+                8304,
+                8825,
+                264,
+                3410,
+                295,
+                45675,
+                293,
+                2607,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41011476516723633,
+            "compression_ratio": 0.9384615384615385,
+            "no_speech_prob": 0.012380462139844894,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.892551064491272
+                },
+                {
+                    "word": " professor",
+                    "start": 0.08,
+                    "end": 0.32,
+                    "probability": 0.7989621758460999
+                },
+                {
+                    "word": " explained",
+                    "start": 0.32,
+                    "end": 0.94,
+                    "probability": 0.9604361653327942
+                },
+                {
+                    "word": " the",
+                    "start": 0.94,
+                    "end": 1.16,
+                    "probability": 0.9889848232269287
+                },
+                {
+                    "word": " concept",
+                    "start": 1.16,
+                    "end": 1.54,
+                    "probability": 0.987608790397644
+                },
+                {
+                    "word": " of",
+                    "start": 1.54,
+                    "end": 2.06,
+                    "probability": 0.9913233518600464
+                },
+                {
+                    "word": " relativity",
+                    "start": 2.06,
+                    "end": 5.24,
+                    "probability": 0.22320657968521118
+                },
+                {
+                    "word": " and",
+                    "start": 5.24,
+                    "end": 5.74,
+                    "probability": 0.7227831482887268
+                },
+                {
+                    "word": " detail.",
+                    "start": 5.74,
+                    "end": 6.18,
+                    "probability": 0.9889412522315979
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

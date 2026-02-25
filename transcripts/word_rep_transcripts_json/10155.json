@@ -1,0 +1,155 @@
+{
+    "text": " The new employee benefits package, which includes improved healthcare options, will be announced and announced soon.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.6,
+            "text": " The new employee benefits package, which includes improved healthcare options, will be announced",
+            "tokens": [
+                50364,
+                440,
+                777,
+                10738,
+                5311,
+                7372,
+                11,
+                597,
+                5974,
+                9689,
+                8884,
+                3956,
+                11,
+                486,
+                312,
+                7548,
+                50704
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3444133202234904,
+            "compression_ratio": 1.1958762886597938,
+            "no_speech_prob": 0.0035667906049638987,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7112788558006287
+                },
+                {
+                    "word": " new",
+                    "start": 0.14,
+                    "end": 0.32,
+                    "probability": 0.9012526273727417
+                },
+                {
+                    "word": " employee",
+                    "start": 0.32,
+                    "end": 0.86,
+                    "probability": 0.7461387515068054
+                },
+                {
+                    "word": " benefits",
+                    "start": 0.86,
+                    "end": 1.28,
+                    "probability": 0.9773812294006348
+                },
+                {
+                    "word": " package,",
+                    "start": 1.28,
+                    "end": 2.02,
+                    "probability": 0.9938463568687439
+                },
+                {
+                    "word": " which",
+                    "start": 2.4,
+                    "end": 2.74,
+                    "probability": 0.9969955682754517
+                },
+                {
+                    "word": " includes",
+                    "start": 2.74,
+                    "end": 3.2,
+                    "probability": 0.977332353591919
+                },
+                {
+                    "word": " improved",
+                    "start": 3.2,
+                    "end": 3.78,
+                    "probability": 0.9827278256416321
+                },
+                {
+                    "word": " healthcare",
+                    "start": 3.78,
+                    "end": 4.22,
+                    "probability": 0.723749577999115
+                },
+                {
+                    "word": " options,",
+                    "start": 4.22,
+                    "end": 5.08,
+                    "probability": 0.9842172861099243
+                },
+                {
+                    "word": " will",
+                    "start": 5.38,
+                    "end": 5.86,
+                    "probability": 0.9921397566795349
+                },
+                {
+                    "word": " be",
+                    "start": 5.86,
+                    "end": 6.04,
+                    "probability": 0.9955098628997803
+                },
+                {
+                    "word": " announced",
+                    "start": 6.04,
+                    "end": 6.6,
+                    "probability": 0.9983104467391968
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.6,
+            "end": 7.72,
+            "text": " and announced soon.",
+            "tokens": [
+                50704,
+                293,
+                7548,
+                2321,
+                13,
+                50756
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3444133202234904,
+            "compression_ratio": 1.1958762886597938,
+            "no_speech_prob": 0.0035667906049638987,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 6.6,
+                    "end": 7.04,
+                    "probability": 0.4702884256839752
+                },
+                {
+                    "word": " announced",
+                    "start": 7.04,
+                    "end": 7.34,
+                    "probability": 0.9003928303718567
+                },
+                {
+                    "word": " soon.",
+                    "start": 7.34,
+                    "end": 7.72,
+                    "probability": 0.9951659440994263
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

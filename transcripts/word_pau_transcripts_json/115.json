@@ -1,0 +1,80 @@
+{
+    "text": " the chain to London leaves in 15 minutes.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.14,
+            "text": " the chain to London leaves in 15 minutes.",
+            "tokens": [
+                50364,
+                264,
+                5021,
+                281,
+                7042,
+                5510,
+                294,
+                2119,
+                2077,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6383828719456991,
+            "compression_ratio": 0.8541666666666666,
+            "no_speech_prob": 0.01933562383055687,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5530279874801636
+                },
+                {
+                    "word": " chain",
+                    "start": 0.12,
+                    "end": 0.46,
+                    "probability": 0.9603020548820496
+                },
+                {
+                    "word": " to",
+                    "start": 0.46,
+                    "end": 3.66,
+                    "probability": 0.46245336532592773
+                },
+                {
+                    "word": " London",
+                    "start": 3.66,
+                    "end": 3.96,
+                    "probability": 0.5257271528244019
+                },
+                {
+                    "word": " leaves",
+                    "start": 3.96,
+                    "end": 4.2,
+                    "probability": 0.4324986934661865
+                },
+                {
+                    "word": " in",
+                    "start": 4.2,
+                    "end": 4.38,
+                    "probability": 0.9118271470069885
+                },
+                {
+                    "word": " 15",
+                    "start": 4.38,
+                    "end": 4.78,
+                    "probability": 0.7979373335838318
+                },
+                {
+                    "word": " minutes.",
+                    "start": 4.78,
+                    "end": 5.14,
+                    "probability": 0.9532809257507324
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

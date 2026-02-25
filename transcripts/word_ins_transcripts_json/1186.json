@@ -1,0 +1,94 @@
+{
+    "text": " The library has extended its hours during finals week A.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.22,
+            "text": " The library has extended its hours during finals week A.",
+            "tokens": [
+                50364,
+                440,
+                6405,
+                575,
+                10913,
+                1080,
+                2496,
+                1830,
+                25526,
+                1243,
+                316,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2903785024370466,
+            "compression_ratio": 0.8888888888888888,
+            "no_speech_prob": 0.0941329076886177,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.62,
+                    "probability": 0.8795108199119568
+                },
+                {
+                    "word": " library",
+                    "start": 0.62,
+                    "end": 1.2,
+                    "probability": 0.8982923626899719
+                },
+                {
+                    "word": " has",
+                    "start": 1.2,
+                    "end": 1.68,
+                    "probability": 0.9891631603240967
+                },
+                {
+                    "word": " extended",
+                    "start": 1.68,
+                    "end": 2.24,
+                    "probability": 0.9965130686759949
+                },
+                {
+                    "word": " its",
+                    "start": 2.24,
+                    "end": 2.52,
+                    "probability": 0.8847067356109619
+                },
+                {
+                    "word": " hours",
+                    "start": 2.52,
+                    "end": 2.92,
+                    "probability": 0.9843037724494934
+                },
+                {
+                    "word": " during",
+                    "start": 2.92,
+                    "end": 3.6,
+                    "probability": 0.949069082736969
+                },
+                {
+                    "word": " finals",
+                    "start": 3.6,
+                    "end": 4.18,
+                    "probability": 0.7090391516685486
+                },
+                {
+                    "word": " week",
+                    "start": 4.18,
+                    "end": 4.7,
+                    "probability": 0.7910136580467224
+                },
+                {
+                    "word": " A.",
+                    "start": 4.7,
+                    "end": 5.22,
+                    "probability": 0.8111827373504639
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

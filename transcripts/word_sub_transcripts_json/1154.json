@@ -1,0 +1,52 @@
+{
+    "text": " There resulted significant progress.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.12,
+            "text": " There resulted significant progress.",
+            "tokens": [
+                50364,
+                821,
+                18753,
+                4776,
+                4205,
+                13,
+                50494
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6552388072013855,
+            "compression_ratio": 0.8372093023255814,
+            "no_speech_prob": 0.009606542065739632,
+            "words": [
+                {
+                    "word": " There",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.2254900336265564
+                },
+                {
+                    "word": " resulted",
+                    "start": 0.16,
+                    "end": 0.66,
+                    "probability": 0.8306679129600525
+                },
+                {
+                    "word": " significant",
+                    "start": 0.66,
+                    "end": 1.38,
+                    "probability": 0.985916793346405
+                },
+                {
+                    "word": " progress.",
+                    "start": 1.38,
+                    "end": 2.12,
+                    "probability": 0.997928261756897
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

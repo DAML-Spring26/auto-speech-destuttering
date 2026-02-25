@@ -1,0 +1,59 @@
+{
+    "text": " the results flow positive trends.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.88,
+            "text": " the results flow positive trends.",
+            "tokens": [
+                50364,
+                264,
+                3542,
+                3095,
+                3353,
+                13892,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5634995566474067,
+            "compression_ratio": 0.8048780487804879,
+            "no_speech_prob": 0.020733177661895752,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.40808114409446716
+                },
+                {
+                    "word": " results",
+                    "start": 0.14,
+                    "end": 0.52,
+                    "probability": 0.6093223690986633
+                },
+                {
+                    "word": " flow",
+                    "start": 0.52,
+                    "end": 0.78,
+                    "probability": 0.8082695007324219
+                },
+                {
+                    "word": " positive",
+                    "start": 0.78,
+                    "end": 1.32,
+                    "probability": 0.6887733936309814
+                },
+                {
+                    "word": " trends.",
+                    "start": 1.32,
+                    "end": 1.88,
+                    "probability": 0.9774521589279175
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

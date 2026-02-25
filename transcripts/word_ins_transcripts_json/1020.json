@@ -1,0 +1,94 @@
+{
+    "text": " The new employee orientation will be held on Monday of.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.8000000000000003,
+            "end": 5.34,
+            "text": " The new employee orientation will be held on Monday of.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                10738,
+                14764,
+                486,
+                312,
+                5167,
+                322,
+                8138,
+                295,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32714738164629253,
+            "compression_ratio": 0.9016393442622951,
+            "no_speech_prob": 0.21662817895412445,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.8000000000000003,
+                    "end": 1.48,
+                    "probability": 0.8672129511833191
+                },
+                {
+                    "word": " new",
+                    "start": 1.48,
+                    "end": 1.7,
+                    "probability": 0.9730133414268494
+                },
+                {
+                    "word": " employee",
+                    "start": 1.7,
+                    "end": 2.18,
+                    "probability": 0.9484885334968567
+                },
+                {
+                    "word": " orientation",
+                    "start": 2.18,
+                    "end": 2.96,
+                    "probability": 0.9932760000228882
+                },
+                {
+                    "word": " will",
+                    "start": 2.96,
+                    "end": 3.92,
+                    "probability": 0.9820519089698792
+                },
+                {
+                    "word": " be",
+                    "start": 3.92,
+                    "end": 4.08,
+                    "probability": 0.9972397089004517
+                },
+                {
+                    "word": " held",
+                    "start": 4.08,
+                    "end": 4.46,
+                    "probability": 0.9961265921592712
+                },
+                {
+                    "word": " on",
+                    "start": 4.46,
+                    "end": 4.74,
+                    "probability": 0.9948670864105225
+                },
+                {
+                    "word": " Monday",
+                    "start": 4.74,
+                    "end": 5.08,
+                    "probability": 0.984875500202179
+                },
+                {
+                    "word": " of.",
+                    "start": 5.08,
+                    "end": 5.34,
+                    "probability": 0.929376482963562
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

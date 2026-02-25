@@ -1,0 +1,102 @@
+{
+    "text": " We need to review the budget before finalising the project plan.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.28,
+            "text": " We need to review the budget before finalising the project plan.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                3131,
+                264,
+                4706,
+                949,
+                2572,
+                3436,
+                264,
+                1716,
+                1393,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31052085757255554,
+            "compression_ratio": 0.9696969696969697,
+            "no_speech_prob": 0.0018803999992087483,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.7941827774047852
+                },
+                {
+                    "word": " need",
+                    "start": 0.18,
+                    "end": 0.34,
+                    "probability": 0.9961064457893372
+                },
+                {
+                    "word": " to",
+                    "start": 0.34,
+                    "end": 0.54,
+                    "probability": 0.9987045526504517
+                },
+                {
+                    "word": " review",
+                    "start": 0.54,
+                    "end": 0.88,
+                    "probability": 0.9727029800415039
+                },
+                {
+                    "word": " the",
+                    "start": 0.88,
+                    "end": 1.14,
+                    "probability": 0.9929237365722656
+                },
+                {
+                    "word": " budget",
+                    "start": 1.14,
+                    "end": 1.54,
+                    "probability": 0.7926591634750366
+                },
+                {
+                    "word": " before",
+                    "start": 1.54,
+                    "end": 2.12,
+                    "probability": 0.9817373752593994
+                },
+                {
+                    "word": " finalising",
+                    "start": 2.12,
+                    "end": 3.92,
+                    "probability": 0.6963478028774261
+                },
+                {
+                    "word": " the",
+                    "start": 3.92,
+                    "end": 4.14,
+                    "probability": 0.9852579236030579
+                },
+                {
+                    "word": " project",
+                    "start": 4.14,
+                    "end": 4.64,
+                    "probability": 0.8725506067276001
+                },
+                {
+                    "word": " plan.",
+                    "start": 4.64,
+                    "end": 5.28,
+                    "probability": 0.994606077671051
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

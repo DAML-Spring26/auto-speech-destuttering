@@ -1,0 +1,59 @@
+{
+    "text": " Please submit your report soon.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.3,
+            "text": " Please submit your report soon.",
+            "tokens": [
+                50364,
+                2555,
+                10315,
+                428,
+                2275,
+                2321,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.443766540951199,
+            "compression_ratio": 0.7948717948717948,
+            "no_speech_prob": 0.020273106172680855,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.686932384967804
+                },
+                {
+                    "word": " submit",
+                    "start": 0.26,
+                    "end": 0.62,
+                    "probability": 0.944706380367279
+                },
+                {
+                    "word": " your",
+                    "start": 0.62,
+                    "end": 0.92,
+                    "probability": 0.9777766466140747
+                },
+                {
+                    "word": " report",
+                    "start": 0.92,
+                    "end": 1.84,
+                    "probability": 0.7117833495140076
+                },
+                {
+                    "word": " soon.",
+                    "start": 1.84,
+                    "end": 2.3,
+                    "probability": 0.9908012747764587
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

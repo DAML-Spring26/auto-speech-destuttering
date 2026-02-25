@@ -1,0 +1,101 @@
+{
+    "text": " The new smartphone features a larger screen and improved battery life.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.76,
+            "text": " The new smartphone features a larger screen and improved battery life.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                13307,
+                4122,
+                257,
+                4833,
+                2568,
+                293,
+                9689,
+                5809,
+                993,
+                13,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31539786656697594,
+            "compression_ratio": 1.0294117647058822,
+            "no_speech_prob": 0.003482057712972164,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7297502756118774
+                },
+                {
+                    "word": " new",
+                    "start": 0.12,
+                    "end": 0.28,
+                    "probability": 0.8865928053855896
+                },
+                {
+                    "word": " smartphone",
+                    "start": 0.28,
+                    "end": 0.82,
+                    "probability": 0.9219801425933838
+                },
+                {
+                    "word": " features",
+                    "start": 0.82,
+                    "end": 1.42,
+                    "probability": 0.9825980067253113
+                },
+                {
+                    "word": " a",
+                    "start": 1.42,
+                    "end": 1.74,
+                    "probability": 0.6649621725082397
+                },
+                {
+                    "word": " larger",
+                    "start": 1.74,
+                    "end": 2.0,
+                    "probability": 0.8562219738960266
+                },
+                {
+                    "word": " screen",
+                    "start": 2.0,
+                    "end": 2.4,
+                    "probability": 0.9957661628723145
+                },
+                {
+                    "word": " and",
+                    "start": 2.4,
+                    "end": 2.56,
+                    "probability": 0.9345194101333618
+                },
+                {
+                    "word": " improved",
+                    "start": 2.56,
+                    "end": 3.22,
+                    "probability": 0.9915934801101685
+                },
+                {
+                    "word": " battery",
+                    "start": 3.22,
+                    "end": 4.14,
+                    "probability": 0.9608412384986877
+                },
+                {
+                    "word": " life.",
+                    "start": 4.14,
+                    "end": 4.76,
+                    "probability": 0.9985135197639465
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

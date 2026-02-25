@@ -1,0 +1,66 @@
+{
+    "text": " Students must complete their thesis prospect.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.44,
+            "text": " Students must complete their thesis prospect.",
+            "tokens": [
+                50364,
+                17244,
+                1633,
+                3566,
+                641,
+                22288,
+                15005,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35729882717132566,
+            "compression_ratio": 0.9,
+            "no_speech_prob": 0.005828514229506254,
+            "words": [
+                {
+                    "word": " Students",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.7671778202056885
+                },
+                {
+                    "word": " must",
+                    "start": 0.4,
+                    "end": 0.74,
+                    "probability": 0.9982179999351501
+                },
+                {
+                    "word": " complete",
+                    "start": 0.74,
+                    "end": 1.2,
+                    "probability": 0.9944896697998047
+                },
+                {
+                    "word": " their",
+                    "start": 1.2,
+                    "end": 1.42,
+                    "probability": 0.9950957298278809
+                },
+                {
+                    "word": " thesis",
+                    "start": 1.42,
+                    "end": 1.82,
+                    "probability": 0.9989205598831177
+                },
+                {
+                    "word": " prospect.",
+                    "start": 1.82,
+                    "end": 2.44,
+                    "probability": 0.9542598128318787
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

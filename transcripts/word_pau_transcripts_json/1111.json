@@ -1,0 +1,88 @@
+{
+    "text": " The CEO will announce the company's expansion plans tomorrow.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.68,
+            "text": " The CEO will announce the company's expansion plans tomorrow.",
+            "tokens": [
+                50364,
+                440,
+                9282,
+                486,
+                7478,
+                264,
+                2237,
+                311,
+                11260,
+                5482,
+                4153,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28609578950064524,
+            "compression_ratio": 0.9384615384615385,
+            "no_speech_prob": 0.011095665395259857,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8150639533996582
+                },
+                {
+                    "word": " CEO",
+                    "start": 0.14,
+                    "end": 0.5,
+                    "probability": 0.9855395555496216
+                },
+                {
+                    "word": " will",
+                    "start": 0.5,
+                    "end": 0.78,
+                    "probability": 0.9959347248077393
+                },
+                {
+                    "word": " announce",
+                    "start": 0.78,
+                    "end": 1.34,
+                    "probability": 0.9962844848632812
+                },
+                {
+                    "word": " the",
+                    "start": 1.34,
+                    "end": 2.72,
+                    "probability": 0.5919021964073181
+                },
+                {
+                    "word": " company's",
+                    "start": 2.72,
+                    "end": 5.18,
+                    "probability": 0.944619745016098
+                },
+                {
+                    "word": " expansion",
+                    "start": 5.18,
+                    "end": 5.8,
+                    "probability": 0.9813233613967896
+                },
+                {
+                    "word": " plans",
+                    "start": 5.8,
+                    "end": 6.28,
+                    "probability": 0.9863001704216003
+                },
+                {
+                    "word": " tomorrow.",
+                    "start": 6.28,
+                    "end": 6.68,
+                    "probability": 0.9204162359237671
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

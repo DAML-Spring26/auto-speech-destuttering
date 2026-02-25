@@ -1,0 +1,102 @@
+{
+    "text": " Don't forget to check and online before arriving at the airport.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.54,
+            "text": " Don't forget to check and online before arriving at the airport.",
+            "tokens": [
+                50364,
+                1468,
+                380,
+                2870,
+                281,
+                1520,
+                293,
+                2950,
+                949,
+                22436,
+                412,
+                264,
+                10155,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3592550456523895,
+            "compression_ratio": 0.9552238805970149,
+            "no_speech_prob": 0.02525765262544155,
+            "words": [
+                {
+                    "word": " Don't",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.8465817868709564
+                },
+                {
+                    "word": " forget",
+                    "start": 0.24,
+                    "end": 0.6,
+                    "probability": 0.9952803254127502
+                },
+                {
+                    "word": " to",
+                    "start": 0.6,
+                    "end": 0.8,
+                    "probability": 0.9978255033493042
+                },
+                {
+                    "word": " check",
+                    "start": 0.8,
+                    "end": 1.16,
+                    "probability": 0.995819091796875
+                },
+                {
+                    "word": " and",
+                    "start": 1.16,
+                    "end": 2.26,
+                    "probability": 0.2314123809337616
+                },
+                {
+                    "word": " online",
+                    "start": 2.26,
+                    "end": 3.88,
+                    "probability": 0.9124374985694885
+                },
+                {
+                    "word": " before",
+                    "start": 3.88,
+                    "end": 4.34,
+                    "probability": 0.9730237722396851
+                },
+                {
+                    "word": " arriving",
+                    "start": 4.34,
+                    "end": 4.8,
+                    "probability": 0.9919004440307617
+                },
+                {
+                    "word": " at",
+                    "start": 4.8,
+                    "end": 5.04,
+                    "probability": 0.9965806603431702
+                },
+                {
+                    "word": " the",
+                    "start": 5.04,
+                    "end": 5.18,
+                    "probability": 0.9840685725212097
+                },
+                {
+                    "word": " airport.",
+                    "start": 5.18,
+                    "end": 5.54,
+                    "probability": 0.9399383664131165
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

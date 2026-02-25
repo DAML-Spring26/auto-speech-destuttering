@@ -1,0 +1,87 @@
+{
+    "text": " The office will be closed for renovation next week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.86,
+            "text": " The office will be closed for renovation next week.",
+            "tokens": [
+                50364,
+                440,
+                3398,
+                486,
+                312,
+                5395,
+                337,
+                39973,
+                958,
+                1243,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36058403895451474,
+            "compression_ratio": 0.8793103448275862,
+            "no_speech_prob": 0.2088092565536499,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.86,
+                    "probability": 0.6865942478179932
+                },
+                {
+                    "word": " office",
+                    "start": 0.86,
+                    "end": 1.08,
+                    "probability": 0.9554526805877686
+                },
+                {
+                    "word": " will",
+                    "start": 1.08,
+                    "end": 1.28,
+                    "probability": 0.9955264925956726
+                },
+                {
+                    "word": " be",
+                    "start": 1.28,
+                    "end": 1.42,
+                    "probability": 0.9973790645599365
+                },
+                {
+                    "word": " closed",
+                    "start": 1.42,
+                    "end": 1.72,
+                    "probability": 0.9966341853141785
+                },
+                {
+                    "word": " for",
+                    "start": 1.72,
+                    "end": 1.9,
+                    "probability": 0.996279776096344
+                },
+                {
+                    "word": " renovation",
+                    "start": 1.9,
+                    "end": 2.18,
+                    "probability": 0.9836133718490601
+                },
+                {
+                    "word": " next",
+                    "start": 2.18,
+                    "end": 2.62,
+                    "probability": 0.9871832132339478
+                },
+                {
+                    "word": " week.",
+                    "start": 2.62,
+                    "end": 2.86,
+                    "probability": 0.9978663325309753
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

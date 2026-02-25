@@ -1,0 +1,95 @@
+{
+    "text": " Don't forget to inform you bank about your travel plans.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.9,
+            "text": " Don't forget to inform you bank about your travel plans.",
+            "tokens": [
+                50364,
+                1468,
+                380,
+                2870,
+                281,
+                1356,
+                291,
+                3765,
+                466,
+                428,
+                3147,
+                5482,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39853312174479166,
+            "compression_ratio": 0.9333333333333333,
+            "no_speech_prob": 0.00397522235289216,
+            "words": [
+                {
+                    "word": " Don't",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.9050670564174652
+                },
+                {
+                    "word": " forget",
+                    "start": 0.32,
+                    "end": 0.54,
+                    "probability": 0.9964912533760071
+                },
+                {
+                    "word": " to",
+                    "start": 0.54,
+                    "end": 0.76,
+                    "probability": 0.9979131817817688
+                },
+                {
+                    "word": " inform",
+                    "start": 0.76,
+                    "end": 1.02,
+                    "probability": 0.9981355667114258
+                },
+                {
+                    "word": " you",
+                    "start": 1.02,
+                    "end": 1.18,
+                    "probability": 0.5608314275741577
+                },
+                {
+                    "word": " bank",
+                    "start": 1.18,
+                    "end": 1.4,
+                    "probability": 0.5740329027175903
+                },
+                {
+                    "word": " about",
+                    "start": 1.4,
+                    "end": 1.68,
+                    "probability": 0.9693830013275146
+                },
+                {
+                    "word": " your",
+                    "start": 1.68,
+                    "end": 3.22,
+                    "probability": 0.4539183974266052
+                },
+                {
+                    "word": " travel",
+                    "start": 3.22,
+                    "end": 5.34,
+                    "probability": 0.9899492263793945
+                },
+                {
+                    "word": " plans.",
+                    "start": 5.34,
+                    "end": 5.9,
+                    "probability": 0.9965643286705017
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

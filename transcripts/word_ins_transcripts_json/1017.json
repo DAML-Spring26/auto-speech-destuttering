@@ -1,0 +1,101 @@
+{
+    "text": " Could you please provide an update on the project status like?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.48,
+            "text": " Could you please provide an update on the project status like?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                2893,
+                364,
+                5623,
+                322,
+                264,
+                1716,
+                6558,
+                411,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28099018732706704,
+            "compression_ratio": 0.9538461538461539,
+            "no_speech_prob": 0.026916615664958954,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.72,
+                    "probability": 0.9494107365608215
+                },
+                {
+                    "word": " you",
+                    "start": 0.72,
+                    "end": 0.84,
+                    "probability": 0.9984092116355896
+                },
+                {
+                    "word": " please",
+                    "start": 0.84,
+                    "end": 1.16,
+                    "probability": 0.9928426742553711
+                },
+                {
+                    "word": " provide",
+                    "start": 1.16,
+                    "end": 1.44,
+                    "probability": 0.9985367059707642
+                },
+                {
+                    "word": " an",
+                    "start": 1.44,
+                    "end": 1.64,
+                    "probability": 0.9926566481590271
+                },
+                {
+                    "word": " update",
+                    "start": 1.64,
+                    "end": 1.94,
+                    "probability": 0.9958140254020691
+                },
+                {
+                    "word": " on",
+                    "start": 1.94,
+                    "end": 2.16,
+                    "probability": 0.994579553604126
+                },
+                {
+                    "word": " the",
+                    "start": 2.16,
+                    "end": 2.28,
+                    "probability": 0.9823494553565979
+                },
+                {
+                    "word": " project",
+                    "start": 2.28,
+                    "end": 2.6,
+                    "probability": 0.9273164868354797
+                },
+                {
+                    "word": " status",
+                    "start": 2.6,
+                    "end": 3.12,
+                    "probability": 0.9880390763282776
+                },
+                {
+                    "word": " like?",
+                    "start": 3.12,
+                    "end": 3.48,
+                    "probability": 0.7641417384147644
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

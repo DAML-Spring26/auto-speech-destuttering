@@ -1,0 +1,60 @@
+{
+    "text": " the company implemented strict polishes.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.38,
+            "text": " the company implemented strict polishes.",
+            "tokens": [
+                50364,
+                264,
+                2237,
+                12270,
+                10910,
+                1180,
+                16423,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4289830207824707,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.009072388522326946,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5136237144470215
+                },
+                {
+                    "word": " company",
+                    "start": 0.12,
+                    "end": 0.48,
+                    "probability": 0.9883267283439636
+                },
+                {
+                    "word": " implemented",
+                    "start": 0.48,
+                    "end": 1.32,
+                    "probability": 0.9714565277099609
+                },
+                {
+                    "word": " strict",
+                    "start": 1.32,
+                    "end": 1.76,
+                    "probability": 0.9637386798858643
+                },
+                {
+                    "word": " polishes.",
+                    "start": 1.76,
+                    "end": 2.38,
+                    "probability": 0.8932574689388275
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

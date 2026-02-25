@@ -1,0 +1,102 @@
+{
+    "text": " The company's commitment to innovation has resulted in several groundbreaking products.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.2,
+            "text": " The company's commitment to innovation has resulted in several groundbreaking products.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                8371,
+                281,
+                8504,
+                575,
+                18753,
+                294,
+                2940,
+                42491,
+                3383,
+                13,
+                50648
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.307557612657547,
+            "compression_ratio": 1.0740740740740742,
+            "no_speech_prob": 0.010697016492486,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7605106830596924
+                },
+                {
+                    "word": " company's",
+                    "start": 0.14,
+                    "end": 0.82,
+                    "probability": 0.9433378279209137
+                },
+                {
+                    "word": " commitment",
+                    "start": 0.82,
+                    "end": 1.22,
+                    "probability": 0.9921194314956665
+                },
+                {
+                    "word": " to",
+                    "start": 1.22,
+                    "end": 1.5,
+                    "probability": 0.9576274752616882
+                },
+                {
+                    "word": " innovation",
+                    "start": 1.5,
+                    "end": 1.9,
+                    "probability": 0.9968468546867371
+                },
+                {
+                    "word": " has",
+                    "start": 1.9,
+                    "end": 2.24,
+                    "probability": 0.9966811537742615
+                },
+                {
+                    "word": " resulted",
+                    "start": 2.24,
+                    "end": 2.74,
+                    "probability": 0.9990082383155823
+                },
+                {
+                    "word": " in",
+                    "start": 2.74,
+                    "end": 3.02,
+                    "probability": 0.997990608215332
+                },
+                {
+                    "word": " several",
+                    "start": 3.02,
+                    "end": 3.32,
+                    "probability": 0.9981542229652405
+                },
+                {
+                    "word": " groundbreaking",
+                    "start": 3.32,
+                    "end": 3.9,
+                    "probability": 0.9487237930297852
+                },
+                {
+                    "word": " products.",
+                    "start": 3.9,
+                    "end": 5.2,
+                    "probability": 0.769339919090271
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

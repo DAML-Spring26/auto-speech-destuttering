@@ -1,0 +1,127 @@
+{
+    "text": " Make sure to try the local street food well. Exploring the city.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.52,
+            "text": " Make sure to try the local street food well.",
+            "tokens": [
+                50364,
+                4387,
+                988,
+                281,
+                853,
+                264,
+                2654,
+                4838,
+                1755,
+                731,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5082642078399658,
+            "compression_ratio": 0.9411764705882353,
+            "no_speech_prob": 0.00622985465452075,
+            "words": [
+                {
+                    "word": " Make",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.5951629281044006
+                },
+                {
+                    "word": " sure",
+                    "start": 0.2,
+                    "end": 0.46,
+                    "probability": 0.9990947246551514
+                },
+                {
+                    "word": " to",
+                    "start": 0.46,
+                    "end": 0.7,
+                    "probability": 0.9947401881217957
+                },
+                {
+                    "word": " try",
+                    "start": 0.7,
+                    "end": 0.96,
+                    "probability": 0.9951784610748291
+                },
+                {
+                    "word": " the",
+                    "start": 0.96,
+                    "end": 1.14,
+                    "probability": 0.9614765644073486
+                },
+                {
+                    "word": " local",
+                    "start": 1.14,
+                    "end": 1.4,
+                    "probability": 0.9670364260673523
+                },
+                {
+                    "word": " street",
+                    "start": 1.4,
+                    "end": 1.76,
+                    "probability": 0.9568003416061401
+                },
+                {
+                    "word": " food",
+                    "start": 1.76,
+                    "end": 2.08,
+                    "probability": 0.9921535849571228
+                },
+                {
+                    "word": " well.",
+                    "start": 2.08,
+                    "end": 2.52,
+                    "probability": 0.6131383180618286
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.68,
+            "end": 5.9,
+            "text": " Exploring the city.",
+            "tokens": [
+                50596,
+                12514,
+                3662,
+                264,
+                2307,
+                13,
+                50678
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5082642078399658,
+            "compression_ratio": 0.9411764705882353,
+            "no_speech_prob": 0.00622985465452075,
+            "words": [
+                {
+                    "word": " Exploring",
+                    "start": 4.68,
+                    "end": 5.26,
+                    "probability": 0.912374347448349
+                },
+                {
+                    "word": " the",
+                    "start": 5.26,
+                    "end": 5.46,
+                    "probability": 0.9942571520805359
+                },
+                {
+                    "word": " city.",
+                    "start": 5.46,
+                    "end": 5.9,
+                    "probability": 0.9412960410118103
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

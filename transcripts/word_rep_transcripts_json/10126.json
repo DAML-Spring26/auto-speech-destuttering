@@ -1,0 +1,132 @@
+{
+    "text": " The new employee orientation program will be conducted virtually due to current circumstances.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.02,
+            "text": " The new employee orientation program will be conducted",
+            "tokens": [
+                50364,
+                440,
+                777,
+                10738,
+                14764,
+                1461,
+                486,
+                312,
+                13809,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45551731711939764,
+            "compression_ratio": 1.119047619047619,
+            "no_speech_prob": 0.0023385726381093264,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.9084280133247375
+                },
+                {
+                    "word": " new",
+                    "start": 0.12,
+                    "end": 0.3,
+                    "probability": 0.8590297698974609
+                },
+                {
+                    "word": " employee",
+                    "start": 0.3,
+                    "end": 0.82,
+                    "probability": 0.6740829944610596
+                },
+                {
+                    "word": " orientation",
+                    "start": 0.82,
+                    "end": 1.46,
+                    "probability": 0.9904032945632935
+                },
+                {
+                    "word": " program",
+                    "start": 1.46,
+                    "end": 2.22,
+                    "probability": 0.689637303352356
+                },
+                {
+                    "word": " will",
+                    "start": 2.22,
+                    "end": 2.42,
+                    "probability": 0.9956509470939636
+                },
+                {
+                    "word": " be",
+                    "start": 2.42,
+                    "end": 2.54,
+                    "probability": 0.9962511658668518
+                },
+                {
+                    "word": " conducted",
+                    "start": 2.54,
+                    "end": 3.02,
+                    "probability": 0.8058329224586487
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.02,
+            "end": 5.92,
+            "text": " virtually due to current circumstances.",
+            "tokens": [
+                50524,
+                14103,
+                3462,
+                281,
+                2190,
+                9121,
+                13,
+                50682
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45551731711939764,
+            "compression_ratio": 1.119047619047619,
+            "no_speech_prob": 0.0023385726381093264,
+            "words": [
+                {
+                    "word": " virtually",
+                    "start": 3.02,
+                    "end": 3.5,
+                    "probability": 0.16061966121196747
+                },
+                {
+                    "word": " due",
+                    "start": 3.5,
+                    "end": 3.86,
+                    "probability": 0.9924148917198181
+                },
+                {
+                    "word": " to",
+                    "start": 3.86,
+                    "end": 4.36,
+                    "probability": 0.9734048247337341
+                },
+                {
+                    "word": " current",
+                    "start": 4.36,
+                    "end": 4.98,
+                    "probability": 0.9647009372711182
+                },
+                {
+                    "word": " circumstances.",
+                    "start": 4.98,
+                    "end": 5.92,
+                    "probability": 0.9967308044433594
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,94 @@
+{
+    "text": " The committee decided the proposal needed further revision before approval.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.26,
+            "text": " The committee decided the proposal needed further revision before approval.",
+            "tokens": [
+                50364,
+                440,
+                7482,
+                3047,
+                264,
+                11494,
+                2978,
+                3052,
+                34218,
+                949,
+                13317,
+                13,
+                50538
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33091589382716585,
+            "compression_ratio": 1.056338028169014,
+            "no_speech_prob": 0.016106819733977318,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5437232851982117
+                },
+                {
+                    "word": " committee",
+                    "start": 0.12,
+                    "end": 0.38,
+                    "probability": 0.9239388704299927
+                },
+                {
+                    "word": " decided",
+                    "start": 0.38,
+                    "end": 0.82,
+                    "probability": 0.9897416830062866
+                },
+                {
+                    "word": " the",
+                    "start": 0.82,
+                    "end": 1.04,
+                    "probability": 0.9085412621498108
+                },
+                {
+                    "word": " proposal",
+                    "start": 1.04,
+                    "end": 1.42,
+                    "probability": 0.9911501407623291
+                },
+                {
+                    "word": " needed",
+                    "start": 1.42,
+                    "end": 1.78,
+                    "probability": 0.987319827079773
+                },
+                {
+                    "word": " further",
+                    "start": 1.78,
+                    "end": 2.12,
+                    "probability": 0.9979865550994873
+                },
+                {
+                    "word": " revision",
+                    "start": 2.12,
+                    "end": 2.46,
+                    "probability": 0.7871698141098022
+                },
+                {
+                    "word": " before",
+                    "start": 2.46,
+                    "end": 2.84,
+                    "probability": 0.9864872097969055
+                },
+                {
+                    "word": " approval.",
+                    "start": 2.84,
+                    "end": 3.26,
+                    "probability": 0.9978607296943665
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

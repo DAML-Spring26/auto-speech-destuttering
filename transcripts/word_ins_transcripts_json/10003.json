@@ -1,0 +1,81 @@
+{
+    "text": " I heard the new album as well, fantastic.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.5999999999999996,
+            "end": 3.32,
+            "text": " I heard the new album as well, fantastic.",
+            "tokens": [
+                50364,
+                286,
+                2198,
+                264,
+                777,
+                6030,
+                382,
+                731,
+                11,
+                5456,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4452968010535607,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.12245411425828934,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.5999999999999996,
+                    "end": 1.1,
+                    "probability": 0.9548922181129456
+                },
+                {
+                    "word": " heard",
+                    "start": 1.1,
+                    "end": 1.3,
+                    "probability": 0.9743117690086365
+                },
+                {
+                    "word": " the",
+                    "start": 1.3,
+                    "end": 1.46,
+                    "probability": 0.9948327541351318
+                },
+                {
+                    "word": " new",
+                    "start": 1.46,
+                    "end": 1.62,
+                    "probability": 0.9994680285453796
+                },
+                {
+                    "word": " album",
+                    "start": 1.62,
+                    "end": 1.98,
+                    "probability": 0.996982991695404
+                },
+                {
+                    "word": " as",
+                    "start": 1.98,
+                    "end": 2.22,
+                    "probability": 0.8382217288017273
+                },
+                {
+                    "word": " well,",
+                    "start": 2.22,
+                    "end": 2.46,
+                    "probability": 0.9961754083633423
+                },
+                {
+                    "word": " fantastic.",
+                    "start": 2.78,
+                    "end": 3.32,
+                    "probability": 0.9668644666671753
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

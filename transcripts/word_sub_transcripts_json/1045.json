@@ -1,0 +1,66 @@
+{
+    "text": " the strategy focuses on sustainable grown.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.52,
+            "text": " the strategy focuses on sustainable grown.",
+            "tokens": [
+                50364,
+                264,
+                5206,
+                16109,
+                322,
+                11235,
+                7709,
+                13,
+                50496
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47718505859375,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.0026645709294825792,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5787672400474548
+                },
+                {
+                    "word": " strategy",
+                    "start": 0.12,
+                    "end": 0.62,
+                    "probability": 0.9437100887298584
+                },
+                {
+                    "word": " focuses",
+                    "start": 0.62,
+                    "end": 1.1,
+                    "probability": 0.9008965492248535
+                },
+                {
+                    "word": " on",
+                    "start": 1.1,
+                    "end": 1.5,
+                    "probability": 0.9959743618965149
+                },
+                {
+                    "word": " sustainable",
+                    "start": 1.5,
+                    "end": 2.06,
+                    "probability": 0.9623274207115173
+                },
+                {
+                    "word": " grown.",
+                    "start": 2.06,
+                    "end": 2.52,
+                    "probability": 0.5588663816452026
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

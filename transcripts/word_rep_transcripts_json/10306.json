@@ -1,0 +1,94 @@
+{
+    "text": " Please hold while I transfer you to the appropriate department.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.12,
+            "text": " Please hold while I transfer you to the appropriate department.",
+            "tokens": [
+                50364,
+                2555,
+                1797,
+                1339,
+                286,
+                5003,
+                291,
+                281,
+                264,
+                6854,
+                5882,
+                13,
+                50579
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38095286914280485,
+            "compression_ratio": 0.9545454545454546,
+            "no_speech_prob": 0.012896768748760223,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.637883722782135
+                },
+                {
+                    "word": " hold",
+                    "start": 0.18,
+                    "end": 0.52,
+                    "probability": 0.9643352031707764
+                },
+                {
+                    "word": " while",
+                    "start": 0.52,
+                    "end": 0.78,
+                    "probability": 0.4202316105365753
+                },
+                {
+                    "word": " I",
+                    "start": 0.78,
+                    "end": 1.06,
+                    "probability": 0.9436749815940857
+                },
+                {
+                    "word": " transfer",
+                    "start": 1.06,
+                    "end": 1.54,
+                    "probability": 0.9880877137184143
+                },
+                {
+                    "word": " you",
+                    "start": 1.54,
+                    "end": 1.8,
+                    "probability": 0.853296160697937
+                },
+                {
+                    "word": " to",
+                    "start": 1.8,
+                    "end": 1.92,
+                    "probability": 0.9541696310043335
+                },
+                {
+                    "word": " the",
+                    "start": 1.92,
+                    "end": 2.26,
+                    "probability": 0.9837309122085571
+                },
+                {
+                    "word": " appropriate",
+                    "start": 2.26,
+                    "end": 3.5,
+                    "probability": 0.8203757405281067
+                },
+                {
+                    "word": " department.",
+                    "start": 3.5,
+                    "end": 4.12,
+                    "probability": 0.9015798568725586
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

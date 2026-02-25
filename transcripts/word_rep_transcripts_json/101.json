@@ -1,0 +1,60 @@
+{
+    "text": " Let's go to the beach.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.94,
+            "text": " Let's go to the beach.",
+            "tokens": [
+                50364,
+                961,
+                311,
+                352,
+                281,
+                264,
+                7534,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3914365530014038,
+            "compression_ratio": 0.7857142857142857,
+            "no_speech_prob": 0.05766899511218071,
+            "words": [
+                {
+                    "word": " Let's",
+                    "start": 0.0,
+                    "end": 0.84,
+                    "probability": 0.8687558770179749
+                },
+                {
+                    "word": " go",
+                    "start": 0.84,
+                    "end": 1.0,
+                    "probability": 0.988377034664154
+                },
+                {
+                    "word": " to",
+                    "start": 1.0,
+                    "end": 1.24,
+                    "probability": 0.9944549202919006
+                },
+                {
+                    "word": " the",
+                    "start": 1.24,
+                    "end": 1.7,
+                    "probability": 0.7548301219940186
+                },
+                {
+                    "word": " beach.",
+                    "start": 1.7,
+                    "end": 1.94,
+                    "probability": 0.9636586308479309
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

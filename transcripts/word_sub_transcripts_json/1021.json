@@ -1,0 +1,60 @@
+{
+    "text": " The prototype demonstrates excellent conformance.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.62,
+            "text": " The prototype demonstrates excellent conformance.",
+            "tokens": [
+                50364,
+                440,
+                19475,
+                31034,
+                7103,
+                18975,
+                719,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42720580101013184,
+            "compression_ratio": 0.8596491228070176,
+            "no_speech_prob": 0.010972310788929462,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.564828634262085
+                },
+                {
+                    "word": " prototype",
+                    "start": 0.08,
+                    "end": 0.56,
+                    "probability": 0.7634437680244446
+                },
+                {
+                    "word": " demonstrates",
+                    "start": 0.56,
+                    "end": 1.24,
+                    "probability": 0.9905593395233154
+                },
+                {
+                    "word": " excellent",
+                    "start": 1.24,
+                    "end": 1.8,
+                    "probability": 0.9941668510437012
+                },
+                {
+                    "word": " conformance.",
+                    "start": 1.8,
+                    "end": 2.62,
+                    "probability": 0.9918558895587921
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

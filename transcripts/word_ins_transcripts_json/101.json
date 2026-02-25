@@ -1,0 +1,94 @@
+{
+    "text": " We need to improve our response time to emergency situations.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.78,
+            "text": " We need to improve our response time to emergency situations.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                3470,
+                527,
+                4134,
+                565,
+                281,
+                7473,
+                6851,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27968508856637136,
+            "compression_ratio": 0.9682539682539683,
+            "no_speech_prob": 0.04812204837799072,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.68,
+                    "probability": 0.8073199391365051
+                },
+                {
+                    "word": " need",
+                    "start": 0.68,
+                    "end": 0.88,
+                    "probability": 0.9975870847702026
+                },
+                {
+                    "word": " to",
+                    "start": 0.88,
+                    "end": 1.08,
+                    "probability": 0.9984427094459534
+                },
+                {
+                    "word": " improve",
+                    "start": 1.08,
+                    "end": 1.42,
+                    "probability": 0.9940420985221863
+                },
+                {
+                    "word": " our",
+                    "start": 1.42,
+                    "end": 1.64,
+                    "probability": 0.9928216338157654
+                },
+                {
+                    "word": " response",
+                    "start": 1.64,
+                    "end": 2.0,
+                    "probability": 0.9964274764060974
+                },
+                {
+                    "word": " time",
+                    "start": 2.0,
+                    "end": 2.5,
+                    "probability": 0.991349458694458
+                },
+                {
+                    "word": " to",
+                    "start": 2.5,
+                    "end": 2.72,
+                    "probability": 0.9942619800567627
+                },
+                {
+                    "word": " emergency",
+                    "start": 2.72,
+                    "end": 3.34,
+                    "probability": 0.9933644533157349
+                },
+                {
+                    "word": " situations.",
+                    "start": 3.34,
+                    "end": 4.78,
+                    "probability": 0.961328387260437
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

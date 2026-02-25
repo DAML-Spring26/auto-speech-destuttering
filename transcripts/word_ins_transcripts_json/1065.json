@@ -1,0 +1,73 @@
+{
+    "text": " We should plan a trip together sometime.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.88,
+            "text": " We should plan a trip together sometime.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                1393,
+                257,
+                4931,
+                1214,
+                15053,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3251961794766513,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.027031583711504936,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.48,
+                    "probability": 0.820919930934906
+                },
+                {
+                    "word": " should",
+                    "start": 0.48,
+                    "end": 0.62,
+                    "probability": 0.9972975850105286
+                },
+                {
+                    "word": " plan",
+                    "start": 0.62,
+                    "end": 0.84,
+                    "probability": 0.9774686098098755
+                },
+                {
+                    "word": " a",
+                    "start": 0.84,
+                    "end": 1.0,
+                    "probability": 0.9951770305633545
+                },
+                {
+                    "word": " trip",
+                    "start": 1.0,
+                    "end": 1.28,
+                    "probability": 0.9983572363853455
+                },
+                {
+                    "word": " together",
+                    "start": 1.28,
+                    "end": 1.96,
+                    "probability": 0.9926256537437439
+                },
+                {
+                    "word": " sometime.",
+                    "start": 1.96,
+                    "end": 2.88,
+                    "probability": 0.9561232924461365
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,73 @@
+{
+    "text": " She competed her doctoral thesis last month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.46,
+            "text": " She competed her doctoral thesis last month.",
+            "tokens": [
+                50364,
+                1240,
+                43619,
+                720,
+                41419,
+                22288,
+                1036,
+                1618,
+                13,
+                50496
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41986296393654565,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.004454569425433874,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.7518354058265686
+                },
+                {
+                    "word": " competed",
+                    "start": 0.22,
+                    "end": 0.62,
+                    "probability": 0.964643120765686
+                },
+                {
+                    "word": " her",
+                    "start": 0.62,
+                    "end": 0.88,
+                    "probability": 0.8600283265113831
+                },
+                {
+                    "word": " doctoral",
+                    "start": 0.88,
+                    "end": 1.26,
+                    "probability": 0.6414989829063416
+                },
+                {
+                    "word": " thesis",
+                    "start": 1.26,
+                    "end": 1.74,
+                    "probability": 0.9998874664306641
+                },
+                {
+                    "word": " last",
+                    "start": 1.74,
+                    "end": 2.1,
+                    "probability": 0.9591338038444519
+                },
+                {
+                    "word": " month.",
+                    "start": 2.1,
+                    "end": 2.46,
+                    "probability": 0.9947191476821899
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

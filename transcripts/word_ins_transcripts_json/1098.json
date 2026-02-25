@@ -1,0 +1,87 @@
+{
+    "text": " We should implement the new system by next quarter.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.96,
+            "text": " We should implement the new system by next quarter.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                4445,
+                264,
+                777,
+                1185,
+                538,
+                958,
+                6555,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3228603876554049,
+            "compression_ratio": 0.8947368421052632,
+            "no_speech_prob": 0.034706804901361465,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.8,
+                    "probability": 0.8448085188865662
+                },
+                {
+                    "word": " should",
+                    "start": 0.8,
+                    "end": 1.18,
+                    "probability": 0.9943795800209045
+                },
+                {
+                    "word": " implement",
+                    "start": 1.18,
+                    "end": 2.04,
+                    "probability": 0.7428359985351562
+                },
+                {
+                    "word": " the",
+                    "start": 2.04,
+                    "end": 2.76,
+                    "probability": 0.9541093707084656
+                },
+                {
+                    "word": " new",
+                    "start": 2.76,
+                    "end": 3.02,
+                    "probability": 0.9614934325218201
+                },
+                {
+                    "word": " system",
+                    "start": 3.02,
+                    "end": 3.64,
+                    "probability": 0.9622257351875305
+                },
+                {
+                    "word": " by",
+                    "start": 3.64,
+                    "end": 4.14,
+                    "probability": 0.9686528444290161
+                },
+                {
+                    "word": " next",
+                    "start": 4.14,
+                    "end": 4.5,
+                    "probability": 0.8753981590270996
+                },
+                {
+                    "word": " quarter.",
+                    "start": 4.5,
+                    "end": 4.96,
+                    "probability": 0.886929452419281
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

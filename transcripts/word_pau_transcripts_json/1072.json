@@ -1,0 +1,126 @@
+{
+    "text": " for your presentation, remember to who speak clearly and maintain eye contact.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.1,
+            "text": " for your presentation, remember to",
+            "tokens": [
+                50364,
+                337,
+                428,
+                5860,
+                11,
+                1604,
+                281,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5006771589580336,
+            "compression_ratio": 1.054054054054054,
+            "no_speech_prob": 0.010428554378449917,
+            "words": [
+                {
+                    "word": " for",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5513073801994324
+                },
+                {
+                    "word": " your",
+                    "start": 0.12,
+                    "end": 0.26,
+                    "probability": 0.9900920987129211
+                },
+                {
+                    "word": " presentation,",
+                    "start": 0.26,
+                    "end": 1.12,
+                    "probability": 0.9965445399284363
+                },
+                {
+                    "word": " remember",
+                    "start": 1.36,
+                    "end": 1.76,
+                    "probability": 0.9865851402282715
+                },
+                {
+                    "word": " to",
+                    "start": 1.76,
+                    "end": 2.1,
+                    "probability": 0.9405957460403442
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.1,
+            "end": 6.82,
+            "text": " who speak clearly and maintain eye contact.",
+            "tokens": [
+                50564,
+                567,
+                1710,
+                4448,
+                293,
+                6909,
+                3313,
+                3385,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5006771589580336,
+            "compression_ratio": 1.054054054054054,
+            "no_speech_prob": 0.010428554378449917,
+            "words": [
+                {
+                    "word": " who",
+                    "start": 2.1,
+                    "end": 2.88,
+                    "probability": 0.01612248457968235
+                },
+                {
+                    "word": " speak",
+                    "start": 2.88,
+                    "end": 4.6,
+                    "probability": 0.8813464641571045
+                },
+                {
+                    "word": " clearly",
+                    "start": 4.6,
+                    "end": 5.08,
+                    "probability": 0.9888607859611511
+                },
+                {
+                    "word": " and",
+                    "start": 5.08,
+                    "end": 5.42,
+                    "probability": 0.9539371728897095
+                },
+                {
+                    "word": " maintain",
+                    "start": 5.42,
+                    "end": 5.88,
+                    "probability": 0.9967365860939026
+                },
+                {
+                    "word": " eye",
+                    "start": 5.88,
+                    "end": 6.2,
+                    "probability": 0.9695850014686584
+                },
+                {
+                    "word": " contact.",
+                    "start": 6.2,
+                    "end": 6.82,
+                    "probability": 0.995622456073761
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

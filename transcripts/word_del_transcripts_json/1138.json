@@ -1,0 +1,102 @@
+{
+    "text": " The new policy adopted by the Board of Directors last quarter.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.98,
+            "text": " The new policy adopted by the Board of Directors last quarter.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                3897,
+                12175,
+                538,
+                264,
+                10008,
+                295,
+                5822,
+                5547,
+                1036,
+                6555,
+                13,
+                50522
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29722705483436584,
+            "compression_ratio": 0.8985507246376812,
+            "no_speech_prob": 0.0026475724298506975,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.816867470741272
+                },
+                {
+                    "word": " new",
+                    "start": 0.14,
+                    "end": 0.28,
+                    "probability": 0.9831699132919312
+                },
+                {
+                    "word": " policy",
+                    "start": 0.28,
+                    "end": 0.64,
+                    "probability": 0.9859208464622498
+                },
+                {
+                    "word": " adopted",
+                    "start": 0.64,
+                    "end": 1.12,
+                    "probability": 0.9915003776550293
+                },
+                {
+                    "word": " by",
+                    "start": 1.12,
+                    "end": 1.36,
+                    "probability": 0.9990770816802979
+                },
+                {
+                    "word": " the",
+                    "start": 1.36,
+                    "end": 1.48,
+                    "probability": 0.921760618686676
+                },
+                {
+                    "word": " Board",
+                    "start": 1.48,
+                    "end": 1.68,
+                    "probability": 0.7712270617485046
+                },
+                {
+                    "word": " of",
+                    "start": 1.68,
+                    "end": 1.8,
+                    "probability": 0.9992958307266235
+                },
+                {
+                    "word": " Directors",
+                    "start": 1.8,
+                    "end": 2.26,
+                    "probability": 0.9626973271369934
+                },
+                {
+                    "word": " last",
+                    "start": 2.26,
+                    "end": 2.48,
+                    "probability": 0.669519305229187
+                },
+                {
+                    "word": " quarter.",
+                    "start": 2.48,
+                    "end": 2.98,
+                    "probability": 0.9524417519569397
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

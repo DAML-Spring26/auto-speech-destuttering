@@ -1,0 +1,59 @@
+{
+    "text": " The database requires regular containment.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.64,
+            "text": " The database requires regular containment.",
+            "tokens": [
+                50364,
+                440,
+                8149,
+                7029,
+                3890,
+                44058,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4093423949347602,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.003993586171418428,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7565231919288635
+                },
+                {
+                    "word": " database",
+                    "start": 0.16,
+                    "end": 0.5,
+                    "probability": 0.8396741151809692
+                },
+                {
+                    "word": " requires",
+                    "start": 0.5,
+                    "end": 1.3,
+                    "probability": 0.992106556892395
+                },
+                {
+                    "word": " regular",
+                    "start": 1.3,
+                    "end": 1.94,
+                    "probability": 0.9862691760063171
+                },
+                {
+                    "word": " containment.",
+                    "start": 1.94,
+                    "end": 2.64,
+                    "probability": 0.9972055554389954
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

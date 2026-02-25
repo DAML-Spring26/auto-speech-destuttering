@@ -1,0 +1,104 @@
+{
+    "text": " We'll need to unschedule or follow up appointment in two weeks.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.06,
+            "text": " We'll need to unschedule or follow up appointment in two weeks.",
+            "tokens": [
+                50364,
+                492,
+                603,
+                643,
+                281,
+                2693,
+                19318,
+                2271,
+                420,
+                1524,
+                493,
+                13653,
+                294,
+                732,
+                3259,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3610693613688151,
+            "compression_ratio": 0.9692307692307692,
+            "no_speech_prob": 0.03972373157739639,
+            "words": [
+                {
+                    "word": " We'll",
+                    "start": 0.0,
+                    "end": 0.68,
+                    "probability": 0.9346837401390076
+                },
+                {
+                    "word": " need",
+                    "start": 0.68,
+                    "end": 0.82,
+                    "probability": 0.9983105659484863
+                },
+                {
+                    "word": " to",
+                    "start": 0.82,
+                    "end": 0.98,
+                    "probability": 0.9987579584121704
+                },
+                {
+                    "word": " unschedule",
+                    "start": 0.98,
+                    "end": 1.48,
+                    "probability": 0.7135331183671951
+                },
+                {
+                    "word": " or",
+                    "start": 1.48,
+                    "end": 1.62,
+                    "probability": 0.5557626485824585
+                },
+                {
+                    "word": " follow",
+                    "start": 1.62,
+                    "end": 1.84,
+                    "probability": 0.9981132745742798
+                },
+                {
+                    "word": " up",
+                    "start": 1.84,
+                    "end": 2.0,
+                    "probability": 0.73091721534729
+                },
+                {
+                    "word": " appointment",
+                    "start": 2.0,
+                    "end": 2.28,
+                    "probability": 0.9639223217964172
+                },
+                {
+                    "word": " in",
+                    "start": 2.28,
+                    "end": 2.58,
+                    "probability": 0.9968594312667847
+                },
+                {
+                    "word": " two",
+                    "start": 2.58,
+                    "end": 2.8,
+                    "probability": 0.8362066745758057
+                },
+                {
+                    "word": " weeks.",
+                    "start": 2.8,
+                    "end": 3.06,
+                    "probability": 0.9962660670280457
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

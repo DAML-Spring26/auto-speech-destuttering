@@ -1,0 +1,123 @@
+{
+    "text": " We should arrive at venue-ally to get good seats for the concert tonight.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.28,
+            "text": " We should arrive at venue-ally to get good seats for the concert tonight.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                8881,
+                412,
+                21645,
+                12,
+                379,
+                281,
+                483,
+                665,
+                11069,
+                337,
+                264,
+                8543,
+                4440,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3194780600698371,
+            "compression_ratio": 1.0138888888888888,
+            "no_speech_prob": 0.007697415538132191,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6231476068496704
+                },
+                {
+                    "word": " should",
+                    "start": 0.14,
+                    "end": 0.28,
+                    "probability": 0.9971674084663391
+                },
+                {
+                    "word": " arrive",
+                    "start": 0.28,
+                    "end": 0.54,
+                    "probability": 0.9930763244628906
+                },
+                {
+                    "word": " at",
+                    "start": 0.54,
+                    "end": 0.72,
+                    "probability": 0.9942485094070435
+                },
+                {
+                    "word": " venue",
+                    "start": 0.72,
+                    "end": 1.0,
+                    "probability": 0.650407075881958
+                },
+                {
+                    "word": "-ally",
+                    "start": 1.0,
+                    "end": 1.28,
+                    "probability": 0.45830756425857544
+                },
+                {
+                    "word": " to",
+                    "start": 1.28,
+                    "end": 1.46,
+                    "probability": 0.9535725116729736
+                },
+                {
+                    "word": " get",
+                    "start": 1.46,
+                    "end": 1.62,
+                    "probability": 0.9960170388221741
+                },
+                {
+                    "word": " good",
+                    "start": 1.62,
+                    "end": 1.82,
+                    "probability": 0.9857611060142517
+                },
+                {
+                    "word": " seats",
+                    "start": 1.82,
+                    "end": 2.12,
+                    "probability": 0.9956039190292358
+                },
+                {
+                    "word": " for",
+                    "start": 2.12,
+                    "end": 2.4,
+                    "probability": 0.9956114888191223
+                },
+                {
+                    "word": " the",
+                    "start": 2.4,
+                    "end": 2.5,
+                    "probability": 0.9922997951507568
+                },
+                {
+                    "word": " concert",
+                    "start": 2.5,
+                    "end": 2.9,
+                    "probability": 0.9176918864250183
+                },
+                {
+                    "word": " tonight.",
+                    "start": 2.9,
+                    "end": 3.28,
+                    "probability": 0.9912461638450623
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

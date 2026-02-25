@@ -1,0 +1,117 @@
+{
+    "text": " Be sure to check the weather forecast before Planning outdoor activities",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.08,
+            "text": " Be sure to check the weather forecast before",
+            "tokens": [
+                50364,
+                879,
+                988,
+                281,
+                1520,
+                264,
+                5503,
+                14330,
+                949,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5312419533729553,
+            "compression_ratio": 1.0434782608695652,
+            "no_speech_prob": 0.006874506827443838,
+            "words": [
+                {
+                    "word": " Be",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.9614663124084473
+                },
+                {
+                    "word": " sure",
+                    "start": 0.14,
+                    "end": 0.32,
+                    "probability": 0.9991071820259094
+                },
+                {
+                    "word": " to",
+                    "start": 0.32,
+                    "end": 0.52,
+                    "probability": 0.9978213310241699
+                },
+                {
+                    "word": " check",
+                    "start": 0.52,
+                    "end": 0.76,
+                    "probability": 0.9967799782752991
+                },
+                {
+                    "word": " the",
+                    "start": 0.76,
+                    "end": 0.98,
+                    "probability": 0.9830271601676941
+                },
+                {
+                    "word": " weather",
+                    "start": 0.98,
+                    "end": 1.14,
+                    "probability": 0.9863331913948059
+                },
+                {
+                    "word": " forecast",
+                    "start": 1.14,
+                    "end": 1.52,
+                    "probability": 0.9566611051559448
+                },
+                {
+                    "word": " before",
+                    "start": 1.52,
+                    "end": 2.08,
+                    "probability": 0.9864779710769653
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.82,
+            "end": 6.2,
+            "text": " Planning outdoor activities",
+            "tokens": [
+                50614,
+                29308,
+                15942,
+                5354,
+                50692
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5312419533729553,
+            "compression_ratio": 1.0434782608695652,
+            "no_speech_prob": 0.006874506827443838,
+            "words": [
+                {
+                    "word": " Planning",
+                    "start": 4.82,
+                    "end": 5.3,
+                    "probability": 0.01844959706068039
+                },
+                {
+                    "word": " outdoor",
+                    "start": 5.3,
+                    "end": 5.64,
+                    "probability": 0.7032110691070557
+                },
+                {
+                    "word": " activities",
+                    "start": 5.64,
+                    "end": 6.2,
+                    "probability": 0.9757826328277588
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,59 @@
+{
+    "text": " The analysis revealed interesting patrons.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.26,
+            "text": " The analysis revealed interesting patrons.",
+            "tokens": [
+                50364,
+                440,
+                5215,
+                9599,
+                1880,
+                27559,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4366961585150825,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.006465965416282415,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7119473814964294
+                },
+                {
+                    "word": " analysis",
+                    "start": 0.14,
+                    "end": 0.56,
+                    "probability": 0.9836893677711487
+                },
+                {
+                    "word": " revealed",
+                    "start": 0.56,
+                    "end": 1.04,
+                    "probability": 0.9866804480552673
+                },
+                {
+                    "word": " interesting",
+                    "start": 1.04,
+                    "end": 1.68,
+                    "probability": 0.9909151196479797
+                },
+                {
+                    "word": " patrons.",
+                    "start": 1.68,
+                    "end": 2.26,
+                    "probability": 0.9516993165016174
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

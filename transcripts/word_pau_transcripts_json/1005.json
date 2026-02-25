@@ -1,0 +1,87 @@
+{
+    "text": " which genre of music do you prefer for relaxation?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.02,
+            "text": " which genre of music do you prefer for relaxation?",
+            "tokens": [
+                50364,
+                597,
+                11022,
+                295,
+                1318,
+                360,
+                291,
+                4382,
+                337,
+                30315,
+                30,
+                50589
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.395571231842041,
+            "compression_ratio": 0.8771929824561403,
+            "no_speech_prob": 0.021525468677282333,
+            "words": [
+                {
+                    "word": " which",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.43540918827056885
+                },
+                {
+                    "word": " genre",
+                    "start": 0.2,
+                    "end": 0.52,
+                    "probability": 0.8685034513473511
+                },
+                {
+                    "word": " of",
+                    "start": 0.52,
+                    "end": 0.96,
+                    "probability": 0.9906188249588013
+                },
+                {
+                    "word": " music",
+                    "start": 0.96,
+                    "end": 2.5,
+                    "probability": 0.8342629075050354
+                },
+                {
+                    "word": " do",
+                    "start": 2.5,
+                    "end": 2.78,
+                    "probability": 0.969234824180603
+                },
+                {
+                    "word": " you",
+                    "start": 2.78,
+                    "end": 2.88,
+                    "probability": 0.953826904296875
+                },
+                {
+                    "word": " prefer",
+                    "start": 2.88,
+                    "end": 3.22,
+                    "probability": 0.9982093572616577
+                },
+                {
+                    "word": " for",
+                    "start": 3.22,
+                    "end": 3.54,
+                    "probability": 0.9858929514884949
+                },
+                {
+                    "word": " relaxation?",
+                    "start": 3.54,
+                    "end": 4.02,
+                    "probability": 0.9474771022796631
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

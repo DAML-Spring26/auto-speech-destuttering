@@ -1,0 +1,101 @@
+{
+    "text": " We need to schedule a dentist appointment for the kids at.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.5800000000000001,
+            "end": 3.96,
+            "text": " We need to schedule a dentist appointment for the kids at.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                7567,
+                257,
+                28666,
+                13653,
+                337,
+                264,
+                2301,
+                412,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.381211789449056,
+            "compression_ratio": 0.9508196721311475,
+            "no_speech_prob": 0.06414888054132462,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.5800000000000001,
+                    "end": 1.1,
+                    "probability": 0.8661673069000244
+                },
+                {
+                    "word": " need",
+                    "start": 1.1,
+                    "end": 1.28,
+                    "probability": 0.9985103011131287
+                },
+                {
+                    "word": " to",
+                    "start": 1.28,
+                    "end": 1.46,
+                    "probability": 0.9948086142539978
+                },
+                {
+                    "word": " schedule",
+                    "start": 1.46,
+                    "end": 1.88,
+                    "probability": 0.9943857192993164
+                },
+                {
+                    "word": " a",
+                    "start": 1.88,
+                    "end": 2.12,
+                    "probability": 0.9657824039459229
+                },
+                {
+                    "word": " dentist",
+                    "start": 2.12,
+                    "end": 2.4,
+                    "probability": 0.9825471043586731
+                },
+                {
+                    "word": " appointment",
+                    "start": 2.4,
+                    "end": 3.0,
+                    "probability": 0.9949102997779846
+                },
+                {
+                    "word": " for",
+                    "start": 3.0,
+                    "end": 3.3,
+                    "probability": 0.9960242509841919
+                },
+                {
+                    "word": " the",
+                    "start": 3.3,
+                    "end": 3.46,
+                    "probability": 0.9969837069511414
+                },
+                {
+                    "word": " kids",
+                    "start": 3.46,
+                    "end": 3.74,
+                    "probability": 0.8835979700088501
+                },
+                {
+                    "word": " at.",
+                    "start": 3.74,
+                    "end": 3.96,
+                    "probability": 0.9736472964286804
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

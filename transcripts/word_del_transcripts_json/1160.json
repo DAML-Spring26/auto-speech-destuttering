@@ -1,0 +1,95 @@
+{
+    "text": " I've been working on this project for three weeks now.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.02,
+            "text": " I've been working on this project for three weeks now.",
+            "tokens": [
+                50364,
+                286,
+                600,
+                668,
+                1364,
+                322,
+                341,
+                1716,
+                337,
+                1045,
+                3259,
+                586,
+                13,
+                50472
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24444788297017414,
+            "compression_ratio": 0.8852459016393442,
+            "no_speech_prob": 0.003736894577741623,
+            "words": [
+                {
+                    "word": " I've",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.9330883920192719
+                },
+                {
+                    "word": " been",
+                    "start": 0.2,
+                    "end": 0.26,
+                    "probability": 0.9956953525543213
+                },
+                {
+                    "word": " working",
+                    "start": 0.26,
+                    "end": 0.5,
+                    "probability": 0.997080385684967
+                },
+                {
+                    "word": " on",
+                    "start": 0.5,
+                    "end": 0.7,
+                    "probability": 0.9908835291862488
+                },
+                {
+                    "word": " this",
+                    "start": 0.7,
+                    "end": 0.84,
+                    "probability": 0.9889184832572937
+                },
+                {
+                    "word": " project",
+                    "start": 0.84,
+                    "end": 1.18,
+                    "probability": 0.9966917037963867
+                },
+                {
+                    "word": " for",
+                    "start": 1.18,
+                    "end": 1.38,
+                    "probability": 0.9890762567520142
+                },
+                {
+                    "word": " three",
+                    "start": 1.38,
+                    "end": 1.52,
+                    "probability": 0.7645468711853027
+                },
+                {
+                    "word": " weeks",
+                    "start": 1.52,
+                    "end": 1.72,
+                    "probability": 0.9961979985237122
+                },
+                {
+                    "word": " now.",
+                    "start": 1.72,
+                    "end": 2.02,
+                    "probability": 0.9919895529747009
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

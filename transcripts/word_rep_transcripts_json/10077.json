@@ -1,0 +1,140 @@
+{
+    "text": " Can you explain the potential benefits and risks of implementing this? This new technology?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.72,
+            "text": " Can you explain the potential benefits and risks of implementing this?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                2903,
+                264,
+                3995,
+                5311,
+                293,
+                10888,
+                295,
+                18114,
+                341,
+                30,
+                50612
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.352401301974342,
+            "compression_ratio": 1.0705882352941176,
+            "no_speech_prob": 0.003747600829228759,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.9060747623443604
+                },
+                {
+                    "word": " you",
+                    "start": 0.2,
+                    "end": 0.4,
+                    "probability": 0.9981924891471863
+                },
+                {
+                    "word": " explain",
+                    "start": 0.4,
+                    "end": 0.86,
+                    "probability": 0.9981822967529297
+                },
+                {
+                    "word": " the",
+                    "start": 0.86,
+                    "end": 1.08,
+                    "probability": 0.9952161312103271
+                },
+                {
+                    "word": " potential",
+                    "start": 1.08,
+                    "end": 1.58,
+                    "probability": 0.9994263648986816
+                },
+                {
+                    "word": " benefits",
+                    "start": 1.58,
+                    "end": 2.22,
+                    "probability": 0.9844694137573242
+                },
+                {
+                    "word": " and",
+                    "start": 2.22,
+                    "end": 2.58,
+                    "probability": 0.9905425906181335
+                },
+                {
+                    "word": " risks",
+                    "start": 2.58,
+                    "end": 3.02,
+                    "probability": 0.9852065443992615
+                },
+                {
+                    "word": " of",
+                    "start": 3.02,
+                    "end": 3.32,
+                    "probability": 0.9969544410705566
+                },
+                {
+                    "word": " implementing",
+                    "start": 3.32,
+                    "end": 4.04,
+                    "probability": 0.9866750836372375
+                },
+                {
+                    "word": " this?",
+                    "start": 4.04,
+                    "end": 4.72,
+                    "probability": 0.9795995950698853
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.96,
+            "end": 6.16,
+            "text": " This new technology?",
+            "tokens": [
+                50612,
+                639,
+                777,
+                2899,
+                30,
+                50696
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.352401301974342,
+            "compression_ratio": 1.0705882352941176,
+            "no_speech_prob": 0.003747600829228759,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 4.96,
+                    "end": 5.24,
+                    "probability": 0.9544602632522583
+                },
+                {
+                    "word": " new",
+                    "start": 5.24,
+                    "end": 5.44,
+                    "probability": 0.9520171880722046
+                },
+                {
+                    "word": " technology?",
+                    "start": 5.44,
+                    "end": 6.16,
+                    "probability": 0.9949008226394653
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

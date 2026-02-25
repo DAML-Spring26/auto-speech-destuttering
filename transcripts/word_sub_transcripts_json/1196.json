@@ -1,0 +1,66 @@
+{
+    "text": " The conference will feature bleeding experts.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.06,
+            "text": " The conference will feature bleeding experts.",
+            "tokens": [
+                50364,
+                440,
+                7586,
+                486,
+                4111,
+                19312,
+                8572,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34558925628662107,
+            "compression_ratio": 0.8490566037735849,
+            "no_speech_prob": 0.0032429469283670187,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.83823561668396
+                },
+                {
+                    "word": " conference",
+                    "start": 0.14,
+                    "end": 0.5,
+                    "probability": 0.9065863490104675
+                },
+                {
+                    "word": " will",
+                    "start": 0.5,
+                    "end": 0.76,
+                    "probability": 0.9935665726661682
+                },
+                {
+                    "word": " feature",
+                    "start": 0.76,
+                    "end": 1.06,
+                    "probability": 0.9950557947158813
+                },
+                {
+                    "word": " bleeding",
+                    "start": 1.06,
+                    "end": 1.42,
+                    "probability": 0.9892264008522034
+                },
+                {
+                    "word": " experts.",
+                    "start": 1.42,
+                    "end": 2.06,
+                    "probability": 0.985325813293457
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,59 @@
+{
+    "text": " company implemented new security products.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.24,
+            "text": " company implemented new security products.",
+            "tokens": [
+                50364,
+                2237,
+                12270,
+                777,
+                3825,
+                3383,
+                13,
+                50492
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6623433430989584,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.009549083188176155,
+            "words": [
+                {
+                    "word": " company",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.3049512803554535
+                },
+                {
+                    "word": " implemented",
+                    "start": 0.42,
+                    "end": 1.0,
+                    "probability": 0.8613582849502563
+                },
+                {
+                    "word": " new",
+                    "start": 1.0,
+                    "end": 1.24,
+                    "probability": 0.9905430674552917
+                },
+                {
+                    "word": " security",
+                    "start": 1.24,
+                    "end": 1.68,
+                    "probability": 0.994265615940094
+                },
+                {
+                    "word": " products.",
+                    "start": 1.68,
+                    "end": 2.24,
+                    "probability": 0.988849937915802
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

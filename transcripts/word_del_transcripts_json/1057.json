@@ -1,0 +1,161 @@
+{
+    "text": " She explained that she would late for the meeting because of the heavy traffic on the freeway.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.38,
+            "text": " She explained that she would late for the meeting because of the heavy traffic on the",
+            "tokens": [
+                50364,
+                1240,
+                8825,
+                300,
+                750,
+                576,
+                3469,
+                337,
+                264,
+                3440,
+                570,
+                295,
+                264,
+                4676,
+                6419,
+                322,
+                264,
+                50532
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.230060875415802,
+            "compression_ratio": 1.1604938271604939,
+            "no_speech_prob": 0.0025695913936942816,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.6839774250984192
+                },
+                {
+                    "word": " explained",
+                    "start": 0.2,
+                    "end": 0.52,
+                    "probability": 0.9789930582046509
+                },
+                {
+                    "word": " that",
+                    "start": 0.52,
+                    "end": 0.74,
+                    "probability": 0.9740415215492249
+                },
+                {
+                    "word": " she",
+                    "start": 0.74,
+                    "end": 0.9,
+                    "probability": 0.9934263229370117
+                },
+                {
+                    "word": " would",
+                    "start": 0.9,
+                    "end": 1.02,
+                    "probability": 0.986420750617981
+                },
+                {
+                    "word": " late",
+                    "start": 1.02,
+                    "end": 1.22,
+                    "probability": 0.5654129385948181
+                },
+                {
+                    "word": " for",
+                    "start": 1.22,
+                    "end": 1.48,
+                    "probability": 0.9917545318603516
+                },
+                {
+                    "word": " the",
+                    "start": 1.48,
+                    "end": 1.56,
+                    "probability": 0.9934187531471252
+                },
+                {
+                    "word": " meeting",
+                    "start": 1.56,
+                    "end": 1.82,
+                    "probability": 0.9929343461990356
+                },
+                {
+                    "word": " because",
+                    "start": 1.82,
+                    "end": 2.16,
+                    "probability": 0.9920082092285156
+                },
+                {
+                    "word": " of",
+                    "start": 2.16,
+                    "end": 2.34,
+                    "probability": 0.9981843829154968
+                },
+                {
+                    "word": " the",
+                    "start": 2.34,
+                    "end": 2.42,
+                    "probability": 0.970075786113739
+                },
+                {
+                    "word": " heavy",
+                    "start": 2.42,
+                    "end": 2.58,
+                    "probability": 0.99103844165802
+                },
+                {
+                    "word": " traffic",
+                    "start": 2.58,
+                    "end": 3.02,
+                    "probability": 0.9953346848487854
+                },
+                {
+                    "word": " on",
+                    "start": 3.02,
+                    "end": 3.28,
+                    "probability": 0.9891802072525024
+                },
+                {
+                    "word": " the",
+                    "start": 3.28,
+                    "end": 3.38,
+                    "probability": 0.9955682158470154
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.38,
+            "end": 3.78,
+            "text": " freeway.",
+            "tokens": [
+                50532,
+                1737,
+                676,
+                13,
+                50560
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.230060875415802,
+            "compression_ratio": 1.1604938271604939,
+            "no_speech_prob": 0.0025695913936942816,
+            "words": [
+                {
+                    "word": " freeway.",
+                    "start": 3.38,
+                    "end": 3.78,
+                    "probability": 0.9627880156040192
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

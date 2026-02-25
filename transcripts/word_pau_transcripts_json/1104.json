@@ -1,0 +1,95 @@
+{
+    "text": " The company's new policy aims to improve work life balance.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.14,
+            "text": " The company's new policy aims to improve work life balance.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                777,
+                3897,
+                24683,
+                281,
+                3470,
+                589,
+                993,
+                4772,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3422595977783203,
+            "compression_ratio": 0.9076923076923077,
+            "no_speech_prob": 0.008261524140834808,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6100624799728394
+                },
+                {
+                    "word": " company's",
+                    "start": 0.16,
+                    "end": 0.92,
+                    "probability": 0.9642925262451172
+                },
+                {
+                    "word": " new",
+                    "start": 0.92,
+                    "end": 1.16,
+                    "probability": 0.9951674938201904
+                },
+                {
+                    "word": " policy",
+                    "start": 1.16,
+                    "end": 1.68,
+                    "probability": 0.9805479049682617
+                },
+                {
+                    "word": " aims",
+                    "start": 1.68,
+                    "end": 2.12,
+                    "probability": 0.9266349077224731
+                },
+                {
+                    "word": " to",
+                    "start": 2.12,
+                    "end": 2.46,
+                    "probability": 0.973520040512085
+                },
+                {
+                    "word": " improve",
+                    "start": 2.46,
+                    "end": 4.94,
+                    "probability": 0.9474871754646301
+                },
+                {
+                    "word": " work",
+                    "start": 4.94,
+                    "end": 5.36,
+                    "probability": 0.7983558773994446
+                },
+                {
+                    "word": " life",
+                    "start": 5.36,
+                    "end": 5.7,
+                    "probability": 0.506963312625885
+                },
+                {
+                    "word": " balance.",
+                    "start": 5.7,
+                    "end": 6.14,
+                    "probability": 0.9806360602378845
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

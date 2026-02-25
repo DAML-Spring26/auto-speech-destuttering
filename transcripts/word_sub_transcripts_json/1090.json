@@ -1,0 +1,59 @@
+{
+    "text": " They discussed the market friends.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.4,
+            "text": " They discussed the market friends.",
+            "tokens": [
+                50364,
+                814,
+                7152,
+                264,
+                2142,
+                1855,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4670599831475152,
+            "compression_ratio": 0.8095238095238095,
+            "no_speech_prob": 0.0064470949582755566,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6007267236709595
+                },
+                {
+                    "word": " discussed",
+                    "start": 0.14,
+                    "end": 0.52,
+                    "probability": 0.5699145793914795
+                },
+                {
+                    "word": " the",
+                    "start": 0.52,
+                    "end": 0.8,
+                    "probability": 0.9788886904716492
+                },
+                {
+                    "word": " market",
+                    "start": 0.8,
+                    "end": 1.02,
+                    "probability": 0.9765938520431519
+                },
+                {
+                    "word": " friends.",
+                    "start": 1.02,
+                    "end": 1.4,
+                    "probability": 0.8653201460838318
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

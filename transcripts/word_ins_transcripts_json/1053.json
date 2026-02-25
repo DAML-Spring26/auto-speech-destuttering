@@ -1,0 +1,89 @@
+{
+    "text": " Can you check the status, well, of my order?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.72,
+            "text": " Can you check the status, well, of my order?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                1520,
+                264,
+                6558,
+                11,
+                731,
+                11,
+                295,
+                452,
+                1668,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22841216723124186,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.045621298253536224,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.46,
+                    "probability": 0.7968913316726685
+                },
+                {
+                    "word": " you",
+                    "start": 0.46,
+                    "end": 0.58,
+                    "probability": 0.9979654550552368
+                },
+                {
+                    "word": " check",
+                    "start": 0.58,
+                    "end": 0.78,
+                    "probability": 0.9965006113052368
+                },
+                {
+                    "word": " the",
+                    "start": 0.78,
+                    "end": 0.96,
+                    "probability": 0.9892008304595947
+                },
+                {
+                    "word": " status,",
+                    "start": 0.96,
+                    "end": 1.34,
+                    "probability": 0.9939408302307129
+                },
+                {
+                    "word": " well,",
+                    "start": 1.62,
+                    "end": 1.82,
+                    "probability": 0.9444680213928223
+                },
+                {
+                    "word": " of",
+                    "start": 2.08,
+                    "end": 2.2,
+                    "probability": 0.9736829996109009
+                },
+                {
+                    "word": " my",
+                    "start": 2.2,
+                    "end": 2.38,
+                    "probability": 0.9931517839431763
+                },
+                {
+                    "word": " order?",
+                    "start": 2.38,
+                    "end": 2.72,
+                    "probability": 0.9831109046936035
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

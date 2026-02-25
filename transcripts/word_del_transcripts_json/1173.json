@@ -1,0 +1,129 @@
+{
+    "text": " The concert was so loud I could barely hear my friend speaking next to me.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.68,
+            "text": " The concert was so loud I could barely hear my friend speaking next to me.",
+            "tokens": [
+                50364,
+                440,
+                8543,
+                390,
+                370,
+                6588,
+                286,
+                727,
+                10268,
+                1568,
+                452,
+                1277,
+                4124,
+                958,
+                281,
+                385,
+                13,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18842374651055588,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.004764576442539692,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.9191423654556274
+                },
+                {
+                    "word": " concert",
+                    "start": 0.1,
+                    "end": 0.62,
+                    "probability": 0.8961517810821533
+                },
+                {
+                    "word": " was",
+                    "start": 0.62,
+                    "end": 0.92,
+                    "probability": 0.9700210094451904
+                },
+                {
+                    "word": " so",
+                    "start": 0.92,
+                    "end": 1.16,
+                    "probability": 0.9914793968200684
+                },
+                {
+                    "word": " loud",
+                    "start": 1.16,
+                    "end": 1.46,
+                    "probability": 0.9413931965827942
+                },
+                {
+                    "word": " I",
+                    "start": 1.46,
+                    "end": 1.78,
+                    "probability": 0.8336193561553955
+                },
+                {
+                    "word": " could",
+                    "start": 1.78,
+                    "end": 2.02,
+                    "probability": 0.9940404295921326
+                },
+                {
+                    "word": " barely",
+                    "start": 2.02,
+                    "end": 2.44,
+                    "probability": 0.9985349178314209
+                },
+                {
+                    "word": " hear",
+                    "start": 2.44,
+                    "end": 2.78,
+                    "probability": 0.9999105930328369
+                },
+                {
+                    "word": " my",
+                    "start": 2.78,
+                    "end": 2.94,
+                    "probability": 0.9967337846755981
+                },
+                {
+                    "word": " friend",
+                    "start": 2.94,
+                    "end": 3.26,
+                    "probability": 0.7545496225357056
+                },
+                {
+                    "word": " speaking",
+                    "start": 3.26,
+                    "end": 3.78,
+                    "probability": 0.9823710918426514
+                },
+                {
+                    "word": " next",
+                    "start": 3.78,
+                    "end": 4.18,
+                    "probability": 0.9794709086418152
+                },
+                {
+                    "word": " to",
+                    "start": 4.18,
+                    "end": 4.52,
+                    "probability": 0.9907758831977844
+                },
+                {
+                    "word": " me.",
+                    "start": 4.52,
+                    "end": 4.68,
+                    "probability": 0.9982749223709106
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

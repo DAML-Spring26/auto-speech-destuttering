@@ -1,0 +1,96 @@
+{
+    "text": " We'll process your refund within 5.7 business days on.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.8599999999999997,
+            "end": 6.36,
+            "text": " We'll process your refund within 5.7 business days on.",
+            "tokens": [
+                50364,
+                492,
+                603,
+                1399,
+                428,
+                29384,
+                1951,
+                1025,
+                13,
+                22,
+                1606,
+                1708,
+                322,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29993584752082825,
+            "compression_ratio": 0.9,
+            "no_speech_prob": 0.039514098316431046,
+            "words": [
+                {
+                    "word": " We'll",
+                    "start": 0.8599999999999997,
+                    "end": 1.7,
+                    "probability": 0.8739487528800964
+                },
+                {
+                    "word": " process",
+                    "start": 1.7,
+                    "end": 2.12,
+                    "probability": 0.9943442344665527
+                },
+                {
+                    "word": " your",
+                    "start": 2.12,
+                    "end": 2.44,
+                    "probability": 0.9928188920021057
+                },
+                {
+                    "word": " refund",
+                    "start": 2.44,
+                    "end": 2.9,
+                    "probability": 0.9867270588874817
+                },
+                {
+                    "word": " within",
+                    "start": 2.9,
+                    "end": 4.24,
+                    "probability": 0.6108697056770325
+                },
+                {
+                    "word": " 5",
+                    "start": 4.24,
+                    "end": 4.64,
+                    "probability": 0.9670706987380981
+                },
+                {
+                    "word": ".7",
+                    "start": 4.64,
+                    "end": 5.22,
+                    "probability": 0.9958063066005707
+                },
+                {
+                    "word": " business",
+                    "start": 5.22,
+                    "end": 5.7,
+                    "probability": 0.8872751593589783
+                },
+                {
+                    "word": " days",
+                    "start": 5.7,
+                    "end": 6.06,
+                    "probability": 0.9957799911499023
+                },
+                {
+                    "word": " on.",
+                    "start": 6.06,
+                    "end": 6.36,
+                    "probability": 0.9514944553375244
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,59 @@
+{
+    "text": " the concert featured classical basic.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.36,
+            "text": " the concert featured classical basic.",
+            "tokens": [
+                50364,
+                264,
+                8543,
+                13822,
+                13735,
+                3875,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6058481004503038,
+            "compression_ratio": 0.8604651162790697,
+            "no_speech_prob": 0.006767497397959232,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.5610482692718506
+                },
+                {
+                    "word": " concert",
+                    "start": 0.16,
+                    "end": 0.7,
+                    "probability": 0.7216402292251587
+                },
+                {
+                    "word": " featured",
+                    "start": 0.7,
+                    "end": 1.24,
+                    "probability": 0.906237781047821
+                },
+                {
+                    "word": " classical",
+                    "start": 1.24,
+                    "end": 1.84,
+                    "probability": 0.948523998260498
+                },
+                {
+                    "word": " basic.",
+                    "start": 1.84,
+                    "end": 2.36,
+                    "probability": 0.6166773438453674
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

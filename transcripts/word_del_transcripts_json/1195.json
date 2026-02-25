@@ -1,0 +1,81 @@
+{
+    "text": " Employees wear protective gear when handling hazardous materials.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.24,
+            "text": " Employees wear protective gear when handling hazardous materials.",
+            "tokens": [
+                50364,
+                26878,
+                4031,
+                3728,
+                16314,
+                7394,
+                562,
+                13175,
+                40020,
+                5319,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31275514455942005,
+            "compression_ratio": 0.9558823529411765,
+            "no_speech_prob": 0.003817129647359252,
+            "words": [
+                {
+                    "word": " Employees",
+                    "start": 0.0,
+                    "end": 0.56,
+                    "probability": 0.9191522300243378
+                },
+                {
+                    "word": " wear",
+                    "start": 0.56,
+                    "end": 0.7,
+                    "probability": 0.9169507026672363
+                },
+                {
+                    "word": " protective",
+                    "start": 0.7,
+                    "end": 1.14,
+                    "probability": 0.8689455986022949
+                },
+                {
+                    "word": " gear",
+                    "start": 1.14,
+                    "end": 1.54,
+                    "probability": 0.962214469909668
+                },
+                {
+                    "word": " when",
+                    "start": 1.54,
+                    "end": 1.74,
+                    "probability": 0.9045897126197815
+                },
+                {
+                    "word": " handling",
+                    "start": 1.74,
+                    "end": 2.12,
+                    "probability": 0.9896999597549438
+                },
+                {
+                    "word": " hazardous",
+                    "start": 2.12,
+                    "end": 2.52,
+                    "probability": 0.9261482357978821
+                },
+                {
+                    "word": " materials.",
+                    "start": 2.52,
+                    "end": 3.24,
+                    "probability": 0.9970337152481079
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

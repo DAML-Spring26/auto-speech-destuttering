@@ -1,0 +1,59 @@
+{
+    "text": " the board improved final changes.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.72,
+            "text": " the board improved final changes.",
+            "tokens": [
+                50364,
+                264,
+                3150,
+                9689,
+                2572,
+                2962,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5657930903964572,
+            "compression_ratio": 0.8048780487804879,
+            "no_speech_prob": 0.007246654015034437,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.49015918374061584
+                },
+                {
+                    "word": " board",
+                    "start": 0.1,
+                    "end": 0.36,
+                    "probability": 0.3334024250507355
+                },
+                {
+                    "word": " improved",
+                    "start": 0.36,
+                    "end": 0.8,
+                    "probability": 0.5082873702049255
+                },
+                {
+                    "word": " final",
+                    "start": 0.8,
+                    "end": 1.2,
+                    "probability": 0.9709625840187073
+                },
+                {
+                    "word": " changes.",
+                    "start": 1.2,
+                    "end": 1.72,
+                    "probability": 0.9872783422470093
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

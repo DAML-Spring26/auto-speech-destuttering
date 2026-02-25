@@ -1,0 +1,59 @@
+{
+    "text": " Please renew the contract carefully.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.6,
+            "text": " Please renew the contract carefully.",
+            "tokens": [
+                50364,
+                2555,
+                10162,
+                264,
+                4364,
+                7500,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31208274099561906,
+            "compression_ratio": 0.8181818181818182,
+            "no_speech_prob": 0.0066980901174247265,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.7099692225456238
+                },
+                {
+                    "word": " renew",
+                    "start": 0.18,
+                    "end": 0.4,
+                    "probability": 0.825568675994873
+                },
+                {
+                    "word": " the",
+                    "start": 0.4,
+                    "end": 0.58,
+                    "probability": 0.9856884479522705
+                },
+                {
+                    "word": " contract",
+                    "start": 0.58,
+                    "end": 1.0,
+                    "probability": 0.9837554693222046
+                },
+                {
+                    "word": " carefully.",
+                    "start": 1.0,
+                    "end": 1.6,
+                    "probability": 0.9891964197158813
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

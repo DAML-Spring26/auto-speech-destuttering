@@ -1,0 +1,59 @@
+{
+    "text": " The market shows passive trends.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.56,
+            "text": " The market shows passive trends.",
+            "tokens": [
+                50364,
+                440,
+                2142,
+                3110,
+                14975,
+                13892,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4299990071190728,
+            "compression_ratio": 0.8,
+            "no_speech_prob": 0.005141144152730703,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.508055567741394
+                },
+                {
+                    "word": " market",
+                    "start": 0.14,
+                    "end": 0.4,
+                    "probability": 0.6829339861869812
+                },
+                {
+                    "word": " shows",
+                    "start": 0.4,
+                    "end": 0.7,
+                    "probability": 0.8574711680412292
+                },
+                {
+                    "word": " passive",
+                    "start": 0.7,
+                    "end": 1.12,
+                    "probability": 0.992649257183075
+                },
+                {
+                    "word": " trends.",
+                    "start": 1.12,
+                    "end": 1.56,
+                    "probability": 0.9943931102752686
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

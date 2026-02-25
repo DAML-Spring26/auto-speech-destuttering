@@ -1,0 +1,108 @@
+{
+    "text": " The committee is considering to approve the proposed budget for next year.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.7,
+            "text": " The committee is considering to approve the proposed budget for next year.",
+            "tokens": [
+                50364,
+                440,
+                7482,
+                307,
+                8079,
+                281,
+                18827,
+                264,
+                10348,
+                4706,
+                337,
+                958,
+                1064,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24037976562976837,
+            "compression_ratio": 1.0136986301369864,
+            "no_speech_prob": 0.0034906575456261635,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7801280617713928
+                },
+                {
+                    "word": " committee",
+                    "start": 0.12,
+                    "end": 0.54,
+                    "probability": 0.7735171914100647
+                },
+                {
+                    "word": " is",
+                    "start": 0.54,
+                    "end": 0.92,
+                    "probability": 0.995913565158844
+                },
+                {
+                    "word": " considering",
+                    "start": 0.92,
+                    "end": 1.46,
+                    "probability": 0.9926683902740479
+                },
+                {
+                    "word": " to",
+                    "start": 1.46,
+                    "end": 1.7,
+                    "probability": 0.9965246319770813
+                },
+                {
+                    "word": " approve",
+                    "start": 1.7,
+                    "end": 2.0,
+                    "probability": 0.979626476764679
+                },
+                {
+                    "word": " the",
+                    "start": 2.0,
+                    "end": 2.2,
+                    "probability": 0.9881437420845032
+                },
+                {
+                    "word": " proposed",
+                    "start": 2.2,
+                    "end": 2.62,
+                    "probability": 0.9695908427238464
+                },
+                {
+                    "word": " budget",
+                    "start": 2.62,
+                    "end": 3.02,
+                    "probability": 0.9935137033462524
+                },
+                {
+                    "word": " for",
+                    "start": 3.02,
+                    "end": 3.22,
+                    "probability": 0.9851558804512024
+                },
+                {
+                    "word": " next",
+                    "start": 3.22,
+                    "end": 3.44,
+                    "probability": 0.9971568584442139
+                },
+                {
+                    "word": " year.",
+                    "start": 3.44,
+                    "end": 3.7,
+                    "probability": 0.9981381893157959
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

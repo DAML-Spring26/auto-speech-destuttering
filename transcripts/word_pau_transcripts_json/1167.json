@@ -1,0 +1,105 @@
+{
+    "text": " in case of a medical emergency, dial 911 immediately.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.2,
+            "text": " in case of a medical emergency,",
+            "tokens": [
+                50364,
+                294,
+                1389,
+                295,
+                257,
+                4625,
+                7473,
+                11,
+                50480
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5357260704040527,
+            "compression_ratio": 0.9298245614035088,
+            "no_speech_prob": 0.007083710283041,
+            "words": [
+                {
+                    "word": " in",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.5851761698722839
+                },
+                {
+                    "word": " case",
+                    "start": 0.18,
+                    "end": 0.44,
+                    "probability": 0.9856476783752441
+                },
+                {
+                    "word": " of",
+                    "start": 0.44,
+                    "end": 0.68,
+                    "probability": 0.9954915642738342
+                },
+                {
+                    "word": " a",
+                    "start": 0.68,
+                    "end": 0.74,
+                    "probability": 0.9825672507286072
+                },
+                {
+                    "word": " medical",
+                    "start": 0.74,
+                    "end": 1.2,
+                    "probability": 0.9942586421966553
+                },
+                {
+                    "word": " emergency,",
+                    "start": 1.2,
+                    "end": 2.2,
+                    "probability": 0.8991396427154541
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.2,
+            "end": 7.1,
+            "text": " dial 911 immediately.",
+            "tokens": [
+                50624,
+                5502,
+                26901,
+                4258,
+                13,
+                50736
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5357260704040527,
+            "compression_ratio": 0.9298245614035088,
+            "no_speech_prob": 0.007083710283041,
+            "words": [
+                {
+                    "word": " dial",
+                    "start": 5.039999999999999,
+                    "end": 5.56,
+                    "probability": 0.9489972591400146
+                },
+                {
+                    "word": " 911",
+                    "start": 5.56,
+                    "end": 6.32,
+                    "probability": 0.6577367186546326
+                },
+                {
+                    "word": " immediately.",
+                    "start": 6.32,
+                    "end": 7.1,
+                    "probability": 0.9696357846260071
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

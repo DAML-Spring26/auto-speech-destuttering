@@ -1,0 +1,132 @@
+{
+    "text": " that companies commitment to sustainability has resulted in significant reductions in carbon emissions.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.46,
+            "text": " that companies commitment to sustainability has resulted in significant reductions in",
+            "tokens": [
+                50364,
+                300,
+                3431,
+                8371,
+                281,
+                16360,
+                575,
+                18753,
+                294,
+                4776,
+                40296,
+                294,
+                50652
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2534725030263265,
+            "compression_ratio": 1.1333333333333333,
+            "no_speech_prob": 0.0036795579362660646,
+            "words": [
+                {
+                    "word": " that",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8512697815895081
+                },
+                {
+                    "word": " companies",
+                    "start": 0.14,
+                    "end": 0.6,
+                    "probability": 0.8255168199539185
+                },
+                {
+                    "word": " commitment",
+                    "start": 0.6,
+                    "end": 1.24,
+                    "probability": 0.6945207118988037
+                },
+                {
+                    "word": " to",
+                    "start": 1.24,
+                    "end": 1.52,
+                    "probability": 0.9964191913604736
+                },
+                {
+                    "word": " sustainability",
+                    "start": 1.52,
+                    "end": 2.3,
+                    "probability": 0.9593942761421204
+                },
+                {
+                    "word": " has",
+                    "start": 2.3,
+                    "end": 2.86,
+                    "probability": 0.9908413887023926
+                },
+                {
+                    "word": " resulted",
+                    "start": 2.86,
+                    "end": 3.44,
+                    "probability": 0.9965742826461792
+                },
+                {
+                    "word": " in",
+                    "start": 3.44,
+                    "end": 3.68,
+                    "probability": 0.9942546486854553
+                },
+                {
+                    "word": " significant",
+                    "start": 3.68,
+                    "end": 4.3,
+                    "probability": 0.9957966804504395
+                },
+                {
+                    "word": " reductions",
+                    "start": 4.3,
+                    "end": 5.04,
+                    "probability": 0.9847036600112915
+                },
+                {
+                    "word": " in",
+                    "start": 5.04,
+                    "end": 5.46,
+                    "probability": 0.9965440630912781
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 546,
+            "start": 5.46,
+            "end": 6.64,
+            "text": " carbon emissions.",
+            "tokens": [
+                50364,
+                5954,
+                14607,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8896489143371582,
+            "compression_ratio": 0.68,
+            "no_speech_prob": 0.25210776925086975,
+            "words": [
+                {
+                    "word": " carbon",
+                    "start": 5.46,
+                    "end": 6.26,
+                    "probability": 0.0009316140203736722
+                },
+                {
+                    "word": " emissions.",
+                    "start": 6.26,
+                    "end": 6.64,
+                    "probability": 0.9974778294563293
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

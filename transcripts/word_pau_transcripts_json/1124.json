@@ -1,0 +1,95 @@
+{
+    "text": " I'm going to lie stream the concert for my followers.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.0,
+            "text": " I'm going to lie stream the concert for my followers.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                516,
+                281,
+                4544,
+                4309,
+                264,
+                8543,
+                337,
+                452,
+                13071,
+                13,
+                50588
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.43019657135009765,
+            "compression_ratio": 0.8983050847457628,
+            "no_speech_prob": 0.02073926292359829,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.9090223908424377
+                },
+                {
+                    "word": " going",
+                    "start": 0.22,
+                    "end": 0.58,
+                    "probability": 0.99607914686203
+                },
+                {
+                    "word": " to",
+                    "start": 0.58,
+                    "end": 1.96,
+                    "probability": 0.4050171375274658
+                },
+                {
+                    "word": " lie",
+                    "start": 1.96,
+                    "end": 2.18,
+                    "probability": 0.8285909295082092
+                },
+                {
+                    "word": " stream",
+                    "start": 2.18,
+                    "end": 2.42,
+                    "probability": 0.3859367370605469
+                },
+                {
+                    "word": " the",
+                    "start": 2.42,
+                    "end": 2.58,
+                    "probability": 0.9383547306060791
+                },
+                {
+                    "word": " concert",
+                    "start": 2.58,
+                    "end": 3.02,
+                    "probability": 0.9766935706138611
+                },
+                {
+                    "word": " for",
+                    "start": 3.02,
+                    "end": 3.26,
+                    "probability": 0.9901245832443237
+                },
+                {
+                    "word": " my",
+                    "start": 3.26,
+                    "end": 3.44,
+                    "probability": 0.9878028035163879
+                },
+                {
+                    "word": " followers.",
+                    "start": 3.44,
+                    "end": 4.0,
+                    "probability": 0.9866209030151367
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

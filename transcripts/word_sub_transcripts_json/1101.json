@@ -1,0 +1,59 @@
+{
+    "text": " the conference focused on invitation.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.86,
+            "text": " the conference focused on invitation.",
+            "tokens": [
+                50364,
+                264,
+                7586,
+                5178,
+                322,
+                17890,
+                13,
+                50480
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4691891670227051,
+            "compression_ratio": 0.8222222222222222,
+            "no_speech_prob": 0.019791297614574432,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.4503255784511566
+                },
+                {
+                    "word": " conference",
+                    "start": 0.12,
+                    "end": 0.56,
+                    "probability": 0.9576362371444702
+                },
+                {
+                    "word": " focused",
+                    "start": 0.56,
+                    "end": 1.06,
+                    "probability": 0.9661934971809387
+                },
+                {
+                    "word": " on",
+                    "start": 1.06,
+                    "end": 1.42,
+                    "probability": 0.9982774257659912
+                },
+                {
+                    "word": " invitation.",
+                    "start": 1.42,
+                    "end": 1.86,
+                    "probability": 0.950687825679779
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

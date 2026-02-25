@@ -1,0 +1,86 @@
+{
+    "text": " Can you pass the... ...sort plays?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.38,
+            "text": " Can you pass the...",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                1320,
+                264,
+                485,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8941686630249024,
+            "compression_ratio": 0.85,
+            "no_speech_prob": 0.0272136889398098,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.8704925179481506
+                },
+                {
+                    "word": " you",
+                    "start": 0.22,
+                    "end": 0.36,
+                    "probability": 0.9937424063682556
+                },
+                {
+                    "word": " pass",
+                    "start": 0.36,
+                    "end": 0.8,
+                    "probability": 0.9271130561828613
+                },
+                {
+                    "word": " the...",
+                    "start": 0.8,
+                    "end": 2.38,
+                    "probability": 0.4302242323756218
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.4,
+            "end": 5.1,
+            "text": " ...sort plays?",
+            "tokens": [
+                50584,
+                1097,
+                82,
+                477,
+                5749,
+                30,
+                50684
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8941686630249024,
+            "compression_ratio": 0.85,
+            "no_speech_prob": 0.0272136889398098,
+            "words": [
+                {
+                    "word": " ...sort",
+                    "start": 4.3,
+                    "end": 4.74,
+                    "probability": 0.34276794890562695
+                },
+                {
+                    "word": " plays?",
+                    "start": 4.74,
+                    "end": 5.1,
+                    "probability": 0.4491511881351471
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

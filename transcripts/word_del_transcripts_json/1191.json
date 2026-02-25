@@ -1,0 +1,108 @@
+{
+    "text": " You arrive at the airport at least two hours before your flight.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.78,
+            "text": " You arrive at the airport at least two hours before your flight.",
+            "tokens": [
+                50364,
+                509,
+                8881,
+                412,
+                264,
+                10155,
+                412,
+                1935,
+                732,
+                2496,
+                949,
+                428,
+                7018,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.274415522813797,
+            "compression_ratio": 0.9696969696969697,
+            "no_speech_prob": 0.01111245434731245,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7300296425819397
+                },
+                {
+                    "word": " arrive",
+                    "start": 0.14,
+                    "end": 0.42,
+                    "probability": 0.951702356338501
+                },
+                {
+                    "word": " at",
+                    "start": 0.42,
+                    "end": 0.6,
+                    "probability": 0.9694859385490417
+                },
+                {
+                    "word": " the",
+                    "start": 0.6,
+                    "end": 0.68,
+                    "probability": 0.9934436082839966
+                },
+                {
+                    "word": " airport",
+                    "start": 0.68,
+                    "end": 1.0,
+                    "probability": 0.9874565005302429
+                },
+                {
+                    "word": " at",
+                    "start": 1.0,
+                    "end": 1.22,
+                    "probability": 0.9686177968978882
+                },
+                {
+                    "word": " least",
+                    "start": 1.22,
+                    "end": 1.38,
+                    "probability": 0.98973548412323
+                },
+                {
+                    "word": " two",
+                    "start": 1.38,
+                    "end": 1.7,
+                    "probability": 0.5718669295310974
+                },
+                {
+                    "word": " hours",
+                    "start": 1.7,
+                    "end": 1.92,
+                    "probability": 0.9991004467010498
+                },
+                {
+                    "word": " before",
+                    "start": 1.92,
+                    "end": 2.3,
+                    "probability": 0.9979457259178162
+                },
+                {
+                    "word": " your",
+                    "start": 2.3,
+                    "end": 2.48,
+                    "probability": 0.8494130373001099
+                },
+                {
+                    "word": " flight.",
+                    "start": 2.48,
+                    "end": 2.78,
+                    "probability": 0.997885525226593
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

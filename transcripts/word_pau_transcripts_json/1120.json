@@ -1,0 +1,95 @@
+{
+    "text": " If you hear the fire alarm, evacuate the building immediately.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.1,
+            "text": " If you hear the fire alarm, evacuate the building immediately.",
+            "tokens": [
+                50364,
+                759,
+                291,
+                1568,
+                264,
+                2610,
+                14183,
+                11,
+                48570,
+                264,
+                2390,
+                4258,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4893909136454264,
+            "compression_ratio": 0.9538461538461539,
+            "no_speech_prob": 0.004289788659662008,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.7850537896156311
+                },
+                {
+                    "word": " you",
+                    "start": 0.18,
+                    "end": 0.28,
+                    "probability": 0.9952380657196045
+                },
+                {
+                    "word": " hear",
+                    "start": 0.28,
+                    "end": 0.4,
+                    "probability": 0.8926672339439392
+                },
+                {
+                    "word": " the",
+                    "start": 0.4,
+                    "end": 0.58,
+                    "probability": 0.9909047484397888
+                },
+                {
+                    "word": " fire",
+                    "start": 0.58,
+                    "end": 0.8,
+                    "probability": 0.9681289792060852
+                },
+                {
+                    "word": " alarm,",
+                    "start": 0.8,
+                    "end": 1.26,
+                    "probability": 0.9779834151268005
+                },
+                {
+                    "word": " evacuate",
+                    "start": 1.74,
+                    "end": 2.24,
+                    "probability": 0.6798046231269836
+                },
+                {
+                    "word": " the",
+                    "start": 2.24,
+                    "end": 4.22,
+                    "probability": 0.3206068277359009
+                },
+                {
+                    "word": " building",
+                    "start": 4.22,
+                    "end": 4.6,
+                    "probability": 0.9846391677856445
+                },
+                {
+                    "word": " immediately.",
+                    "start": 4.6,
+                    "end": 5.1,
+                    "probability": 0.9908517003059387
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

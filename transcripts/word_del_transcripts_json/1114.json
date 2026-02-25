@@ -1,0 +1,82 @@
+{
+    "text": " The professor explained the experiment results were inconclusive.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.62,
+            "text": " The professor explained the experiment results were inconclusive.",
+            "tokens": [
+                50364,
+                440,
+                8304,
+                8825,
+                264,
+                5120,
+                3542,
+                645,
+                20972,
+                66,
+                7233,
+                13,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2968832084110805,
+            "compression_ratio": 0.9848484848484849,
+            "no_speech_prob": 0.004075406119227409,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7581509947776794
+                },
+                {
+                    "word": " professor",
+                    "start": 0.12,
+                    "end": 0.78,
+                    "probability": 0.7147059440612793
+                },
+                {
+                    "word": " explained",
+                    "start": 0.78,
+                    "end": 1.56,
+                    "probability": 0.9653200507164001
+                },
+                {
+                    "word": " the",
+                    "start": 1.56,
+                    "end": 1.84,
+                    "probability": 0.9658172726631165
+                },
+                {
+                    "word": " experiment",
+                    "start": 1.84,
+                    "end": 2.46,
+                    "probability": 0.9773656129837036
+                },
+                {
+                    "word": " results",
+                    "start": 2.46,
+                    "end": 3.2,
+                    "probability": 0.9642179012298584
+                },
+                {
+                    "word": " were",
+                    "start": 3.2,
+                    "end": 3.74,
+                    "probability": 0.8804087042808533
+                },
+                {
+                    "word": " inconclusive.",
+                    "start": 3.74,
+                    "end": 4.62,
+                    "probability": 0.985911508401235
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

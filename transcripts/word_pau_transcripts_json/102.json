@@ -1,0 +1,73 @@
+{
+    "text": " The professor explained the theory in detail.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.62,
+            "text": " The professor explained the theory in detail.",
+            "tokens": [
+                50364,
+                440,
+                8304,
+                8825,
+                264,
+                5261,
+                294,
+                2607,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5101445371454413,
+            "compression_ratio": 0.9,
+            "no_speech_prob": 0.01721876673400402,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7506393790245056
+                },
+                {
+                    "word": " professor",
+                    "start": 0.1,
+                    "end": 0.5,
+                    "probability": 0.4705212414264679
+                },
+                {
+                    "word": " explained",
+                    "start": 0.5,
+                    "end": 1.28,
+                    "probability": 0.6548022031784058
+                },
+                {
+                    "word": " the",
+                    "start": 1.28,
+                    "end": 4.72,
+                    "probability": 0.5683541893959045
+                },
+                {
+                    "word": " theory",
+                    "start": 4.72,
+                    "end": 5.06,
+                    "probability": 0.805815577507019
+                },
+                {
+                    "word": " in",
+                    "start": 5.06,
+                    "end": 5.22,
+                    "probability": 0.9466433525085449
+                },
+                {
+                    "word": " detail.",
+                    "start": 5.22,
+                    "end": 5.62,
+                    "probability": 0.9945163130760193
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

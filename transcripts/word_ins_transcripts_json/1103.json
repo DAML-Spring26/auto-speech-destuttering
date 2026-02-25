@@ -1,0 +1,101 @@
+{
+    "text": " We need to discuss our vacation plans for next summer at...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.9599999999999995,
+            "end": 5.8,
+            "text": " We need to discuss our vacation plans for next summer at...",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                2248,
+                527,
+                12830,
+                5482,
+                337,
+                958,
+                4266,
+                412,
+                485,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3619183858235677,
+            "compression_ratio": 0.921875,
+            "no_speech_prob": 0.11256898939609528,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 1.9599999999999995,
+                    "end": 2.6,
+                    "probability": 0.8887031674385071
+                },
+                {
+                    "word": " need",
+                    "start": 2.6,
+                    "end": 2.76,
+                    "probability": 0.9958867430686951
+                },
+                {
+                    "word": " to",
+                    "start": 2.76,
+                    "end": 2.94,
+                    "probability": 0.9983458518981934
+                },
+                {
+                    "word": " discuss",
+                    "start": 2.94,
+                    "end": 3.24,
+                    "probability": 0.9951005578041077
+                },
+                {
+                    "word": " our",
+                    "start": 3.24,
+                    "end": 3.66,
+                    "probability": 0.9924386143684387
+                },
+                {
+                    "word": " vacation",
+                    "start": 3.66,
+                    "end": 4.16,
+                    "probability": 0.9033346176147461
+                },
+                {
+                    "word": " plans",
+                    "start": 4.16,
+                    "end": 4.62,
+                    "probability": 0.9984942674636841
+                },
+                {
+                    "word": " for",
+                    "start": 4.62,
+                    "end": 4.84,
+                    "probability": 0.996203601360321
+                },
+                {
+                    "word": " next",
+                    "start": 4.84,
+                    "end": 5.1,
+                    "probability": 0.9601984620094299
+                },
+                {
+                    "word": " summer",
+                    "start": 5.1,
+                    "end": 5.42,
+                    "probability": 0.9463469982147217
+                },
+                {
+                    "word": " at...",
+                    "start": 5.42,
+                    "end": 5.8,
+                    "probability": 0.7193281352519989
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

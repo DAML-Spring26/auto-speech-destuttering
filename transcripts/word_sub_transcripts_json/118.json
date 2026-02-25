@@ -1,0 +1,73 @@
+{
+    "text": " We need to analyze the market resource.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.98,
+            "text": " We need to analyze the market resource.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                12477,
+                264,
+                2142,
+                7684,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40939890254627576,
+            "compression_ratio": 0.8297872340425532,
+            "no_speech_prob": 0.005696617998182774,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.5887355804443359
+                },
+                {
+                    "word": " need",
+                    "start": 0.34,
+                    "end": 0.48,
+                    "probability": 0.9960475564002991
+                },
+                {
+                    "word": " to",
+                    "start": 0.48,
+                    "end": 0.62,
+                    "probability": 0.997771680355072
+                },
+                {
+                    "word": " analyze",
+                    "start": 0.62,
+                    "end": 0.98,
+                    "probability": 0.7110952734947205
+                },
+                {
+                    "word": " the",
+                    "start": 0.98,
+                    "end": 1.26,
+                    "probability": 0.9894502758979797
+                },
+                {
+                    "word": " market",
+                    "start": 1.26,
+                    "end": 1.56,
+                    "probability": 0.9352939128875732
+                },
+                {
+                    "word": " resource.",
+                    "start": 1.56,
+                    "end": 1.98,
+                    "probability": 0.9872085452079773
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

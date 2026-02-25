@@ -1,0 +1,59 @@
+{
+    "text": " The building requires regular containment.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.96,
+            "text": " The building requires regular containment.",
+            "tokens": [
+                50364,
+                440,
+                2390,
+                7029,
+                3890,
+                44058,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36572331852383083,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.0034618601202964783,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6431645154953003
+                },
+                {
+                    "word": " building",
+                    "start": 0.12,
+                    "end": 0.38,
+                    "probability": 0.9897271990776062
+                },
+                {
+                    "word": " requires",
+                    "start": 0.38,
+                    "end": 0.96,
+                    "probability": 0.9932166934013367
+                },
+                {
+                    "word": " regular",
+                    "start": 0.96,
+                    "end": 1.38,
+                    "probability": 0.9664013385772705
+                },
+                {
+                    "word": " containment.",
+                    "start": 1.38,
+                    "end": 1.96,
+                    "probability": 0.9909345507621765
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

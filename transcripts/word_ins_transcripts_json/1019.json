@@ -1,0 +1,87 @@
+{
+    "text": " Have you reviewed the contract with the legal department?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.34,
+            "text": " Have you reviewed the contract with the legal department?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                18429,
+                264,
+                4364,
+                365,
+                264,
+                5089,
+                5882,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39690109399648815,
+            "compression_ratio": 0.9193548387096774,
+            "no_speech_prob": 0.008873837068676949,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 0.52,
+                    "probability": 0.7837319374084473
+                },
+                {
+                    "word": " you",
+                    "start": 0.52,
+                    "end": 0.76,
+                    "probability": 0.963241696357727
+                },
+                {
+                    "word": " reviewed",
+                    "start": 0.76,
+                    "end": 1.5,
+                    "probability": 0.27202486991882324
+                },
+                {
+                    "word": " the",
+                    "start": 1.5,
+                    "end": 1.76,
+                    "probability": 0.9903691411018372
+                },
+                {
+                    "word": " contract",
+                    "start": 1.76,
+                    "end": 2.18,
+                    "probability": 0.9911726117134094
+                },
+                {
+                    "word": " with",
+                    "start": 2.18,
+                    "end": 2.46,
+                    "probability": 0.9972031116485596
+                },
+                {
+                    "word": " the",
+                    "start": 2.46,
+                    "end": 2.6,
+                    "probability": 0.9922183752059937
+                },
+                {
+                    "word": " legal",
+                    "start": 2.6,
+                    "end": 2.82,
+                    "probability": 0.7137851119041443
+                },
+                {
+                    "word": " department?",
+                    "start": 2.82,
+                    "end": 3.34,
+                    "probability": 0.9483132362365723
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

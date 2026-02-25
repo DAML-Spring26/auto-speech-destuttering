@@ -1,0 +1,84 @@
+{
+    "text": " just adopted the... cutest puppy ever.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.38,
+            "text": " just adopted the...",
+            "tokens": [
+                50364,
+                445,
+                12175,
+                264,
+                485,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.689308606661283,
+            "compression_ratio": 0.8444444444444444,
+            "no_speech_prob": 0.006995061412453651,
+            "words": [
+                {
+                    "word": " just",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.4704979360103607
+                },
+                {
+                    "word": " adopted",
+                    "start": 0.28,
+                    "end": 0.74,
+                    "probability": 0.975350022315979
+                },
+                {
+                    "word": " the...",
+                    "start": 0.74,
+                    "end": 2.38,
+                    "probability": 0.31781066954135895
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.959999999999998,
+            "end": 5.48,
+            "text": " cutest puppy ever.",
+            "tokens": [
+                50582,
+                46582,
+                18196,
+                1562,
+                13,
+                50682
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.689308606661283,
+            "compression_ratio": 0.8444444444444444,
+            "no_speech_prob": 0.006995061412453651,
+            "words": [
+                {
+                    "word": " cutest",
+                    "start": 3.959999999999998,
+                    "end": 4.72,
+                    "probability": 0.7547041773796082
+                },
+                {
+                    "word": " puppy",
+                    "start": 4.72,
+                    "end": 5.1,
+                    "probability": 0.9671270847320557
+                },
+                {
+                    "word": " ever.",
+                    "start": 5.1,
+                    "end": 5.48,
+                    "probability": 0.9974772334098816
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

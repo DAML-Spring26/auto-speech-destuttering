@@ -1,0 +1,119 @@
+{
+    "text": " which board game should we play for? Game night this weekend.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.3,
+            "text": " which board game should we play for?",
+            "tokens": [
+                50364,
+                597,
+                3150,
+                1216,
+                820,
+                321,
+                862,
+                337,
+                30,
+                50492
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5612918535868326,
+            "compression_ratio": 0.9384615384615385,
+            "no_speech_prob": 0.017828160896897316,
+            "words": [
+                {
+                    "word": " which",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.4627668559551239
+                },
+                {
+                    "word": " board",
+                    "start": 0.26,
+                    "end": 0.54,
+                    "probability": 0.954505443572998
+                },
+                {
+                    "word": " game",
+                    "start": 0.54,
+                    "end": 0.92,
+                    "probability": 0.9217386841773987
+                },
+                {
+                    "word": " should",
+                    "start": 0.92,
+                    "end": 1.28,
+                    "probability": 0.9916790127754211
+                },
+                {
+                    "word": " we",
+                    "start": 1.28,
+                    "end": 1.48,
+                    "probability": 0.9915174841880798
+                },
+                {
+                    "word": " play",
+                    "start": 1.48,
+                    "end": 1.8,
+                    "probability": 0.996260404586792
+                },
+                {
+                    "word": " for?",
+                    "start": 1.8,
+                    "end": 2.3,
+                    "probability": 0.9958499670028687
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.08,
+            "end": 6.42,
+            "text": " Game night this weekend.",
+            "tokens": [
+                50618,
+                7522,
+                1818,
+                341,
+                6711,
+                13,
+                50716
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5612918535868326,
+            "compression_ratio": 0.9384615384615385,
+            "no_speech_prob": 0.017828160896897316,
+            "words": [
+                {
+                    "word": " Game",
+                    "start": 4.9,
+                    "end": 5.28,
+                    "probability": 0.600811243057251
+                },
+                {
+                    "word": " night",
+                    "start": 5.28,
+                    "end": 5.58,
+                    "probability": 0.3668631613254547
+                },
+                {
+                    "word": " this",
+                    "start": 5.58,
+                    "end": 6.0,
+                    "probability": 0.884821355342865
+                },
+                {
+                    "word": " weekend.",
+                    "start": 6.0,
+                    "end": 6.42,
+                    "probability": 0.9920681715011597
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,80 @@
+{
+    "text": " the company be hiring new employees next month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.32,
+            "text": " the company be hiring new employees next month.",
+            "tokens": [
+                50364,
+                264,
+                2237,
+                312,
+                15335,
+                777,
+                6619,
+                958,
+                1618,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38967466354370117,
+            "compression_ratio": 0.8867924528301887,
+            "no_speech_prob": 0.009722411632537842,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.44751209020614624
+                },
+                {
+                    "word": " company",
+                    "start": 0.1,
+                    "end": 0.46,
+                    "probability": 0.9943295121192932
+                },
+                {
+                    "word": " be",
+                    "start": 0.46,
+                    "end": 0.68,
+                    "probability": 0.8770414590835571
+                },
+                {
+                    "word": " hiring",
+                    "start": 0.68,
+                    "end": 1.1,
+                    "probability": 0.9977049231529236
+                },
+                {
+                    "word": " new",
+                    "start": 1.1,
+                    "end": 1.36,
+                    "probability": 0.8532264828681946
+                },
+                {
+                    "word": " employees",
+                    "start": 1.36,
+                    "end": 1.74,
+                    "probability": 0.9834713339805603
+                },
+                {
+                    "word": " next",
+                    "start": 1.74,
+                    "end": 2.0,
+                    "probability": 0.9845563173294067
+                },
+                {
+                    "word": " month.",
+                    "start": 2.0,
+                    "end": 2.32,
+                    "probability": 0.9930272698402405
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

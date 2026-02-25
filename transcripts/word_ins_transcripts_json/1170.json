@@ -1,0 +1,102 @@
+{
+    "text": " Remember to call out Sarah for her birthday tomorrow, you know.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.98,
+            "text": " Remember to call out Sarah for her birthday tomorrow, you know.",
+            "tokens": [
+                50364,
+                5459,
+                281,
+                818,
+                484,
+                9519,
+                337,
+                720,
+                6154,
+                4153,
+                11,
+                291,
+                458,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3014332354068756,
+            "compression_ratio": 0.9264705882352942,
+            "no_speech_prob": 0.01497619692236185,
+            "words": [
+                {
+                    "word": " Remember",
+                    "start": 0.0,
+                    "end": 0.76,
+                    "probability": 0.8678181767463684
+                },
+                {
+                    "word": " to",
+                    "start": 0.76,
+                    "end": 0.94,
+                    "probability": 0.9980329871177673
+                },
+                {
+                    "word": " call",
+                    "start": 0.94,
+                    "end": 1.24,
+                    "probability": 0.9958741068840027
+                },
+                {
+                    "word": " out",
+                    "start": 1.24,
+                    "end": 1.56,
+                    "probability": 0.39679110050201416
+                },
+                {
+                    "word": " Sarah",
+                    "start": 1.56,
+                    "end": 1.98,
+                    "probability": 0.752409815788269
+                },
+                {
+                    "word": " for",
+                    "start": 1.98,
+                    "end": 2.26,
+                    "probability": 0.9919090867042542
+                },
+                {
+                    "word": " her",
+                    "start": 2.26,
+                    "end": 2.44,
+                    "probability": 0.9987442493438721
+                },
+                {
+                    "word": " birthday",
+                    "start": 2.44,
+                    "end": 2.86,
+                    "probability": 0.7985414862632751
+                },
+                {
+                    "word": " tomorrow,",
+                    "start": 2.86,
+                    "end": 3.26,
+                    "probability": 0.9960010647773743
+                },
+                {
+                    "word": " you",
+                    "start": 3.64,
+                    "end": 3.78,
+                    "probability": 0.9596766233444214
+                },
+                {
+                    "word": " know.",
+                    "start": 3.78,
+                    "end": 3.98,
+                    "probability": 0.9973706007003784
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

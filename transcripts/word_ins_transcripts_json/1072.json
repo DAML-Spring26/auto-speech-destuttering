@@ -1,0 +1,115 @@
+{
+    "text": " Can you explain the difference? Well, between mitosis and meiosis.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.0599999999999994,
+            "end": 3.02,
+            "text": " Can you explain the difference?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                2903,
+                264,
+                2649,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32697699069976804,
+            "compression_ratio": 0.9295774647887324,
+            "no_speech_prob": 0.24081873893737793,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 1.0599999999999994,
+                    "end": 1.86,
+                    "probability": 0.8302227258682251
+                },
+                {
+                    "word": " you",
+                    "start": 1.86,
+                    "end": 2.04,
+                    "probability": 0.9932307004928589
+                },
+                {
+                    "word": " explain",
+                    "start": 2.04,
+                    "end": 2.42,
+                    "probability": 0.9975045323371887
+                },
+                {
+                    "word": " the",
+                    "start": 2.42,
+                    "end": 2.62,
+                    "probability": 0.9976531863212585
+                },
+                {
+                    "word": " difference?",
+                    "start": 2.62,
+                    "end": 3.02,
+                    "probability": 0.9961872696876526
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.9,
+            "end": 6.72,
+            "text": " Well, between mitosis and meiosis.",
+            "tokens": [
+                50564,
+                1042,
+                11,
+                1296,
+                2194,
+                8211,
+                293,
+                385,
+                48783,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32697699069976804,
+            "compression_ratio": 0.9295774647887324,
+            "no_speech_prob": 0.24081873893737793,
+            "words": [
+                {
+                    "word": " Well,",
+                    "start": 3.9,
+                    "end": 4.18,
+                    "probability": 0.9629954099655151
+                },
+                {
+                    "word": " between",
+                    "start": 4.78,
+                    "end": 5.18,
+                    "probability": 0.9943755865097046
+                },
+                {
+                    "word": " mitosis",
+                    "start": 5.18,
+                    "end": 5.7,
+                    "probability": 0.7915269732475281
+                },
+                {
+                    "word": " and",
+                    "start": 5.7,
+                    "end": 6.22,
+                    "probability": 0.9874773025512695
+                },
+                {
+                    "word": " meiosis.",
+                    "start": 6.22,
+                    "end": 6.72,
+                    "probability": 0.8561566174030304
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,108 @@
+{
+    "text": " The marketing team and the sales department let in the strategy meeting.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.88,
+            "text": " The marketing team and the sales department let in the strategy meeting.",
+            "tokens": [
+                50364,
+                440,
+                6370,
+                1469,
+                293,
+                264,
+                5763,
+                5882,
+                718,
+                294,
+                264,
+                5206,
+                3440,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4201921820640564,
+            "compression_ratio": 1.0588235294117647,
+            "no_speech_prob": 0.002337623620405793,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.5288575291633606
+                },
+                {
+                    "word": " marketing",
+                    "start": 0.08,
+                    "end": 0.3,
+                    "probability": 0.8797836899757385
+                },
+                {
+                    "word": " team",
+                    "start": 0.3,
+                    "end": 0.64,
+                    "probability": 0.999197781085968
+                },
+                {
+                    "word": " and",
+                    "start": 0.64,
+                    "end": 0.8,
+                    "probability": 0.9717708826065063
+                },
+                {
+                    "word": " the",
+                    "start": 0.8,
+                    "end": 0.88,
+                    "probability": 0.9865627884864807
+                },
+                {
+                    "word": " sales",
+                    "start": 0.88,
+                    "end": 1.08,
+                    "probability": 0.5549901127815247
+                },
+                {
+                    "word": " department",
+                    "start": 1.08,
+                    "end": 1.56,
+                    "probability": 0.9920032024383545
+                },
+                {
+                    "word": " let",
+                    "start": 1.56,
+                    "end": 1.78,
+                    "probability": 0.6634587645530701
+                },
+                {
+                    "word": " in",
+                    "start": 1.78,
+                    "end": 2.0,
+                    "probability": 0.35657262802124023
+                },
+                {
+                    "word": " the",
+                    "start": 2.0,
+                    "end": 2.12,
+                    "probability": 0.9929420948028564
+                },
+                {
+                    "word": " strategy",
+                    "start": 2.12,
+                    "end": 2.46,
+                    "probability": 0.9403322339057922
+                },
+                {
+                    "word": " meeting.",
+                    "start": 2.46,
+                    "end": 2.88,
+                    "probability": 0.9968171715736389
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

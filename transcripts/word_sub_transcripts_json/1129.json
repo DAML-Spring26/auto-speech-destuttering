@@ -1,0 +1,59 @@
+{
+    "text": " the project demands careful conservation.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.26,
+            "text": " the project demands careful conservation.",
+            "tokens": [
+                50364,
+                264,
+                1716,
+                15107,
+                5026,
+                16185,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4955024719238281,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.01031662616878748,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.3902601897716522
+                },
+                {
+                    "word": " project",
+                    "start": 0.16,
+                    "end": 0.54,
+                    "probability": 0.5163827538490295
+                },
+                {
+                    "word": " demands",
+                    "start": 0.54,
+                    "end": 0.94,
+                    "probability": 0.9961462020874023
+                },
+                {
+                    "word": " careful",
+                    "start": 0.94,
+                    "end": 1.48,
+                    "probability": 0.9814549088478088
+                },
+                {
+                    "word": " conservation.",
+                    "start": 1.48,
+                    "end": 2.26,
+                    "probability": 0.9908021092414856
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

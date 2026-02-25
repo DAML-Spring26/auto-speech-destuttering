@@ -1,0 +1,109 @@
+{
+    "text": " The patient's condition is being closely monitored by a team of specialists.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.38,
+            "text": " The patient's condition is being closely monitored by a team of specialists.",
+            "tokens": [
+                50364,
+                440,
+                4537,
+                311,
+                4188,
+                307,
+                885,
+                8185,
+                36255,
+                538,
+                257,
+                1469,
+                295,
+                25476,
+                13,
+                50548
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3095230775720933,
+            "compression_ratio": 1.0555555555555556,
+            "no_speech_prob": 0.008751463145017624,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.49278703331947327
+                },
+                {
+                    "word": " patient's",
+                    "start": 0.08,
+                    "end": 0.52,
+                    "probability": 0.9519874155521393
+                },
+                {
+                    "word": " condition",
+                    "start": 0.52,
+                    "end": 0.84,
+                    "probability": 0.9847175478935242
+                },
+                {
+                    "word": " is",
+                    "start": 0.84,
+                    "end": 1.06,
+                    "probability": 0.43339693546295166
+                },
+                {
+                    "word": " being",
+                    "start": 1.06,
+                    "end": 1.18,
+                    "probability": 0.9784940481185913
+                },
+                {
+                    "word": " closely",
+                    "start": 1.18,
+                    "end": 1.54,
+                    "probability": 0.9876272082328796
+                },
+                {
+                    "word": " monitored",
+                    "start": 1.54,
+                    "end": 1.98,
+                    "probability": 0.995511531829834
+                },
+                {
+                    "word": " by",
+                    "start": 1.98,
+                    "end": 2.22,
+                    "probability": 0.995031476020813
+                },
+                {
+                    "word": " a",
+                    "start": 2.22,
+                    "end": 2.58,
+                    "probability": 0.7616164684295654
+                },
+                {
+                    "word": " team",
+                    "start": 2.58,
+                    "end": 2.74,
+                    "probability": 0.9802526235580444
+                },
+                {
+                    "word": " of",
+                    "start": 2.74,
+                    "end": 2.86,
+                    "probability": 0.9964737296104431
+                },
+                {
+                    "word": " specialists.",
+                    "start": 2.86,
+                    "end": 3.38,
+                    "probability": 0.9493970274925232
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

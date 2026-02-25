@@ -1,0 +1,115 @@
+{
+    "text": " He wondered if he should accept the job offer or continue his studies.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.84,
+            "text": " He wondered if he should accept the job offer or continue his studies.",
+            "tokens": [
+                50364,
+                634,
+                17055,
+                498,
+                415,
+                820,
+                3241,
+                264,
+                1691,
+                2626,
+                420,
+                2354,
+                702,
+                5313,
+                13,
+                50628
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25754230162676645,
+            "compression_ratio": 1.0144927536231885,
+            "no_speech_prob": 0.007512223906815052,
+            "words": [
+                {
+                    "word": " He",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6741418838500977
+                },
+                {
+                    "word": " wondered",
+                    "start": 0.12,
+                    "end": 0.54,
+                    "probability": 0.89726322889328
+                },
+                {
+                    "word": " if",
+                    "start": 0.54,
+                    "end": 0.92,
+                    "probability": 0.9958966970443726
+                },
+                {
+                    "word": " he",
+                    "start": 0.92,
+                    "end": 1.08,
+                    "probability": 0.9929163455963135
+                },
+                {
+                    "word": " should",
+                    "start": 1.08,
+                    "end": 1.26,
+                    "probability": 0.9823154807090759
+                },
+                {
+                    "word": " accept",
+                    "start": 1.26,
+                    "end": 1.6,
+                    "probability": 0.9937041401863098
+                },
+                {
+                    "word": " the",
+                    "start": 1.6,
+                    "end": 1.86,
+                    "probability": 0.9783106446266174
+                },
+                {
+                    "word": " job",
+                    "start": 1.86,
+                    "end": 2.16,
+                    "probability": 0.8773166537284851
+                },
+                {
+                    "word": " offer",
+                    "start": 2.16,
+                    "end": 2.66,
+                    "probability": 0.9364941716194153
+                },
+                {
+                    "word": " or",
+                    "start": 2.66,
+                    "end": 3.04,
+                    "probability": 0.9580506086349487
+                },
+                {
+                    "word": " continue",
+                    "start": 3.04,
+                    "end": 4.08,
+                    "probability": 0.9417760372161865
+                },
+                {
+                    "word": " his",
+                    "start": 4.08,
+                    "end": 4.42,
+                    "probability": 0.9941967725753784
+                },
+                {
+                    "word": " studies.",
+                    "start": 4.42,
+                    "end": 4.84,
+                    "probability": 0.9982556700706482
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

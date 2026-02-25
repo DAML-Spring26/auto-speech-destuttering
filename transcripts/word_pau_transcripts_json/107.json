@@ -1,0 +1,73 @@
+{
+    "text": " What time does our flight depart tomorrow?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.06,
+            "text": " What time does our flight depart tomorrow?",
+            "tokens": [
+                50364,
+                708,
+                565,
+                775,
+                527,
+                7018,
+                9110,
+                4153,
+                30,
+                50532
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5796178037470038,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.017047341912984848,
+            "words": [
+                {
+                    "word": " What",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.723235011100769
+                },
+                {
+                    "word": " time",
+                    "start": 0.16,
+                    "end": 0.4,
+                    "probability": 0.2163827270269394
+                },
+                {
+                    "word": " does",
+                    "start": 0.4,
+                    "end": 0.62,
+                    "probability": 0.9972968697547913
+                },
+                {
+                    "word": " our",
+                    "start": 0.62,
+                    "end": 0.72,
+                    "probability": 0.889680027961731
+                },
+                {
+                    "word": " flight",
+                    "start": 0.72,
+                    "end": 0.96,
+                    "probability": 0.99089515209198
+                },
+                {
+                    "word": " depart",
+                    "start": 0.96,
+                    "end": 2.6,
+                    "probability": 0.5802487134933472
+                },
+                {
+                    "word": " tomorrow?",
+                    "start": 2.6,
+                    "end": 3.06,
+                    "probability": 0.8649786710739136
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

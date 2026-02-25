@@ -1,0 +1,73 @@
+{
+    "text": " They must permit the final report tomorrow.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.72,
+            "text": " They must permit the final report tomorrow.",
+            "tokens": [
+                50364,
+                814,
+                1633,
+                13423,
+                264,
+                2572,
+                2275,
+                4153,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.284872596914118,
+            "compression_ratio": 0.86,
+            "no_speech_prob": 0.00703370152041316,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.549372136592865
+                },
+                {
+                    "word": " must",
+                    "start": 0.14,
+                    "end": 0.3,
+                    "probability": 0.9959726929664612
+                },
+                {
+                    "word": " permit",
+                    "start": 0.3,
+                    "end": 0.54,
+                    "probability": 0.9890627264976501
+                },
+                {
+                    "word": " the",
+                    "start": 0.54,
+                    "end": 0.7,
+                    "probability": 0.979504406452179
+                },
+                {
+                    "word": " final",
+                    "start": 0.7,
+                    "end": 0.94,
+                    "probability": 0.9844053387641907
+                },
+                {
+                    "word": " report",
+                    "start": 0.94,
+                    "end": 1.32,
+                    "probability": 0.9890670776367188
+                },
+                {
+                    "word": " tomorrow.",
+                    "start": 1.32,
+                    "end": 1.72,
+                    "probability": 0.5682743787765503
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

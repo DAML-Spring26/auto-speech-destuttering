@@ -1,0 +1,106 @@
+{
+    "text": " We'll need to um, recalibrate the instruments before the next test.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.4,
+            "text": " We'll need to um, recalibrate the instruments before the next test.",
+            "tokens": [
+                50364,
+                492,
+                603,
+                643,
+                281,
+                1105,
+                11,
+                850,
+                304,
+                897,
+                4404,
+                264,
+                12190,
+                949,
+                264,
+                958,
+                1500,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23371105194091796,
+            "compression_ratio": 0.9852941176470589,
+            "no_speech_prob": 0.021551230922341347,
+            "words": [
+                {
+                    "word": " We'll",
+                    "start": 0.0,
+                    "end": 0.46,
+                    "probability": 0.9153783917427063
+                },
+                {
+                    "word": " need",
+                    "start": 0.46,
+                    "end": 0.6,
+                    "probability": 0.9968589544296265
+                },
+                {
+                    "word": " to",
+                    "start": 0.6,
+                    "end": 0.82,
+                    "probability": 0.9819226264953613
+                },
+                {
+                    "word": " um,",
+                    "start": 0.82,
+                    "end": 1.0,
+                    "probability": 0.43327459692955017
+                },
+                {
+                    "word": " recalibrate",
+                    "start": 1.2,
+                    "end": 1.78,
+                    "probability": 0.962338000535965
+                },
+                {
+                    "word": " the",
+                    "start": 1.78,
+                    "end": 1.92,
+                    "probability": 0.9910436868667603
+                },
+                {
+                    "word": " instruments",
+                    "start": 1.92,
+                    "end": 2.26,
+                    "probability": 0.892674446105957
+                },
+                {
+                    "word": " before",
+                    "start": 2.26,
+                    "end": 2.62,
+                    "probability": 0.9967069029808044
+                },
+                {
+                    "word": " the",
+                    "start": 2.62,
+                    "end": 2.8,
+                    "probability": 0.9908004403114319
+                },
+                {
+                    "word": " next",
+                    "start": 2.8,
+                    "end": 3.0,
+                    "probability": 0.9959059953689575
+                },
+                {
+                    "word": " test.",
+                    "start": 3.0,
+                    "end": 3.4,
+                    "probability": 0.990216851234436
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

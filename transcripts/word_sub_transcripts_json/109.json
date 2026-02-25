@@ -1,0 +1,61 @@
+{
+    "text": " Please verify the Transaction retails.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " Please verify the Transaction retails.",
+            "tokens": [
+                50364,
+                2555,
+                16888,
+                264,
+                6531,
+                2894,
+                1533,
+                6227,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5131104642694647,
+            "compression_ratio": 0.8260869565217391,
+            "no_speech_prob": 0.01272980123758316,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.5893333554267883
+                },
+                {
+                    "word": " verify",
+                    "start": 0.22,
+                    "end": 0.6,
+                    "probability": 0.9805358648300171
+                },
+                {
+                    "word": " the",
+                    "start": 0.6,
+                    "end": 0.8,
+                    "probability": 0.9853217005729675
+                },
+                {
+                    "word": " Transaction",
+                    "start": 0.8,
+                    "end": 1.4,
+                    "probability": 0.4384300261735916
+                },
+                {
+                    "word": " retails.",
+                    "start": 1.4,
+                    "end": 2.0,
+                    "probability": 0.7202574014663696
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

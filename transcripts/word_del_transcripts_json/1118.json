@@ -1,0 +1,95 @@
+{
+    "text": " We need to finalize budget for the upcoming fiscal year.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.8,
+            "text": " We need to finalize budget for the upcoming fiscal year.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                2572,
+                1125,
+                4706,
+                337,
+                264,
+                11500,
+                15897,
+                1064,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26707471211751305,
+            "compression_ratio": 0.8888888888888888,
+            "no_speech_prob": 0.005960510112345219,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7435181736946106
+                },
+                {
+                    "word": " need",
+                    "start": 0.14,
+                    "end": 0.24,
+                    "probability": 0.9965277314186096
+                },
+                {
+                    "word": " to",
+                    "start": 0.24,
+                    "end": 0.38,
+                    "probability": 0.9988144636154175
+                },
+                {
+                    "word": " finalize",
+                    "start": 0.38,
+                    "end": 0.92,
+                    "probability": 0.7835633158683777
+                },
+                {
+                    "word": " budget",
+                    "start": 0.92,
+                    "end": 1.26,
+                    "probability": 0.9292321801185608
+                },
+                {
+                    "word": " for",
+                    "start": 1.26,
+                    "end": 1.5,
+                    "probability": 0.992725133895874
+                },
+                {
+                    "word": " the",
+                    "start": 1.5,
+                    "end": 1.64,
+                    "probability": 0.9901698231697083
+                },
+                {
+                    "word": " upcoming",
+                    "start": 1.64,
+                    "end": 2.0,
+                    "probability": 0.9871615767478943
+                },
+                {
+                    "word": " fiscal",
+                    "start": 2.0,
+                    "end": 2.46,
+                    "probability": 0.9768709540367126
+                },
+                {
+                    "word": " year.",
+                    "start": 2.46,
+                    "end": 2.8,
+                    "probability": 0.9993647933006287
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

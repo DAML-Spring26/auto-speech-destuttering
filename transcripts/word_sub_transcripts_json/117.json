@@ -1,0 +1,59 @@
+{
+    "text": " The system requires regular debates.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.72,
+            "text": " The system requires regular debates.",
+            "tokens": [
+                50364,
+                440,
+                1185,
+                7029,
+                3890,
+                24203,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3804992569817437,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.003700926899909973,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.713234007358551
+                },
+                {
+                    "word": " system",
+                    "start": 0.1,
+                    "end": 0.42,
+                    "probability": 0.99842369556427
+                },
+                {
+                    "word": " requires",
+                    "start": 0.42,
+                    "end": 0.86,
+                    "probability": 0.9927486777305603
+                },
+                {
+                    "word": " regular",
+                    "start": 0.86,
+                    "end": 1.3,
+                    "probability": 0.9889869689941406
+                },
+                {
+                    "word": " debates.",
+                    "start": 1.3,
+                    "end": 1.72,
+                    "probability": 0.9733676314353943
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

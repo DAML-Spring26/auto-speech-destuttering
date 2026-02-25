@@ -1,0 +1,112 @@
+{
+    "text": " The surgery is scheduled for you now. Next Tuesday morning.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.66,
+            "text": " The surgery is scheduled for you now.",
+            "tokens": [
+                50364,
+                440,
+                7930,
+                307,
+                15678,
+                337,
+                291,
+                586,
+                13,
+                50538
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5364994161269244,
+            "compression_ratio": 0.9076923076923077,
+            "no_speech_prob": 0.04930809885263443,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.96,
+                    "probability": 0.87567138671875
+                },
+                {
+                    "word": " surgery",
+                    "start": 0.96,
+                    "end": 1.4,
+                    "probability": 0.9919188618659973
+                },
+                {
+                    "word": " is",
+                    "start": 1.4,
+                    "end": 1.64,
+                    "probability": 0.9973194003105164
+                },
+                {
+                    "word": " scheduled",
+                    "start": 1.64,
+                    "end": 2.06,
+                    "probability": 0.9995706677436829
+                },
+                {
+                    "word": " for",
+                    "start": 2.06,
+                    "end": 2.36,
+                    "probability": 0.9897717833518982
+                },
+                {
+                    "word": " you",
+                    "start": 2.36,
+                    "end": 2.46,
+                    "probability": 0.9914845824241638
+                },
+                {
+                    "word": " now.",
+                    "start": 2.46,
+                    "end": 2.66,
+                    "probability": 0.3943088948726654
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.34,
+            "end": 4.58,
+            "text": " Next Tuesday morning.",
+            "tokens": [
+                50538,
+                3087,
+                10017,
+                2446,
+                13,
+                50638
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5364994161269244,
+            "compression_ratio": 0.9076923076923077,
+            "no_speech_prob": 0.04930809885263443,
+            "words": [
+                {
+                    "word": " Next",
+                    "start": 3.34,
+                    "end": 3.7,
+                    "probability": 0.9552677273750305
+                },
+                {
+                    "word": " Tuesday",
+                    "start": 3.7,
+                    "end": 4.16,
+                    "probability": 0.9910569190979004
+                },
+                {
+                    "word": " morning.",
+                    "start": 4.16,
+                    "end": 4.58,
+                    "probability": 0.8907367587089539
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

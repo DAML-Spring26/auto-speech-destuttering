@@ -1,0 +1,81 @@
+{
+    "text": " I'm going to the store to buy groceries.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.4600000000000001,
+            "end": 2.5,
+            "text": " I'm going to the store to buy groceries.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                516,
+                281,
+                264,
+                3531,
+                281,
+                2256,
+                31391,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3349439180814303,
+            "compression_ratio": 0.8888888888888888,
+            "no_speech_prob": 0.02121918648481369,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.4600000000000001,
+                    "end": 0.9,
+                    "probability": 0.9124708473682404
+                },
+                {
+                    "word": " going",
+                    "start": 0.9,
+                    "end": 1.08,
+                    "probability": 0.9983314871788025
+                },
+                {
+                    "word": " to",
+                    "start": 1.08,
+                    "end": 1.26,
+                    "probability": 0.9960770010948181
+                },
+                {
+                    "word": " the",
+                    "start": 1.26,
+                    "end": 1.38,
+                    "probability": 0.992569625377655
+                },
+                {
+                    "word": " store",
+                    "start": 1.38,
+                    "end": 1.72,
+                    "probability": 0.5812678933143616
+                },
+                {
+                    "word": " to",
+                    "start": 1.72,
+                    "end": 1.94,
+                    "probability": 0.9990251064300537
+                },
+                {
+                    "word": " buy",
+                    "start": 1.94,
+                    "end": 2.1,
+                    "probability": 0.9466522932052612
+                },
+                {
+                    "word": " groceries.",
+                    "start": 2.1,
+                    "end": 2.5,
+                    "probability": 0.9985232949256897
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

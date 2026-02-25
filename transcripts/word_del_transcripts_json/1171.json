@@ -1,0 +1,94 @@
+{
+    "text": " She wondered the restaurant would be open on Christmas Day.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.62,
+            "text": " She wondered the restaurant would be open on Christmas Day.",
+            "tokens": [
+                50364,
+                1240,
+                17055,
+                264,
+                6383,
+                576,
+                312,
+                1269,
+                322,
+                5272,
+                5226,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.275615964617048,
+            "compression_ratio": 0.921875,
+            "no_speech_prob": 0.0042390418238937855,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.7753334045410156
+                },
+                {
+                    "word": " wondered",
+                    "start": 0.18,
+                    "end": 0.48,
+                    "probability": 0.990584135055542
+                },
+                {
+                    "word": " the",
+                    "start": 0.48,
+                    "end": 0.72,
+                    "probability": 0.9157571196556091
+                },
+                {
+                    "word": " restaurant",
+                    "start": 0.72,
+                    "end": 1.08,
+                    "probability": 0.7775782942771912
+                },
+                {
+                    "word": " would",
+                    "start": 1.08,
+                    "end": 1.34,
+                    "probability": 0.9920239448547363
+                },
+                {
+                    "word": " be",
+                    "start": 1.34,
+                    "end": 1.48,
+                    "probability": 0.9863547682762146
+                },
+                {
+                    "word": " open",
+                    "start": 1.48,
+                    "end": 1.78,
+                    "probability": 0.9914093613624573
+                },
+                {
+                    "word": " on",
+                    "start": 1.78,
+                    "end": 1.94,
+                    "probability": 0.9925795197486877
+                },
+                {
+                    "word": " Christmas",
+                    "start": 1.94,
+                    "end": 2.3,
+                    "probability": 0.9730448722839355
+                },
+                {
+                    "word": " Day.",
+                    "start": 2.3,
+                    "end": 2.62,
+                    "probability": 0.8773459196090698
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

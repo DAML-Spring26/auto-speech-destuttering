@@ -1,0 +1,93 @@
+{
+    "text": " The company's financial report exceeded. Investor expectations.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.14,
+            "text": " The company's financial report exceeded.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                4669,
+                2275,
+                38026,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4686262309551239,
+            "compression_ratio": 0.9264705882352942,
+            "no_speech_prob": 0.009310869500041008,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7923434376716614
+                },
+                {
+                    "word": " company's",
+                    "start": 0.12,
+                    "end": 0.72,
+                    "probability": 0.9483454823493958
+                },
+                {
+                    "word": " financial",
+                    "start": 0.72,
+                    "end": 1.2,
+                    "probability": 0.9844815731048584
+                },
+                {
+                    "word": " report",
+                    "start": 1.2,
+                    "end": 1.5,
+                    "probability": 0.9918760061264038
+                },
+                {
+                    "word": " exceeded.",
+                    "start": 1.5,
+                    "end": 2.14,
+                    "probability": 0.9886897206306458
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.0,
+            "end": 5.3,
+            "text": " Investor expectations.",
+            "tokens": [
+                50564,
+                14008,
+                284,
+                9843,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4686262309551239,
+            "compression_ratio": 0.9264705882352942,
+            "no_speech_prob": 0.009310869500041008,
+            "words": [
+                {
+                    "word": " Investor",
+                    "start": 3.9999999999999996,
+                    "end": 4.64,
+                    "probability": 0.9084977805614471
+                },
+                {
+                    "word": " expectations.",
+                    "start": 4.64,
+                    "end": 5.3,
+                    "probability": 0.9293971061706543
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

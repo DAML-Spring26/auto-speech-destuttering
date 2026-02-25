@@ -1,0 +1,81 @@
+{
+    "text": " The weather forecast predicts heavy rain tomorrow were.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.6,
+            "text": " The weather forecast predicts heavy rain tomorrow were.",
+            "tokens": [
+                50364,
+                440,
+                5503,
+                14330,
+                6069,
+                82,
+                4676,
+                4830,
+                4153,
+                645,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.44480052361121547,
+            "compression_ratio": 0.8870967741935484,
+            "no_speech_prob": 0.04417576640844345,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 1.12,
+                    "probability": 0.8262093663215637
+                },
+                {
+                    "word": " weather",
+                    "start": 1.12,
+                    "end": 1.4,
+                    "probability": 0.9803879261016846
+                },
+                {
+                    "word": " forecast",
+                    "start": 1.4,
+                    "end": 1.92,
+                    "probability": 0.9903104901313782
+                },
+                {
+                    "word": " predicts",
+                    "start": 1.92,
+                    "end": 2.8,
+                    "probability": 0.9905290007591248
+                },
+                {
+                    "word": " heavy",
+                    "start": 2.8,
+                    "end": 3.5,
+                    "probability": 0.9162778258323669
+                },
+                {
+                    "word": " rain",
+                    "start": 3.5,
+                    "end": 3.78,
+                    "probability": 0.9435795545578003
+                },
+                {
+                    "word": " tomorrow",
+                    "start": 3.78,
+                    "end": 4.18,
+                    "probability": 0.9295205473899841
+                },
+                {
+                    "word": " were.",
+                    "start": 4.18,
+                    "end": 4.6,
+                    "probability": 0.647235095500946
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

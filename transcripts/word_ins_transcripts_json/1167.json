@@ -1,0 +1,88 @@
+{
+    "text": " Dad, have you seen my baseball glove anywhere like...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.5,
+            "text": " Dad, have you seen my baseball glove anywhere like...",
+            "tokens": [
+                50364,
+                5639,
+                11,
+                362,
+                291,
+                1612,
+                452,
+                14323,
+                26928,
+                4992,
+                411,
+                485,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4496991974966867,
+            "compression_ratio": 0.8833333333333333,
+            "no_speech_prob": 0.036220140755176544,
+            "words": [
+                {
+                    "word": " Dad,",
+                    "start": 0.0,
+                    "end": 0.66,
+                    "probability": 0.9037781953811646
+                },
+                {
+                    "word": " have",
+                    "start": 1.24,
+                    "end": 1.6,
+                    "probability": 0.9506863355636597
+                },
+                {
+                    "word": " you",
+                    "start": 1.6,
+                    "end": 1.74,
+                    "probability": 0.9978283047676086
+                },
+                {
+                    "word": " seen",
+                    "start": 1.74,
+                    "end": 1.94,
+                    "probability": 0.996575653553009
+                },
+                {
+                    "word": " my",
+                    "start": 1.94,
+                    "end": 2.14,
+                    "probability": 0.9975154399871826
+                },
+                {
+                    "word": " baseball",
+                    "start": 2.14,
+                    "end": 2.52,
+                    "probability": 0.9812986254692078
+                },
+                {
+                    "word": " glove",
+                    "start": 2.52,
+                    "end": 2.86,
+                    "probability": 0.8813996911048889
+                },
+                {
+                    "word": " anywhere",
+                    "start": 2.86,
+                    "end": 3.34,
+                    "probability": 0.9805466532707214
+                },
+                {
+                    "word": " like...",
+                    "start": 3.34,
+                    "end": 4.5,
+                    "probability": 0.3399409055709839
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

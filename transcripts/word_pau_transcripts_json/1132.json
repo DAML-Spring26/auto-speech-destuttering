@@ -1,0 +1,94 @@
+{
+    "text": " Can you help me choose an outfit for the party?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.56,
+            "text": " Can you help me choose an outfit for the party?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                854,
+                385,
+                2826,
+                364,
+                11263,
+                337,
+                264,
+                3595,
+                30,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22648940767560685,
+            "compression_ratio": 0.8703703703703703,
+            "no_speech_prob": 0.0076196384616196156,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.8248546123504639
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.36,
+                    "probability": 0.9949479103088379
+                },
+                {
+                    "word": " help",
+                    "start": 0.36,
+                    "end": 0.66,
+                    "probability": 0.9977203011512756
+                },
+                {
+                    "word": " me",
+                    "start": 0.66,
+                    "end": 0.86,
+                    "probability": 0.9710726141929626
+                },
+                {
+                    "word": " choose",
+                    "start": 0.86,
+                    "end": 1.4,
+                    "probability": 0.9237837791442871
+                },
+                {
+                    "word": " an",
+                    "start": 1.4,
+                    "end": 1.72,
+                    "probability": 0.7106636762619019
+                },
+                {
+                    "word": " outfit",
+                    "start": 1.72,
+                    "end": 3.38,
+                    "probability": 0.8151467442512512
+                },
+                {
+                    "word": " for",
+                    "start": 3.38,
+                    "end": 3.86,
+                    "probability": 0.9897149205207825
+                },
+                {
+                    "word": " the",
+                    "start": 3.86,
+                    "end": 4.04,
+                    "probability": 0.9935694932937622
+                },
+                {
+                    "word": " party?",
+                    "start": 4.04,
+                    "end": 4.56,
+                    "probability": 0.9895356297492981
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

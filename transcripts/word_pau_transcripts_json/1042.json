@@ -1,0 +1,94 @@
+{
+    "text": " which movie genre do you prefer for a relaxing evening?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.8,
+            "text": " which movie genre do you prefer for a relaxing evening?",
+            "tokens": [
+                50364,
+                597,
+                3169,
+                11022,
+                360,
+                291,
+                4382,
+                337,
+                257,
+                20103,
+                5634,
+                30,
+                50672
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40229817799159456,
+            "compression_ratio": 0.9166666666666666,
+            "no_speech_prob": 0.012264253571629524,
+            "words": [
+                {
+                    "word": " which",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.7105558514595032
+                },
+                {
+                    "word": " movie",
+                    "start": 0.3,
+                    "end": 0.58,
+                    "probability": 0.6946888566017151
+                },
+                {
+                    "word": " genre",
+                    "start": 0.58,
+                    "end": 0.88,
+                    "probability": 0.8208093047142029
+                },
+                {
+                    "word": " do",
+                    "start": 0.88,
+                    "end": 1.08,
+                    "probability": 0.9906046986579895
+                },
+                {
+                    "word": " you",
+                    "start": 1.08,
+                    "end": 1.18,
+                    "probability": 0.9947167038917542
+                },
+                {
+                    "word": " prefer",
+                    "start": 1.18,
+                    "end": 1.48,
+                    "probability": 0.9988749623298645
+                },
+                {
+                    "word": " for",
+                    "start": 1.48,
+                    "end": 1.84,
+                    "probability": 0.8008002638816833
+                },
+                {
+                    "word": " a",
+                    "start": 1.84,
+                    "end": 2.0,
+                    "probability": 0.34098947048187256
+                },
+                {
+                    "word": " relaxing",
+                    "start": 2.0,
+                    "end": 5.28,
+                    "probability": 0.923442006111145
+                },
+                {
+                    "word": " evening?",
+                    "start": 5.28,
+                    "end": 5.8,
+                    "probability": 0.9939729571342468
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

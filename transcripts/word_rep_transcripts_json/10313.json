@@ -1,0 +1,101 @@
+{
+    "text": " Is it possible to extend our stay for an additional night?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.22,
+            "text": " Is it possible to extend our stay for an additional night?",
+            "tokens": [
+                50364,
+                1119,
+                309,
+                1944,
+                281,
+                10101,
+                527,
+                1754,
+                337,
+                364,
+                4497,
+                1818,
+                30,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34914929072062173,
+            "compression_ratio": 0.9354838709677419,
+            "no_speech_prob": 0.014554474502801895,
+            "words": [
+                {
+                    "word": " Is",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.6885985136032104
+                },
+                {
+                    "word": " it",
+                    "start": 0.2,
+                    "end": 0.32,
+                    "probability": 0.9911110997200012
+                },
+                {
+                    "word": " possible",
+                    "start": 0.32,
+                    "end": 0.88,
+                    "probability": 0.9975784420967102
+                },
+                {
+                    "word": " to",
+                    "start": 0.88,
+                    "end": 1.24,
+                    "probability": 0.9981794357299805
+                },
+                {
+                    "word": " extend",
+                    "start": 1.24,
+                    "end": 1.66,
+                    "probability": 0.7498100399971008
+                },
+                {
+                    "word": " our",
+                    "start": 1.66,
+                    "end": 1.92,
+                    "probability": 0.9612393379211426
+                },
+                {
+                    "word": " stay",
+                    "start": 1.92,
+                    "end": 2.26,
+                    "probability": 0.8238461017608643
+                },
+                {
+                    "word": " for",
+                    "start": 2.26,
+                    "end": 2.54,
+                    "probability": 0.35436373949050903
+                },
+                {
+                    "word": " an",
+                    "start": 2.54,
+                    "end": 2.84,
+                    "probability": 0.912507951259613
+                },
+                {
+                    "word": " additional",
+                    "start": 2.84,
+                    "end": 3.72,
+                    "probability": 0.9839372038841248
+                },
+                {
+                    "word": " night?",
+                    "start": 3.72,
+                    "end": 4.22,
+                    "probability": 0.9828093647956848
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

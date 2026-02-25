@@ -1,0 +1,80 @@
+{
+    "text": " The new software update improves overall system performance.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.04,
+            "text": " The new software update improves overall system performance.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                4722,
+                5623,
+                24771,
+                4787,
+                1185,
+                3389,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39019819100697833,
+            "compression_ratio": 0.9230769230769231,
+            "no_speech_prob": 0.003788786241784692,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7271760106086731
+                },
+                {
+                    "word": " new",
+                    "start": 0.1,
+                    "end": 0.28,
+                    "probability": 0.9740809798240662
+                },
+                {
+                    "word": " software",
+                    "start": 0.28,
+                    "end": 0.72,
+                    "probability": 0.9437655210494995
+                },
+                {
+                    "word": " update",
+                    "start": 0.72,
+                    "end": 1.08,
+                    "probability": 0.9728022217750549
+                },
+                {
+                    "word": " improves",
+                    "start": 1.08,
+                    "end": 1.42,
+                    "probability": 0.97995525598526
+                },
+                {
+                    "word": " overall",
+                    "start": 1.42,
+                    "end": 1.84,
+                    "probability": 0.8755661845207214
+                },
+                {
+                    "word": " system",
+                    "start": 1.84,
+                    "end": 2.36,
+                    "probability": 0.817797839641571
+                },
+                {
+                    "word": " performance.",
+                    "start": 2.36,
+                    "end": 5.04,
+                    "probability": 0.6198498010635376
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

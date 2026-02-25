@@ -1,0 +1,88 @@
+{
+    "text": " The symptoms you're describing could indicate a viral infection.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.14,
+            "text": " The symptoms you're describing could indicate a viral infection.",
+            "tokens": [
+                50364,
+                440,
+                8332,
+                291,
+                434,
+                16141,
+                727,
+                13330,
+                257,
+                16132,
+                11764,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41967483929225374,
+            "compression_ratio": 0.927536231884058,
+            "no_speech_prob": 0.004404314327985048,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.7151960730552673
+                },
+                {
+                    "word": " symptoms",
+                    "start": 0.18,
+                    "end": 0.58,
+                    "probability": 0.9948875308036804
+                },
+                {
+                    "word": " you're",
+                    "start": 0.58,
+                    "end": 0.9,
+                    "probability": 0.7374885380268097
+                },
+                {
+                    "word": " describing",
+                    "start": 0.9,
+                    "end": 1.4,
+                    "probability": 0.9867478609085083
+                },
+                {
+                    "word": " could",
+                    "start": 1.4,
+                    "end": 1.94,
+                    "probability": 0.9926849603652954
+                },
+                {
+                    "word": " indicate",
+                    "start": 1.94,
+                    "end": 4.84,
+                    "probability": 0.8755253553390503
+                },
+                {
+                    "word": " a",
+                    "start": 4.84,
+                    "end": 5.1,
+                    "probability": 0.9507412910461426
+                },
+                {
+                    "word": " viral",
+                    "start": 5.1,
+                    "end": 5.5,
+                    "probability": 0.9698572754859924
+                },
+                {
+                    "word": " infection.",
+                    "start": 5.5,
+                    "end": 6.14,
+                    "probability": 0.9982095956802368
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

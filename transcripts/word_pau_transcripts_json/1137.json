@@ -1,0 +1,87 @@
+{
+    "text": " The latest smartphone features an advanced facial recognition system.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.94,
+            "text": " The latest smartphone features an advanced facial recognition system.",
+            "tokens": [
+                50364,
+                440,
+                6792,
+                13307,
+                4122,
+                364,
+                7339,
+                15642,
+                11150,
+                1185,
+                13,
+                50672
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3613840616666354,
+            "compression_ratio": 1.0147058823529411,
+            "no_speech_prob": 0.007842769846320152,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7020438313484192
+                },
+                {
+                    "word": " latest",
+                    "start": 0.14,
+                    "end": 0.4,
+                    "probability": 0.9951121211051941
+                },
+                {
+                    "word": " smartphone",
+                    "start": 0.4,
+                    "end": 1.0,
+                    "probability": 0.9503504037857056
+                },
+                {
+                    "word": " features",
+                    "start": 1.0,
+                    "end": 1.62,
+                    "probability": 0.9869773983955383
+                },
+                {
+                    "word": " an",
+                    "start": 1.62,
+                    "end": 1.96,
+                    "probability": 0.982793927192688
+                },
+                {
+                    "word": " advanced",
+                    "start": 1.96,
+                    "end": 2.42,
+                    "probability": 0.8854679465293884
+                },
+                {
+                    "word": " facial",
+                    "start": 2.42,
+                    "end": 2.94,
+                    "probability": 0.9773914813995361
+                },
+                {
+                    "word": " recognition",
+                    "start": 2.94,
+                    "end": 5.24,
+                    "probability": 0.7418517470359802
+                },
+                {
+                    "word": " system.",
+                    "start": 5.24,
+                    "end": 5.94,
+                    "probability": 0.9959537982940674
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,52 @@
+{
+    "text": " We should improve determination.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.18,
+            "text": " We should improve determination.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                3470,
+                18432,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4767254889011383,
+            "compression_ratio": 0.8,
+            "no_speech_prob": 0.007997749373316765,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5917689800262451
+                },
+                {
+                    "word": " should",
+                    "start": 0.1,
+                    "end": 0.26,
+                    "probability": 0.9971354007720947
+                },
+                {
+                    "word": " improve",
+                    "start": 0.26,
+                    "end": 0.58,
+                    "probability": 0.9919014573097229
+                },
+                {
+                    "word": " determination.",
+                    "start": 0.58,
+                    "end": 1.18,
+                    "probability": 0.7593546509742737
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

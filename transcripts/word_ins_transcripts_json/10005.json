@@ -1,0 +1,77 @@
+{
+    "text": " Where's the nearest you know? Fire extinguisher.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.04,
+            "end": 4.08,
+            "text": " Where's the nearest you know? Fire extinguisher.",
+            "tokens": [
+                50364,
+                2305,
+                311,
+                264,
+                23831,
+                291,
+                458,
+                30,
+                7652,
+                33829,
+                8479,
+                511,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3999502182006836,
+            "compression_ratio": 0.8727272727272727,
+            "no_speech_prob": 0.037655677646398544,
+            "words": [
+                {
+                    "word": " Where's",
+                    "start": 1.04,
+                    "end": 1.56,
+                    "probability": 0.8003855347633362
+                },
+                {
+                    "word": " the",
+                    "start": 1.56,
+                    "end": 1.68,
+                    "probability": 0.9929935336112976
+                },
+                {
+                    "word": " nearest",
+                    "start": 1.68,
+                    "end": 1.94,
+                    "probability": 0.9903926849365234
+                },
+                {
+                    "word": " you",
+                    "start": 1.94,
+                    "end": 2.2,
+                    "probability": 0.837433397769928
+                },
+                {
+                    "word": " know?",
+                    "start": 2.2,
+                    "end": 2.44,
+                    "probability": 0.981099545955658
+                },
+                {
+                    "word": " Fire",
+                    "start": 3.06,
+                    "end": 3.3,
+                    "probability": 0.9415827989578247
+                },
+                {
+                    "word": " extinguisher.",
+                    "start": 3.3,
+                    "end": 4.08,
+                    "probability": 0.9538388053576151
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

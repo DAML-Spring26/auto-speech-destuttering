@@ -1,0 +1,87 @@
+{
+    "text": " We need to save money to for our vacation.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.3800000000000001,
+            "end": 4.16,
+            "text": " We need to save money to for our vacation.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                3155,
+                1460,
+                281,
+                337,
+                527,
+                12830,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39574509400587815,
+            "compression_ratio": 0.8936170212765957,
+            "no_speech_prob": 0.07929874956607819,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 1.3800000000000001,
+                    "end": 1.84,
+                    "probability": 0.9074294567108154
+                },
+                {
+                    "word": " need",
+                    "start": 1.84,
+                    "end": 2.02,
+                    "probability": 0.9980267882347107
+                },
+                {
+                    "word": " to",
+                    "start": 2.02,
+                    "end": 2.22,
+                    "probability": 0.9975634813308716
+                },
+                {
+                    "word": " save",
+                    "start": 2.22,
+                    "end": 2.48,
+                    "probability": 0.9936004877090454
+                },
+                {
+                    "word": " money",
+                    "start": 2.48,
+                    "end": 2.88,
+                    "probability": 0.99765944480896
+                },
+                {
+                    "word": " to",
+                    "start": 2.88,
+                    "end": 3.24,
+                    "probability": 0.6954074501991272
+                },
+                {
+                    "word": " for",
+                    "start": 3.24,
+                    "end": 3.42,
+                    "probability": 0.7388474345207214
+                },
+                {
+                    "word": " our",
+                    "start": 3.42,
+                    "end": 3.62,
+                    "probability": 0.9934152364730835
+                },
+                {
+                    "word": " vacation.",
+                    "start": 3.62,
+                    "end": 4.16,
+                    "probability": 0.9898257851600647
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

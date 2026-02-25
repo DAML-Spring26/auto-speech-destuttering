@@ -1,0 +1,94 @@
+{
+    "text": " Please fill out this form and return it to reception.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.98,
+            "text": " Please fill out this form and return it to reception.",
+            "tokens": [
+                50364,
+                2555,
+                2836,
+                484,
+                341,
+                1254,
+                293,
+                2736,
+                309,
+                281,
+                21682,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.297525269644601,
+            "compression_ratio": 0.9298245614035088,
+            "no_speech_prob": 0.04017195478081703,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.48,
+                    "probability": 0.6249508261680603
+                },
+                {
+                    "word": " fill",
+                    "start": 0.48,
+                    "end": 0.76,
+                    "probability": 0.9874409437179565
+                },
+                {
+                    "word": " out",
+                    "start": 0.76,
+                    "end": 0.94,
+                    "probability": 0.9930949807167053
+                },
+                {
+                    "word": " this",
+                    "start": 0.94,
+                    "end": 1.14,
+                    "probability": 0.9539901614189148
+                },
+                {
+                    "word": " form",
+                    "start": 1.14,
+                    "end": 1.44,
+                    "probability": 0.9872159361839294
+                },
+                {
+                    "word": " and",
+                    "start": 1.44,
+                    "end": 1.68,
+                    "probability": 0.95318204164505
+                },
+                {
+                    "word": " return",
+                    "start": 1.68,
+                    "end": 2.28,
+                    "probability": 0.9487778544425964
+                },
+                {
+                    "word": " it",
+                    "start": 2.28,
+                    "end": 2.44,
+                    "probability": 0.9960041642189026
+                },
+                {
+                    "word": " to",
+                    "start": 2.44,
+                    "end": 2.6,
+                    "probability": 0.9978649020195007
+                },
+                {
+                    "word": " reception.",
+                    "start": 2.6,
+                    "end": 2.98,
+                    "probability": 0.9357016086578369
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,115 @@
+{
+    "text": " He asked I had seen the latest episode of the popular TV series.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.86,
+            "text": " He asked I had seen the latest episode of the popular TV series.",
+            "tokens": [
+                50364,
+                634,
+                2351,
+                286,
+                632,
+                1612,
+                264,
+                6792,
+                3500,
+                295,
+                264,
+                3743,
+                3558,
+                2638,
+                13,
+                50568
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27716367384966684,
+            "compression_ratio": 0.9696969696969697,
+            "no_speech_prob": 0.009145707823336124,
+            "words": [
+                {
+                    "word": " He",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6205090880393982
+                },
+                {
+                    "word": " asked",
+                    "start": 0.14,
+                    "end": 0.42,
+                    "probability": 0.6209897994995117
+                },
+                {
+                    "word": " I",
+                    "start": 0.42,
+                    "end": 0.62,
+                    "probability": 0.8969334959983826
+                },
+                {
+                    "word": " had",
+                    "start": 0.62,
+                    "end": 0.84,
+                    "probability": 0.9689744114875793
+                },
+                {
+                    "word": " seen",
+                    "start": 0.84,
+                    "end": 1.1,
+                    "probability": 0.9944697618484497
+                },
+                {
+                    "word": " the",
+                    "start": 1.1,
+                    "end": 1.32,
+                    "probability": 0.988030731678009
+                },
+                {
+                    "word": " latest",
+                    "start": 1.32,
+                    "end": 1.62,
+                    "probability": 0.9881049394607544
+                },
+                {
+                    "word": " episode",
+                    "start": 1.62,
+                    "end": 2.18,
+                    "probability": 0.9729442000389099
+                },
+                {
+                    "word": " of",
+                    "start": 2.18,
+                    "end": 2.34,
+                    "probability": 0.9931055903434753
+                },
+                {
+                    "word": " the",
+                    "start": 2.34,
+                    "end": 2.42,
+                    "probability": 0.9561002254486084
+                },
+                {
+                    "word": " popular",
+                    "start": 2.42,
+                    "end": 2.86,
+                    "probability": 0.6840040683746338
+                },
+                {
+                    "word": " TV",
+                    "start": 2.86,
+                    "end": 3.24,
+                    "probability": 0.9182460308074951
+                },
+                {
+                    "word": " series.",
+                    "start": 3.24,
+                    "end": 3.86,
+                    "probability": 0.9730882048606873
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

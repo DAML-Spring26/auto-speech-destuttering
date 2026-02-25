@@ -1,0 +1,126 @@
+{
+    "text": " which type of cuisine would you like to try for? Dinner tonight.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.2,
+            "text": " which type of cuisine would you like to try for?",
+            "tokens": [
+                50364,
+                597,
+                2010,
+                295,
+                25257,
+                576,
+                291,
+                411,
+                281,
+                853,
+                337,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5993712575812089,
+            "compression_ratio": 0.9411764705882353,
+            "no_speech_prob": 0.0071802944876253605,
+            "words": [
+                {
+                    "word": " which",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.4689115285873413
+                },
+                {
+                    "word": " type",
+                    "start": 0.18,
+                    "end": 0.44,
+                    "probability": 0.9948592185974121
+                },
+                {
+                    "word": " of",
+                    "start": 0.44,
+                    "end": 0.7,
+                    "probability": 0.9968411922454834
+                },
+                {
+                    "word": " cuisine",
+                    "start": 0.7,
+                    "end": 1.0,
+                    "probability": 0.951166570186615
+                },
+                {
+                    "word": " would",
+                    "start": 1.0,
+                    "end": 1.24,
+                    "probability": 0.9836481809616089
+                },
+                {
+                    "word": " you",
+                    "start": 1.24,
+                    "end": 1.34,
+                    "probability": 0.9969255328178406
+                },
+                {
+                    "word": " like",
+                    "start": 1.34,
+                    "end": 1.48,
+                    "probability": 0.9978659749031067
+                },
+                {
+                    "word": " to",
+                    "start": 1.48,
+                    "end": 1.64,
+                    "probability": 0.9976975321769714
+                },
+                {
+                    "word": " try",
+                    "start": 1.64,
+                    "end": 1.92,
+                    "probability": 0.997595489025116
+                },
+                {
+                    "word": " for?",
+                    "start": 1.92,
+                    "end": 2.2,
+                    "probability": 0.7354207634925842
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.44,
+            "end": 6.4,
+            "text": " Dinner tonight.",
+            "tokens": [
+                50652,
+                46678,
+                4440,
+                13,
+                50702
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5993712575812089,
+            "compression_ratio": 0.9411764705882353,
+            "no_speech_prob": 0.0071802944876253605,
+            "words": [
+                {
+                    "word": " Dinner",
+                    "start": 5.44,
+                    "end": 5.98,
+                    "probability": 0.9342114925384521
+                },
+                {
+                    "word": " tonight.",
+                    "start": 5.98,
+                    "end": 6.4,
+                    "probability": 0.8765765428543091
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

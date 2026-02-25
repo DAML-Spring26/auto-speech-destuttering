@@ -1,0 +1,62 @@
+{
+    "text": " the Professor Disguised Quantum Mechanics.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.64,
+            "text": " the Professor Disguised Quantum Mechanics.",
+            "tokens": [
+                50364,
+                264,
+                8419,
+                4208,
+                2794,
+                2640,
+                44964,
+                30175,
+                1167,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5328681071599325,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.006546035874634981,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.3847874104976654
+                },
+                {
+                    "word": " Professor",
+                    "start": 0.14,
+                    "end": 0.72,
+                    "probability": 0.5605108141899109
+                },
+                {
+                    "word": " Disguised",
+                    "start": 0.72,
+                    "end": 1.42,
+                    "probability": 0.7324505845705668
+                },
+                {
+                    "word": " Quantum",
+                    "start": 1.42,
+                    "end": 1.8,
+                    "probability": 0.9248879551887512
+                },
+                {
+                    "word": " Mechanics.",
+                    "start": 1.8,
+                    "end": 2.64,
+                    "probability": 0.9867554306983948
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

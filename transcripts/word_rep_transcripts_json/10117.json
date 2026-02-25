@@ -1,0 +1,122 @@
+{
+    "text": " The company CEO announced that they would be expanding into new markets next year.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.96,
+            "text": " The company CEO announced that they would be expanding into new markets next year.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                9282,
+                7548,
+                300,
+                436,
+                576,
+                312,
+                14702,
+                666,
+                777,
+                8383,
+                958,
+                1064,
+                13,
+                50620
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29422317610846627,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.003078814595937729,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7402265667915344
+                },
+                {
+                    "word": " company",
+                    "start": 0.14,
+                    "end": 0.52,
+                    "probability": 0.8577572107315063
+                },
+                {
+                    "word": " CEO",
+                    "start": 0.52,
+                    "end": 0.98,
+                    "probability": 0.4703466594219208
+                },
+                {
+                    "word": " announced",
+                    "start": 0.98,
+                    "end": 1.28,
+                    "probability": 0.9970056414604187
+                },
+                {
+                    "word": " that",
+                    "start": 1.28,
+                    "end": 1.54,
+                    "probability": 0.9375947713851929
+                },
+                {
+                    "word": " they",
+                    "start": 1.54,
+                    "end": 1.68,
+                    "probability": 0.9917147755622864
+                },
+                {
+                    "word": " would",
+                    "start": 1.68,
+                    "end": 1.82,
+                    "probability": 0.9725441932678223
+                },
+                {
+                    "word": " be",
+                    "start": 1.82,
+                    "end": 2.0,
+                    "probability": 0.9707967638969421
+                },
+                {
+                    "word": " expanding",
+                    "start": 2.0,
+                    "end": 2.52,
+                    "probability": 0.9864369034767151
+                },
+                {
+                    "word": " into",
+                    "start": 2.52,
+                    "end": 3.62,
+                    "probability": 0.34661051630973816
+                },
+                {
+                    "word": " new",
+                    "start": 3.62,
+                    "end": 3.88,
+                    "probability": 0.9756126403808594
+                },
+                {
+                    "word": " markets",
+                    "start": 3.88,
+                    "end": 4.3,
+                    "probability": 0.9494598507881165
+                },
+                {
+                    "word": " next",
+                    "start": 4.3,
+                    "end": 4.62,
+                    "probability": 0.9896342754364014
+                },
+                {
+                    "word": " year.",
+                    "start": 4.62,
+                    "end": 4.96,
+                    "probability": 0.9973540306091309
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,66 @@
+{
+    "text": " Can you measure the exempt dimensions?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.76,
+            "text": " Can you measure the exempt dimensions?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                3481,
+                264,
+                30425,
+                12819,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36014461517333984,
+            "compression_ratio": 0.8260869565217391,
+            "no_speech_prob": 0.01347819808870554,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.802303671836853
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.28,
+                    "probability": 0.9961940050125122
+                },
+                {
+                    "word": " measure",
+                    "start": 0.28,
+                    "end": 0.56,
+                    "probability": 0.9974879026412964
+                },
+                {
+                    "word": " the",
+                    "start": 0.56,
+                    "end": 0.8,
+                    "probability": 0.9966278672218323
+                },
+                {
+                    "word": " exempt",
+                    "start": 0.8,
+                    "end": 1.24,
+                    "probability": 0.5361581444740295
+                },
+                {
+                    "word": " dimensions?",
+                    "start": 1.24,
+                    "end": 1.76,
+                    "probability": 0.9652488231658936
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,66 @@
+{
+    "text": " Doctors recommend regular expertise for health.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.8,
+            "text": " Doctors recommend regular expertise for health.",
+            "tokens": [
+                50364,
+                39090,
+                2748,
+                3890,
+                11769,
+                337,
+                1585,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33617501258850097,
+            "compression_ratio": 0.8867924528301887,
+            "no_speech_prob": 0.0066916123032569885,
+            "words": [
+                {
+                    "word": " Doctors",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.8153684735298157
+                },
+                {
+                    "word": " recommend",
+                    "start": 0.42,
+                    "end": 0.98,
+                    "probability": 0.9549174308776855
+                },
+                {
+                    "word": " regular",
+                    "start": 0.98,
+                    "end": 1.56,
+                    "probability": 0.969695508480072
+                },
+                {
+                    "word": " expertise",
+                    "start": 1.56,
+                    "end": 2.16,
+                    "probability": 0.9957243204116821
+                },
+                {
+                    "word": " for",
+                    "start": 2.16,
+                    "end": 2.48,
+                    "probability": 0.9968401193618774
+                },
+                {
+                    "word": " health.",
+                    "start": 2.48,
+                    "end": 2.8,
+                    "probability": 0.9926773309707642
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

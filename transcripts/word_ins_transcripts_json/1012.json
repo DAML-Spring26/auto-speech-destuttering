@@ -1,0 +1,87 @@
+{
+    "text": " The new software update will be installed tonight at...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.46,
+            "text": " The new software update will be installed tonight at...",
+            "tokens": [
+                50364,
+                440,
+                777,
+                4722,
+                5623,
+                486,
+                312,
+                8899,
+                4440,
+                412,
+                485,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3904105333181528,
+            "compression_ratio": 0.9166666666666666,
+            "no_speech_prob": 0.015059423632919788,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.8071524500846863
+                },
+                {
+                    "word": " new",
+                    "start": 0.4,
+                    "end": 0.54,
+                    "probability": 0.979873538017273
+                },
+                {
+                    "word": " software",
+                    "start": 0.54,
+                    "end": 0.88,
+                    "probability": 0.9672242403030396
+                },
+                {
+                    "word": " update",
+                    "start": 0.88,
+                    "end": 1.2,
+                    "probability": 0.9956381916999817
+                },
+                {
+                    "word": " will",
+                    "start": 1.2,
+                    "end": 1.4,
+                    "probability": 0.9921072125434875
+                },
+                {
+                    "word": " be",
+                    "start": 1.4,
+                    "end": 1.52,
+                    "probability": 0.9984371066093445
+                },
+                {
+                    "word": " installed",
+                    "start": 1.52,
+                    "end": 1.82,
+                    "probability": 0.9953306913375854
+                },
+                {
+                    "word": " tonight",
+                    "start": 1.82,
+                    "end": 2.16,
+                    "probability": 0.9184802770614624
+                },
+                {
+                    "word": " at...",
+                    "start": 2.16,
+                    "end": 2.46,
+                    "probability": 0.6883425414562225
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}
