@@ -1,0 +1,73 @@
+{
+    "text": " The lecture was informative but rather long.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.32,
+            "text": " The lecture was informative but rather long.",
+            "tokens": [
+                50364,
+                440,
+                7991,
+                390,
+                27759,
+                457,
+                2831,
+                938,
+                13,
+                50540
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38011152094060724,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.0038517285138368607,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7078569531440735
+                },
+                {
+                    "word": " lecture",
+                    "start": 0.12,
+                    "end": 0.54,
+                    "probability": 0.9791504144668579
+                },
+                {
+                    "word": " was",
+                    "start": 0.54,
+                    "end": 0.86,
+                    "probability": 0.9965527057647705
+                },
+                {
+                    "word": " informative",
+                    "start": 0.86,
+                    "end": 1.46,
+                    "probability": 0.991715133190155
+                },
+                {
+                    "word": " but",
+                    "start": 1.46,
+                    "end": 1.96,
+                    "probability": 0.7383288741111755
+                },
+                {
+                    "word": " rather",
+                    "start": 1.96,
+                    "end": 2.94,
+                    "probability": 0.9319432973861694
+                },
+                {
+                    "word": " long.",
+                    "start": 2.94,
+                    "end": 3.32,
+                    "probability": 0.9967923760414124
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

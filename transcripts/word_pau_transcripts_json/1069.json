@@ -1,0 +1,113 @@
+{
+    "text": " What's your interpretation of? The symbolic elements in the painting.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.56,
+            "text": " What's your interpretation of?",
+            "tokens": [
+                50364,
+                708,
+                311,
+                428,
+                14174,
+                295,
+                30,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48448721567789715,
+            "compression_ratio": 0.9324324324324325,
+            "no_speech_prob": 0.006287505850195885,
+            "words": [
+                {
+                    "word": " What's",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.8338716328144073
+                },
+                {
+                    "word": " your",
+                    "start": 0.32,
+                    "end": 0.4,
+                    "probability": 0.9969912767410278
+                },
+                {
+                    "word": " interpretation",
+                    "start": 0.4,
+                    "end": 0.94,
+                    "probability": 0.9987701773643494
+                },
+                {
+                    "word": " of?",
+                    "start": 0.94,
+                    "end": 1.56,
+                    "probability": 0.9915938377380371
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.74,
+            "end": 7.22,
+            "text": " The symbolic elements in the painting.",
+            "tokens": [
+                50614,
+                440,
+                25755,
+                4959,
+                294,
+                264,
+                5370,
+                13,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48448721567789715,
+            "compression_ratio": 0.9324324324324325,
+            "no_speech_prob": 0.006287505850195885,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 4.74,
+                    "end": 5.56,
+                    "probability": 0.9033870100975037
+                },
+                {
+                    "word": " symbolic",
+                    "start": 5.56,
+                    "end": 5.98,
+                    "probability": 0.9897541403770447
+                },
+                {
+                    "word": " elements",
+                    "start": 5.98,
+                    "end": 6.44,
+                    "probability": 0.9545997381210327
+                },
+                {
+                    "word": " in",
+                    "start": 6.44,
+                    "end": 6.72,
+                    "probability": 0.9652119874954224
+                },
+                {
+                    "word": " the",
+                    "start": 6.72,
+                    "end": 6.82,
+                    "probability": 0.9843721985816956
+                },
+                {
+                    "word": " painting.",
+                    "start": 6.82,
+                    "end": 7.22,
+                    "probability": 0.9963250756263733
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

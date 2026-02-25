@@ -1,0 +1,94 @@
+{
+    "text": " The medication should be taken twice daily with food too.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.08,
+            "text": " The medication should be taken twice daily with food too.",
+            "tokens": [
+                50364,
+                440,
+                13851,
+                820,
+                312,
+                2726,
+                6091,
+                5212,
+                365,
+                1755,
+                886,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3091785567147391,
+            "compression_ratio": 0.9193548387096774,
+            "no_speech_prob": 0.024097910150885582,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.66,
+                    "probability": 0.733264148235321
+                },
+                {
+                    "word": " medication",
+                    "start": 0.66,
+                    "end": 1.28,
+                    "probability": 0.9423350095748901
+                },
+                {
+                    "word": " should",
+                    "start": 1.28,
+                    "end": 1.68,
+                    "probability": 0.9967842102050781
+                },
+                {
+                    "word": " be",
+                    "start": 1.68,
+                    "end": 1.9,
+                    "probability": 0.9986791014671326
+                },
+                {
+                    "word": " taken",
+                    "start": 1.9,
+                    "end": 2.28,
+                    "probability": 0.9968137145042419
+                },
+                {
+                    "word": " twice",
+                    "start": 2.28,
+                    "end": 2.76,
+                    "probability": 0.9933984279632568
+                },
+                {
+                    "word": " daily",
+                    "start": 2.76,
+                    "end": 3.18,
+                    "probability": 0.9966337084770203
+                },
+                {
+                    "word": " with",
+                    "start": 3.18,
+                    "end": 3.48,
+                    "probability": 0.9928351044654846
+                },
+                {
+                    "word": " food",
+                    "start": 3.48,
+                    "end": 3.82,
+                    "probability": 0.9952392578125
+                },
+                {
+                    "word": " too.",
+                    "start": 3.82,
+                    "end": 4.08,
+                    "probability": 0.6064359545707703
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

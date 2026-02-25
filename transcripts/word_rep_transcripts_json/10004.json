@@ -1,0 +1,117 @@
+{
+    "text": " The company's sales have increased by 20% compared to last quarter's results.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.26,
+            "text": " The company's sales have increased by 20% compared to last quarter's results.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                5763,
+                362,
+                6505,
+                538,
+                945,
+                4,
+                5347,
+                281,
+                1036,
+                6555,
+                311,
+                3542,
+                13,
+                50748
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2668725565860146,
+            "compression_ratio": 0.9871794871794872,
+            "no_speech_prob": 0.008141941390931606,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8115794658660889
+                },
+                {
+                    "word": " company's",
+                    "start": 0.14,
+                    "end": 1.06,
+                    "probability": 0.9370598793029785
+                },
+                {
+                    "word": " sales",
+                    "start": 1.06,
+                    "end": 1.34,
+                    "probability": 0.9896823763847351
+                },
+                {
+                    "word": " have",
+                    "start": 1.34,
+                    "end": 1.66,
+                    "probability": 0.9920658469200134
+                },
+                {
+                    "word": " increased",
+                    "start": 1.66,
+                    "end": 2.14,
+                    "probability": 0.9973253011703491
+                },
+                {
+                    "word": " by",
+                    "start": 2.14,
+                    "end": 2.58,
+                    "probability": 0.9969407916069031
+                },
+                {
+                    "word": " 20",
+                    "start": 2.58,
+                    "end": 3.18,
+                    "probability": 0.9734194874763489
+                },
+                {
+                    "word": "%",
+                    "start": 3.18,
+                    "end": 3.76,
+                    "probability": 0.8244947195053101
+                },
+                {
+                    "word": " compared",
+                    "start": 3.76,
+                    "end": 4.34,
+                    "probability": 0.910971462726593
+                },
+                {
+                    "word": " to",
+                    "start": 4.34,
+                    "end": 4.9,
+                    "probability": 0.9966468214988708
+                },
+                {
+                    "word": " last",
+                    "start": 4.9,
+                    "end": 5.88,
+                    "probability": 0.625993013381958
+                },
+                {
+                    "word": " quarter's",
+                    "start": 5.88,
+                    "end": 6.76,
+                    "probability": 0.950353592634201
+                },
+                {
+                    "word": " results.",
+                    "start": 6.76,
+                    "end": 7.26,
+                    "probability": 0.9933179616928101
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,88 @@
+{
+    "text": " Mum, mum asked if we had finished our homework.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.18,
+            "text": " Mum, mum asked if we had finished our homework.",
+            "tokens": [
+                50364,
+                24279,
+                11,
+                14697,
+                2351,
+                498,
+                321,
+                632,
+                4335,
+                527,
+                14578,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3890179565974644,
+            "compression_ratio": 0.8703703703703703,
+            "no_speech_prob": 0.005387498997151852,
+            "words": [
+                {
+                    "word": " Mum,",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.5364305973052979
+                },
+                {
+                    "word": " mum",
+                    "start": 0.46,
+                    "end": 0.6,
+                    "probability": 0.3654642105102539
+                },
+                {
+                    "word": " asked",
+                    "start": 0.6,
+                    "end": 0.84,
+                    "probability": 0.9238237738609314
+                },
+                {
+                    "word": " if",
+                    "start": 0.84,
+                    "end": 1.0,
+                    "probability": 0.9851655960083008
+                },
+                {
+                    "word": " we",
+                    "start": 1.0,
+                    "end": 1.12,
+                    "probability": 0.9976179003715515
+                },
+                {
+                    "word": " had",
+                    "start": 1.12,
+                    "end": 1.26,
+                    "probability": 0.9661749005317688
+                },
+                {
+                    "word": " finished",
+                    "start": 1.26,
+                    "end": 1.56,
+                    "probability": 0.9974477291107178
+                },
+                {
+                    "word": " our",
+                    "start": 1.56,
+                    "end": 1.82,
+                    "probability": 0.9962102174758911
+                },
+                {
+                    "word": " homework.",
+                    "start": 1.82,
+                    "end": 2.18,
+                    "probability": 0.9858134388923645
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

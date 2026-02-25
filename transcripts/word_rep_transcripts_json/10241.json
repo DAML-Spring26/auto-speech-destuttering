@@ -1,0 +1,123 @@
+{
+    "text": " If you had told me earlier, I could have helped you with the project.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.82,
+            "text": " If you had told me earlier, I could have helped you with the project.",
+            "tokens": [
+                50364,
+                759,
+                291,
+                632,
+                1907,
+                385,
+                3071,
+                11,
+                286,
+                727,
+                362,
+                4254,
+                291,
+                365,
+                264,
+                1716,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23872154637386925,
+            "compression_ratio": 0.9857142857142858,
+            "no_speech_prob": 0.011008321307599545,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7432329654693604
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.24,
+                    "probability": 0.9909817576408386
+                },
+                {
+                    "word": " had",
+                    "start": 0.24,
+                    "end": 0.36,
+                    "probability": 0.96540367603302
+                },
+                {
+                    "word": " told",
+                    "start": 0.36,
+                    "end": 0.62,
+                    "probability": 0.9975458979606628
+                },
+                {
+                    "word": " me",
+                    "start": 0.62,
+                    "end": 0.8,
+                    "probability": 0.9968974590301514
+                },
+                {
+                    "word": " earlier,",
+                    "start": 0.8,
+                    "end": 1.26,
+                    "probability": 0.9957386255264282
+                },
+                {
+                    "word": " I",
+                    "start": 1.78,
+                    "end": 1.92,
+                    "probability": 0.9837611317634583
+                },
+                {
+                    "word": " could",
+                    "start": 1.92,
+                    "end": 2.6,
+                    "probability": 0.8345354199409485
+                },
+                {
+                    "word": " have",
+                    "start": 2.6,
+                    "end": 2.76,
+                    "probability": 0.9140390753746033
+                },
+                {
+                    "word": " helped",
+                    "start": 2.76,
+                    "end": 2.96,
+                    "probability": 0.9875167012214661
+                },
+                {
+                    "word": " you",
+                    "start": 2.96,
+                    "end": 3.18,
+                    "probability": 0.9942260384559631
+                },
+                {
+                    "word": " with",
+                    "start": 3.18,
+                    "end": 3.34,
+                    "probability": 0.9925333261489868
+                },
+                {
+                    "word": " the",
+                    "start": 3.34,
+                    "end": 3.42,
+                    "probability": 0.9723455905914307
+                },
+                {
+                    "word": " project.",
+                    "start": 3.42,
+                    "end": 3.82,
+                    "probability": 0.9973077774047852
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,98 @@
+{
+    "text": " Which restaurant would you prefer for? Dinner tonight?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.74,
+            "text": " Which restaurant would you prefer for?",
+            "tokens": [
+                50364,
+                3013,
+                6383,
+                576,
+                291,
+                4382,
+                337,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5639755249023437,
+            "compression_ratio": 0.9,
+            "no_speech_prob": 0.008656810969114304,
+            "words": [
+                {
+                    "word": " Which",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.5961754322052002
+                },
+                {
+                    "word": " restaurant",
+                    "start": 0.26,
+                    "end": 0.72,
+                    "probability": 0.8043513298034668
+                },
+                {
+                    "word": " would",
+                    "start": 0.72,
+                    "end": 0.9,
+                    "probability": 0.9955127835273743
+                },
+                {
+                    "word": " you",
+                    "start": 0.9,
+                    "end": 1.02,
+                    "probability": 0.9970391988754272
+                },
+                {
+                    "word": " prefer",
+                    "start": 1.02,
+                    "end": 1.34,
+                    "probability": 0.9988299012184143
+                },
+                {
+                    "word": " for?",
+                    "start": 1.34,
+                    "end": 1.74,
+                    "probability": 0.9935023188591003
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.74,
+            "end": 5.38,
+            "text": " Dinner tonight?",
+            "tokens": [
+                50601,
+                46678,
+                4440,
+                30,
+                50651
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5639755249023437,
+            "compression_ratio": 0.9,
+            "no_speech_prob": 0.008656810969114304,
+            "words": [
+                {
+                    "word": " Dinner",
+                    "start": 4.580000000000001,
+                    "end": 4.98,
+                    "probability": 0.8534657955169678
+                },
+                {
+                    "word": " tonight?",
+                    "start": 4.98,
+                    "end": 5.38,
+                    "probability": 0.48876282572746277
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

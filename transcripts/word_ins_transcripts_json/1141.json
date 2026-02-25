@@ -1,0 +1,168 @@
+{
+    "text": " Your room is on the third floor and breakfast is served from 7 to 10 am. You know.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.38,
+            "text": " Your room is on the third floor and breakfast is served from 7 to 10 am.",
+            "tokens": [
+                50364,
+                2260,
+                1808,
+                307,
+                322,
+                264,
+                2636,
+                4123,
+                293,
+                8201,
+                307,
+                7584,
+                490,
+                1614,
+                281,
+                1266,
+                669,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2917209815979004,
+            "compression_ratio": 1.0512820512820513,
+            "no_speech_prob": 0.12576554715633392,
+            "words": [
+                {
+                    "word": " Your",
+                    "start": 0.0,
+                    "end": 1.16,
+                    "probability": 0.7632672786712646
+                },
+                {
+                    "word": " room",
+                    "start": 1.16,
+                    "end": 1.48,
+                    "probability": 0.9807512760162354
+                },
+                {
+                    "word": " is",
+                    "start": 1.48,
+                    "end": 1.74,
+                    "probability": 0.9933858513832092
+                },
+                {
+                    "word": " on",
+                    "start": 1.74,
+                    "end": 1.9,
+                    "probability": 0.9980100989341736
+                },
+                {
+                    "word": " the",
+                    "start": 1.9,
+                    "end": 2.04,
+                    "probability": 0.9889634847640991
+                },
+                {
+                    "word": " third",
+                    "start": 2.04,
+                    "end": 2.34,
+                    "probability": 0.8588243722915649
+                },
+                {
+                    "word": " floor",
+                    "start": 2.34,
+                    "end": 2.7,
+                    "probability": 0.9994107484817505
+                },
+                {
+                    "word": " and",
+                    "start": 2.7,
+                    "end": 3.6,
+                    "probability": 0.5807477235794067
+                },
+                {
+                    "word": " breakfast",
+                    "start": 3.6,
+                    "end": 4.02,
+                    "probability": 0.9170012474060059
+                },
+                {
+                    "word": " is",
+                    "start": 4.02,
+                    "end": 4.56,
+                    "probability": 0.9921948909759521
+                },
+                {
+                    "word": " served",
+                    "start": 4.56,
+                    "end": 4.96,
+                    "probability": 0.9901971817016602
+                },
+                {
+                    "word": " from",
+                    "start": 4.96,
+                    "end": 5.22,
+                    "probability": 0.9918196201324463
+                },
+                {
+                    "word": " 7",
+                    "start": 5.22,
+                    "end": 5.54,
+                    "probability": 0.8203644752502441
+                },
+                {
+                    "word": " to",
+                    "start": 5.54,
+                    "end": 5.8,
+                    "probability": 0.7653821110725403
+                },
+                {
+                    "word": " 10",
+                    "start": 5.8,
+                    "end": 6.1,
+                    "probability": 0.9920931458473206
+                },
+                {
+                    "word": " am.",
+                    "start": 6.1,
+                    "end": 6.38,
+                    "probability": 0.6316728591918945
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.12,
+            "end": 7.9,
+            "text": " You know.",
+            "tokens": [
+                50714,
+                509,
+                458,
+                13,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2917209815979004,
+            "compression_ratio": 1.0512820512820513,
+            "no_speech_prob": 0.12576554715633392,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 7.12,
+                    "end": 7.74,
+                    "probability": 0.9337978959083557
+                },
+                {
+                    "word": " know.",
+                    "start": 7.74,
+                    "end": 7.9,
+                    "probability": 0.9924484491348267
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

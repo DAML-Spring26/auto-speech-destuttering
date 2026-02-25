@@ -1,0 +1,60 @@
+{
+    "text": " The students completed their alignments.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.5,
+            "text": " The students completed their alignments.",
+            "tokens": [
+                50364,
+                440,
+                1731,
+                7365,
+                641,
+                7975,
+                1117,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4584770679473877,
+            "compression_ratio": 0.8695652173913043,
+            "no_speech_prob": 0.0039060572162270546,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.589748740196228
+                },
+                {
+                    "word": " students",
+                    "start": 0.14,
+                    "end": 0.54,
+                    "probability": 0.9445242285728455
+                },
+                {
+                    "word": " completed",
+                    "start": 0.54,
+                    "end": 1.3,
+                    "probability": 0.993517279624939
+                },
+                {
+                    "word": " their",
+                    "start": 1.3,
+                    "end": 1.62,
+                    "probability": 0.991858184337616
+                },
+                {
+                    "word": " alignments.",
+                    "start": 1.62,
+                    "end": 2.5,
+                    "probability": 0.7810073494911194
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

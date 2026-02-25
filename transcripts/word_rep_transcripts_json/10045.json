@@ -1,0 +1,101 @@
+{
+    "text": " The restaurant offers a wide variety of vegetarian and vegan options.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.76,
+            "text": " The restaurant offers a wide variety of vegetarian and vegan options.",
+            "tokens": [
+                50364,
+                440,
+                6383,
+                7736,
+                257,
+                4874,
+                5673,
+                295,
+                25739,
+                293,
+                12824,
+                3956,
+                13,
+                50672
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28904202779134114,
+            "compression_ratio": 1.0147058823529411,
+            "no_speech_prob": 0.004234903957694769,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.905941903591156
+                },
+                {
+                    "word": " restaurant",
+                    "start": 0.14,
+                    "end": 0.6,
+                    "probability": 0.8680374622344971
+                },
+                {
+                    "word": " offers",
+                    "start": 0.6,
+                    "end": 1.16,
+                    "probability": 0.9972411394119263
+                },
+                {
+                    "word": " a",
+                    "start": 1.16,
+                    "end": 1.6,
+                    "probability": 0.9941562414169312
+                },
+                {
+                    "word": " wide",
+                    "start": 1.6,
+                    "end": 1.98,
+                    "probability": 0.9985262155532837
+                },
+                {
+                    "word": " variety",
+                    "start": 1.98,
+                    "end": 2.56,
+                    "probability": 0.9985644221305847
+                },
+                {
+                    "word": " of",
+                    "start": 2.56,
+                    "end": 2.88,
+                    "probability": 0.9978360533714294
+                },
+                {
+                    "word": " vegetarian",
+                    "start": 2.88,
+                    "end": 3.54,
+                    "probability": 0.8289476633071899
+                },
+                {
+                    "word": " and",
+                    "start": 3.54,
+                    "end": 4.18,
+                    "probability": 0.9178351759910583
+                },
+                {
+                    "word": " vegan",
+                    "start": 4.18,
+                    "end": 5.12,
+                    "probability": 0.9882583022117615
+                },
+                {
+                    "word": " options.",
+                    "start": 5.12,
+                    "end": 5.76,
+                    "probability": 0.987165093421936
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

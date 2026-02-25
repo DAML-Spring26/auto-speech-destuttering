@@ -1,0 +1,59 @@
+{
+    "text": " The team showed great medication.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.56,
+            "text": " The team showed great medication.",
+            "tokens": [
+                50364,
+                440,
+                1469,
+                4712,
+                869,
+                13851,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3837892214457194,
+            "compression_ratio": 0.8048780487804879,
+            "no_speech_prob": 0.004037457052618265,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6821756958961487
+                },
+                {
+                    "word": " team",
+                    "start": 0.1,
+                    "end": 0.34,
+                    "probability": 0.9444085359573364
+                },
+                {
+                    "word": " showed",
+                    "start": 0.34,
+                    "end": 0.6,
+                    "probability": 0.9920468330383301
+                },
+                {
+                    "word": " great",
+                    "start": 0.6,
+                    "end": 0.88,
+                    "probability": 0.9916999936103821
+                },
+                {
+                    "word": " medication.",
+                    "start": 0.88,
+                    "end": 1.56,
+                    "probability": 0.9117133617401123
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

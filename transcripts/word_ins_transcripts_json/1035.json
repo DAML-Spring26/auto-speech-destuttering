@@ -1,0 +1,97 @@
+{
+    "text": " Could you please proofread this document, er, before sending it?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.42,
+            "text": " Could you please proofread this document, er, before sending it?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                8177,
+                2538,
+                341,
+                4166,
+                11,
+                1189,
+                11,
+                949,
+                7750,
+                309,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3373650663039264,
+            "compression_ratio": 0.9411764705882353,
+            "no_speech_prob": 0.046638552099466324,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.62,
+                    "probability": 0.9508728384971619
+                },
+                {
+                    "word": " you",
+                    "start": 0.62,
+                    "end": 0.74,
+                    "probability": 0.9984447360038757
+                },
+                {
+                    "word": " please",
+                    "start": 0.74,
+                    "end": 1.04,
+                    "probability": 0.9962151646614075
+                },
+                {
+                    "word": " proofread",
+                    "start": 1.04,
+                    "end": 1.46,
+                    "probability": 0.908653050661087
+                },
+                {
+                    "word": " this",
+                    "start": 1.46,
+                    "end": 1.68,
+                    "probability": 0.9974349141120911
+                },
+                {
+                    "word": " document,",
+                    "start": 1.68,
+                    "end": 2.1,
+                    "probability": 0.9953259229660034
+                },
+                {
+                    "word": " er,",
+                    "start": 2.3,
+                    "end": 2.4,
+                    "probability": 0.32971030473709106
+                },
+                {
+                    "word": " before",
+                    "start": 2.5,
+                    "end": 2.7,
+                    "probability": 0.9719462990760803
+                },
+                {
+                    "word": " sending",
+                    "start": 2.7,
+                    "end": 3.18,
+                    "probability": 0.9896870255470276
+                },
+                {
+                    "word": " it?",
+                    "start": 3.18,
+                    "end": 3.42,
+                    "probability": 0.9980584979057312
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,66 @@
+{
+    "text": " She conducted research on climate platforms.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.7,
+            "text": " She conducted research on climate platforms.",
+            "tokens": [
+                50364,
+                1240,
+                13809,
+                2132,
+                322,
+                5659,
+                9473,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.357725715637207,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.004551764111965895,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.5752101540565491
+                },
+                {
+                    "word": " conducted",
+                    "start": 0.2,
+                    "end": 0.56,
+                    "probability": 0.8565902709960938
+                },
+                {
+                    "word": " research",
+                    "start": 0.56,
+                    "end": 1.24,
+                    "probability": 0.9914988875389099
+                },
+                {
+                    "word": " on",
+                    "start": 1.24,
+                    "end": 1.64,
+                    "probability": 0.9945594668388367
+                },
+                {
+                    "word": " climate",
+                    "start": 1.64,
+                    "end": 2.08,
+                    "probability": 0.9811481833457947
+                },
+                {
+                    "word": " platforms.",
+                    "start": 2.08,
+                    "end": 2.7,
+                    "probability": 0.9810978174209595
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

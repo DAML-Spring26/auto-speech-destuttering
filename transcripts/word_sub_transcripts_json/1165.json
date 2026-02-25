@@ -1,0 +1,66 @@
+{
+    "text": " We need to project endangered species.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.36,
+            "text": " We need to project endangered species.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                1716,
+                37539,
+                6172,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4061727523803711,
+            "compression_ratio": 0.8444444444444444,
+            "no_speech_prob": 0.007283264305442572,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.5490822196006775
+                },
+                {
+                    "word": " need",
+                    "start": 0.18,
+                    "end": 0.38,
+                    "probability": 0.9961827397346497
+                },
+                {
+                    "word": " to",
+                    "start": 0.38,
+                    "end": 0.54,
+                    "probability": 0.9944233298301697
+                },
+                {
+                    "word": " project",
+                    "start": 0.54,
+                    "end": 0.92,
+                    "probability": 0.9821397662162781
+                },
+                {
+                    "word": " endangered",
+                    "start": 0.92,
+                    "end": 1.64,
+                    "probability": 0.9597784876823425
+                },
+                {
+                    "word": " species.",
+                    "start": 1.64,
+                    "end": 2.36,
+                    "probability": 0.997688889503479
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

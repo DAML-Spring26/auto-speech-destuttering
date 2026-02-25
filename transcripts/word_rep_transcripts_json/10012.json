@@ -1,0 +1,101 @@
+{
+    "text": " The documentary which explores environmental issues will be aired next week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.18,
+            "text": " The documentary which explores environmental issues will be aired next week.",
+            "tokens": [
+                50364,
+                440,
+                15674,
+                597,
+                45473,
+                8303,
+                2663,
+                486,
+                312,
+                34503,
+                958,
+                1243,
+                13,
+                50688
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4093615214029948,
+            "compression_ratio": 1.0410958904109588,
+            "no_speech_prob": 0.004034504294395447,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7524256110191345
+                },
+                {
+                    "word": " documentary",
+                    "start": 0.14,
+                    "end": 0.82,
+                    "probability": 0.927872359752655
+                },
+                {
+                    "word": " which",
+                    "start": 0.82,
+                    "end": 1.44,
+                    "probability": 0.5861819386482239
+                },
+                {
+                    "word": " explores",
+                    "start": 1.44,
+                    "end": 1.98,
+                    "probability": 0.9879856705665588
+                },
+                {
+                    "word": " environmental",
+                    "start": 1.98,
+                    "end": 2.64,
+                    "probability": 0.990519642829895
+                },
+                {
+                    "word": " issues",
+                    "start": 2.64,
+                    "end": 3.5,
+                    "probability": 0.9956042766571045
+                },
+                {
+                    "word": " will",
+                    "start": 3.5,
+                    "end": 3.9,
+                    "probability": 0.9527946710586548
+                },
+                {
+                    "word": " be",
+                    "start": 3.9,
+                    "end": 4.12,
+                    "probability": 0.9892117977142334
+                },
+                {
+                    "word": " aired",
+                    "start": 4.12,
+                    "end": 5.42,
+                    "probability": 0.22586336731910706
+                },
+                {
+                    "word": " next",
+                    "start": 5.42,
+                    "end": 5.86,
+                    "probability": 0.9888507723808289
+                },
+                {
+                    "word": " week.",
+                    "start": 5.86,
+                    "end": 6.18,
+                    "probability": 0.9953016042709351
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

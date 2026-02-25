@@ -1,0 +1,87 @@
+{
+    "text": " The research is conducting experiments on renewable energy sources.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.86,
+            "text": " The research is conducting experiments on renewable energy sources.",
+            "tokens": [
+                50364,
+                440,
+                2132,
+                307,
+                21749,
+                12050,
+                322,
+                20938,
+                2281,
+                7139,
+                13,
+                50572
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3277818239652194,
+            "compression_ratio": 0.9710144927536232,
+            "no_speech_prob": 0.0027130148373544216,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5540534257888794
+                },
+                {
+                    "word": " research",
+                    "start": 0.14,
+                    "end": 0.58,
+                    "probability": 0.8559570908546448
+                },
+                {
+                    "word": " is",
+                    "start": 0.58,
+                    "end": 0.84,
+                    "probability": 0.9232223629951477
+                },
+                {
+                    "word": " conducting",
+                    "start": 0.84,
+                    "end": 1.26,
+                    "probability": 0.9944360256195068
+                },
+                {
+                    "word": " experiments",
+                    "start": 1.26,
+                    "end": 2.12,
+                    "probability": 0.9916644096374512
+                },
+                {
+                    "word": " on",
+                    "start": 2.12,
+                    "end": 2.34,
+                    "probability": 0.9975785613059998
+                },
+                {
+                    "word": " renewable",
+                    "start": 2.34,
+                    "end": 2.7,
+                    "probability": 0.9848023056983948
+                },
+                {
+                    "word": " energy",
+                    "start": 2.7,
+                    "end": 3.2,
+                    "probability": 0.9967812299728394
+                },
+                {
+                    "word": " sources.",
+                    "start": 3.2,
+                    "end": 3.86,
+                    "probability": 0.9982659220695496
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

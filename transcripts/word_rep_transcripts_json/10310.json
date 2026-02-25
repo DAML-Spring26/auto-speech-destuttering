@@ -1,0 +1,87 @@
+{
+    "text": " Could you please confer tomorrow our reservation for two?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.42,
+            "text": " Could you please confer tomorrow our reservation for two?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                13765,
+                4153,
+                527,
+                28922,
+                337,
+                732,
+                30,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40001274989201474,
+            "compression_ratio": 0.9193548387096774,
+            "no_speech_prob": 0.012625197879970074,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.9485642313957214
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.32,
+                    "probability": 0.9966387748718262
+                },
+                {
+                    "word": " please",
+                    "start": 0.32,
+                    "end": 0.68,
+                    "probability": 0.9932346940040588
+                },
+                {
+                    "word": " confer",
+                    "start": 0.68,
+                    "end": 1.06,
+                    "probability": 0.5074729919433594
+                },
+                {
+                    "word": " tomorrow",
+                    "start": 1.06,
+                    "end": 1.52,
+                    "probability": 0.467070609331131
+                },
+                {
+                    "word": " our",
+                    "start": 1.52,
+                    "end": 2.02,
+                    "probability": 0.8232837915420532
+                },
+                {
+                    "word": " reservation",
+                    "start": 2.02,
+                    "end": 2.58,
+                    "probability": 0.8072802424430847
+                },
+                {
+                    "word": " for",
+                    "start": 2.58,
+                    "end": 3.08,
+                    "probability": 0.996307373046875
+                },
+                {
+                    "word": " two?",
+                    "start": 3.08,
+                    "end": 3.42,
+                    "probability": 0.8263723850250244
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

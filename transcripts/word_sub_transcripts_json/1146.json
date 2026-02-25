@@ -1,0 +1,62 @@
+{
+    "text": " the research-reduced significant findings.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.42,
+            "text": " the research-reduced significant findings.",
+            "tokens": [
+                50364,
+                264,
+                2132,
+                12,
+                265,
+                769,
+                1232,
+                4776,
+                16483,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.43209906419118244,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.0034331930801272392,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.4439341425895691
+                },
+                {
+                    "word": " research",
+                    "start": 0.14,
+                    "end": 0.54,
+                    "probability": 0.8946691155433655
+                },
+                {
+                    "word": "-reduced",
+                    "start": 0.54,
+                    "end": 1.16,
+                    "probability": 0.8069353178143501
+                },
+                {
+                    "word": " significant",
+                    "start": 1.16,
+                    "end": 1.68,
+                    "probability": 0.8752760291099548
+                },
+                {
+                    "word": " findings.",
+                    "start": 1.68,
+                    "end": 2.42,
+                    "probability": 0.9946392178535461
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

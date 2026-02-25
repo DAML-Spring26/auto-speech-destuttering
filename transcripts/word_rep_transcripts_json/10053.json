@@ -1,0 +1,96 @@
+{
+    "text": " The museum's new exhibit features artifacts from ancient, ancient civilizations.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.28,
+            "text": " The museum's new exhibit features artifacts from ancient, ancient civilizations.",
+            "tokens": [
+                50364,
+                440,
+                8441,
+                311,
+                777,
+                20487,
+                4122,
+                24617,
+                490,
+                7832,
+                11,
+                7832,
+                40749,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3242049813270569,
+            "compression_ratio": 1.0526315789473684,
+            "no_speech_prob": 0.010541626252233982,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6382699012756348
+                },
+                {
+                    "word": " museum's",
+                    "start": 0.12,
+                    "end": 0.6,
+                    "probability": 0.8217692375183105
+                },
+                {
+                    "word": " new",
+                    "start": 0.6,
+                    "end": 0.72,
+                    "probability": 0.886121928691864
+                },
+                {
+                    "word": " exhibit",
+                    "start": 0.72,
+                    "end": 1.08,
+                    "probability": 0.9567179083824158
+                },
+                {
+                    "word": " features",
+                    "start": 1.08,
+                    "end": 1.5,
+                    "probability": 0.9925141930580139
+                },
+                {
+                    "word": " artifacts",
+                    "start": 1.5,
+                    "end": 2.04,
+                    "probability": 0.8377514481544495
+                },
+                {
+                    "word": " from",
+                    "start": 2.04,
+                    "end": 2.44,
+                    "probability": 0.9888896942138672
+                },
+                {
+                    "word": " ancient,",
+                    "start": 2.44,
+                    "end": 2.96,
+                    "probability": 0.9852306246757507
+                },
+                {
+                    "word": " ancient",
+                    "start": 3.24,
+                    "end": 3.56,
+                    "probability": 0.9978992938995361
+                },
+                {
+                    "word": " civilizations.",
+                    "start": 3.56,
+                    "end": 4.28,
+                    "probability": 0.9278683066368103
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,73 @@
+{
+    "text": " How may I I assist you today?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.92,
+            "text": " How may I I assist you today?",
+            "tokens": [
+                50364,
+                1012,
+                815,
+                286,
+                286,
+                4255,
+                291,
+                965,
+                30,
+                50472
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5198456590825861,
+            "compression_ratio": 0.8285714285714286,
+            "no_speech_prob": 0.026015663519501686,
+            "words": [
+                {
+                    "word": " How",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.3005727529525757
+                },
+                {
+                    "word": " may",
+                    "start": 0.2,
+                    "end": 0.38,
+                    "probability": 0.76436847448349
+                },
+                {
+                    "word": " I",
+                    "start": 0.38,
+                    "end": 0.7,
+                    "probability": 0.9510226845741272
+                },
+                {
+                    "word": " I",
+                    "start": 0.7,
+                    "end": 1.06,
+                    "probability": 0.37263885140419006
+                },
+                {
+                    "word": " assist",
+                    "start": 1.06,
+                    "end": 1.5,
+                    "probability": 0.8951228260993958
+                },
+                {
+                    "word": " you",
+                    "start": 1.5,
+                    "end": 1.7,
+                    "probability": 0.9942178726196289
+                },
+                {
+                    "word": " today?",
+                    "start": 1.7,
+                    "end": 1.92,
+                    "probability": 0.9861745834350586
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

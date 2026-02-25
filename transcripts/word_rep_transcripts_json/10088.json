@@ -1,0 +1,146 @@
+{
+    "text": " The study found a strong correlation between regular exercise and and improvement mental mental health.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.86,
+            "text": " The study found a strong correlation between regular exercise and",
+            "tokens": [
+                50364,
+                440,
+                2979,
+                1352,
+                257,
+                2068,
+                20009,
+                1296,
+                3890,
+                5380,
+                293,
+                50556
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26150883947099957,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.0034110641572624445,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.4288734197616577
+                },
+                {
+                    "word": " study",
+                    "start": 0.12,
+                    "end": 0.46,
+                    "probability": 0.9935380816459656
+                },
+                {
+                    "word": " found",
+                    "start": 0.46,
+                    "end": 0.84,
+                    "probability": 0.9973381161689758
+                },
+                {
+                    "word": " a",
+                    "start": 0.84,
+                    "end": 1.06,
+                    "probability": 0.9487559795379639
+                },
+                {
+                    "word": " strong",
+                    "start": 1.06,
+                    "end": 1.24,
+                    "probability": 0.9743991494178772
+                },
+                {
+                    "word": " correlation",
+                    "start": 1.24,
+                    "end": 1.82,
+                    "probability": 0.9919989705085754
+                },
+                {
+                    "word": " between",
+                    "start": 1.82,
+                    "end": 2.38,
+                    "probability": 0.9988240599632263
+                },
+                {
+                    "word": " regular",
+                    "start": 2.38,
+                    "end": 2.86,
+                    "probability": 0.9809786081314087
+                },
+                {
+                    "word": " exercise",
+                    "start": 2.86,
+                    "end": 3.52,
+                    "probability": 0.9791269898414612
+                },
+                {
+                    "word": " and",
+                    "start": 3.52,
+                    "end": 3.86,
+                    "probability": 0.9917211532592773
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 386,
+            "start": 3.86,
+            "end": 5.78,
+            "text": " and improvement mental mental health.",
+            "tokens": [
+                50364,
+                293,
+                10444,
+                4973,
+                4973,
+                1585,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8567202885945638,
+            "compression_ratio": 1.0277777777777777,
+            "no_speech_prob": 0.11104944348335266,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 3.86,
+                    "end": 3.86,
+                    "probability": 0.3255910277366638
+                },
+                {
+                    "word": " improvement",
+                    "start": 3.86,
+                    "end": 4.32,
+                    "probability": 0.3656882643699646
+                },
+                {
+                    "word": " mental",
+                    "start": 4.32,
+                    "end": 4.66,
+                    "probability": 0.5014910101890564
+                },
+                {
+                    "word": " mental",
+                    "start": 4.66,
+                    "end": 5.38,
+                    "probability": 0.013433066196739674
+                },
+                {
+                    "word": " health.",
+                    "start": 5.38,
+                    "end": 5.78,
+                    "probability": 0.9950284361839294
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

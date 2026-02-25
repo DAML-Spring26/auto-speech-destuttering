@@ -1,0 +1,102 @@
+{
+    "text": " The weather forecast was sunny, it ended up raining all day.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.36,
+            "text": " The weather forecast was sunny, it ended up raining all day.",
+            "tokens": [
+                50364,
+                440,
+                5503,
+                14330,
+                390,
+                20412,
+                11,
+                309,
+                4590,
+                493,
+                18441,
+                439,
+                786,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2748732566833496,
+            "compression_ratio": 0.9375,
+            "no_speech_prob": 0.0013135868357494473,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8506582379341125
+                },
+                {
+                    "word": " weather",
+                    "start": 0.14,
+                    "end": 0.38,
+                    "probability": 0.9982477426528931
+                },
+                {
+                    "word": " forecast",
+                    "start": 0.38,
+                    "end": 0.84,
+                    "probability": 0.9980646967887878
+                },
+                {
+                    "word": " was",
+                    "start": 0.84,
+                    "end": 1.24,
+                    "probability": 0.8561277985572815
+                },
+                {
+                    "word": " sunny,",
+                    "start": 1.24,
+                    "end": 1.58,
+                    "probability": 0.9962103366851807
+                },
+                {
+                    "word": " it",
+                    "start": 1.78,
+                    "end": 1.86,
+                    "probability": 0.9287253618240356
+                },
+                {
+                    "word": " ended",
+                    "start": 1.86,
+                    "end": 2.18,
+                    "probability": 0.9985877275466919
+                },
+                {
+                    "word": " up",
+                    "start": 2.18,
+                    "end": 2.36,
+                    "probability": 0.9938663840293884
+                },
+                {
+                    "word": " raining",
+                    "start": 2.36,
+                    "end": 2.68,
+                    "probability": 0.9829334616661072
+                },
+                {
+                    "word": " all",
+                    "start": 2.68,
+                    "end": 3.06,
+                    "probability": 0.9941202998161316
+                },
+                {
+                    "word": " day.",
+                    "start": 3.06,
+                    "end": 3.36,
+                    "probability": 0.9990804195404053
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

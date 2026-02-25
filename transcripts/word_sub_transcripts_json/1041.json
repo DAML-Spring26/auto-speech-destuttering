@@ -1,0 +1,59 @@
+{
+    "text": " Students participate in research products.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.32,
+            "text": " Students participate in research products.",
+            "tokens": [
+                50364,
+                17244,
+                8197,
+                294,
+                2132,
+                3383,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4613080554538303,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.009678843431174755,
+            "words": [
+                {
+                    "word": " Students",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.8364830017089844
+                },
+                {
+                    "word": " participate",
+                    "start": 0.44,
+                    "end": 1.12,
+                    "probability": 0.992994487285614
+                },
+                {
+                    "word": " in",
+                    "start": 1.12,
+                    "end": 1.42,
+                    "probability": 0.9994547963142395
+                },
+                {
+                    "word": " research",
+                    "start": 1.42,
+                    "end": 1.78,
+                    "probability": 0.980414867401123
+                },
+                {
+                    "word": " products.",
+                    "start": 1.78,
+                    "end": 2.32,
+                    "probability": 0.9069743752479553
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

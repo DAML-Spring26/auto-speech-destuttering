@@ -1,0 +1,59 @@
+{
+    "text": " The conference addressed global balances.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.06,
+            "text": " The conference addressed global balances.",
+            "tokens": [
+                50364,
+                440,
+                7586,
+                13847,
+                4338,
+                33993,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5521135330200195,
+            "compression_ratio": 0.8913043478260869,
+            "no_speech_prob": 0.0034259422682225704,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5594902038574219
+                },
+                {
+                    "word": " conference",
+                    "start": 0.1,
+                    "end": 0.48,
+                    "probability": 0.9243037104606628
+                },
+                {
+                    "word": " addressed",
+                    "start": 0.48,
+                    "end": 0.84,
+                    "probability": 0.39133283495903015
+                },
+                {
+                    "word": " global",
+                    "start": 0.84,
+                    "end": 1.34,
+                    "probability": 0.9577842950820923
+                },
+                {
+                    "word": " balances.",
+                    "start": 1.34,
+                    "end": 2.06,
+                    "probability": 0.9899292588233948
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

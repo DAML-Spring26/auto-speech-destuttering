@@ -1,0 +1,94 @@
+{
+    "text": " She asked I wanted to join her for lunch tomorrow.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.02,
+            "text": " She asked I wanted to join her for lunch tomorrow.",
+            "tokens": [
+                50364,
+                1240,
+                2351,
+                286,
+                1415,
+                281,
+                3917,
+                720,
+                337,
+                6349,
+                4153,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23286252362387522,
+            "compression_ratio": 0.9090909090909091,
+            "no_speech_prob": 0.007894229143857956,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7639947533607483
+                },
+                {
+                    "word": " asked",
+                    "start": 0.12,
+                    "end": 0.34,
+                    "probability": 0.9935380816459656
+                },
+                {
+                    "word": " I",
+                    "start": 0.34,
+                    "end": 0.56,
+                    "probability": 0.7506282925605774
+                },
+                {
+                    "word": " wanted",
+                    "start": 0.56,
+                    "end": 0.84,
+                    "probability": 0.9683378338813782
+                },
+                {
+                    "word": " to",
+                    "start": 0.84,
+                    "end": 1.0,
+                    "probability": 0.9941205382347107
+                },
+                {
+                    "word": " join",
+                    "start": 1.0,
+                    "end": 1.22,
+                    "probability": 0.9980796575546265
+                },
+                {
+                    "word": " her",
+                    "start": 1.22,
+                    "end": 1.38,
+                    "probability": 0.9937939643859863
+                },
+                {
+                    "word": " for",
+                    "start": 1.38,
+                    "end": 1.5,
+                    "probability": 0.9762102365493774
+                },
+                {
+                    "word": " lunch",
+                    "start": 1.5,
+                    "end": 1.72,
+                    "probability": 0.9646307229995728
+                },
+                {
+                    "word": " tomorrow.",
+                    "start": 1.72,
+                    "end": 2.02,
+                    "probability": 0.969607949256897
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

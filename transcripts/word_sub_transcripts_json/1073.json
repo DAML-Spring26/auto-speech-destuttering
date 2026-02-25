@@ -1,0 +1,60 @@
+{
+    "text": " The project acquires extensive planning.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.24,
+            "text": " The project acquires extensive planning.",
+            "tokens": [
+                50364,
+                440,
+                1716,
+                6667,
+                3145,
+                13246,
+                5038,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4484766960144043,
+            "compression_ratio": 0.851063829787234,
+            "no_speech_prob": 0.0023723861668258905,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7525539398193359
+                },
+                {
+                    "word": " project",
+                    "start": 0.12,
+                    "end": 0.56,
+                    "probability": 0.9799391031265259
+                },
+                {
+                    "word": " acquires",
+                    "start": 0.56,
+                    "end": 1.12,
+                    "probability": 0.766960084438324
+                },
+                {
+                    "word": " extensive",
+                    "start": 1.12,
+                    "end": 1.58,
+                    "probability": 0.9853560328483582
+                },
+                {
+                    "word": " planning.",
+                    "start": 1.58,
+                    "end": 2.24,
+                    "probability": 0.9980003237724304
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

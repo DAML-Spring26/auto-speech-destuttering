@@ -1,0 +1,95 @@
+{
+    "text": " If you see smoke off fire, pull the alarm immediately.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.5,
+            "text": " If you see smoke off fire, pull the alarm immediately.",
+            "tokens": [
+                50364,
+                759,
+                291,
+                536,
+                8439,
+                766,
+                2610,
+                11,
+                2235,
+                264,
+                14183,
+                4258,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4499050776163737,
+            "compression_ratio": 0.9,
+            "no_speech_prob": 0.005887093488126993,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.5860823392868042
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.28,
+                    "probability": 0.9971451163291931
+                },
+                {
+                    "word": " see",
+                    "start": 0.28,
+                    "end": 0.48,
+                    "probability": 0.9935044050216675
+                },
+                {
+                    "word": " smoke",
+                    "start": 0.48,
+                    "end": 0.86,
+                    "probability": 0.7204402089118958
+                },
+                {
+                    "word": " off",
+                    "start": 0.86,
+                    "end": 1.2,
+                    "probability": 0.46913382411003113
+                },
+                {
+                    "word": " fire,",
+                    "start": 1.2,
+                    "end": 1.58,
+                    "probability": 0.9789773225784302
+                },
+                {
+                    "word": " pull",
+                    "start": 1.88,
+                    "end": 2.04,
+                    "probability": 0.966582715511322
+                },
+                {
+                    "word": " the",
+                    "start": 2.04,
+                    "end": 4.72,
+                    "probability": 0.3990459442138672
+                },
+                {
+                    "word": " alarm",
+                    "start": 4.72,
+                    "end": 4.98,
+                    "probability": 0.9922773838043213
+                },
+                {
+                    "word": " immediately.",
+                    "start": 4.98,
+                    "end": 5.5,
+                    "probability": 0.9911282062530518
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,68 @@
+{
+    "text": " She perceives an ODA message yesterday.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.94,
+            "text": " She perceives an ODA message yesterday.",
+            "tokens": [
+                50364,
+                1240,
+                9016,
+                1539,
+                364,
+                422,
+                7509,
+                3636,
+                5186,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.713244358698527,
+            "compression_ratio": 0.8297872340425532,
+            "no_speech_prob": 0.0026974990032613277,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.8126457929611206
+                },
+                {
+                    "word": " perceives",
+                    "start": 0.26,
+                    "end": 0.72,
+                    "probability": 0.7396196722984314
+                },
+                {
+                    "word": " an",
+                    "start": 0.72,
+                    "end": 0.86,
+                    "probability": 0.9894431829452515
+                },
+                {
+                    "word": " ODA",
+                    "start": 0.86,
+                    "end": 1.02,
+                    "probability": 0.15276481956243515
+                },
+                {
+                    "word": " message",
+                    "start": 1.02,
+                    "end": 1.34,
+                    "probability": 0.985529363155365
+                },
+                {
+                    "word": " yesterday.",
+                    "start": 1.34,
+                    "end": 1.94,
+                    "probability": 0.9789873957633972
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

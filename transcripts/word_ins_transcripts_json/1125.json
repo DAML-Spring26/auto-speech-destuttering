@@ -1,0 +1,103 @@
+{
+    "text": " In case of fire, use the stairs like not the elevators.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.8,
+            "text": " In case of fire, use the stairs like not the elevators.",
+            "tokens": [
+                50364,
+                682,
+                1389,
+                295,
+                2610,
+                11,
+                764,
+                264,
+                13471,
+                411,
+                406,
+                264,
+                7701,
+                3391,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2631979549632353,
+            "compression_ratio": 0.9482758620689655,
+            "no_speech_prob": 0.04392075166106224,
+            "words": [
+                {
+                    "word": " In",
+                    "start": 0.0,
+                    "end": 0.74,
+                    "probability": 0.9353249669075012
+                },
+                {
+                    "word": " case",
+                    "start": 0.74,
+                    "end": 0.96,
+                    "probability": 0.9918181896209717
+                },
+                {
+                    "word": " of",
+                    "start": 0.96,
+                    "end": 1.36,
+                    "probability": 0.9951487183570862
+                },
+                {
+                    "word": " fire,",
+                    "start": 1.36,
+                    "end": 1.64,
+                    "probability": 0.9906268119812012
+                },
+                {
+                    "word": " use",
+                    "start": 2.18,
+                    "end": 2.38,
+                    "probability": 0.9906638860702515
+                },
+                {
+                    "word": " the",
+                    "start": 2.38,
+                    "end": 2.54,
+                    "probability": 0.9932373762130737
+                },
+                {
+                    "word": " stairs",
+                    "start": 2.54,
+                    "end": 2.92,
+                    "probability": 0.9519683718681335
+                },
+                {
+                    "word": " like",
+                    "start": 2.92,
+                    "end": 3.58,
+                    "probability": 0.4000754952430725
+                },
+                {
+                    "word": " not",
+                    "start": 3.58,
+                    "end": 3.98,
+                    "probability": 0.6468395590782166
+                },
+                {
+                    "word": " the",
+                    "start": 3.98,
+                    "end": 4.2,
+                    "probability": 0.995398223400116
+                },
+                {
+                    "word": " elevators.",
+                    "start": 4.2,
+                    "end": 4.8,
+                    "probability": 0.9823929667472839
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

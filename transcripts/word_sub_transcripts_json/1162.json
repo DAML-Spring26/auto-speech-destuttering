@@ -1,0 +1,59 @@
+{
+    "text": " Children should practice basic athletics.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.04,
+            "text": " Children should practice basic athletics.",
+            "tokens": [
+                50364,
+                13354,
+                820,
+                3124,
+                3875,
+                37964,
+                13,
+                50491
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4905130598280165,
+            "compression_ratio": 0.8723404255319149,
+            "no_speech_prob": 0.0057871523313224316,
+            "words": [
+                {
+                    "word": " Children",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.5635197758674622
+                },
+                {
+                    "word": " should",
+                    "start": 0.4,
+                    "end": 0.62,
+                    "probability": 0.9838622212409973
+                },
+                {
+                    "word": " practice",
+                    "start": 0.62,
+                    "end": 1.02,
+                    "probability": 0.9044219851493835
+                },
+                {
+                    "word": " basic",
+                    "start": 1.02,
+                    "end": 1.48,
+                    "probability": 0.9630997180938721
+                },
+                {
+                    "word": " athletics.",
+                    "start": 1.48,
+                    "end": 2.04,
+                    "probability": 0.6549316644668579
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

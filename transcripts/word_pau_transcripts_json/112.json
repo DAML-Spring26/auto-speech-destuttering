@@ -1,0 +1,95 @@
+{
+    "text": " I'm not sure if I can attend the meeting tomorrow.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.38,
+            "text": " I'm not sure if I can attend the meeting tomorrow.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                406,
+                988,
+                498,
+                286,
+                393,
+                6888,
+                264,
+                3440,
+                4153,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3037891705830892,
+            "compression_ratio": 0.8620689655172413,
+            "no_speech_prob": 0.006661304272711277,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.9115119278430939
+                },
+                {
+                    "word": " not",
+                    "start": 0.24,
+                    "end": 0.34,
+                    "probability": 0.9951105713844299
+                },
+                {
+                    "word": " sure",
+                    "start": 0.34,
+                    "end": 0.62,
+                    "probability": 0.9974840879440308
+                },
+                {
+                    "word": " if",
+                    "start": 0.62,
+                    "end": 0.98,
+                    "probability": 0.9617684483528137
+                },
+                {
+                    "word": " I",
+                    "start": 0.98,
+                    "end": 2.06,
+                    "probability": 0.35447221994400024
+                },
+                {
+                    "word": " can",
+                    "start": 2.06,
+                    "end": 2.26,
+                    "probability": 0.962550699710846
+                },
+                {
+                    "word": " attend",
+                    "start": 2.26,
+                    "end": 2.58,
+                    "probability": 0.9860976934432983
+                },
+                {
+                    "word": " the",
+                    "start": 2.58,
+                    "end": 2.8,
+                    "probability": 0.9651021361351013
+                },
+                {
+                    "word": " meeting",
+                    "start": 2.8,
+                    "end": 3.02,
+                    "probability": 0.9868430495262146
+                },
+                {
+                    "word": " tomorrow.",
+                    "start": 3.02,
+                    "end": 3.38,
+                    "probability": 0.9897971153259277
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

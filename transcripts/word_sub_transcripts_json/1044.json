@@ -1,0 +1,66 @@
+{
+    "text": " Sign the subs of significant ranges.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.26,
+            "text": " Sign the subs of significant ranges.",
+            "tokens": [
+                50364,
+                13515,
+                264,
+                2090,
+                295,
+                4776,
+                22526,
+                13,
+                50491
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5472436428070069,
+            "compression_ratio": 0.8372093023255814,
+            "no_speech_prob": 0.003123050555586815,
+            "words": [
+                {
+                    "word": " Sign",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.783437967300415
+                },
+                {
+                    "word": " the",
+                    "start": 0.36,
+                    "end": 0.58,
+                    "probability": 0.4255525767803192
+                },
+                {
+                    "word": " subs",
+                    "start": 0.58,
+                    "end": 0.88,
+                    "probability": 0.9006479382514954
+                },
+                {
+                    "word": " of",
+                    "start": 0.88,
+                    "end": 1.08,
+                    "probability": 0.7796503305435181
+                },
+                {
+                    "word": " significant",
+                    "start": 1.08,
+                    "end": 1.64,
+                    "probability": 0.8398023247718811
+                },
+                {
+                    "word": " ranges.",
+                    "start": 1.64,
+                    "end": 2.26,
+                    "probability": 0.9909467697143555
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

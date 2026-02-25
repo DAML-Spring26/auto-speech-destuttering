@@ -1,0 +1,66 @@
+{
+    "text": " the team received their annual targets.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.92,
+            "text": " the team received their annual targets.",
+            "tokens": [
+                50364,
+                264,
+                1469,
+                4613,
+                641,
+                9784,
+                12911,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5064106941223144,
+            "compression_ratio": 0.8297872340425532,
+            "no_speech_prob": 0.0063488297164440155,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5588504076004028
+                },
+                {
+                    "word": " team",
+                    "start": 0.1,
+                    "end": 0.34,
+                    "probability": 0.9890640377998352
+                },
+                {
+                    "word": " received",
+                    "start": 0.34,
+                    "end": 0.72,
+                    "probability": 0.7755115628242493
+                },
+                {
+                    "word": " their",
+                    "start": 0.72,
+                    "end": 1.04,
+                    "probability": 0.9801005125045776
+                },
+                {
+                    "word": " annual",
+                    "start": 1.04,
+                    "end": 1.3,
+                    "probability": 0.9940892457962036
+                },
+                {
+                    "word": " targets.",
+                    "start": 1.3,
+                    "end": 1.92,
+                    "probability": 0.9545266032218933
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

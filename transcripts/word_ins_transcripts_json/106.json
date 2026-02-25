@@ -1,0 +1,96 @@
+{
+    "text": " The new employee handbook will be distributed next well, week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.22,
+            "text": " The new employee handbook will be distributed next well, week.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                10738,
+                1011,
+                2939,
+                486,
+                312,
+                12631,
+                958,
+                731,
+                11,
+                1243,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3472614586353302,
+            "compression_ratio": 0.9253731343283582,
+            "no_speech_prob": 0.060759156942367554,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.64,
+                    "probability": 0.8711569309234619
+                },
+                {
+                    "word": " new",
+                    "start": 0.64,
+                    "end": 0.82,
+                    "probability": 0.9820437431335449
+                },
+                {
+                    "word": " employee",
+                    "start": 0.82,
+                    "end": 1.28,
+                    "probability": 0.9256521463394165
+                },
+                {
+                    "word": " handbook",
+                    "start": 1.28,
+                    "end": 1.78,
+                    "probability": 0.9839844703674316
+                },
+                {
+                    "word": " will",
+                    "start": 1.78,
+                    "end": 2.02,
+                    "probability": 0.9957450032234192
+                },
+                {
+                    "word": " be",
+                    "start": 2.02,
+                    "end": 2.2,
+                    "probability": 0.9990653395652771
+                },
+                {
+                    "word": " distributed",
+                    "start": 2.2,
+                    "end": 2.76,
+                    "probability": 0.9965516328811646
+                },
+                {
+                    "word": " next",
+                    "start": 2.76,
+                    "end": 3.08,
+                    "probability": 0.9912448525428772
+                },
+                {
+                    "word": " well,",
+                    "start": 3.08,
+                    "end": 3.44,
+                    "probability": 0.7825557589530945
+                },
+                {
+                    "word": " week.",
+                    "start": 4.0,
+                    "end": 4.22,
+                    "probability": 0.8652122020721436
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

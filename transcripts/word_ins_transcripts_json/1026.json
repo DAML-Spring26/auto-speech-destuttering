@@ -1,0 +1,104 @@
+{
+    "text": " We need to improve our internal communication channels. The",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.4,
+            "text": " We need to improve our internal communication channels.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                3470,
+                527,
+                6920,
+                6101,
+                9235,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40067628224690754,
+            "compression_ratio": 0.9516129032258065,
+            "no_speech_prob": 0.043620962649583817,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.6,
+                    "probability": 0.7449791431427002
+                },
+                {
+                    "word": " need",
+                    "start": 0.6,
+                    "end": 0.78,
+                    "probability": 0.9937198162078857
+                },
+                {
+                    "word": " to",
+                    "start": 0.78,
+                    "end": 0.94,
+                    "probability": 0.9979402422904968
+                },
+                {
+                    "word": " improve",
+                    "start": 0.94,
+                    "end": 1.3,
+                    "probability": 0.9867632985115051
+                },
+                {
+                    "word": " our",
+                    "start": 1.3,
+                    "end": 1.6,
+                    "probability": 0.9916967153549194
+                },
+                {
+                    "word": " internal",
+                    "start": 1.6,
+                    "end": 2.02,
+                    "probability": 0.7928310036659241
+                },
+                {
+                    "word": " communication",
+                    "start": 2.02,
+                    "end": 2.64,
+                    "probability": 0.985306978225708
+                },
+                {
+                    "word": " channels.",
+                    "start": 2.64,
+                    "end": 3.4,
+                    "probability": 0.9924775958061218
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.96,
+            "end": 4.48,
+            "text": " The",
+            "tokens": [
+                50564,
+                440,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40067628224690754,
+            "compression_ratio": 0.9516129032258065,
+            "no_speech_prob": 0.043620962649583817,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 3.96,
+                    "end": 4.48,
+                    "probability": 0.7511977553367615
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

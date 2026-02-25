@@ -1,0 +1,73 @@
+{
+    "text": " The concept will create your new artists.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.86,
+            "text": " The concept will create your new artists.",
+            "tokens": [
+                50364,
+                440,
+                3410,
+                486,
+                1884,
+                428,
+                777,
+                6910,
+                13,
+                50480
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4873656359585849,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.00720710214227438,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6087451577186584
+                },
+                {
+                    "word": " concept",
+                    "start": 0.12,
+                    "end": 0.48,
+                    "probability": 0.6503768563270569
+                },
+                {
+                    "word": " will",
+                    "start": 0.48,
+                    "end": 0.68,
+                    "probability": 0.9948791265487671
+                },
+                {
+                    "word": " create",
+                    "start": 0.68,
+                    "end": 0.96,
+                    "probability": 0.7897650599479675
+                },
+                {
+                    "word": " your",
+                    "start": 0.96,
+                    "end": 1.14,
+                    "probability": 0.40885886549949646
+                },
+                {
+                    "word": " new",
+                    "start": 1.14,
+                    "end": 1.32,
+                    "probability": 0.9874958992004395
+                },
+                {
+                    "word": " artists.",
+                    "start": 1.32,
+                    "end": 1.86,
+                    "probability": 0.8581557273864746
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

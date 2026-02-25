@@ -1,0 +1,116 @@
+{
+    "text": " Not only did she win the competition, she also broke the previous record.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.8,
+            "text": " Not only did she win the competition, she also broke the previous record.",
+            "tokens": [
+                50364,
+                1726,
+                787,
+                630,
+                750,
+                1942,
+                264,
+                6211,
+                11,
+                750,
+                611,
+                6902,
+                264,
+                3894,
+                2136,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22161703639560276,
+            "compression_ratio": 1.028169014084507,
+            "no_speech_prob": 0.008673960343003273,
+            "words": [
+                {
+                    "word": " Not",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.767094075679779
+                },
+                {
+                    "word": " only",
+                    "start": 0.16,
+                    "end": 0.4,
+                    "probability": 0.9970038533210754
+                },
+                {
+                    "word": " did",
+                    "start": 0.4,
+                    "end": 0.58,
+                    "probability": 0.9986931681632996
+                },
+                {
+                    "word": " she",
+                    "start": 0.58,
+                    "end": 0.78,
+                    "probability": 0.9973543882369995
+                },
+                {
+                    "word": " win",
+                    "start": 0.78,
+                    "end": 1.0,
+                    "probability": 0.9974070191383362
+                },
+                {
+                    "word": " the",
+                    "start": 1.0,
+                    "end": 1.14,
+                    "probability": 0.9875447750091553
+                },
+                {
+                    "word": " competition,",
+                    "start": 1.14,
+                    "end": 1.68,
+                    "probability": 0.9726846218109131
+                },
+                {
+                    "word": " she",
+                    "start": 2.26,
+                    "end": 2.44,
+                    "probability": 0.9823116064071655
+                },
+                {
+                    "word": " also",
+                    "start": 2.44,
+                    "end": 2.62,
+                    "probability": 0.9946229457855225
+                },
+                {
+                    "word": " broke",
+                    "start": 2.62,
+                    "end": 2.88,
+                    "probability": 0.8789213299751282
+                },
+                {
+                    "word": " the",
+                    "start": 2.88,
+                    "end": 3.08,
+                    "probability": 0.988582968711853
+                },
+                {
+                    "word": " previous",
+                    "start": 3.08,
+                    "end": 3.38,
+                    "probability": 0.9254708886146545
+                },
+                {
+                    "word": " record.",
+                    "start": 3.38,
+                    "end": 3.8,
+                    "probability": 0.9929320812225342
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

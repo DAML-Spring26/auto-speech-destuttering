@@ -1,0 +1,101 @@
+{
+    "text": " Can you explain how this new technology will benefit our customers?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.92,
+            "text": " Can you explain how this new technology will benefit our customers?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                2903,
+                577,
+                341,
+                777,
+                2899,
+                486,
+                5121,
+                527,
+                4581,
+                30,
+                50636
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33173735936482746,
+            "compression_ratio": 0.9852941176470589,
+            "no_speech_prob": 0.01602591760456562,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.8987273573875427
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.3,
+                    "probability": 0.9969672560691833
+                },
+                {
+                    "word": " explain",
+                    "start": 0.3,
+                    "end": 0.78,
+                    "probability": 0.9978329539299011
+                },
+                {
+                    "word": " how",
+                    "start": 0.78,
+                    "end": 1.1,
+                    "probability": 0.9936397671699524
+                },
+                {
+                    "word": " this",
+                    "start": 1.1,
+                    "end": 1.4,
+                    "probability": 0.9932780861854553
+                },
+                {
+                    "word": " new",
+                    "start": 1.4,
+                    "end": 1.74,
+                    "probability": 0.9862307906150818
+                },
+                {
+                    "word": " technology",
+                    "start": 1.74,
+                    "end": 3.16,
+                    "probability": 0.2740252912044525
+                },
+                {
+                    "word": " will",
+                    "start": 3.16,
+                    "end": 3.64,
+                    "probability": 0.9961007833480835
+                },
+                {
+                    "word": " benefit",
+                    "start": 3.64,
+                    "end": 4.1,
+                    "probability": 0.9987820982933044
+                },
+                {
+                    "word": " our",
+                    "start": 4.1,
+                    "end": 4.32,
+                    "probability": 0.9957155585289001
+                },
+                {
+                    "word": " customers?",
+                    "start": 4.32,
+                    "end": 4.92,
+                    "probability": 0.997783362865448
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,95 @@
+{
+    "text": " The conference call is scheduled for like 3 p.m.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.12,
+            "text": " The conference call is scheduled for like 3 p.m.",
+            "tokens": [
+                50364,
+                440,
+                7586,
+                818,
+                307,
+                15678,
+                337,
+                411,
+                805,
+                280,
+                13,
+                76,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39445578257242836,
+            "compression_ratio": 0.8888888888888888,
+            "no_speech_prob": 0.12592914700508118,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.74,
+                    "probability": 0.7543989419937134
+                },
+                {
+                    "word": " conference",
+                    "start": 0.74,
+                    "end": 1.28,
+                    "probability": 0.9453331828117371
+                },
+                {
+                    "word": " call",
+                    "start": 1.28,
+                    "end": 1.76,
+                    "probability": 0.9924331903457642
+                },
+                {
+                    "word": " is",
+                    "start": 1.76,
+                    "end": 2.16,
+                    "probability": 0.9955293536186218
+                },
+                {
+                    "word": " scheduled",
+                    "start": 2.16,
+                    "end": 2.68,
+                    "probability": 0.9987848401069641
+                },
+                {
+                    "word": " for",
+                    "start": 2.68,
+                    "end": 3.1,
+                    "probability": 0.9757987260818481
+                },
+                {
+                    "word": " like",
+                    "start": 3.1,
+                    "end": 4.86,
+                    "probability": 0.40095916390419006
+                },
+                {
+                    "word": " 3",
+                    "start": 4.86,
+                    "end": 5.58,
+                    "probability": 0.8371197581291199
+                },
+                {
+                    "word": " p",
+                    "start": 5.58,
+                    "end": 5.88,
+                    "probability": 0.3439721465110779
+                },
+                {
+                    "word": ".m.",
+                    "start": 5.88,
+                    "end": 6.12,
+                    "probability": 0.9900955557823181
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

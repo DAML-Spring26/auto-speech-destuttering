@@ -1,0 +1,95 @@
+{
+    "text": " Could you please explain the new company policies, you know?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.22,
+            "text": " Could you please explain the new company policies, you know?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                2903,
+                264,
+                777,
+                2237,
+                7657,
+                11,
+                291,
+                458,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2974657376607259,
+            "compression_ratio": 0.9230769230769231,
+            "no_speech_prob": 0.18645301461219788,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.6,
+                    "probability": 0.8663532137870789
+                },
+                {
+                    "word": " you",
+                    "start": 0.6,
+                    "end": 0.74,
+                    "probability": 0.9964314699172974
+                },
+                {
+                    "word": " please",
+                    "start": 0.74,
+                    "end": 0.98,
+                    "probability": 0.9909079074859619
+                },
+                {
+                    "word": " explain",
+                    "start": 0.98,
+                    "end": 1.4,
+                    "probability": 0.9964009523391724
+                },
+                {
+                    "word": " the",
+                    "start": 1.4,
+                    "end": 1.58,
+                    "probability": 0.9933668971061707
+                },
+                {
+                    "word": " new",
+                    "start": 1.58,
+                    "end": 1.74,
+                    "probability": 0.987686038017273
+                },
+                {
+                    "word": " company",
+                    "start": 1.74,
+                    "end": 2.1,
+                    "probability": 0.9868908524513245
+                },
+                {
+                    "word": " policies,",
+                    "start": 2.1,
+                    "end": 2.66,
+                    "probability": 0.9723564982414246
+                },
+                {
+                    "word": " you",
+                    "start": 2.96,
+                    "end": 3.08,
+                    "probability": 0.9594956040382385
+                },
+                {
+                    "word": " know?",
+                    "start": 3.08,
+                    "end": 3.22,
+                    "probability": 0.9943591952323914
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

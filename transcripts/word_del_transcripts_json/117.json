@@ -1,0 +1,108 @@
+{
+    "text": " the patient instructed to take the medication twice daily for 10 days.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.06,
+            "text": " the patient instructed to take the medication twice daily for 10 days.",
+            "tokens": [
+                50364,
+                264,
+                4537,
+                36384,
+                281,
+                747,
+                264,
+                13851,
+                6091,
+                5212,
+                337,
+                1266,
+                1708,
+                13,
+                50584
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3524317145347595,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.006429619155824184,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.502491295337677
+                },
+                {
+                    "word": " patient",
+                    "start": 0.14,
+                    "end": 0.54,
+                    "probability": 0.9909040331840515
+                },
+                {
+                    "word": " instructed",
+                    "start": 0.54,
+                    "end": 1.18,
+                    "probability": 0.9611576199531555
+                },
+                {
+                    "word": " to",
+                    "start": 1.18,
+                    "end": 1.38,
+                    "probability": 0.986531674861908
+                },
+                {
+                    "word": " take",
+                    "start": 1.38,
+                    "end": 1.64,
+                    "probability": 0.9947940707206726
+                },
+                {
+                    "word": " the",
+                    "start": 1.64,
+                    "end": 1.82,
+                    "probability": 0.8424720764160156
+                },
+                {
+                    "word": " medication",
+                    "start": 1.82,
+                    "end": 2.2,
+                    "probability": 0.9976008534431458
+                },
+                {
+                    "word": " twice",
+                    "start": 2.2,
+                    "end": 2.82,
+                    "probability": 0.9934749007225037
+                },
+                {
+                    "word": " daily",
+                    "start": 2.82,
+                    "end": 3.26,
+                    "probability": 0.9918422698974609
+                },
+                {
+                    "word": " for",
+                    "start": 3.26,
+                    "end": 3.54,
+                    "probability": 0.9889051914215088
+                },
+                {
+                    "word": " 10",
+                    "start": 3.54,
+                    "end": 3.78,
+                    "probability": 0.8677912950515747
+                },
+                {
+                    "word": " days.",
+                    "start": 3.78,
+                    "end": 4.06,
+                    "probability": 0.9977689981460571
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

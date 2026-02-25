@@ -1,0 +1,108 @@
+{
+    "text": " The emergency exit is located on at the end of the hall.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.8599999999999997,
+            "end": 4.32,
+            "text": " The emergency exit is located on at the end of the hall.",
+            "tokens": [
+                50364,
+                440,
+                7473,
+                11043,
+                307,
+                6870,
+                322,
+                412,
+                264,
+                917,
+                295,
+                264,
+                6500,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1326168179512024,
+            "compression_ratio": 0.9824561403508771,
+            "no_speech_prob": 0.04976072534918785,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.8599999999999997,
+                    "end": 1.34,
+                    "probability": 0.9423097372055054
+                },
+                {
+                    "word": " emergency",
+                    "start": 1.34,
+                    "end": 1.82,
+                    "probability": 0.7739539742469788
+                },
+                {
+                    "word": " exit",
+                    "start": 1.82,
+                    "end": 2.4,
+                    "probability": 0.9994761347770691
+                },
+                {
+                    "word": " is",
+                    "start": 2.4,
+                    "end": 2.64,
+                    "probability": 0.9976886510848999
+                },
+                {
+                    "word": " located",
+                    "start": 2.64,
+                    "end": 2.96,
+                    "probability": 0.9976308345794678
+                },
+                {
+                    "word": " on",
+                    "start": 2.96,
+                    "end": 3.28,
+                    "probability": 0.9982267022132874
+                },
+                {
+                    "word": " at",
+                    "start": 3.28,
+                    "end": 3.42,
+                    "probability": 0.9908608198165894
+                },
+                {
+                    "word": " the",
+                    "start": 3.42,
+                    "end": 3.54,
+                    "probability": 0.9990139007568359
+                },
+                {
+                    "word": " end",
+                    "start": 3.54,
+                    "end": 3.76,
+                    "probability": 0.9980820417404175
+                },
+                {
+                    "word": " of",
+                    "start": 3.76,
+                    "end": 3.92,
+                    "probability": 0.9989815354347229
+                },
+                {
+                    "word": " the",
+                    "start": 3.92,
+                    "end": 4.04,
+                    "probability": 0.9989233613014221
+                },
+                {
+                    "word": " hall.",
+                    "start": 4.04,
+                    "end": 4.32,
+                    "probability": 0.900101363658905
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

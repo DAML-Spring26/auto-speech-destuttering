@@ -1,0 +1,74 @@
+{
+    "text": " The engineer designed an efficient prilling system.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.48,
+            "text": " The engineer designed an efficient prilling system.",
+            "tokens": [
+                50364,
+                440,
+                11403,
+                4761,
+                364,
+                7148,
+                582,
+                7345,
+                1185,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41724876562754315,
+            "compression_ratio": 0.8947368421052632,
+            "no_speech_prob": 0.004089804366230965,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6217106580734253
+                },
+                {
+                    "word": " engineer",
+                    "start": 0.14,
+                    "end": 0.58,
+                    "probability": 0.8242856860160828
+                },
+                {
+                    "word": " designed",
+                    "start": 0.58,
+                    "end": 1.0,
+                    "probability": 0.9858515858650208
+                },
+                {
+                    "word": " an",
+                    "start": 1.0,
+                    "end": 1.26,
+                    "probability": 0.964043140411377
+                },
+                {
+                    "word": " efficient",
+                    "start": 1.26,
+                    "end": 1.58,
+                    "probability": 0.9747039079666138
+                },
+                {
+                    "word": " prilling",
+                    "start": 1.58,
+                    "end": 1.96,
+                    "probability": 0.7416332066059113
+                },
+                {
+                    "word": " system.",
+                    "start": 1.96,
+                    "end": 2.48,
+                    "probability": 0.9969547986984253
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

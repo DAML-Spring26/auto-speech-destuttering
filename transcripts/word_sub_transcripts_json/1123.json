@@ -1,0 +1,67 @@
+{
+    "text": " She performed brilliantly in the composition.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.04,
+            "text": " She performed brilliantly in the composition.",
+            "tokens": [
+                50364,
+                1240,
+                10332,
+                8695,
+                42580,
+                294,
+                264,
+                12686,
+                13,
+                50480
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32630870558998804,
+            "compression_ratio": 0.8653846153846154,
+            "no_speech_prob": 0.005626610945910215,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.5694351196289062
+                },
+                {
+                    "word": " performed",
+                    "start": 0.16,
+                    "end": 0.54,
+                    "probability": 0.9872241020202637
+                },
+                {
+                    "word": " brilliantly",
+                    "start": 0.54,
+                    "end": 1.16,
+                    "probability": 0.988751083612442
+                },
+                {
+                    "word": " in",
+                    "start": 1.16,
+                    "end": 1.34,
+                    "probability": 0.9945238828659058
+                },
+                {
+                    "word": " the",
+                    "start": 1.34,
+                    "end": 1.42,
+                    "probability": 0.9935728311538696
+                },
+                {
+                    "word": " composition.",
+                    "start": 1.42,
+                    "end": 2.04,
+                    "probability": 0.9909201860427856
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,81 @@
+{
+    "text": " I'm thinking of changing my profile picture tomorrow.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.54,
+            "text": " I'm thinking of changing my profile picture tomorrow.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                1953,
+                295,
+                4473,
+                452,
+                7964,
+                3036,
+                4153,
+                13,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29366040229797363,
+            "compression_ratio": 0.9137931034482759,
+            "no_speech_prob": 0.01415681280195713,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.9147909879684448
+                },
+                {
+                    "word": " thinking",
+                    "start": 0.28,
+                    "end": 0.64,
+                    "probability": 0.9959926009178162
+                },
+                {
+                    "word": " of",
+                    "start": 0.64,
+                    "end": 0.92,
+                    "probability": 0.9921743869781494
+                },
+                {
+                    "word": " changing",
+                    "start": 0.92,
+                    "end": 1.24,
+                    "probability": 0.9889257550239563
+                },
+                {
+                    "word": " my",
+                    "start": 1.24,
+                    "end": 1.62,
+                    "probability": 0.985340416431427
+                },
+                {
+                    "word": " profile",
+                    "start": 1.62,
+                    "end": 3.58,
+                    "probability": 0.8620426058769226
+                },
+                {
+                    "word": " picture",
+                    "start": 3.58,
+                    "end": 4.12,
+                    "probability": 0.9910897016525269
+                },
+                {
+                    "word": " tomorrow.",
+                    "start": 4.12,
+                    "end": 4.54,
+                    "probability": 0.973694384098053
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

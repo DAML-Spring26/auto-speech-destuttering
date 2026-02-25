@@ -1,0 +1,101 @@
+{
+    "text": " She asked whether I had received the invitation to the conference.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.76,
+            "text": " She asked whether I had received the invitation to the conference.",
+            "tokens": [
+                50364,
+                1240,
+                2351,
+                1968,
+                286,
+                632,
+                4613,
+                264,
+                17890,
+                281,
+                264,
+                7586,
+                13,
+                50624
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2956658045450846,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.003640022361651063,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.7999885678291321
+                },
+                {
+                    "word": " asked",
+                    "start": 0.2,
+                    "end": 0.58,
+                    "probability": 0.7790033221244812
+                },
+                {
+                    "word": " whether",
+                    "start": 0.58,
+                    "end": 0.9,
+                    "probability": 0.984348475933075
+                },
+                {
+                    "word": " I",
+                    "start": 0.9,
+                    "end": 1.44,
+                    "probability": 0.8515712022781372
+                },
+                {
+                    "word": " had",
+                    "start": 1.44,
+                    "end": 2.14,
+                    "probability": 0.6781514286994934
+                },
+                {
+                    "word": " received",
+                    "start": 2.14,
+                    "end": 2.54,
+                    "probability": 0.9835996627807617
+                },
+                {
+                    "word": " the",
+                    "start": 2.54,
+                    "end": 2.84,
+                    "probability": 0.9956859350204468
+                },
+                {
+                    "word": " invitation",
+                    "start": 2.84,
+                    "end": 3.42,
+                    "probability": 0.9769778251647949
+                },
+                {
+                    "word": " to",
+                    "start": 3.42,
+                    "end": 4.08,
+                    "probability": 0.9950118064880371
+                },
+                {
+                    "word": " the",
+                    "start": 4.08,
+                    "end": 4.2,
+                    "probability": 0.9958552718162537
+                },
+                {
+                    "word": " conference.",
+                    "start": 4.2,
+                    "end": 4.76,
+                    "probability": 0.9911726117134094
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

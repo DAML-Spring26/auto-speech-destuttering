@@ -1,0 +1,87 @@
+{
+    "text": " The new policy implemented by the management last month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.76,
+            "text": " The new policy implemented by the management last month.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                3897,
+                12270,
+                538,
+                264,
+                4592,
+                1036,
+                1618,
+                13,
+                50510
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32367511895986706,
+            "compression_ratio": 0.9491525423728814,
+            "no_speech_prob": 0.010974361561238766,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.61692214012146
+                },
+                {
+                    "word": " new",
+                    "start": 0.12,
+                    "end": 0.26,
+                    "probability": 0.9411971569061279
+                },
+                {
+                    "word": " policy",
+                    "start": 0.26,
+                    "end": 0.72,
+                    "probability": 0.9918723702430725
+                },
+                {
+                    "word": " implemented",
+                    "start": 0.72,
+                    "end": 1.36,
+                    "probability": 0.9917685985565186
+                },
+                {
+                    "word": " by",
+                    "start": 1.36,
+                    "end": 1.6,
+                    "probability": 0.9963233470916748
+                },
+                {
+                    "word": " the",
+                    "start": 1.6,
+                    "end": 1.7,
+                    "probability": 0.9421980977058411
+                },
+                {
+                    "word": " management",
+                    "start": 1.7,
+                    "end": 2.12,
+                    "probability": 0.8498452305793762
+                },
+                {
+                    "word": " last",
+                    "start": 2.12,
+                    "end": 2.42,
+                    "probability": 0.9885474443435669
+                },
+                {
+                    "word": " month.",
+                    "start": 2.42,
+                    "end": 2.76,
+                    "probability": 0.9977774024009705
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

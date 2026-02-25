@@ -1,0 +1,66 @@
+{
+    "text": " Please proceed with the installation progress.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.92,
+            "text": " Please proceed with the installation progress.",
+            "tokens": [
+                50364,
+                2555,
+                8991,
+                365,
+                264,
+                13260,
+                4205,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4036949634552002,
+            "compression_ratio": 0.8846153846153846,
+            "no_speech_prob": 0.0049109868705272675,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.5874044895172119
+                },
+                {
+                    "word": " proceed",
+                    "start": 0.18,
+                    "end": 0.58,
+                    "probability": 0.998776376247406
+                },
+                {
+                    "word": " with",
+                    "start": 0.58,
+                    "end": 0.8,
+                    "probability": 0.9627571702003479
+                },
+                {
+                    "word": " the",
+                    "start": 0.8,
+                    "end": 0.98,
+                    "probability": 0.8811874985694885
+                },
+                {
+                    "word": " installation",
+                    "start": 0.98,
+                    "end": 1.48,
+                    "probability": 0.9880213141441345
+                },
+                {
+                    "word": " progress.",
+                    "start": 1.48,
+                    "end": 1.92,
+                    "probability": 0.9707056283950806
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,115 @@
+{
+    "text": " She wondered she should pursue a graduate degree or enter the job market.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.5,
+            "text": " She wondered she should pursue a graduate degree or enter the job market.",
+            "tokens": [
+                50364,
+                1240,
+                17055,
+                750,
+                820,
+                12392,
+                257,
+                8080,
+                4314,
+                420,
+                3242,
+                264,
+                1691,
+                2142,
+                13,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3015433760250316,
+            "compression_ratio": 1.042857142857143,
+            "no_speech_prob": 0.005044626072049141,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.6921196579933167
+                },
+                {
+                    "word": " wondered",
+                    "start": 0.26,
+                    "end": 0.64,
+                    "probability": 0.8930533528327942
+                },
+                {
+                    "word": " she",
+                    "start": 0.64,
+                    "end": 0.98,
+                    "probability": 0.9283250570297241
+                },
+                {
+                    "word": " should",
+                    "start": 0.98,
+                    "end": 1.22,
+                    "probability": 0.975902259349823
+                },
+                {
+                    "word": " pursue",
+                    "start": 1.22,
+                    "end": 1.62,
+                    "probability": 0.9982713460922241
+                },
+                {
+                    "word": " a",
+                    "start": 1.62,
+                    "end": 1.84,
+                    "probability": 0.9682446122169495
+                },
+                {
+                    "word": " graduate",
+                    "start": 1.84,
+                    "end": 2.28,
+                    "probability": 0.9807009696960449
+                },
+                {
+                    "word": " degree",
+                    "start": 2.28,
+                    "end": 2.82,
+                    "probability": 0.987815797328949
+                },
+                {
+                    "word": " or",
+                    "start": 2.82,
+                    "end": 3.2,
+                    "probability": 0.9247533679008484
+                },
+                {
+                    "word": " enter",
+                    "start": 3.2,
+                    "end": 3.64,
+                    "probability": 0.9958187937736511
+                },
+                {
+                    "word": " the",
+                    "start": 3.64,
+                    "end": 3.82,
+                    "probability": 0.9933792352676392
+                },
+                {
+                    "word": " job",
+                    "start": 3.82,
+                    "end": 4.08,
+                    "probability": 0.989325761795044
+                },
+                {
+                    "word": " market.",
+                    "start": 4.08,
+                    "end": 4.5,
+                    "probability": 0.9902611374855042
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

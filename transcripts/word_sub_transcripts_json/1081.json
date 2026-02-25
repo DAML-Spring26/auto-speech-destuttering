@@ -1,0 +1,60 @@
+{
+    "text": " Shicks claim the procedure well.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.26,
+            "text": " Shicks claim the procedure well.",
+            "tokens": [
+                50364,
+                1160,
+                7663,
+                3932,
+                264,
+                10747,
+                731,
+                13,
+                50434
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5639396667480469,
+            "compression_ratio": 0.8,
+            "no_speech_prob": 0.01962505467236042,
+            "words": [
+                {
+                    "word": " Shicks",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.5346821919083595
+                },
+                {
+                    "word": " claim",
+                    "start": 0.38,
+                    "end": 0.54,
+                    "probability": 0.9590550661087036
+                },
+                {
+                    "word": " the",
+                    "start": 0.54,
+                    "end": 0.68,
+                    "probability": 0.8922338485717773
+                },
+                {
+                    "word": " procedure",
+                    "start": 0.68,
+                    "end": 1.02,
+                    "probability": 0.9639714956283569
+                },
+                {
+                    "word": " well.",
+                    "start": 1.02,
+                    "end": 1.26,
+                    "probability": 0.9534446597099304
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

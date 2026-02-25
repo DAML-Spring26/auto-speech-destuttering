@@ -1,0 +1,94 @@
+{
+    "text": " The manager recommended we implement the new software system gradually.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.56,
+            "text": " The manager recommended we implement the new software system gradually.",
+            "tokens": [
+                50364,
+                440,
+                6598,
+                9628,
+                321,
+                4445,
+                264,
+                777,
+                4722,
+                1185,
+                13145,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2966981955936977,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.0018811171175912023,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8406661152839661
+                },
+                {
+                    "word": " manager",
+                    "start": 0.12,
+                    "end": 0.44,
+                    "probability": 0.8840203881263733
+                },
+                {
+                    "word": " recommended",
+                    "start": 0.44,
+                    "end": 0.98,
+                    "probability": 0.987247109413147
+                },
+                {
+                    "word": " we",
+                    "start": 0.98,
+                    "end": 1.3,
+                    "probability": 0.9418207406997681
+                },
+                {
+                    "word": " implement",
+                    "start": 1.3,
+                    "end": 1.66,
+                    "probability": 0.950696587562561
+                },
+                {
+                    "word": " the",
+                    "start": 1.66,
+                    "end": 1.82,
+                    "probability": 0.9792947173118591
+                },
+                {
+                    "word": " new",
+                    "start": 1.82,
+                    "end": 1.96,
+                    "probability": 0.9802337288856506
+                },
+                {
+                    "word": " software",
+                    "start": 1.96,
+                    "end": 2.44,
+                    "probability": 0.9620487093925476
+                },
+                {
+                    "word": " system",
+                    "start": 2.44,
+                    "end": 2.94,
+                    "probability": 0.9091225862503052
+                },
+                {
+                    "word": " gradually.",
+                    "start": 2.94,
+                    "end": 3.56,
+                    "probability": 0.9748291969299316
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

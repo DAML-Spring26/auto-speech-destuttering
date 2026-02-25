@@ -1,0 +1,66 @@
+{
+    "text": " The architect presented the building decline.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.98,
+            "text": " The architect presented the building decline.",
+            "tokens": [
+                50364,
+                440,
+                6331,
+                8212,
+                264,
+                2390,
+                15635,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4647369861602783,
+            "compression_ratio": 0.8653846153846154,
+            "no_speech_prob": 0.01542583480477333,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5603378415107727
+                },
+                {
+                    "word": " architect",
+                    "start": 0.12,
+                    "end": 0.5,
+                    "probability": 0.6167367696762085
+                },
+                {
+                    "word": " presented",
+                    "start": 0.5,
+                    "end": 1.14,
+                    "probability": 0.9929431080818176
+                },
+                {
+                    "word": " the",
+                    "start": 1.14,
+                    "end": 1.34,
+                    "probability": 0.9834272861480713
+                },
+                {
+                    "word": " building",
+                    "start": 1.34,
+                    "end": 1.6,
+                    "probability": 0.9379717707633972
+                },
+                {
+                    "word": " decline.",
+                    "start": 1.6,
+                    "end": 1.98,
+                    "probability": 0.9723462462425232
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

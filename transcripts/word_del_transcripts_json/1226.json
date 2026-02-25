@@ -1,0 +1,80 @@
+{
+    "text": " The software update released all users next month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.92,
+            "text": " The software update released all users next month.",
+            "tokens": [
+                50364,
+                440,
+                4722,
+                5623,
+                4736,
+                439,
+                5022,
+                958,
+                1618,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3583256006240845,
+            "compression_ratio": 0.8928571428571429,
+            "no_speech_prob": 0.0051984284073114395,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6155010461807251
+                },
+                {
+                    "word": " software",
+                    "start": 0.14,
+                    "end": 0.5,
+                    "probability": 0.8820621967315674
+                },
+                {
+                    "word": " update",
+                    "start": 0.5,
+                    "end": 0.92,
+                    "probability": 0.9925663471221924
+                },
+                {
+                    "word": " released",
+                    "start": 0.92,
+                    "end": 1.38,
+                    "probability": 0.9302816987037659
+                },
+                {
+                    "word": " all",
+                    "start": 1.38,
+                    "end": 1.74,
+                    "probability": 0.9838472008705139
+                },
+                {
+                    "word": " users",
+                    "start": 1.74,
+                    "end": 2.1,
+                    "probability": 0.7479084134101868
+                },
+                {
+                    "word": " next",
+                    "start": 2.1,
+                    "end": 2.54,
+                    "probability": 0.964433491230011
+                },
+                {
+                    "word": " month.",
+                    "start": 2.54,
+                    "end": 2.92,
+                    "probability": 0.9965357780456543
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

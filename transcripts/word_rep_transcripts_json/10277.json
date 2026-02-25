@@ -1,0 +1,81 @@
+{
+    "text": " Could you recommend a good, good local restaurant?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.72,
+            "text": " Could you recommend a good, good local restaurant?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                2748,
+                257,
+                665,
+                11,
+                665,
+                2654,
+                6383,
+                30,
+                50589
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3482844279362605,
+            "compression_ratio": 0.9433962264150944,
+            "no_speech_prob": 0.01584244705736637,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.9137126803398132
+                },
+                {
+                    "word": " you",
+                    "start": 0.18,
+                    "end": 0.4,
+                    "probability": 0.9944362640380859
+                },
+                {
+                    "word": " recommend",
+                    "start": 0.4,
+                    "end": 1.04,
+                    "probability": 0.9131730794906616
+                },
+                {
+                    "word": " a",
+                    "start": 1.04,
+                    "end": 1.32,
+                    "probability": 0.9857963919639587
+                },
+                {
+                    "word": " good,",
+                    "start": 1.32,
+                    "end": 1.7,
+                    "probability": 0.9814444780349731
+                },
+                {
+                    "word": " good",
+                    "start": 2.28,
+                    "end": 2.6,
+                    "probability": 0.932776689529419
+                },
+                {
+                    "word": " local",
+                    "start": 2.6,
+                    "end": 3.08,
+                    "probability": 0.9393671751022339
+                },
+                {
+                    "word": " restaurant?",
+                    "start": 3.08,
+                    "end": 3.72,
+                    "probability": 0.994445264339447
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

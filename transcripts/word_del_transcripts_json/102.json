@@ -1,0 +1,87 @@
+{
+    "text": " Can you explain how the new software improves productivity?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.54,
+            "text": " Can you explain how the new software improves productivity?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                2903,
+                577,
+                264,
+                777,
+                4722,
+                24771,
+                15604,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2936647671919603,
+            "compression_ratio": 0.9076923076923077,
+            "no_speech_prob": 0.010070807300508022,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.7946922779083252
+                },
+                {
+                    "word": " you",
+                    "start": 0.2,
+                    "end": 0.34,
+                    "probability": 0.9963441491127014
+                },
+                {
+                    "word": " explain",
+                    "start": 0.34,
+                    "end": 0.68,
+                    "probability": 0.9972255229949951
+                },
+                {
+                    "word": " how",
+                    "start": 0.68,
+                    "end": 0.92,
+                    "probability": 0.9191928505897522
+                },
+                {
+                    "word": " the",
+                    "start": 0.92,
+                    "end": 1.02,
+                    "probability": 0.9941987991333008
+                },
+                {
+                    "word": " new",
+                    "start": 1.02,
+                    "end": 1.14,
+                    "probability": 0.7925845384597778
+                },
+                {
+                    "word": " software",
+                    "start": 1.14,
+                    "end": 1.56,
+                    "probability": 0.9947865009307861
+                },
+                {
+                    "word": " improves",
+                    "start": 1.56,
+                    "end": 1.92,
+                    "probability": 0.7219129204750061
+                },
+                {
+                    "word": " productivity?",
+                    "start": 1.92,
+                    "end": 2.54,
+                    "probability": 0.7125921845436096
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

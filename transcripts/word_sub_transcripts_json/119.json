@@ -1,0 +1,59 @@
+{
+    "text": " The company implemented new police.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.78,
+            "text": " The company implemented new police.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                12270,
+                777,
+                3804,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6579096582200792,
+            "compression_ratio": 0.813953488372093,
+            "no_speech_prob": 0.01058555580675602,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5819747447967529
+                },
+                {
+                    "word": " company",
+                    "start": 0.12,
+                    "end": 0.5,
+                    "probability": 0.977756142616272
+                },
+                {
+                    "word": " implemented",
+                    "start": 0.5,
+                    "end": 1.12,
+                    "probability": 0.9872449040412903
+                },
+                {
+                    "word": " new",
+                    "start": 1.12,
+                    "end": 1.42,
+                    "probability": 0.9973798394203186
+                },
+                {
+                    "word": " police.",
+                    "start": 1.42,
+                    "end": 1.78,
+                    "probability": 0.6088767051696777
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

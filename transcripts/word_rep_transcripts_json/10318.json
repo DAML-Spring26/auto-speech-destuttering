@@ -1,0 +1,94 @@
+{
+    "text": " Despite the challenges our team managed to meet the deadline.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.46,
+            "text": " Despite the challenges our team managed to meet the deadline.",
+            "tokens": [
+                50364,
+                11334,
+                264,
+                4759,
+                527,
+                1469,
+                6453,
+                281,
+                1677,
+                264,
+                20615,
+                13,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25503366334097727,
+            "compression_ratio": 0.9682539682539683,
+            "no_speech_prob": 0.012542271055281162,
+            "words": [
+                {
+                    "word": " Despite",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.8564351797103882
+                },
+                {
+                    "word": " the",
+                    "start": 0.44,
+                    "end": 0.74,
+                    "probability": 0.9852945804595947
+                },
+                {
+                    "word": " challenges",
+                    "start": 0.74,
+                    "end": 1.38,
+                    "probability": 0.9821614027023315
+                },
+                {
+                    "word": " our",
+                    "start": 1.38,
+                    "end": 1.88,
+                    "probability": 0.7941781878471375
+                },
+                {
+                    "word": " team",
+                    "start": 1.88,
+                    "end": 2.26,
+                    "probability": 0.9873325228691101
+                },
+                {
+                    "word": " managed",
+                    "start": 2.26,
+                    "end": 2.64,
+                    "probability": 0.9725649356842041
+                },
+                {
+                    "word": " to",
+                    "start": 2.64,
+                    "end": 3.1,
+                    "probability": 0.9971215128898621
+                },
+                {
+                    "word": " meet",
+                    "start": 3.1,
+                    "end": 3.78,
+                    "probability": 0.5828614234924316
+                },
+                {
+                    "word": " the",
+                    "start": 3.78,
+                    "end": 4.02,
+                    "probability": 0.9868516325950623
+                },
+                {
+                    "word": " deadline.",
+                    "start": 4.02,
+                    "end": 4.46,
+                    "probability": 0.9881000518798828
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

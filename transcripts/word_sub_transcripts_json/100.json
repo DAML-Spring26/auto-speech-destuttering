@@ -1,0 +1,66 @@
+{
+    "text": " The hospital acquired new medical shipment.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.02,
+            "text": " The hospital acquired new medical shipment.",
+            "tokens": [
+                50364,
+                440,
+                4530,
+                17554,
+                777,
+                4625,
+                49991,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3831172943115234,
+            "compression_ratio": 0.86,
+            "no_speech_prob": 0.005722534842789173,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8366689085960388
+                },
+                {
+                    "word": " hospital",
+                    "start": 0.12,
+                    "end": 0.52,
+                    "probability": 0.992493748664856
+                },
+                {
+                    "word": " acquired",
+                    "start": 0.52,
+                    "end": 1.0,
+                    "probability": 0.7853854894638062
+                },
+                {
+                    "word": " new",
+                    "start": 1.0,
+                    "end": 1.3,
+                    "probability": 0.9599597454071045
+                },
+                {
+                    "word": " medical",
+                    "start": 1.3,
+                    "end": 1.62,
+                    "probability": 0.9917995929718018
+                },
+                {
+                    "word": " shipment.",
+                    "start": 1.62,
+                    "end": 2.02,
+                    "probability": 0.8951680064201355
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

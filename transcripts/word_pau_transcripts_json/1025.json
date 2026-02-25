@@ -1,0 +1,88 @@
+{
+    "text": " The professor's explanation of relativity theory was quite complex.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.7,
+            "text": " The professor's explanation of relativity theory was quite complex.",
+            "tokens": [
+                50364,
+                440,
+                8304,
+                311,
+                10835,
+                295,
+                45675,
+                5261,
+                390,
+                1596,
+                3997,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4071942056928362,
+            "compression_ratio": 0.9571428571428572,
+            "no_speech_prob": 0.01596934162080288,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6559739112854004
+                },
+                {
+                    "word": " professor's",
+                    "start": 0.12,
+                    "end": 0.94,
+                    "probability": 0.7673520147800446
+                },
+                {
+                    "word": " explanation",
+                    "start": 0.94,
+                    "end": 1.62,
+                    "probability": 0.99625164270401
+                },
+                {
+                    "word": " of",
+                    "start": 1.62,
+                    "end": 2.02,
+                    "probability": 0.9896959066390991
+                },
+                {
+                    "word": " relativity",
+                    "start": 2.02,
+                    "end": 5.86,
+                    "probability": 0.4943622648715973
+                },
+                {
+                    "word": " theory",
+                    "start": 5.86,
+                    "end": 6.5,
+                    "probability": 0.9965012073516846
+                },
+                {
+                    "word": " was",
+                    "start": 6.5,
+                    "end": 6.7,
+                    "probability": 0.9939426779747009
+                },
+                {
+                    "word": " quite",
+                    "start": 6.7,
+                    "end": 6.98,
+                    "probability": 0.9915903210639954
+                },
+                {
+                    "word": " complex.",
+                    "start": 6.98,
+                    "end": 7.7,
+                    "probability": 0.9988762736320496
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

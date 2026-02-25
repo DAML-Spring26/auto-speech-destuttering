@@ -1,0 +1,102 @@
+{
+    "text": " Honey, did you remember to buy milk at the grocery store?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.88,
+            "text": " Honey, did you remember to buy milk at the grocery store?",
+            "tokens": [
+                50364,
+                16187,
+                11,
+                630,
+                291,
+                1604,
+                281,
+                2256,
+                5392,
+                412,
+                264,
+                14410,
+                3531,
+                30,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3327270746231079,
+            "compression_ratio": 0.9047619047619048,
+            "no_speech_prob": 0.013921776786446571,
+            "words": [
+                {
+                    "word": " Honey,",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.6781618595123291
+                },
+                {
+                    "word": " did",
+                    "start": 0.5,
+                    "end": 0.58,
+                    "probability": 0.990000307559967
+                },
+                {
+                    "word": " you",
+                    "start": 0.58,
+                    "end": 0.72,
+                    "probability": 0.9978188276290894
+                },
+                {
+                    "word": " remember",
+                    "start": 0.72,
+                    "end": 1.26,
+                    "probability": 0.9892314076423645
+                },
+                {
+                    "word": " to",
+                    "start": 1.26,
+                    "end": 1.5,
+                    "probability": 0.8044619560241699
+                },
+                {
+                    "word": " buy",
+                    "start": 1.5,
+                    "end": 1.7,
+                    "probability": 0.9982977509498596
+                },
+                {
+                    "word": " milk",
+                    "start": 1.7,
+                    "end": 2.1,
+                    "probability": 0.9920801520347595
+                },
+                {
+                    "word": " at",
+                    "start": 2.1,
+                    "end": 2.34,
+                    "probability": 0.9854698181152344
+                },
+                {
+                    "word": " the",
+                    "start": 2.34,
+                    "end": 3.88,
+                    "probability": 0.715601921081543
+                },
+                {
+                    "word": " grocery",
+                    "start": 3.88,
+                    "end": 4.34,
+                    "probability": 0.9691600203514099
+                },
+                {
+                    "word": " store?",
+                    "start": 4.34,
+                    "end": 4.88,
+                    "probability": 0.9971266388893127
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,87 @@
+{
+    "text": " Make sure to submit your assignment by the deadline.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.94,
+            "text": " Make sure to submit your assignment by the deadline.",
+            "tokens": [
+                50364,
+                4387,
+                988,
+                281,
+                10315,
+                428,
+                15187,
+                538,
+                264,
+                20615,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2231464936183049,
+            "compression_ratio": 0.896551724137931,
+            "no_speech_prob": 0.016393614932894707,
+            "words": [
+                {
+                    "word": " Make",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.8578998446464539
+                },
+                {
+                    "word": " sure",
+                    "start": 0.4,
+                    "end": 0.58,
+                    "probability": 0.9988031387329102
+                },
+                {
+                    "word": " to",
+                    "start": 0.58,
+                    "end": 0.68,
+                    "probability": 0.9996126294136047
+                },
+                {
+                    "word": " submit",
+                    "start": 0.68,
+                    "end": 0.9,
+                    "probability": 0.9822788238525391
+                },
+                {
+                    "word": " your",
+                    "start": 0.9,
+                    "end": 1.02,
+                    "probability": 0.9983306527137756
+                },
+                {
+                    "word": " assignment",
+                    "start": 1.02,
+                    "end": 1.36,
+                    "probability": 0.997302770614624
+                },
+                {
+                    "word": " by",
+                    "start": 1.36,
+                    "end": 1.54,
+                    "probability": 0.9961386322975159
+                },
+                {
+                    "word": " the",
+                    "start": 1.54,
+                    "end": 1.66,
+                    "probability": 0.9963496923446655
+                },
+                {
+                    "word": " deadline.",
+                    "start": 1.66,
+                    "end": 1.94,
+                    "probability": 0.9662176370620728
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

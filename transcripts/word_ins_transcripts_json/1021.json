@@ -1,0 +1,119 @@
+{
+    "text": " We need to discuss the upcoming product launch strategy. You know...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.36,
+            "text": " We need to discuss the upcoming product launch strategy.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                2248,
+                264,
+                11500,
+                1674,
+                4025,
+                5206,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3135988977220323,
+            "compression_ratio": 0.9855072463768116,
+            "no_speech_prob": 0.060248661786317825,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.8,
+                    "probability": 0.7733978033065796
+                },
+                {
+                    "word": " need",
+                    "start": 0.8,
+                    "end": 0.98,
+                    "probability": 0.9958279728889465
+                },
+                {
+                    "word": " to",
+                    "start": 0.98,
+                    "end": 1.14,
+                    "probability": 0.9978336691856384
+                },
+                {
+                    "word": " discuss",
+                    "start": 1.14,
+                    "end": 1.52,
+                    "probability": 0.9959828853607178
+                },
+                {
+                    "word": " the",
+                    "start": 1.52,
+                    "end": 2.28,
+                    "probability": 0.9773595929145813
+                },
+                {
+                    "word": " upcoming",
+                    "start": 2.28,
+                    "end": 2.68,
+                    "probability": 0.9706043004989624
+                },
+                {
+                    "word": " product",
+                    "start": 2.68,
+                    "end": 3.2,
+                    "probability": 0.9318060278892517
+                },
+                {
+                    "word": " launch",
+                    "start": 3.2,
+                    "end": 3.68,
+                    "probability": 0.907965898513794
+                },
+                {
+                    "word": " strategy.",
+                    "start": 3.68,
+                    "end": 4.36,
+                    "probability": 0.9934706687927246
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.78,
+            "end": 5.76,
+            "text": " You know...",
+            "tokens": [
+                50614,
+                509,
+                458,
+                485,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3135988977220323,
+            "compression_ratio": 0.9855072463768116,
+            "no_speech_prob": 0.060248661786317825,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 4.78,
+                    "end": 5.3,
+                    "probability": 0.9496962428092957
+                },
+                {
+                    "word": " know...",
+                    "start": 5.3,
+                    "end": 5.76,
+                    "probability": 0.6701875030994415
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,59 @@
+{
+    "text": " She presented the financial foremost.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.12,
+            "text": " She presented the financial foremost.",
+            "tokens": [
+                50364,
+                1240,
+                8212,
+                264,
+                4669,
+                18864,
+                13,
+                50493
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47109291288587785,
+            "compression_ratio": 0.8604651162790697,
+            "no_speech_prob": 0.006031131371855736,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.518836498260498
+                },
+                {
+                    "word": " presented",
+                    "start": 0.2,
+                    "end": 0.7,
+                    "probability": 0.9960551261901855
+                },
+                {
+                    "word": " the",
+                    "start": 0.7,
+                    "end": 0.92,
+                    "probability": 0.9608218669891357
+                },
+                {
+                    "word": " financial",
+                    "start": 0.92,
+                    "end": 1.5,
+                    "probability": 0.950036346912384
+                },
+                {
+                    "word": " foremost.",
+                    "start": 1.5,
+                    "end": 2.12,
+                    "probability": 0.9326298236846924
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

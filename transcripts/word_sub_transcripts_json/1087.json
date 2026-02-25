@@ -1,0 +1,59 @@
+{
+    "text": " she conducted extensive research stories.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.22,
+            "text": " she conducted extensive research stories.",
+            "tokens": [
+                50364,
+                750,
+                13809,
+                13246,
+                2132,
+                3676,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4676506254408095,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.0029239726718515158,
+            "words": [
+                {
+                    "word": " she",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.5594965815544128
+                },
+                {
+                    "word": " conducted",
+                    "start": 0.2,
+                    "end": 0.68,
+                    "probability": 0.9865352511405945
+                },
+                {
+                    "word": " extensive",
+                    "start": 0.68,
+                    "end": 1.26,
+                    "probability": 0.9976152181625366
+                },
+                {
+                    "word": " research",
+                    "start": 1.26,
+                    "end": 1.68,
+                    "probability": 0.9990023970603943
+                },
+                {
+                    "word": " stories.",
+                    "start": 1.68,
+                    "end": 2.22,
+                    "probability": 0.9797725677490234
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

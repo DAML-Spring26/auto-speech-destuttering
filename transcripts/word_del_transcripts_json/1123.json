@@ -1,0 +1,94 @@
+{
+    "text": " The new security measures implemented by the Department last week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.46,
+            "text": " The new security measures implemented by the Department last week.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                3825,
+                8000,
+                12270,
+                538,
+                264,
+                5982,
+                1036,
+                1243,
+                13,
+                50556
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4059720039367676,
+            "compression_ratio": 0.9565217391304348,
+            "no_speech_prob": 0.0022705693263560534,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.838085412979126
+                },
+                {
+                    "word": " new",
+                    "start": 0.12,
+                    "end": 0.3,
+                    "probability": 0.9381030797958374
+                },
+                {
+                    "word": " security",
+                    "start": 0.3,
+                    "end": 0.98,
+                    "probability": 0.9257517457008362
+                },
+                {
+                    "word": " measures",
+                    "start": 0.98,
+                    "end": 1.28,
+                    "probability": 0.7573896050453186
+                },
+                {
+                    "word": " implemented",
+                    "start": 1.28,
+                    "end": 1.88,
+                    "probability": 0.9972513318061829
+                },
+                {
+                    "word": " by",
+                    "start": 1.88,
+                    "end": 2.22,
+                    "probability": 0.9951110482215881
+                },
+                {
+                    "word": " the",
+                    "start": 2.22,
+                    "end": 2.36,
+                    "probability": 0.9825281500816345
+                },
+                {
+                    "word": " Department",
+                    "start": 2.36,
+                    "end": 2.76,
+                    "probability": 0.25849708914756775
+                },
+                {
+                    "word": " last",
+                    "start": 2.76,
+                    "end": 3.12,
+                    "probability": 0.9953243732452393
+                },
+                {
+                    "word": " week.",
+                    "start": 3.12,
+                    "end": 3.46,
+                    "probability": 0.9979366064071655
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,80 @@
+{
+    "text": " We need to schedule the team meeting soon.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.8600000000000003,
+            "end": 3.98,
+            "text": " We need to schedule the team meeting soon.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                7567,
+                264,
+                1469,
+                3440,
+                2321,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3812032143274943,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.15204615890979767,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.8600000000000003,
+                    "end": 1.58,
+                    "probability": 0.8904679417610168
+                },
+                {
+                    "word": " need",
+                    "start": 1.58,
+                    "end": 1.78,
+                    "probability": 0.996787428855896
+                },
+                {
+                    "word": " to",
+                    "start": 1.78,
+                    "end": 2.0,
+                    "probability": 0.996315062046051
+                },
+                {
+                    "word": " schedule",
+                    "start": 2.0,
+                    "end": 2.48,
+                    "probability": 0.9981260895729065
+                },
+                {
+                    "word": " the",
+                    "start": 2.48,
+                    "end": 2.72,
+                    "probability": 0.5309971570968628
+                },
+                {
+                    "word": " team",
+                    "start": 2.72,
+                    "end": 3.08,
+                    "probability": 0.975274920463562
+                },
+                {
+                    "word": " meeting",
+                    "start": 3.08,
+                    "end": 3.48,
+                    "probability": 0.9837971329689026
+                },
+                {
+                    "word": " soon.",
+                    "start": 3.48,
+                    "end": 3.98,
+                    "probability": 0.9950863718986511
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

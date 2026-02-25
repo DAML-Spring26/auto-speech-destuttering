@@ -1,0 +1,60 @@
+{
+    "text": " Researchers publish their latest bindings.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.6,
+            "text": " Researchers publish their latest bindings.",
+            "tokens": [
+                50364,
+                43555,
+                11374,
+                641,
+                6792,
+                14786,
+                1109,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3874239921569824,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.00645154993981123,
+            "words": [
+                {
+                    "word": " Researchers",
+                    "start": 0.0,
+                    "end": 0.48,
+                    "probability": 0.9202118515968323
+                },
+                {
+                    "word": " publish",
+                    "start": 0.48,
+                    "end": 1.02,
+                    "probability": 0.7460174560546875
+                },
+                {
+                    "word": " their",
+                    "start": 1.02,
+                    "end": 1.4,
+                    "probability": 0.9923317432403564
+                },
+                {
+                    "word": " latest",
+                    "start": 1.4,
+                    "end": 1.74,
+                    "probability": 0.997654378414154
+                },
+                {
+                    "word": " bindings.",
+                    "start": 1.74,
+                    "end": 2.6,
+                    "probability": 0.9404421448707581
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,67 @@
+{
+    "text": " The team completed the project Mindstone.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.44,
+            "text": " The team completed the project Mindstone.",
+            "tokens": [
+                50364,
+                440,
+                1469,
+                7365,
+                264,
+                1716,
+                13719,
+                11243,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.46135863390835846,
+            "compression_ratio": 0.8541666666666666,
+            "no_speech_prob": 0.001996635226532817,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8080808520317078
+                },
+                {
+                    "word": " team",
+                    "start": 0.12,
+                    "end": 0.4,
+                    "probability": 0.9955273270606995
+                },
+                {
+                    "word": " completed",
+                    "start": 0.4,
+                    "end": 1.04,
+                    "probability": 0.9964183568954468
+                },
+                {
+                    "word": " the",
+                    "start": 1.04,
+                    "end": 1.24,
+                    "probability": 0.9800354838371277
+                },
+                {
+                    "word": " project",
+                    "start": 1.24,
+                    "end": 1.64,
+                    "probability": 0.8350955843925476
+                },
+                {
+                    "word": " Mindstone.",
+                    "start": 1.64,
+                    "end": 2.44,
+                    "probability": 0.4846857488155365
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

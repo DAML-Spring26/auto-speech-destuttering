@@ -1,0 +1,73 @@
+{
+    "text": " We need to access the potential risks.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.8,
+            "text": " We need to access the potential risks.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                2105,
+                264,
+                3995,
+                10888,
+                13,
+                50534
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3797331289811568,
+            "compression_ratio": 0.8260869565217391,
+            "no_speech_prob": 0.004466476384550333,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6337461471557617
+                },
+                {
+                    "word": " need",
+                    "start": 0.16,
+                    "end": 0.4,
+                    "probability": 0.9960599541664124
+                },
+                {
+                    "word": " to",
+                    "start": 0.4,
+                    "end": 0.64,
+                    "probability": 0.9968644976615906
+                },
+                {
+                    "word": " access",
+                    "start": 0.64,
+                    "end": 1.1,
+                    "probability": 0.9921767115592957
+                },
+                {
+                    "word": " the",
+                    "start": 1.1,
+                    "end": 1.52,
+                    "probability": 0.9938974976539612
+                },
+                {
+                    "word": " potential",
+                    "start": 1.52,
+                    "end": 2.16,
+                    "probability": 0.980042040348053
+                },
+                {
+                    "word": " risks.",
+                    "start": 2.16,
+                    "end": 2.8,
+                    "probability": 0.987721860408783
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

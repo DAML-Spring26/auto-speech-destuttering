@@ -1,0 +1,67 @@
+{
+    "text": " we should consider all possible tractors.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.12,
+            "text": " we should consider all possible tractors.",
+            "tokens": [
+                50364,
+                321,
+                820,
+                1949,
+                439,
+                1944,
+                24207,
+                830,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3759794668717818,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.007718351669609547,
+            "words": [
+                {
+                    "word": " we",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5553997755050659
+                },
+                {
+                    "word": " should",
+                    "start": 0.14,
+                    "end": 0.26,
+                    "probability": 0.9978650212287903
+                },
+                {
+                    "word": " consider",
+                    "start": 0.26,
+                    "end": 0.76,
+                    "probability": 0.9985054731369019
+                },
+                {
+                    "word": " all",
+                    "start": 0.76,
+                    "end": 0.98,
+                    "probability": 0.9846572279930115
+                },
+                {
+                    "word": " possible",
+                    "start": 0.98,
+                    "end": 1.38,
+                    "probability": 0.9982045888900757
+                },
+                {
+                    "word": " tractors.",
+                    "start": 1.38,
+                    "end": 2.12,
+                    "probability": 0.9904840588569641
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

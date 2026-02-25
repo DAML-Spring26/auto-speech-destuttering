@@ -1,0 +1,129 @@
+{
+    "text": " The professor explained the exam which cover all the material discussed in class this semester.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.54,
+            "text": " The professor explained the exam which cover all the material discussed in class this semester.",
+            "tokens": [
+                50364,
+                440,
+                8304,
+                8825,
+                264,
+                1139,
+                597,
+                2060,
+                439,
+                264,
+                2527,
+                7152,
+                294,
+                1508,
+                341,
+                11894,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30926413285104853,
+            "compression_ratio": 1.1585365853658536,
+            "no_speech_prob": 0.005610291380435228,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.8851544857025146
+                },
+                {
+                    "word": " professor",
+                    "start": 0.1,
+                    "end": 0.46,
+                    "probability": 0.8167816400527954
+                },
+                {
+                    "word": " explained",
+                    "start": 0.46,
+                    "end": 1.02,
+                    "probability": 0.9546583890914917
+                },
+                {
+                    "word": " the",
+                    "start": 1.02,
+                    "end": 1.24,
+                    "probability": 0.9914127588272095
+                },
+                {
+                    "word": " exam",
+                    "start": 1.24,
+                    "end": 1.5,
+                    "probability": 0.6105833649635315
+                },
+                {
+                    "word": " which",
+                    "start": 1.5,
+                    "end": 1.7,
+                    "probability": 0.6369176506996155
+                },
+                {
+                    "word": " cover",
+                    "start": 1.7,
+                    "end": 1.98,
+                    "probability": 0.4568761885166168
+                },
+                {
+                    "word": " all",
+                    "start": 1.98,
+                    "end": 2.24,
+                    "probability": 0.9940866231918335
+                },
+                {
+                    "word": " the",
+                    "start": 2.24,
+                    "end": 2.4,
+                    "probability": 0.900348961353302
+                },
+                {
+                    "word": " material",
+                    "start": 2.4,
+                    "end": 2.8,
+                    "probability": 0.9671176075935364
+                },
+                {
+                    "word": " discussed",
+                    "start": 2.8,
+                    "end": 3.22,
+                    "probability": 0.9723063707351685
+                },
+                {
+                    "word": " in",
+                    "start": 3.22,
+                    "end": 3.52,
+                    "probability": 0.9963598847389221
+                },
+                {
+                    "word": " class",
+                    "start": 3.52,
+                    "end": 3.8,
+                    "probability": 0.9595687985420227
+                },
+                {
+                    "word": " this",
+                    "start": 3.8,
+                    "end": 4.08,
+                    "probability": 0.9889179468154907
+                },
+                {
+                    "word": " semester.",
+                    "start": 4.08,
+                    "end": 4.54,
+                    "probability": 0.9973533153533936
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

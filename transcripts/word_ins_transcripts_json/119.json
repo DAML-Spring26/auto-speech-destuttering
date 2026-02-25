@@ -1,0 +1,94 @@
+{
+    "text": " We need to improve our response time to customer complaints.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.06,
+            "text": " We need to improve our response time to customer complaints.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                3470,
+                527,
+                4134,
+                565,
+                281,
+                5474,
+                19585,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2517304079873221,
+            "compression_ratio": 0.9836065573770492,
+            "no_speech_prob": 0.029782027006149292,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.72,
+                    "probability": 0.824616551399231
+                },
+                {
+                    "word": " need",
+                    "start": 0.72,
+                    "end": 0.88,
+                    "probability": 0.99688321352005
+                },
+                {
+                    "word": " to",
+                    "start": 0.88,
+                    "end": 1.08,
+                    "probability": 0.9979720711708069
+                },
+                {
+                    "word": " improve",
+                    "start": 1.08,
+                    "end": 1.54,
+                    "probability": 0.9925859570503235
+                },
+                {
+                    "word": " our",
+                    "start": 1.54,
+                    "end": 1.92,
+                    "probability": 0.9915777444839478
+                },
+                {
+                    "word": " response",
+                    "start": 1.92,
+                    "end": 2.32,
+                    "probability": 0.9842680096626282
+                },
+                {
+                    "word": " time",
+                    "start": 2.32,
+                    "end": 2.8,
+                    "probability": 0.9846300482749939
+                },
+                {
+                    "word": " to",
+                    "start": 2.8,
+                    "end": 3.04,
+                    "probability": 0.9940633177757263
+                },
+                {
+                    "word": " customer",
+                    "start": 3.04,
+                    "end": 3.64,
+                    "probability": 0.9484988451004028
+                },
+                {
+                    "word": " complaints.",
+                    "start": 3.64,
+                    "end": 5.06,
+                    "probability": 0.8866784572601318
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

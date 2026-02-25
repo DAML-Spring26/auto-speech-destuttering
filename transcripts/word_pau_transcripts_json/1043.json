@@ -1,0 +1,109 @@
+{
+    "text": " In the event of severe weather, stay indoors and follow official guidance.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.3,
+            "text": " In the event of severe weather, stay indoors and follow official guidance.",
+            "tokens": [
+                50364,
+                682,
+                264,
+                2280,
+                295,
+                8922,
+                5503,
+                11,
+                1754,
+                29655,
+                293,
+                1524,
+                4783,
+                10056,
+                13,
+                50756
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2848988140330595,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.038959406316280365,
+            "words": [
+                {
+                    "word": " In",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6665168404579163
+                },
+                {
+                    "word": " the",
+                    "start": 0.16,
+                    "end": 0.34,
+                    "probability": 0.991057276725769
+                },
+                {
+                    "word": " event",
+                    "start": 0.34,
+                    "end": 0.58,
+                    "probability": 0.9780520796775818
+                },
+                {
+                    "word": " of",
+                    "start": 0.58,
+                    "end": 0.82,
+                    "probability": 0.9945303797721863
+                },
+                {
+                    "word": " severe",
+                    "start": 0.82,
+                    "end": 1.16,
+                    "probability": 0.8147374987602234
+                },
+                {
+                    "word": " weather,",
+                    "start": 1.16,
+                    "end": 1.6,
+                    "probability": 0.9845716953277588
+                },
+                {
+                    "word": " stay",
+                    "start": 2.44,
+                    "end": 2.58,
+                    "probability": 0.9847875237464905
+                },
+                {
+                    "word": " indoors",
+                    "start": 2.58,
+                    "end": 2.98,
+                    "probability": 0.9927029609680176
+                },
+                {
+                    "word": " and",
+                    "start": 2.98,
+                    "end": 3.32,
+                    "probability": 0.975625216960907
+                },
+                {
+                    "word": " follow",
+                    "start": 3.32,
+                    "end": 3.72,
+                    "probability": 0.9804490208625793
+                },
+                {
+                    "word": " official",
+                    "start": 3.72,
+                    "end": 6.76,
+                    "probability": 0.7084658741950989
+                },
+                {
+                    "word": " guidance.",
+                    "start": 6.76,
+                    "end": 7.3,
+                    "probability": 0.9957114458084106
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

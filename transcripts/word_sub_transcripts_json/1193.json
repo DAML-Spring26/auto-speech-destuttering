@@ -1,0 +1,74 @@
+{
+    "text": " We need to vindicate these research findings.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.2,
+            "text": " We need to vindicate these research findings.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                20168,
+                8700,
+                613,
+                2132,
+                16483,
+                13,
+                50496
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40094180901845294,
+            "compression_ratio": 0.9183673469387755,
+            "no_speech_prob": 0.004255115520209074,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6391727328300476
+                },
+                {
+                    "word": " need",
+                    "start": 0.12,
+                    "end": 0.32,
+                    "probability": 0.9970194697380066
+                },
+                {
+                    "word": " to",
+                    "start": 0.32,
+                    "end": 0.54,
+                    "probability": 0.9993228912353516
+                },
+                {
+                    "word": " vindicate",
+                    "start": 0.54,
+                    "end": 0.98,
+                    "probability": 0.7798326313495636
+                },
+                {
+                    "word": " these",
+                    "start": 0.98,
+                    "end": 1.22,
+                    "probability": 0.9847586154937744
+                },
+                {
+                    "word": " research",
+                    "start": 1.22,
+                    "end": 1.64,
+                    "probability": 0.9930757284164429
+                },
+                {
+                    "word": " findings.",
+                    "start": 1.64,
+                    "end": 2.2,
+                    "probability": 0.9953356385231018
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

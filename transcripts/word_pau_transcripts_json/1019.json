@@ -1,0 +1,121 @@
+{
+    "text": " I apologise, but we're currently out of stock. On that item.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.1,
+            "text": " I apologise, but we're currently out of stock.",
+            "tokens": [
+                50364,
+                286,
+                50128,
+                11,
+                457,
+                321,
+                434,
+                4362,
+                484,
+                295,
+                4127,
+                13,
+                50738
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5319849967956543,
+            "compression_ratio": 0.8955223880597015,
+            "no_speech_prob": 0.007677234709262848,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.9040024280548096
+                },
+                {
+                    "word": " apologise,",
+                    "start": 0.18,
+                    "end": 0.84,
+                    "probability": 0.5652616024017334
+                },
+                {
+                    "word": " but",
+                    "start": 1.52,
+                    "end": 1.94,
+                    "probability": 0.9834595322608948
+                },
+                {
+                    "word": " we're",
+                    "start": 1.94,
+                    "end": 2.18,
+                    "probability": 0.74687060713768
+                },
+                {
+                    "word": " currently",
+                    "start": 2.18,
+                    "end": 2.6,
+                    "probability": 0.9556159377098083
+                },
+                {
+                    "word": " out",
+                    "start": 2.6,
+                    "end": 3.02,
+                    "probability": 0.9951887130737305
+                },
+                {
+                    "word": " of",
+                    "start": 3.02,
+                    "end": 3.28,
+                    "probability": 0.9501361846923828
+                },
+                {
+                    "word": " stock.",
+                    "start": 3.28,
+                    "end": 4.1,
+                    "probability": 0.9435819983482361
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.48,
+            "end": 8.16,
+            "text": " On that item.",
+            "tokens": [
+                50738,
+                1282,
+                300,
+                3174,
+                13,
+                50780
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5319849967956543,
+            "compression_ratio": 0.8955223880597015,
+            "no_speech_prob": 0.007677234709262848,
+            "words": [
+                {
+                    "word": " On",
+                    "start": 7.1,
+                    "end": 7.52,
+                    "probability": 0.44399964809417725
+                },
+                {
+                    "word": " that",
+                    "start": 7.52,
+                    "end": 7.72,
+                    "probability": 0.9873894453048706
+                },
+                {
+                    "word": " item.",
+                    "start": 7.72,
+                    "end": 8.16,
+                    "probability": 0.9966279864311218
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,119 @@
+{
+    "text": " Your order will be ready for... Pick up in 15 minutes.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " Your order will be ready for...",
+            "tokens": [
+                50364,
+                2260,
+                1668,
+                486,
+                312,
+                1919,
+                337,
+                485,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.513683107164171,
+            "compression_ratio": 0.8709677419354839,
+            "no_speech_prob": 0.007523820269852877,
+            "words": [
+                {
+                    "word": " Your",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.75931715965271
+                },
+                {
+                    "word": " order",
+                    "start": 0.16,
+                    "end": 0.54,
+                    "probability": 0.995782732963562
+                },
+                {
+                    "word": " will",
+                    "start": 0.54,
+                    "end": 0.84,
+                    "probability": 0.9933819770812988
+                },
+                {
+                    "word": " be",
+                    "start": 0.84,
+                    "end": 1.04,
+                    "probability": 0.9984006285667419
+                },
+                {
+                    "word": " ready",
+                    "start": 1.04,
+                    "end": 1.4,
+                    "probability": 0.9951604008674622
+                },
+                {
+                    "word": " for...",
+                    "start": 1.4,
+                    "end": 2.0,
+                    "probability": 0.6488764882087708
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.439999999999999,
+            "end": 5.48,
+            "text": " Pick up in 15 minutes.",
+            "tokens": [
+                50558,
+                14129,
+                493,
+                294,
+                2119,
+                2077,
+                13,
+                50658
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.513683107164171,
+            "compression_ratio": 0.8709677419354839,
+            "no_speech_prob": 0.007523820269852877,
+            "words": [
+                {
+                    "word": " Pick",
+                    "start": 3.439999999999999,
+                    "end": 4.1,
+                    "probability": 0.6899073123931885
+                },
+                {
+                    "word": " up",
+                    "start": 4.1,
+                    "end": 4.34,
+                    "probability": 0.7330623865127563
+                },
+                {
+                    "word": " in",
+                    "start": 4.34,
+                    "end": 4.52,
+                    "probability": 0.9881408214569092
+                },
+                {
+                    "word": " 15",
+                    "start": 4.52,
+                    "end": 5.18,
+                    "probability": 0.8978776931762695
+                },
+                {
+                    "word": " minutes.",
+                    "start": 5.18,
+                    "end": 5.48,
+                    "probability": 0.9854969382286072
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

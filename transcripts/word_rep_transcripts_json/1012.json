@@ -1,0 +1,59 @@
+{
+    "text": " They will will arrive tomorrow.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.36,
+            "text": " They will will arrive tomorrow.",
+            "tokens": [
+                50364,
+                814,
+                486,
+                486,
+                8881,
+                4153,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48947980668809676,
+            "compression_ratio": 0.9117647058823529,
+            "no_speech_prob": 0.018017902970314026,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5798160433769226
+                },
+                {
+                    "word": " will",
+                    "start": 0.14,
+                    "end": 0.4,
+                    "probability": 0.9906157851219177
+                },
+                {
+                    "word": " will",
+                    "start": 0.4,
+                    "end": 0.7,
+                    "probability": 0.5411906838417053
+                },
+                {
+                    "word": " arrive",
+                    "start": 0.7,
+                    "end": 1.0,
+                    "probability": 0.9831287264823914
+                },
+                {
+                    "word": " tomorrow.",
+                    "start": 1.0,
+                    "end": 1.36,
+                    "probability": 0.9941675662994385
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

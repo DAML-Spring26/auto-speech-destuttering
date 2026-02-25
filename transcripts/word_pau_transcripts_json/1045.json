@@ -1,0 +1,80 @@
+{
+    "text": " The lecture on ancient civilizations was incredibly informative.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.92,
+            "text": " The lecture on ancient civilizations was incredibly informative.",
+            "tokens": [
+                50364,
+                440,
+                7991,
+                322,
+                7832,
+                40749,
+                390,
+                6252,
+                27759,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.46009767055511475,
+            "compression_ratio": 0.9411764705882353,
+            "no_speech_prob": 0.008720734156668186,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.713955283164978
+                },
+                {
+                    "word": " lecture",
+                    "start": 0.14,
+                    "end": 0.46,
+                    "probability": 0.9735006093978882
+                },
+                {
+                    "word": " on",
+                    "start": 0.46,
+                    "end": 0.88,
+                    "probability": 0.964028000831604
+                },
+                {
+                    "word": " ancient",
+                    "start": 0.88,
+                    "end": 3.2,
+                    "probability": 0.19824634492397308
+                },
+                {
+                    "word": " civilizations",
+                    "start": 3.2,
+                    "end": 3.84,
+                    "probability": 0.8812215328216553
+                },
+                {
+                    "word": " was",
+                    "start": 3.84,
+                    "end": 4.4,
+                    "probability": 0.9657109975814819
+                },
+                {
+                    "word": " incredibly",
+                    "start": 4.4,
+                    "end": 5.0,
+                    "probability": 0.9960076808929443
+                },
+                {
+                    "word": " informative.",
+                    "start": 5.0,
+                    "end": 5.92,
+                    "probability": 0.992355227470398
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

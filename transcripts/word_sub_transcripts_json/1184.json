@@ -1,0 +1,52 @@
+{
+    "text": " the project shows invitation.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.52,
+            "text": " the project shows invitation.",
+            "tokens": [
+                50364,
+                264,
+                1716,
+                3110,
+                17890,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5386216640472412,
+            "compression_ratio": 0.7837837837837838,
+            "no_speech_prob": 0.008065637201070786,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.5622224807739258
+                },
+                {
+                    "word": " project",
+                    "start": 0.08,
+                    "end": 0.48,
+                    "probability": 0.934783399105072
+                },
+                {
+                    "word": " shows",
+                    "start": 0.48,
+                    "end": 0.9,
+                    "probability": 0.5323531627655029
+                },
+                {
+                    "word": " invitation.",
+                    "start": 0.9,
+                    "end": 1.52,
+                    "probability": 0.8463139533996582
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

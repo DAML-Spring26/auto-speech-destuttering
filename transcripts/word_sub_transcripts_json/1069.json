@@ -1,0 +1,66 @@
+{
+    "text": " the Committee improved the new policy.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.7,
+            "text": " the Committee improved the new policy.",
+            "tokens": [
+                50364,
+                264,
+                11556,
+                9689,
+                264,
+                777,
+                3897,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38017940521240234,
+            "compression_ratio": 0.8444444444444444,
+            "no_speech_prob": 0.012814809568226337,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5250720977783203
+                },
+                {
+                    "word": " Committee",
+                    "start": 0.14,
+                    "end": 0.44,
+                    "probability": 0.5055112242698669
+                },
+                {
+                    "word": " improved",
+                    "start": 0.44,
+                    "end": 0.96,
+                    "probability": 0.6522324681282043
+                },
+                {
+                    "word": " the",
+                    "start": 0.96,
+                    "end": 1.08,
+                    "probability": 0.990971565246582
+                },
+                {
+                    "word": " new",
+                    "start": 1.08,
+                    "end": 1.26,
+                    "probability": 0.9815605878829956
+                },
+                {
+                    "word": " policy.",
+                    "start": 1.26,
+                    "end": 1.7,
+                    "probability": 0.9950693845748901
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

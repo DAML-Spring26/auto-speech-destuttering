@@ -1,0 +1,109 @@
+{
+    "text": " The quarterly report indicates a 15%-15% increase in revenue.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.64,
+            "text": " The quarterly report indicates a 15%-15% increase in revenue.",
+            "tokens": [
+                50364,
+                440,
+                38633,
+                2275,
+                16203,
+                257,
+                2119,
+                4,
+                12,
+                5211,
+                4,
+                3488,
+                294,
+                9324,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.297331641702091,
+            "compression_ratio": 0.953125,
+            "no_speech_prob": 0.004957711789757013,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.8727937936782837
+                },
+                {
+                    "word": " quarterly",
+                    "start": 0.1,
+                    "end": 0.58,
+                    "probability": 0.912710964679718
+                },
+                {
+                    "word": " report",
+                    "start": 0.58,
+                    "end": 1.18,
+                    "probability": 0.9930566549301147
+                },
+                {
+                    "word": " indicates",
+                    "start": 1.18,
+                    "end": 1.9,
+                    "probability": 0.9928678274154663
+                },
+                {
+                    "word": " a",
+                    "start": 1.9,
+                    "end": 2.2,
+                    "probability": 0.9830548763275146
+                },
+                {
+                    "word": " 15",
+                    "start": 2.2,
+                    "end": 2.68,
+                    "probability": 0.9864729642868042
+                },
+                {
+                    "word": "%",
+                    "start": 2.68,
+                    "end": 3.2,
+                    "probability": 0.7787871956825256
+                },
+                {
+                    "word": "-15",
+                    "start": 3.2,
+                    "end": 3.9,
+                    "probability": 0.5975102856755257
+                },
+                {
+                    "word": "%",
+                    "start": 3.9,
+                    "end": 4.34,
+                    "probability": 0.9962510466575623
+                },
+                {
+                    "word": " increase",
+                    "start": 4.34,
+                    "end": 4.82,
+                    "probability": 0.9985985159873962
+                },
+                {
+                    "word": " in",
+                    "start": 4.82,
+                    "end": 5.14,
+                    "probability": 0.9987183809280396
+                },
+                {
+                    "word": " revenue.",
+                    "start": 5.14,
+                    "end": 5.64,
+                    "probability": 0.9924393892288208
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

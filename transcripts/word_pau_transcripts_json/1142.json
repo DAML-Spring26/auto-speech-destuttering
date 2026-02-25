@@ -1,0 +1,105 @@
+{
+    "text": " Would you like whipped cream on? Or hot chocolate?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.36,
+            "text": " Would you like whipped cream on?",
+            "tokens": [
+                50364,
+                6068,
+                291,
+                411,
+                27918,
+                4689,
+                322,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5647956728935242,
+            "compression_ratio": 0.8620689655172413,
+            "no_speech_prob": 0.008326169103384018,
+            "words": [
+                {
+                    "word": " Would",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5958521366119385
+                },
+                {
+                    "word": " you",
+                    "start": 0.14,
+                    "end": 0.24,
+                    "probability": 0.9918820261955261
+                },
+                {
+                    "word": " like",
+                    "start": 0.24,
+                    "end": 0.42,
+                    "probability": 0.9945555925369263
+                },
+                {
+                    "word": " whipped",
+                    "start": 0.42,
+                    "end": 0.8,
+                    "probability": 0.9886483550071716
+                },
+                {
+                    "word": " cream",
+                    "start": 0.8,
+                    "end": 1.12,
+                    "probability": 0.9729828834533691
+                },
+                {
+                    "word": " on?",
+                    "start": 1.12,
+                    "end": 1.36,
+                    "probability": 0.9761091470718384
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.12,
+            "end": 5.96,
+            "text": " Or hot chocolate?",
+            "tokens": [
+                50620,
+                1610,
+                2368,
+                6215,
+                30,
+                50720
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5647956728935242,
+            "compression_ratio": 0.8620689655172413,
+            "no_speech_prob": 0.008326169103384018,
+            "words": [
+                {
+                    "word": " Or",
+                    "start": 4.92,
+                    "end": 5.24,
+                    "probability": 0.5223144888877869
+                },
+                {
+                    "word": " hot",
+                    "start": 5.24,
+                    "end": 5.52,
+                    "probability": 0.9831786155700684
+                },
+                {
+                    "word": " chocolate?",
+                    "start": 5.52,
+                    "end": 5.96,
+                    "probability": 0.9907358288764954
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

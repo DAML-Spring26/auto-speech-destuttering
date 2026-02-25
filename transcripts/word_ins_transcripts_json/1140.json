@@ -1,0 +1,94 @@
+{
+    "text": " Remember to take your medication twice daily with a food.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.6400000000000003,
+            "end": 3.78,
+            "text": " Remember to take your medication twice daily with a food.",
+            "tokens": [
+                50364,
+                5459,
+                281,
+                747,
+                428,
+                13851,
+                6091,
+                5212,
+                365,
+                257,
+                1755,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31789629799979074,
+            "compression_ratio": 0.9193548387096774,
+            "no_speech_prob": 0.07640955597162247,
+            "words": [
+                {
+                    "word": " Remember",
+                    "start": 0.6400000000000003,
+                    "end": 1.16,
+                    "probability": 0.853950023651123
+                },
+                {
+                    "word": " to",
+                    "start": 1.16,
+                    "end": 1.38,
+                    "probability": 0.9917389154434204
+                },
+                {
+                    "word": " take",
+                    "start": 1.38,
+                    "end": 1.6,
+                    "probability": 0.9950984120368958
+                },
+                {
+                    "word": " your",
+                    "start": 1.6,
+                    "end": 1.8,
+                    "probability": 0.9961989521980286
+                },
+                {
+                    "word": " medication",
+                    "start": 1.8,
+                    "end": 2.36,
+                    "probability": 0.994729220867157
+                },
+                {
+                    "word": " twice",
+                    "start": 2.36,
+                    "end": 2.74,
+                    "probability": 0.9959321618080139
+                },
+                {
+                    "word": " daily",
+                    "start": 2.74,
+                    "end": 3.1,
+                    "probability": 0.9974587559700012
+                },
+                {
+                    "word": " with",
+                    "start": 3.1,
+                    "end": 3.36,
+                    "probability": 0.995431661605835
+                },
+                {
+                    "word": " a",
+                    "start": 3.36,
+                    "end": 3.5,
+                    "probability": 0.9771947264671326
+                },
+                {
+                    "word": " food.",
+                    "start": 3.5,
+                    "end": 3.78,
+                    "probability": 0.9902883768081665
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

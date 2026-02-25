@@ -1,0 +1,87 @@
+{
+    "text": " they discuss the proposal decided to implement it immediately.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.9,
+            "text": " they discuss the proposal decided to implement it immediately.",
+            "tokens": [
+                50364,
+                436,
+                2248,
+                264,
+                11494,
+                3047,
+                281,
+                4445,
+                309,
+                4258,
+                13,
+                50522
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3804255999051608,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.011838830076158047,
+            "words": [
+                {
+                    "word": " they",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.47875744104385376
+                },
+                {
+                    "word": " discuss",
+                    "start": 0.12,
+                    "end": 0.42,
+                    "probability": 0.6053751111030579
+                },
+                {
+                    "word": " the",
+                    "start": 0.42,
+                    "end": 0.62,
+                    "probability": 0.9829607009887695
+                },
+                {
+                    "word": " proposal",
+                    "start": 0.62,
+                    "end": 0.98,
+                    "probability": 0.9926486611366272
+                },
+                {
+                    "word": " decided",
+                    "start": 0.98,
+                    "end": 1.36,
+                    "probability": 0.9000999331474304
+                },
+                {
+                    "word": " to",
+                    "start": 1.36,
+                    "end": 1.64,
+                    "probability": 0.9979984164237976
+                },
+                {
+                    "word": " implement",
+                    "start": 1.64,
+                    "end": 2.06,
+                    "probability": 0.9892715215682983
+                },
+                {
+                    "word": " it",
+                    "start": 2.06,
+                    "end": 2.48,
+                    "probability": 0.9948215484619141
+                },
+                {
+                    "word": " immediately.",
+                    "start": 2.48,
+                    "end": 2.9,
+                    "probability": 0.9890971183776855
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

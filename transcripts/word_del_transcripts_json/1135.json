@@ -1,0 +1,81 @@
+{
+    "text": " They're planning this trip for every year now.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.02,
+            "text": " They're planning this trip for every year now.",
+            "tokens": [
+                50364,
+                814,
+                434,
+                5038,
+                341,
+                4931,
+                337,
+                633,
+                1064,
+                586,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4321790841909555,
+            "compression_ratio": 0.8518518518518519,
+            "no_speech_prob": 0.005241435952484608,
+            "words": [
+                {
+                    "word": " They're",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.6362775415182114
+                },
+                {
+                    "word": " planning",
+                    "start": 0.24,
+                    "end": 0.46,
+                    "probability": 0.7711110711097717
+                },
+                {
+                    "word": " this",
+                    "start": 0.46,
+                    "end": 0.74,
+                    "probability": 0.9913948178291321
+                },
+                {
+                    "word": " trip",
+                    "start": 0.74,
+                    "end": 0.96,
+                    "probability": 0.974195122718811
+                },
+                {
+                    "word": " for",
+                    "start": 0.96,
+                    "end": 1.16,
+                    "probability": 0.5895431041717529
+                },
+                {
+                    "word": " every",
+                    "start": 1.16,
+                    "end": 1.42,
+                    "probability": 0.6855082511901855
+                },
+                {
+                    "word": " year",
+                    "start": 1.42,
+                    "end": 1.76,
+                    "probability": 0.9917111396789551
+                },
+                {
+                    "word": " now.",
+                    "start": 1.76,
+                    "end": 2.02,
+                    "probability": 0.9732248187065125
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

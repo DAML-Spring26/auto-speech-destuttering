@@ -1,0 +1,95 @@
+{
+    "text": " The presentation will be held in the main auditorium on.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.66,
+            "text": " The presentation will be held in the main auditorium on.",
+            "tokens": [
+                50364,
+                440,
+                5860,
+                486,
+                312,
+                5167,
+                294,
+                264,
+                2135,
+                33970,
+                2197,
+                322,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20625896453857423,
+            "compression_ratio": 0.9180327868852459,
+            "no_speech_prob": 0.07001213729381561,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.64,
+                    "probability": 0.9068049788475037
+                },
+                {
+                    "word": " presentation",
+                    "start": 0.64,
+                    "end": 1.34,
+                    "probability": 0.9947456121444702
+                },
+                {
+                    "word": " will",
+                    "start": 1.34,
+                    "end": 1.62,
+                    "probability": 0.9982234835624695
+                },
+                {
+                    "word": " be",
+                    "start": 1.62,
+                    "end": 1.78,
+                    "probability": 0.9983752965927124
+                },
+                {
+                    "word": " held",
+                    "start": 1.78,
+                    "end": 2.1,
+                    "probability": 0.9989401698112488
+                },
+                {
+                    "word": " in",
+                    "start": 2.1,
+                    "end": 2.24,
+                    "probability": 0.9981235861778259
+                },
+                {
+                    "word": " the",
+                    "start": 2.24,
+                    "end": 2.34,
+                    "probability": 0.9907442927360535
+                },
+                {
+                    "word": " main",
+                    "start": 2.34,
+                    "end": 2.58,
+                    "probability": 0.9874774217605591
+                },
+                {
+                    "word": " auditorium",
+                    "start": 2.58,
+                    "end": 3.42,
+                    "probability": 0.9889630675315857
+                },
+                {
+                    "word": " on.",
+                    "start": 3.42,
+                    "end": 3.66,
+                    "probability": 0.8868301510810852
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

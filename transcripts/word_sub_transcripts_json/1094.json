@@ -1,0 +1,59 @@
+{
+    "text": " The system requires regular mainstream.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.7,
+            "text": " The system requires regular mainstream.",
+            "tokens": [
+                50364,
+                440,
+                1185,
+                7029,
+                3890,
+                15960,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30304140514797634,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.0019209597958251834,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.8138782382011414
+                },
+                {
+                    "word": " system",
+                    "start": 0.1,
+                    "end": 0.44,
+                    "probability": 0.9977689981460571
+                },
+                {
+                    "word": " requires",
+                    "start": 0.44,
+                    "end": 0.86,
+                    "probability": 0.995302677154541
+                },
+                {
+                    "word": " regular",
+                    "start": 0.86,
+                    "end": 1.24,
+                    "probability": 0.9826819896697998
+                },
+                {
+                    "word": " mainstream.",
+                    "start": 1.24,
+                    "end": 1.7,
+                    "probability": 0.7745431065559387
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,66 @@
+{
+    "text": " How may I assist you today?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.68,
+            "text": " How may I assist you today?",
+            "tokens": [
+                50364,
+                1012,
+                815,
+                286,
+                4255,
+                291,
+                965,
+                30,
+                50608
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3781536340713501,
+            "compression_ratio": 0.7714285714285715,
+            "no_speech_prob": 0.03504395857453346,
+            "words": [
+                {
+                    "word": " How",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.6486683487892151
+                },
+                {
+                    "word": " may",
+                    "start": 0.2,
+                    "end": 0.4,
+                    "probability": 0.9410349130630493
+                },
+                {
+                    "word": " I",
+                    "start": 0.4,
+                    "end": 0.72,
+                    "probability": 0.9227889180183411
+                },
+                {
+                    "word": " assist",
+                    "start": 0.72,
+                    "end": 4.0,
+                    "probability": 0.9335095286369324
+                },
+                {
+                    "word": " you",
+                    "start": 4.0,
+                    "end": 4.32,
+                    "probability": 0.9940798282623291
+                },
+                {
+                    "word": " today?",
+                    "start": 4.32,
+                    "end": 4.68,
+                    "probability": 0.9825021028518677
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

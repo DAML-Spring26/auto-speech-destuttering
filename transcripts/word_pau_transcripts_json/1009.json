@@ -1,0 +1,96 @@
+{
+    "text": " I'm sorry, but your warranty has expired for this product.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.98,
+            "text": " I'm sorry, but your warranty has expired for this product.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                2597,
+                11,
+                457,
+                428,
+                26852,
+                575,
+                36587,
+                337,
+                341,
+                1674,
+                13,
+                50680
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3008614480495453,
+            "compression_ratio": 0.8923076923076924,
+            "no_speech_prob": 0.011319383978843689,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.8717919290065765
+                },
+                {
+                    "word": " sorry,",
+                    "start": 0.26,
+                    "end": 0.7,
+                    "probability": 0.9964069724082947
+                },
+                {
+                    "word": " but",
+                    "start": 1.38,
+                    "end": 1.74,
+                    "probability": 0.9891722202301025
+                },
+                {
+                    "word": " your",
+                    "start": 1.74,
+                    "end": 2.0,
+                    "probability": 0.9341437220573425
+                },
+                {
+                    "word": " warranty",
+                    "start": 2.0,
+                    "end": 2.5,
+                    "probability": 0.9521066546440125
+                },
+                {
+                    "word": " has",
+                    "start": 2.5,
+                    "end": 3.16,
+                    "probability": 0.9225866198539734
+                },
+                {
+                    "word": " expired",
+                    "start": 3.16,
+                    "end": 4.9,
+                    "probability": 0.9803017973899841
+                },
+                {
+                    "word": " for",
+                    "start": 4.9,
+                    "end": 5.26,
+                    "probability": 0.9863548874855042
+                },
+                {
+                    "word": " this",
+                    "start": 5.26,
+                    "end": 5.5,
+                    "probability": 0.9978649020195007
+                },
+                {
+                    "word": " product.",
+                    "start": 5.5,
+                    "end": 5.98,
+                    "probability": 0.9800005555152893
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

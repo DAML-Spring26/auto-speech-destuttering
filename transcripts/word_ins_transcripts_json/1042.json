@@ -1,0 +1,87 @@
+{
+    "text": " Could you forward that email to the entire team?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.0,
+            "text": " Could you forward that email to the entire team?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                2128,
+                300,
+                3796,
+                281,
+                264,
+                2302,
+                1469,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2755915018228384,
+            "compression_ratio": 0.8888888888888888,
+            "no_speech_prob": 0.14235229790210724,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.64,
+                    "probability": 0.9449264407157898
+                },
+                {
+                    "word": " you",
+                    "start": 0.64,
+                    "end": 0.78,
+                    "probability": 0.9986306428909302
+                },
+                {
+                    "word": " forward",
+                    "start": 0.78,
+                    "end": 1.04,
+                    "probability": 0.9868931770324707
+                },
+                {
+                    "word": " that",
+                    "start": 1.04,
+                    "end": 1.32,
+                    "probability": 0.9860535264015198
+                },
+                {
+                    "word": " email",
+                    "start": 1.32,
+                    "end": 1.84,
+                    "probability": 0.9189885854721069
+                },
+                {
+                    "word": " to",
+                    "start": 1.84,
+                    "end": 3.0,
+                    "probability": 0.9775179028511047
+                },
+                {
+                    "word": " the",
+                    "start": 3.0,
+                    "end": 3.2,
+                    "probability": 0.9963894486427307
+                },
+                {
+                    "word": " entire",
+                    "start": 3.2,
+                    "end": 3.68,
+                    "probability": 0.9924988150596619
+                },
+                {
+                    "word": " team?",
+                    "start": 3.68,
+                    "end": 4.0,
+                    "probability": 0.9921000599861145
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

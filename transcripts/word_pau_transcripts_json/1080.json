@@ -1,0 +1,73 @@
+{
+    "text": " The marketing team presented their quarterly report.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.92,
+            "text": " The marketing team presented their quarterly report.",
+            "tokens": [
+                50364,
+                440,
+                6370,
+                1469,
+                8212,
+                641,
+                38633,
+                2275,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3655408945950595,
+            "compression_ratio": 0.896551724137931,
+            "no_speech_prob": 0.012554886750876904,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.4902101159095764
+                },
+                {
+                    "word": " marketing",
+                    "start": 0.1,
+                    "end": 0.38,
+                    "probability": 0.9235997796058655
+                },
+                {
+                    "word": " team",
+                    "start": 0.38,
+                    "end": 1.0,
+                    "probability": 0.9994019269943237
+                },
+                {
+                    "word": " presented",
+                    "start": 1.0,
+                    "end": 3.54,
+                    "probability": 0.8954415321350098
+                },
+                {
+                    "word": " their",
+                    "start": 3.54,
+                    "end": 3.84,
+                    "probability": 0.9901448488235474
+                },
+                {
+                    "word": " quarterly",
+                    "start": 3.84,
+                    "end": 4.28,
+                    "probability": 0.9874322414398193
+                },
+                {
+                    "word": " report.",
+                    "start": 4.28,
+                    "end": 4.92,
+                    "probability": 0.9961357712745667
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

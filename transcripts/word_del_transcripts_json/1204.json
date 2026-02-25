@@ -1,0 +1,122 @@
+{
+    "text": " The doctor advised the patient rest for at least a week after the surgery.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.04,
+            "text": " The doctor advised the patient rest for at least a week after the surgery.",
+            "tokens": [
+                50364,
+                440,
+                4631,
+                26269,
+                264,
+                4537,
+                1472,
+                337,
+                412,
+                1935,
+                257,
+                1243,
+                934,
+                264,
+                7930,
+                13,
+                50529
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24030333095126682,
+            "compression_ratio": 1.0724637681159421,
+            "no_speech_prob": 0.013079546391963959,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8683559894561768
+                },
+                {
+                    "word": " doctor",
+                    "start": 0.12,
+                    "end": 0.42,
+                    "probability": 0.9846993088722229
+                },
+                {
+                    "word": " advised",
+                    "start": 0.42,
+                    "end": 0.76,
+                    "probability": 0.8956354856491089
+                },
+                {
+                    "word": " the",
+                    "start": 0.76,
+                    "end": 0.94,
+                    "probability": 0.9836677312850952
+                },
+                {
+                    "word": " patient",
+                    "start": 0.94,
+                    "end": 1.18,
+                    "probability": 0.992601215839386
+                },
+                {
+                    "word": " rest",
+                    "start": 1.18,
+                    "end": 1.46,
+                    "probability": 0.8838335275650024
+                },
+                {
+                    "word": " for",
+                    "start": 1.46,
+                    "end": 1.62,
+                    "probability": 0.9907746911048889
+                },
+                {
+                    "word": " at",
+                    "start": 1.62,
+                    "end": 1.74,
+                    "probability": 0.7603143453598022
+                },
+                {
+                    "word": " least",
+                    "start": 1.74,
+                    "end": 1.86,
+                    "probability": 0.9951619505882263
+                },
+                {
+                    "word": " a",
+                    "start": 1.86,
+                    "end": 2.02,
+                    "probability": 0.995107889175415
+                },
+                {
+                    "word": " week",
+                    "start": 2.02,
+                    "end": 2.18,
+                    "probability": 0.9986568689346313
+                },
+                {
+                    "word": " after",
+                    "start": 2.18,
+                    "end": 2.52,
+                    "probability": 0.9931127429008484
+                },
+                {
+                    "word": " the",
+                    "start": 2.52,
+                    "end": 2.68,
+                    "probability": 0.9723436236381531
+                },
+                {
+                    "word": " surgery.",
+                    "start": 2.68,
+                    "end": 3.04,
+                    "probability": 0.9969961643218994
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

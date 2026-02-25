@@ -1,0 +1,88 @@
+{
+    "text": " I've been trying to reach customer service for hours.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.92,
+            "text": " I've been trying to reach customer service for hours.",
+            "tokens": [
+                50364,
+                286,
+                600,
+                668,
+                1382,
+                281,
+                2524,
+                5474,
+                2643,
+                337,
+                2496,
+                13,
+                50522
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2632307835987636,
+            "compression_ratio": 0.8688524590163934,
+            "no_speech_prob": 0.0033839154057204723,
+            "words": [
+                {
+                    "word": " I've",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.9336682260036469
+                },
+                {
+                    "word": " been",
+                    "start": 0.22,
+                    "end": 0.34,
+                    "probability": 0.996401309967041
+                },
+                {
+                    "word": " trying",
+                    "start": 0.34,
+                    "end": 0.58,
+                    "probability": 0.9944677352905273
+                },
+                {
+                    "word": " to",
+                    "start": 0.58,
+                    "end": 0.9,
+                    "probability": 0.9899631142616272
+                },
+                {
+                    "word": " reach",
+                    "start": 0.9,
+                    "end": 1.38,
+                    "probability": 0.959154486656189
+                },
+                {
+                    "word": " customer",
+                    "start": 1.38,
+                    "end": 1.9,
+                    "probability": 0.9210715889930725
+                },
+                {
+                    "word": " service",
+                    "start": 1.9,
+                    "end": 2.32,
+                    "probability": 0.9902618527412415
+                },
+                {
+                    "word": " for",
+                    "start": 2.32,
+                    "end": 2.6,
+                    "probability": 0.9722093343734741
+                },
+                {
+                    "word": " hours.",
+                    "start": 2.6,
+                    "end": 2.92,
+                    "probability": 0.9469545483589172
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

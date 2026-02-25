@@ -1,0 +1,113 @@
+{
+    "text": " What's on rev? Movie would you like to watch tonight?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.68,
+            "text": " What's on rev?",
+            "tokens": [
+                50364,
+                708,
+                311,
+                322,
+                3698,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6369217766655816,
+            "compression_ratio": 0.8983050847457628,
+            "no_speech_prob": 0.028392907232046127,
+            "words": [
+                {
+                    "word": " What's",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.6347943991422653
+                },
+                {
+                    "word": " on",
+                    "start": 0.34,
+                    "end": 0.46,
+                    "probability": 0.8700419068336487
+                },
+                {
+                    "word": " rev?",
+                    "start": 0.46,
+                    "end": 0.68,
+                    "probability": 0.17690187692642212
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.5600000000000005,
+            "end": 6.66,
+            "text": " Movie would you like to watch tonight?",
+            "tokens": [
+                50604,
+                28766,
+                576,
+                291,
+                411,
+                281,
+                1159,
+                4440,
+                30,
+                50704
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6369217766655816,
+            "compression_ratio": 0.8983050847457628,
+            "no_speech_prob": 0.028392907232046127,
+            "words": [
+                {
+                    "word": " Movie",
+                    "start": 4.5600000000000005,
+                    "end": 5.12,
+                    "probability": 0.6697073578834534
+                },
+                {
+                    "word": " would",
+                    "start": 5.12,
+                    "end": 5.46,
+                    "probability": 0.7973436713218689
+                },
+                {
+                    "word": " you",
+                    "start": 5.46,
+                    "end": 5.6,
+                    "probability": 0.9808370471000671
+                },
+                {
+                    "word": " like",
+                    "start": 5.6,
+                    "end": 5.8,
+                    "probability": 0.9975072741508484
+                },
+                {
+                    "word": " to",
+                    "start": 5.8,
+                    "end": 6.02,
+                    "probability": 0.9962128400802612
+                },
+                {
+                    "word": " watch",
+                    "start": 6.02,
+                    "end": 6.22,
+                    "probability": 0.9983672499656677
+                },
+                {
+                    "word": " tonight?",
+                    "start": 6.22,
+                    "end": 6.66,
+                    "probability": 0.9762415289878845
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

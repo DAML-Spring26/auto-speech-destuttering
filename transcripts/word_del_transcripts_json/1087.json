@@ -1,0 +1,87 @@
+{
+    "text": " She asked I had seen her lost keys anywhere.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.16,
+            "text": " She asked I had seen her lost keys anywhere.",
+            "tokens": [
+                50364,
+                1240,
+                2351,
+                286,
+                632,
+                1612,
+                720,
+                2731,
+                9317,
+                4992,
+                13,
+                50480
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3778163469754733,
+            "compression_ratio": 0.8627450980392157,
+            "no_speech_prob": 0.007002304308116436,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.5658844113349915
+                },
+                {
+                    "word": " asked",
+                    "start": 0.22,
+                    "end": 0.46,
+                    "probability": 0.7057493329048157
+                },
+                {
+                    "word": " I",
+                    "start": 0.46,
+                    "end": 0.66,
+                    "probability": 0.9184644818305969
+                },
+                {
+                    "word": " had",
+                    "start": 0.66,
+                    "end": 0.78,
+                    "probability": 0.7377525568008423
+                },
+                {
+                    "word": " seen",
+                    "start": 0.78,
+                    "end": 0.98,
+                    "probability": 0.9953041076660156
+                },
+                {
+                    "word": " her",
+                    "start": 0.98,
+                    "end": 1.2,
+                    "probability": 0.993245542049408
+                },
+                {
+                    "word": " lost",
+                    "start": 1.2,
+                    "end": 1.4,
+                    "probability": 0.803648054599762
+                },
+                {
+                    "word": " keys",
+                    "start": 1.4,
+                    "end": 1.68,
+                    "probability": 0.9717302322387695
+                },
+                {
+                    "word": " anywhere.",
+                    "start": 1.68,
+                    "end": 2.16,
+                    "probability": 0.8720340132713318
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

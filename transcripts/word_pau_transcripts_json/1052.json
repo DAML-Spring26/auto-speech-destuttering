@@ -1,0 +1,87 @@
+{
+    "text": " Our team is dedicated to providing excellent customer service.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 9.1,
+            "text": " Our team is dedicated to providing excellent customer service.",
+            "tokens": [
+                50364,
+                2621,
+                1469,
+                307,
+                8374,
+                281,
+                6530,
+                7103,
+                5474,
+                2643,
+                13,
+                50836
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4027240459735577,
+            "compression_ratio": 0.96875,
+            "no_speech_prob": 0.0026236618869006634,
+            "words": [
+                {
+                    "word": " Our",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.8408012986183167
+                },
+                {
+                    "word": " team",
+                    "start": 0.24,
+                    "end": 0.64,
+                    "probability": 0.9917352199554443
+                },
+                {
+                    "word": " is",
+                    "start": 0.64,
+                    "end": 1.06,
+                    "probability": 0.9937816262245178
+                },
+                {
+                    "word": " dedicated",
+                    "start": 1.06,
+                    "end": 1.64,
+                    "probability": 0.9985479712486267
+                },
+                {
+                    "word": " to",
+                    "start": 1.64,
+                    "end": 2.2,
+                    "probability": 0.9968388080596924
+                },
+                {
+                    "word": " providing",
+                    "start": 2.2,
+                    "end": 6.78,
+                    "probability": 0.7437506318092346
+                },
+                {
+                    "word": " excellent",
+                    "start": 6.78,
+                    "end": 7.72,
+                    "probability": 0.9746073484420776
+                },
+                {
+                    "word": " customer",
+                    "start": 7.72,
+                    "end": 8.36,
+                    "probability": 0.965295135974884
+                },
+                {
+                    "word": " service.",
+                    "start": 8.36,
+                    "end": 9.1,
+                    "probability": 0.9959927797317505
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

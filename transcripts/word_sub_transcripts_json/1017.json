@@ -1,0 +1,59 @@
+{
+    "text": " The system requires proper containment.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.9,
+            "text": " The system requires proper containment.",
+            "tokens": [
+                50364,
+                440,
+                1185,
+                7029,
+                2296,
+                44058,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.400696595509847,
+            "compression_ratio": 0.8297872340425532,
+            "no_speech_prob": 0.0029767572414129972,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5968886017799377
+                },
+                {
+                    "word": " system",
+                    "start": 0.14,
+                    "end": 0.48,
+                    "probability": 0.9976335763931274
+                },
+                {
+                    "word": " requires",
+                    "start": 0.48,
+                    "end": 0.88,
+                    "probability": 0.9966914653778076
+                },
+                {
+                    "word": " proper",
+                    "start": 0.88,
+                    "end": 1.34,
+                    "probability": 0.9980825185775757
+                },
+                {
+                    "word": " containment.",
+                    "start": 1.34,
+                    "end": 1.9,
+                    "probability": 0.9955801367759705
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

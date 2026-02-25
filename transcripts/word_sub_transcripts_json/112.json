@@ -1,0 +1,80 @@
+{
+    "text": " The manager scheduled their performance for a new.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.44,
+            "text": " The manager scheduled their performance for a new.",
+            "tokens": [
+                50364,
+                440,
+                6598,
+                15678,
+                641,
+                3389,
+                337,
+                257,
+                777,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4775171677271525,
+            "compression_ratio": 0.9090909090909091,
+            "no_speech_prob": 0.0035021952353417873,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5226818919181824
+                },
+                {
+                    "word": " manager",
+                    "start": 0.14,
+                    "end": 0.44,
+                    "probability": 0.7368504405021667
+                },
+                {
+                    "word": " scheduled",
+                    "start": 0.44,
+                    "end": 1.06,
+                    "probability": 0.924707293510437
+                },
+                {
+                    "word": " their",
+                    "start": 1.06,
+                    "end": 1.32,
+                    "probability": 0.5621111392974854
+                },
+                {
+                    "word": " performance",
+                    "start": 1.32,
+                    "end": 1.78,
+                    "probability": 0.9941518902778625
+                },
+                {
+                    "word": " for",
+                    "start": 1.78,
+                    "end": 2.16,
+                    "probability": 0.9686813354492188
+                },
+                {
+                    "word": " a",
+                    "start": 2.16,
+                    "end": 2.22,
+                    "probability": 0.9703910946846008
+                },
+                {
+                    "word": " new.",
+                    "start": 2.22,
+                    "end": 2.44,
+                    "probability": 0.9883346557617188
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,103 @@
+{
+    "text": " We need to well secure the area before the paramedics arrive.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.32,
+            "text": " We need to well secure the area before the paramedics arrive.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                731,
+                7144,
+                264,
+                1859,
+                949,
+                264,
+                971,
+                3475,
+                1167,
+                8881,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27554018357220816,
+            "compression_ratio": 0.9838709677419355,
+            "no_speech_prob": 0.0292875524610281,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.72,
+                    "probability": 0.8364960551261902
+                },
+                {
+                    "word": " need",
+                    "start": 0.72,
+                    "end": 0.92,
+                    "probability": 0.9968042373657227
+                },
+                {
+                    "word": " to",
+                    "start": 0.92,
+                    "end": 1.18,
+                    "probability": 0.9958764314651489
+                },
+                {
+                    "word": " well",
+                    "start": 1.18,
+                    "end": 1.44,
+                    "probability": 0.8368176817893982
+                },
+                {
+                    "word": " secure",
+                    "start": 1.44,
+                    "end": 2.58,
+                    "probability": 0.8079195618629456
+                },
+                {
+                    "word": " the",
+                    "start": 2.58,
+                    "end": 2.86,
+                    "probability": 0.9911609888076782
+                },
+                {
+                    "word": " area",
+                    "start": 2.86,
+                    "end": 3.22,
+                    "probability": 0.9926244616508484
+                },
+                {
+                    "word": " before",
+                    "start": 3.22,
+                    "end": 3.8,
+                    "probability": 0.9914147257804871
+                },
+                {
+                    "word": " the",
+                    "start": 3.8,
+                    "end": 4.04,
+                    "probability": 0.9964331388473511
+                },
+                {
+                    "word": " paramedics",
+                    "start": 4.04,
+                    "end": 4.78,
+                    "probability": 0.9417483409245809
+                },
+                {
+                    "word": " arrive.",
+                    "start": 4.78,
+                    "end": 5.32,
+                    "probability": 0.9514910578727722
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

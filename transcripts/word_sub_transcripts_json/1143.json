@@ -1,0 +1,52 @@
+{
+    "text": " the machine desires calibration.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.8,
+            "text": " the machine desires calibration.",
+            "tokens": [
+                50364,
+                264,
+                3479,
+                18005,
+                38732,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3990052342414856,
+            "compression_ratio": 0.8,
+            "no_speech_prob": 0.00498179392889142,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6217204332351685
+                },
+                {
+                    "word": " machine",
+                    "start": 0.14,
+                    "end": 0.42,
+                    "probability": 0.8784045577049255
+                },
+                {
+                    "word": " desires",
+                    "start": 0.42,
+                    "end": 1.04,
+                    "probability": 0.9864786267280579
+                },
+                {
+                    "word": " calibration.",
+                    "start": 1.04,
+                    "end": 1.8,
+                    "probability": 0.9210261702537537
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

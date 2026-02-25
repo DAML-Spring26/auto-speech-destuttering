@@ -1,0 +1,87 @@
+{
+    "text": " We implemented new security measures to protect sensitive data.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.66,
+            "text": " We implemented new security measures to protect sensitive data.",
+            "tokens": [
+                50364,
+                492,
+                12270,
+                777,
+                3825,
+                8000,
+                281,
+                2371,
+                9477,
+                1412,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29484097774212176,
+            "compression_ratio": 0.9692307692307692,
+            "no_speech_prob": 0.0038718089926987886,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7358030676841736
+                },
+                {
+                    "word": " implemented",
+                    "start": 0.14,
+                    "end": 0.46,
+                    "probability": 0.9932859539985657
+                },
+                {
+                    "word": " new",
+                    "start": 0.46,
+                    "end": 0.7,
+                    "probability": 0.9847661256790161
+                },
+                {
+                    "word": " security",
+                    "start": 0.7,
+                    "end": 1.14,
+                    "probability": 0.9853444695472717
+                },
+                {
+                    "word": " measures",
+                    "start": 1.14,
+                    "end": 1.36,
+                    "probability": 0.47289174795150757
+                },
+                {
+                    "word": " to",
+                    "start": 1.36,
+                    "end": 1.58,
+                    "probability": 0.9964056015014648
+                },
+                {
+                    "word": " protect",
+                    "start": 1.58,
+                    "end": 1.8,
+                    "probability": 0.993259072303772
+                },
+                {
+                    "word": " sensitive",
+                    "start": 1.8,
+                    "end": 2.22,
+                    "probability": 0.9971093535423279
+                },
+                {
+                    "word": " data.",
+                    "start": 2.22,
+                    "end": 2.66,
+                    "probability": 0.9993624091148376
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

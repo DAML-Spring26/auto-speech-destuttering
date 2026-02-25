@@ -1,0 +1,59 @@
+{
+    "text": " the device delays current status.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.04,
+            "text": " the device delays current status.",
+            "tokens": [
+                50364,
+                264,
+                4302,
+                28610,
+                2190,
+                6558,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5010213322109647,
+            "compression_ratio": 0.868421052631579,
+            "no_speech_prob": 0.004486702848225832,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.45658302307128906
+                },
+                {
+                    "word": " device",
+                    "start": 0.12,
+                    "end": 0.5,
+                    "probability": 0.9848516583442688
+                },
+                {
+                    "word": " delays",
+                    "start": 0.5,
+                    "end": 1.02,
+                    "probability": 0.9931729435920715
+                },
+                {
+                    "word": " current",
+                    "start": 1.02,
+                    "end": 1.46,
+                    "probability": 0.9920570254325867
+                },
+                {
+                    "word": " status.",
+                    "start": 1.46,
+                    "end": 2.04,
+                    "probability": 0.9828627705574036
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

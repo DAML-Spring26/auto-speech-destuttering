@@ -1,0 +1,66 @@
+{
+    "text": " We need to assess these concerns.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.36,
+            "text": " We need to assess these concerns.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                5877,
+                613,
+                7389,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27226293087005615,
+            "compression_ratio": 0.8048780487804879,
+            "no_speech_prob": 0.005574101582169533,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7723304629325867
+                },
+                {
+                    "word": " need",
+                    "start": 0.12,
+                    "end": 0.24,
+                    "probability": 0.9939822554588318
+                },
+                {
+                    "word": " to",
+                    "start": 0.24,
+                    "end": 0.38,
+                    "probability": 0.9969894289970398
+                },
+                {
+                    "word": " assess",
+                    "start": 0.38,
+                    "end": 0.6,
+                    "probability": 0.8926935195922852
+                },
+                {
+                    "word": " these",
+                    "start": 0.6,
+                    "end": 0.94,
+                    "probability": 0.9711870551109314
+                },
+                {
+                    "word": " concerns.",
+                    "start": 0.94,
+                    "end": 1.36,
+                    "probability": 0.9824516177177429
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

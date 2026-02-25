@@ -1,0 +1,66 @@
+{
+    "text": " We need to address these concerts.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.8,
+            "text": " We need to address these concerts.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                2985,
+                613,
+                24924,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.43364930152893066,
+            "compression_ratio": 0.8095238095238095,
+            "no_speech_prob": 0.004315615631639957,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6241092681884766
+                },
+                {
+                    "word": " need",
+                    "start": 0.16,
+                    "end": 0.32,
+                    "probability": 0.996871292591095
+                },
+                {
+                    "word": " to",
+                    "start": 0.32,
+                    "end": 0.54,
+                    "probability": 0.9985164999961853
+                },
+                {
+                    "word": " address",
+                    "start": 0.54,
+                    "end": 0.94,
+                    "probability": 0.995668888092041
+                },
+                {
+                    "word": " these",
+                    "start": 0.94,
+                    "end": 1.32,
+                    "probability": 0.9912915229797363
+                },
+                {
+                    "word": " concerts.",
+                    "start": 1.32,
+                    "end": 1.8,
+                    "probability": 0.5297114253044128
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

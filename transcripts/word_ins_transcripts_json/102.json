@@ -1,0 +1,90 @@
+{
+    "text": " Please ensure all equipment is properly maintained and unsurviced.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.4,
+            "text": " Please ensure all equipment is properly maintained and unsurviced.",
+            "tokens": [
+                50364,
+                2555,
+                5586,
+                439,
+                5927,
+                307,
+                6108,
+                17578,
+                293,
+                2693,
+                374,
+                85,
+                4233,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4318014085292816,
+            "compression_ratio": 0.9850746268656716,
+            "no_speech_prob": 0.024941498413681984,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.78,
+                    "probability": 0.8548216819763184
+                },
+                {
+                    "word": " ensure",
+                    "start": 0.78,
+                    "end": 1.2,
+                    "probability": 0.9816469550132751
+                },
+                {
+                    "word": " all",
+                    "start": 1.2,
+                    "end": 1.46,
+                    "probability": 0.9869778752326965
+                },
+                {
+                    "word": " equipment",
+                    "start": 1.46,
+                    "end": 1.88,
+                    "probability": 0.9955071210861206
+                },
+                {
+                    "word": " is",
+                    "start": 1.88,
+                    "end": 2.16,
+                    "probability": 0.9948952794075012
+                },
+                {
+                    "word": " properly",
+                    "start": 2.16,
+                    "end": 2.54,
+                    "probability": 0.9995026588439941
+                },
+                {
+                    "word": " maintained",
+                    "start": 2.54,
+                    "end": 3.16,
+                    "probability": 0.9962955117225647
+                },
+                {
+                    "word": " and",
+                    "start": 3.16,
+                    "end": 3.58,
+                    "probability": 0.9466680288314819
+                },
+                {
+                    "word": " unsurviced.",
+                    "start": 3.58,
+                    "end": 4.4,
+                    "probability": 0.478983037173748
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

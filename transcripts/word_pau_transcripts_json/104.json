@@ -1,0 +1,73 @@
+{
+    "text": " just posted a new self on Instagram.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.48,
+            "text": " just posted a new self on Instagram.",
+            "tokens": [
+                50364,
+                445,
+                9437,
+                257,
+                777,
+                2698,
+                322,
+                5281,
+                13,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.711558688770641,
+            "compression_ratio": 0.8181818181818182,
+            "no_speech_prob": 0.008618403226137161,
+            "words": [
+                {
+                    "word": " just",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.7434972524642944
+                },
+                {
+                    "word": " posted",
+                    "start": 0.2,
+                    "end": 0.76,
+                    "probability": 0.972583532333374
+                },
+                {
+                    "word": " a",
+                    "start": 0.76,
+                    "end": 3.34,
+                    "probability": 0.5858728885650635
+                },
+                {
+                    "word": " new",
+                    "start": 3.34,
+                    "end": 3.5,
+                    "probability": 0.9734289646148682
+                },
+                {
+                    "word": " self",
+                    "start": 3.5,
+                    "end": 3.84,
+                    "probability": 0.4446508288383484
+                },
+                {
+                    "word": " on",
+                    "start": 3.84,
+                    "end": 3.96,
+                    "probability": 0.48881015181541443
+                },
+                {
+                    "word": " Instagram.",
+                    "start": 3.96,
+                    "end": 4.48,
+                    "probability": 0.7435755729675293
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

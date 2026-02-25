@@ -1,0 +1,80 @@
+{
+    "text": " Please submit your vacation requests by a Friday.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.42,
+            "text": " Please submit your vacation requests by a Friday.",
+            "tokens": [
+                50364,
+                2555,
+                10315,
+                428,
+                12830,
+                12475,
+                538,
+                257,
+                6984,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4319586753845215,
+            "compression_ratio": 0.8596491228070176,
+            "no_speech_prob": 0.08164150267839432,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.96,
+                    "probability": 0.6696471571922302
+                },
+                {
+                    "word": " submit",
+                    "start": 0.96,
+                    "end": 1.54,
+                    "probability": 0.9480447173118591
+                },
+                {
+                    "word": " your",
+                    "start": 1.54,
+                    "end": 1.82,
+                    "probability": 0.9935099482536316
+                },
+                {
+                    "word": " vacation",
+                    "start": 1.82,
+                    "end": 2.5,
+                    "probability": 0.936417818069458
+                },
+                {
+                    "word": " requests",
+                    "start": 2.5,
+                    "end": 3.14,
+                    "probability": 0.9303707480430603
+                },
+                {
+                    "word": " by",
+                    "start": 3.14,
+                    "end": 3.9,
+                    "probability": 0.9466115236282349
+                },
+                {
+                    "word": " a",
+                    "start": 3.9,
+                    "end": 4.02,
+                    "probability": 0.7142360210418701
+                },
+                {
+                    "word": " Friday.",
+                    "start": 4.02,
+                    "end": 4.42,
+                    "probability": 0.9890114068984985
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

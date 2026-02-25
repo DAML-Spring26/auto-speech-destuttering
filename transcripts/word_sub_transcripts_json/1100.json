@@ -1,0 +1,59 @@
+{
+    "text": " They implemented new security messages.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.14,
+            "text": " They implemented new security messages.",
+            "tokens": [
+                50364,
+                814,
+                12270,
+                777,
+                3825,
+                7897,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5398852030436198,
+            "compression_ratio": 0.8297872340425532,
+            "no_speech_prob": 0.003811971750110388,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.4444107711315155
+                },
+                {
+                    "word": " implemented",
+                    "start": 0.12,
+                    "end": 0.56,
+                    "probability": 0.9914324283599854
+                },
+                {
+                    "word": " new",
+                    "start": 0.56,
+                    "end": 0.94,
+                    "probability": 0.9880309700965881
+                },
+                {
+                    "word": " security",
+                    "start": 0.94,
+                    "end": 1.44,
+                    "probability": 0.9805059432983398
+                },
+                {
+                    "word": " messages.",
+                    "start": 1.44,
+                    "end": 2.14,
+                    "probability": 0.9893620610237122
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

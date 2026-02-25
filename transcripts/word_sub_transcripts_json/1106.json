@@ -1,0 +1,59 @@
+{
+    "text": " They reviewed the annual preference.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.32,
+            "text": " They reviewed the annual preference.",
+            "tokens": [
+                50364,
+                814,
+                18429,
+                264,
+                9784,
+                17502,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4615335994296604,
+            "compression_ratio": 0.8181818181818182,
+            "no_speech_prob": 0.0043355184607207775,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5562172532081604
+                },
+                {
+                    "word": " reviewed",
+                    "start": 0.12,
+                    "end": 0.46,
+                    "probability": 0.9308657050132751
+                },
+                {
+                    "word": " the",
+                    "start": 0.46,
+                    "end": 0.66,
+                    "probability": 0.9892235994338989
+                },
+                {
+                    "word": " annual",
+                    "start": 0.66,
+                    "end": 0.86,
+                    "probability": 0.7165413498878479
+                },
+                {
+                    "word": " preference.",
+                    "start": 0.86,
+                    "end": 1.32,
+                    "probability": 0.9351560473442078
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

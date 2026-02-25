@@ -1,0 +1,87 @@
+{
+    "text": " Please turn off the lights when you leave room.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.68,
+            "text": " Please turn off the lights when you leave room.",
+            "tokens": [
+                50364,
+                2555,
+                1261,
+                766,
+                264,
+                5811,
+                562,
+                291,
+                1856,
+                1808,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28544315925011265,
+            "compression_ratio": 0.8703703703703703,
+            "no_speech_prob": 0.023788291960954666,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.82,
+                    "probability": 0.8239060044288635
+                },
+                {
+                    "word": " turn",
+                    "start": 0.82,
+                    "end": 1.12,
+                    "probability": 0.9885455965995789
+                },
+                {
+                    "word": " off",
+                    "start": 1.12,
+                    "end": 1.34,
+                    "probability": 0.9948746562004089
+                },
+                {
+                    "word": " the",
+                    "start": 1.34,
+                    "end": 1.54,
+                    "probability": 0.9899826645851135
+                },
+                {
+                    "word": " lights",
+                    "start": 1.54,
+                    "end": 1.82,
+                    "probability": 0.9964898228645325
+                },
+                {
+                    "word": " when",
+                    "start": 1.82,
+                    "end": 2.06,
+                    "probability": 0.9958009123802185
+                },
+                {
+                    "word": " you",
+                    "start": 2.06,
+                    "end": 2.2,
+                    "probability": 0.9984793066978455
+                },
+                {
+                    "word": " leave",
+                    "start": 2.2,
+                    "end": 2.4,
+                    "probability": 0.998833954334259
+                },
+                {
+                    "word": " room.",
+                    "start": 2.4,
+                    "end": 2.68,
+                    "probability": 0.9813849925994873
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

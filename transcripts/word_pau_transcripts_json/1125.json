@@ -1,0 +1,80 @@
+{
+    "text": " Your feedback helps us improve our customer service.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.62,
+            "text": " Your feedback helps us improve our customer service.",
+            "tokens": [
+                50364,
+                2260,
+                5824,
+                3665,
+                505,
+                3470,
+                527,
+                5474,
+                2643,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.302701473236084,
+            "compression_ratio": 0.896551724137931,
+            "no_speech_prob": 0.0023936398793011904,
+            "words": [
+                {
+                    "word": " Your",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7820098996162415
+                },
+                {
+                    "word": " feedback",
+                    "start": 0.12,
+                    "end": 0.44,
+                    "probability": 0.8854501843452454
+                },
+                {
+                    "word": " helps",
+                    "start": 0.44,
+                    "end": 0.92,
+                    "probability": 0.9956566095352173
+                },
+                {
+                    "word": " us",
+                    "start": 0.92,
+                    "end": 1.2,
+                    "probability": 0.9991976618766785
+                },
+                {
+                    "word": " improve",
+                    "start": 1.2,
+                    "end": 2.5,
+                    "probability": 0.7458227872848511
+                },
+                {
+                    "word": " our",
+                    "start": 2.5,
+                    "end": 2.7,
+                    "probability": 0.9979143738746643
+                },
+                {
+                    "word": " customer",
+                    "start": 2.7,
+                    "end": 3.12,
+                    "probability": 0.9848292469978333
+                },
+                {
+                    "word": " service.",
+                    "start": 3.12,
+                    "end": 3.62,
+                    "probability": 0.9716219902038574
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

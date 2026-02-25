@@ -1,0 +1,112 @@
+{
+    "text": " Dad's cooking dinner tonight like, so we don't need to order takeout.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.9,
+            "text": " Dad's cooking dinner tonight like, so we don't need to order takeout.",
+            "tokens": [
+                50364,
+                5639,
+                311,
+                6361,
+                6148,
+                4440,
+                411,
+                11,
+                370,
+                321,
+                500,
+                380,
+                643,
+                281,
+                1668,
+                747,
+                346,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2666709184646606,
+            "compression_ratio": 0.9857142857142858,
+            "no_speech_prob": 0.015842698514461517,
+            "words": [
+                {
+                    "word": " Dad's",
+                    "start": 0.0,
+                    "end": 0.78,
+                    "probability": 0.9164589643478394
+                },
+                {
+                    "word": " cooking",
+                    "start": 0.78,
+                    "end": 1.06,
+                    "probability": 0.982682466506958
+                },
+                {
+                    "word": " dinner",
+                    "start": 1.06,
+                    "end": 1.34,
+                    "probability": 0.9978296160697937
+                },
+                {
+                    "word": " tonight",
+                    "start": 1.34,
+                    "end": 1.64,
+                    "probability": 0.9910626411437988
+                },
+                {
+                    "word": " like,",
+                    "start": 1.64,
+                    "end": 2.0,
+                    "probability": 0.6029024720191956
+                },
+                {
+                    "word": " so",
+                    "start": 2.42,
+                    "end": 2.68,
+                    "probability": 0.9672189950942993
+                },
+                {
+                    "word": " we",
+                    "start": 2.68,
+                    "end": 2.82,
+                    "probability": 0.9959516525268555
+                },
+                {
+                    "word": " don't",
+                    "start": 2.82,
+                    "end": 3.04,
+                    "probability": 0.9941712915897369
+                },
+                {
+                    "word": " need",
+                    "start": 3.04,
+                    "end": 3.12,
+                    "probability": 0.9991663694381714
+                },
+                {
+                    "word": " to",
+                    "start": 3.12,
+                    "end": 3.3,
+                    "probability": 0.9984713196754456
+                },
+                {
+                    "word": " order",
+                    "start": 3.3,
+                    "end": 3.44,
+                    "probability": 0.9932984709739685
+                },
+                {
+                    "word": " takeout.",
+                    "start": 3.44,
+                    "end": 3.9,
+                    "probability": 0.7037357985973358
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,101 @@
+{
+    "text": " The chef creating a unique dish for the upcoming food festival.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.92,
+            "text": " The chef creating a unique dish for the upcoming food festival.",
+            "tokens": [
+                50364,
+                440,
+                10530,
+                4084,
+                257,
+                3845,
+                5025,
+                337,
+                264,
+                11500,
+                1755,
+                12091,
+                13,
+                50572
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24985156059265137,
+            "compression_ratio": 0.9692307692307692,
+            "no_speech_prob": 0.002905542030930519,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.736127495765686
+                },
+                {
+                    "word": " chef",
+                    "start": 0.1,
+                    "end": 0.34,
+                    "probability": 0.8817644715309143
+                },
+                {
+                    "word": " creating",
+                    "start": 0.34,
+                    "end": 0.94,
+                    "probability": 0.9394300580024719
+                },
+                {
+                    "word": " a",
+                    "start": 0.94,
+                    "end": 1.18,
+                    "probability": 0.9947263598442078
+                },
+                {
+                    "word": " unique",
+                    "start": 1.18,
+                    "end": 1.5,
+                    "probability": 0.999407172203064
+                },
+                {
+                    "word": " dish",
+                    "start": 1.5,
+                    "end": 2.0,
+                    "probability": 0.9982023239135742
+                },
+                {
+                    "word": " for",
+                    "start": 2.0,
+                    "end": 2.22,
+                    "probability": 0.9945375323295593
+                },
+                {
+                    "word": " the",
+                    "start": 2.22,
+                    "end": 2.36,
+                    "probability": 0.987403154373169
+                },
+                {
+                    "word": " upcoming",
+                    "start": 2.36,
+                    "end": 2.72,
+                    "probability": 0.9341558218002319
+                },
+                {
+                    "word": " food",
+                    "start": 2.72,
+                    "end": 3.22,
+                    "probability": 0.8139963150024414
+                },
+                {
+                    "word": " festival.",
+                    "start": 3.22,
+                    "end": 3.92,
+                    "probability": 0.9861467480659485
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,120 @@
+{
+    "text": " Could you please provide a well? Detailed breakdown of the expenses.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.86,
+            "text": " Could you please provide a well?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                2893,
+                257,
+                731,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3190189662732576,
+            "compression_ratio": 0.9714285714285714,
+            "no_speech_prob": 0.11121322959661484,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 1.24,
+                    "probability": 0.9010652303695679
+                },
+                {
+                    "word": " you",
+                    "start": 1.24,
+                    "end": 1.46,
+                    "probability": 0.9967635869979858
+                },
+                {
+                    "word": " please",
+                    "start": 1.46,
+                    "end": 1.86,
+                    "probability": 0.9900643229484558
+                },
+                {
+                    "word": " provide",
+                    "start": 1.86,
+                    "end": 2.24,
+                    "probability": 0.9942564368247986
+                },
+                {
+                    "word": " a",
+                    "start": 2.24,
+                    "end": 2.5,
+                    "probability": 0.9913329482078552
+                },
+                {
+                    "word": " well?",
+                    "start": 2.5,
+                    "end": 2.86,
+                    "probability": 0.9027382135391235
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.7,
+            "end": 6.12,
+            "text": " Detailed breakdown of the expenses.",
+            "tokens": [
+                50564,
+                4237,
+                24731,
+                18188,
+                295,
+                264,
+                15506,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3190189662732576,
+            "compression_ratio": 0.9714285714285714,
+            "no_speech_prob": 0.11121322959661484,
+            "words": [
+                {
+                    "word": " Detailed",
+                    "start": 3.7,
+                    "end": 4.26,
+                    "probability": 0.950332909822464
+                },
+                {
+                    "word": " breakdown",
+                    "start": 4.26,
+                    "end": 4.84,
+                    "probability": 0.9857344627380371
+                },
+                {
+                    "word": " of",
+                    "start": 4.84,
+                    "end": 5.34,
+                    "probability": 0.9867178201675415
+                },
+                {
+                    "word": " the",
+                    "start": 5.34,
+                    "end": 5.52,
+                    "probability": 0.9837692379951477
+                },
+                {
+                    "word": " expenses.",
+                    "start": 5.52,
+                    "end": 6.12,
+                    "probability": 0.9824237823486328
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

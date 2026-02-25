@@ -1,0 +1,105 @@
+{
+    "text": " the project manager outline. The next steps are implementation.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.64,
+            "text": " the project manager outline.",
+            "tokens": [
+                50364,
+                264,
+                1716,
+                6598,
+                16387,
+                13,
+                50626
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.641573965549469,
+            "compression_ratio": 0.9692307692307692,
+            "no_speech_prob": 0.0022645872086286545,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.43383485078811646
+                },
+                {
+                    "word": " project",
+                    "start": 0.1,
+                    "end": 0.46,
+                    "probability": 0.8304946422576904
+                },
+                {
+                    "word": " manager",
+                    "start": 0.46,
+                    "end": 1.04,
+                    "probability": 0.9882816672325134
+                },
+                {
+                    "word": " outline.",
+                    "start": 1.04,
+                    "end": 1.64,
+                    "probability": 0.5777493119239807
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.24,
+            "end": 6.64,
+            "text": " The next steps are implementation.",
+            "tokens": [
+                50626,
+                440,
+                958,
+                4439,
+                366,
+                11420,
+                13,
+                50726
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.641573965549469,
+            "compression_ratio": 0.9692307692307692,
+            "no_speech_prob": 0.0022645872086286545,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 4.94,
+                    "end": 5.32,
+                    "probability": 0.902938961982727
+                },
+                {
+                    "word": " next",
+                    "start": 5.32,
+                    "end": 5.52,
+                    "probability": 0.9763749241828918
+                },
+                {
+                    "word": " steps",
+                    "start": 5.52,
+                    "end": 5.88,
+                    "probability": 0.8852518200874329
+                },
+                {
+                    "word": " are",
+                    "start": 5.88,
+                    "end": 6.02,
+                    "probability": 0.30891692638397217
+                },
+                {
+                    "word": " implementation.",
+                    "start": 6.02,
+                    "end": 6.64,
+                    "probability": 0.9356080293655396
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

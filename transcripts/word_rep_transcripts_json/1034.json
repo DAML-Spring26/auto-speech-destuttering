@@ -1,0 +1,74 @@
+{
+    "text": " The letter was was sent by Currier.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.28,
+            "text": " The letter was was sent by Currier.",
+            "tokens": [
+                50364,
+                440,
+                5063,
+                390,
+                390,
+                2279,
+                538,
+                7907,
+                7326,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6865336894989014,
+            "compression_ratio": 0.8974358974358975,
+            "no_speech_prob": 0.0031480598263442516,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6836279034614563
+                },
+                {
+                    "word": " letter",
+                    "start": 0.12,
+                    "end": 0.46,
+                    "probability": 0.8470515608787537
+                },
+                {
+                    "word": " was",
+                    "start": 0.46,
+                    "end": 0.82,
+                    "probability": 0.9910759925842285
+                },
+                {
+                    "word": " was",
+                    "start": 0.82,
+                    "end": 1.14,
+                    "probability": 0.1134934052824974
+                },
+                {
+                    "word": " sent",
+                    "start": 1.14,
+                    "end": 1.44,
+                    "probability": 0.9928019046783447
+                },
+                {
+                    "word": " by",
+                    "start": 1.44,
+                    "end": 1.7,
+                    "probability": 0.9967237114906311
+                },
+                {
+                    "word": " Currier.",
+                    "start": 1.7,
+                    "end": 2.28,
+                    "probability": 0.4147721529006958
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,73 @@
+{
+    "text": " The concert will create your classical music.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.86,
+            "text": " The concert will create your classical music.",
+            "tokens": [
+                50364,
+                440,
+                8543,
+                486,
+                1884,
+                428,
+                13735,
+                1318,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3651127815246582,
+            "compression_ratio": 0.8823529411764706,
+            "no_speech_prob": 0.01335116382688284,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.675401508808136
+                },
+                {
+                    "word": " concert",
+                    "start": 0.16,
+                    "end": 0.74,
+                    "probability": 0.979225754737854
+                },
+                {
+                    "word": " will",
+                    "start": 0.74,
+                    "end": 1.04,
+                    "probability": 0.9974556565284729
+                },
+                {
+                    "word": " create",
+                    "start": 1.04,
+                    "end": 1.38,
+                    "probability": 0.9147798418998718
+                },
+                {
+                    "word": " your",
+                    "start": 1.38,
+                    "end": 1.62,
+                    "probability": 0.9819616675376892
+                },
+                {
+                    "word": " classical",
+                    "start": 1.62,
+                    "end": 2.2,
+                    "probability": 0.9696689248085022
+                },
+                {
+                    "word": " music.",
+                    "start": 2.2,
+                    "end": 2.86,
+                    "probability": 0.9920651316642761
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,94 @@
+{
+    "text": " The committee is currently reviewing applications for the research grant.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.5,
+            "text": " The committee is currently reviewing applications for the research grant.",
+            "tokens": [
+                50364,
+                440,
+                7482,
+                307,
+                4362,
+                19576,
+                5821,
+                337,
+                264,
+                2132,
+                6386,
+                13,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34880638122558594,
+            "compression_ratio": 1.0138888888888888,
+            "no_speech_prob": 0.0031660208478569984,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.5274428725242615
+                },
+                {
+                    "word": " committee",
+                    "start": 0.16,
+                    "end": 0.58,
+                    "probability": 0.8668666481971741
+                },
+                {
+                    "word": " is",
+                    "start": 0.58,
+                    "end": 0.9,
+                    "probability": 0.9947137236595154
+                },
+                {
+                    "word": " currently",
+                    "start": 0.9,
+                    "end": 1.18,
+                    "probability": 0.998944103717804
+                },
+                {
+                    "word": " reviewing",
+                    "start": 1.18,
+                    "end": 1.78,
+                    "probability": 0.9912599921226501
+                },
+                {
+                    "word": " applications",
+                    "start": 1.78,
+                    "end": 2.62,
+                    "probability": 0.9925374388694763
+                },
+                {
+                    "word": " for",
+                    "start": 2.62,
+                    "end": 3.02,
+                    "probability": 0.9978534579277039
+                },
+                {
+                    "word": " the",
+                    "start": 3.02,
+                    "end": 3.24,
+                    "probability": 0.9932314157485962
+                },
+                {
+                    "word": " research",
+                    "start": 3.24,
+                    "end": 3.92,
+                    "probability": 0.4995202124118805
+                },
+                {
+                    "word": " grant.",
+                    "start": 3.92,
+                    "end": 4.5,
+                    "probability": 0.9958435893058777
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

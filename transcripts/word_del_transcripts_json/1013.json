@@ -1,0 +1,118 @@
+{
+    "text": " The new restaurant downtown's so it's most delicious Italian food I've ever tasted.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.66,
+            "text": " The new restaurant downtown's so it's most delicious Italian food I've ever tasted.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                6383,
+                14209,
+                311,
+                370,
+                309,
+                311,
+                881,
+                4809,
+                10003,
+                1755,
+                286,
+                600,
+                1562,
+                25003,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37185306549072267,
+            "compression_ratio": 1.0506329113924051,
+            "no_speech_prob": 0.00503043457865715,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7564590573310852
+                },
+                {
+                    "word": " new",
+                    "start": 0.14,
+                    "end": 0.28,
+                    "probability": 0.8809910416603088
+                },
+                {
+                    "word": " restaurant",
+                    "start": 0.28,
+                    "end": 0.54,
+                    "probability": 0.9818558096885681
+                },
+                {
+                    "word": " downtown's",
+                    "start": 0.54,
+                    "end": 1.24,
+                    "probability": 0.4313269257545471
+                },
+                {
+                    "word": " so",
+                    "start": 1.24,
+                    "end": 1.32,
+                    "probability": 0.7182469367980957
+                },
+                {
+                    "word": " it's",
+                    "start": 1.32,
+                    "end": 1.44,
+                    "probability": 0.6642638593912125
+                },
+                {
+                    "word": " most",
+                    "start": 1.44,
+                    "end": 1.58,
+                    "probability": 0.9474633932113647
+                },
+                {
+                    "word": " delicious",
+                    "start": 1.58,
+                    "end": 2.04,
+                    "probability": 0.9954050779342651
+                },
+                {
+                    "word": " Italian",
+                    "start": 2.04,
+                    "end": 2.5,
+                    "probability": 0.8561885356903076
+                },
+                {
+                    "word": " food",
+                    "start": 2.5,
+                    "end": 2.86,
+                    "probability": 0.9880082607269287
+                },
+                {
+                    "word": " I've",
+                    "start": 2.86,
+                    "end": 3.08,
+                    "probability": 0.8108499944210052
+                },
+                {
+                    "word": " ever",
+                    "start": 3.08,
+                    "end": 3.18,
+                    "probability": 0.9257402420043945
+                },
+                {
+                    "word": " tasted.",
+                    "start": 3.18,
+                    "end": 3.66,
+                    "probability": 0.9968199729919434
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

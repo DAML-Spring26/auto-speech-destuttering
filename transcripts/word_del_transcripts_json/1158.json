@@ -1,0 +1,109 @@
+{
+    "text": " She leans the world and caught her breath after the long run.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.6,
+            "text": " She leans the world and caught her breath after the long run.",
+            "tokens": [
+                50364,
+                1240,
+                476,
+                599,
+                264,
+                1002,
+                293,
+                5415,
+                720,
+                6045,
+                934,
+                264,
+                938,
+                1190,
+                13,
+                50556
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35399596831377816,
+            "compression_ratio": 0.953125,
+            "no_speech_prob": 0.004090066999197006,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.4089636206626892
+                },
+                {
+                    "word": " leans",
+                    "start": 0.2,
+                    "end": 0.62,
+                    "probability": 0.6877768635749817
+                },
+                {
+                    "word": " the",
+                    "start": 0.62,
+                    "end": 0.94,
+                    "probability": 0.7693159580230713
+                },
+                {
+                    "word": " world",
+                    "start": 0.94,
+                    "end": 1.22,
+                    "probability": 0.7911805510520935
+                },
+                {
+                    "word": " and",
+                    "start": 1.22,
+                    "end": 1.46,
+                    "probability": 0.9619268178939819
+                },
+                {
+                    "word": " caught",
+                    "start": 1.46,
+                    "end": 1.72,
+                    "probability": 0.947738528251648
+                },
+                {
+                    "word": " her",
+                    "start": 1.72,
+                    "end": 2.0,
+                    "probability": 0.9977771639823914
+                },
+                {
+                    "word": " breath",
+                    "start": 2.0,
+                    "end": 2.3,
+                    "probability": 0.9928088188171387
+                },
+                {
+                    "word": " after",
+                    "start": 2.3,
+                    "end": 2.84,
+                    "probability": 0.993733823299408
+                },
+                {
+                    "word": " the",
+                    "start": 2.84,
+                    "end": 2.98,
+                    "probability": 0.9759383797645569
+                },
+                {
+                    "word": " long",
+                    "start": 2.98,
+                    "end": 3.26,
+                    "probability": 0.9861331582069397
+                },
+                {
+                    "word": " run.",
+                    "start": 3.26,
+                    "end": 3.6,
+                    "probability": 0.9911180138587952
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

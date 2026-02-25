@@ -1,0 +1,110 @@
+{
+    "text": " Based on your test results, I recommend scheduling a follow-up appointment.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.66,
+            "text": " Based on your test results, I recommend scheduling a follow-up appointment.",
+            "tokens": [
+                50364,
+                18785,
+                322,
+                428,
+                1500,
+                3542,
+                11,
+                286,
+                2748,
+                29055,
+                257,
+                1524,
+                12,
+                1010,
+                13653,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24695973926120335,
+            "compression_ratio": 0.974025974025974,
+            "no_speech_prob": 0.009550055488944054,
+            "words": [
+                {
+                    "word": " Based",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.978132963180542
+                },
+                {
+                    "word": " on",
+                    "start": 0.32,
+                    "end": 0.52,
+                    "probability": 0.9975736737251282
+                },
+                {
+                    "word": " your",
+                    "start": 0.52,
+                    "end": 0.68,
+                    "probability": 0.9649467468261719
+                },
+                {
+                    "word": " test",
+                    "start": 0.68,
+                    "end": 0.94,
+                    "probability": 0.9841253757476807
+                },
+                {
+                    "word": " results,",
+                    "start": 0.94,
+                    "end": 1.42,
+                    "probability": 0.9978141784667969
+                },
+                {
+                    "word": " I",
+                    "start": 1.86,
+                    "end": 1.86,
+                    "probability": 0.9905022382736206
+                },
+                {
+                    "word": " recommend",
+                    "start": 1.86,
+                    "end": 2.4,
+                    "probability": 0.9834825992584229
+                },
+                {
+                    "word": " scheduling",
+                    "start": 2.4,
+                    "end": 3.24,
+                    "probability": 0.9928001165390015
+                },
+                {
+                    "word": " a",
+                    "start": 3.24,
+                    "end": 4.16,
+                    "probability": 0.7916723489761353
+                },
+                {
+                    "word": " follow",
+                    "start": 4.16,
+                    "end": 7.02,
+                    "probability": 0.9062007665634155
+                },
+                {
+                    "word": "-up",
+                    "start": 7.02,
+                    "end": 7.22,
+                    "probability": 0.837033748626709
+                },
+                {
+                    "word": " appointment.",
+                    "start": 7.22,
+                    "end": 7.66,
+                    "probability": 0.9946569204330444
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

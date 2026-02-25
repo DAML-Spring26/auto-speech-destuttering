@@ -1,0 +1,114 @@
+{
+    "text": " We should organize a brainstorming session too. Generate new ideas.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.18,
+            "text": " We should organize a brainstorming session too.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                13859,
+                257,
+                35245,
+                278,
+                5481,
+                886,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6110963319477282,
+            "compression_ratio": 0.9852941176470589,
+            "no_speech_prob": 0.02822071872651577,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6015191674232483
+                },
+                {
+                    "word": " should",
+                    "start": 0.14,
+                    "end": 0.28,
+                    "probability": 0.994030773639679
+                },
+                {
+                    "word": " organize",
+                    "start": 0.28,
+                    "end": 0.6,
+                    "probability": 0.79298996925354
+                },
+                {
+                    "word": " a",
+                    "start": 0.6,
+                    "end": 0.8,
+                    "probability": 0.8951213955879211
+                },
+                {
+                    "word": " brainstorming",
+                    "start": 0.8,
+                    "end": 1.46,
+                    "probability": 0.9961361885070801
+                },
+                {
+                    "word": " session",
+                    "start": 1.46,
+                    "end": 1.82,
+                    "probability": 0.989027738571167
+                },
+                {
+                    "word": " too.",
+                    "start": 1.82,
+                    "end": 2.18,
+                    "probability": 0.4647127091884613
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.140000000000001,
+            "end": 5.42,
+            "text": " Generate new ideas.",
+            "tokens": [
+                50592,
+                15409,
+                473,
+                777,
+                3487,
+                13,
+                50652
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6110963319477282,
+            "compression_ratio": 0.9852941176470589,
+            "no_speech_prob": 0.02822071872651577,
+            "words": [
+                {
+                    "word": " Generate",
+                    "start": 4.140000000000001,
+                    "end": 4.86,
+                    "probability": 0.9805856049060822
+                },
+                {
+                    "word": " new",
+                    "start": 4.86,
+                    "end": 5.04,
+                    "probability": 0.9943159222602844
+                },
+                {
+                    "word": " ideas.",
+                    "start": 5.04,
+                    "end": 5.42,
+                    "probability": 0.9981669187545776
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

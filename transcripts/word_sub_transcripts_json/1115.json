@@ -1,0 +1,68 @@
+{
+    "text": " The rasterant serves authentic Italian machine.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.4,
+            "text": " The rasterant serves authentic Italian machine.",
+            "tokens": [
+                50364,
+                440,
+                367,
+                1727,
+                394,
+                13451,
+                12466,
+                10003,
+                3479,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4808308680852254,
+            "compression_ratio": 0.8545454545454545,
+            "no_speech_prob": 0.0034536703024059534,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.8663574457168579
+                },
+                {
+                    "word": " rasterant",
+                    "start": 0.1,
+                    "end": 0.62,
+                    "probability": 0.6785376369953156
+                },
+                {
+                    "word": " serves",
+                    "start": 0.62,
+                    "end": 0.98,
+                    "probability": 0.9875224232673645
+                },
+                {
+                    "word": " authentic",
+                    "start": 0.98,
+                    "end": 1.46,
+                    "probability": 0.7283188700675964
+                },
+                {
+                    "word": " Italian",
+                    "start": 1.46,
+                    "end": 2.02,
+                    "probability": 0.5869637131690979
+                },
+                {
+                    "word": " machine.",
+                    "start": 2.02,
+                    "end": 2.4,
+                    "probability": 0.9756942987442017
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,101 @@
+{
+    "text": " Your test results will be available in 35 of business days.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.18,
+            "text": " Your test results will be available in 35 of business days.",
+            "tokens": [
+                50364,
+                2260,
+                1500,
+                3542,
+                486,
+                312,
+                2435,
+                294,
+                6976,
+                295,
+                1606,
+                1708,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3002167065938314,
+            "compression_ratio": 0.921875,
+            "no_speech_prob": 0.014716542325913906,
+            "words": [
+                {
+                    "word": " Your",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.8296732306480408
+                },
+                {
+                    "word": " test",
+                    "start": 0.36,
+                    "end": 0.6,
+                    "probability": 0.9843711256980896
+                },
+                {
+                    "word": " results",
+                    "start": 0.6,
+                    "end": 0.92,
+                    "probability": 0.9981468915939331
+                },
+                {
+                    "word": " will",
+                    "start": 0.92,
+                    "end": 1.22,
+                    "probability": 0.9967495203018188
+                },
+                {
+                    "word": " be",
+                    "start": 1.22,
+                    "end": 1.38,
+                    "probability": 0.996956467628479
+                },
+                {
+                    "word": " available",
+                    "start": 1.38,
+                    "end": 1.72,
+                    "probability": 0.9981739521026611
+                },
+                {
+                    "word": " in",
+                    "start": 1.72,
+                    "end": 1.98,
+                    "probability": 0.9962031245231628
+                },
+                {
+                    "word": " 35",
+                    "start": 1.98,
+                    "end": 2.44,
+                    "probability": 0.9642117023468018
+                },
+                {
+                    "word": " of",
+                    "start": 2.44,
+                    "end": 2.6,
+                    "probability": 0.296834260225296
+                },
+                {
+                    "word": " business",
+                    "start": 2.6,
+                    "end": 2.84,
+                    "probability": 0.8019304871559143
+                },
+                {
+                    "word": " days.",
+                    "start": 2.84,
+                    "end": 3.18,
+                    "probability": 0.995908260345459
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,122 @@
+{
+    "text": " The teacher explained the project would be due at the end of the month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.72,
+            "text": " The teacher explained the project would be due at the end of the month.",
+            "tokens": [
+                50364,
+                440,
+                5027,
+                8825,
+                264,
+                1716,
+                576,
+                312,
+                3462,
+                412,
+                264,
+                917,
+                295,
+                264,
+                1618,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22540336185031468,
+            "compression_ratio": 1.0289855072463767,
+            "no_speech_prob": 0.003960764035582542,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8868139386177063
+                },
+                {
+                    "word": " teacher",
+                    "start": 0.12,
+                    "end": 0.4,
+                    "probability": 0.9675217270851135
+                },
+                {
+                    "word": " explained",
+                    "start": 0.4,
+                    "end": 0.86,
+                    "probability": 0.9860031604766846
+                },
+                {
+                    "word": " the",
+                    "start": 0.86,
+                    "end": 1.02,
+                    "probability": 0.970103919506073
+                },
+                {
+                    "word": " project",
+                    "start": 1.02,
+                    "end": 1.36,
+                    "probability": 0.9942751526832581
+                },
+                {
+                    "word": " would",
+                    "start": 1.36,
+                    "end": 1.58,
+                    "probability": 0.9700710773468018
+                },
+                {
+                    "word": " be",
+                    "start": 1.58,
+                    "end": 1.74,
+                    "probability": 0.9941353797912598
+                },
+                {
+                    "word": " due",
+                    "start": 1.74,
+                    "end": 1.88,
+                    "probability": 0.5170191526412964
+                },
+                {
+                    "word": " at",
+                    "start": 1.88,
+                    "end": 2.02,
+                    "probability": 0.9840171933174133
+                },
+                {
+                    "word": " the",
+                    "start": 2.02,
+                    "end": 2.1,
+                    "probability": 0.9988688826560974
+                },
+                {
+                    "word": " end",
+                    "start": 2.1,
+                    "end": 2.26,
+                    "probability": 0.9970844388008118
+                },
+                {
+                    "word": " of",
+                    "start": 2.26,
+                    "end": 2.38,
+                    "probability": 0.9979379773139954
+                },
+                {
+                    "word": " the",
+                    "start": 2.38,
+                    "end": 2.5,
+                    "probability": 0.9868749976158142
+                },
+                {
+                    "word": " month.",
+                    "start": 2.5,
+                    "end": 2.72,
+                    "probability": 0.9992375373840332
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

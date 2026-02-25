@@ -1,0 +1,128 @@
+{
+    "text": " In the event of an emergency, remain comment, follow staff, \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u044b, and",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.52,
+            "text": " In the event of an emergency, remain comment, follow staff,",
+            "tokens": [
+                50364,
+                682,
+                264,
+                2280,
+                295,
+                364,
+                7473,
+                11,
+                6222,
+                2871,
+                11,
+                1524,
+                3525,
+                11,
+                50592
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37611058179069967,
+            "compression_ratio": 0.9365079365079365,
+            "no_speech_prob": 0.011344511061906815,
+            "words": [
+                {
+                    "word": " In",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.8409156799316406
+                },
+                {
+                    "word": " the",
+                    "start": 0.2,
+                    "end": 0.36,
+                    "probability": 0.9942779541015625
+                },
+                {
+                    "word": " event",
+                    "start": 0.36,
+                    "end": 0.62,
+                    "probability": 0.9911261200904846
+                },
+                {
+                    "word": " of",
+                    "start": 0.62,
+                    "end": 0.94,
+                    "probability": 0.9993755221366882
+                },
+                {
+                    "word": " an",
+                    "start": 0.94,
+                    "end": 1.1,
+                    "probability": 0.9856107234954834
+                },
+                {
+                    "word": " emergency,",
+                    "start": 1.1,
+                    "end": 1.98,
+                    "probability": 0.9950093030929565
+                },
+                {
+                    "word": " remain",
+                    "start": 2.62,
+                    "end": 2.84,
+                    "probability": 0.9240091443061829
+                },
+                {
+                    "word": " comment,",
+                    "start": 2.84,
+                    "end": 3.4,
+                    "probability": 0.6273061633110046
+                },
+                {
+                    "word": " follow",
+                    "start": 3.84,
+                    "end": 4.02,
+                    "probability": 0.9674264788627625
+                },
+                {
+                    "word": " staff,",
+                    "start": 4.02,
+                    "end": 4.52,
+                    "probability": 0.6431035399436951
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 452,
+            "start": 4.52,
+            "end": 8.7,
+            "text": " \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u044b, and",
+            "tokens": [
+                50364,
+                44340,
+                11,
+                293,
+                51494
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.106187502543132,
+            "compression_ratio": 0.7,
+            "no_speech_prob": 0.24882882833480835,
+            "words": [
+                {
+                    "word": " \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u044b,",
+                    "start": 4.52,
+                    "end": 4.94,
+                    "probability": 3.60926065923195e-07
+                },
+                {
+                    "word": " and",
+                    "start": 4.94,
+                    "end": 8.7,
+                    "probability": 0.10316883027553558
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

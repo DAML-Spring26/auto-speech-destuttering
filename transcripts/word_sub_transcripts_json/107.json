@@ -1,0 +1,66 @@
+{
+    "text": " we should evaluate the market credential.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.3,
+            "text": " we should evaluate the market credential.",
+            "tokens": [
+                50364,
+                321,
+                820,
+                13059,
+                264,
+                2142,
+                22034,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3841961145401001,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.0014195673866197467,
+            "words": [
+                {
+                    "word": " we",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.4588836133480072
+                },
+                {
+                    "word": " should",
+                    "start": 0.1,
+                    "end": 0.22,
+                    "probability": 0.9959988594055176
+                },
+                {
+                    "word": " evaluate",
+                    "start": 0.22,
+                    "end": 0.48,
+                    "probability": 0.9234551191329956
+                },
+                {
+                    "word": " the",
+                    "start": 0.48,
+                    "end": 0.66,
+                    "probability": 0.9863865375518799
+                },
+                {
+                    "word": " market",
+                    "start": 0.66,
+                    "end": 0.9,
+                    "probability": 0.943500816822052
+                },
+                {
+                    "word": " credential.",
+                    "start": 0.9,
+                    "end": 1.3,
+                    "probability": 0.8853864669799805
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,104 @@
+{
+    "text": " The CEO will announce the company's new direction, next week, uh...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.56,
+            "text": " The CEO will announce the company's new direction, next week, uh...",
+            "tokens": [
+                50364,
+                440,
+                9282,
+                486,
+                7478,
+                264,
+                2237,
+                311,
+                777,
+                3513,
+                11,
+                958,
+                1243,
+                11,
+                2232,
+                485,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33514920870463055,
+            "compression_ratio": 0.9305555555555556,
+            "no_speech_prob": 0.0759088471531868,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.56,
+                    "probability": 0.8832363486289978
+                },
+                {
+                    "word": " CEO",
+                    "start": 0.56,
+                    "end": 1.06,
+                    "probability": 0.9631248116493225
+                },
+                {
+                    "word": " will",
+                    "start": 1.06,
+                    "end": 1.34,
+                    "probability": 0.9956589937210083
+                },
+                {
+                    "word": " announce",
+                    "start": 1.34,
+                    "end": 1.7,
+                    "probability": 0.9942652583122253
+                },
+                {
+                    "word": " the",
+                    "start": 1.7,
+                    "end": 1.84,
+                    "probability": 0.9955403208732605
+                },
+                {
+                    "word": " company's",
+                    "start": 1.84,
+                    "end": 2.32,
+                    "probability": 0.985996812582016
+                },
+                {
+                    "word": " new",
+                    "start": 2.32,
+                    "end": 2.46,
+                    "probability": 0.9891390204429626
+                },
+                {
+                    "word": " direction,",
+                    "start": 2.46,
+                    "end": 2.94,
+                    "probability": 0.9935706853866577
+                },
+                {
+                    "word": " next",
+                    "start": 3.26,
+                    "end": 3.52,
+                    "probability": 0.9832058548927307
+                },
+                {
+                    "word": " week,",
+                    "start": 3.52,
+                    "end": 3.84,
+                    "probability": 0.9969276785850525
+                },
+                {
+                    "word": " uh...",
+                    "start": 4.2,
+                    "end": 4.56,
+                    "probability": 0.40692131221294403
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

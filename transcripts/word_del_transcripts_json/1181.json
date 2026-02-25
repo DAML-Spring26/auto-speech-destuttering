@@ -1,0 +1,102 @@
+{
+    "text": " She's studying for her final exams for the past three weeks.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.32,
+            "text": " She's studying for her final exams for the past three weeks.",
+            "tokens": [
+                50364,
+                1240,
+                311,
+                7601,
+                337,
+                720,
+                2572,
+                20514,
+                337,
+                264,
+                1791,
+                1045,
+                3259,
+                13,
+                50540
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31829357147216797,
+            "compression_ratio": 0.9523809523809523,
+            "no_speech_prob": 0.007544653955847025,
+            "words": [
+                {
+                    "word": " She's",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.6174664795398712
+                },
+                {
+                    "word": " studying",
+                    "start": 0.3,
+                    "end": 0.68,
+                    "probability": 0.9974914789199829
+                },
+                {
+                    "word": " for",
+                    "start": 0.68,
+                    "end": 0.92,
+                    "probability": 0.9905990958213806
+                },
+                {
+                    "word": " her",
+                    "start": 0.92,
+                    "end": 1.06,
+                    "probability": 0.9930043816566467
+                },
+                {
+                    "word": " final",
+                    "start": 1.06,
+                    "end": 1.38,
+                    "probability": 0.9968558549880981
+                },
+                {
+                    "word": " exams",
+                    "start": 1.38,
+                    "end": 1.88,
+                    "probability": 0.9234459400177002
+                },
+                {
+                    "word": " for",
+                    "start": 1.88,
+                    "end": 2.18,
+                    "probability": 0.9880385994911194
+                },
+                {
+                    "word": " the",
+                    "start": 2.18,
+                    "end": 2.3,
+                    "probability": 0.9969185590744019
+                },
+                {
+                    "word": " past",
+                    "start": 2.3,
+                    "end": 2.58,
+                    "probability": 0.9975747466087341
+                },
+                {
+                    "word": " three",
+                    "start": 2.58,
+                    "end": 2.98,
+                    "probability": 0.8455047011375427
+                },
+                {
+                    "word": " weeks.",
+                    "start": 2.98,
+                    "end": 3.32,
+                    "probability": 0.9974228143692017
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

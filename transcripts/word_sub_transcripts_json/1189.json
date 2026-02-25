@@ -1,0 +1,73 @@
+{
+    "text": " Could you spread the cost between us?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.66,
+            "text": " Could you spread the cost between us?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                3974,
+                264,
+                2063,
+                1296,
+                505,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2720044526186856,
+            "compression_ratio": 0.8222222222222222,
+            "no_speech_prob": 0.014499238692224026,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7392488121986389
+                },
+                {
+                    "word": " you",
+                    "start": 0.12,
+                    "end": 0.24,
+                    "probability": 0.9915143251419067
+                },
+                {
+                    "word": " spread",
+                    "start": 0.24,
+                    "end": 0.52,
+                    "probability": 0.8401606678962708
+                },
+                {
+                    "word": " the",
+                    "start": 0.52,
+                    "end": 0.66,
+                    "probability": 0.9951674938201904
+                },
+                {
+                    "word": " cost",
+                    "start": 0.66,
+                    "end": 0.92,
+                    "probability": 0.4068555235862732
+                },
+                {
+                    "word": " between",
+                    "start": 0.92,
+                    "end": 1.32,
+                    "probability": 0.9948437213897705
+                },
+                {
+                    "word": " us?",
+                    "start": 1.32,
+                    "end": 1.66,
+                    "probability": 0.9970725774765015
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,101 @@
+{
+    "text": " The students have been studying for their final exams all week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.56,
+            "text": " The students have been studying for their final exams all week.",
+            "tokens": [
+                50364,
+                440,
+                1731,
+                362,
+                668,
+                7601,
+                337,
+                641,
+                2572,
+                20514,
+                439,
+                1243,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35495087305704753,
+            "compression_ratio": 0.9545454545454546,
+            "no_speech_prob": 0.009990477934479713,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5669538378715515
+                },
+                {
+                    "word": " students",
+                    "start": 0.14,
+                    "end": 0.46,
+                    "probability": 0.6605794429779053
+                },
+                {
+                    "word": " have",
+                    "start": 0.46,
+                    "end": 0.7,
+                    "probability": 0.47986745834350586
+                },
+                {
+                    "word": " been",
+                    "start": 0.7,
+                    "end": 0.78,
+                    "probability": 0.9874845147132874
+                },
+                {
+                    "word": " studying",
+                    "start": 0.78,
+                    "end": 1.08,
+                    "probability": 0.9968716502189636
+                },
+                {
+                    "word": " for",
+                    "start": 1.08,
+                    "end": 1.34,
+                    "probability": 0.9798923134803772
+                },
+                {
+                    "word": " their",
+                    "start": 1.34,
+                    "end": 1.44,
+                    "probability": 0.9753677248954773
+                },
+                {
+                    "word": " final",
+                    "start": 1.44,
+                    "end": 1.74,
+                    "probability": 0.9672343730926514
+                },
+                {
+                    "word": " exams",
+                    "start": 1.74,
+                    "end": 2.1,
+                    "probability": 0.9446004033088684
+                },
+                {
+                    "word": " all",
+                    "start": 2.1,
+                    "end": 2.34,
+                    "probability": 0.9734483957290649
+                },
+                {
+                    "word": " week.",
+                    "start": 2.34,
+                    "end": 2.56,
+                    "probability": 0.986617386341095
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

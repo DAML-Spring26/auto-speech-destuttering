@@ -1,0 +1,94 @@
+{
+    "text": " The researchers were excited about breakthrough in the latest experiment.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.62,
+            "text": " The researchers were excited about breakthrough in the latest experiment.",
+            "tokens": [
+                50364,
+                440,
+                10309,
+                645,
+                2919,
+                466,
+                22397,
+                294,
+                264,
+                6792,
+                5120,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3752502373286656,
+            "compression_ratio": 1.028169014084507,
+            "no_speech_prob": 0.003370470367372036,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.665381133556366
+                },
+                {
+                    "word": " researchers",
+                    "start": 0.12,
+                    "end": 0.7,
+                    "probability": 0.9670732617378235
+                },
+                {
+                    "word": " were",
+                    "start": 0.7,
+                    "end": 0.98,
+                    "probability": 0.8387116193771362
+                },
+                {
+                    "word": " excited",
+                    "start": 0.98,
+                    "end": 1.5,
+                    "probability": 0.9939029812812805
+                },
+                {
+                    "word": " about",
+                    "start": 1.5,
+                    "end": 1.86,
+                    "probability": 0.9951632022857666
+                },
+                {
+                    "word": " breakthrough",
+                    "start": 1.86,
+                    "end": 2.32,
+                    "probability": 0.8319635987281799
+                },
+                {
+                    "word": " in",
+                    "start": 2.32,
+                    "end": 2.6,
+                    "probability": 0.9599184989929199
+                },
+                {
+                    "word": " the",
+                    "start": 2.6,
+                    "end": 2.7,
+                    "probability": 0.519017219543457
+                },
+                {
+                    "word": " latest",
+                    "start": 2.7,
+                    "end": 2.98,
+                    "probability": 0.9953157901763916
+                },
+                {
+                    "word": " experiment.",
+                    "start": 2.98,
+                    "end": 3.62,
+                    "probability": 0.983188807964325
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}
