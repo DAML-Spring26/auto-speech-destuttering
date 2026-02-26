@@ -5,47 +5,52 @@ import os
 from config import LABEL_NAMES
 
 AUDIO_ROOT = "data/word_level"
+FEATURE_DIR = "features"
+os.makedirs(FEATURE_DIR, exist_ok=True)
 
-df = pd.read_csv("data/train.csv")
+# load train/val/test splits
+train_df = pd.read_csv("data/train.csv")
+val_df   = pd.read_csv("data/val.csv")
+test_df  = pd.read_csv("data/test.csv")  # optional
 
-features = []
+folder_map = {
+    "REP": "word_rep",
+    "INS": "word_ins",
+    "DEL": "word_del",
+    "PAU": "word_pau",
+    "SUB": "word_sub"
+}
 
-for _, row in df.iterrows():
+# extract MFCC
+def extract_features(df_split):
+    features = []
+    for _, row in df_split.iterrows():
+        label_name = LABEL_NAMES[row["label"]]
+        folder = folder_map[label_name]
 
-    # Recover folder name from label
-    label_name = LABEL_NAMES[row["label"]]
+        path = os.path.join(AUDIO_ROOT, folder, f"{row['audio_id']}.wav")
+        if not os.path.exists(path):
+            continue
 
-    # Map back to original audio folder name
-    folder_map = {
-        "REP": "word_rep",
-        "INS": "word_ins",
-        "DEL": "word_del",
-        "PAU": "word_pau",
-        "SUB": "word_sub"
-    }
+        y, sr = librosa.load(path, sr=None)
+        segment = y[int(row["start"] * sr):int(row["end"] * sr)]
 
-    folder = folder_map[label_name]
+        if len(segment) < sr * 0.1:
+            continue
 
-    path = os.path.join(AUDIO_ROOT, folder, f"{row['audio_id']}.wav")
+        mfcc = librosa.feature.mfcc(y=segment, sr=sr, n_mfcc=13)
+        mfcc_mean = np.mean(mfcc, axis=1)
 
-    if not os.path.exists(path):
-        continue
+        features.append(np.append(mfcc_mean, row["label"]))
+    return np.array(features)
 
-    y, sr = librosa.load(path, sr=None)
+# extract/save features
+print("Extracting train features:")
+train_features = extract_features(train_df)
+np.save(os.path.join(FEATURE_DIR, "train_features.npy"), train_features)
 
-    segment = y[int(row["start"] * sr):int(row["end"] * sr)]
+print("Extracting validation features:")
+val_features = extract_features(val_df)
+np.save(os.path.join(FEATURE_DIR, "val_features.npy"), val_features)
 
-    if len(segment) < sr * 0.1:
-        continue
-
-    mfcc = librosa.feature.mfcc(y=segment, sr=sr, n_mfcc=13)
-    mfcc_mean = np.mean(mfcc, axis=1)
-
-    features.append(np.append(mfcc_mean, row["label"]))
-
-features = np.array(features)
-
-os.makedirs("features", exist_ok=True)
-np.save("features/train_features.npy", features)
-
-print("Features extracted")
+print("Feature extraction complete")
