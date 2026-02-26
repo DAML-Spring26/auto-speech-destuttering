@@ -7,7 +7,6 @@ TRANSCRIPT_ROOT = "transcripts"
 rows = []
 
 for folder in os.listdir(TRANSCRIPT_ROOT):
-
     if folder not in LABEL_MAP:
         continue
 
@@ -15,7 +14,6 @@ for folder in os.listdir(TRANSCRIPT_ROOT):
     folder_path = os.path.join(TRANSCRIPT_ROOT, folder)
 
     for file in os.listdir(folder_path):
-
         if not file.endswith(".json"):
             continue
 
@@ -27,7 +25,6 @@ for folder in os.listdir(TRANSCRIPT_ROOT):
         audio_id = file.replace(".json", "")
 
         for seg in data["segments"]:
-
             rows.append({
                 "audio_id": audio_id,
                 "start": seg["start"],
