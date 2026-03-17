@@ -1,0 +1,48 @@
+{
+    "text": " I'm thinking of starting a podcast about... Local History.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.0,
+            "text": " I'm thinking of starting a podcast about...",
+            "tokens": [
+                50364,
+                286,
+                478,
+                1953,
+                295,
+                2891,
+                257,
+                7367,
+                466,
+                485,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6224002838134766,
+            "compression_ratio": 0.9206349206349206,
+            "no_speech_prob": 0.013081865385174751
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.0,
+            "end": 7.0,
+            "text": " Local History.",
+            "tokens": [
+                50614,
+                22755,
+                12486,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6224002838134766,
+            "compression_ratio": 0.9206349206349206,
+            "no_speech_prob": 0.013081865385174751
+        }
+    ],
+    "language": "en"
+}

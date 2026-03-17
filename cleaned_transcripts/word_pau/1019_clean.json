@@ -1,0 +1,51 @@
+{
+    "text": " I apologise, but we're currently out of stock. On that item.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.48,
+            "text": " I apologise, but we're currently out of stock.",
+            "tokens": [
+                50364,
+                286,
+                50128,
+                11,
+                457,
+                321,
+                434,
+                4362,
+                484,
+                295,
+                4127,
+                13,
+                50738
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5316869735717773,
+            "compression_ratio": 0.8955223880597015,
+            "no_speech_prob": 0.007733756210654974
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.48,
+            "end": 8.32,
+            "text": " On that item.",
+            "tokens": [
+                50738,
+                1282,
+                300,
+                3174,
+                13,
+                50780
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5316869735717773,
+            "compression_ratio": 0.8955223880597015,
+            "no_speech_prob": 0.007733756210654974
+        }
+    ],
+    "language": "en"
+}

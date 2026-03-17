@@ -1,0 +1,46 @@
+{
+    "text": " The latest software update includes enhanced. Security features.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.5,
+            "text": " The latest software update includes enhanced.",
+            "tokens": [
+                50364,
+                440,
+                6792,
+                4722,
+                5623,
+                5974,
+                21191,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6372419357299804,
+            "compression_ratio": 0.9552238805970149,
+            "no_speech_prob": 0.002327854046598077
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.3,
+            "end": 7.6000000000000005,
+            "text": " Security features.",
+            "tokens": [
+                50679,
+                11164,
+                4122,
+                13,
+                50744
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6372419357299804,
+            "compression_ratio": 0.9552238805970149,
+            "no_speech_prob": 0.002327854046598077
+        }
+    ],
+    "language": "en"
+}

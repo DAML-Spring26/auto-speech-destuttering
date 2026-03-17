@@ -1,0 +1,47 @@
+{
+    "text": " The professor's lecture on... Quantum mechanics was fascinating.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " The professor's lecture on...",
+            "tokens": [
+                50364,
+                440,
+                8304,
+                311,
+                7991,
+                322,
+                485,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7298028469085693,
+            "compression_ratio": 0.9411764705882353,
+            "no_speech_prob": 0.005643866956233978
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.84,
+            "end": 7.0,
+            "text": " Quantum mechanics was fascinating.",
+            "tokens": [
+                50606,
+                44964,
+                12939,
+                390,
+                10343,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7298028469085693,
+            "compression_ratio": 0.9411764705882353,
+            "no_speech_prob": 0.005643866956233978
+        }
+    ],
+    "language": "en"
+}

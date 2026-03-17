@@ -1,0 +1,55 @@
+{
+    "text": " The new employee benefits package, which includes improved healthcare options, will be announced and announced soon.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.84,
+            "text": " The new employee benefits package, which includes improved healthcare options, will be announced",
+            "tokens": [
+                50364,
+                440,
+                777,
+                10738,
+                5311,
+                7372,
+                11,
+                597,
+                5974,
+                9689,
+                8884,
+                3956,
+                11,
+                486,
+                312,
+                7548,
+                50706
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3206061124801636,
+            "compression_ratio": 1.1958762886597938,
+            "no_speech_prob": 0.003576914081349969
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.84,
+            "end": 7.84,
+            "text": " and announced soon.",
+            "tokens": [
+                50706,
+                293,
+                7548,
+                2321,
+                13,
+                50756
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3206061124801636,
+            "compression_ratio": 1.1958762886597938,
+            "no_speech_prob": 0.003576914081349969
+        }
+    ],
+    "language": "en"
+}

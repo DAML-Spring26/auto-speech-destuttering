@@ -1,0 +1,49 @@
+{
+    "text": " I apologize, but this product is... Currently out of stock.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.36,
+            "text": " I apologize, but this product is...",
+            "tokens": [
+                50364,
+                286,
+                12328,
+                11,
+                457,
+                341,
+                1674,
+                307,
+                485,
+                50532
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6494519445631239,
+            "compression_ratio": 0.8939393939393939,
+            "no_speech_prob": 0.009731723926961422
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.16,
+            "end": 7.84,
+            "text": " Currently out of stock.",
+            "tokens": [
+                50672,
+                19964,
+                484,
+                295,
+                4127,
+                13,
+                50756
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6494519445631239,
+            "compression_ratio": 0.8939393939393939,
+            "no_speech_prob": 0.009731723926961422
+        }
+    ],
+    "language": "en"
+}

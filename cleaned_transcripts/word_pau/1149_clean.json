@@ -1,0 +1,47 @@
+{
+    "text": " The company's financial report exceeded. Investor expectations.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.0,
+            "text": " The company's financial report exceeded.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                4669,
+                2275,
+                38026,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.46867653727531433,
+            "compression_ratio": 0.9264705882352942,
+            "no_speech_prob": 0.009083683602511883
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.0,
+            "end": 6.0,
+            "text": " Investor expectations.",
+            "tokens": [
+                50564,
+                14008,
+                284,
+                9843,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.46867653727531433,
+            "compression_ratio": 0.9264705882352942,
+            "no_speech_prob": 0.009083683602511883
+        }
+    ],
+    "language": "en"
+}

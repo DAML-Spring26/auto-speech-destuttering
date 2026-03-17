@@ -1,0 +1,46 @@
+{
+    "text": " We need to improve our internal communication channels. The",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.0,
+            "text": " We need to improve our internal communication channels.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                3470,
+                527,
+                6920,
+                6101,
+                9235,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40083017349243166,
+            "compression_ratio": 0.9516129032258065,
+            "no_speech_prob": 0.04285602644085884
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.0,
+            "end": 5.0,
+            "text": " The",
+            "tokens": [
+                50564,
+                440,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40083017349243166,
+            "compression_ratio": 0.9516129032258065,
+            "no_speech_prob": 0.04285602644085884
+        }
+    ],
+    "language": "en"
+}

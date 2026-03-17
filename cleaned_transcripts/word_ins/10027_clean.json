@@ -1,0 +1,48 @@
+{
+    "text": " The surgery is scheduled for you now. Next Tuesday morning.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.48,
+            "text": " The surgery is scheduled for you now.",
+            "tokens": [
+                50364,
+                440,
+                7930,
+                307,
+                15678,
+                337,
+                291,
+                586,
+                13,
+                50538
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5359793270335478,
+            "compression_ratio": 0.9076923076923077,
+            "no_speech_prob": 0.04900343716144562
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.48,
+            "end": 5.48,
+            "text": " Next Tuesday morning.",
+            "tokens": [
+                50538,
+                3087,
+                10017,
+                2446,
+                13,
+                50638
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5359793270335478,
+            "compression_ratio": 0.9076923076923077,
+            "no_speech_prob": 0.04900343716144562
+        }
+    ],
+    "language": "en"
+}

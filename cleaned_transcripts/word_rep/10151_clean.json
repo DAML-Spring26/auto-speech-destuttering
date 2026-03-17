@@ -1,0 +1,55 @@
+{
+    "text": " The new safety regulations which aim to reduce workplace accidents will be enforced. Enforce next month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.62,
+            "text": " The new safety regulations which aim to reduce workplace accidents will be enforced.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                4514,
+                12563,
+                597,
+                5939,
+                281,
+                5407,
+                15328,
+                23875,
+                486,
+                312,
+                40953,
+                13,
+                50645
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.422995924949646,
+            "compression_ratio": 1.118279569892473,
+            "no_speech_prob": 0.003650023601949215
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.62,
+            "end": 6.62,
+            "text": " Enforce next month.",
+            "tokens": [
+                50645,
+                2193,
+                5156,
+                958,
+                1618,
+                13,
+                50695
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.422995924949646,
+            "compression_ratio": 1.118279569892473,
+            "no_speech_prob": 0.003650023601949215
+        }
+    ],
+    "language": "en"
+}

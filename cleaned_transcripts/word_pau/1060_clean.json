@@ -1,0 +1,50 @@
+{
+    "text": " which type of cuisine would you like to try for? Dinner tonight.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.0,
+            "text": " which type of cuisine would you like to try for?",
+            "tokens": [
+                50364,
+                597,
+                2010,
+                295,
+                25257,
+                576,
+                291,
+                411,
+                281,
+                853,
+                337,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6004217047440378,
+            "compression_ratio": 0.9411764705882353,
+            "no_speech_prob": 0.007181908469647169
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.76,
+            "end": 6.76,
+            "text": " Dinner tonight.",
+            "tokens": [
+                50652,
+                46678,
+                4440,
+                13,
+                50702
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6004217047440378,
+            "compression_ratio": 0.9411764705882353,
+            "no_speech_prob": 0.007181908469647169
+        }
+    ],
+    "language": "en"
+}

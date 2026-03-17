@@ -1,0 +1,46 @@
+{
+    "text": " Which restaurant would you prefer for? Dinner tonight?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " Which restaurant would you prefer for?",
+            "tokens": [
+                50364,
+                3013,
+                6383,
+                576,
+                291,
+                4382,
+                337,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5628002166748047,
+            "compression_ratio": 0.9,
+            "no_speech_prob": 0.00863904133439064
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.74,
+            "end": 5.74,
+            "text": " Dinner tonight?",
+            "tokens": [
+                50601,
+                46678,
+                4440,
+                30,
+                50651
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5628002166748047,
+            "compression_ratio": 0.9,
+            "no_speech_prob": 0.00863904133439064
+        }
+    ],
+    "language": "en"
+}

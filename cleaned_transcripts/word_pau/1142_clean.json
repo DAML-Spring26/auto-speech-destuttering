@@ -1,0 +1,47 @@
+{
+    "text": " Would you like whipped cream on? Or hot chocolate?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " Would you like whipped cream on?",
+            "tokens": [
+                50364,
+                6068,
+                291,
+                411,
+                27918,
+                4689,
+                322,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5641693472862244,
+            "compression_ratio": 0.8620689655172413,
+            "no_speech_prob": 0.008329213596880436
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.12,
+            "end": 7.12,
+            "text": " Or hot chocolate?",
+            "tokens": [
+                50620,
+                1610,
+                2368,
+                6215,
+                30,
+                50720
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5641693472862244,
+            "compression_ratio": 0.8620689655172413,
+            "no_speech_prob": 0.008329213596880436
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,50 @@
+{
+    "text": " Have you seen my keys? I can't well find them anywhere.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.0,
+            "text": " Have you seen my keys?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                1612,
+                452,
+                9317,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3381851346869218,
+            "compression_ratio": 0.873015873015873,
+            "no_speech_prob": 0.21392668783664703
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.0,
+            "end": 7.0,
+            "text": " I can't well find them anywhere.",
+            "tokens": [
+                50514,
+                286,
+                393,
+                380,
+                731,
+                915,
+                552,
+                4992,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3381851346869218,
+            "compression_ratio": 0.873015873015873,
+            "no_speech_prob": 0.21392668783664703
+        }
+    ],
+    "language": "en"
+}

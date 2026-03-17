@@ -1,0 +1,47 @@
+{
+    "text": " I love watching action. Moves is on weekends.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.16,
+            "text": " I love watching action.",
+            "tokens": [
+                50364,
+                286,
+                959,
+                1976,
+                3069,
+                13,
+                50522
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5292579531669617,
+            "compression_ratio": 0.8653846153846154,
+            "no_speech_prob": 0.01344799529761076
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.16,
+            "end": 4.44,
+            "text": " Moves is on weekends.",
+            "tokens": [
+                50522,
+                3335,
+                977,
+                307,
+                322,
+                23595,
+                13,
+                50586
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5292579531669617,
+            "compression_ratio": 0.8653846153846154,
+            "no_speech_prob": 0.01344799529761076
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,49 @@
+{
+    "text": " We need to discuss the upcoming product launch strategy. You know...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.0,
+            "text": " We need to discuss the upcoming product launch strategy.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                2248,
+                264,
+                11500,
+                1674,
+                4025,
+                5206,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3133358955383301,
+            "compression_ratio": 0.9855072463768116,
+            "no_speech_prob": 0.06080241501331329
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.0,
+            "end": 6.0,
+            "text": " You know...",
+            "tokens": [
+                50614,
+                509,
+                458,
+                485,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3133358955383301,
+            "compression_ratio": 0.9855072463768116,
+            "no_speech_prob": 0.06080241501331329
+        }
+    ],
+    "language": "en"
+}

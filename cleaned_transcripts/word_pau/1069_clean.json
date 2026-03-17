@@ -1,0 +1,49 @@
+{
+    "text": " What's your interpretation of? The symbolic elements in the painting.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.0,
+            "text": " What's your interpretation of?",
+            "tokens": [
+                50364,
+                708,
+                311,
+                428,
+                14174,
+                295,
+                30,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4835821787516276,
+            "compression_ratio": 0.9324324324324325,
+            "no_speech_prob": 0.00626640347763896
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.0,
+            "end": 10.0,
+            "text": " The symbolic elements in the painting.",
+            "tokens": [
+                50614,
+                440,
+                25755,
+                4959,
+                294,
+                264,
+                5370,
+                13,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4835821787516276,
+            "compression_ratio": 0.9324324324324325,
+            "no_speech_prob": 0.00626640347763896
+        }
+    ],
+    "language": "en"
+}

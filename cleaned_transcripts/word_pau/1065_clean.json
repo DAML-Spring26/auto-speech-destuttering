@@ -1,0 +1,44 @@
+{
+    "text": " just adopted there. cutest puppy ever.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.32,
+            "text": " just adopted there.",
+            "tokens": [
+                50364,
+                445,
+                12175,
+                456,
+                13,
+                50580
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8637378399188702,
+            "compression_ratio": 0.8444444444444444,
+            "no_speech_prob": 0.006863689981400967
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.32,
+            "end": 6.32,
+            "text": " cutest puppy ever.",
+            "tokens": [
+                50580,
+                46582,
+                18196,
+                1562,
+                13,
+                50680
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8637378399188702,
+            "compression_ratio": 0.8444444444444444,
+            "no_speech_prob": 0.006863689981400967
+        }
+    ],
+    "language": "en"
+}

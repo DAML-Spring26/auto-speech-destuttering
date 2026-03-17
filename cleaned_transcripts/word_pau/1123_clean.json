@@ -1,0 +1,46 @@
+{
+    "text": " Could you please pass the salad? Dressing?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " Could you please pass the salad?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                1320,
+                264,
+                12604,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5674486796061198,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.015601573511958122
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.6,
+            "end": 4.6000000000000005,
+            "text": " Dressing?",
+            "tokens": [
+                50544,
+                413,
+                18605,
+                30,
+                50594
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5674486796061198,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.015601573511958122
+        }
+    ],
+    "language": "en"
+}

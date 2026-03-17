@@ -1,0 +1,49 @@
+{
+    "text": " What's on rev? Movie would you like to watch tonight?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " What's on rev?",
+            "tokens": [
+                50364,
+                708,
+                311,
+                322,
+                3698,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6358435418870714,
+            "compression_ratio": 0.8983050847457628,
+            "no_speech_prob": 0.027900421991944313
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.8,
+            "end": 6.8,
+            "text": " Movie would you like to watch tonight?",
+            "tokens": [
+                50604,
+                28766,
+                576,
+                291,
+                411,
+                281,
+                1159,
+                4440,
+                30,
+                50704
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6358435418870714,
+            "compression_ratio": 0.8983050847457628,
+            "no_speech_prob": 0.027900421991944313
+        }
+    ],
+    "language": "en"
+}

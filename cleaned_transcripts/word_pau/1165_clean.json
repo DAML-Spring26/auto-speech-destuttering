@@ -1,0 +1,47 @@
+{
+    "text": " The new operating system features improved battery. Optimization.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.0,
+            "text": " The new operating system features improved battery.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                7447,
+                1185,
+                4122,
+                9689,
+                5809,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.579804003238678,
+            "compression_ratio": 0.9285714285714286,
+            "no_speech_prob": 0.0018457823898643255
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.0,
+            "end": 9.0,
+            "text": " Optimization.",
+            "tokens": [
+                50714,
+                35013,
+                2144,
+                13,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.579804003238678,
+            "compression_ratio": 0.9285714285714286,
+            "no_speech_prob": 0.0018457823898643255
+        }
+    ],
+    "language": "en"
+}

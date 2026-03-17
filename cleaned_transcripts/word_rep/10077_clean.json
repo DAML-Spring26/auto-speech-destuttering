@@ -1,0 +1,52 @@
+{
+    "text": " Can you explain the potential benefits and risks of implementing this? This new technology?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.96,
+            "text": " Can you explain the potential benefits and risks of implementing this?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                2903,
+                264,
+                3995,
+                5311,
+                293,
+                10888,
+                295,
+                18114,
+                341,
+                30,
+                50612
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.352398985908145,
+            "compression_ratio": 1.0705882352941176,
+            "no_speech_prob": 0.003721172222867608
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.96,
+            "end": 6.640000000000001,
+            "text": " This new technology?",
+            "tokens": [
+                50612,
+                639,
+                777,
+                2899,
+                30,
+                50696
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.352398985908145,
+            "compression_ratio": 1.0705882352941176,
+            "no_speech_prob": 0.003721172222867608
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,47 @@
+{
+    "text": " What time does it up gallery? Close on Sundays.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " What time does it up gallery?",
+            "tokens": [
+                50364,
+                708,
+                565,
+                775,
+                309,
+                493,
+                18378,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5599465370178223,
+            "compression_ratio": 0.8545454545454545,
+            "no_speech_prob": 0.005190797615796328
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.1,
+            "end": 6.1000000000000005,
+            "text": " Close on Sundays.",
+            "tokens": [
+                50569,
+                16346,
+                322,
+                44857,
+                13,
+                50669
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5599465370178223,
+            "compression_ratio": 0.8545454545454545,
+            "no_speech_prob": 0.005190797615796328
+        }
+    ],
+    "language": "en"
+}

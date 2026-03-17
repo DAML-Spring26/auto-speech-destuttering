@@ -1,0 +1,49 @@
+{
+    "text": " If you smell gas, open. All windows and doors immediately.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " If you smell gas, open.",
+            "tokens": [
+                50364,
+                759,
+                291,
+                4316,
+                4211,
+                11,
+                1269,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5299223793877496,
+            "compression_ratio": 0.90625,
+            "no_speech_prob": 0.00527986278757453
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.5,
+            "end": 5.5,
+            "text": " All windows and doors immediately.",
+            "tokens": [
+                50539,
+                1057,
+                9309,
+                293,
+                8077,
+                4258,
+                13,
+                50639
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5299223793877496,
+            "compression_ratio": 0.90625,
+            "no_speech_prob": 0.00527986278757453
+        }
+    ],
+    "language": "en"
+}

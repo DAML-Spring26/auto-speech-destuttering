@@ -1,0 +1,51 @@
+{
+    "text": " Can you explain the difference? Well, between mitosis and meiosis.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.0,
+            "text": " Can you explain the difference?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                2903,
+                264,
+                2649,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3266772985458374,
+            "compression_ratio": 0.9295774647887324,
+            "no_speech_prob": 0.243135005235672
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.0,
+            "end": 7.0,
+            "text": " Well, between mitosis and meiosis.",
+            "tokens": [
+                50564,
+                1042,
+                11,
+                1296,
+                2194,
+                8211,
+                293,
+                385,
+                48783,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3266772985458374,
+            "compression_ratio": 0.9295774647887324,
+            "no_speech_prob": 0.243135005235672
+        }
+    ],
+    "language": "en"
+}

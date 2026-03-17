@@ -1,0 +1,48 @@
+{
+    "text": " which genre of books do you enjoy? Reading the most.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " which genre of books do you enjoy?",
+            "tokens": [
+                50364,
+                597,
+                11022,
+                295,
+                3642,
+                360,
+                291,
+                2103,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5585370905259076,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.012833592481911182
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.0,
+            "end": 5.0,
+            "text": " Reading the most.",
+            "tokens": [
+                50564,
+                29766,
+                264,
+                881,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5585370905259076,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.012833592481911182
+        }
+    ],
+    "language": "en"
+}

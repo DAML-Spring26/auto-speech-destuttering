@@ -1,0 +1,46 @@
+{
+    "text": " Call 911 immediately. If you see any suspicious.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.24,
+            "text": " Call 911 immediately.",
+            "tokens": [
+                50364,
+                7807,
+                26901,
+                4258,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7111654281616211,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.029492614790797234
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.48,
+            "end": 6.72,
+            "text": " If you see any suspicious.",
+            "tokens": [
+                50588,
+                759,
+                291,
+                536,
+                604,
+                17931,
+                13,
+                50700
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7111654281616211,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.029492614790797234
+        }
+    ],
+    "language": "en"
+}

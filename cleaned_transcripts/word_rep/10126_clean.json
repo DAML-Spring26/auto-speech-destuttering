@@ -1,0 +1,50 @@
+{
+    "text": " The new employee orientation program will be conducted virtually due to current circumstances.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.2,
+            "text": " The new employee orientation program will be conducted",
+            "tokens": [
+                50364,
+                440,
+                777,
+                10738,
+                14764,
+                1461,
+                486,
+                312,
+                13809,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4550412830553557,
+            "compression_ratio": 1.119047619047619,
+            "no_speech_prob": 0.00230599706992507
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.2,
+            "end": 6.36,
+            "text": " virtually due to current circumstances.",
+            "tokens": [
+                50524,
+                14103,
+                3462,
+                281,
+                2190,
+                9121,
+                13,
+                50682
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4550412830553557,
+            "compression_ratio": 1.119047619047619,
+            "no_speech_prob": 0.00230599706992507
+        }
+    ],
+    "language": "en"
+}

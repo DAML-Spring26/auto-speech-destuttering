@@ -1,0 +1,50 @@
+{
+    "text": " Could you please provide a well? Detailed breakdown of the expenses.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.0,
+            "text": " Could you please provide a well?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                2893,
+                257,
+                731,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3186031642713045,
+            "compression_ratio": 0.9714285714285714,
+            "no_speech_prob": 0.11224635690450668
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.0,
+            "end": 7.0,
+            "text": " Detailed breakdown of the expenses.",
+            "tokens": [
+                50564,
+                4237,
+                24731,
+                18188,
+                295,
+                264,
+                15506,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3186031642713045,
+            "compression_ratio": 0.9714285714285714,
+            "no_speech_prob": 0.11224635690450668
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,53 @@
+{
+    "text": " The new software update, which includes several security enhancements, will be released release soon",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.92,
+            "text": " The new software update, which includes several security enhancements, will be released",
+            "tokens": [
+                50364,
+                440,
+                777,
+                4722,
+                5623,
+                11,
+                597,
+                5974,
+                2940,
+                3825,
+                11985,
+                1117,
+                11,
+                486,
+                312,
+                4736,
+                50660
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21812097649825246,
+            "compression_ratio": 1.0875,
+            "no_speech_prob": 0.005035684909671545
+        },
+        {
+            "id": 1,
+            "seek": 592,
+            "start": 5.92,
+            "end": 8.06,
+            "text": " release soon",
+            "tokens": [
+                50367,
+                4374,
+                2321,
+                50471
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.353748321533203,
+            "compression_ratio": 0.6,
+            "no_speech_prob": 0.5554807186126709
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,51 @@
+{
+    "text": " The study found a strong correlation between regular exercise and an improvement mental health.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.84,
+            "text": " The study found a strong correlation between regular exercise and",
+            "tokens": [
+                50364,
+                440,
+                2979,
+                1352,
+                257,
+                2068,
+                20009,
+                1296,
+                3890,
+                5380,
+                293,
+                50556
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25934156349727083,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.0033958940766751766
+        },
+        {
+            "id": 1,
+            "seek": 384,
+            "start": 3.84,
+            "end": 5.84,
+            "text": " an improvement mental health.",
+            "tokens": [
+                50364,
+                364,
+                10444,
+                4973,
+                1585,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8935762643814087,
+            "compression_ratio": 0.8529411764705882,
+            "no_speech_prob": 0.11395370215177536
+        }
+    ],
+    "language": "en"
+}

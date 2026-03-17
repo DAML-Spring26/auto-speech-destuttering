@@ -1,0 +1,56 @@
+{
+    "text": " Your room is on the third floor and breakfast is served from 7 to 10 am. You know.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.0,
+            "text": " Your room is on the third floor and breakfast is served from 7 to 10 am.",
+            "tokens": [
+                50364,
+                2260,
+                1808,
+                307,
+                322,
+                264,
+                2636,
+                4123,
+                293,
+                8201,
+                307,
+                7584,
+                490,
+                1614,
+                281,
+                1266,
+                669,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2914772605895996,
+            "compression_ratio": 1.0512820512820513,
+            "no_speech_prob": 0.12728211283683777
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.0,
+            "end": 9.0,
+            "text": " You know.",
+            "tokens": [
+                50714,
+                509,
+                458,
+                13,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2914772605895996,
+            "compression_ratio": 1.0512820512820513,
+            "no_speech_prob": 0.12728211283683777
+        }
+    ],
+    "language": "en"
+}
