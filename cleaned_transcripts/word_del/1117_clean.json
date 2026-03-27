@@ -1,33 +1,25 @@
 {
-    "text": " The weather forecast was sunny, it ended up raining all day.",
+    "text": " The weather, rainy.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 3.6,
-            "text": " The weather forecast was sunny, it ended up raining all day.",
+            "end": 1.0,
+            "text": " The weather, rainy.",
             "tokens": [
                 50364,
                 440,
                 5503,
-                14330,
-                390,
-                20412,
                 11,
-                309,
-                4590,
-                493,
-                18441,
-                439,
-                786,
+                27181,
                 13,
-                50544
+                50414
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.27461034059524536,
-            "compression_ratio": 0.9375,
-            "no_speech_prob": 0.001300067757256329
+            "avg_logprob": -0.7211223840713501,
+            "compression_ratio": 0.7037037037037037,
+            "no_speech_prob": 0.07752279937267303
         }
     ],
     "language": "en"

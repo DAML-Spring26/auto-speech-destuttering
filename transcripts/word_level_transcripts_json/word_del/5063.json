@@ -1,0 +1,110 @@
+{
+    "text": " The hotel receptionist informed us our room would be ready by 3pm.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.94,
+            "text": " The hotel receptionist informed us our room would be ready by 3pm.",
+            "tokens": [
+                50364,
+                440,
+                7622,
+                21682,
+                468,
+                11740,
+                505,
+                527,
+                1808,
+                576,
+                312,
+                1919,
+                538,
+                805,
+                14395,
+                13,
+                50572
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24917591942681205,
+            "compression_ratio": 0.9428571428571428,
+            "no_speech_prob": 0.007999706082046032,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8460515737533569
+                },
+                {
+                    "word": " hotel",
+                    "start": 0.12,
+                    "end": 0.42,
+                    "probability": 0.8882318139076233
+                },
+                {
+                    "word": " receptionist",
+                    "start": 0.42,
+                    "end": 1.36,
+                    "probability": 0.9605193138122559
+                },
+                {
+                    "word": " informed",
+                    "start": 1.36,
+                    "end": 1.74,
+                    "probability": 0.9827629327774048
+                },
+                {
+                    "word": " us",
+                    "start": 1.74,
+                    "end": 2.0,
+                    "probability": 0.9986366629600525
+                },
+                {
+                    "word": " our",
+                    "start": 2.0,
+                    "end": 2.16,
+                    "probability": 0.9112391471862793
+                },
+                {
+                    "word": " room",
+                    "start": 2.16,
+                    "end": 2.36,
+                    "probability": 0.9982184767723083
+                },
+                {
+                    "word": " would",
+                    "start": 2.36,
+                    "end": 2.5,
+                    "probability": 0.987625777721405
+                },
+                {
+                    "word": " be",
+                    "start": 2.5,
+                    "end": 2.62,
+                    "probability": 0.9944254159927368
+                },
+                {
+                    "word": " ready",
+                    "start": 2.62,
+                    "end": 2.9,
+                    "probability": 0.9737734198570251
+                },
+                {
+                    "word": " by",
+                    "start": 2.9,
+                    "end": 3.2,
+                    "probability": 0.9935778379440308
+                },
+                {
+                    "word": " 3pm.",
+                    "start": 3.2,
+                    "end": 3.94,
+                    "probability": 0.722070574760437
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

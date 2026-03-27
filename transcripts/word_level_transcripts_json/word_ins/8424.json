@@ -1,0 +1,134 @@
+{
+    "text": " The literature review should cover all like. Relevant studies from the past decade.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.1,
+            "text": " The literature review should cover all like.",
+            "tokens": [
+                50364,
+                440,
+                10394,
+                3131,
+                820,
+                2060,
+                439,
+                411,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3048677898588635,
+            "compression_ratio": 1.077922077922078,
+            "no_speech_prob": 0.06623126566410065,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 1.0,
+                    "probability": 0.8765942454338074
+                },
+                {
+                    "word": " literature",
+                    "start": 1.0,
+                    "end": 1.42,
+                    "probability": 0.817062497138977
+                },
+                {
+                    "word": " review",
+                    "start": 1.42,
+                    "end": 1.84,
+                    "probability": 0.9907400608062744
+                },
+                {
+                    "word": " should",
+                    "start": 1.84,
+                    "end": 2.18,
+                    "probability": 0.9980023503303528
+                },
+                {
+                    "word": " cover",
+                    "start": 2.18,
+                    "end": 2.48,
+                    "probability": 0.9981203675270081
+                },
+                {
+                    "word": " all",
+                    "start": 2.48,
+                    "end": 2.76,
+                    "probability": 0.9906749129295349
+                },
+                {
+                    "word": " like.",
+                    "start": 2.76,
+                    "end": 3.1,
+                    "probability": 0.6667933464050293
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.28,
+            "end": 6.58,
+            "text": " Relevant studies from the past decade.",
+            "tokens": [
+                50564,
+                1300,
+                25638,
+                5313,
+                490,
+                264,
+                1791,
+                10378,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3048677898588635,
+            "compression_ratio": 1.077922077922078,
+            "no_speech_prob": 0.06623126566410065,
+            "words": [
+                {
+                    "word": " Relevant",
+                    "start": 4.28,
+                    "end": 4.96,
+                    "probability": 0.874750554561615
+                },
+                {
+                    "word": " studies",
+                    "start": 4.96,
+                    "end": 5.44,
+                    "probability": 0.9815565347671509
+                },
+                {
+                    "word": " from",
+                    "start": 5.44,
+                    "end": 5.68,
+                    "probability": 0.9940145611763
+                },
+                {
+                    "word": " the",
+                    "start": 5.68,
+                    "end": 5.82,
+                    "probability": 0.9924272894859314
+                },
+                {
+                    "word": " past",
+                    "start": 5.82,
+                    "end": 6.12,
+                    "probability": 0.9959710240364075
+                },
+                {
+                    "word": " decade.",
+                    "start": 6.12,
+                    "end": 6.58,
+                    "probability": 0.9970513582229614
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

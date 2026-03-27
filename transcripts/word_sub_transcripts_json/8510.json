@@ -1,0 +1,117 @@
+{
+    "text": " She's allergic to shellfish so we need to be careful with the venue.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.14,
+            "text": " She's allergic to shellfish so we need to be careful with the venue.",
+            "tokens": [
+                50364,
+                1240,
+                311,
+                31606,
+                281,
+                8720,
+                11608,
+                370,
+                321,
+                643,
+                281,
+                312,
+                5026,
+                365,
+                264,
+                21645,
+                13,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2369924595481471,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.003815264906734228,
+            "words": [
+                {
+                    "word": " She's",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.8308632671833038
+                },
+                {
+                    "word": " allergic",
+                    "start": 0.26,
+                    "end": 0.54,
+                    "probability": 0.9683935046195984
+                },
+                {
+                    "word": " to",
+                    "start": 0.54,
+                    "end": 0.86,
+                    "probability": 0.9956554174423218
+                },
+                {
+                    "word": " shellfish",
+                    "start": 0.86,
+                    "end": 1.28,
+                    "probability": 0.9783423244953156
+                },
+                {
+                    "word": " so",
+                    "start": 1.28,
+                    "end": 1.84,
+                    "probability": 0.45047226548194885
+                },
+                {
+                    "word": " we",
+                    "start": 1.84,
+                    "end": 1.98,
+                    "probability": 0.9888202548027039
+                },
+                {
+                    "word": " need",
+                    "start": 1.98,
+                    "end": 2.06,
+                    "probability": 0.9911887645721436
+                },
+                {
+                    "word": " to",
+                    "start": 2.06,
+                    "end": 2.2,
+                    "probability": 0.9911509156227112
+                },
+                {
+                    "word": " be",
+                    "start": 2.2,
+                    "end": 2.28,
+                    "probability": 0.9954663515090942
+                },
+                {
+                    "word": " careful",
+                    "start": 2.28,
+                    "end": 2.6,
+                    "probability": 0.9967175126075745
+                },
+                {
+                    "word": " with",
+                    "start": 2.6,
+                    "end": 2.8,
+                    "probability": 0.9818068742752075
+                },
+                {
+                    "word": " the",
+                    "start": 2.8,
+                    "end": 2.88,
+                    "probability": 0.9958837628364563
+                },
+                {
+                    "word": " venue.",
+                    "start": 2.88,
+                    "end": 3.14,
+                    "probability": 0.9460271596908569
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

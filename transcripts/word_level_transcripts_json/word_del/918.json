@@ -1,0 +1,94 @@
+{
+    "text": " She always checks email before going to bed at night.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.64,
+            "text": " She always checks email before going to bed at night.",
+            "tokens": [
+                50364,
+                1240,
+                1009,
+                13834,
+                3796,
+                949,
+                516,
+                281,
+                2901,
+                412,
+                1818,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3069664750780378,
+            "compression_ratio": 0.8983050847457628,
+            "no_speech_prob": 0.001203310675919056,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.8961901664733887
+                },
+                {
+                    "word": " always",
+                    "start": 0.18,
+                    "end": 0.5,
+                    "probability": 0.9901738166809082
+                },
+                {
+                    "word": " checks",
+                    "start": 0.5,
+                    "end": 0.78,
+                    "probability": 0.6038036942481995
+                },
+                {
+                    "word": " email",
+                    "start": 0.78,
+                    "end": 1.12,
+                    "probability": 0.7139620184898376
+                },
+                {
+                    "word": " before",
+                    "start": 1.12,
+                    "end": 1.46,
+                    "probability": 0.9883379340171814
+                },
+                {
+                    "word": " going",
+                    "start": 1.46,
+                    "end": 1.76,
+                    "probability": 0.9930846691131592
+                },
+                {
+                    "word": " to",
+                    "start": 1.76,
+                    "end": 1.96,
+                    "probability": 0.980068564414978
+                },
+                {
+                    "word": " bed",
+                    "start": 1.96,
+                    "end": 2.18,
+                    "probability": 0.9959327578544617
+                },
+                {
+                    "word": " at",
+                    "start": 2.18,
+                    "end": 2.34,
+                    "probability": 0.9895938634872437
+                },
+                {
+                    "word": " night.",
+                    "start": 2.34,
+                    "end": 2.64,
+                    "probability": 0.9969333410263062
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

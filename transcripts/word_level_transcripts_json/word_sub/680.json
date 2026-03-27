@@ -1,0 +1,73 @@
+{
+    "text": " The customer service representative handled complaints progressively.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.16,
+            "text": " The customer service representative handled complaints progressively.",
+            "tokens": [
+                50364,
+                440,
+                5474,
+                2643,
+                12424,
+                18033,
+                19585,
+                46667,
+                13,
+                50534
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4090644663030451,
+            "compression_ratio": 0.9857142857142858,
+            "no_speech_prob": 0.0028590646106749773,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.838198721408844
+                },
+                {
+                    "word": " customer",
+                    "start": 0.12,
+                    "end": 0.44,
+                    "probability": 0.6926191449165344
+                },
+                {
+                    "word": " service",
+                    "start": 0.44,
+                    "end": 0.92,
+                    "probability": 0.9957805871963501
+                },
+                {
+                    "word": " representative",
+                    "start": 0.92,
+                    "end": 1.68,
+                    "probability": 0.888735294342041
+                },
+                {
+                    "word": " handled",
+                    "start": 1.68,
+                    "end": 2.04,
+                    "probability": 0.8023735284805298
+                },
+                {
+                    "word": " complaints",
+                    "start": 2.04,
+                    "end": 2.5,
+                    "probability": 0.9927588701248169
+                },
+                {
+                    "word": " progressively.",
+                    "start": 2.5,
+                    "end": 3.16,
+                    "probability": 0.9662598371505737
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,94 @@
+{
+    "text": " Have you tried turning it off and on it can?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.62,
+            "text": " Have you tried turning it off and on it can?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                3031,
+                6246,
+                309,
+                766,
+                293,
+                322,
+                309,
+                393,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25762951374053955,
+            "compression_ratio": 0.8979591836734694,
+            "no_speech_prob": 0.0071279872208833694,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7380764484405518
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.26,
+                    "probability": 0.9880577325820923
+                },
+                {
+                    "word": " tried",
+                    "start": 0.26,
+                    "end": 0.52,
+                    "probability": 0.9826520681381226
+                },
+                {
+                    "word": " turning",
+                    "start": 0.52,
+                    "end": 0.8,
+                    "probability": 0.9948784112930298
+                },
+                {
+                    "word": " it",
+                    "start": 0.8,
+                    "end": 1.0,
+                    "probability": 0.991804838180542
+                },
+                {
+                    "word": " off",
+                    "start": 1.0,
+                    "end": 1.12,
+                    "probability": 0.951327383518219
+                },
+                {
+                    "word": " and",
+                    "start": 1.12,
+                    "end": 1.24,
+                    "probability": 0.9444094896316528
+                },
+                {
+                    "word": " on",
+                    "start": 1.24,
+                    "end": 1.32,
+                    "probability": 0.9607232809066772
+                },
+                {
+                    "word": " it",
+                    "start": 1.32,
+                    "end": 1.46,
+                    "probability": 0.9877290725708008
+                },
+                {
+                    "word": " can?",
+                    "start": 1.46,
+                    "end": 1.62,
+                    "probability": 0.5614007711410522
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

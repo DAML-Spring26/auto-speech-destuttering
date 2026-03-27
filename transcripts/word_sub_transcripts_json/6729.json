@@ -1,0 +1,88 @@
+{
+    "text": " She's presenting her findings at the conference next month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.54,
+            "text": " She's presenting her findings at the conference next month.",
+            "tokens": [
+                50364,
+                1240,
+                311,
+                15578,
+                720,
+                16483,
+                412,
+                264,
+                7586,
+                958,
+                1618,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3443586826324463,
+            "compression_ratio": 0.9516129032258065,
+            "no_speech_prob": 0.00348292151466012,
+            "words": [
+                {
+                    "word": " She's",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.7024839520454407
+                },
+                {
+                    "word": " presenting",
+                    "start": 0.3,
+                    "end": 0.74,
+                    "probability": 0.9970097541809082
+                },
+                {
+                    "word": " her",
+                    "start": 0.74,
+                    "end": 0.9,
+                    "probability": 0.9968938827514648
+                },
+                {
+                    "word": " findings",
+                    "start": 0.9,
+                    "end": 1.24,
+                    "probability": 0.9981433153152466
+                },
+                {
+                    "word": " at",
+                    "start": 1.24,
+                    "end": 1.44,
+                    "probability": 0.9934052228927612
+                },
+                {
+                    "word": " the",
+                    "start": 1.44,
+                    "end": 1.56,
+                    "probability": 0.9534540772438049
+                },
+                {
+                    "word": " conference",
+                    "start": 1.56,
+                    "end": 1.9,
+                    "probability": 0.564333438873291
+                },
+                {
+                    "word": " next",
+                    "start": 1.9,
+                    "end": 2.26,
+                    "probability": 0.9712950587272644
+                },
+                {
+                    "word": " month.",
+                    "start": 2.26,
+                    "end": 2.54,
+                    "probability": 0.9982324242591858
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

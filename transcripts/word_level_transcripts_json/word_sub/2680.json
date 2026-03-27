@@ -1,0 +1,73 @@
+{
+    "text": " The company will condemn annual performance reviews.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.62,
+            "text": " The company will condemn annual performance reviews.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                486,
+                30733,
+                9784,
+                3389,
+                10229,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3263297514481978,
+            "compression_ratio": 0.896551724137931,
+            "no_speech_prob": 0.004381841979920864,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.7596218585968018
+                },
+                {
+                    "word": " company",
+                    "start": 0.08,
+                    "end": 0.46,
+                    "probability": 0.9743773937225342
+                },
+                {
+                    "word": " will",
+                    "start": 0.46,
+                    "end": 0.74,
+                    "probability": 0.9877439141273499
+                },
+                {
+                    "word": " condemn",
+                    "start": 0.74,
+                    "end": 1.1,
+                    "probability": 0.9935159683227539
+                },
+                {
+                    "word": " annual",
+                    "start": 1.1,
+                    "end": 1.52,
+                    "probability": 0.8812544345855713
+                },
+                {
+                    "word": " performance",
+                    "start": 1.52,
+                    "end": 2.04,
+                    "probability": 0.9851539731025696
+                },
+                {
+                    "word": " reviews.",
+                    "start": 2.04,
+                    "end": 2.62,
+                    "probability": 0.991199791431427
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,87 @@
+{
+    "text": " How may I assist you with your amount today?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.86,
+            "text": " How may I assist you with your amount today?",
+            "tokens": [
+                50364,
+                1012,
+                815,
+                286,
+                4255,
+                291,
+                365,
+                428,
+                2372,
+                965,
+                30,
+                50472
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4308642240671011,
+            "compression_ratio": 0.8979591836734694,
+            "no_speech_prob": 0.00960099883377552,
+            "words": [
+                {
+                    "word": " How",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.5831798911094666
+                },
+                {
+                    "word": " may",
+                    "start": 0.2,
+                    "end": 0.32,
+                    "probability": 0.8985047936439514
+                },
+                {
+                    "word": " I",
+                    "start": 0.32,
+                    "end": 0.52,
+                    "probability": 0.9515941739082336
+                },
+                {
+                    "word": " assist",
+                    "start": 0.52,
+                    "end": 0.8,
+                    "probability": 0.984207272529602
+                },
+                {
+                    "word": " you",
+                    "start": 0.8,
+                    "end": 1.06,
+                    "probability": 0.9952185750007629
+                },
+                {
+                    "word": " with",
+                    "start": 1.06,
+                    "end": 1.2,
+                    "probability": 0.9959490299224854
+                },
+                {
+                    "word": " your",
+                    "start": 1.2,
+                    "end": 1.32,
+                    "probability": 0.9780802726745605
+                },
+                {
+                    "word": " amount",
+                    "start": 1.32,
+                    "end": 1.54,
+                    "probability": 0.13528907299041748
+                },
+                {
+                    "word": " today?",
+                    "start": 1.54,
+                    "end": 1.86,
+                    "probability": 0.9900628924369812
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

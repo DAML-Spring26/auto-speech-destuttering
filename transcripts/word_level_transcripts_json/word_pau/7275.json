@@ -1,0 +1,80 @@
+{
+    "text": " The concert was cancelled due to bad weather.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.14,
+            "text": " The concert was cancelled due to bad weather.",
+            "tokens": [
+                50364,
+                440,
+                8543,
+                390,
+                25103,
+                3462,
+                281,
+                1578,
+                5503,
+                13,
+                50636
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4034725824991862,
+            "compression_ratio": 0.8823529411764706,
+            "no_speech_prob": 0.00868417602032423,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7137720584869385
+                },
+                {
+                    "word": " concert",
+                    "start": 0.12,
+                    "end": 0.52,
+                    "probability": 0.9516705870628357
+                },
+                {
+                    "word": " was",
+                    "start": 0.52,
+                    "end": 0.76,
+                    "probability": 0.9970381259918213
+                },
+                {
+                    "word": " cancelled",
+                    "start": 0.76,
+                    "end": 1.26,
+                    "probability": 0.6144082546234131
+                },
+                {
+                    "word": " due",
+                    "start": 1.26,
+                    "end": 1.54,
+                    "probability": 0.9952432513237
+                },
+                {
+                    "word": " to",
+                    "start": 1.54,
+                    "end": 1.88,
+                    "probability": 0.9965770840644836
+                },
+                {
+                    "word": " bad",
+                    "start": 1.88,
+                    "end": 4.68,
+                    "probability": 0.769819438457489
+                },
+                {
+                    "word": " weather.",
+                    "start": 4.68,
+                    "end": 5.14,
+                    "probability": 0.9997805953025818
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,59 @@
+{
+    "text": " The concept was displayed significantly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.76,
+            "text": " The concept was displayed significantly.",
+            "tokens": [
+                50364,
+                440,
+                3410,
+                390,
+                16372,
+                10591,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.447296937306722,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.014891917817294598,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7664567232131958
+                },
+                {
+                    "word": " concept",
+                    "start": 0.12,
+                    "end": 0.48,
+                    "probability": 0.528914213180542
+                },
+                {
+                    "word": " was",
+                    "start": 0.48,
+                    "end": 0.72,
+                    "probability": 0.9973661303520203
+                },
+                {
+                    "word": " displayed",
+                    "start": 0.72,
+                    "end": 1.14,
+                    "probability": 0.9948764443397522
+                },
+                {
+                    "word": " significantly.",
+                    "start": 1.14,
+                    "end": 1.76,
+                    "probability": 0.990257740020752
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

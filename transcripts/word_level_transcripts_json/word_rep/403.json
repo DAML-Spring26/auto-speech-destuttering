@@ -1,0 +1,38 @@
+{
+    "text": " was difficult.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.14,
+            "text": " was difficult.",
+            "tokens": [
+                50364,
+                390,
+                2252,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7150492668151855,
+            "compression_ratio": 0.6363636363636364,
+            "no_speech_prob": 0.06219448894262314,
+            "words": [
+                {
+                    "word": " was",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.7608259320259094
+                },
+                {
+                    "word": " difficult.",
+                    "start": 0.26,
+                    "end": 1.14,
+                    "probability": 0.28570136427879333
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

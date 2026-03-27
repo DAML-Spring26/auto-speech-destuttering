@@ -1,0 +1,87 @@
+{
+    "text": " Could you please send me report by Friday afternoon?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.0,
+            "text": " Could you please send me report by Friday afternoon?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                2845,
+                385,
+                2275,
+                538,
+                6984,
+                6499,
+                30,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30079091512239897,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.016260020434856415,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.9297870993614197
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.32,
+                    "probability": 0.9959664344787598
+                },
+                {
+                    "word": " please",
+                    "start": 0.32,
+                    "end": 0.66,
+                    "probability": 0.9668226838111877
+                },
+                {
+                    "word": " send",
+                    "start": 0.66,
+                    "end": 0.96,
+                    "probability": 0.9758874177932739
+                },
+                {
+                    "word": " me",
+                    "start": 0.96,
+                    "end": 1.18,
+                    "probability": 0.9949885010719299
+                },
+                {
+                    "word": " report",
+                    "start": 1.18,
+                    "end": 1.66,
+                    "probability": 0.4750790297985077
+                },
+                {
+                    "word": " by",
+                    "start": 1.66,
+                    "end": 1.98,
+                    "probability": 0.9852355718612671
+                },
+                {
+                    "word": " Friday",
+                    "start": 1.98,
+                    "end": 2.38,
+                    "probability": 0.9575982689857483
+                },
+                {
+                    "word": " afternoon?",
+                    "start": 2.38,
+                    "end": 3.0,
+                    "probability": 0.9815857410430908
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

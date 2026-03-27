@@ -1,0 +1,81 @@
+{
+    "text": " Have you seen the like, latest superhero film?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.86,
+            "text": " Have you seen the like, latest superhero film?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                1612,
+                264,
+                411,
+                11,
+                6792,
+                19428,
+                2007,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23433650456942046,
+            "compression_ratio": 0.8518518518518519,
+            "no_speech_prob": 0.021141378208994865,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 0.54,
+                    "probability": 0.9162957668304443
+                },
+                {
+                    "word": " you",
+                    "start": 0.54,
+                    "end": 0.7,
+                    "probability": 0.998108983039856
+                },
+                {
+                    "word": " seen",
+                    "start": 0.7,
+                    "end": 0.96,
+                    "probability": 0.998672366142273
+                },
+                {
+                    "word": " the",
+                    "start": 0.96,
+                    "end": 1.1,
+                    "probability": 0.925783634185791
+                },
+                {
+                    "word": " like,",
+                    "start": 1.1,
+                    "end": 1.34,
+                    "probability": 0.9177430868148804
+                },
+                {
+                    "word": " latest",
+                    "start": 1.56,
+                    "end": 1.82,
+                    "probability": 0.9388181567192078
+                },
+                {
+                    "word": " superhero",
+                    "start": 1.82,
+                    "end": 2.42,
+                    "probability": 0.9595649838447571
+                },
+                {
+                    "word": " film?",
+                    "start": 2.42,
+                    "end": 2.86,
+                    "probability": 0.9912404417991638
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,59 @@
+{
+    "text": " she connected extensive market research.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.88,
+            "text": " she connected extensive market research.",
+            "tokens": [
+                50364,
+                750,
+                4582,
+                13246,
+                2142,
+                2132,
+                13,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47451098759969074,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.002215293003246188,
+            "words": [
+                {
+                    "word": " she",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.5383191108703613
+                },
+                {
+                    "word": " connected",
+                    "start": 0.26,
+                    "end": 0.84,
+                    "probability": 0.9919183850288391
+                },
+                {
+                    "word": " extensive",
+                    "start": 0.84,
+                    "end": 1.56,
+                    "probability": 0.938731849193573
+                },
+                {
+                    "word": " market",
+                    "start": 1.56,
+                    "end": 2.24,
+                    "probability": 0.987907350063324
+                },
+                {
+                    "word": " research.",
+                    "start": 2.24,
+                    "end": 2.88,
+                    "probability": 0.9989433884620667
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

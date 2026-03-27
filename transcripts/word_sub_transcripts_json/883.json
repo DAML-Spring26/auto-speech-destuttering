@@ -1,0 +1,66 @@
+{
+    "text": " the research team punished their findings.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.94,
+            "text": " the research team punished their findings.",
+            "tokens": [
+                50364,
+                264,
+                2132,
+                1469,
+                22365,
+                641,
+                16483,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4451593399047852,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.011539042927324772,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.523814857006073
+                },
+                {
+                    "word": " research",
+                    "start": 0.14,
+                    "end": 0.5,
+                    "probability": 0.8614012002944946
+                },
+                {
+                    "word": " team",
+                    "start": 0.5,
+                    "end": 0.86,
+                    "probability": 0.9970880150794983
+                },
+                {
+                    "word": " punished",
+                    "start": 0.86,
+                    "end": 1.24,
+                    "probability": 0.9129455089569092
+                },
+                {
+                    "word": " their",
+                    "start": 1.24,
+                    "end": 1.48,
+                    "probability": 0.9388037919998169
+                },
+                {
+                    "word": " findings.",
+                    "start": 1.48,
+                    "end": 1.94,
+                    "probability": 0.9450074434280396
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,80 @@
+{
+    "text": " the engineers developing a new prototype for months.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.18,
+            "text": " the engineers developing a new prototype for months.",
+            "tokens": [
+                50364,
+                264,
+                11955,
+                6416,
+                257,
+                777,
+                19475,
+                337,
+                2493,
+                13,
+                50540
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3632279634475708,
+            "compression_ratio": 0.9122807017543859,
+            "no_speech_prob": 0.007113462779670954,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5573095083236694
+                },
+                {
+                    "word": " engineers",
+                    "start": 0.1,
+                    "end": 0.7,
+                    "probability": 0.899408221244812
+                },
+                {
+                    "word": " developing",
+                    "start": 0.7,
+                    "end": 1.34,
+                    "probability": 0.9798303842544556
+                },
+                {
+                    "word": " a",
+                    "start": 1.34,
+                    "end": 1.72,
+                    "probability": 0.987938642501831
+                },
+                {
+                    "word": " new",
+                    "start": 1.72,
+                    "end": 1.92,
+                    "probability": 0.9978208541870117
+                },
+                {
+                    "word": " prototype",
+                    "start": 1.92,
+                    "end": 2.48,
+                    "probability": 0.9857402443885803
+                },
+                {
+                    "word": " for",
+                    "start": 2.48,
+                    "end": 2.74,
+                    "probability": 0.9834016561508179
+                },
+                {
+                    "word": " months.",
+                    "start": 2.74,
+                    "end": 3.18,
+                    "probability": 0.9757192730903625
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

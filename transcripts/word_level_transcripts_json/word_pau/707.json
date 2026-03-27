@@ -1,0 +1,126 @@
+{
+    "text": " Just tried the new virtual reality game it's mind blowing. Video game",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.24,
+            "text": " Just tried the new virtual reality game it's mind blowing.",
+            "tokens": [
+                50364,
+                1449,
+                3031,
+                264,
+                777,
+                6374,
+                4103,
+                1216,
+                309,
+                311,
+                1575,
+                15068,
+                13,
+                50748
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.585743502566689,
+            "compression_ratio": 0.9583333333333334,
+            "no_speech_prob": 0.004312378354370594,
+            "words": [
+                {
+                    "word": " Just",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.6999695301055908
+                },
+                {
+                    "word": " tried",
+                    "start": 0.22,
+                    "end": 0.56,
+                    "probability": 0.6008159518241882
+                },
+                {
+                    "word": " the",
+                    "start": 0.56,
+                    "end": 0.76,
+                    "probability": 0.9884552955627441
+                },
+                {
+                    "word": " new",
+                    "start": 0.76,
+                    "end": 0.94,
+                    "probability": 0.9643824100494385
+                },
+                {
+                    "word": " virtual",
+                    "start": 0.94,
+                    "end": 1.36,
+                    "probability": 0.6064487099647522
+                },
+                {
+                    "word": " reality",
+                    "start": 1.36,
+                    "end": 2.08,
+                    "probability": 0.9912391304969788
+                },
+                {
+                    "word": " game",
+                    "start": 2.08,
+                    "end": 2.56,
+                    "probability": 0.3809231221675873
+                },
+                {
+                    "word": " it's",
+                    "start": 2.56,
+                    "end": 3.16,
+                    "probability": 0.5896250009536743
+                },
+                {
+                    "word": " mind",
+                    "start": 3.16,
+                    "end": 3.68,
+                    "probability": 0.4502745270729065
+                },
+                {
+                    "word": " blowing.",
+                    "start": 3.68,
+                    "end": 4.24,
+                    "probability": 0.52128666639328
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.68,
+            "end": 8.3,
+            "text": " Video game",
+            "tokens": [
+                50748,
+                9777,
+                1216,
+                50798
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.585743502566689,
+            "compression_ratio": 0.9583333333333334,
+            "no_speech_prob": 0.004312378354370594,
+            "words": [
+                {
+                    "word": " Video",
+                    "start": 7.359999999999999,
+                    "end": 7.84,
+                    "probability": 0.8570687770843506
+                },
+                {
+                    "word": " game",
+                    "start": 7.84,
+                    "end": 8.3,
+                    "probability": 0.8322097063064575
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,80 @@
+{
+    "text": " the team preparing for the presentation all week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.48,
+            "text": " the team preparing for the presentation all week.",
+            "tokens": [
+                50364,
+                264,
+                1469,
+                10075,
+                337,
+                264,
+                5860,
+                439,
+                1243,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2965006430943807,
+            "compression_ratio": 0.9074074074074074,
+            "no_speech_prob": 0.00781840831041336,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7152232527732849
+                },
+                {
+                    "word": " team",
+                    "start": 0.16,
+                    "end": 0.4,
+                    "probability": 0.9644565582275391
+                },
+                {
+                    "word": " preparing",
+                    "start": 0.4,
+                    "end": 0.86,
+                    "probability": 0.9817312955856323
+                },
+                {
+                    "word": " for",
+                    "start": 0.86,
+                    "end": 1.12,
+                    "probability": 0.9978118538856506
+                },
+                {
+                    "word": " the",
+                    "start": 1.12,
+                    "end": 1.24,
+                    "probability": 0.989757776260376
+                },
+                {
+                    "word": " presentation",
+                    "start": 1.24,
+                    "end": 1.88,
+                    "probability": 0.9913305044174194
+                },
+                {
+                    "word": " all",
+                    "start": 1.88,
+                    "end": 2.18,
+                    "probability": 0.9840143322944641
+                },
+                {
+                    "word": " week.",
+                    "start": 2.18,
+                    "end": 2.48,
+                    "probability": 0.9893905520439148
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

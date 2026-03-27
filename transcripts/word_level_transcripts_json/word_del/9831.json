@@ -1,0 +1,87 @@
+{
+    "text": " Can you tell me the report was submitted yesterday?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.94,
+            "text": " Can you tell me the report was submitted yesterday?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                980,
+                385,
+                264,
+                2275,
+                390,
+                14405,
+                5186,
+                30,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29783841279836804,
+            "compression_ratio": 0.8793103448275862,
+            "no_speech_prob": 0.027524419128894806,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6699904203414917
+                },
+                {
+                    "word": " you",
+                    "start": 0.12,
+                    "end": 0.24,
+                    "probability": 0.9954038858413696
+                },
+                {
+                    "word": " tell",
+                    "start": 0.24,
+                    "end": 0.48,
+                    "probability": 0.9974749684333801
+                },
+                {
+                    "word": " me",
+                    "start": 0.48,
+                    "end": 0.64,
+                    "probability": 0.9887702465057373
+                },
+                {
+                    "word": " the",
+                    "start": 0.64,
+                    "end": 0.74,
+                    "probability": 0.9694615006446838
+                },
+                {
+                    "word": " report",
+                    "start": 0.74,
+                    "end": 1.0,
+                    "probability": 0.9941708445549011
+                },
+                {
+                    "word": " was",
+                    "start": 1.0,
+                    "end": 1.2,
+                    "probability": 0.9940094947814941
+                },
+                {
+                    "word": " submitted",
+                    "start": 1.2,
+                    "end": 1.5,
+                    "probability": 0.9986510872840881
+                },
+                {
+                    "word": " yesterday?",
+                    "start": 1.5,
+                    "end": 1.94,
+                    "probability": 0.9921085238456726
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

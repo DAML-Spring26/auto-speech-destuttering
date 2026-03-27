@@ -1,0 +1,88 @@
+{
+    "text": " The philanthropist donated a substantial sum to the clarity.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.96,
+            "text": " The philanthropist donated a substantial sum to the clarity.",
+            "tokens": [
+                50364,
+                440,
+                28941,
+                468,
+                23723,
+                257,
+                16726,
+                2408,
+                281,
+                264,
+                16992,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3364274501800537,
+            "compression_ratio": 0.9375,
+            "no_speech_prob": 0.0121773025020957,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7661572098731995
+                },
+                {
+                    "word": " philanthropist",
+                    "start": 0.1,
+                    "end": 0.88,
+                    "probability": 0.7835296392440796
+                },
+                {
+                    "word": " donated",
+                    "start": 0.88,
+                    "end": 1.2,
+                    "probability": 0.9934816360473633
+                },
+                {
+                    "word": " a",
+                    "start": 1.2,
+                    "end": 1.46,
+                    "probability": 0.9870534539222717
+                },
+                {
+                    "word": " substantial",
+                    "start": 1.46,
+                    "end": 2.04,
+                    "probability": 0.9897193908691406
+                },
+                {
+                    "word": " sum",
+                    "start": 2.04,
+                    "end": 2.38,
+                    "probability": 0.9871009588241577
+                },
+                {
+                    "word": " to",
+                    "start": 2.38,
+                    "end": 2.54,
+                    "probability": 0.9960265159606934
+                },
+                {
+                    "word": " the",
+                    "start": 2.54,
+                    "end": 2.64,
+                    "probability": 0.9887672066688538
+                },
+                {
+                    "word": " clarity.",
+                    "start": 2.64,
+                    "end": 2.96,
+                    "probability": 0.9363731145858765
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

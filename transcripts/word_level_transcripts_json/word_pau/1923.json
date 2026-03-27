@@ -1,0 +1,80 @@
+{
+    "text": " Stay calm and follow the evacuation procedures immediately.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.7,
+            "text": " Stay calm and follow the evacuation procedures immediately.",
+            "tokens": [
+                50364,
+                8691,
+                7151,
+                293,
+                1524,
+                264,
+                42740,
+                13846,
+                4258,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.43295244375864667,
+            "compression_ratio": 0.921875,
+            "no_speech_prob": 0.009664798155426979,
+            "words": [
+                {
+                    "word": " Stay",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.6781906485557556
+                },
+                {
+                    "word": " calm",
+                    "start": 0.36,
+                    "end": 0.62,
+                    "probability": 0.8223860859870911
+                },
+                {
+                    "word": " and",
+                    "start": 0.62,
+                    "end": 0.84,
+                    "probability": 0.9794965386390686
+                },
+                {
+                    "word": " follow",
+                    "start": 0.84,
+                    "end": 1.28,
+                    "probability": 0.9865672588348389
+                },
+                {
+                    "word": " the",
+                    "start": 1.28,
+                    "end": 4.54,
+                    "probability": 0.3930465877056122
+                },
+                {
+                    "word": " evacuation",
+                    "start": 4.54,
+                    "end": 5.16,
+                    "probability": 0.8992584943771362
+                },
+                {
+                    "word": " procedures",
+                    "start": 5.16,
+                    "end": 5.96,
+                    "probability": 0.9824979901313782
+                },
+                {
+                    "word": " immediately.",
+                    "start": 5.96,
+                    "end": 6.7,
+                    "probability": 0.9904019236564636
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

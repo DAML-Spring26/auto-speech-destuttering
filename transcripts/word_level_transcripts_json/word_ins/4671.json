@@ -1,0 +1,88 @@
+{
+    "text": " I'm looking forward to the concert on next month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.82,
+            "text": " I'm looking forward to the concert on next month.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                1237,
+                2128,
+                281,
+                264,
+                8543,
+                322,
+                958,
+                1618,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2644739661897932,
+            "compression_ratio": 0.8596491228070176,
+            "no_speech_prob": 0.049752794206142426,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.84,
+                    "probability": 0.9068370461463928
+                },
+                {
+                    "word": " looking",
+                    "start": 0.84,
+                    "end": 1.04,
+                    "probability": 0.9935750365257263
+                },
+                {
+                    "word": " forward",
+                    "start": 1.04,
+                    "end": 1.4,
+                    "probability": 0.9974699020385742
+                },
+                {
+                    "word": " to",
+                    "start": 1.4,
+                    "end": 1.6,
+                    "probability": 0.9983993172645569
+                },
+                {
+                    "word": " the",
+                    "start": 1.6,
+                    "end": 1.72,
+                    "probability": 0.9956633448600769
+                },
+                {
+                    "word": " concert",
+                    "start": 1.72,
+                    "end": 2.1,
+                    "probability": 0.9765563011169434
+                },
+                {
+                    "word": " on",
+                    "start": 2.1,
+                    "end": 2.32,
+                    "probability": 0.9737277626991272
+                },
+                {
+                    "word": " next",
+                    "start": 2.32,
+                    "end": 2.58,
+                    "probability": 0.9733080267906189
+                },
+                {
+                    "word": " month.",
+                    "start": 2.58,
+                    "end": 2.82,
+                    "probability": 0.9946111440658569
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

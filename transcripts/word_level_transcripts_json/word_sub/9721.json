@@ -1,0 +1,60 @@
+{
+    "text": " the Brick system needs inspection.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.5,
+            "text": " the Brick system needs inspection.",
+            "tokens": [
+                50364,
+                264,
+                1603,
+                618,
+                1185,
+                2203,
+                22085,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6936646461486816,
+            "compression_ratio": 0.8095238095238095,
+            "no_speech_prob": 0.017190998420119286,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7454127073287964
+                },
+                {
+                    "word": " Brick",
+                    "start": 0.1,
+                    "end": 0.34,
+                    "probability": 0.4735148549079895
+                },
+                {
+                    "word": " system",
+                    "start": 0.34,
+                    "end": 0.64,
+                    "probability": 0.3722071647644043
+                },
+                {
+                    "word": " needs",
+                    "start": 0.64,
+                    "end": 0.9,
+                    "probability": 0.7922844290733337
+                },
+                {
+                    "word": " inspection.",
+                    "start": 0.9,
+                    "end": 1.5,
+                    "probability": 0.9703145623207092
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

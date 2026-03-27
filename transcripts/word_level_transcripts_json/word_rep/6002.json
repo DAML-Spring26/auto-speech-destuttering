@@ -1,0 +1,80 @@
+{
+    "text": " The customer feedback survey revealed some interesting insights.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.56,
+            "text": " The customer feedback survey revealed some interesting insights.",
+            "tokens": [
+                50364,
+                440,
+                5474,
+                5824,
+                8984,
+                9599,
+                512,
+                1880,
+                14310,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2557470202445984,
+            "compression_ratio": 0.9552238805970149,
+            "no_speech_prob": 0.0030761805828660727,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.9292899370193481
+                },
+                {
+                    "word": " customer",
+                    "start": 0.1,
+                    "end": 0.52,
+                    "probability": 0.990449845790863
+                },
+                {
+                    "word": " feedback",
+                    "start": 0.52,
+                    "end": 0.9,
+                    "probability": 0.9911651015281677
+                },
+                {
+                    "word": " survey",
+                    "start": 0.9,
+                    "end": 1.38,
+                    "probability": 0.962363064289093
+                },
+                {
+                    "word": " revealed",
+                    "start": 1.38,
+                    "end": 1.8,
+                    "probability": 0.9859290719032288
+                },
+                {
+                    "word": " some",
+                    "start": 1.8,
+                    "end": 2.1,
+                    "probability": 0.9974287152290344
+                },
+                {
+                    "word": " interesting",
+                    "start": 2.1,
+                    "end": 2.72,
+                    "probability": 0.8795018792152405
+                },
+                {
+                    "word": " insights.",
+                    "start": 2.72,
+                    "end": 3.56,
+                    "probability": 0.9852442741394043
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

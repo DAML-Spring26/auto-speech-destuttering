@@ -1,0 +1,107 @@
+{
+    "text": " Can you explain the concept of photosynthesis? Like, again.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.0,
+            "text": " Can you explain the concept of photosynthesis?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                2903,
+                264,
+                3410,
+                295,
+                5787,
+                45601,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3562891483306885,
+            "compression_ratio": 0.9076923076923077,
+            "no_speech_prob": 0.029844192788004875,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.78,
+                    "probability": 0.840898871421814
+                },
+                {
+                    "word": " you",
+                    "start": 0.78,
+                    "end": 0.98,
+                    "probability": 0.9972151517868042
+                },
+                {
+                    "word": " explain",
+                    "start": 0.98,
+                    "end": 1.4,
+                    "probability": 0.9971339702606201
+                },
+                {
+                    "word": " the",
+                    "start": 1.4,
+                    "end": 1.64,
+                    "probability": 0.9955320358276367
+                },
+                {
+                    "word": " concept",
+                    "start": 1.64,
+                    "end": 2.06,
+                    "probability": 0.9964555501937866
+                },
+                {
+                    "word": " of",
+                    "start": 2.06,
+                    "end": 2.34,
+                    "probability": 0.9949483871459961
+                },
+                {
+                    "word": " photosynthesis?",
+                    "start": 2.34,
+                    "end": 3.0,
+                    "probability": 0.9607182741165161
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.94,
+            "end": 4.88,
+            "text": " Like, again.",
+            "tokens": [
+                50564,
+                1743,
+                11,
+                797,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3562891483306885,
+            "compression_ratio": 0.9076923076923077,
+            "no_speech_prob": 0.029844192788004875,
+            "words": [
+                {
+                    "word": " Like,",
+                    "start": 3.94,
+                    "end": 4.26,
+                    "probability": 0.9262328147888184
+                },
+                {
+                    "word": " again.",
+                    "start": 4.56,
+                    "end": 4.88,
+                    "probability": 0.8423978686332703
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

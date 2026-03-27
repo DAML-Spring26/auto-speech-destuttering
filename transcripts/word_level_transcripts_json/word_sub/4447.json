@@ -1,0 +1,59 @@
+{
+    "text": " We should renew the policy.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.06,
+            "text": " We should renew the policy.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                10162,
+                264,
+                3897,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4193747838338216,
+            "compression_ratio": 0.7714285714285715,
+            "no_speech_prob": 0.01031939871609211,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6804013848304749
+                },
+                {
+                    "word": " should",
+                    "start": 0.14,
+                    "end": 0.32,
+                    "probability": 0.9877986311912537
+                },
+                {
+                    "word": " renew",
+                    "start": 0.32,
+                    "end": 0.52,
+                    "probability": 0.9974508881568909
+                },
+                {
+                    "word": " the",
+                    "start": 0.52,
+                    "end": 0.66,
+                    "probability": 0.994531512260437
+                },
+                {
+                    "word": " policy.",
+                    "start": 0.66,
+                    "end": 1.06,
+                    "probability": 0.9909517765045166
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

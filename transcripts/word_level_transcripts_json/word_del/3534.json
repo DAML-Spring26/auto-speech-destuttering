@@ -1,0 +1,96 @@
+{
+    "text": " the company's financial statements audited by an independent accounting firm.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.18,
+            "text": " the company's financial statements audited by an independent accounting firm.",
+            "tokens": [
+                50364,
+                264,
+                2237,
+                311,
+                4669,
+                12363,
+                2379,
+                1226,
+                538,
+                364,
+                6695,
+                19163,
+                6174,
+                13,
+                50584
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3313581943511963,
+            "compression_ratio": 1.0547945205479452,
+            "no_speech_prob": 0.005673141218721867,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.3476320207118988
+                },
+                {
+                    "word": " company's",
+                    "start": 0.12,
+                    "end": 0.68,
+                    "probability": 0.9407040178775787
+                },
+                {
+                    "word": " financial",
+                    "start": 0.68,
+                    "end": 0.94,
+                    "probability": 0.9957024455070496
+                },
+                {
+                    "word": " statements",
+                    "start": 0.94,
+                    "end": 1.56,
+                    "probability": 0.9832568764686584
+                },
+                {
+                    "word": " audited",
+                    "start": 1.56,
+                    "end": 2.12,
+                    "probability": 0.7539251744747162
+                },
+                {
+                    "word": " by",
+                    "start": 2.12,
+                    "end": 2.38,
+                    "probability": 0.9975886344909668
+                },
+                {
+                    "word": " an",
+                    "start": 2.38,
+                    "end": 2.6,
+                    "probability": 0.981659471988678
+                },
+                {
+                    "word": " independent",
+                    "start": 2.6,
+                    "end": 3.2,
+                    "probability": 0.9667662978172302
+                },
+                {
+                    "word": " accounting",
+                    "start": 3.2,
+                    "end": 3.76,
+                    "probability": 0.9884418249130249
+                },
+                {
+                    "word": " firm.",
+                    "start": 3.76,
+                    "end": 4.18,
+                    "probability": 0.9996494054794312
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

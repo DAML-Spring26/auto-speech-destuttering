@@ -1,0 +1,84 @@
+{
+    "text": " Can you speak? Most likely please.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.82,
+            "text": " Can you speak?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                1710,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7165976304274339,
+            "compression_ratio": 0.8095238095238095,
+            "no_speech_prob": 0.018769076094031334,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.7719321250915527
+                },
+                {
+                    "word": " you",
+                    "start": 0.18,
+                    "end": 0.3,
+                    "probability": 0.9966440200805664
+                },
+                {
+                    "word": " speak?",
+                    "start": 0.3,
+                    "end": 0.82,
+                    "probability": 0.9975060820579529
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.0,
+            "end": 5.26,
+            "text": " Most likely please.",
+            "tokens": [
+                50564,
+                4534,
+                3700,
+                1767,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7165976304274339,
+            "compression_ratio": 0.8095238095238095,
+            "no_speech_prob": 0.018769076094031334,
+            "words": [
+                {
+                    "word": " Most",
+                    "start": 3.8900000000000006,
+                    "end": 4.36,
+                    "probability": 0.12286484241485596
+                },
+                {
+                    "word": " likely",
+                    "start": 4.36,
+                    "end": 4.68,
+                    "probability": 0.15563248097896576
+                },
+                {
+                    "word": " please.",
+                    "start": 4.68,
+                    "end": 5.26,
+                    "probability": 0.6546257138252258
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

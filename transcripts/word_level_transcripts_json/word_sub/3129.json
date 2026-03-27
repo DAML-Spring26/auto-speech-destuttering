@@ -1,0 +1,73 @@
+{
+    "text": " The traffic calls significant to space today.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.04,
+            "text": " The traffic calls significant to space today.",
+            "tokens": [
+                50364,
+                440,
+                6419,
+                5498,
+                4776,
+                281,
+                1901,
+                965,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5202750726179644,
+            "compression_ratio": 0.9,
+            "no_speech_prob": 0.008694595657289028,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.722197413444519
+                },
+                {
+                    "word": " traffic",
+                    "start": 0.1,
+                    "end": 0.44,
+                    "probability": 0.9830337166786194
+                },
+                {
+                    "word": " calls",
+                    "start": 0.44,
+                    "end": 0.74,
+                    "probability": 0.30281445384025574
+                },
+                {
+                    "word": " significant",
+                    "start": 0.74,
+                    "end": 1.26,
+                    "probability": 0.9553928375244141
+                },
+                {
+                    "word": " to",
+                    "start": 1.26,
+                    "end": 1.52,
+                    "probability": 0.7710497379302979
+                },
+                {
+                    "word": " space",
+                    "start": 1.52,
+                    "end": 1.74,
+                    "probability": 0.8038732409477234
+                },
+                {
+                    "word": " today.",
+                    "start": 1.74,
+                    "end": 2.04,
+                    "probability": 0.9847499132156372
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

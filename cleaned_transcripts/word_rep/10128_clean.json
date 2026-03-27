@@ -1,12 +1,12 @@
 {
-    "text": " If we implement these changes, we should see a notable increase in productivity.",
+    "text": " If we implement these changes, we should see a note in Productivity.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 4.8,
-            "text": " If we implement these changes, we should see a notable increase in productivity.",
+            "end": 4.0,
+            "text": " If we implement these changes, we should see a note in Productivity.",
             "tokens": [
                 50364,
                 759,
@@ -19,18 +19,17 @@
                 820,
                 536,
                 257,
-                22556,
-                3488,
+                3637,
                 294,
-                1674,
+                22005,
                 4253,
                 13,
-                50604
+                50564
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.38636609127647,
-            "compression_ratio": 1.0256410256410255,
-            "no_speech_prob": 0.0053651537746191025
+            "avg_logprob": -0.3187449508243137,
+            "compression_ratio": 0.9444444444444444,
+            "no_speech_prob": 0.004446560051292181
         }
     ],
     "language": "en"

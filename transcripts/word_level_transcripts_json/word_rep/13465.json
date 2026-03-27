@@ -1,0 +1,126 @@
+{
+    "text": " Have you noticed any side effects since beginning the new? New medication.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.54,
+            "text": " Have you noticed any side effects since beginning the new?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                5694,
+                604,
+                1252,
+                5065,
+                1670,
+                2863,
+                264,
+                777,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4263098365382144,
+            "compression_ratio": 1.0136986301369864,
+            "no_speech_prob": 0.006310346536338329,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.9134767055511475
+                },
+                {
+                    "word": " you",
+                    "start": 0.18,
+                    "end": 0.36,
+                    "probability": 0.9979428648948669
+                },
+                {
+                    "word": " noticed",
+                    "start": 0.36,
+                    "end": 0.78,
+                    "probability": 0.9721193909645081
+                },
+                {
+                    "word": " any",
+                    "start": 0.78,
+                    "end": 1.22,
+                    "probability": 0.9946491122245789
+                },
+                {
+                    "word": " side",
+                    "start": 1.22,
+                    "end": 1.6,
+                    "probability": 0.996026873588562
+                },
+                {
+                    "word": " effects",
+                    "start": 1.6,
+                    "end": 1.94,
+                    "probability": 0.9717195630073547
+                },
+                {
+                    "word": " since",
+                    "start": 1.94,
+                    "end": 2.36,
+                    "probability": 0.8401162028312683
+                },
+                {
+                    "word": " beginning",
+                    "start": 2.36,
+                    "end": 2.88,
+                    "probability": 0.9727458357810974
+                },
+                {
+                    "word": " the",
+                    "start": 2.88,
+                    "end": 3.22,
+                    "probability": 0.8573065996170044
+                },
+                {
+                    "word": " new?",
+                    "start": 3.22,
+                    "end": 3.54,
+                    "probability": 0.9513441920280457
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.04,
+            "end": 4.9,
+            "text": " New medication.",
+            "tokens": [
+                50564,
+                1873,
+                13851,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4263098365382144,
+            "compression_ratio": 1.0136986301369864,
+            "no_speech_prob": 0.006310346536338329,
+            "words": [
+                {
+                    "word": " New",
+                    "start": 4.04,
+                    "end": 4.3,
+                    "probability": 0.9213643670082092
+                },
+                {
+                    "word": " medication.",
+                    "start": 4.3,
+                    "end": 4.9,
+                    "probability": 0.8419457674026489
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

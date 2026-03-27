@@ -1,0 +1,131 @@
+{
+    "text": " The new community centre has... ...scriccly become a hub for local activities.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " The new community centre has...",
+            "tokens": [
+                50364,
+                440,
+                777,
+                1768,
+                10093,
+                575,
+                485,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6054480075836182,
+            "compression_ratio": 1.04,
+            "no_speech_prob": 0.007919486612081528,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.686415433883667
+                },
+                {
+                    "word": " new",
+                    "start": 0.12,
+                    "end": 0.3,
+                    "probability": 0.934708833694458
+                },
+                {
+                    "word": " community",
+                    "start": 0.3,
+                    "end": 0.84,
+                    "probability": 0.9020280241966248
+                },
+                {
+                    "word": " centre",
+                    "start": 0.84,
+                    "end": 1.3,
+                    "probability": 0.5686157941818237
+                },
+                {
+                    "word": " has...",
+                    "start": 1.3,
+                    "end": 2.0,
+                    "probability": 0.6591584831476212
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.8600000000000003,
+            "end": 6.16,
+            "text": " ...scriccly become a hub for local activities.",
+            "tokens": [
+                50564,
+                1097,
+                82,
+                66,
+                1341,
+                66,
+                356,
+                1813,
+                257,
+                11838,
+                337,
+                2654,
+                5354,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6054480075836182,
+            "compression_ratio": 1.04,
+            "no_speech_prob": 0.007919486612081528,
+            "words": [
+                {
+                    "word": " ...scriccly",
+                    "start": 3.8600000000000003,
+                    "end": 4.46,
+                    "probability": 0.4011082624395688
+                },
+                {
+                    "word": " become",
+                    "start": 4.46,
+                    "end": 4.76,
+                    "probability": 0.8788611888885498
+                },
+                {
+                    "word": " a",
+                    "start": 4.76,
+                    "end": 4.98,
+                    "probability": 0.9790576696395874
+                },
+                {
+                    "word": " hub",
+                    "start": 4.98,
+                    "end": 5.12,
+                    "probability": 0.9328953623771667
+                },
+                {
+                    "word": " for",
+                    "start": 5.12,
+                    "end": 5.22,
+                    "probability": 0.9543340802192688
+                },
+                {
+                    "word": " local",
+                    "start": 5.22,
+                    "end": 5.48,
+                    "probability": 0.9883103370666504
+                },
+                {
+                    "word": " activities.",
+                    "start": 5.48,
+                    "end": 6.16,
+                    "probability": 0.9650338888168335
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

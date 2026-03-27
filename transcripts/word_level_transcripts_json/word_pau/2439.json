@@ -1,0 +1,94 @@
+{
+    "text": " We need to allocate more resources to the marketing department.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.46,
+            "text": " We need to allocate more resources to the marketing department.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                35713,
+                544,
+                3593,
+                281,
+                264,
+                6370,
+                5882,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3611393315451486,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.009165899828076363,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.5394722819328308
+                },
+                {
+                    "word": " need",
+                    "start": 0.2,
+                    "end": 0.36,
+                    "probability": 0.9924399852752686
+                },
+                {
+                    "word": " to",
+                    "start": 0.36,
+                    "end": 0.52,
+                    "probability": 0.9987032413482666
+                },
+                {
+                    "word": " allocate",
+                    "start": 0.52,
+                    "end": 0.92,
+                    "probability": 0.9955150485038757
+                },
+                {
+                    "word": " more",
+                    "start": 0.92,
+                    "end": 1.26,
+                    "probability": 0.9925619959831238
+                },
+                {
+                    "word": " resources",
+                    "start": 1.26,
+                    "end": 1.92,
+                    "probability": 0.9956879019737244
+                },
+                {
+                    "word": " to",
+                    "start": 1.92,
+                    "end": 2.24,
+                    "probability": 0.8870552182197571
+                },
+                {
+                    "word": " the",
+                    "start": 2.24,
+                    "end": 4.4,
+                    "probability": 0.6793043613433838
+                },
+                {
+                    "word": " marketing",
+                    "start": 4.4,
+                    "end": 4.68,
+                    "probability": 0.8788437843322754
+                },
+                {
+                    "word": " department.",
+                    "start": 4.68,
+                    "end": 5.46,
+                    "probability": 0.9855121970176697
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

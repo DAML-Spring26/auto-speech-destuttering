@@ -1,0 +1,101 @@
+{
+    "text": " We must focus on improving customer satisfaction and increasing operational efficiency.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.16,
+            "text": " We must focus on improving customer satisfaction and increasing operational efficiency.",
+            "tokens": [
+                50364,
+                492,
+                1633,
+                1879,
+                322,
+                11470,
+                5474,
+                18715,
+                293,
+                5662,
+                16607,
+                10493,
+                13,
+                50636
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27519893646240234,
+            "compression_ratio": 1.1153846153846154,
+            "no_speech_prob": 0.0006847632466815412,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6988074779510498
+                },
+                {
+                    "word": " must",
+                    "start": 0.14,
+                    "end": 0.38,
+                    "probability": 0.9942123293876648
+                },
+                {
+                    "word": " focus",
+                    "start": 0.38,
+                    "end": 0.72,
+                    "probability": 0.996830403804779
+                },
+                {
+                    "word": " on",
+                    "start": 0.72,
+                    "end": 1.06,
+                    "probability": 0.9970725774765015
+                },
+                {
+                    "word": " improving",
+                    "start": 1.06,
+                    "end": 1.5,
+                    "probability": 0.994473397731781
+                },
+                {
+                    "word": " customer",
+                    "start": 1.5,
+                    "end": 2.04,
+                    "probability": 0.8785336017608643
+                },
+                {
+                    "word": " satisfaction",
+                    "start": 2.04,
+                    "end": 2.72,
+                    "probability": 0.9992724061012268
+                },
+                {
+                    "word": " and",
+                    "start": 2.72,
+                    "end": 3.3,
+                    "probability": 0.9583220481872559
+                },
+                {
+                    "word": " increasing",
+                    "start": 3.3,
+                    "end": 3.72,
+                    "probability": 0.9817798733711243
+                },
+                {
+                    "word": " operational",
+                    "start": 3.72,
+                    "end": 4.48,
+                    "probability": 0.9893566966056824
+                },
+                {
+                    "word": " efficiency.",
+                    "start": 4.48,
+                    "end": 5.16,
+                    "probability": 0.9957525730133057
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

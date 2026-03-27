@@ -1,0 +1,81 @@
+{
+    "text": " We're considering implementing a the new rewards program.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.04,
+            "text": " We're considering implementing a the new rewards program.",
+            "tokens": [
+                50364,
+                492,
+                434,
+                8079,
+                18114,
+                257,
+                264,
+                777,
+                17203,
+                1461,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.367155148432805,
+            "compression_ratio": 0.9193548387096774,
+            "no_speech_prob": 0.0276953037828207,
+            "words": [
+                {
+                    "word": " We're",
+                    "start": 0.0,
+                    "end": 0.7,
+                    "probability": 0.8904283046722412
+                },
+                {
+                    "word": " considering",
+                    "start": 0.7,
+                    "end": 1.22,
+                    "probability": 0.991550087928772
+                },
+                {
+                    "word": " implementing",
+                    "start": 1.22,
+                    "end": 2.02,
+                    "probability": 0.9802902340888977
+                },
+                {
+                    "word": " a",
+                    "start": 2.02,
+                    "end": 2.4,
+                    "probability": 0.9721804857254028
+                },
+                {
+                    "word": " the",
+                    "start": 2.4,
+                    "end": 2.58,
+                    "probability": 0.7519712448120117
+                },
+                {
+                    "word": " new",
+                    "start": 2.58,
+                    "end": 2.8,
+                    "probability": 0.7939136028289795
+                },
+                {
+                    "word": " rewards",
+                    "start": 2.8,
+                    "end": 3.32,
+                    "probability": 0.7675908803939819
+                },
+                {
+                    "word": " program.",
+                    "start": 3.32,
+                    "end": 4.04,
+                    "probability": 0.9816504120826721
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

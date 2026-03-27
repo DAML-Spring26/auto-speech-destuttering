@@ -1,0 +1,116 @@
+{
+    "text": " She's preparing for the presentation all week and feels confident about her delivery.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.14,
+            "text": " She's preparing for the presentation all week and feels confident about her delivery.",
+            "tokens": [
+                50364,
+                1240,
+                311,
+                10075,
+                337,
+                264,
+                5860,
+                439,
+                1243,
+                293,
+                3417,
+                6679,
+                466,
+                720,
+                8982,
+                13,
+                50584
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26537447505527073,
+            "compression_ratio": 1.0625,
+            "no_speech_prob": 0.004165342077612877,
+            "words": [
+                {
+                    "word": " She's",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.7796643376350403
+                },
+                {
+                    "word": " preparing",
+                    "start": 0.28,
+                    "end": 0.8,
+                    "probability": 0.9905636310577393
+                },
+                {
+                    "word": " for",
+                    "start": 0.8,
+                    "end": 1.1,
+                    "probability": 0.9914731979370117
+                },
+                {
+                    "word": " the",
+                    "start": 1.1,
+                    "end": 1.2,
+                    "probability": 0.9866073131561279
+                },
+                {
+                    "word": " presentation",
+                    "start": 1.2,
+                    "end": 1.8,
+                    "probability": 0.9831369519233704
+                },
+                {
+                    "word": " all",
+                    "start": 1.8,
+                    "end": 2.06,
+                    "probability": 0.9608911871910095
+                },
+                {
+                    "word": " week",
+                    "start": 2.06,
+                    "end": 2.32,
+                    "probability": 0.9865781664848328
+                },
+                {
+                    "word": " and",
+                    "start": 2.32,
+                    "end": 2.54,
+                    "probability": 0.9116695523262024
+                },
+                {
+                    "word": " feels",
+                    "start": 2.54,
+                    "end": 2.78,
+                    "probability": 0.9915518760681152
+                },
+                {
+                    "word": " confident",
+                    "start": 2.78,
+                    "end": 3.3,
+                    "probability": 0.9951181411743164
+                },
+                {
+                    "word": " about",
+                    "start": 3.3,
+                    "end": 3.58,
+                    "probability": 0.9990342855453491
+                },
+                {
+                    "word": " her",
+                    "start": 3.58,
+                    "end": 3.74,
+                    "probability": 0.9986403584480286
+                },
+                {
+                    "word": " delivery.",
+                    "start": 3.74,
+                    "end": 4.14,
+                    "probability": 0.98898845911026
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

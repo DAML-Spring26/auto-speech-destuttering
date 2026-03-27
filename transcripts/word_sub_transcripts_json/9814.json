@@ -1,0 +1,59 @@
+{
+    "text": " She perceived the package today.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.42,
+            "text": " She perceived the package today.",
+            "tokens": [
+                50364,
+                1240,
+                19049,
+                264,
+                7372,
+                965,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4574891726175944,
+            "compression_ratio": 0.8648648648648649,
+            "no_speech_prob": 0.004614169709384441,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.6146114468574524
+                },
+                {
+                    "word": " perceived",
+                    "start": 0.22,
+                    "end": 0.62,
+                    "probability": 0.8374021053314209
+                },
+                {
+                    "word": " the",
+                    "start": 0.62,
+                    "end": 0.76,
+                    "probability": 0.9577599167823792
+                },
+                {
+                    "word": " package",
+                    "start": 0.76,
+                    "end": 1.04,
+                    "probability": 0.9556242227554321
+                },
+                {
+                    "word": " today.",
+                    "start": 1.04,
+                    "end": 1.42,
+                    "probability": 0.9859036803245544
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

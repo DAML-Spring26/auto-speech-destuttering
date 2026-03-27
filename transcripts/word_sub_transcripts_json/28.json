@@ -1,0 +1,59 @@
+{
+    "text": " The project requires careful planting.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.96,
+            "text": " The project requires careful planting.",
+            "tokens": [
+                50364,
+                440,
+                1716,
+                7029,
+                5026,
+                20585,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3741225136650933,
+            "compression_ratio": 0.8260869565217391,
+            "no_speech_prob": 0.002047291724011302,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.8091054558753967
+                },
+                {
+                    "word": " project",
+                    "start": 0.08,
+                    "end": 0.42,
+                    "probability": 0.9959420561790466
+                },
+                {
+                    "word": " requires",
+                    "start": 0.42,
+                    "end": 0.94,
+                    "probability": 0.995927631855011
+                },
+                {
+                    "word": " careful",
+                    "start": 0.94,
+                    "end": 1.44,
+                    "probability": 0.9905164837837219
+                },
+                {
+                    "word": " planting.",
+                    "start": 1.44,
+                    "end": 1.96,
+                    "probability": 0.9361600279808044
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

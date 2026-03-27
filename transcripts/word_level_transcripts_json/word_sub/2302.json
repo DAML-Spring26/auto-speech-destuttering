@@ -1,0 +1,73 @@
+{
+    "text": " we should review the protocol tier fully.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.34,
+            "text": " we should review the protocol tier fully.",
+            "tokens": [
+                50364,
+                321,
+                820,
+                3131,
+                264,
+                10336,
+                12362,
+                4498,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5121547525579279,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.00618531322106719,
+            "words": [
+                {
+                    "word": " we",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.5103791356086731
+                },
+                {
+                    "word": " should",
+                    "start": 0.18,
+                    "end": 0.34,
+                    "probability": 0.9899435043334961
+                },
+                {
+                    "word": " review",
+                    "start": 0.34,
+                    "end": 0.74,
+                    "probability": 0.9824081063270569
+                },
+                {
+                    "word": " the",
+                    "start": 0.74,
+                    "end": 0.98,
+                    "probability": 0.985889196395874
+                },
+                {
+                    "word": " protocol",
+                    "start": 0.98,
+                    "end": 1.48,
+                    "probability": 0.8842396140098572
+                },
+                {
+                    "word": " tier",
+                    "start": 1.48,
+                    "end": 1.94,
+                    "probability": 0.5945977568626404
+                },
+                {
+                    "word": " fully.",
+                    "start": 1.94,
+                    "end": 2.34,
+                    "probability": 0.5762262344360352
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

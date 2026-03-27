@@ -1,0 +1,87 @@
+{
+    "text": " He wondered he should apply for the new position.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.96,
+            "text": " He wondered he should apply for the new position.",
+            "tokens": [
+                50364,
+                634,
+                17055,
+                415,
+                820,
+                3079,
+                337,
+                264,
+                777,
+                2535,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24933904867905837,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.002865457208827138,
+            "words": [
+                {
+                    "word": " He",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8514283299446106
+                },
+                {
+                    "word": " wondered",
+                    "start": 0.12,
+                    "end": 0.42,
+                    "probability": 0.9708942770957947
+                },
+                {
+                    "word": " he",
+                    "start": 0.42,
+                    "end": 0.6,
+                    "probability": 0.9859199523925781
+                },
+                {
+                    "word": " should",
+                    "start": 0.6,
+                    "end": 0.76,
+                    "probability": 0.9963800311088562
+                },
+                {
+                    "word": " apply",
+                    "start": 0.76,
+                    "end": 1.06,
+                    "probability": 0.9793738126754761
+                },
+                {
+                    "word": " for",
+                    "start": 1.06,
+                    "end": 1.3,
+                    "probability": 0.9976021647453308
+                },
+                {
+                    "word": " the",
+                    "start": 1.3,
+                    "end": 1.42,
+                    "probability": 0.9926543235778809
+                },
+                {
+                    "word": " new",
+                    "start": 1.42,
+                    "end": 1.6,
+                    "probability": 0.9944410920143127
+                },
+                {
+                    "word": " position.",
+                    "start": 1.6,
+                    "end": 1.96,
+                    "probability": 0.9931569695472717
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

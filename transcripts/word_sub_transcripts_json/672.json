@@ -1,0 +1,74 @@
+{
+    "text": " the hospital staff monitored vital science contentiously.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.62,
+            "text": " the hospital staff monitored vital science contentiously.",
+            "tokens": [
+                50364,
+                264,
+                4530,
+                3525,
+                36255,
+                11707,
+                3497,
+                2701,
+                8994,
+                13,
+                50556
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.329512079556783,
+            "compression_ratio": 0.9344262295081968,
+            "no_speech_prob": 0.003473245771601796,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.4786994755268097
+                },
+                {
+                    "word": " hospital",
+                    "start": 0.12,
+                    "end": 0.58,
+                    "probability": 0.9386410713195801
+                },
+                {
+                    "word": " staff",
+                    "start": 0.58,
+                    "end": 1.14,
+                    "probability": 0.9905081987380981
+                },
+                {
+                    "word": " monitored",
+                    "start": 1.14,
+                    "end": 1.6,
+                    "probability": 0.9253225922584534
+                },
+                {
+                    "word": " vital",
+                    "start": 1.6,
+                    "end": 2.1,
+                    "probability": 0.962185263633728
+                },
+                {
+                    "word": " science",
+                    "start": 2.1,
+                    "end": 2.6,
+                    "probability": 0.9158024191856384
+                },
+                {
+                    "word": " contentiously.",
+                    "start": 2.6,
+                    "end": 3.62,
+                    "probability": 0.9447645246982574
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

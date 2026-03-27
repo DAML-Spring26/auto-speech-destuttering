@@ -1,0 +1,52 @@
+{
+    "text": " They love their pets.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.68,
+            "text": " They love their pets.",
+            "tokens": [
+                50364,
+                814,
+                959,
+                641,
+                19897,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5318330526351929,
+            "compression_ratio": 0.7241379310344828,
+            "no_speech_prob": 0.07952740788459778,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.4663391709327698
+                },
+                {
+                    "word": " love",
+                    "start": 0.26,
+                    "end": 0.92,
+                    "probability": 0.8193733096122742
+                },
+                {
+                    "word": " their",
+                    "start": 0.92,
+                    "end": 1.26,
+                    "probability": 0.9857891201972961
+                },
+                {
+                    "word": " pets.",
+                    "start": 1.26,
+                    "end": 1.68,
+                    "probability": 0.9942745566368103
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

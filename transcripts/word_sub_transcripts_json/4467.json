@@ -1,0 +1,66 @@
+{
+    "text": " We need to address these returns.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.2,
+            "text": " We need to address these returns.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                2985,
+                613,
+                11247,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3499873161315918,
+            "compression_ratio": 0.8048780487804879,
+            "no_speech_prob": 0.006584804970771074,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7537027597427368
+                },
+                {
+                    "word": " need",
+                    "start": 0.1,
+                    "end": 0.22,
+                    "probability": 0.9957538843154907
+                },
+                {
+                    "word": " to",
+                    "start": 0.22,
+                    "end": 0.36,
+                    "probability": 0.9974462985992432
+                },
+                {
+                    "word": " address",
+                    "start": 0.36,
+                    "end": 0.6,
+                    "probability": 0.9615461826324463
+                },
+                {
+                    "word": " these",
+                    "start": 0.6,
+                    "end": 0.84,
+                    "probability": 0.9680952429771423
+                },
+                {
+                    "word": " returns.",
+                    "start": 0.84,
+                    "end": 1.2,
+                    "probability": 0.984940230846405
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

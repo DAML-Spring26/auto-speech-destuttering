@@ -1,0 +1,66 @@
+{
+    "text": " Can you please confirm your reservation?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.92,
+            "text": " Can you please confirm your reservation?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                1767,
+                9064,
+                428,
+                28922,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34223151206970215,
+            "compression_ratio": 0.8695652173913043,
+            "no_speech_prob": 0.007285879459232092,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.8235254287719727
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.26,
+                    "probability": 0.9965422749519348
+                },
+                {
+                    "word": " please",
+                    "start": 0.26,
+                    "end": 0.54,
+                    "probability": 0.9944831728935242
+                },
+                {
+                    "word": " confirm",
+                    "start": 0.54,
+                    "end": 0.98,
+                    "probability": 0.7225624918937683
+                },
+                {
+                    "word": " your",
+                    "start": 0.98,
+                    "end": 1.18,
+                    "probability": 0.9856472015380859
+                },
+                {
+                    "word": " reservation?",
+                    "start": 1.18,
+                    "end": 1.92,
+                    "probability": 0.9913989305496216
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

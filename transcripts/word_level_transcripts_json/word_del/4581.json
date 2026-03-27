@@ -1,0 +1,94 @@
+{
+    "text": " We buy tickets for the concert before this sell out.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.04,
+            "text": " We buy tickets for the concert before this sell out.",
+            "tokens": [
+                50364,
+                492,
+                2256,
+                12628,
+                337,
+                264,
+                8543,
+                949,
+                341,
+                3607,
+                484,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.376002379826137,
+            "compression_ratio": 0.9285714285714286,
+            "no_speech_prob": 0.010243171826004982,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5325172543525696
+                },
+                {
+                    "word": " buy",
+                    "start": 0.12,
+                    "end": 0.32,
+                    "probability": 0.9215620756149292
+                },
+                {
+                    "word": " tickets",
+                    "start": 0.32,
+                    "end": 0.64,
+                    "probability": 0.9948794841766357
+                },
+                {
+                    "word": " for",
+                    "start": 0.64,
+                    "end": 0.82,
+                    "probability": 0.9764596819877625
+                },
+                {
+                    "word": " the",
+                    "start": 0.82,
+                    "end": 0.92,
+                    "probability": 0.9839985370635986
+                },
+                {
+                    "word": " concert",
+                    "start": 0.92,
+                    "end": 1.18,
+                    "probability": 0.9769092202186584
+                },
+                {
+                    "word": " before",
+                    "start": 1.18,
+                    "end": 1.48,
+                    "probability": 0.993852972984314
+                },
+                {
+                    "word": " this",
+                    "start": 1.48,
+                    "end": 1.68,
+                    "probability": 0.5175675749778748
+                },
+                {
+                    "word": " sell",
+                    "start": 1.68,
+                    "end": 1.84,
+                    "probability": 0.6024811863899231
+                },
+                {
+                    "word": " out.",
+                    "start": 1.84,
+                    "end": 2.04,
+                    "probability": 0.8425417542457581
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

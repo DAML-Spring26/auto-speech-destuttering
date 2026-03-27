@@ -1,0 +1,129 @@
+{
+    "text": " The doctor recommended that I take vitamins and get more exercise to improve overall health.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.52,
+            "text": " The doctor recommended that I take vitamins and get more exercise to improve overall health.",
+            "tokens": [
+                50364,
+                440,
+                4631,
+                9628,
+                300,
+                286,
+                747,
+                27920,
+                293,
+                483,
+                544,
+                5380,
+                281,
+                3470,
+                4787,
+                1585,
+                13,
+                50644
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2213522007590846,
+            "compression_ratio": 1.1358024691358024,
+            "no_speech_prob": 0.0032811209093779325,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7380872368812561
+                },
+                {
+                    "word": " doctor",
+                    "start": 0.1,
+                    "end": 0.36,
+                    "probability": 0.9479366540908813
+                },
+                {
+                    "word": " recommended",
+                    "start": 0.36,
+                    "end": 1.04,
+                    "probability": 0.9944952130317688
+                },
+                {
+                    "word": " that",
+                    "start": 1.04,
+                    "end": 1.4,
+                    "probability": 0.9425339698791504
+                },
+                {
+                    "word": " I",
+                    "start": 1.4,
+                    "end": 1.7,
+                    "probability": 0.9912460446357727
+                },
+                {
+                    "word": " take",
+                    "start": 1.7,
+                    "end": 1.96,
+                    "probability": 0.9892194867134094
+                },
+                {
+                    "word": " vitamins",
+                    "start": 1.96,
+                    "end": 2.44,
+                    "probability": 0.9837818145751953
+                },
+                {
+                    "word": " and",
+                    "start": 2.44,
+                    "end": 2.76,
+                    "probability": 0.984088659286499
+                },
+                {
+                    "word": " get",
+                    "start": 2.76,
+                    "end": 2.96,
+                    "probability": 0.9979598522186279
+                },
+                {
+                    "word": " more",
+                    "start": 2.96,
+                    "end": 3.2,
+                    "probability": 0.9964560866355896
+                },
+                {
+                    "word": " exercise",
+                    "start": 3.2,
+                    "end": 3.78,
+                    "probability": 0.9917069673538208
+                },
+                {
+                    "word": " to",
+                    "start": 3.78,
+                    "end": 4.2,
+                    "probability": 0.9922589659690857
+                },
+                {
+                    "word": " improve",
+                    "start": 4.2,
+                    "end": 4.54,
+                    "probability": 0.9980092644691467
+                },
+                {
+                    "word": " overall",
+                    "start": 4.54,
+                    "end": 5.02,
+                    "probability": 0.9914370179176331
+                },
+                {
+                    "word": " health.",
+                    "start": 5.02,
+                    "end": 5.52,
+                    "probability": 0.9987420439720154
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

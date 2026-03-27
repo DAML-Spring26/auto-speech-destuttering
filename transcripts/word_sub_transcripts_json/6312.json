@@ -1,0 +1,96 @@
+{
+    "text": " The chef expertly filleted the fish with the main course.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.72,
+            "text": " The chef expertly filleted the fish with the main course.",
+            "tokens": [
+                50364,
+                440,
+                10530,
+                5844,
+                356,
+                2836,
+                10993,
+                264,
+                3506,
+                365,
+                264,
+                2135,
+                1164,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.44267892837524414,
+            "compression_ratio": 0.95,
+            "no_speech_prob": 0.009562108665704727,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5897079706192017
+                },
+                {
+                    "word": " chef",
+                    "start": 0.12,
+                    "end": 0.38,
+                    "probability": 0.8818000555038452
+                },
+                {
+                    "word": " expertly",
+                    "start": 0.38,
+                    "end": 1.14,
+                    "probability": 0.9416939616203308
+                },
+                {
+                    "word": " filleted",
+                    "start": 1.14,
+                    "end": 1.58,
+                    "probability": 0.4076095223426819
+                },
+                {
+                    "word": " the",
+                    "start": 1.58,
+                    "end": 1.74,
+                    "probability": 0.9884556531906128
+                },
+                {
+                    "word": " fish",
+                    "start": 1.74,
+                    "end": 1.96,
+                    "probability": 0.9963710308074951
+                },
+                {
+                    "word": " with",
+                    "start": 1.96,
+                    "end": 2.12,
+                    "probability": 0.581581711769104
+                },
+                {
+                    "word": " the",
+                    "start": 2.12,
+                    "end": 2.28,
+                    "probability": 0.8042852282524109
+                },
+                {
+                    "word": " main",
+                    "start": 2.28,
+                    "end": 2.4,
+                    "probability": 0.9932897686958313
+                },
+                {
+                    "word": " course.",
+                    "start": 2.4,
+                    "end": 2.72,
+                    "probability": 0.9838612079620361
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

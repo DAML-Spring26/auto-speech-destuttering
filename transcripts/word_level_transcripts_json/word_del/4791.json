@@ -1,0 +1,108 @@
+{
+    "text": " We should arrive the airport at least 2 hours before our flight.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.4,
+            "text": " We should arrive the airport at least 2 hours before our flight.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                8881,
+                264,
+                10155,
+                412,
+                1935,
+                568,
+                2496,
+                949,
+                527,
+                7018,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3388192355632782,
+            "compression_ratio": 0.9696969696969697,
+            "no_speech_prob": 0.0034731391351670027,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6977118849754333
+                },
+                {
+                    "word": " should",
+                    "start": 0.16,
+                    "end": 0.36,
+                    "probability": 0.9952374696731567
+                },
+                {
+                    "word": " arrive",
+                    "start": 0.36,
+                    "end": 0.66,
+                    "probability": 0.9757123589515686
+                },
+                {
+                    "word": " the",
+                    "start": 0.66,
+                    "end": 0.9,
+                    "probability": 0.7040530443191528
+                },
+                {
+                    "word": " airport",
+                    "start": 0.9,
+                    "end": 1.2,
+                    "probability": 0.9613692164421082
+                },
+                {
+                    "word": " at",
+                    "start": 1.2,
+                    "end": 1.5,
+                    "probability": 0.9757864475250244
+                },
+                {
+                    "word": " least",
+                    "start": 1.5,
+                    "end": 1.64,
+                    "probability": 0.9895450472831726
+                },
+                {
+                    "word": " 2",
+                    "start": 1.64,
+                    "end": 2.0,
+                    "probability": 0.5376957058906555
+                },
+                {
+                    "word": " hours",
+                    "start": 2.0,
+                    "end": 2.28,
+                    "probability": 0.9855210185050964
+                },
+                {
+                    "word": " before",
+                    "start": 2.28,
+                    "end": 2.8,
+                    "probability": 0.9819324612617493
+                },
+                {
+                    "word": " our",
+                    "start": 2.8,
+                    "end": 3.06,
+                    "probability": 0.6647085547447205
+                },
+                {
+                    "word": " flight.",
+                    "start": 3.06,
+                    "end": 3.4,
+                    "probability": 0.9951915740966797
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

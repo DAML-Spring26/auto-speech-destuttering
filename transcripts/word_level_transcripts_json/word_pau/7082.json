@@ -1,0 +1,94 @@
+{
+    "text": " Please remember to turn off the lights when you leave.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.46,
+            "text": " Please remember to turn off the lights when you leave.",
+            "tokens": [
+                50364,
+                2555,
+                1604,
+                281,
+                1261,
+                766,
+                264,
+                5811,
+                562,
+                291,
+                1856,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2759957994733538,
+            "compression_ratio": 0.8852459016393442,
+            "no_speech_prob": 0.010640650987625122,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.7692013382911682
+                },
+                {
+                    "word": " remember",
+                    "start": 0.2,
+                    "end": 0.7,
+                    "probability": 0.9933323264122009
+                },
+                {
+                    "word": " to",
+                    "start": 0.7,
+                    "end": 0.92,
+                    "probability": 0.9929718375205994
+                },
+                {
+                    "word": " turn",
+                    "start": 0.92,
+                    "end": 1.16,
+                    "probability": 0.979176938533783
+                },
+                {
+                    "word": " off",
+                    "start": 1.16,
+                    "end": 1.56,
+                    "probability": 0.9788784980773926
+                },
+                {
+                    "word": " the",
+                    "start": 1.56,
+                    "end": 4.68,
+                    "probability": 0.8421115279197693
+                },
+                {
+                    "word": " lights",
+                    "start": 4.68,
+                    "end": 4.9,
+                    "probability": 0.9948004484176636
+                },
+                {
+                    "word": " when",
+                    "start": 4.9,
+                    "end": 5.14,
+                    "probability": 0.9901291728019714
+                },
+                {
+                    "word": " you",
+                    "start": 5.14,
+                    "end": 5.28,
+                    "probability": 0.9982516169548035
+                },
+                {
+                    "word": " leave.",
+                    "start": 5.28,
+                    "end": 5.46,
+                    "probability": 0.9991965889930725
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

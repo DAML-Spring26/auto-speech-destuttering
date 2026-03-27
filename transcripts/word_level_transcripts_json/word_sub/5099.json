@@ -1,0 +1,110 @@
+{
+    "text": " She posted a selfie with her new hair stall on her staccram.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.28,
+            "text": " She posted a selfie with her new hair stall on her staccram.",
+            "tokens": [
+                50364,
+                1240,
+                9437,
+                257,
+                22147,
+                365,
+                720,
+                777,
+                2578,
+                19633,
+                322,
+                720,
+                342,
+                8476,
+                2356,
+                13,
+                50540
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.622112062242296,
+            "compression_ratio": 0.9523809523809523,
+            "no_speech_prob": 0.002698191674426198,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.6981704235076904
+                },
+                {
+                    "word": " posted",
+                    "start": 0.18,
+                    "end": 0.6,
+                    "probability": 0.9817603230476379
+                },
+                {
+                    "word": " a",
+                    "start": 0.6,
+                    "end": 0.78,
+                    "probability": 0.9747161269187927
+                },
+                {
+                    "word": " selfie",
+                    "start": 0.78,
+                    "end": 1.2,
+                    "probability": 0.9952859282493591
+                },
+                {
+                    "word": " with",
+                    "start": 1.2,
+                    "end": 1.48,
+                    "probability": 0.9901357293128967
+                },
+                {
+                    "word": " her",
+                    "start": 1.48,
+                    "end": 1.62,
+                    "probability": 0.8819921612739563
+                },
+                {
+                    "word": " new",
+                    "start": 1.62,
+                    "end": 1.78,
+                    "probability": 0.9848617315292358
+                },
+                {
+                    "word": " hair",
+                    "start": 1.78,
+                    "end": 2.04,
+                    "probability": 0.5900036692619324
+                },
+                {
+                    "word": " stall",
+                    "start": 2.04,
+                    "end": 2.4,
+                    "probability": 0.31015095114707947
+                },
+                {
+                    "word": " on",
+                    "start": 2.4,
+                    "end": 2.62,
+                    "probability": 0.8785949945449829
+                },
+                {
+                    "word": " her",
+                    "start": 2.62,
+                    "end": 2.74,
+                    "probability": 0.1222705990076065
+                },
+                {
+                    "word": " staccram.",
+                    "start": 2.74,
+                    "end": 3.28,
+                    "probability": 0.4177352488040924
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

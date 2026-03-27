@@ -1,0 +1,59 @@
+{
+    "text": " Please collect your preferred option.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.58,
+            "text": " Please collect your preferred option.",
+            "tokens": [
+                50364,
+                2555,
+                2500,
+                428,
+                16494,
+                3614,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39771000544230145,
+            "compression_ratio": 0.8222222222222222,
+            "no_speech_prob": 0.021342622116208076,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.49777424335479736
+                },
+                {
+                    "word": " collect",
+                    "start": 0.2,
+                    "end": 0.54,
+                    "probability": 0.9364309310913086
+                },
+                {
+                    "word": " your",
+                    "start": 0.54,
+                    "end": 0.78,
+                    "probability": 0.9927029609680176
+                },
+                {
+                    "word": " preferred",
+                    "start": 0.78,
+                    "end": 1.1,
+                    "probability": 0.931988537311554
+                },
+                {
+                    "word": " option.",
+                    "start": 1.1,
+                    "end": 1.58,
+                    "probability": 0.9803500175476074
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

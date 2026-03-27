@@ -1,0 +1,67 @@
+{
+    "text": " Please submit your application by redline.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.58,
+            "text": " Please submit your application by redline.",
+            "tokens": [
+                50364,
+                2555,
+                10315,
+                428,
+                3861,
+                538,
+                2182,
+                1889,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4616555300625888,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.0025614523328840733,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.3498612940311432
+                },
+                {
+                    "word": " submit",
+                    "start": 0.12,
+                    "end": 0.38,
+                    "probability": 0.97957843542099
+                },
+                {
+                    "word": " your",
+                    "start": 0.38,
+                    "end": 0.52,
+                    "probability": 0.9903172254562378
+                },
+                {
+                    "word": " application",
+                    "start": 0.52,
+                    "end": 0.96,
+                    "probability": 0.9337670207023621
+                },
+                {
+                    "word": " by",
+                    "start": 0.96,
+                    "end": 1.18,
+                    "probability": 0.9711188077926636
+                },
+                {
+                    "word": " redline.",
+                    "start": 1.18,
+                    "end": 1.58,
+                    "probability": 0.7533566653728485
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

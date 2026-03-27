@@ -1,0 +1,52 @@
+{
+    "text": " The document was renewed.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.32,
+            "text": " The document was renewed.",
+            "tokens": [
+                50364,
+                440,
+                4166,
+                390,
+                30228,
+                13,
+                50444
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45549482107162476,
+            "compression_ratio": 0.7575757575757576,
+            "no_speech_prob": 0.0028006630018353462,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5471335649490356
+                },
+                {
+                    "word": " document",
+                    "start": 0.12,
+                    "end": 0.64,
+                    "probability": 0.984169602394104
+                },
+                {
+                    "word": " was",
+                    "start": 0.64,
+                    "end": 0.94,
+                    "probability": 0.9922290444374084
+                },
+                {
+                    "word": " renewed.",
+                    "start": 0.94,
+                    "end": 1.32,
+                    "probability": 0.9810046553611755
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,66 @@
+{
+    "text": " The concert will feature tactical music.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.26,
+            "text": " The concert will feature tactical music.",
+            "tokens": [
+                50364,
+                440,
+                8543,
+                486,
+                4111,
+                26323,
+                1318,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45848388671875,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.009583408012986183,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7422211766242981
+                },
+                {
+                    "word": " concert",
+                    "start": 0.12,
+                    "end": 0.6,
+                    "probability": 0.9510067701339722
+                },
+                {
+                    "word": " will",
+                    "start": 0.6,
+                    "end": 0.86,
+                    "probability": 0.9790109992027283
+                },
+                {
+                    "word": " feature",
+                    "start": 0.86,
+                    "end": 1.18,
+                    "probability": 0.9866195917129517
+                },
+                {
+                    "word": " tactical",
+                    "start": 1.18,
+                    "end": 1.68,
+                    "probability": 0.5198837518692017
+                },
+                {
+                    "word": " music.",
+                    "start": 1.68,
+                    "end": 2.26,
+                    "probability": 0.9982950091362
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,59 @@
+{
+    "text": " The software needs regular debates.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.14,
+            "text": " The software needs regular debates.",
+            "tokens": [
+                50364,
+                440,
+                4722,
+                2203,
+                3890,
+                24203,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5003855493333604,
+            "compression_ratio": 0.813953488372093,
+            "no_speech_prob": 0.008365572430193424,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.4854183793067932
+                },
+                {
+                    "word": " software",
+                    "start": 0.14,
+                    "end": 0.62,
+                    "probability": 0.8769333958625793
+                },
+                {
+                    "word": " needs",
+                    "start": 0.62,
+                    "end": 1.14,
+                    "probability": 0.9930974841117859
+                },
+                {
+                    "word": " regular",
+                    "start": 1.14,
+                    "end": 1.62,
+                    "probability": 0.9821946024894714
+                },
+                {
+                    "word": " debates.",
+                    "start": 1.62,
+                    "end": 2.14,
+                    "probability": 0.9766027927398682
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

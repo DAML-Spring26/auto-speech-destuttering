@@ -1,0 +1,95 @@
+{
+    "text": " The company's profits have steadily increasing over the past year.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.28,
+            "text": " The company's profits have steadily increasing over the past year.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                17982,
+                362,
+                36129,
+                5662,
+                670,
+                264,
+                1791,
+                1064,
+                13,
+                50584
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27733122507731117,
+            "compression_ratio": 0.9565217391304348,
+            "no_speech_prob": 0.00496562710031867,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7565997838973999
+                },
+                {
+                    "word": " company's",
+                    "start": 0.14,
+                    "end": 0.9,
+                    "probability": 0.9685439765453339
+                },
+                {
+                    "word": " profits",
+                    "start": 0.9,
+                    "end": 1.34,
+                    "probability": 0.9912775754928589
+                },
+                {
+                    "word": " have",
+                    "start": 1.34,
+                    "end": 1.62,
+                    "probability": 0.9911710619926453
+                },
+                {
+                    "word": " steadily",
+                    "start": 1.62,
+                    "end": 2.1,
+                    "probability": 0.9977346658706665
+                },
+                {
+                    "word": " increasing",
+                    "start": 2.1,
+                    "end": 2.78,
+                    "probability": 0.9825595617294312
+                },
+                {
+                    "word": " over",
+                    "start": 2.78,
+                    "end": 3.34,
+                    "probability": 0.9925376772880554
+                },
+                {
+                    "word": " the",
+                    "start": 3.34,
+                    "end": 3.52,
+                    "probability": 0.9944949746131897
+                },
+                {
+                    "word": " past",
+                    "start": 3.52,
+                    "end": 3.96,
+                    "probability": 0.9978265166282654
+                },
+                {
+                    "word": " year.",
+                    "start": 3.96,
+                    "end": 4.28,
+                    "probability": 0.9981856942176819
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

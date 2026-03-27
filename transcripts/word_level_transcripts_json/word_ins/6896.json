@@ -1,0 +1,116 @@
+{
+    "text": " Mom asked if we could um, pick up groceries on the way home.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.36,
+            "text": " Mom asked if we could um, pick up groceries on the way home.",
+            "tokens": [
+                50364,
+                5576,
+                2351,
+                498,
+                321,
+                727,
+                1105,
+                11,
+                1888,
+                493,
+                31391,
+                322,
+                264,
+                636,
+                1280,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21601993507809109,
+            "compression_ratio": 0.9375,
+            "no_speech_prob": 0.007690079510211945,
+            "words": [
+                {
+                    "word": " Mom",
+                    "start": 0.0,
+                    "end": 0.54,
+                    "probability": 0.8299847841262817
+                },
+                {
+                    "word": " asked",
+                    "start": 0.54,
+                    "end": 0.88,
+                    "probability": 0.9960200190544128
+                },
+                {
+                    "word": " if",
+                    "start": 0.88,
+                    "end": 1.06,
+                    "probability": 0.9943864345550537
+                },
+                {
+                    "word": " we",
+                    "start": 1.06,
+                    "end": 1.16,
+                    "probability": 0.9970502853393555
+                },
+                {
+                    "word": " could",
+                    "start": 1.16,
+                    "end": 1.38,
+                    "probability": 0.9965873956680298
+                },
+                {
+                    "word": " um,",
+                    "start": 1.38,
+                    "end": 1.6,
+                    "probability": 0.4980369806289673
+                },
+                {
+                    "word": " pick",
+                    "start": 1.94,
+                    "end": 2.1,
+                    "probability": 0.8573905825614929
+                },
+                {
+                    "word": " up",
+                    "start": 2.1,
+                    "end": 2.24,
+                    "probability": 0.996152937412262
+                },
+                {
+                    "word": " groceries",
+                    "start": 2.24,
+                    "end": 2.6,
+                    "probability": 0.9945688247680664
+                },
+                {
+                    "word": " on",
+                    "start": 2.6,
+                    "end": 2.9,
+                    "probability": 0.9923417568206787
+                },
+                {
+                    "word": " the",
+                    "start": 2.9,
+                    "end": 3.0,
+                    "probability": 0.9966189861297607
+                },
+                {
+                    "word": " way",
+                    "start": 3.0,
+                    "end": 3.14,
+                    "probability": 0.995633065700531
+                },
+                {
+                    "word": " home.",
+                    "start": 3.14,
+                    "end": 3.36,
+                    "probability": 0.9991487264633179
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

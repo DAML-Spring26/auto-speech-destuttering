@@ -1,0 +1,59 @@
+{
+    "text": " the journalist investigated corporate eruption.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.96,
+            "text": " the journalist investigated corporate eruption.",
+            "tokens": [
+                50364,
+                264,
+                17277,
+                30070,
+                10896,
+                42584,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.612648434109158,
+            "compression_ratio": 0.8867924528301887,
+            "no_speech_prob": 0.007330941967666149,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.41519153118133545
+                },
+                {
+                    "word": " journalist",
+                    "start": 0.08,
+                    "end": 0.38,
+                    "probability": 0.7664821743965149
+                },
+                {
+                    "word": " investigated",
+                    "start": 0.38,
+                    "end": 0.98,
+                    "probability": 0.5635654926300049
+                },
+                {
+                    "word": " corporate",
+                    "start": 0.98,
+                    "end": 1.54,
+                    "probability": 0.9236695766448975
+                },
+                {
+                    "word": " eruption.",
+                    "start": 1.54,
+                    "end": 1.96,
+                    "probability": 0.6721624732017517
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

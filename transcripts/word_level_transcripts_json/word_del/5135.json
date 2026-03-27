@@ -1,0 +1,94 @@
+{
+    "text": " The children are looking forward going on vacation next month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.04,
+            "text": " The children are looking forward going on vacation next month.",
+            "tokens": [
+                50364,
+                440,
+                2227,
+                366,
+                1237,
+                2128,
+                516,
+                322,
+                12830,
+                958,
+                1618,
+                13,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29628191675458637,
+            "compression_ratio": 0.9538461538461539,
+            "no_speech_prob": 0.010050125420093536,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7325137257575989
+                },
+                {
+                    "word": " children",
+                    "start": 0.1,
+                    "end": 0.46,
+                    "probability": 0.9897900223731995
+                },
+                {
+                    "word": " are",
+                    "start": 0.46,
+                    "end": 0.68,
+                    "probability": 0.995663583278656
+                },
+                {
+                    "word": " looking",
+                    "start": 0.68,
+                    "end": 0.94,
+                    "probability": 0.9976949095726013
+                },
+                {
+                    "word": " forward",
+                    "start": 0.94,
+                    "end": 1.32,
+                    "probability": 0.9722228646278381
+                },
+                {
+                    "word": " going",
+                    "start": 1.32,
+                    "end": 1.6,
+                    "probability": 0.9808768630027771
+                },
+                {
+                    "word": " on",
+                    "start": 1.6,
+                    "end": 1.88,
+                    "probability": 0.9946489930152893
+                },
+                {
+                    "word": " vacation",
+                    "start": 1.88,
+                    "end": 2.26,
+                    "probability": 0.9942464232444763
+                },
+                {
+                    "word": " next",
+                    "start": 2.26,
+                    "end": 2.78,
+                    "probability": 0.9911651015281677
+                },
+                {
+                    "word": " month.",
+                    "start": 2.78,
+                    "end": 3.04,
+                    "probability": 0.9939462542533875
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

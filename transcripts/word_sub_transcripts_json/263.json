@@ -1,0 +1,59 @@
+{
+    "text": " She pretended the findings clearly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.76,
+            "text": " She pretended the findings clearly.",
+            "tokens": [
+                50364,
+                1240,
+                45056,
+                264,
+                16483,
+                4448,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.342370695537991,
+            "compression_ratio": 0.8536585365853658,
+            "no_speech_prob": 0.009407498873770237,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.6033319234848022
+                },
+                {
+                    "word": " pretended",
+                    "start": 0.3,
+                    "end": 0.72,
+                    "probability": 0.9871668219566345
+                },
+                {
+                    "word": " the",
+                    "start": 0.72,
+                    "end": 0.92,
+                    "probability": 0.8511273264884949
+                },
+                {
+                    "word": " findings",
+                    "start": 0.92,
+                    "end": 1.28,
+                    "probability": 0.9713467955589294
+                },
+                {
+                    "word": " clearly.",
+                    "start": 1.28,
+                    "end": 1.76,
+                    "probability": 0.9865575432777405
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

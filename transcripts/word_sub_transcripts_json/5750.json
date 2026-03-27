@@ -1,0 +1,67 @@
+{
+    "text": " The company's net profit exceeded expectations.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.18,
+            "text": " The company's net profit exceeded expectations.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                2533,
+                7475,
+                38026,
+                9843,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3656213500282981,
+            "compression_ratio": 0.8867924528301887,
+            "no_speech_prob": 0.007710583042353392,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7276927828788757
+                },
+                {
+                    "word": " company's",
+                    "start": 0.14,
+                    "end": 0.84,
+                    "probability": 0.9433337450027466
+                },
+                {
+                    "word": " net",
+                    "start": 0.84,
+                    "end": 1.0,
+                    "probability": 0.9419435262680054
+                },
+                {
+                    "word": " profit",
+                    "start": 1.0,
+                    "end": 1.58,
+                    "probability": 0.986255407333374
+                },
+                {
+                    "word": " exceeded",
+                    "start": 1.58,
+                    "end": 2.2,
+                    "probability": 0.9950313568115234
+                },
+                {
+                    "word": " expectations.",
+                    "start": 2.2,
+                    "end": 3.18,
+                    "probability": 0.9154974818229675
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

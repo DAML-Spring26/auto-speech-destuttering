@@ -1,0 +1,74 @@
+{
+    "text": " Let's watch the new superhero movie tonight.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.86,
+            "text": " Let's watch the new superhero movie tonight.",
+            "tokens": [
+                50364,
+                961,
+                311,
+                1159,
+                264,
+                777,
+                19428,
+                3169,
+                4440,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39368971188863117,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.005164783447980881,
+            "words": [
+                {
+                    "word": " Let's",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.8079002499580383
+                },
+                {
+                    "word": " watch",
+                    "start": 0.34,
+                    "end": 0.74,
+                    "probability": 0.9897488951683044
+                },
+                {
+                    "word": " the",
+                    "start": 0.74,
+                    "end": 2.96,
+                    "probability": 0.7329882383346558
+                },
+                {
+                    "word": " new",
+                    "start": 2.96,
+                    "end": 3.26,
+                    "probability": 0.9174858331680298
+                },
+                {
+                    "word": " superhero",
+                    "start": 3.26,
+                    "end": 3.96,
+                    "probability": 0.5575329065322876
+                },
+                {
+                    "word": " movie",
+                    "start": 3.96,
+                    "end": 4.34,
+                    "probability": 0.987033486366272
+                },
+                {
+                    "word": " tonight.",
+                    "start": 4.34,
+                    "end": 4.86,
+                    "probability": 0.9028533101081848
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

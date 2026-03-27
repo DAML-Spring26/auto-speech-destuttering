@@ -1,0 +1,80 @@
+{
+    "text": " Can you please provide your account a number?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.52,
+            "text": " Can you please provide your account a number?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                1767,
+                2893,
+                428,
+                2696,
+                257,
+                1230,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.310261865456899,
+            "compression_ratio": 0.8823529411764706,
+            "no_speech_prob": 0.038971904665231705,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.54,
+                    "probability": 0.8321181535720825
+                },
+                {
+                    "word": " you",
+                    "start": 0.54,
+                    "end": 0.66,
+                    "probability": 0.9928516745567322
+                },
+                {
+                    "word": " please",
+                    "start": 0.66,
+                    "end": 0.94,
+                    "probability": 0.9938046932220459
+                },
+                {
+                    "word": " provide",
+                    "start": 0.94,
+                    "end": 1.22,
+                    "probability": 0.9953005313873291
+                },
+                {
+                    "word": " your",
+                    "start": 1.22,
+                    "end": 1.48,
+                    "probability": 0.9937840700149536
+                },
+                {
+                    "word": " account",
+                    "start": 1.48,
+                    "end": 1.84,
+                    "probability": 0.9907554984092712
+                },
+                {
+                    "word": " a",
+                    "start": 1.84,
+                    "end": 2.16,
+                    "probability": 0.6975433826446533
+                },
+                {
+                    "word": " number?",
+                    "start": 2.16,
+                    "end": 2.52,
+                    "probability": 0.9833874702453613
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

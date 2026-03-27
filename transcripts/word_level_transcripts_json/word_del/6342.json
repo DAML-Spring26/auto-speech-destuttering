@@ -1,0 +1,110 @@
+{
+    "text": " If you have any questions, please don't hesitate contact the HR department.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.8,
+            "text": " If you have any questions, please don't hesitate contact the HR department.",
+            "tokens": [
+                50364,
+                759,
+                291,
+                362,
+                604,
+                1651,
+                11,
+                1767,
+                500,
+                380,
+                20842,
+                3385,
+                264,
+                19460,
+                5882,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3002234564887153,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.0030285592656582594,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.9305710196495056
+                },
+                {
+                    "word": " you",
+                    "start": 0.28,
+                    "end": 0.4,
+                    "probability": 0.998268723487854
+                },
+                {
+                    "word": " have",
+                    "start": 0.4,
+                    "end": 0.6,
+                    "probability": 0.9967485666275024
+                },
+                {
+                    "word": " any",
+                    "start": 0.6,
+                    "end": 0.82,
+                    "probability": 0.9491244554519653
+                },
+                {
+                    "word": " questions,",
+                    "start": 0.82,
+                    "end": 1.28,
+                    "probability": 0.9944472312927246
+                },
+                {
+                    "word": " please",
+                    "start": 1.54,
+                    "end": 1.66,
+                    "probability": 0.9915896058082581
+                },
+                {
+                    "word": " don't",
+                    "start": 1.66,
+                    "end": 1.98,
+                    "probability": 0.9811604022979736
+                },
+                {
+                    "word": " hesitate",
+                    "start": 1.98,
+                    "end": 2.16,
+                    "probability": 0.9992690682411194
+                },
+                {
+                    "word": " contact",
+                    "start": 2.16,
+                    "end": 2.78,
+                    "probability": 0.5995041728019714
+                },
+                {
+                    "word": " the",
+                    "start": 2.78,
+                    "end": 3.02,
+                    "probability": 0.9546495676040649
+                },
+                {
+                    "word": " HR",
+                    "start": 3.02,
+                    "end": 3.26,
+                    "probability": 0.9827613234519958
+                },
+                {
+                    "word": " department.",
+                    "start": 3.26,
+                    "end": 3.8,
+                    "probability": 0.7713789343833923
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

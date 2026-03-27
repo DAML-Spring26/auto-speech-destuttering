@@ -1,0 +1,110 @@
+{
+    "text": " Despite the economic downturn, the company managed to increase its market share.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.38,
+            "text": " Despite the economic downturn, the company managed to increase its market share.",
+            "tokens": [
+                50364,
+                11334,
+                264,
+                4836,
+                11655,
+                925,
+                11,
+                264,
+                2237,
+                6453,
+                281,
+                3488,
+                1080,
+                2142,
+                2073,
+                13,
+                50590
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22303395801120335,
+            "compression_ratio": 1.0666666666666667,
+            "no_speech_prob": 0.004527183715254068,
+            "words": [
+                {
+                    "word": " Despite",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.8715209364891052
+                },
+                {
+                    "word": " the",
+                    "start": 0.38,
+                    "end": 0.66,
+                    "probability": 0.9916613101959229
+                },
+                {
+                    "word": " economic",
+                    "start": 0.66,
+                    "end": 1.14,
+                    "probability": 0.9982434511184692
+                },
+                {
+                    "word": " downturn,",
+                    "start": 1.14,
+                    "end": 1.68,
+                    "probability": 0.9924265444278717
+                },
+                {
+                    "word": " the",
+                    "start": 1.78,
+                    "end": 1.84,
+                    "probability": 0.9941164255142212
+                },
+                {
+                    "word": " company",
+                    "start": 1.84,
+                    "end": 2.2,
+                    "probability": 0.9892772436141968
+                },
+                {
+                    "word": " managed",
+                    "start": 2.2,
+                    "end": 2.62,
+                    "probability": 0.9678831100463867
+                },
+                {
+                    "word": " to",
+                    "start": 2.62,
+                    "end": 2.86,
+                    "probability": 0.9977501034736633
+                },
+                {
+                    "word": " increase",
+                    "start": 2.86,
+                    "end": 3.2,
+                    "probability": 0.960588812828064
+                },
+                {
+                    "word": " its",
+                    "start": 3.2,
+                    "end": 3.56,
+                    "probability": 0.9358922243118286
+                },
+                {
+                    "word": " market",
+                    "start": 3.56,
+                    "end": 4.04,
+                    "probability": 0.9074094295501709
+                },
+                {
+                    "word": " share.",
+                    "start": 4.04,
+                    "end": 4.38,
+                    "probability": 0.9974173307418823
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

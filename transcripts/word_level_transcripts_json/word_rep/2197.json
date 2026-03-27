@@ -1,0 +1,53 @@
+{
+    "text": " Fish, fish and deep.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.24,
+            "text": " Fish, fish and deep.",
+            "tokens": [
+                50364,
+                18096,
+                11,
+                3506,
+                293,
+                2452,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6981376012166342,
+            "compression_ratio": 0.7692307692307693,
+            "no_speech_prob": 0.05400531366467476,
+            "words": [
+                {
+                    "word": " Fish,",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.631338894367218
+                },
+                {
+                    "word": " fish",
+                    "start": 0.44,
+                    "end": 0.64,
+                    "probability": 0.6941487193107605
+                },
+                {
+                    "word": " and",
+                    "start": 0.64,
+                    "end": 0.86,
+                    "probability": 0.44051235914230347
+                },
+                {
+                    "word": " deep.",
+                    "start": 0.86,
+                    "end": 1.24,
+                    "probability": 0.9126091003417969
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

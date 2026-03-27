@@ -1,0 +1,60 @@
+{
+    "text": " They complemented the changes gradually.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.78,
+            "text": " They complemented the changes gradually.",
+            "tokens": [
+                50364,
+                814,
+                17103,
+                292,
+                264,
+                2962,
+                13145,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32065978050231936,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.007298022508621216,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.48446810245513916
+                },
+                {
+                    "word": " complemented",
+                    "start": 0.1,
+                    "end": 0.84,
+                    "probability": 0.8828011155128479
+                },
+                {
+                    "word": " the",
+                    "start": 0.84,
+                    "end": 0.98,
+                    "probability": 0.9938676953315735
+                },
+                {
+                    "word": " changes",
+                    "start": 0.98,
+                    "end": 1.28,
+                    "probability": 0.9705685973167419
+                },
+                {
+                    "word": " gradually.",
+                    "start": 1.28,
+                    "end": 1.78,
+                    "probability": 0.9969452023506165
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

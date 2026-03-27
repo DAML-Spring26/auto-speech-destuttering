@@ -1,0 +1,102 @@
+{
+    "text": " We need to ascertain the applicant meets all the necessary qualifications.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.28,
+            "text": " We need to ascertain the applicant meets all the necessary qualifications.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                15526,
+                1408,
+                264,
+                30915,
+                13961,
+                439,
+                264,
+                4818,
+                33223,
+                13,
+                50572
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28119879961013794,
+            "compression_ratio": 1.0571428571428572,
+            "no_speech_prob": 0.004276018589735031,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7635337710380554
+                },
+                {
+                    "word": " need",
+                    "start": 0.12,
+                    "end": 0.28,
+                    "probability": 0.9953138828277588
+                },
+                {
+                    "word": " to",
+                    "start": 0.28,
+                    "end": 0.46,
+                    "probability": 0.9953308701515198
+                },
+                {
+                    "word": " ascertain",
+                    "start": 0.46,
+                    "end": 0.96,
+                    "probability": 0.9553744196891785
+                },
+                {
+                    "word": " the",
+                    "start": 0.96,
+                    "end": 1.14,
+                    "probability": 0.8860741853713989
+                },
+                {
+                    "word": " applicant",
+                    "start": 1.14,
+                    "end": 1.46,
+                    "probability": 0.7718971967697144
+                },
+                {
+                    "word": " meets",
+                    "start": 1.46,
+                    "end": 1.74,
+                    "probability": 0.6274018883705139
+                },
+                {
+                    "word": " all",
+                    "start": 1.74,
+                    "end": 2.04,
+                    "probability": 0.991669774055481
+                },
+                {
+                    "word": " the",
+                    "start": 2.04,
+                    "end": 2.18,
+                    "probability": 0.9624850749969482
+                },
+                {
+                    "word": " necessary",
+                    "start": 2.18,
+                    "end": 2.62,
+                    "probability": 0.9977338314056396
+                },
+                {
+                    "word": " qualifications.",
+                    "start": 2.62,
+                    "end": 3.28,
+                    "probability": 0.9783546924591064
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

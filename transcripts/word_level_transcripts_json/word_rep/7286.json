@@ -1,0 +1,88 @@
+{
+    "text": " We should review the budget before finalising the plans.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.36,
+            "text": " We should review the budget before finalising the plans.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                3131,
+                264,
+                4706,
+                949,
+                2572,
+                3436,
+                264,
+                5482,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26974236965179443,
+            "compression_ratio": 0.9180327868852459,
+            "no_speech_prob": 0.005083328112959862,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6953707933425903
+                },
+                {
+                    "word": " should",
+                    "start": 0.12,
+                    "end": 0.28,
+                    "probability": 0.997749388217926
+                },
+                {
+                    "word": " review",
+                    "start": 0.28,
+                    "end": 0.5,
+                    "probability": 0.9833599328994751
+                },
+                {
+                    "word": " the",
+                    "start": 0.5,
+                    "end": 0.66,
+                    "probability": 0.9910050630569458
+                },
+                {
+                    "word": " budget",
+                    "start": 0.66,
+                    "end": 0.98,
+                    "probability": 0.9867644309997559
+                },
+                {
+                    "word": " before",
+                    "start": 0.98,
+                    "end": 1.44,
+                    "probability": 0.9864279627799988
+                },
+                {
+                    "word": " finalising",
+                    "start": 1.44,
+                    "end": 2.8,
+                    "probability": 0.827025979757309
+                },
+                {
+                    "word": " the",
+                    "start": 2.8,
+                    "end": 2.98,
+                    "probability": 0.991719126701355
+                },
+                {
+                    "word": " plans.",
+                    "start": 2.98,
+                    "end": 3.36,
+                    "probability": 0.9863483905792236
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

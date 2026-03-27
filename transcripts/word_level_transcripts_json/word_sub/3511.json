@@ -1,0 +1,66 @@
+{
+    "text": " The emergency response team arrives swiftly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.66,
+            "text": " The emergency response team arrives swiftly.",
+            "tokens": [
+                50364,
+                440,
+                7473,
+                4134,
+                1469,
+                20116,
+                49891,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3889542818069458,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.00887281633913517,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.5989222526550293
+                },
+                {
+                    "word": " emergency",
+                    "start": 0.16,
+                    "end": 0.74,
+                    "probability": 0.9126351475715637
+                },
+                {
+                    "word": " response",
+                    "start": 0.74,
+                    "end": 1.32,
+                    "probability": 0.9604606032371521
+                },
+                {
+                    "word": " team",
+                    "start": 1.32,
+                    "end": 1.76,
+                    "probability": 0.9926250576972961
+                },
+                {
+                    "word": " arrives",
+                    "start": 1.76,
+                    "end": 2.16,
+                    "probability": 0.8831642270088196
+                },
+                {
+                    "word": " swiftly.",
+                    "start": 2.16,
+                    "end": 2.66,
+                    "probability": 0.9372378587722778
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

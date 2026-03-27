@@ -1,0 +1,45 @@
+{
+    "text": " Fish swim fast.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.34,
+            "text": " Fish swim fast.",
+            "tokens": [
+                50364,
+                18096,
+                7110,
+                2370,
+                13,
+                50454
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6078218732561383,
+            "compression_ratio": 0.6521739130434783,
+            "no_speech_prob": 0.034168947488069534,
+            "words": [
+                {
+                    "word": " Fish",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.7484152913093567
+                },
+                {
+                    "word": " swim",
+                    "start": 0.36,
+                    "end": 0.92,
+                    "probability": 0.5128217339515686
+                },
+                {
+                    "word": " fast.",
+                    "start": 0.92,
+                    "end": 1.34,
+                    "probability": 0.9875033497810364
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

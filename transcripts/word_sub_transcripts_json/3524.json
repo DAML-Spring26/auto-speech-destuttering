@@ -1,0 +1,66 @@
+{
+    "text": " The medical team conducted clinical finals.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.44,
+            "text": " The medical team conducted clinical finals.",
+            "tokens": [
+                50364,
+                440,
+                4625,
+                1469,
+                13809,
+                9115,
+                25526,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3965571880340576,
+            "compression_ratio": 0.8958333333333334,
+            "no_speech_prob": 0.003913720138370991,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.595297634601593
+                },
+                {
+                    "word": " medical",
+                    "start": 0.12,
+                    "end": 0.48,
+                    "probability": 0.8043753504753113
+                },
+                {
+                    "word": " team",
+                    "start": 0.48,
+                    "end": 0.76,
+                    "probability": 0.9905250668525696
+                },
+                {
+                    "word": " conducted",
+                    "start": 0.76,
+                    "end": 1.32,
+                    "probability": 0.9934926629066467
+                },
+                {
+                    "word": " clinical",
+                    "start": 1.32,
+                    "end": 1.78,
+                    "probability": 0.9960711002349854
+                },
+                {
+                    "word": " finals.",
+                    "start": 1.78,
+                    "end": 2.44,
+                    "probability": 0.954434871673584
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

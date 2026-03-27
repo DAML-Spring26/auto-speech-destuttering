@@ -1,0 +1,94 @@
+{
+    "text": " Can you believe how quickly the semester has gone by?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.62,
+            "text": " Can you believe how quickly the semester has gone by?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                1697,
+                577,
+                2661,
+                264,
+                11894,
+                575,
+                2780,
+                538,
+                30,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23115755830492293,
+            "compression_ratio": 0.8833333333333333,
+            "no_speech_prob": 0.010828867554664612,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.7916752696037292
+                },
+                {
+                    "word": " you",
+                    "start": 0.18,
+                    "end": 0.36,
+                    "probability": 0.9963562488555908
+                },
+                {
+                    "word": " believe",
+                    "start": 0.36,
+                    "end": 0.68,
+                    "probability": 0.9900193214416504
+                },
+                {
+                    "word": " how",
+                    "start": 0.68,
+                    "end": 0.84,
+                    "probability": 0.9751655459403992
+                },
+                {
+                    "word": " quickly",
+                    "start": 0.84,
+                    "end": 1.36,
+                    "probability": 0.9898425936698914
+                },
+                {
+                    "word": " the",
+                    "start": 1.36,
+                    "end": 3.14,
+                    "probability": 0.7248876690864563
+                },
+                {
+                    "word": " semester",
+                    "start": 3.14,
+                    "end": 3.66,
+                    "probability": 0.9936961531639099
+                },
+                {
+                    "word": " has",
+                    "start": 3.66,
+                    "end": 4.02,
+                    "probability": 0.9851084351539612
+                },
+                {
+                    "word": " gone",
+                    "start": 4.02,
+                    "end": 4.26,
+                    "probability": 0.9964213371276855
+                },
+                {
+                    "word": " by?",
+                    "start": 4.26,
+                    "end": 4.62,
+                    "probability": 0.9964268803596497
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

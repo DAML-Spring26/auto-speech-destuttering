@@ -1,0 +1,122 @@
+{
+    "text": " Grandma has been teaching me how to to bake her famous apple pie recipe.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.32,
+            "text": " Grandma has been teaching me how to to bake her famous apple pie recipe.",
+            "tokens": [
+                50364,
+                22657,
+                575,
+                668,
+                4571,
+                385,
+                577,
+                281,
+                281,
+                16562,
+                720,
+                4618,
+                10606,
+                1730,
+                6782,
+                13,
+                50588
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3376893467373318,
+            "compression_ratio": 1.0285714285714285,
+            "no_speech_prob": 0.01609932631254196,
+            "words": [
+                {
+                    "word": " Grandma",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.5642938017845154
+                },
+                {
+                    "word": " has",
+                    "start": 0.32,
+                    "end": 0.68,
+                    "probability": 0.9856642484664917
+                },
+                {
+                    "word": " been",
+                    "start": 0.68,
+                    "end": 0.86,
+                    "probability": 0.9966397285461426
+                },
+                {
+                    "word": " teaching",
+                    "start": 0.86,
+                    "end": 1.28,
+                    "probability": 0.9921690821647644
+                },
+                {
+                    "word": " me",
+                    "start": 1.28,
+                    "end": 1.5,
+                    "probability": 0.9968356490135193
+                },
+                {
+                    "word": " how",
+                    "start": 1.5,
+                    "end": 1.7,
+                    "probability": 0.9920853972434998
+                },
+                {
+                    "word": " to",
+                    "start": 1.7,
+                    "end": 2.12,
+                    "probability": 0.9934448003768921
+                },
+                {
+                    "word": " to",
+                    "start": 2.12,
+                    "end": 2.5,
+                    "probability": 0.4878128468990326
+                },
+                {
+                    "word": " bake",
+                    "start": 2.5,
+                    "end": 2.7,
+                    "probability": 0.5854796767234802
+                },
+                {
+                    "word": " her",
+                    "start": 2.7,
+                    "end": 2.86,
+                    "probability": 0.9572089910507202
+                },
+                {
+                    "word": " famous",
+                    "start": 2.86,
+                    "end": 3.28,
+                    "probability": 0.9924766421318054
+                },
+                {
+                    "word": " apple",
+                    "start": 3.28,
+                    "end": 3.64,
+                    "probability": 0.7725964188575745
+                },
+                {
+                    "word": " pie",
+                    "start": 3.64,
+                    "end": 3.9,
+                    "probability": 0.9962804913520813
+                },
+                {
+                    "word": " recipe.",
+                    "start": 3.9,
+                    "end": 4.32,
+                    "probability": 0.9968212842941284
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

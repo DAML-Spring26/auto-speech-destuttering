@@ -1,0 +1,53 @@
+{
+    "text": " Sarah, Sarah likes pizza.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.24,
+            "text": " Sarah, Sarah likes pizza.",
+            "tokens": [
+                50364,
+                9519,
+                11,
+                9519,
+                5902,
+                8298,
+                13,
+                50496
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.540190855662028,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.040248122066259384,
+            "words": [
+                {
+                    "word": " Sarah,",
+                    "start": 0.0,
+                    "end": 0.52,
+                    "probability": 0.761753261089325
+                },
+                {
+                    "word": " Sarah",
+                    "start": 0.9,
+                    "end": 1.26,
+                    "probability": 0.9545125961303711
+                },
+                {
+                    "word": " likes",
+                    "start": 1.26,
+                    "end": 1.64,
+                    "probability": 0.9832543730735779
+                },
+                {
+                    "word": " pizza.",
+                    "start": 1.64,
+                    "end": 2.24,
+                    "probability": 0.9821348190307617
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

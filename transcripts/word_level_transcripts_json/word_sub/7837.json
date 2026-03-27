@@ -1,0 +1,73 @@
+{
+    "text": " we need to allocate resources more sufficiently.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.54,
+            "text": " we need to allocate resources more sufficiently.",
+            "tokens": [
+                50364,
+                321,
+                643,
+                281,
+                35713,
+                3593,
+                544,
+                31868,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30837834965098987,
+            "compression_ratio": 0.8888888888888888,
+            "no_speech_prob": 0.007813834585249424,
+            "words": [
+                {
+                    "word": " we",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.4611263871192932
+                },
+                {
+                    "word": " need",
+                    "start": 0.14,
+                    "end": 0.34,
+                    "probability": 0.9963639378547668
+                },
+                {
+                    "word": " to",
+                    "start": 0.34,
+                    "end": 0.54,
+                    "probability": 0.9986245632171631
+                },
+                {
+                    "word": " allocate",
+                    "start": 0.54,
+                    "end": 0.88,
+                    "probability": 0.9966158270835876
+                },
+                {
+                    "word": " resources",
+                    "start": 0.88,
+                    "end": 1.5,
+                    "probability": 0.9904476404190063
+                },
+                {
+                    "word": " more",
+                    "start": 1.5,
+                    "end": 1.86,
+                    "probability": 0.9968396425247192
+                },
+                {
+                    "word": " sufficiently.",
+                    "start": 1.86,
+                    "end": 2.54,
+                    "probability": 0.951043426990509
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

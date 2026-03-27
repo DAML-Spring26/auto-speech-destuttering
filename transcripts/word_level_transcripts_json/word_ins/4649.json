@@ -1,0 +1,126 @@
+{
+    "text": " Can you explain how this new policy will like? Effect our department.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.42,
+            "text": " Can you explain how this new policy will like?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                2903,
+                577,
+                341,
+                777,
+                3897,
+                486,
+                411,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35719628083078486,
+            "compression_ratio": 0.9583333333333334,
+            "no_speech_prob": 0.09209698438644409,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.72,
+                    "probability": 0.7911103963851929
+                },
+                {
+                    "word": " you",
+                    "start": 0.72,
+                    "end": 0.86,
+                    "probability": 0.9960870742797852
+                },
+                {
+                    "word": " explain",
+                    "start": 0.86,
+                    "end": 1.3,
+                    "probability": 0.9974287152290344
+                },
+                {
+                    "word": " how",
+                    "start": 1.3,
+                    "end": 1.62,
+                    "probability": 0.9943566918373108
+                },
+                {
+                    "word": " this",
+                    "start": 1.62,
+                    "end": 1.88,
+                    "probability": 0.9950374960899353
+                },
+                {
+                    "word": " new",
+                    "start": 1.88,
+                    "end": 2.2,
+                    "probability": 0.9836894869804382
+                },
+                {
+                    "word": " policy",
+                    "start": 2.2,
+                    "end": 2.78,
+                    "probability": 0.9956220984458923
+                },
+                {
+                    "word": " will",
+                    "start": 2.78,
+                    "end": 3.02,
+                    "probability": 0.950486421585083
+                },
+                {
+                    "word": " like?",
+                    "start": 3.02,
+                    "end": 3.42,
+                    "probability": 0.6610550880432129
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.4,
+            "end": 5.58,
+            "text": " Effect our department.",
+            "tokens": [
+                50564,
+                17764,
+                527,
+                5882,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35719628083078486,
+            "compression_ratio": 0.9583333333333334,
+            "no_speech_prob": 0.09209698438644409,
+            "words": [
+                {
+                    "word": " Effect",
+                    "start": 4.4,
+                    "end": 4.76,
+                    "probability": 0.6290810108184814
+                },
+                {
+                    "word": " our",
+                    "start": 4.76,
+                    "end": 5.06,
+                    "probability": 0.9695811867713928
+                },
+                {
+                    "word": " department.",
+                    "start": 5.06,
+                    "end": 5.58,
+                    "probability": 0.8004019856452942
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

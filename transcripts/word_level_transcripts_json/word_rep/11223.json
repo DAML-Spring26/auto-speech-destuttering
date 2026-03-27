@@ -1,0 +1,108 @@
+{
+    "text": " This approach is more effective than the one we used last year.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.02,
+            "text": " This approach is more effective than the one we used last year.",
+            "tokens": [
+                50364,
+                639,
+                3109,
+                307,
+                544,
+                4942,
+                813,
+                264,
+                472,
+                321,
+                1143,
+                1036,
+                1064,
+                13,
+                50576
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28609997034072876,
+            "compression_ratio": 0.9545454545454546,
+            "no_speech_prob": 0.011784935370087624,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.6164937019348145
+                },
+                {
+                    "word": " approach",
+                    "start": 0.18,
+                    "end": 0.64,
+                    "probability": 0.989820122718811
+                },
+                {
+                    "word": " is",
+                    "start": 0.64,
+                    "end": 0.92,
+                    "probability": 0.9860710501670837
+                },
+                {
+                    "word": " more",
+                    "start": 0.92,
+                    "end": 1.24,
+                    "probability": 0.9953887462615967
+                },
+                {
+                    "word": " effective",
+                    "start": 1.24,
+                    "end": 2.22,
+                    "probability": 0.8271999359130859
+                },
+                {
+                    "word": " than",
+                    "start": 2.22,
+                    "end": 2.62,
+                    "probability": 0.9812945127487183
+                },
+                {
+                    "word": " the",
+                    "start": 2.62,
+                    "end": 2.72,
+                    "probability": 0.9647070169448853
+                },
+                {
+                    "word": " one",
+                    "start": 2.72,
+                    "end": 2.88,
+                    "probability": 0.9899978041648865
+                },
+                {
+                    "word": " we",
+                    "start": 2.88,
+                    "end": 3.02,
+                    "probability": 0.9920476078987122
+                },
+                {
+                    "word": " used",
+                    "start": 3.02,
+                    "end": 3.24,
+                    "probability": 0.9521883726119995
+                },
+                {
+                    "word": " last",
+                    "start": 3.24,
+                    "end": 3.54,
+                    "probability": 0.99516761302948
+                },
+                {
+                    "word": " year.",
+                    "start": 3.54,
+                    "end": 4.02,
+                    "probability": 0.9974321722984314
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

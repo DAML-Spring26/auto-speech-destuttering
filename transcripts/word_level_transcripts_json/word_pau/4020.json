@@ -1,0 +1,117 @@
+{
+    "text": " I'm not sure if I'll be able to attend the conference next week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.96,
+            "text": " I'm not sure if I'll be able to attend the conference next week.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                406,
+                988,
+                498,
+                286,
+                603,
+                312,
+                1075,
+                281,
+                6888,
+                264,
+                7586,
+                958,
+                1243,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2642516336942974,
+            "compression_ratio": 0.9696969696969697,
+            "no_speech_prob": 0.0046108076348900795,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.655496209859848
+                },
+                {
+                    "word": " not",
+                    "start": 0.24,
+                    "end": 0.36,
+                    "probability": 0.9959586262702942
+                },
+                {
+                    "word": " sure",
+                    "start": 0.36,
+                    "end": 0.66,
+                    "probability": 0.9979920387268066
+                },
+                {
+                    "word": " if",
+                    "start": 0.66,
+                    "end": 1.02,
+                    "probability": 0.9907587766647339
+                },
+                {
+                    "word": " I'll",
+                    "start": 1.02,
+                    "end": 1.26,
+                    "probability": 0.9642220437526703
+                },
+                {
+                    "word": " be",
+                    "start": 1.26,
+                    "end": 1.4,
+                    "probability": 0.9983848333358765
+                },
+                {
+                    "word": " able",
+                    "start": 1.4,
+                    "end": 1.64,
+                    "probability": 0.9967789053916931
+                },
+                {
+                    "word": " to",
+                    "start": 1.64,
+                    "end": 5.42,
+                    "probability": 0.7560887932777405
+                },
+                {
+                    "word": " attend",
+                    "start": 5.42,
+                    "end": 5.7,
+                    "probability": 0.9965999722480774
+                },
+                {
+                    "word": " the",
+                    "start": 5.7,
+                    "end": 5.88,
+                    "probability": 0.9869391918182373
+                },
+                {
+                    "word": " conference",
+                    "start": 5.88,
+                    "end": 6.24,
+                    "probability": 0.9690521955490112
+                },
+                {
+                    "word": " next",
+                    "start": 6.24,
+                    "end": 6.64,
+                    "probability": 0.9956262111663818
+                },
+                {
+                    "word": " week.",
+                    "start": 6.64,
+                    "end": 6.96,
+                    "probability": 0.9991125464439392
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

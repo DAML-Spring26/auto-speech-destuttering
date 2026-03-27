@@ -1,0 +1,88 @@
+{
+    "text": " the company's new policy aims to reduce carbon emissions.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.32,
+            "text": " the company's new policy aims to reduce carbon emissions.",
+            "tokens": [
+                50364,
+                264,
+                2237,
+                311,
+                777,
+                3897,
+                24683,
+                281,
+                5407,
+                5954,
+                14607,
+                13,
+                50556
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3326542377471924,
+            "compression_ratio": 0.9047619047619048,
+            "no_speech_prob": 0.008319544605910778,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.407532662153244
+                },
+                {
+                    "word": " company's",
+                    "start": 0.08,
+                    "end": 0.72,
+                    "probability": 0.983270674943924
+                },
+                {
+                    "word": " new",
+                    "start": 0.72,
+                    "end": 0.92,
+                    "probability": 0.9917848110198975
+                },
+                {
+                    "word": " policy",
+                    "start": 0.92,
+                    "end": 1.44,
+                    "probability": 0.9886496067047119
+                },
+                {
+                    "word": " aims",
+                    "start": 1.44,
+                    "end": 1.78,
+                    "probability": 0.976847231388092
+                },
+                {
+                    "word": " to",
+                    "start": 1.78,
+                    "end": 2.06,
+                    "probability": 0.9949973821640015
+                },
+                {
+                    "word": " reduce",
+                    "start": 2.06,
+                    "end": 2.38,
+                    "probability": 0.986311137676239
+                },
+                {
+                    "word": " carbon",
+                    "start": 2.38,
+                    "end": 2.84,
+                    "probability": 0.991599440574646
+                },
+                {
+                    "word": " emissions.",
+                    "start": 2.84,
+                    "end": 3.32,
+                    "probability": 0.890686571598053
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

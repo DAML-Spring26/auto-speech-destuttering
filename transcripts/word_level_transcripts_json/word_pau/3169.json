@@ -1,0 +1,96 @@
+{
+    "text": " If it rains tomorrow, we'll have to cancel the picnic.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.8,
+            "text": " If it rains tomorrow, we'll have to cancel the picnic.",
+            "tokens": [
+                50364,
+                759,
+                309,
+                27805,
+                4153,
+                11,
+                321,
+                603,
+                362,
+                281,
+                10373,
+                264,
+                32137,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3183453381061554,
+            "compression_ratio": 0.8852459016393442,
+            "no_speech_prob": 0.009592827409505844,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.7193498611450195
+                },
+                {
+                    "word": " it",
+                    "start": 0.2,
+                    "end": 0.32,
+                    "probability": 0.9925017356872559
+                },
+                {
+                    "word": " rains",
+                    "start": 0.32,
+                    "end": 0.54,
+                    "probability": 0.9366462230682373
+                },
+                {
+                    "word": " tomorrow,",
+                    "start": 0.54,
+                    "end": 1.02,
+                    "probability": 0.9928082227706909
+                },
+                {
+                    "word": " we'll",
+                    "start": 1.34,
+                    "end": 1.58,
+                    "probability": 0.9620008170604706
+                },
+                {
+                    "word": " have",
+                    "start": 1.58,
+                    "end": 2.64,
+                    "probability": 0.9457970857620239
+                },
+                {
+                    "word": " to",
+                    "start": 2.64,
+                    "end": 2.82,
+                    "probability": 0.9988915324211121
+                },
+                {
+                    "word": " cancel",
+                    "start": 2.82,
+                    "end": 3.26,
+                    "probability": 0.9943429231643677
+                },
+                {
+                    "word": " the",
+                    "start": 3.26,
+                    "end": 3.48,
+                    "probability": 0.9956335425376892
+                },
+                {
+                    "word": " picnic.",
+                    "start": 3.48,
+                    "end": 3.8,
+                    "probability": 0.5250653028488159
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

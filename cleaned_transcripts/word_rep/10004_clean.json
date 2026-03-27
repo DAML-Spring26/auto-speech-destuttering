@@ -1,12 +1,12 @@
 {
-    "text": " The company's sales have increased by 20% compared to last quarter's results.",
+    "text": " The company's sales have increased by 20% compared to last quarter's.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 7.68,
-            "text": " The company's sales have increased by 20% compared to last quarter's results.",
+            "end": 7.0,
+            "text": " The company's sales have increased by 20% compared to last quarter's.",
             "tokens": [
                 50364,
                 440,
@@ -23,14 +23,13 @@
                 1036,
                 6555,
                 311,
-                3542,
                 13,
-                50748
+                50714
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.266086126628675,
-            "compression_ratio": 0.9871794871794872,
-            "no_speech_prob": 0.008095440454781055
+            "avg_logprob": -0.33761925167507595,
+            "compression_ratio": 0.971830985915493,
+            "no_speech_prob": 0.018598901107907295
         }
     ],
     "language": "en"

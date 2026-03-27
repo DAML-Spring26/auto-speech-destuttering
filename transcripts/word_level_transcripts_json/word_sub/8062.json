@@ -1,0 +1,83 @@
+{
+    "text": " The botanist cataloged various species of tropical planets.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.54,
+            "text": " The botanist cataloged various species of tropical planets.",
+            "tokens": [
+                50364,
+                440,
+                10592,
+                282,
+                468,
+                19746,
+                292,
+                3683,
+                6172,
+                295,
+                22857,
+                15126,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33261632919311523,
+            "compression_ratio": 0.9516129032258065,
+            "no_speech_prob": 0.002695473376661539,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.6301871538162231
+                },
+                {
+                    "word": " botanist",
+                    "start": 0.08,
+                    "end": 0.44,
+                    "probability": 0.8064479231834412
+                },
+                {
+                    "word": " cataloged",
+                    "start": 0.44,
+                    "end": 0.98,
+                    "probability": 0.8782739043235779
+                },
+                {
+                    "word": " various",
+                    "start": 0.98,
+                    "end": 1.2,
+                    "probability": 0.9784705638885498
+                },
+                {
+                    "word": " species",
+                    "start": 1.2,
+                    "end": 1.58,
+                    "probability": 0.9697673916816711
+                },
+                {
+                    "word": " of",
+                    "start": 1.58,
+                    "end": 1.82,
+                    "probability": 0.998167872428894
+                },
+                {
+                    "word": " tropical",
+                    "start": 1.82,
+                    "end": 2.12,
+                    "probability": 0.9722788333892822
+                },
+                {
+                    "word": " planets.",
+                    "start": 2.12,
+                    "end": 2.54,
+                    "probability": 0.9675502181053162
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

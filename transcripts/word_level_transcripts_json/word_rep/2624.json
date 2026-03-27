@@ -1,0 +1,52 @@
+{
+    "text": " You read well now.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.34,
+            "text": " You read well now.",
+            "tokens": [
+                50364,
+                509,
+                1401,
+                731,
+                586,
+                13,
+                50444
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.59617018699646,
+            "compression_ratio": 0.6923076923076923,
+            "no_speech_prob": 0.03231092169880867,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.560235321521759
+                },
+                {
+                    "word": " read",
+                    "start": 0.24,
+                    "end": 0.78,
+                    "probability": 0.5159900784492493
+                },
+                {
+                    "word": " well",
+                    "start": 0.78,
+                    "end": 1.08,
+                    "probability": 0.9601713418960571
+                },
+                {
+                    "word": " now.",
+                    "start": 1.08,
+                    "end": 1.34,
+                    "probability": 0.7554487586021423
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

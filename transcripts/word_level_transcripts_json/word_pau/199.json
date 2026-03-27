@@ -1,0 +1,80 @@
+{
+    "text": " The new project requires extensive planning and coordination.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.5,
+            "text": " The new project requires extensive planning and coordination.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                1716,
+                7029,
+                13246,
+                5038,
+                293,
+                21252,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2865629196166992,
+            "compression_ratio": 0.953125,
+            "no_speech_prob": 0.014488838613033295,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.630557656288147
+                },
+                {
+                    "word": " new",
+                    "start": 0.1,
+                    "end": 0.3,
+                    "probability": 0.9022153615951538
+                },
+                {
+                    "word": " project",
+                    "start": 0.3,
+                    "end": 0.82,
+                    "probability": 0.9751078486442566
+                },
+                {
+                    "word": " requires",
+                    "start": 0.82,
+                    "end": 1.7,
+                    "probability": 0.987396776676178
+                },
+                {
+                    "word": " extensive",
+                    "start": 1.7,
+                    "end": 5.26,
+                    "probability": 0.7923562526702881
+                },
+                {
+                    "word": " planning",
+                    "start": 5.26,
+                    "end": 5.84,
+                    "probability": 0.9941938519477844
+                },
+                {
+                    "word": " and",
+                    "start": 5.84,
+                    "end": 6.08,
+                    "probability": 0.9928050637245178
+                },
+                {
+                    "word": " coordination.",
+                    "start": 6.08,
+                    "end": 6.5,
+                    "probability": 0.9915315508842468
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

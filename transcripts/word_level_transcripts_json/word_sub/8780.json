@@ -1,0 +1,59 @@
+{
+    "text": " We should present future problems.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.22,
+            "text": " We should present future problems.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                1974,
+                2027,
+                2740,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3823116090562608,
+            "compression_ratio": 0.85,
+            "no_speech_prob": 0.006830339785665274,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6083019375801086
+                },
+                {
+                    "word": " should",
+                    "start": 0.14,
+                    "end": 0.24,
+                    "probability": 0.9864910840988159
+                },
+                {
+                    "word": " present",
+                    "start": 0.24,
+                    "end": 0.5,
+                    "probability": 0.9982863068580627
+                },
+                {
+                    "word": " future",
+                    "start": 0.5,
+                    "end": 0.82,
+                    "probability": 0.9986854195594788
+                },
+                {
+                    "word": " problems.",
+                    "start": 0.82,
+                    "end": 1.22,
+                    "probability": 0.994611382484436
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

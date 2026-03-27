@@ -1,0 +1,87 @@
+{
+    "text": " The new healthcare policy will be implemented next month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.9,
+            "text": " The new healthcare policy will be implemented next month.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                8884,
+                3897,
+                486,
+                312,
+                12270,
+                958,
+                1618,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3158861306997446,
+            "compression_ratio": 0.9047619047619048,
+            "no_speech_prob": 0.029202934354543686,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.5,
+                    "probability": 0.8987212777137756
+                },
+                {
+                    "word": " new",
+                    "start": 0.5,
+                    "end": 0.7,
+                    "probability": 0.616485059261322
+                },
+                {
+                    "word": " healthcare",
+                    "start": 0.7,
+                    "end": 1.14,
+                    "probability": 0.5425440073013306
+                },
+                {
+                    "word": " policy",
+                    "start": 1.14,
+                    "end": 1.82,
+                    "probability": 0.9986341595649719
+                },
+                {
+                    "word": " will",
+                    "start": 1.82,
+                    "end": 2.04,
+                    "probability": 0.9982839226722717
+                },
+                {
+                    "word": " be",
+                    "start": 2.04,
+                    "end": 2.24,
+                    "probability": 0.9979177117347717
+                },
+                {
+                    "word": " implemented",
+                    "start": 2.24,
+                    "end": 3.08,
+                    "probability": 0.9468880295753479
+                },
+                {
+                    "word": " next",
+                    "start": 3.08,
+                    "end": 3.64,
+                    "probability": 0.9970310926437378
+                },
+                {
+                    "word": " month.",
+                    "start": 3.64,
+                    "end": 3.9,
+                    "probability": 0.9936643838882446
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

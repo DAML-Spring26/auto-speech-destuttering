@@ -1,0 +1,66 @@
+{
+    "text": " to board approve the dramatic plan.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.74,
+            "text": " to board approve the dramatic plan.",
+            "tokens": [
+                50364,
+                281,
+                3150,
+                18827,
+                264,
+                12023,
+                1393,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.423067569732666,
+            "compression_ratio": 0.813953488372093,
+            "no_speech_prob": 0.013635401614010334,
+            "words": [
+                {
+                    "word": " to",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.793201744556427
+                },
+                {
+                    "word": " board",
+                    "start": 0.12,
+                    "end": 0.34,
+                    "probability": 0.5733311176300049
+                },
+                {
+                    "word": " approve",
+                    "start": 0.34,
+                    "end": 0.72,
+                    "probability": 0.530569851398468
+                },
+                {
+                    "word": " the",
+                    "start": 0.72,
+                    "end": 0.9,
+                    "probability": 0.971070408821106
+                },
+                {
+                    "word": " dramatic",
+                    "start": 0.9,
+                    "end": 1.28,
+                    "probability": 0.9802086353302002
+                },
+                {
+                    "word": " plan.",
+                    "start": 1.28,
+                    "end": 1.74,
+                    "probability": 0.9892653226852417
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

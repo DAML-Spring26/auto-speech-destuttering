@@ -1,0 +1,122 @@
+{
+    "text": " I need to schedule an appointment with my dentist routine check up and cleaning.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.46,
+            "text": " I need to schedule an appointment with my dentist routine check up and cleaning.",
+            "tokens": [
+                50364,
+                286,
+                643,
+                281,
+                7567,
+                364,
+                13653,
+                365,
+                452,
+                28666,
+                9927,
+                1520,
+                493,
+                293,
+                8924,
+                13,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3417275481753879,
+            "compression_ratio": 1.0666666666666667,
+            "no_speech_prob": 0.002028914401307702,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.9457741379737854
+                },
+                {
+                    "word": " need",
+                    "start": 0.22,
+                    "end": 0.42,
+                    "probability": 0.9955026507377625
+                },
+                {
+                    "word": " to",
+                    "start": 0.42,
+                    "end": 0.64,
+                    "probability": 0.9981881976127625
+                },
+                {
+                    "word": " schedule",
+                    "start": 0.64,
+                    "end": 1.04,
+                    "probability": 0.989253580570221
+                },
+                {
+                    "word": " an",
+                    "start": 1.04,
+                    "end": 1.24,
+                    "probability": 0.9840563535690308
+                },
+                {
+                    "word": " appointment",
+                    "start": 1.24,
+                    "end": 1.64,
+                    "probability": 0.9992696642875671
+                },
+                {
+                    "word": " with",
+                    "start": 1.64,
+                    "end": 2.02,
+                    "probability": 0.9926325678825378
+                },
+                {
+                    "word": " my",
+                    "start": 2.02,
+                    "end": 2.18,
+                    "probability": 0.9924554824829102
+                },
+                {
+                    "word": " dentist",
+                    "start": 2.18,
+                    "end": 2.6,
+                    "probability": 0.6968027949333191
+                },
+                {
+                    "word": " routine",
+                    "start": 2.6,
+                    "end": 3.14,
+                    "probability": 0.415518194437027
+                },
+                {
+                    "word": " check",
+                    "start": 3.14,
+                    "end": 3.58,
+                    "probability": 0.8091756105422974
+                },
+                {
+                    "word": " up",
+                    "start": 3.58,
+                    "end": 3.88,
+                    "probability": 0.47449636459350586
+                },
+                {
+                    "word": " and",
+                    "start": 3.88,
+                    "end": 4.1,
+                    "probability": 0.8841304183006287
+                },
+                {
+                    "word": " cleaning.",
+                    "start": 4.1,
+                    "end": 4.46,
+                    "probability": 0.9125170707702637
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,87 @@
+{
+    "text": " The new project timeline well needs to be approved.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.32,
+            "text": " The new project timeline well needs to be approved.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                1716,
+                12933,
+                731,
+                2203,
+                281,
+                312,
+                10826,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36064536754901594,
+            "compression_ratio": 0.8947368421052632,
+            "no_speech_prob": 0.07402816414833069,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.86,
+                    "probability": 0.9082272052764893
+                },
+                {
+                    "word": " new",
+                    "start": 0.86,
+                    "end": 1.06,
+                    "probability": 0.962921679019928
+                },
+                {
+                    "word": " project",
+                    "start": 1.06,
+                    "end": 1.48,
+                    "probability": 0.8547301292419434
+                },
+                {
+                    "word": " timeline",
+                    "start": 1.48,
+                    "end": 2.1,
+                    "probability": 0.8252782225608826
+                },
+                {
+                    "word": " well",
+                    "start": 2.1,
+                    "end": 2.58,
+                    "probability": 0.8551216125488281
+                },
+                {
+                    "word": " needs",
+                    "start": 2.58,
+                    "end": 3.36,
+                    "probability": 0.9181950688362122
+                },
+                {
+                    "word": " to",
+                    "start": 3.36,
+                    "end": 3.62,
+                    "probability": 0.9968191385269165
+                },
+                {
+                    "word": " be",
+                    "start": 3.62,
+                    "end": 3.74,
+                    "probability": 0.9992390871047974
+                },
+                {
+                    "word": " approved.",
+                    "start": 3.74,
+                    "end": 4.32,
+                    "probability": 0.993244469165802
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

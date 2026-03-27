@@ -1,0 +1,112 @@
+{
+    "text": " Just post it a new selfie. Check it out like.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.8,
+            "text": " Just post it a new selfie.",
+            "tokens": [
+                50364,
+                1449,
+                2183,
+                309,
+                257,
+                777,
+                22147,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4528183937072754,
+            "compression_ratio": 0.9183673469387755,
+            "no_speech_prob": 0.013673616573214531,
+            "words": [
+                {
+                    "word": " Just",
+                    "start": 0.0,
+                    "end": 0.6,
+                    "probability": 0.7241354584693909
+                },
+                {
+                    "word": " post",
+                    "start": 0.6,
+                    "end": 0.9,
+                    "probability": 0.41636449098587036
+                },
+                {
+                    "word": " it",
+                    "start": 0.9,
+                    "end": 1.1,
+                    "probability": 0.9657825827598572
+                },
+                {
+                    "word": " a",
+                    "start": 1.1,
+                    "end": 1.18,
+                    "probability": 0.9349836707115173
+                },
+                {
+                    "word": " new",
+                    "start": 1.18,
+                    "end": 1.34,
+                    "probability": 0.9715564846992493
+                },
+                {
+                    "word": " selfie.",
+                    "start": 1.34,
+                    "end": 1.8,
+                    "probability": 0.9782025218009949
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.54,
+            "end": 3.56,
+            "text": " Check it out like.",
+            "tokens": [
+                50464,
+                6881,
+                309,
+                484,
+                411,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4528183937072754,
+            "compression_ratio": 0.9183673469387755,
+            "no_speech_prob": 0.013673616573214531,
+            "words": [
+                {
+                    "word": " Check",
+                    "start": 2.54,
+                    "end": 3.0,
+                    "probability": 0.9746968746185303
+                },
+                {
+                    "word": " it",
+                    "start": 3.0,
+                    "end": 3.18,
+                    "probability": 0.9836539626121521
+                },
+                {
+                    "word": " out",
+                    "start": 3.18,
+                    "end": 3.32,
+                    "probability": 0.996002733707428
+                },
+                {
+                    "word": " like.",
+                    "start": 3.32,
+                    "end": 3.56,
+                    "probability": 0.8977535963058472
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

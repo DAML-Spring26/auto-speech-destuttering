@@ -1,0 +1,115 @@
+{
+    "text": " Please arrive at the venue at least 30 minutes before the concert starts.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.82,
+            "text": " Please arrive at the venue at least 30 minutes before the concert starts.",
+            "tokens": [
+                50364,
+                2555,
+                8881,
+                412,
+                264,
+                21645,
+                412,
+                1935,
+                2217,
+                2077,
+                949,
+                264,
+                8543,
+                3719,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31408340790692496,
+            "compression_ratio": 1.042857142857143,
+            "no_speech_prob": 0.06059786677360535,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.7,
+                    "probability": 0.8125794529914856
+                },
+                {
+                    "word": " arrive",
+                    "start": 0.7,
+                    "end": 1.14,
+                    "probability": 0.9392411708831787
+                },
+                {
+                    "word": " at",
+                    "start": 1.14,
+                    "end": 1.28,
+                    "probability": 0.9310010671615601
+                },
+                {
+                    "word": " the",
+                    "start": 1.28,
+                    "end": 2.9,
+                    "probability": 0.7036386728286743
+                },
+                {
+                    "word": " venue",
+                    "start": 2.9,
+                    "end": 3.2,
+                    "probability": 0.9861093163490295
+                },
+                {
+                    "word": " at",
+                    "start": 3.2,
+                    "end": 3.44,
+                    "probability": 0.9320792555809021
+                },
+                {
+                    "word": " least",
+                    "start": 3.44,
+                    "end": 3.56,
+                    "probability": 0.9864403605461121
+                },
+                {
+                    "word": " 30",
+                    "start": 3.56,
+                    "end": 3.98,
+                    "probability": 0.899824321269989
+                },
+                {
+                    "word": " minutes",
+                    "start": 3.98,
+                    "end": 4.24,
+                    "probability": 0.9943589568138123
+                },
+                {
+                    "word": " before",
+                    "start": 4.24,
+                    "end": 4.7,
+                    "probability": 0.9931870698928833
+                },
+                {
+                    "word": " the",
+                    "start": 4.7,
+                    "end": 4.94,
+                    "probability": 0.9962001442909241
+                },
+                {
+                    "word": " concert",
+                    "start": 4.94,
+                    "end": 5.32,
+                    "probability": 0.9009496569633484
+                },
+                {
+                    "word": " starts.",
+                    "start": 5.32,
+                    "end": 5.82,
+                    "probability": 0.9947245717048645
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

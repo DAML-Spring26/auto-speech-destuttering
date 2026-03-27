@@ -1,0 +1,66 @@
+{
+    "text": " We should review their official proposal.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.76,
+            "text": " We should review their official proposal.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                3131,
+                641,
+                4783,
+                11494,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34754219055175783,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.012714928016066551,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.562729001045227
+                },
+                {
+                    "word": " should",
+                    "start": 0.16,
+                    "end": 0.3,
+                    "probability": 0.9886930584907532
+                },
+                {
+                    "word": " review",
+                    "start": 0.3,
+                    "end": 0.64,
+                    "probability": 0.9905077219009399
+                },
+                {
+                    "word": " their",
+                    "start": 0.64,
+                    "end": 0.84,
+                    "probability": 0.4708751142024994
+                },
+                {
+                    "word": " official",
+                    "start": 0.84,
+                    "end": 1.14,
+                    "probability": 0.6497454643249512
+                },
+                {
+                    "word": " proposal.",
+                    "start": 1.14,
+                    "end": 1.76,
+                    "probability": 0.969758152961731
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

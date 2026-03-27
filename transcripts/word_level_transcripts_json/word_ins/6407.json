@@ -1,0 +1,119 @@
+{
+    "text": " Have you considered the implications of implementing? This new really policy.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.46,
+            "text": " Have you considered the implications of implementing?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                4888,
+                264,
+                16602,
+                295,
+                18114,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3726064893934462,
+            "compression_ratio": 0.9871794871794872,
+            "no_speech_prob": 0.03371848538517952,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 1.28,
+                    "probability": 0.8925166726112366
+                },
+                {
+                    "word": " you",
+                    "start": 1.28,
+                    "end": 1.44,
+                    "probability": 0.9981330037117004
+                },
+                {
+                    "word": " considered",
+                    "start": 1.44,
+                    "end": 1.84,
+                    "probability": 0.9971292614936829
+                },
+                {
+                    "word": " the",
+                    "start": 1.84,
+                    "end": 2.06,
+                    "probability": 0.9935638308525085
+                },
+                {
+                    "word": " implications",
+                    "start": 2.06,
+                    "end": 2.64,
+                    "probability": 0.9930387139320374
+                },
+                {
+                    "word": " of",
+                    "start": 2.64,
+                    "end": 2.92,
+                    "probability": 0.9982143640518188
+                },
+                {
+                    "word": " implementing?",
+                    "start": 2.92,
+                    "end": 3.46,
+                    "probability": 0.9773347973823547
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.84,
+            "end": 6.38,
+            "text": " This new really policy.",
+            "tokens": [
+                50564,
+                639,
+                777,
+                534,
+                3897,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3726064893934462,
+            "compression_ratio": 0.9871794871794872,
+            "no_speech_prob": 0.03371848538517952,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 4.84,
+                    "end": 5.32,
+                    "probability": 0.9164660573005676
+                },
+                {
+                    "word": " new",
+                    "start": 5.32,
+                    "end": 5.54,
+                    "probability": 0.9630083441734314
+                },
+                {
+                    "word": " really",
+                    "start": 5.54,
+                    "end": 5.86,
+                    "probability": 0.8450294137001038
+                },
+                {
+                    "word": " policy.",
+                    "start": 5.86,
+                    "end": 6.38,
+                    "probability": 0.9895210266113281
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,66 @@
+{
+    "text": " We must project sensitive customer data.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.44,
+            "text": " We must project sensitive customer data.",
+            "tokens": [
+                50364,
+                492,
+                1633,
+                1716,
+                9477,
+                5474,
+                1412,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4098109245300293,
+            "compression_ratio": 0.851063829787234,
+            "no_speech_prob": 0.001260933349840343,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.561862051486969
+                },
+                {
+                    "word": " must",
+                    "start": 0.12,
+                    "end": 0.34,
+                    "probability": 0.9974185228347778
+                },
+                {
+                    "word": " project",
+                    "start": 0.34,
+                    "end": 0.72,
+                    "probability": 0.9914851784706116
+                },
+                {
+                    "word": " sensitive",
+                    "start": 0.72,
+                    "end": 1.36,
+                    "probability": 0.9607656002044678
+                },
+                {
+                    "word": " customer",
+                    "start": 1.36,
+                    "end": 1.94,
+                    "probability": 0.9639645218849182
+                },
+                {
+                    "word": " data.",
+                    "start": 1.94,
+                    "end": 2.44,
+                    "probability": 0.9992197751998901
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

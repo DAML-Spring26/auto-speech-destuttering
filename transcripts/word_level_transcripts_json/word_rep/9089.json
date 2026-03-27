@@ -1,0 +1,108 @@
+{
+    "text": " The new project manager will present our ideas at the meeting tomorrow.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.24,
+            "text": " The new project manager will present our ideas at the meeting tomorrow.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                1716,
+                6598,
+                486,
+                1974,
+                527,
+                3487,
+                412,
+                264,
+                3440,
+                4153,
+                13,
+                50534
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2906780242919922,
+            "compression_ratio": 1.0142857142857142,
+            "no_speech_prob": 0.0018088422948494554,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.7795518040657043
+                },
+                {
+                    "word": " new",
+                    "start": 0.2,
+                    "end": 0.56,
+                    "probability": 0.7847325205802917
+                },
+                {
+                    "word": " project",
+                    "start": 0.56,
+                    "end": 0.88,
+                    "probability": 0.8493275046348572
+                },
+                {
+                    "word": " manager",
+                    "start": 0.88,
+                    "end": 1.24,
+                    "probability": 0.9951808452606201
+                },
+                {
+                    "word": " will",
+                    "start": 1.24,
+                    "end": 1.44,
+                    "probability": 0.9965031147003174
+                },
+                {
+                    "word": " present",
+                    "start": 1.44,
+                    "end": 1.76,
+                    "probability": 0.9921360015869141
+                },
+                {
+                    "word": " our",
+                    "start": 1.76,
+                    "end": 2.0,
+                    "probability": 0.5189102292060852
+                },
+                {
+                    "word": " ideas",
+                    "start": 2.0,
+                    "end": 2.3,
+                    "probability": 0.9872090816497803
+                },
+                {
+                    "word": " at",
+                    "start": 2.3,
+                    "end": 2.52,
+                    "probability": 0.9548226594924927
+                },
+                {
+                    "word": " the",
+                    "start": 2.52,
+                    "end": 2.64,
+                    "probability": 0.9906496405601501
+                },
+                {
+                    "word": " meeting",
+                    "start": 2.64,
+                    "end": 2.86,
+                    "probability": 0.9844404458999634
+                },
+                {
+                    "word": " tomorrow.",
+                    "start": 2.86,
+                    "end": 3.24,
+                    "probability": 0.997177004814148
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

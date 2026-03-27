@@ -1,0 +1,67 @@
+{
+    "text": " the architect designed sustainable building revolutions.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.06,
+            "text": " the architect designed sustainable building revolutions.",
+            "tokens": [
+                50364,
+                264,
+                6331,
+                4761,
+                11235,
+                2390,
+                3698,
+                15892,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5282226042314009,
+            "compression_ratio": 0.9655172413793104,
+            "no_speech_prob": 0.004528633318841457,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.4042383134365082
+                },
+                {
+                    "word": " architect",
+                    "start": 0.12,
+                    "end": 0.56,
+                    "probability": 0.8176985383033752
+                },
+                {
+                    "word": " designed",
+                    "start": 0.56,
+                    "end": 1.2,
+                    "probability": 0.6133591532707214
+                },
+                {
+                    "word": " sustainable",
+                    "start": 1.2,
+                    "end": 1.92,
+                    "probability": 0.8034775853157043
+                },
+                {
+                    "word": " building",
+                    "start": 1.92,
+                    "end": 2.38,
+                    "probability": 0.9842489361763
+                },
+                {
+                    "word": " revolutions.",
+                    "start": 2.38,
+                    "end": 3.06,
+                    "probability": 0.9165996611118317
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

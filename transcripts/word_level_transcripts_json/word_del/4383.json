@@ -1,0 +1,101 @@
+{
+    "text": " The conference proceedings published in a special issue of the journal.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.98,
+            "text": " The conference proceedings published in a special issue of the journal.",
+            "tokens": [
+                50364,
+                440,
+                7586,
+                37254,
+                6572,
+                294,
+                257,
+                2121,
+                2734,
+                295,
+                264,
+                6708,
+                13,
+                50568
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3310268402099609,
+            "compression_ratio": 1.0289855072463767,
+            "no_speech_prob": 0.002928534522652626,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6206249594688416
+                },
+                {
+                    "word": " conference",
+                    "start": 0.12,
+                    "end": 0.56,
+                    "probability": 0.9678738117218018
+                },
+                {
+                    "word": " proceedings",
+                    "start": 0.56,
+                    "end": 1.3,
+                    "probability": 0.9775017499923706
+                },
+                {
+                    "word": " published",
+                    "start": 1.3,
+                    "end": 1.9,
+                    "probability": 0.9666875600814819
+                },
+                {
+                    "word": " in",
+                    "start": 1.9,
+                    "end": 2.3,
+                    "probability": 0.8532975912094116
+                },
+                {
+                    "word": " a",
+                    "start": 2.3,
+                    "end": 2.42,
+                    "probability": 0.9898895621299744
+                },
+                {
+                    "word": " special",
+                    "start": 2.42,
+                    "end": 2.8,
+                    "probability": 0.9843036532402039
+                },
+                {
+                    "word": " issue",
+                    "start": 2.8,
+                    "end": 3.32,
+                    "probability": 0.9919038414955139
+                },
+                {
+                    "word": " of",
+                    "start": 3.32,
+                    "end": 3.52,
+                    "probability": 0.5653940439224243
+                },
+                {
+                    "word": " the",
+                    "start": 3.52,
+                    "end": 3.6,
+                    "probability": 0.9948607087135315
+                },
+                {
+                    "word": " journal.",
+                    "start": 3.6,
+                    "end": 3.98,
+                    "probability": 0.9125471711158752
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

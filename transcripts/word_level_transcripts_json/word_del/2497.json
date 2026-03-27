@@ -1,0 +1,87 @@
+{
+    "text": " We should review contract carefully before signing any documents.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.68,
+            "text": " We should review contract carefully before signing any documents.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                3131,
+                4364,
+                7500,
+                949,
+                13393,
+                604,
+                8512,
+                13,
+                50574
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2839908783252423,
+            "compression_ratio": 0.9420289855072463,
+            "no_speech_prob": 0.00732561107724905,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7246454954147339
+                },
+                {
+                    "word": " should",
+                    "start": 0.14,
+                    "end": 0.3,
+                    "probability": 0.9976686835289001
+                },
+                {
+                    "word": " review",
+                    "start": 0.3,
+                    "end": 0.5,
+                    "probability": 0.7185679078102112
+                },
+                {
+                    "word": " contract",
+                    "start": 0.5,
+                    "end": 1.06,
+                    "probability": 0.8833704590797424
+                },
+                {
+                    "word": " carefully",
+                    "start": 1.06,
+                    "end": 1.8,
+                    "probability": 0.9179326891899109
+                },
+                {
+                    "word": " before",
+                    "start": 1.8,
+                    "end": 2.32,
+                    "probability": 0.9702388048171997
+                },
+                {
+                    "word": " signing",
+                    "start": 2.32,
+                    "end": 2.78,
+                    "probability": 0.9368902444839478
+                },
+                {
+                    "word": " any",
+                    "start": 2.78,
+                    "end": 3.18,
+                    "probability": 0.9930642247200012
+                },
+                {
+                    "word": " documents.",
+                    "start": 3.18,
+                    "end": 3.68,
+                    "probability": 0.9932523369789124
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,59 @@
+{
+    "text": " The team will reach today.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.06,
+            "text": " The team will reach today.",
+            "tokens": [
+                50364,
+                440,
+                1469,
+                486,
+                2524,
+                965,
+                13,
+                50424
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5148734516567655,
+            "compression_ratio": 0.7647058823529411,
+            "no_speech_prob": 0.01774572767317295,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5499431490898132
+                },
+                {
+                    "word": " team",
+                    "start": 0.1,
+                    "end": 0.38,
+                    "probability": 0.9166532158851624
+                },
+                {
+                    "word": " will",
+                    "start": 0.38,
+                    "end": 0.5,
+                    "probability": 0.9594252705574036
+                },
+                {
+                    "word": " reach",
+                    "start": 0.5,
+                    "end": 0.7,
+                    "probability": 0.9930118918418884
+                },
+                {
+                    "word": " today.",
+                    "start": 0.7,
+                    "end": 1.06,
+                    "probability": 0.9862598180770874
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

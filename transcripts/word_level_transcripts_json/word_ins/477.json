@@ -1,0 +1,101 @@
+{
+    "text": " The doctor recommends getting plenty of rest and staying arm hydrated.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.1,
+            "text": " The doctor recommends getting plenty of rest and staying arm hydrated.",
+            "tokens": [
+                50364,
+                440,
+                4631,
+                34556,
+                1242,
+                7140,
+                295,
+                1472,
+                293,
+                7939,
+                3726,
+                44960,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33071311314900714,
+            "compression_ratio": 1.0144927536231885,
+            "no_speech_prob": 0.015731561928987503,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.8449388742446899
+                },
+                {
+                    "word": " doctor",
+                    "start": 0.42,
+                    "end": 0.74,
+                    "probability": 0.9315645098686218
+                },
+                {
+                    "word": " recommends",
+                    "start": 0.74,
+                    "end": 1.26,
+                    "probability": 0.9985499978065491
+                },
+                {
+                    "word": " getting",
+                    "start": 1.26,
+                    "end": 1.54,
+                    "probability": 0.9965419173240662
+                },
+                {
+                    "word": " plenty",
+                    "start": 1.54,
+                    "end": 1.98,
+                    "probability": 0.9985740184783936
+                },
+                {
+                    "word": " of",
+                    "start": 1.98,
+                    "end": 2.18,
+                    "probability": 0.9976919889450073
+                },
+                {
+                    "word": " rest",
+                    "start": 2.18,
+                    "end": 2.4,
+                    "probability": 0.9958500862121582
+                },
+                {
+                    "word": " and",
+                    "start": 2.4,
+                    "end": 2.92,
+                    "probability": 0.8790985345840454
+                },
+                {
+                    "word": " staying",
+                    "start": 2.92,
+                    "end": 3.3,
+                    "probability": 0.9837649464607239
+                },
+                {
+                    "word": " arm",
+                    "start": 3.3,
+                    "end": 3.62,
+                    "probability": 0.31031036376953125
+                },
+                {
+                    "word": " hydrated.",
+                    "start": 3.62,
+                    "end": 4.1,
+                    "probability": 0.8442403674125671
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

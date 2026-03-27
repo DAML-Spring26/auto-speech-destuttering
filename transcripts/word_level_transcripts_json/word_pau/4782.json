@@ -1,0 +1,88 @@
+{
+    "text": " I'll need your report on mind despite tomorrow morning.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.44,
+            "text": " I'll need your report on mind despite tomorrow morning.",
+            "tokens": [
+                50364,
+                286,
+                603,
+                643,
+                428,
+                2275,
+                322,
+                1575,
+                7228,
+                4153,
+                2446,
+                13,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.542125974382673,
+            "compression_ratio": 0.9016393442622951,
+            "no_speech_prob": 0.01595177873969078,
+            "words": [
+                {
+                    "word": " I'll",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.8233908414840698
+                },
+                {
+                    "word": " need",
+                    "start": 0.22,
+                    "end": 0.4,
+                    "probability": 0.951251745223999
+                },
+                {
+                    "word": " your",
+                    "start": 0.4,
+                    "end": 0.64,
+                    "probability": 0.9852654337882996
+                },
+                {
+                    "word": " report",
+                    "start": 0.64,
+                    "end": 1.14,
+                    "probability": 0.9590233564376831
+                },
+                {
+                    "word": " on",
+                    "start": 1.14,
+                    "end": 3.22,
+                    "probability": 0.32755282521247864
+                },
+                {
+                    "word": " mind",
+                    "start": 3.22,
+                    "end": 3.44,
+                    "probability": 0.3728807270526886
+                },
+                {
+                    "word": " despite",
+                    "start": 3.44,
+                    "end": 3.7,
+                    "probability": 0.5466366410255432
+                },
+                {
+                    "word": " tomorrow",
+                    "start": 3.7,
+                    "end": 4.0,
+                    "probability": 0.8454543948173523
+                },
+                {
+                    "word": " morning.",
+                    "start": 4.0,
+                    "end": 4.44,
+                    "probability": 0.9681103229522705
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

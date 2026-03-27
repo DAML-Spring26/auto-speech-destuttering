@@ -1,0 +1,94 @@
+{
+    "text": " The company CEO announced plans for expansion into new markets.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.5,
+            "text": " The company CEO announced plans for expansion into new markets.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                9282,
+                7548,
+                5482,
+                337,
+                11260,
+                666,
+                777,
+                8383,
+                13,
+                50608
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31944380487714497,
+            "compression_ratio": 0.9,
+            "no_speech_prob": 0.007165201939642429,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8334862589836121
+                },
+                {
+                    "word": " company",
+                    "start": 0.12,
+                    "end": 0.48,
+                    "probability": 0.9303610920906067
+                },
+                {
+                    "word": " CEO",
+                    "start": 0.48,
+                    "end": 1.02,
+                    "probability": 0.5948240756988525
+                },
+                {
+                    "word": " announced",
+                    "start": 1.02,
+                    "end": 1.44,
+                    "probability": 0.979941725730896
+                },
+                {
+                    "word": " plans",
+                    "start": 1.44,
+                    "end": 1.72,
+                    "probability": 0.9810609817504883
+                },
+                {
+                    "word": " for",
+                    "start": 1.72,
+                    "end": 2.08,
+                    "probability": 0.9946580529212952
+                },
+                {
+                    "word": " expansion",
+                    "start": 2.08,
+                    "end": 3.34,
+                    "probability": 0.6375308632850647
+                },
+                {
+                    "word": " into",
+                    "start": 3.34,
+                    "end": 3.78,
+                    "probability": 0.9305608868598938
+                },
+                {
+                    "word": " new",
+                    "start": 3.78,
+                    "end": 4.08,
+                    "probability": 0.9843662977218628
+                },
+                {
+                    "word": " markets.",
+                    "start": 4.08,
+                    "end": 4.5,
+                    "probability": 0.972877025604248
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

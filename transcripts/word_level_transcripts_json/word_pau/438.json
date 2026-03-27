@@ -1,0 +1,120 @@
+{
+    "text": " In case of emergency, break. The glass and pull the lever.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.3,
+            "text": " In case of emergency, break.",
+            "tokens": [
+                50364,
+                682,
+                1389,
+                295,
+                7473,
+                11,
+                1821,
+                13,
+                50592
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5222555461682772,
+            "compression_ratio": 0.8923076923076924,
+            "no_speech_prob": 0.0068284603767097,
+            "words": [
+                {
+                    "word": " In",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.6655586361885071
+                },
+                {
+                    "word": " case",
+                    "start": 0.2,
+                    "end": 0.48,
+                    "probability": 0.9789268374443054
+                },
+                {
+                    "word": " of",
+                    "start": 0.48,
+                    "end": 0.82,
+                    "probability": 0.9971996545791626
+                },
+                {
+                    "word": " emergency,",
+                    "start": 0.82,
+                    "end": 1.44,
+                    "probability": 0.9920733571052551
+                },
+                {
+                    "word": " break.",
+                    "start": 2.06,
+                    "end": 2.3,
+                    "probability": 0.7777794599533081
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.5600000000000005,
+            "end": 5.98,
+            "text": " The glass and pull the lever.",
+            "tokens": [
+                50592,
+                440,
+                4276,
+                293,
+                2235,
+                264,
+                12451,
+                13,
+                50692
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5222555461682772,
+            "compression_ratio": 0.8923076923076924,
+            "no_speech_prob": 0.0068284603767097,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 4.369999999999999,
+                    "end": 4.68,
+                    "probability": 0.951198935508728
+                },
+                {
+                    "word": " glass",
+                    "start": 4.68,
+                    "end": 4.94,
+                    "probability": 0.8930914402008057
+                },
+                {
+                    "word": " and",
+                    "start": 4.94,
+                    "end": 5.24,
+                    "probability": 0.9194468259811401
+                },
+                {
+                    "word": " pull",
+                    "start": 5.24,
+                    "end": 5.46,
+                    "probability": 0.9506174921989441
+                },
+                {
+                    "word": " the",
+                    "start": 5.46,
+                    "end": 5.66,
+                    "probability": 0.9901097416877747
+                },
+                {
+                    "word": " lever.",
+                    "start": 5.66,
+                    "end": 5.98,
+                    "probability": 0.9920597076416016
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

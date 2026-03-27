@@ -1,0 +1,102 @@
+{
+    "text": " the software engineer debugged the code to fix the critical terror.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.76,
+            "text": " the software engineer debugged the code to fix the critical terror.",
+            "tokens": [
+                50364,
+                264,
+                4722,
+                11403,
+                24083,
+                3004,
+                264,
+                3089,
+                281,
+                3191,
+                264,
+                4924,
+                8127,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4101368188858032,
+            "compression_ratio": 1.0307692307692307,
+            "no_speech_prob": 0.0054558138363063335,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.33030521869659424
+                },
+                {
+                    "word": " software",
+                    "start": 0.12,
+                    "end": 0.54,
+                    "probability": 0.934312105178833
+                },
+                {
+                    "word": " engineer",
+                    "start": 0.54,
+                    "end": 1.06,
+                    "probability": 0.9898489713668823
+                },
+                {
+                    "word": " debugged",
+                    "start": 1.06,
+                    "end": 1.82,
+                    "probability": 0.7487346827983856
+                },
+                {
+                    "word": " the",
+                    "start": 1.82,
+                    "end": 1.9,
+                    "probability": 0.9920170307159424
+                },
+                {
+                    "word": " code",
+                    "start": 1.9,
+                    "end": 2.12,
+                    "probability": 0.9952817559242249
+                },
+                {
+                    "word": " to",
+                    "start": 2.12,
+                    "end": 2.34,
+                    "probability": 0.9943603873252869
+                },
+                {
+                    "word": " fix",
+                    "start": 2.34,
+                    "end": 2.64,
+                    "probability": 0.9841622114181519
+                },
+                {
+                    "word": " the",
+                    "start": 2.64,
+                    "end": 2.88,
+                    "probability": 0.9732673764228821
+                },
+                {
+                    "word": " critical",
+                    "start": 2.88,
+                    "end": 3.32,
+                    "probability": 0.976152241230011
+                },
+                {
+                    "word": " terror.",
+                    "start": 3.32,
+                    "end": 3.76,
+                    "probability": 0.2908077836036682
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

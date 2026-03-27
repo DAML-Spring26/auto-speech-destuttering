@@ -1,0 +1,101 @@
+{
+    "text": " Could you check if you have this in a smaller size?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.0,
+            "text": " Could you check if you have this in a smaller size?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1520,
+                498,
+                291,
+                362,
+                341,
+                294,
+                257,
+                4356,
+                2744,
+                30,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.278497314453125,
+            "compression_ratio": 0.9272727272727272,
+            "no_speech_prob": 0.07355246692895889,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.86,
+                    "probability": 0.8911097645759583
+                },
+                {
+                    "word": " you",
+                    "start": 0.86,
+                    "end": 1.1,
+                    "probability": 0.9983294606208801
+                },
+                {
+                    "word": " check",
+                    "start": 1.1,
+                    "end": 1.5,
+                    "probability": 0.9977262616157532
+                },
+                {
+                    "word": " if",
+                    "start": 1.5,
+                    "end": 1.92,
+                    "probability": 0.9785471558570862
+                },
+                {
+                    "word": " you",
+                    "start": 1.92,
+                    "end": 2.28,
+                    "probability": 0.995914876461029
+                },
+                {
+                    "word": " have",
+                    "start": 2.28,
+                    "end": 3.12,
+                    "probability": 0.895175576210022
+                },
+                {
+                    "word": " this",
+                    "start": 3.12,
+                    "end": 3.48,
+                    "probability": 0.9954431056976318
+                },
+                {
+                    "word": " in",
+                    "start": 3.48,
+                    "end": 3.88,
+                    "probability": 0.9907668828964233
+                },
+                {
+                    "word": " a",
+                    "start": 3.88,
+                    "end": 4.0,
+                    "probability": 0.9935436248779297
+                },
+                {
+                    "word": " smaller",
+                    "start": 4.0,
+                    "end": 4.5,
+                    "probability": 0.9948261380195618
+                },
+                {
+                    "word": " size?",
+                    "start": 4.5,
+                    "end": 5.0,
+                    "probability": 0.9981005787849426
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

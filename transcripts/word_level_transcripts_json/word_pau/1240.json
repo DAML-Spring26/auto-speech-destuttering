@@ -1,0 +1,94 @@
+{
+    "text": " the new marketing strategy aims to target a younger demographic.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.4,
+            "text": " the new marketing strategy aims to target a younger demographic.",
+            "tokens": [
+                50364,
+                264,
+                777,
+                6370,
+                5206,
+                24683,
+                281,
+                3779,
+                257,
+                7037,
+                26331,
+                13,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3407517841884068,
+            "compression_ratio": 1.0158730158730158,
+            "no_speech_prob": 0.004761695396155119,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.420440673828125
+                },
+                {
+                    "word": " new",
+                    "start": 0.12,
+                    "end": 0.28,
+                    "probability": 0.9867635369300842
+                },
+                {
+                    "word": " marketing",
+                    "start": 0.28,
+                    "end": 0.66,
+                    "probability": 0.9239940047264099
+                },
+                {
+                    "word": " strategy",
+                    "start": 0.66,
+                    "end": 1.22,
+                    "probability": 0.9921296238899231
+                },
+                {
+                    "word": " aims",
+                    "start": 1.22,
+                    "end": 1.62,
+                    "probability": 0.9606399536132812
+                },
+                {
+                    "word": " to",
+                    "start": 1.62,
+                    "end": 1.94,
+                    "probability": 0.9953145980834961
+                },
+                {
+                    "word": " target",
+                    "start": 1.94,
+                    "end": 3.18,
+                    "probability": 0.9196214079856873
+                },
+                {
+                    "word": " a",
+                    "start": 3.18,
+                    "end": 3.4,
+                    "probability": 0.9574381709098816
+                },
+                {
+                    "word": " younger",
+                    "start": 3.4,
+                    "end": 3.68,
+                    "probability": 0.9884098768234253
+                },
+                {
+                    "word": " demographic.",
+                    "start": 3.68,
+                    "end": 4.4,
+                    "probability": 0.9954081177711487
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

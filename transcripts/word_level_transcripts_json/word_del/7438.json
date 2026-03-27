@@ -1,0 +1,94 @@
+{
+    "text": " The professor said we need to submit our papers tomorrow.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.68,
+            "text": " The professor said we need to submit our papers tomorrow.",
+            "tokens": [
+                50364,
+                440,
+                8304,
+                848,
+                321,
+                643,
+                281,
+                10315,
+                527,
+                10577,
+                4153,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23486305986131942,
+            "compression_ratio": 0.9344262295081968,
+            "no_speech_prob": 0.00657427916303277,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.8133398294448853
+                },
+                {
+                    "word": " professor",
+                    "start": 0.1,
+                    "end": 0.44,
+                    "probability": 0.8417600989341736
+                },
+                {
+                    "word": " said",
+                    "start": 0.44,
+                    "end": 0.88,
+                    "probability": 0.974516749382019
+                },
+                {
+                    "word": " we",
+                    "start": 0.88,
+                    "end": 1.1,
+                    "probability": 0.8764636516571045
+                },
+                {
+                    "word": " need",
+                    "start": 1.1,
+                    "end": 1.26,
+                    "probability": 0.9798545241355896
+                },
+                {
+                    "word": " to",
+                    "start": 1.26,
+                    "end": 1.44,
+                    "probability": 0.9928804636001587
+                },
+                {
+                    "word": " submit",
+                    "start": 1.44,
+                    "end": 1.64,
+                    "probability": 0.9966285824775696
+                },
+                {
+                    "word": " our",
+                    "start": 1.64,
+                    "end": 1.82,
+                    "probability": 0.9831904172897339
+                },
+                {
+                    "word": " papers",
+                    "start": 1.82,
+                    "end": 2.18,
+                    "probability": 0.9892928600311279
+                },
+                {
+                    "word": " tomorrow.",
+                    "start": 2.18,
+                    "end": 2.68,
+                    "probability": 0.986761212348938
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

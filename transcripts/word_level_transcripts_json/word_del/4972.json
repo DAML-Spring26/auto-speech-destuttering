@@ -1,0 +1,87 @@
+{
+    "text": " we should consider environmental impact of our manufacturing processes.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.08,
+            "text": " we should consider environmental impact of our manufacturing processes.",
+            "tokens": [
+                50364,
+                321,
+                820,
+                1949,
+                8303,
+                2712,
+                295,
+                527,
+                11096,
+                7555,
+                13,
+                50592
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40746663166926456,
+            "compression_ratio": 1.0441176470588236,
+            "no_speech_prob": 0.003880259348079562,
+            "words": [
+                {
+                    "word": " we",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.30087193846702576
+                },
+                {
+                    "word": " should",
+                    "start": 0.18,
+                    "end": 0.3,
+                    "probability": 0.8495151400566101
+                },
+                {
+                    "word": " consider",
+                    "start": 0.3,
+                    "end": 0.86,
+                    "probability": 0.9981922507286072
+                },
+                {
+                    "word": " environmental",
+                    "start": 0.86,
+                    "end": 1.54,
+                    "probability": 0.8179593086242676
+                },
+                {
+                    "word": " impact",
+                    "start": 1.54,
+                    "end": 2.22,
+                    "probability": 0.9923974871635437
+                },
+                {
+                    "word": " of",
+                    "start": 2.22,
+                    "end": 2.5,
+                    "probability": 0.9127843976020813
+                },
+                {
+                    "word": " our",
+                    "start": 2.5,
+                    "end": 2.64,
+                    "probability": 0.9815623760223389
+                },
+                {
+                    "word": " manufacturing",
+                    "start": 2.64,
+                    "end": 3.3,
+                    "probability": 0.9949524402618408
+                },
+                {
+                    "word": " processes.",
+                    "start": 3.3,
+                    "end": 4.08,
+                    "probability": 0.989963948726654
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

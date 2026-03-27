@@ -1,0 +1,66 @@
+{
+    "text": " Could you progress this request today?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.5,
+            "text": " Could you progress this request today?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                4205,
+                341,
+                5308,
+                965,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35721964836120607,
+            "compression_ratio": 0.8260869565217391,
+            "no_speech_prob": 0.012003490701317787,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6401282548904419
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.3,
+                    "probability": 0.9948798418045044
+                },
+                {
+                    "word": " progress",
+                    "start": 0.3,
+                    "end": 0.62,
+                    "probability": 0.9722251892089844
+                },
+                {
+                    "word": " this",
+                    "start": 0.62,
+                    "end": 0.88,
+                    "probability": 0.9865027666091919
+                },
+                {
+                    "word": " request",
+                    "start": 0.88,
+                    "end": 1.14,
+                    "probability": 0.991764485836029
+                },
+                {
+                    "word": " today?",
+                    "start": 1.14,
+                    "end": 1.5,
+                    "probability": 0.9836607575416565
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

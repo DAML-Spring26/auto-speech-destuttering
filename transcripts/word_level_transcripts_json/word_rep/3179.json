@@ -1,0 +1,52 @@
+{
+    "text": " She runs every day.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.36,
+            "text": " She runs every day.",
+            "tokens": [
+                50364,
+                1240,
+                6676,
+                633,
+                786,
+                13,
+                50444
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4547117352485657,
+            "compression_ratio": 0.7037037037037037,
+            "no_speech_prob": 0.005077846348285675,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.8077725172042847
+                },
+                {
+                    "word": " runs",
+                    "start": 0.22,
+                    "end": 0.52,
+                    "probability": 0.99565589427948
+                },
+                {
+                    "word": " every",
+                    "start": 0.52,
+                    "end": 1.04,
+                    "probability": 0.7376809120178223
+                },
+                {
+                    "word": " day.",
+                    "start": 1.04,
+                    "end": 1.36,
+                    "probability": 0.9960861206054688
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

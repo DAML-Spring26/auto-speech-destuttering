@@ -1,0 +1,95 @@
+{
+    "text": " I'm not sure whether I should accept the job offer.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.98,
+            "text": " I'm not sure whether I should accept the job offer.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                406,
+                988,
+                1968,
+                286,
+                820,
+                3241,
+                264,
+                1691,
+                2626,
+                13,
+                50572
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35714248021443684,
+            "compression_ratio": 0.8793103448275862,
+            "no_speech_prob": 0.007296610623598099,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.8494940102100372
+                },
+                {
+                    "word": " not",
+                    "start": 0.22,
+                    "end": 0.32,
+                    "probability": 0.9974120259284973
+                },
+                {
+                    "word": " sure",
+                    "start": 0.32,
+                    "end": 0.62,
+                    "probability": 0.9985713958740234
+                },
+                {
+                    "word": " whether",
+                    "start": 0.62,
+                    "end": 1.06,
+                    "probability": 0.5274940133094788
+                },
+                {
+                    "word": " I",
+                    "start": 1.06,
+                    "end": 2.52,
+                    "probability": 0.39362046122550964
+                },
+                {
+                    "word": " should",
+                    "start": 2.52,
+                    "end": 2.72,
+                    "probability": 0.9973451495170593
+                },
+                {
+                    "word": " accept",
+                    "start": 2.72,
+                    "end": 3.14,
+                    "probability": 0.9942840933799744
+                },
+                {
+                    "word": " the",
+                    "start": 3.14,
+                    "end": 3.36,
+                    "probability": 0.9617586731910706
+                },
+                {
+                    "word": " job",
+                    "start": 3.36,
+                    "end": 3.6,
+                    "probability": 0.9824926853179932
+                },
+                {
+                    "word": " offer.",
+                    "start": 3.6,
+                    "end": 3.98,
+                    "probability": 0.9944444298744202
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

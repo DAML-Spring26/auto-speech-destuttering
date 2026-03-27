@@ -1,0 +1,95 @@
+{
+    "text": " I'll log it to check through to our final destination.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.16,
+            "text": " I'll log it to check through to our final destination.",
+            "tokens": [
+                50364,
+                286,
+                603,
+                3565,
+                309,
+                281,
+                1520,
+                807,
+                281,
+                527,
+                2572,
+                12236,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3880723635355631,
+            "compression_ratio": 0.9310344827586207,
+            "no_speech_prob": 0.005845177453011274,
+            "words": [
+                {
+                    "word": " I'll",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.9396410584449768
+                },
+                {
+                    "word": " log",
+                    "start": 0.28,
+                    "end": 0.4,
+                    "probability": 0.8904382586479187
+                },
+                {
+                    "word": " it",
+                    "start": 0.4,
+                    "end": 0.5,
+                    "probability": 0.8156934976577759
+                },
+                {
+                    "word": " to",
+                    "start": 0.5,
+                    "end": 0.64,
+                    "probability": 0.4965689480304718
+                },
+                {
+                    "word": " check",
+                    "start": 0.64,
+                    "end": 0.76,
+                    "probability": 0.4529944956302643
+                },
+                {
+                    "word": " through",
+                    "start": 0.76,
+                    "end": 0.94,
+                    "probability": 0.7239063382148743
+                },
+                {
+                    "word": " to",
+                    "start": 0.94,
+                    "end": 1.08,
+                    "probability": 0.9692302942276001
+                },
+                {
+                    "word": " our",
+                    "start": 1.08,
+                    "end": 1.22,
+                    "probability": 0.9509017467498779
+                },
+                {
+                    "word": " final",
+                    "start": 1.22,
+                    "end": 1.54,
+                    "probability": 0.9858954548835754
+                },
+                {
+                    "word": " destination.",
+                    "start": 1.54,
+                    "end": 2.16,
+                    "probability": 0.9944823980331421
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

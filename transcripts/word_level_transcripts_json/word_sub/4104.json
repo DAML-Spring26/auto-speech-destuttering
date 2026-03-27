@@ -1,0 +1,59 @@
+{
+    "text": " She prescribed the procedure clearly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.06,
+            "text": " She prescribed the procedure clearly.",
+            "tokens": [
+                50364,
+                1240,
+                29099,
+                264,
+                10747,
+                4448,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4428453180525038,
+            "compression_ratio": 0.9024390243902439,
+            "no_speech_prob": 0.00799368042498827,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.7373260259628296
+                },
+                {
+                    "word": " prescribed",
+                    "start": 0.26,
+                    "end": 0.78,
+                    "probability": 0.9790326356887817
+                },
+                {
+                    "word": " the",
+                    "start": 0.78,
+                    "end": 1.02,
+                    "probability": 0.9676216244697571
+                },
+                {
+                    "word": " procedure",
+                    "start": 1.02,
+                    "end": 1.5,
+                    "probability": 0.9950883984565735
+                },
+                {
+                    "word": " clearly.",
+                    "start": 1.5,
+                    "end": 2.06,
+                    "probability": 0.9717734456062317
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

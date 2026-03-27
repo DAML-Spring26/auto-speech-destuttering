@@ -1,0 +1,53 @@
+{
+    "text": " I'll see you soon.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.36,
+            "text": " I'll see you soon.",
+            "tokens": [
+                50364,
+                286,
+                603,
+                536,
+                291,
+                2321,
+                13,
+                50444
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5182072321573893,
+            "compression_ratio": 0.6923076923076923,
+            "no_speech_prob": 0.01254777330905199,
+            "words": [
+                {
+                    "word": " I'll",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.865547776222229
+                },
+                {
+                    "word": " see",
+                    "start": 0.3,
+                    "end": 0.74,
+                    "probability": 0.3711155951023102
+                },
+                {
+                    "word": " you",
+                    "start": 0.74,
+                    "end": 0.98,
+                    "probability": 0.9824157953262329
+                },
+                {
+                    "word": " soon.",
+                    "start": 0.98,
+                    "end": 1.36,
+                    "probability": 0.7140735387802124
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

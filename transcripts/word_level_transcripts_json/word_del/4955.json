@@ -1,0 +1,87 @@
+{
+    "text": " the committee reviewing applications for the new leadership position.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.5,
+            "text": " the committee reviewing applications for the new leadership position.",
+            "tokens": [
+                50364,
+                264,
+                7482,
+                19576,
+                5821,
+                337,
+                264,
+                777,
+                5848,
+                2535,
+                13,
+                50556
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32972500874445987,
+            "compression_ratio": 1.0298507462686568,
+            "no_speech_prob": 0.0055380044505000114,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.4250049889087677
+                },
+                {
+                    "word": " committee",
+                    "start": 0.12,
+                    "end": 0.44,
+                    "probability": 0.7575957775115967
+                },
+                {
+                    "word": " reviewing",
+                    "start": 0.44,
+                    "end": 1.06,
+                    "probability": 0.9639337062835693
+                },
+                {
+                    "word": " applications",
+                    "start": 1.06,
+                    "end": 1.88,
+                    "probability": 0.9799448251724243
+                },
+                {
+                    "word": " for",
+                    "start": 1.88,
+                    "end": 2.2,
+                    "probability": 0.9960392713546753
+                },
+                {
+                    "word": " the",
+                    "start": 2.2,
+                    "end": 2.3,
+                    "probability": 0.9882325530052185
+                },
+                {
+                    "word": " new",
+                    "start": 2.3,
+                    "end": 2.46,
+                    "probability": 0.990240216255188
+                },
+                {
+                    "word": " leadership",
+                    "start": 2.46,
+                    "end": 2.92,
+                    "probability": 0.9902910590171814
+                },
+                {
+                    "word": " position.",
+                    "start": 2.92,
+                    "end": 3.5,
+                    "probability": 0.9930570125579834
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

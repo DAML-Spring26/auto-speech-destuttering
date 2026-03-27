@@ -1,0 +1,88 @@
+{
+    "text": " In case of fire, please use the emergency exist.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.42,
+            "text": " In case of fire, please use the emergency exist.",
+            "tokens": [
+                50364,
+                682,
+                1389,
+                295,
+                2610,
+                11,
+                1767,
+                764,
+                264,
+                7473,
+                2514,
+                13,
+                50556
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2808055707386562,
+            "compression_ratio": 0.9230769230769231,
+            "no_speech_prob": 0.006601549219340086,
+            "words": [
+                {
+                    "word": " In",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.8542057275772095
+                },
+                {
+                    "word": " case",
+                    "start": 0.18,
+                    "end": 0.42,
+                    "probability": 0.991354763507843
+                },
+                {
+                    "word": " of",
+                    "start": 0.42,
+                    "end": 0.8,
+                    "probability": 0.989987313747406
+                },
+                {
+                    "word": " fire,",
+                    "start": 0.8,
+                    "end": 1.1,
+                    "probability": 0.98701012134552
+                },
+                {
+                    "word": " please",
+                    "start": 1.66,
+                    "end": 1.94,
+                    "probability": 0.9767707586288452
+                },
+                {
+                    "word": " use",
+                    "start": 1.94,
+                    "end": 2.24,
+                    "probability": 0.961316704750061
+                },
+                {
+                    "word": " the",
+                    "start": 2.24,
+                    "end": 2.44,
+                    "probability": 0.9677850604057312
+                },
+                {
+                    "word": " emergency",
+                    "start": 2.44,
+                    "end": 2.94,
+                    "probability": 0.9782481789588928
+                },
+                {
+                    "word": " exist.",
+                    "start": 2.94,
+                    "end": 3.42,
+                    "probability": 0.8704186081886292
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

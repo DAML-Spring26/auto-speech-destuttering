@@ -1,0 +1,101 @@
+{
+    "text": " Please check in online at least 24 hours before your flight.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.76,
+            "text": " Please check in online at least 24 hours before your flight.",
+            "tokens": [
+                50364,
+                2555,
+                1520,
+                294,
+                2950,
+                412,
+                1935,
+                4022,
+                2496,
+                949,
+                428,
+                7018,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.352814769744873,
+            "compression_ratio": 0.9375,
+            "no_speech_prob": 0.011200494132936,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.6619405150413513
+                },
+                {
+                    "word": " check",
+                    "start": 0.22,
+                    "end": 0.58,
+                    "probability": 0.9765793681144714
+                },
+                {
+                    "word": " in",
+                    "start": 0.58,
+                    "end": 0.86,
+                    "probability": 0.32544177770614624
+                },
+                {
+                    "word": " online",
+                    "start": 0.86,
+                    "end": 1.08,
+                    "probability": 0.9290873408317566
+                },
+                {
+                    "word": " at",
+                    "start": 1.08,
+                    "end": 1.36,
+                    "probability": 0.9395018219947815
+                },
+                {
+                    "word": " least",
+                    "start": 1.36,
+                    "end": 1.54,
+                    "probability": 0.9750803112983704
+                },
+                {
+                    "word": " 24",
+                    "start": 1.54,
+                    "end": 2.4,
+                    "probability": 0.9694939255714417
+                },
+                {
+                    "word": " hours",
+                    "start": 2.4,
+                    "end": 2.86,
+                    "probability": 0.9636074900627136
+                },
+                {
+                    "word": " before",
+                    "start": 2.86,
+                    "end": 6.54,
+                    "probability": 0.7373028993606567
+                },
+                {
+                    "word": " your",
+                    "start": 6.54,
+                    "end": 7.32,
+                    "probability": 0.7331599593162537
+                },
+                {
+                    "word": " flight.",
+                    "start": 7.32,
+                    "end": 7.76,
+                    "probability": 0.9964219331741333
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

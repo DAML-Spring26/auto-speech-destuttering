@@ -1,0 +1,101 @@
+{
+    "text": " Could you explain the difference you know between these two products?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.62,
+            "text": " Could you explain the difference you know between these two products?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                2903,
+                264,
+                2649,
+                291,
+                458,
+                1296,
+                613,
+                732,
+                3383,
+                30,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3386438687642415,
+            "compression_ratio": 1.0147058823529411,
+            "no_speech_prob": 0.08860956132411957,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.76,
+                    "probability": 0.8755607008934021
+                },
+                {
+                    "word": " you",
+                    "start": 0.76,
+                    "end": 0.88,
+                    "probability": 0.9944705963134766
+                },
+                {
+                    "word": " explain",
+                    "start": 0.88,
+                    "end": 1.22,
+                    "probability": 0.9974570870399475
+                },
+                {
+                    "word": " the",
+                    "start": 1.22,
+                    "end": 1.38,
+                    "probability": 0.9973534345626831
+                },
+                {
+                    "word": " difference",
+                    "start": 1.38,
+                    "end": 1.68,
+                    "probability": 0.9906966686248779
+                },
+                {
+                    "word": " you",
+                    "start": 1.68,
+                    "end": 1.9,
+                    "probability": 0.8994534611701965
+                },
+                {
+                    "word": " know",
+                    "start": 1.9,
+                    "end": 2.1,
+                    "probability": 0.9937706589698792
+                },
+                {
+                    "word": " between",
+                    "start": 2.1,
+                    "end": 2.78,
+                    "probability": 0.9165111780166626
+                },
+                {
+                    "word": " these",
+                    "start": 2.78,
+                    "end": 3.02,
+                    "probability": 0.992020308971405
+                },
+                {
+                    "word": " two",
+                    "start": 3.02,
+                    "end": 3.24,
+                    "probability": 0.9512065649032593
+                },
+                {
+                    "word": " products?",
+                    "start": 3.24,
+                    "end": 3.62,
+                    "probability": 0.9979971051216125
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

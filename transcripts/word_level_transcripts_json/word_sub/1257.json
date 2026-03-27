@@ -1,0 +1,67 @@
+{
+    "text": " the diplomatic mission negotiated peace terms.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.32,
+            "text": " the diplomatic mission negotiated peace terms.",
+            "tokens": [
+                50364,
+                264,
+                26553,
+                4447,
+                9542,
+                770,
+                4336,
+                2115,
+                13,
+                50496
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5633495504205878,
+            "compression_ratio": 0.8846153846153846,
+            "no_speech_prob": 0.011144433170557022,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.4806111454963684
+                },
+                {
+                    "word": " diplomatic",
+                    "start": 0.1,
+                    "end": 0.68,
+                    "probability": 0.8702189922332764
+                },
+                {
+                    "word": " mission",
+                    "start": 0.68,
+                    "end": 1.12,
+                    "probability": 0.9879118204116821
+                },
+                {
+                    "word": " negotiated",
+                    "start": 1.12,
+                    "end": 1.78,
+                    "probability": 0.32588891685009
+                },
+                {
+                    "word": " peace",
+                    "start": 1.78,
+                    "end": 1.98,
+                    "probability": 0.940302848815918
+                },
+                {
+                    "word": " terms.",
+                    "start": 1.98,
+                    "end": 2.32,
+                    "probability": 0.9734402894973755
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,81 @@
+{
+    "text": " The library closes you know at 9pm tonight.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.62,
+            "text": " The library closes you know at 9pm tonight.",
+            "tokens": [
+                50364,
+                440,
+                6405,
+                24157,
+                291,
+                458,
+                412,
+                1722,
+                14395,
+                4440,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5029904292179987,
+            "compression_ratio": 0.8431372549019608,
+            "no_speech_prob": 0.08742938190698624,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 1.0,
+                    "probability": 0.8816220164299011
+                },
+                {
+                    "word": " library",
+                    "start": 1.0,
+                    "end": 1.4,
+                    "probability": 0.9551559090614319
+                },
+                {
+                    "word": " closes",
+                    "start": 1.4,
+                    "end": 1.88,
+                    "probability": 0.9983618855476379
+                },
+                {
+                    "word": " you",
+                    "start": 1.88,
+                    "end": 2.12,
+                    "probability": 0.7911266088485718
+                },
+                {
+                    "word": " know",
+                    "start": 2.12,
+                    "end": 2.34,
+                    "probability": 0.8526330590248108
+                },
+                {
+                    "word": " at",
+                    "start": 2.34,
+                    "end": 3.34,
+                    "probability": 0.6048117876052856
+                },
+                {
+                    "word": " 9pm",
+                    "start": 3.34,
+                    "end": 4.12,
+                    "probability": 0.6777390092611313
+                },
+                {
+                    "word": " tonight.",
+                    "start": 4.12,
+                    "end": 4.62,
+                    "probability": 0.9299145936965942
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

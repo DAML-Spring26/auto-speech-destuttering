@@ -1,0 +1,73 @@
+{
+    "text": " We need to project sensitive information carefully.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.52,
+            "text": " We need to project sensitive information carefully.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                1716,
+                9477,
+                1589,
+                7500,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3205557302995162,
+            "compression_ratio": 0.864406779661017,
+            "no_speech_prob": 0.005128060467541218,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.753757119178772
+                },
+                {
+                    "word": " need",
+                    "start": 0.1,
+                    "end": 0.26,
+                    "probability": 0.996494472026825
+                },
+                {
+                    "word": " to",
+                    "start": 0.26,
+                    "end": 0.4,
+                    "probability": 0.996488094329834
+                },
+                {
+                    "word": " project",
+                    "start": 0.4,
+                    "end": 0.68,
+                    "probability": 0.9825787544250488
+                },
+                {
+                    "word": " sensitive",
+                    "start": 0.68,
+                    "end": 1.36,
+                    "probability": 0.9392985701560974
+                },
+                {
+                    "word": " information",
+                    "start": 1.36,
+                    "end": 1.84,
+                    "probability": 0.9968570470809937
+                },
+                {
+                    "word": " carefully.",
+                    "start": 1.84,
+                    "end": 2.52,
+                    "probability": 0.9890556335449219
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

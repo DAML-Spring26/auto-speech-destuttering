@@ -1,0 +1,115 @@
+{
+    "text": " Have you heard about the new album The Band is releasing next month?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.22,
+            "text": " Have you heard about the new album The Band is releasing next month?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                2198,
+                466,
+                264,
+                777,
+                6030,
+                440,
+                15462,
+                307,
+                16327,
+                958,
+                1618,
+                30,
+                50480
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24188964507159064,
+            "compression_ratio": 0.9444444444444444,
+            "no_speech_prob": 0.01205703616142273,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.9032221436500549
+                },
+                {
+                    "word": " you",
+                    "start": 0.12,
+                    "end": 0.24,
+                    "probability": 0.9971309900283813
+                },
+                {
+                    "word": " heard",
+                    "start": 0.24,
+                    "end": 0.38,
+                    "probability": 0.9977189898490906
+                },
+                {
+                    "word": " about",
+                    "start": 0.38,
+                    "end": 0.52,
+                    "probability": 0.980109691619873
+                },
+                {
+                    "word": " the",
+                    "start": 0.52,
+                    "end": 0.66,
+                    "probability": 0.9137641191482544
+                },
+                {
+                    "word": " new",
+                    "start": 0.66,
+                    "end": 0.76,
+                    "probability": 0.9906760454177856
+                },
+                {
+                    "word": " album",
+                    "start": 0.76,
+                    "end": 0.92,
+                    "probability": 0.9976975321769714
+                },
+                {
+                    "word": " The",
+                    "start": 0.92,
+                    "end": 1.08,
+                    "probability": 0.4041823744773865
+                },
+                {
+                    "word": " Band",
+                    "start": 1.08,
+                    "end": 1.26,
+                    "probability": 0.9581549167633057
+                },
+                {
+                    "word": " is",
+                    "start": 1.26,
+                    "end": 1.42,
+                    "probability": 0.8683315515518188
+                },
+                {
+                    "word": " releasing",
+                    "start": 1.42,
+                    "end": 1.74,
+                    "probability": 0.9792927503585815
+                },
+                {
+                    "word": " next",
+                    "start": 1.74,
+                    "end": 2.0,
+                    "probability": 0.8091448545455933
+                },
+                {
+                    "word": " month?",
+                    "start": 2.0,
+                    "end": 2.22,
+                    "probability": 0.8337362408638
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,109 @@
+{
+    "text": " He explained that he couldn't attend the meeting due to prior commitment.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.48,
+            "text": " He explained that he couldn't attend the meeting due to prior commitment.",
+            "tokens": [
+                50364,
+                634,
+                8825,
+                300,
+                415,
+                2809,
+                380,
+                6888,
+                264,
+                3440,
+                3462,
+                281,
+                4059,
+                8371,
+                13,
+                50552
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2196825953090892,
+            "compression_ratio": 1.028169014084507,
+            "no_speech_prob": 0.013861872255802155,
+            "words": [
+                {
+                    "word": " He",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7015193104743958
+                },
+                {
+                    "word": " explained",
+                    "start": 0.12,
+                    "end": 0.58,
+                    "probability": 0.9828720092773438
+                },
+                {
+                    "word": " that",
+                    "start": 0.58,
+                    "end": 0.86,
+                    "probability": 0.9755339622497559
+                },
+                {
+                    "word": " he",
+                    "start": 0.86,
+                    "end": 1.04,
+                    "probability": 0.9352386593818665
+                },
+                {
+                    "word": " couldn't",
+                    "start": 1.04,
+                    "end": 1.46,
+                    "probability": 0.9395394921302795
+                },
+                {
+                    "word": " attend",
+                    "start": 1.46,
+                    "end": 1.7,
+                    "probability": 0.9922609925270081
+                },
+                {
+                    "word": " the",
+                    "start": 1.7,
+                    "end": 1.86,
+                    "probability": 0.9697155952453613
+                },
+                {
+                    "word": " meeting",
+                    "start": 1.86,
+                    "end": 2.16,
+                    "probability": 0.9006494879722595
+                },
+                {
+                    "word": " due",
+                    "start": 2.16,
+                    "end": 2.44,
+                    "probability": 0.9961203336715698
+                },
+                {
+                    "word": " to",
+                    "start": 2.44,
+                    "end": 2.6,
+                    "probability": 0.9989583492279053
+                },
+                {
+                    "word": " prior",
+                    "start": 2.6,
+                    "end": 2.94,
+                    "probability": 0.9914492964744568
+                },
+                {
+                    "word": " commitment.",
+                    "start": 2.94,
+                    "end": 3.48,
+                    "probability": 0.9656023979187012
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

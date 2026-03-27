@@ -1,12 +1,12 @@
 {
-    "text": " The engineering team made substantial progress and developed in the new product prototype.",
+    "text": " The engineering team made substantial progress and develop in hype.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 6.24,
-            "text": " The engineering team made substantial progress and developed in the new product prototype.",
+            "end": 4.48,
+            "text": " The engineering team made substantial progress and develop in hype.",
             "tokens": [
                 50364,
                 440,
@@ -16,19 +16,16 @@
                 16726,
                 4205,
                 293,
-                4743,
+                1499,
                 294,
-                264,
-                777,
-                1674,
-                19475,
+                24144,
                 13,
-                50676
+                50588
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.38461864695829506,
-            "compression_ratio": 1.1111111111111112,
-            "no_speech_prob": 0.0016822019824758172
+            "avg_logprob": -0.540487425667899,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.0033853850327432156
         }
     ],
     "language": "en"

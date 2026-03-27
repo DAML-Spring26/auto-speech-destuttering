@@ -1,0 +1,66 @@
+{
+    "text": " the economist analyze global market trends.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.86,
+            "text": " the economist analyze global market trends.",
+            "tokens": [
+                50364,
+                264,
+                36696,
+                12477,
+                4338,
+                2142,
+                13892,
+                13,
+                50516
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5805018901824951,
+            "compression_ratio": 0.8431372549019608,
+            "no_speech_prob": 0.0113475127145648,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7218544483184814
+                },
+                {
+                    "word": " economist",
+                    "start": 0.16,
+                    "end": 0.78,
+                    "probability": 0.40726229548454285
+                },
+                {
+                    "word": " analyze",
+                    "start": 0.78,
+                    "end": 1.4,
+                    "probability": 0.24676795303821564
+                },
+                {
+                    "word": " global",
+                    "start": 1.4,
+                    "end": 1.94,
+                    "probability": 0.9404308199882507
+                },
+                {
+                    "word": " market",
+                    "start": 1.94,
+                    "end": 2.44,
+                    "probability": 0.991310715675354
+                },
+                {
+                    "word": " trends.",
+                    "start": 2.44,
+                    "end": 2.86,
+                    "probability": 0.9433186054229736
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

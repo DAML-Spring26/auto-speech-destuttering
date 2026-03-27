@@ -1,0 +1,110 @@
+{
+    "text": " The CEO will announce the company's expansion plans at tomorrow's press conference.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.24,
+            "text": " The CEO will announce the company's expansion plans at tomorrow's press conference.",
+            "tokens": [
+                50364,
+                440,
+                9282,
+                486,
+                7478,
+                264,
+                2237,
+                311,
+                11260,
+                5482,
+                412,
+                4153,
+                311,
+                1886,
+                7586,
+                13,
+                50648
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2171173890431722,
+            "compression_ratio": 1.0121951219512195,
+            "no_speech_prob": 0.006825384218245745,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8085688352584839
+                },
+                {
+                    "word": " CEO",
+                    "start": 0.14,
+                    "end": 0.58,
+                    "probability": 0.8603018522262573
+                },
+                {
+                    "word": " will",
+                    "start": 0.58,
+                    "end": 1.1,
+                    "probability": 0.863517165184021
+                },
+                {
+                    "word": " announce",
+                    "start": 1.1,
+                    "end": 1.76,
+                    "probability": 0.8354401588439941
+                },
+                {
+                    "word": " the",
+                    "start": 1.76,
+                    "end": 2.1,
+                    "probability": 0.9884081482887268
+                },
+                {
+                    "word": " company's",
+                    "start": 2.1,
+                    "end": 2.76,
+                    "probability": 0.9790019392967224
+                },
+                {
+                    "word": " expansion",
+                    "start": 2.76,
+                    "end": 3.32,
+                    "probability": 0.9916744828224182
+                },
+                {
+                    "word": " plans",
+                    "start": 3.32,
+                    "end": 3.74,
+                    "probability": 0.9857183694839478
+                },
+                {
+                    "word": " at",
+                    "start": 3.74,
+                    "end": 3.92,
+                    "probability": 0.987490713596344
+                },
+                {
+                    "word": " tomorrow's",
+                    "start": 3.92,
+                    "end": 4.46,
+                    "probability": 0.8834931254386902
+                },
+                {
+                    "word": " press",
+                    "start": 4.46,
+                    "end": 4.68,
+                    "probability": 0.978871762752533
+                },
+                {
+                    "word": " conference.",
+                    "start": 4.68,
+                    "end": 5.24,
+                    "probability": 0.9987223744392395
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

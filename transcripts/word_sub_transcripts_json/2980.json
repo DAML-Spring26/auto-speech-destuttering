@@ -1,0 +1,59 @@
+{
+    "text": " The surface needs special placement.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.64,
+            "text": " The surface needs special placement.",
+            "tokens": [
+                50364,
+                440,
+                3753,
+                2203,
+                2121,
+                17257,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3501509560479058,
+            "compression_ratio": 0.8372093023255814,
+            "no_speech_prob": 0.005780874285846949,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.38120970129966736
+                },
+                {
+                    "word": " surface",
+                    "start": 0.12,
+                    "end": 0.48,
+                    "probability": 0.9844372272491455
+                },
+                {
+                    "word": " needs",
+                    "start": 0.48,
+                    "end": 0.78,
+                    "probability": 0.9694740772247314
+                },
+                {
+                    "word": " special",
+                    "start": 0.78,
+                    "end": 1.14,
+                    "probability": 0.9666451215744019
+                },
+                {
+                    "word": " placement.",
+                    "start": 1.14,
+                    "end": 1.64,
+                    "probability": 0.9957841038703918
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

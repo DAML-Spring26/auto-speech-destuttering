@@ -1,0 +1,102 @@
+{
+    "text": " The library is open from 9 a to 8 p.m.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.42,
+            "text": " The library is open from 9 a to 8 p.m.",
+            "tokens": [
+                50364,
+                440,
+                6405,
+                307,
+                1269,
+                490,
+                1722,
+                257,
+                281,
+                1649,
+                280,
+                13,
+                76,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3743687570095062,
+            "compression_ratio": 0.8260869565217391,
+            "no_speech_prob": 0.01509157009422779,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8070060014724731
+                },
+                {
+                    "word": " library",
+                    "start": 0.14,
+                    "end": 0.62,
+                    "probability": 0.9597782492637634
+                },
+                {
+                    "word": " is",
+                    "start": 0.62,
+                    "end": 0.94,
+                    "probability": 0.9960857629776001
+                },
+                {
+                    "word": " open",
+                    "start": 0.94,
+                    "end": 1.24,
+                    "probability": 0.9244461059570312
+                },
+                {
+                    "word": " from",
+                    "start": 1.24,
+                    "end": 1.64,
+                    "probability": 0.9869574308395386
+                },
+                {
+                    "word": " 9",
+                    "start": 1.64,
+                    "end": 4.02,
+                    "probability": 0.9380017518997192
+                },
+                {
+                    "word": " a",
+                    "start": 4.02,
+                    "end": 4.38,
+                    "probability": 0.522119402885437
+                },
+                {
+                    "word": " to",
+                    "start": 4.38,
+                    "end": 4.6,
+                    "probability": 0.25815048813819885
+                },
+                {
+                    "word": " 8",
+                    "start": 4.6,
+                    "end": 4.94,
+                    "probability": 0.9783768653869629
+                },
+                {
+                    "word": " p",
+                    "start": 4.94,
+                    "end": 5.18,
+                    "probability": 0.8005529642105103
+                },
+                {
+                    "word": ".m.",
+                    "start": 5.18,
+                    "end": 5.42,
+                    "probability": 0.9836620986461639
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

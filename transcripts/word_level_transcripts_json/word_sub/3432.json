@@ -1,0 +1,66 @@
+{
+    "text": " The hospital requires patient determination immediately.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.4,
+            "text": " The hospital requires patient determination immediately.",
+            "tokens": [
+                50364,
+                440,
+                4530,
+                7029,
+                4537,
+                18432,
+                4258,
+                13,
+                50548
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.393512225151062,
+            "compression_ratio": 0.9032258064516129,
+            "no_speech_prob": 0.007352330721914768,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.699186384677887
+                },
+                {
+                    "word": " hospital",
+                    "start": 0.12,
+                    "end": 0.54,
+                    "probability": 0.9950025677680969
+                },
+                {
+                    "word": " requires",
+                    "start": 0.54,
+                    "end": 1.1,
+                    "probability": 0.9936937689781189
+                },
+                {
+                    "word": " patient",
+                    "start": 1.1,
+                    "end": 1.78,
+                    "probability": 0.9905579090118408
+                },
+                {
+                    "word": " determination",
+                    "start": 1.78,
+                    "end": 2.58,
+                    "probability": 0.9903567433357239
+                },
+                {
+                    "word": " immediately.",
+                    "start": 2.58,
+                    "end": 3.4,
+                    "probability": 0.9603964686393738
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

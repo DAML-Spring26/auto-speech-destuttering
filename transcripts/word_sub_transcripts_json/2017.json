@@ -1,0 +1,66 @@
+{
+    "text": " The security system needs an upgrade.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.04,
+            "text": " The security system needs an upgrade.",
+            "tokens": [
+                50364,
+                440,
+                3825,
+                1185,
+                2203,
+                364,
+                11484,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38741698265075686,
+            "compression_ratio": 0.8222222222222222,
+            "no_speech_prob": 0.0029199481941759586,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.8037131428718567
+                },
+                {
+                    "word": " security",
+                    "start": 0.16,
+                    "end": 0.62,
+                    "probability": 0.9833337664604187
+                },
+                {
+                    "word": " system",
+                    "start": 0.62,
+                    "end": 1.16,
+                    "probability": 0.9974038004875183
+                },
+                {
+                    "word": " needs",
+                    "start": 1.16,
+                    "end": 1.44,
+                    "probability": 0.9979124665260315
+                },
+                {
+                    "word": " an",
+                    "start": 1.44,
+                    "end": 1.6,
+                    "probability": 0.9830615520477295
+                },
+                {
+                    "word": " upgrade.",
+                    "start": 1.6,
+                    "end": 2.04,
+                    "probability": 0.8893819451332092
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

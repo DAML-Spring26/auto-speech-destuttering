@@ -1,0 +1,80 @@
+{
+    "text": " We need to focus on improving customer satisfaction.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.86,
+            "text": " We need to focus on improving customer satisfaction.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                1879,
+                322,
+                11470,
+                5474,
+                18715,
+                13,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35953617095947266,
+            "compression_ratio": 0.9122807017543859,
+            "no_speech_prob": 0.0023165238089859486,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6125050187110901
+                },
+                {
+                    "word": " need",
+                    "start": 0.12,
+                    "end": 0.28,
+                    "probability": 0.995543897151947
+                },
+                {
+                    "word": " to",
+                    "start": 0.28,
+                    "end": 0.48,
+                    "probability": 0.9934718608856201
+                },
+                {
+                    "word": " focus",
+                    "start": 0.48,
+                    "end": 1.08,
+                    "probability": 0.9588375687599182
+                },
+                {
+                    "word": " on",
+                    "start": 1.08,
+                    "end": 1.36,
+                    "probability": 0.9974514842033386
+                },
+                {
+                    "word": " improving",
+                    "start": 1.36,
+                    "end": 1.74,
+                    "probability": 0.9958075284957886
+                },
+                {
+                    "word": " customer",
+                    "start": 1.74,
+                    "end": 2.26,
+                    "probability": 0.7751315236091614
+                },
+                {
+                    "word": " satisfaction.",
+                    "start": 2.26,
+                    "end": 2.86,
+                    "probability": 0.9996984004974365
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

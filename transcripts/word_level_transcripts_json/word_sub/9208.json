@@ -1,0 +1,52 @@
+{
+    "text": " Please review the pronunciation.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.28,
+            "text": " Please review the pronunciation.",
+            "tokens": [
+                50364,
+                2555,
+                3131,
+                264,
+                23338,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3898847699165344,
+            "compression_ratio": 0.8,
+            "no_speech_prob": 0.013377167284488678,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7030099034309387
+                },
+                {
+                    "word": " review",
+                    "start": 0.16,
+                    "end": 0.48,
+                    "probability": 0.9891002774238586
+                },
+                {
+                    "word": " the",
+                    "start": 0.48,
+                    "end": 0.66,
+                    "probability": 0.9899972677230835
+                },
+                {
+                    "word": " pronunciation.",
+                    "start": 0.66,
+                    "end": 1.28,
+                    "probability": 0.9435420632362366
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

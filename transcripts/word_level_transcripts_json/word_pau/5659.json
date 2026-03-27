@@ -1,0 +1,116 @@
+{
+    "text": " I'm afraid I can't make it to... ...Den of Tonight.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " I'm afraid I can't make it to...",
+            "tokens": [
+                50364,
+                286,
+                478,
+                4638,
+                286,
+                393,
+                380,
+                652,
+                309,
+                281,
+                485,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5421883265177408,
+            "compression_ratio": 0.8947368421052632,
+            "no_speech_prob": 0.011067347601056099,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.9366118609905243
+                },
+                {
+                    "word": " afraid",
+                    "start": 0.22,
+                    "end": 0.52,
+                    "probability": 0.9940529465675354
+                },
+                {
+                    "word": " I",
+                    "start": 0.52,
+                    "end": 0.72,
+                    "probability": 0.9335790276527405
+                },
+                {
+                    "word": " can't",
+                    "start": 0.72,
+                    "end": 1.08,
+                    "probability": 0.981175422668457
+                },
+                {
+                    "word": " make",
+                    "start": 1.08,
+                    "end": 1.26,
+                    "probability": 0.9973104000091553
+                },
+                {
+                    "word": " it",
+                    "start": 1.26,
+                    "end": 1.52,
+                    "probability": 0.997015118598938
+                },
+                {
+                    "word": " to...",
+                    "start": 1.52,
+                    "end": 2.0,
+                    "probability": 0.6680567860603333
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.52,
+            "end": 5.6,
+            "text": " ...Den of Tonight.",
+            "tokens": [
+                50608,
+                1097,
+                35,
+                268,
+                295,
+                18702,
+                13,
+                50668
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5421883265177408,
+            "compression_ratio": 0.8947368421052632,
+            "no_speech_prob": 0.011067347601056099,
+            "words": [
+                {
+                    "word": " ...Den",
+                    "start": 4.52,
+                    "end": 5.12,
+                    "probability": 0.4648620585600535
+                },
+                {
+                    "word": " of",
+                    "start": 5.12,
+                    "end": 5.24,
+                    "probability": 0.9718096256256104
+                },
+                {
+                    "word": " Tonight.",
+                    "start": 5.24,
+                    "end": 5.6,
+                    "probability": 0.5301344394683838
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

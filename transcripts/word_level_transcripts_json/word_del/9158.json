@@ -1,0 +1,101 @@
+{
+    "text": " The exam results will post it on the university website tomorrow.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.54,
+            "text": " The exam results will post it on the university website tomorrow.",
+            "tokens": [
+                50364,
+                440,
+                1139,
+                3542,
+                486,
+                2183,
+                309,
+                322,
+                264,
+                5454,
+                3144,
+                4153,
+                13,
+                50556
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3065900166829427,
+            "compression_ratio": 0.9701492537313433,
+            "no_speech_prob": 0.0029159062542021275,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.9247991442680359
+                },
+                {
+                    "word": " exam",
+                    "start": 0.12,
+                    "end": 0.42,
+                    "probability": 0.9800857901573181
+                },
+                {
+                    "word": " results",
+                    "start": 0.42,
+                    "end": 0.8,
+                    "probability": 0.99885094165802
+                },
+                {
+                    "word": " will",
+                    "start": 0.8,
+                    "end": 1.08,
+                    "probability": 0.6914021968841553
+                },
+                {
+                    "word": " post",
+                    "start": 1.08,
+                    "end": 1.5,
+                    "probability": 0.6843442320823669
+                },
+                {
+                    "word": " it",
+                    "start": 1.5,
+                    "end": 1.62,
+                    "probability": 0.9708154797554016
+                },
+                {
+                    "word": " on",
+                    "start": 1.62,
+                    "end": 1.76,
+                    "probability": 0.9920052886009216
+                },
+                {
+                    "word": " the",
+                    "start": 1.76,
+                    "end": 1.9,
+                    "probability": 0.973152756690979
+                },
+                {
+                    "word": " university",
+                    "start": 1.9,
+                    "end": 2.56,
+                    "probability": 0.45164981484413147
+                },
+                {
+                    "word": " website",
+                    "start": 2.56,
+                    "end": 3.04,
+                    "probability": 0.9873249530792236
+                },
+                {
+                    "word": " tomorrow.",
+                    "start": 3.04,
+                    "end": 3.54,
+                    "probability": 0.9885681867599487
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

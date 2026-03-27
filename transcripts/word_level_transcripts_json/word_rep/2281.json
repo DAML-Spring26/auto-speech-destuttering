@@ -1,0 +1,52 @@
+{
+    "text": " walking in the back.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.28,
+            "text": " walking in the back.",
+            "tokens": [
+                50364,
+                4494,
+                294,
+                264,
+                646,
+                13,
+                50444
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.797756016254425,
+            "compression_ratio": 0.7142857142857143,
+            "no_speech_prob": 0.02245473302900791,
+            "words": [
+                {
+                    "word": " walking",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.33950671553611755
+                },
+                {
+                    "word": " in",
+                    "start": 0.44,
+                    "end": 0.92,
+                    "probability": 0.9695664048194885
+                },
+                {
+                    "word": " the",
+                    "start": 0.92,
+                    "end": 1.02,
+                    "probability": 0.9931880235671997
+                },
+                {
+                    "word": " back.",
+                    "start": 1.02,
+                    "end": 1.28,
+                    "probability": 0.2894626557826996
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

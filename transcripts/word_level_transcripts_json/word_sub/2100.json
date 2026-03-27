@@ -1,0 +1,52 @@
+{
+    "text": " They conducted expensive research.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.84,
+            "text": " They conducted expensive research.",
+            "tokens": [
+                50364,
+                814,
+                13809,
+                5124,
+                2132,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4799523949623108,
+            "compression_ratio": 0.8095238095238095,
+            "no_speech_prob": 0.004164944402873516,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5150551795959473
+                },
+                {
+                    "word": " conducted",
+                    "start": 0.12,
+                    "end": 0.66,
+                    "probability": 0.9900564551353455
+                },
+                {
+                    "word": " expensive",
+                    "start": 0.66,
+                    "end": 1.24,
+                    "probability": 0.8813595175743103
+                },
+                {
+                    "word": " research.",
+                    "start": 1.24,
+                    "end": 1.84,
+                    "probability": 0.9989043474197388
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

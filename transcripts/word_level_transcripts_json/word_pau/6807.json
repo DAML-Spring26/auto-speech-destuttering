@@ -1,0 +1,101 @@
+{
+    "text": " The children were excited to open their presents on Christmas morning.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.28,
+            "text": " The children were excited to open their presents on Christmas morning.",
+            "tokens": [
+                50364,
+                440,
+                2227,
+                645,
+                2919,
+                281,
+                1269,
+                641,
+                13533,
+                322,
+                5272,
+                2446,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4047213236490885,
+            "compression_ratio": 0.9859154929577465,
+            "no_speech_prob": 0.005007957108318806,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.8305560946464539
+                },
+                {
+                    "word": " children",
+                    "start": 0.16,
+                    "end": 0.54,
+                    "probability": 0.9821380376815796
+                },
+                {
+                    "word": " were",
+                    "start": 0.54,
+                    "end": 0.86,
+                    "probability": 0.9835851192474365
+                },
+                {
+                    "word": " excited",
+                    "start": 0.86,
+                    "end": 1.3,
+                    "probability": 0.9965914487838745
+                },
+                {
+                    "word": " to",
+                    "start": 1.3,
+                    "end": 1.58,
+                    "probability": 0.9978861212730408
+                },
+                {
+                    "word": " open",
+                    "start": 1.58,
+                    "end": 1.88,
+                    "probability": 0.9930504560470581
+                },
+                {
+                    "word": " their",
+                    "start": 1.88,
+                    "end": 2.12,
+                    "probability": 0.9956719875335693
+                },
+                {
+                    "word": " presents",
+                    "start": 2.12,
+                    "end": 2.5,
+                    "probability": 0.490332692861557
+                },
+                {
+                    "word": " on",
+                    "start": 2.5,
+                    "end": 3.02,
+                    "probability": 0.9778968095779419
+                },
+                {
+                    "word": " Christmas",
+                    "start": 3.02,
+                    "end": 6.64,
+                    "probability": 0.6218996644020081
+                },
+                {
+                    "word": " morning.",
+                    "start": 6.64,
+                    "end": 7.28,
+                    "probability": 0.8694705367088318
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

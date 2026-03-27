@@ -1,0 +1,109 @@
+{
+    "text": " He didn't realize that his passport expired until he reached the airport.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.56,
+            "text": " He didn't realize that his passport expired until he reached the airport.",
+            "tokens": [
+                50364,
+                634,
+                994,
+                380,
+                4325,
+                300,
+                702,
+                24694,
+                36587,
+                1826,
+                415,
+                6488,
+                264,
+                10155,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24905841490801642,
+            "compression_ratio": 1.0138888888888888,
+            "no_speech_prob": 0.004119017161428928,
+            "words": [
+                {
+                    "word": " He",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7357985377311707
+                },
+                {
+                    "word": " didn't",
+                    "start": 0.1,
+                    "end": 0.38,
+                    "probability": 0.9976267218589783
+                },
+                {
+                    "word": " realize",
+                    "start": 0.38,
+                    "end": 0.64,
+                    "probability": 0.6821531653404236
+                },
+                {
+                    "word": " that",
+                    "start": 0.64,
+                    "end": 0.84,
+                    "probability": 0.9611275792121887
+                },
+                {
+                    "word": " his",
+                    "start": 0.84,
+                    "end": 1.04,
+                    "probability": 0.976148247718811
+                },
+                {
+                    "word": " passport",
+                    "start": 1.04,
+                    "end": 1.48,
+                    "probability": 0.9559140801429749
+                },
+                {
+                    "word": " expired",
+                    "start": 1.48,
+                    "end": 2.16,
+                    "probability": 0.9976018071174622
+                },
+                {
+                    "word": " until",
+                    "start": 2.16,
+                    "end": 2.54,
+                    "probability": 0.9733964800834656
+                },
+                {
+                    "word": " he",
+                    "start": 2.54,
+                    "end": 2.74,
+                    "probability": 0.9977994561195374
+                },
+                {
+                    "word": " reached",
+                    "start": 2.74,
+                    "end": 3.0,
+                    "probability": 0.979317307472229
+                },
+                {
+                    "word": " the",
+                    "start": 3.0,
+                    "end": 3.2,
+                    "probability": 0.9852378964424133
+                },
+                {
+                    "word": " airport.",
+                    "start": 3.2,
+                    "end": 3.56,
+                    "probability": 0.9787259101867676
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,74 @@
+{
+    "text": " The scientist analyzed the molecular rupture carefully.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.94,
+            "text": " The scientist analyzed the molecular rupture carefully.",
+            "tokens": [
+                50364,
+                440,
+                12662,
+                28181,
+                264,
+                19046,
+                5420,
+                35603,
+                7500,
+                13,
+                50522
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45128973325093585,
+            "compression_ratio": 0.8870967741935484,
+            "no_speech_prob": 0.017007999122142792,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.781335175037384
+                },
+                {
+                    "word": " scientist",
+                    "start": 0.14,
+                    "end": 0.54,
+                    "probability": 0.6622105240821838
+                },
+                {
+                    "word": " analyzed",
+                    "start": 0.54,
+                    "end": 1.26,
+                    "probability": 0.7876197695732117
+                },
+                {
+                    "word": " the",
+                    "start": 1.26,
+                    "end": 1.56,
+                    "probability": 0.9817696213722229
+                },
+                {
+                    "word": " molecular",
+                    "start": 1.56,
+                    "end": 1.96,
+                    "probability": 0.9623451828956604
+                },
+                {
+                    "word": " rupture",
+                    "start": 1.96,
+                    "end": 2.4,
+                    "probability": 0.8577502369880676
+                },
+                {
+                    "word": " carefully.",
+                    "start": 2.4,
+                    "end": 2.94,
+                    "probability": 0.5769333243370056
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

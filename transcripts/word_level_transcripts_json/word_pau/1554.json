@@ -1,0 +1,110 @@
+{
+    "text": " I enjoyed the concert, but the acoustics in the venue were terrible.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.4,
+            "text": " I enjoyed the concert, but the acoustics in the venue were terrible.",
+            "tokens": [
+                50364,
+                286,
+                4626,
+                264,
+                8543,
+                11,
+                457,
+                264,
+                22740,
+                1167,
+                294,
+                264,
+                21645,
+                645,
+                6237,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2656959162818061,
+            "compression_ratio": 1.0149253731343284,
+            "no_speech_prob": 0.003262236714363098,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.9542286396026611
+                },
+                {
+                    "word": " enjoyed",
+                    "start": 0.14,
+                    "end": 0.46,
+                    "probability": 0.9882717728614807
+                },
+                {
+                    "word": " the",
+                    "start": 0.46,
+                    "end": 0.62,
+                    "probability": 0.993955671787262
+                },
+                {
+                    "word": " concert,",
+                    "start": 0.62,
+                    "end": 1.06,
+                    "probability": 0.9834272861480713
+                },
+                {
+                    "word": " but",
+                    "start": 1.38,
+                    "end": 1.46,
+                    "probability": 0.9943376183509827
+                },
+                {
+                    "word": " the",
+                    "start": 1.46,
+                    "end": 1.62,
+                    "probability": 0.9949519634246826
+                },
+                {
+                    "word": " acoustics",
+                    "start": 1.62,
+                    "end": 2.3,
+                    "probability": 0.8861366212368011
+                },
+                {
+                    "word": " in",
+                    "start": 2.3,
+                    "end": 2.4,
+                    "probability": 0.7201591730117798
+                },
+                {
+                    "word": " the",
+                    "start": 2.4,
+                    "end": 2.52,
+                    "probability": 0.9829802513122559
+                },
+                {
+                    "word": " venue",
+                    "start": 2.52,
+                    "end": 2.7,
+                    "probability": 0.8895435929298401
+                },
+                {
+                    "word": " were",
+                    "start": 2.7,
+                    "end": 2.86,
+                    "probability": 0.9940261840820312
+                },
+                {
+                    "word": " terrible.",
+                    "start": 2.86,
+                    "end": 3.4,
+                    "probability": 0.9923615455627441
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

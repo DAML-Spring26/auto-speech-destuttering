@@ -1,0 +1,134 @@
+{
+    "text": " We're experiencing technical difficulties with our online booking system. Please try again later.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.24,
+            "text": " We're experiencing technical difficulties with our online booking system.",
+            "tokens": [
+                50364,
+                492,
+                434,
+                11139,
+                6191,
+                14399,
+                365,
+                527,
+                2950,
+                34424,
+                1185,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3325385139102027,
+            "compression_ratio": 1.0898876404494382,
+            "no_speech_prob": 0.1352963000535965,
+            "words": [
+                {
+                    "word": " We're",
+                    "start": 0.0,
+                    "end": 1.08,
+                    "probability": 0.852885365486145
+                },
+                {
+                    "word": " experiencing",
+                    "start": 1.08,
+                    "end": 1.76,
+                    "probability": 0.997088611125946
+                },
+                {
+                    "word": " technical",
+                    "start": 1.76,
+                    "end": 2.26,
+                    "probability": 0.9962846040725708
+                },
+                {
+                    "word": " difficulties",
+                    "start": 2.26,
+                    "end": 3.0,
+                    "probability": 0.996855616569519
+                },
+                {
+                    "word": " with",
+                    "start": 3.0,
+                    "end": 3.48,
+                    "probability": 0.9907675385475159
+                },
+                {
+                    "word": " our",
+                    "start": 3.48,
+                    "end": 3.7,
+                    "probability": 0.9932458996772766
+                },
+                {
+                    "word": " online",
+                    "start": 3.7,
+                    "end": 4.12,
+                    "probability": 0.9923812747001648
+                },
+                {
+                    "word": " booking",
+                    "start": 4.12,
+                    "end": 4.54,
+                    "probability": 0.9755111932754517
+                },
+                {
+                    "word": " system.",
+                    "start": 4.54,
+                    "end": 5.24,
+                    "probability": 0.9945043325424194
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.68,
+            "end": 8.72,
+            "text": " Please try again later.",
+            "tokens": [
+                50664,
+                2555,
+                853,
+                797,
+                1780,
+                13,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3325385139102027,
+            "compression_ratio": 1.0898876404494382,
+            "no_speech_prob": 0.1352963000535965,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 5.68,
+                    "end": 6.64,
+                    "probability": 0.9849550724029541
+                },
+                {
+                    "word": " try",
+                    "start": 6.64,
+                    "end": 8.02,
+                    "probability": 0.3519980013370514
+                },
+                {
+                    "word": " again",
+                    "start": 8.02,
+                    "end": 8.36,
+                    "probability": 0.9967124462127686
+                },
+                {
+                    "word": " later.",
+                    "start": 8.36,
+                    "end": 8.72,
+                    "probability": 0.9802082180976868
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

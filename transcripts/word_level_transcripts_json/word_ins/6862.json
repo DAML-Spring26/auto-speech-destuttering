@@ -1,0 +1,101 @@
+{
+    "text": " Would you like to um sign up for our loyalty program?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.8,
+            "text": " Would you like to um sign up for our loyalty program?",
+            "tokens": [
+                50364,
+                6068,
+                291,
+                411,
+                281,
+                1105,
+                1465,
+                493,
+                337,
+                527,
+                22831,
+                1461,
+                30,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4210459391276042,
+            "compression_ratio": 0.8983050847457628,
+            "no_speech_prob": 0.0293374452739954,
+            "words": [
+                {
+                    "word": " Would",
+                    "start": 0.0,
+                    "end": 0.78,
+                    "probability": 0.6929700374603271
+                },
+                {
+                    "word": " you",
+                    "start": 0.78,
+                    "end": 0.94,
+                    "probability": 0.9905298352241516
+                },
+                {
+                    "word": " like",
+                    "start": 0.94,
+                    "end": 1.14,
+                    "probability": 0.9975391626358032
+                },
+                {
+                    "word": " to",
+                    "start": 1.14,
+                    "end": 1.36,
+                    "probability": 0.9962292313575745
+                },
+                {
+                    "word": " um",
+                    "start": 1.36,
+                    "end": 1.66,
+                    "probability": 0.6612082719802856
+                },
+                {
+                    "word": " sign",
+                    "start": 1.66,
+                    "end": 2.32,
+                    "probability": 0.37452763319015503
+                },
+                {
+                    "word": " up",
+                    "start": 2.32,
+                    "end": 2.54,
+                    "probability": 0.9723470211029053
+                },
+                {
+                    "word": " for",
+                    "start": 2.54,
+                    "end": 2.72,
+                    "probability": 0.9980637431144714
+                },
+                {
+                    "word": " our",
+                    "start": 2.72,
+                    "end": 2.88,
+                    "probability": 0.9892884492874146
+                },
+                {
+                    "word": " loyalty",
+                    "start": 2.88,
+                    "end": 3.24,
+                    "probability": 0.8613380193710327
+                },
+                {
+                    "word": " program?",
+                    "start": 3.24,
+                    "end": 3.8,
+                    "probability": 0.9821950793266296
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

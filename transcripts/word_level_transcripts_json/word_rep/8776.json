@@ -1,0 +1,108 @@
+{
+    "text": " She wondered if the project deadline would be extended or remain unchanged.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.46,
+            "text": " She wondered if the project deadline would be extended or remain unchanged.",
+            "tokens": [
+                50364,
+                1240,
+                17055,
+                498,
+                264,
+                1716,
+                20615,
+                576,
+                312,
+                10913,
+                420,
+                6222,
+                44553,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37119805812835693,
+            "compression_ratio": 1.0416666666666667,
+            "no_speech_prob": 0.00827530212700367,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.6790045499801636
+                },
+                {
+                    "word": " wondered",
+                    "start": 0.3,
+                    "end": 0.84,
+                    "probability": 0.9934141039848328
+                },
+                {
+                    "word": " if",
+                    "start": 0.84,
+                    "end": 1.22,
+                    "probability": 0.9945060610771179
+                },
+                {
+                    "word": " the",
+                    "start": 1.22,
+                    "end": 1.42,
+                    "probability": 0.9846580028533936
+                },
+                {
+                    "word": " project",
+                    "start": 1.42,
+                    "end": 1.92,
+                    "probability": 0.4771787226200104
+                },
+                {
+                    "word": " deadline",
+                    "start": 1.92,
+                    "end": 2.56,
+                    "probability": 0.9079492092132568
+                },
+                {
+                    "word": " would",
+                    "start": 2.56,
+                    "end": 3.28,
+                    "probability": 0.982730507850647
+                },
+                {
+                    "word": " be",
+                    "start": 3.28,
+                    "end": 3.5,
+                    "probability": 0.9953016042709351
+                },
+                {
+                    "word": " extended",
+                    "start": 3.5,
+                    "end": 4.2,
+                    "probability": 0.989260196685791
+                },
+                {
+                    "word": " or",
+                    "start": 4.2,
+                    "end": 4.72,
+                    "probability": 0.9387518763542175
+                },
+                {
+                    "word": " remain",
+                    "start": 4.72,
+                    "end": 5.82,
+                    "probability": 0.5176540613174438
+                },
+                {
+                    "word": " unchanged.",
+                    "start": 5.82,
+                    "end": 6.46,
+                    "probability": 0.9851792454719543
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

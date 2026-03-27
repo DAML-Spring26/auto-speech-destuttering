@@ -1,0 +1,66 @@
+{
+    "text": " We must express these concerns immediately.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.94,
+            "text": " We must express these concerns immediately.",
+            "tokens": [
+                50364,
+                492,
+                1633,
+                5109,
+                613,
+                7389,
+                4258,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35519473552703856,
+            "compression_ratio": 0.8431372549019608,
+            "no_speech_prob": 0.0072461264207959175,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6951213479042053
+                },
+                {
+                    "word": " must",
+                    "start": 0.14,
+                    "end": 0.26,
+                    "probability": 0.9981539845466614
+                },
+                {
+                    "word": " express",
+                    "start": 0.26,
+                    "end": 0.64,
+                    "probability": 0.9904265999794006
+                },
+                {
+                    "word": " these",
+                    "start": 0.64,
+                    "end": 0.94,
+                    "probability": 0.9759585857391357
+                },
+                {
+                    "word": " concerns",
+                    "start": 0.94,
+                    "end": 1.4,
+                    "probability": 0.9947161078453064
+                },
+                {
+                    "word": " immediately.",
+                    "start": 1.4,
+                    "end": 1.94,
+                    "probability": 0.9828997254371643
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

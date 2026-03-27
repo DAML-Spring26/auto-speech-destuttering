@@ -1,0 +1,94 @@
+{
+    "text": " The new treatment has shown positive results in preliminary trials.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.32,
+            "text": " The new treatment has shown positive results in preliminary trials.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                5032,
+                575,
+                4898,
+                3353,
+                3542,
+                294,
+                28817,
+                12450,
+                13,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.326742274420602,
+            "compression_ratio": 0.9852941176470589,
+            "no_speech_prob": 0.06536717712879181,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 1.24,
+                    "probability": 0.920890212059021
+                },
+                {
+                    "word": " new",
+                    "start": 1.24,
+                    "end": 1.44,
+                    "probability": 0.9795912504196167
+                },
+                {
+                    "word": " treatment",
+                    "start": 1.44,
+                    "end": 1.86,
+                    "probability": 0.9974761605262756
+                },
+                {
+                    "word": " has",
+                    "start": 1.86,
+                    "end": 2.4,
+                    "probability": 0.9915737509727478
+                },
+                {
+                    "word": " shown",
+                    "start": 2.4,
+                    "end": 3.04,
+                    "probability": 0.9766259789466858
+                },
+                {
+                    "word": " positive",
+                    "start": 3.04,
+                    "end": 4.74,
+                    "probability": 0.630000650882721
+                },
+                {
+                    "word": " results",
+                    "start": 4.74,
+                    "end": 5.42,
+                    "probability": 0.9964324235916138
+                },
+                {
+                    "word": " in",
+                    "start": 5.42,
+                    "end": 5.94,
+                    "probability": 0.9967367053031921
+                },
+                {
+                    "word": " preliminary",
+                    "start": 5.94,
+                    "end": 6.64,
+                    "probability": 0.9704620242118835
+                },
+                {
+                    "word": " trials.",
+                    "start": 6.64,
+                    "end": 7.32,
+                    "probability": 0.9985174536705017
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

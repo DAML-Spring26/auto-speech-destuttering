@@ -1,0 +1,92 @@
+{
+    "text": " Could you please pass the salad? Dressing?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.64,
+            "text": " Could you please pass the salad?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                1320,
+                264,
+                12604,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5675528208414714,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.015622132457792759,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.9007763862609863
+                },
+                {
+                    "word": " you",
+                    "start": 0.24,
+                    "end": 0.34,
+                    "probability": 0.9948663711547852
+                },
+                {
+                    "word": " please",
+                    "start": 0.34,
+                    "end": 0.56,
+                    "probability": 0.9921120405197144
+                },
+                {
+                    "word": " pass",
+                    "start": 0.56,
+                    "end": 0.9,
+                    "probability": 0.9806549549102783
+                },
+                {
+                    "word": " the",
+                    "start": 0.9,
+                    "end": 1.2,
+                    "probability": 0.9376132488250732
+                },
+                {
+                    "word": " salad?",
+                    "start": 1.2,
+                    "end": 1.64,
+                    "probability": 0.9688870906829834
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.4400000000000004,
+            "end": 4.12,
+            "text": " Dressing?",
+            "tokens": [
+                50544,
+                413,
+                18605,
+                30,
+                50594
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5675528208414714,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.015622132457792759,
+            "words": [
+                {
+                    "word": " Dressing?",
+                    "start": 3.4400000000000004,
+                    "end": 4.12,
+                    "probability": 0.924413800239563
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

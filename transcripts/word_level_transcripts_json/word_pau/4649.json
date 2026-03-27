@@ -1,0 +1,120 @@
+{
+    "text": " The company is planning to expand. It's market share in Asia.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.26,
+            "text": " The company is planning to expand.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                307,
+                5038,
+                281,
+                5268,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4460555628726357,
+            "compression_ratio": 0.8970588235294118,
+            "no_speech_prob": 0.0044740731827914715,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8727072477340698
+                },
+                {
+                    "word": " company",
+                    "start": 0.12,
+                    "end": 0.6,
+                    "probability": 0.9930184483528137
+                },
+                {
+                    "word": " is",
+                    "start": 0.6,
+                    "end": 0.86,
+                    "probability": 0.9966542720794678
+                },
+                {
+                    "word": " planning",
+                    "start": 0.86,
+                    "end": 1.24,
+                    "probability": 0.9981114864349365
+                },
+                {
+                    "word": " to",
+                    "start": 1.24,
+                    "end": 1.6,
+                    "probability": 0.9993396401405334
+                },
+                {
+                    "word": " expand.",
+                    "start": 1.6,
+                    "end": 2.26,
+                    "probability": 0.9983347058296204
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.7,
+            "end": 6.7,
+            "text": " It's market share in Asia.",
+            "tokens": [
+                50614,
+                467,
+                311,
+                2142,
+                2073,
+                294,
+                10038,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4460555628726357,
+            "compression_ratio": 0.8970588235294118,
+            "no_speech_prob": 0.0044740731827914715,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 4.7,
+                    "end": 5.42,
+                    "probability": 0.7935550808906555
+                },
+                {
+                    "word": " market",
+                    "start": 5.42,
+                    "end": 5.74,
+                    "probability": 0.4975481927394867
+                },
+                {
+                    "word": " share",
+                    "start": 5.74,
+                    "end": 6.12,
+                    "probability": 0.7109466791152954
+                },
+                {
+                    "word": " in",
+                    "start": 6.12,
+                    "end": 6.34,
+                    "probability": 0.9948687553405762
+                },
+                {
+                    "word": " Asia.",
+                    "start": 6.34,
+                    "end": 6.7,
+                    "probability": 0.9924224019050598
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

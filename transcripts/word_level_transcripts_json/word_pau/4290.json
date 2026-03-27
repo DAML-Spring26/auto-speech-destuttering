@@ -1,0 +1,87 @@
+{
+    "text": " The thesis statement needs to be more clearly defined.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.14,
+            "text": " The thesis statement needs to be more clearly defined.",
+            "tokens": [
+                50364,
+                440,
+                22288,
+                5629,
+                2203,
+                281,
+                312,
+                544,
+                4448,
+                7642,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31109098287729114,
+            "compression_ratio": 0.9152542372881356,
+            "no_speech_prob": 0.005291721783578396,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7231799364089966
+                },
+                {
+                    "word": " thesis",
+                    "start": 0.1,
+                    "end": 0.4,
+                    "probability": 0.9160038828849792
+                },
+                {
+                    "word": " statement",
+                    "start": 0.4,
+                    "end": 0.8,
+                    "probability": 0.9963017702102661
+                },
+                {
+                    "word": " needs",
+                    "start": 0.8,
+                    "end": 1.06,
+                    "probability": 0.9796850085258484
+                },
+                {
+                    "word": " to",
+                    "start": 1.06,
+                    "end": 1.4,
+                    "probability": 0.9962248802185059
+                },
+                {
+                    "word": " be",
+                    "start": 1.4,
+                    "end": 1.78,
+                    "probability": 0.9965776801109314
+                },
+                {
+                    "word": " more",
+                    "start": 1.78,
+                    "end": 2.78,
+                    "probability": 0.9118539094924927
+                },
+                {
+                    "word": " clearly",
+                    "start": 2.78,
+                    "end": 5.56,
+                    "probability": 0.8666831254959106
+                },
+                {
+                    "word": " defined.",
+                    "start": 5.56,
+                    "end": 6.14,
+                    "probability": 0.9935927987098694
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

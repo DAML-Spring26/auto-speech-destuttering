@@ -1,0 +1,109 @@
+{
+    "text": " If you had arrived earlier, you would have seen the spectacular sunset.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.92,
+            "text": " If you had arrived earlier, you would have seen the spectacular sunset.",
+            "tokens": [
+                50364,
+                759,
+                291,
+                632,
+                6678,
+                3071,
+                11,
+                291,
+                576,
+                362,
+                1612,
+                264,
+                18149,
+                20142,
+                13,
+                50628
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30206795299754424,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.003644609823822975,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.7576695680618286
+                },
+                {
+                    "word": " you",
+                    "start": 0.28,
+                    "end": 0.42,
+                    "probability": 0.9976903200149536
+                },
+                {
+                    "word": " had",
+                    "start": 0.42,
+                    "end": 0.62,
+                    "probability": 0.9947355389595032
+                },
+                {
+                    "word": " arrived",
+                    "start": 0.62,
+                    "end": 1.04,
+                    "probability": 0.9893496036529541
+                },
+                {
+                    "word": " earlier,",
+                    "start": 1.04,
+                    "end": 1.66,
+                    "probability": 0.9873872399330139
+                },
+                {
+                    "word": " you",
+                    "start": 2.0,
+                    "end": 2.12,
+                    "probability": 0.9947131276130676
+                },
+                {
+                    "word": " would",
+                    "start": 2.12,
+                    "end": 2.34,
+                    "probability": 0.9903505444526672
+                },
+                {
+                    "word": " have",
+                    "start": 2.34,
+                    "end": 2.56,
+                    "probability": 0.9785163998603821
+                },
+                {
+                    "word": " seen",
+                    "start": 2.56,
+                    "end": 2.9,
+                    "probability": 0.9879764914512634
+                },
+                {
+                    "word": " the",
+                    "start": 2.9,
+                    "end": 3.22,
+                    "probability": 0.7430654168128967
+                },
+                {
+                    "word": " spectacular",
+                    "start": 3.22,
+                    "end": 3.96,
+                    "probability": 0.876834511756897
+                },
+                {
+                    "word": " sunset.",
+                    "start": 3.96,
+                    "end": 4.92,
+                    "probability": 0.996331512928009
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

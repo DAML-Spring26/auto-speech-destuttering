@@ -1,0 +1,102 @@
+{
+    "text": " The company has been investing substantially, substantially in employee training programs.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.0,
+            "text": " The company has been investing substantially, substantially in employee training programs.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                575,
+                668,
+                10978,
+                30797,
+                11,
+                30797,
+                294,
+                10738,
+                3097,
+                4268,
+                13,
+                50636
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3404898941516876,
+            "compression_ratio": 1.139240506329114,
+            "no_speech_prob": 0.006569736637175083,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.8682534098625183
+                },
+                {
+                    "word": " company",
+                    "start": 0.1,
+                    "end": 0.48,
+                    "probability": 0.9960544109344482
+                },
+                {
+                    "word": " has",
+                    "start": 0.48,
+                    "end": 0.82,
+                    "probability": 0.9928823709487915
+                },
+                {
+                    "word": " been",
+                    "start": 0.82,
+                    "end": 1.04,
+                    "probability": 0.9946058392524719
+                },
+                {
+                    "word": " investing",
+                    "start": 1.04,
+                    "end": 1.54,
+                    "probability": 0.984289824962616
+                },
+                {
+                    "word": " substantially,",
+                    "start": 1.54,
+                    "end": 2.36,
+                    "probability": 0.9834358096122742
+                },
+                {
+                    "word": " substantially",
+                    "start": 2.66,
+                    "end": 3.44,
+                    "probability": 0.9672181010246277
+                },
+                {
+                    "word": " in",
+                    "start": 3.44,
+                    "end": 3.76,
+                    "probability": 0.8494570255279541
+                },
+                {
+                    "word": " employee",
+                    "start": 3.76,
+                    "end": 4.06,
+                    "probability": 0.834983229637146
+                },
+                {
+                    "word": " training",
+                    "start": 4.06,
+                    "end": 4.44,
+                    "probability": 0.9860994219779968
+                },
+                {
+                    "word": " programs.",
+                    "start": 4.44,
+                    "end": 5.0,
+                    "probability": 0.6911750435829163
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

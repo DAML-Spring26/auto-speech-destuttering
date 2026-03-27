@@ -1,0 +1,122 @@
+{
+    "text": " I'm sorry, but I can't make it too. You dinner tonight.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.06,
+            "text": " I'm sorry, but I can't make it too.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                2597,
+                11,
+                457,
+                286,
+                393,
+                380,
+                652,
+                309,
+                886,
+                13,
+                50480
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5333972658429827,
+            "compression_ratio": 0.9016393442622951,
+            "no_speech_prob": 0.031121069565415382,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.8888437747955322
+                },
+                {
+                    "word": " sorry,",
+                    "start": 0.24,
+                    "end": 0.6,
+                    "probability": 0.9950632452964783
+                },
+                {
+                    "word": " but",
+                    "start": 0.96,
+                    "end": 1.04,
+                    "probability": 0.9916518330574036
+                },
+                {
+                    "word": " I",
+                    "start": 1.04,
+                    "end": 1.2,
+                    "probability": 0.9825347065925598
+                },
+                {
+                    "word": " can't",
+                    "start": 1.2,
+                    "end": 1.48,
+                    "probability": 0.9915730655193329
+                },
+                {
+                    "word": " make",
+                    "start": 1.48,
+                    "end": 1.64,
+                    "probability": 0.9987013339996338
+                },
+                {
+                    "word": " it",
+                    "start": 1.64,
+                    "end": 1.82,
+                    "probability": 0.9984726309776306
+                },
+                {
+                    "word": " too.",
+                    "start": 1.82,
+                    "end": 2.06,
+                    "probability": 0.5618972182273865
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.84,
+            "end": 5.96,
+            "text": " You dinner tonight.",
+            "tokens": [
+                50624,
+                509,
+                6148,
+                4440,
+                13,
+                50684
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5333972658429827,
+            "compression_ratio": 0.9016393442622951,
+            "no_speech_prob": 0.031121069565415382,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 4.84,
+                    "end": 5.36,
+                    "probability": 0.7491225004196167
+                },
+                {
+                    "word": " dinner",
+                    "start": 5.36,
+                    "end": 5.58,
+                    "probability": 0.9095346331596375
+                },
+                {
+                    "word": " tonight.",
+                    "start": 5.58,
+                    "end": 5.96,
+                    "probability": 0.9637852907180786
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

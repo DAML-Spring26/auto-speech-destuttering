@@ -1,0 +1,101 @@
+{
+    "text": " Can you help me install this new software on my computer?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.46,
+            "text": " Can you help me install this new software on my computer?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                854,
+                385,
+                3625,
+                341,
+                777,
+                4722,
+                322,
+                452,
+                3820,
+                30,
+                50648
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3234162966410319,
+            "compression_ratio": 0.9193548387096774,
+            "no_speech_prob": 0.006742240861058235,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6918506622314453
+                },
+                {
+                    "word": " you",
+                    "start": 0.1,
+                    "end": 0.18,
+                    "probability": 0.9939898252487183
+                },
+                {
+                    "word": " help",
+                    "start": 0.18,
+                    "end": 0.34,
+                    "probability": 0.996183454990387
+                },
+                {
+                    "word": " me",
+                    "start": 0.34,
+                    "end": 0.5,
+                    "probability": 0.9914485812187195
+                },
+                {
+                    "word": " install",
+                    "start": 0.5,
+                    "end": 0.96,
+                    "probability": 0.9910545945167542
+                },
+                {
+                    "word": " this",
+                    "start": 0.96,
+                    "end": 4.16,
+                    "probability": 0.6118950843811035
+                },
+                {
+                    "word": " new",
+                    "start": 4.16,
+                    "end": 4.34,
+                    "probability": 0.982955813407898
+                },
+                {
+                    "word": " software",
+                    "start": 4.34,
+                    "end": 4.72,
+                    "probability": 0.9958471655845642
+                },
+                {
+                    "word": " on",
+                    "start": 4.72,
+                    "end": 4.92,
+                    "probability": 0.9870405793190002
+                },
+                {
+                    "word": " my",
+                    "start": 4.92,
+                    "end": 5.04,
+                    "probability": 0.9938704967498779
+                },
+                {
+                    "word": " computer?",
+                    "start": 5.04,
+                    "end": 5.46,
+                    "probability": 0.9912939667701721
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

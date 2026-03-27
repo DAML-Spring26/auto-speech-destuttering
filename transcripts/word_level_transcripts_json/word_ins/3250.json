@@ -1,0 +1,66 @@
+{
+    "text": " The project deadline is next Friday.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.74,
+            "text": " The project deadline is next Friday.",
+            "tokens": [
+                50364,
+                440,
+                1716,
+                20615,
+                307,
+                958,
+                6984,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3476402997970581,
+            "compression_ratio": 0.8181818181818182,
+            "no_speech_prob": 0.03489801287651062,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.6987947225570679
+                },
+                {
+                    "word": " project",
+                    "start": 0.26,
+                    "end": 0.5,
+                    "probability": 0.8684053421020508
+                },
+                {
+                    "word": " deadline",
+                    "start": 0.5,
+                    "end": 0.82,
+                    "probability": 0.9916380047798157
+                },
+                {
+                    "word": " is",
+                    "start": 0.82,
+                    "end": 1.06,
+                    "probability": 0.990422248840332
+                },
+                {
+                    "word": " next",
+                    "start": 1.06,
+                    "end": 1.28,
+                    "probability": 0.977717399597168
+                },
+                {
+                    "word": " Friday.",
+                    "start": 1.28,
+                    "end": 1.74,
+                    "probability": 0.7549024224281311
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,53 @@
+{
+    "text": " Call 91, you immediately.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.46,
+            "text": " Call 91, you immediately.",
+            "tokens": [
+                50364,
+                7807,
+                31064,
+                11,
+                291,
+                4258,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6897655063205295,
+            "compression_ratio": 0.7575757575757576,
+            "no_speech_prob": 0.033035531640052795,
+            "words": [
+                {
+                    "word": " Call",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.5531166791915894
+                },
+                {
+                    "word": " 91,",
+                    "start": 0.36,
+                    "end": 0.8,
+                    "probability": 0.9305563569068909
+                },
+                {
+                    "word": " you",
+                    "start": 1.0,
+                    "end": 1.08,
+                    "probability": 0.3232872784137726
+                },
+                {
+                    "word": " immediately.",
+                    "start": 1.08,
+                    "end": 1.46,
+                    "probability": 0.7767646908760071
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

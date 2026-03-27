@@ -1,0 +1,80 @@
+{
+    "text": " She working on this project since last year.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.34,
+            "text": " She working on this project since last year.",
+            "tokens": [
+                50364,
+                1240,
+                1364,
+                322,
+                341,
+                1716,
+                1670,
+                1036,
+                1064,
+                13,
+                50488
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4373112916946411,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.003324118908494711,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.5261781215667725
+                },
+                {
+                    "word": " working",
+                    "start": 0.16,
+                    "end": 0.56,
+                    "probability": 0.317899227142334
+                },
+                {
+                    "word": " on",
+                    "start": 0.56,
+                    "end": 0.76,
+                    "probability": 0.9950289130210876
+                },
+                {
+                    "word": " this",
+                    "start": 0.76,
+                    "end": 0.92,
+                    "probability": 0.9689470529556274
+                },
+                {
+                    "word": " project",
+                    "start": 0.92,
+                    "end": 1.32,
+                    "probability": 0.937587320804596
+                },
+                {
+                    "word": " since",
+                    "start": 1.32,
+                    "end": 1.7,
+                    "probability": 0.9934385418891907
+                },
+                {
+                    "word": " last",
+                    "start": 1.7,
+                    "end": 1.98,
+                    "probability": 0.9926407933235168
+                },
+                {
+                    "word": " year.",
+                    "start": 1.98,
+                    "end": 2.34,
+                    "probability": 0.9935139417648315
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,100 @@
+{
+    "text": " Professor Brown's lecture. On ancient civilizations was enlightening.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.28,
+            "text": " Professor Brown's lecture.",
+            "tokens": [
+                50364,
+                8419,
+                8030,
+                311,
+                7991,
+                13,
+                50580
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5130594477933996,
+            "compression_ratio": 0.9583333333333334,
+            "no_speech_prob": 0.014289106242358685,
+            "words": [
+                {
+                    "word": " Professor",
+                    "start": 0.0,
+                    "end": 0.48,
+                    "probability": 0.8991140127182007
+                },
+                {
+                    "word": " Brown's",
+                    "start": 0.48,
+                    "end": 0.9,
+                    "probability": 0.9748442769050598
+                },
+                {
+                    "word": " lecture.",
+                    "start": 0.9,
+                    "end": 1.28,
+                    "probability": 0.9353101849555969
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.32,
+            "end": 6.64,
+            "text": " On ancient civilizations was enlightening.",
+            "tokens": [
+                50580,
+                1282,
+                7832,
+                40749,
+                390,
+                18690,
+                4559,
+                13,
+                50700
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5130594477933996,
+            "compression_ratio": 0.9583333333333334,
+            "no_speech_prob": 0.014289106242358685,
+            "words": [
+                {
+                    "word": " On",
+                    "start": 3.95,
+                    "end": 4.4,
+                    "probability": 0.6062561273574829
+                },
+                {
+                    "word": " ancient",
+                    "start": 4.4,
+                    "end": 4.76,
+                    "probability": 0.8199565410614014
+                },
+                {
+                    "word": " civilizations",
+                    "start": 4.76,
+                    "end": 5.58,
+                    "probability": 0.9536824226379395
+                },
+                {
+                    "word": " was",
+                    "start": 5.58,
+                    "end": 5.96,
+                    "probability": 0.8095110654830933
+                },
+                {
+                    "word": " enlightening.",
+                    "start": 5.96,
+                    "end": 6.64,
+                    "probability": 0.9973466694355011
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,102 @@
+{
+    "text": " Since the pandemic began, many companies have adopted remote work policies.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.76,
+            "text": " Since the pandemic began, many companies have adopted remote work policies.",
+            "tokens": [
+                50364,
+                4162,
+                264,
+                5388,
+                4283,
+                11,
+                867,
+                3431,
+                362,
+                12175,
+                8607,
+                589,
+                7657,
+                13,
+                50612
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3243013322353363,
+            "compression_ratio": 1.0135135135135136,
+            "no_speech_prob": 0.0038980869576334953,
+            "words": [
+                {
+                    "word": " Since",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.6892382502555847
+                },
+                {
+                    "word": " the",
+                    "start": 0.28,
+                    "end": 0.54,
+                    "probability": 0.9385756254196167
+                },
+                {
+                    "word": " pandemic",
+                    "start": 0.54,
+                    "end": 1.04,
+                    "probability": 0.9931144118309021
+                },
+                {
+                    "word": " began,",
+                    "start": 1.04,
+                    "end": 1.54,
+                    "probability": 0.9875608086585999
+                },
+                {
+                    "word": " many",
+                    "start": 1.8,
+                    "end": 1.98,
+                    "probability": 0.9977028965950012
+                },
+                {
+                    "word": " companies",
+                    "start": 1.98,
+                    "end": 2.48,
+                    "probability": 0.9964319467544556
+                },
+                {
+                    "word": " have",
+                    "start": 2.48,
+                    "end": 2.9,
+                    "probability": 0.9923827052116394
+                },
+                {
+                    "word": " adopted",
+                    "start": 2.9,
+                    "end": 3.42,
+                    "probability": 0.9680055379867554
+                },
+                {
+                    "word": " remote",
+                    "start": 3.42,
+                    "end": 3.96,
+                    "probability": 0.9868388772010803
+                },
+                {
+                    "word": " work",
+                    "start": 3.96,
+                    "end": 4.28,
+                    "probability": 0.9876927733421326
+                },
+                {
+                    "word": " policies.",
+                    "start": 4.28,
+                    "end": 4.76,
+                    "probability": 0.9563242793083191
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

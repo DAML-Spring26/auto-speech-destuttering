@@ -1,0 +1,67 @@
+{
+    "text": " Finance Department preparing the courtfully reports.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.88,
+            "text": " Finance Department preparing the courtfully reports.",
+            "tokens": [
+                50364,
+                25765,
+                5982,
+                10075,
+                264,
+                4753,
+                2277,
+                7122,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6312617388638583,
+            "compression_ratio": 0.9285714285714286,
+            "no_speech_prob": 0.01348496600985527,
+            "words": [
+                {
+                    "word": " Finance",
+                    "start": 0.0,
+                    "end": 0.46,
+                    "probability": 0.8481966257095337
+                },
+                {
+                    "word": " Department",
+                    "start": 0.46,
+                    "end": 1.18,
+                    "probability": 0.854369044303894
+                },
+                {
+                    "word": " preparing",
+                    "start": 1.18,
+                    "end": 1.9,
+                    "probability": 0.642342209815979
+                },
+                {
+                    "word": " the",
+                    "start": 1.9,
+                    "end": 2.72,
+                    "probability": 0.7553656697273254
+                },
+                {
+                    "word": " courtfully",
+                    "start": 2.72,
+                    "end": 3.32,
+                    "probability": 0.5725528076291084
+                },
+                {
+                    "word": " reports.",
+                    "start": 3.32,
+                    "end": 3.88,
+                    "probability": 0.9149380922317505
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,92 @@
+{
+    "text": " just finish binge watching there. Entire series.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.78,
+            "text": " just finish binge watching there.",
+            "tokens": [
+                50364,
+                445,
+                2413,
+                41487,
+                1976,
+                456,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7134779612223308,
+            "compression_ratio": 0.8888888888888888,
+            "no_speech_prob": 0.01694837585091591,
+            "words": [
+                {
+                    "word": " just",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.426692396402359
+                },
+                {
+                    "word": " finish",
+                    "start": 0.2,
+                    "end": 0.58,
+                    "probability": 0.5750627517700195
+                },
+                {
+                    "word": " binge",
+                    "start": 0.58,
+                    "end": 0.92,
+                    "probability": 0.8431195616722107
+                },
+                {
+                    "word": " watching",
+                    "start": 0.92,
+                    "end": 1.4,
+                    "probability": 0.8681924343109131
+                },
+                {
+                    "word": " there.",
+                    "start": 1.4,
+                    "end": 1.78,
+                    "probability": 0.6799187660217285
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.8,
+            "end": 6.24,
+            "text": " Entire series.",
+            "tokens": [
+                50614,
+                3951,
+                621,
+                2638,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7134779612223308,
+            "compression_ratio": 0.8888888888888888,
+            "no_speech_prob": 0.01694837585091591,
+            "words": [
+                {
+                    "word": " Entire",
+                    "start": 4.8,
+                    "end": 5.76,
+                    "probability": 0.6151436567306519
+                },
+                {
+                    "word": " series.",
+                    "start": 5.76,
+                    "end": 6.24,
+                    "probability": 0.6255724430084229
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

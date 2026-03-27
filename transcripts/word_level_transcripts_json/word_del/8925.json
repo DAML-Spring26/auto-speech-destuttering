@@ -1,0 +1,87 @@
+{
+    "text": " The quarterly report indicates that our profits increase significantly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.92,
+            "text": " The quarterly report indicates that our profits increase significantly.",
+            "tokens": [
+                50364,
+                440,
+                38633,
+                2275,
+                16203,
+                300,
+                527,
+                17982,
+                3488,
+                10591,
+                13,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40128275064321667,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.01707480289041996,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8433486223220825
+                },
+                {
+                    "word": " quarterly",
+                    "start": 0.12,
+                    "end": 0.44,
+                    "probability": 0.3503999412059784
+                },
+                {
+                    "word": " report",
+                    "start": 0.44,
+                    "end": 0.82,
+                    "probability": 0.9981070756912231
+                },
+                {
+                    "word": " indicates",
+                    "start": 0.82,
+                    "end": 1.24,
+                    "probability": 0.9967401623725891
+                },
+                {
+                    "word": " that",
+                    "start": 1.24,
+                    "end": 1.5,
+                    "probability": 0.9566535353660583
+                },
+                {
+                    "word": " our",
+                    "start": 1.5,
+                    "end": 1.64,
+                    "probability": 0.9895977973937988
+                },
+                {
+                    "word": " profits",
+                    "start": 1.64,
+                    "end": 1.98,
+                    "probability": 0.9126378893852234
+                },
+                {
+                    "word": " increase",
+                    "start": 1.98,
+                    "end": 2.32,
+                    "probability": 0.7044216990470886
+                },
+                {
+                    "word": " significantly.",
+                    "start": 2.32,
+                    "end": 2.92,
+                    "probability": 0.9994256496429443
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

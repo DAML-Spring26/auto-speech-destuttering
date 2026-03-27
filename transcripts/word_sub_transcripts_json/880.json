@@ -1,0 +1,66 @@
+{
+    "text": " We must address these tactical issues.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.22,
+            "text": " We must address these tactical issues.",
+            "tokens": [
+                50364,
+                492,
+                1633,
+                2985,
+                613,
+                26323,
+                2663,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4943548679351807,
+            "compression_ratio": 0.8260869565217391,
+            "no_speech_prob": 0.004030484706163406,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6339412331581116
+                },
+                {
+                    "word": " must",
+                    "start": 0.16,
+                    "end": 0.42,
+                    "probability": 0.9944822788238525
+                },
+                {
+                    "word": " address",
+                    "start": 0.42,
+                    "end": 0.72,
+                    "probability": 0.4549434185028076
+                },
+                {
+                    "word": " these",
+                    "start": 0.72,
+                    "end": 1.16,
+                    "probability": 0.9807927012443542
+                },
+                {
+                    "word": " tactical",
+                    "start": 1.16,
+                    "end": 1.64,
+                    "probability": 0.9379855990409851
+                },
+                {
+                    "word": " issues.",
+                    "start": 1.64,
+                    "end": 2.22,
+                    "probability": 0.9982050657272339
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,75 @@
+{
+    "text": " The exhibition showcases artworks from various cultures.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.3,
+            "text": " The exhibition showcases artworks from various cultures.",
+            "tokens": [
+                50364,
+                440,
+                14414,
+                29794,
+                1957,
+                15829,
+                82,
+                490,
+                3683,
+                12951,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32069191565880406,
+            "compression_ratio": 0.9032258064516129,
+            "no_speech_prob": 0.0072451625019311905,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7403170466423035
+                },
+                {
+                    "word": " exhibition",
+                    "start": 0.16,
+                    "end": 0.66,
+                    "probability": 0.9841682314872742
+                },
+                {
+                    "word": " showcases",
+                    "start": 0.66,
+                    "end": 1.58,
+                    "probability": 0.9971561431884766
+                },
+                {
+                    "word": " artworks",
+                    "start": 1.58,
+                    "end": 2.24,
+                    "probability": 0.9799332320690155
+                },
+                {
+                    "word": " from",
+                    "start": 2.24,
+                    "end": 2.4,
+                    "probability": 0.9912210702896118
+                },
+                {
+                    "word": " various",
+                    "start": 2.4,
+                    "end": 4.7,
+                    "probability": 0.7404530644416809
+                },
+                {
+                    "word": " cultures.",
+                    "start": 4.7,
+                    "end": 5.3,
+                    "probability": 0.9893026947975159
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

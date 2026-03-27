@@ -1,0 +1,102 @@
+{
+    "text": " the company's new initiative aims to reduce Western and improve efficiency.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.76,
+            "text": " the company's new initiative aims to reduce Western and improve efficiency.",
+            "tokens": [
+                50364,
+                264,
+                2237,
+                311,
+                777,
+                11552,
+                24683,
+                281,
+                5407,
+                8724,
+                293,
+                3470,
+                10493,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3773975372314453,
+            "compression_ratio": 1.0273972602739727,
+            "no_speech_prob": 0.008417516015470028,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.43828117847442627
+                },
+                {
+                    "word": " company's",
+                    "start": 0.14,
+                    "end": 0.78,
+                    "probability": 0.9246331453323364
+                },
+                {
+                    "word": " new",
+                    "start": 0.78,
+                    "end": 0.96,
+                    "probability": 0.9934492707252502
+                },
+                {
+                    "word": " initiative",
+                    "start": 0.96,
+                    "end": 1.5,
+                    "probability": 0.9812798500061035
+                },
+                {
+                    "word": " aims",
+                    "start": 1.5,
+                    "end": 1.96,
+                    "probability": 0.8871268630027771
+                },
+                {
+                    "word": " to",
+                    "start": 1.96,
+                    "end": 2.26,
+                    "probability": 0.9981348514556885
+                },
+                {
+                    "word": " reduce",
+                    "start": 2.26,
+                    "end": 2.62,
+                    "probability": 0.9954203963279724
+                },
+                {
+                    "word": " Western",
+                    "start": 2.62,
+                    "end": 3.2,
+                    "probability": 0.19529937207698822
+                },
+                {
+                    "word": " and",
+                    "start": 3.2,
+                    "end": 3.64,
+                    "probability": 0.8920372128486633
+                },
+                {
+                    "word": " improve",
+                    "start": 3.64,
+                    "end": 4.02,
+                    "probability": 0.9948520064353943
+                },
+                {
+                    "word": " efficiency.",
+                    "start": 4.02,
+                    "end": 4.76,
+                    "probability": 0.9920417666435242
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

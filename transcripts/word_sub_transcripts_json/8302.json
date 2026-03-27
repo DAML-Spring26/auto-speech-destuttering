@@ -1,0 +1,102 @@
+{
+    "text": " the architect designed to sustain a boba building with solar panels.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.94,
+            "text": " the architect designed to sustain a boba building with solar panels.",
+            "tokens": [
+                50364,
+                264,
+                6331,
+                4761,
+                281,
+                6769,
+                257,
+                748,
+                4231,
+                2390,
+                365,
+                7936,
+                13419,
+                13,
+                50532
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6137117147445679,
+            "compression_ratio": 1.0303030303030303,
+            "no_speech_prob": 0.0078079733066260815,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.347181499004364
+                },
+                {
+                    "word": " architect",
+                    "start": 0.1,
+                    "end": 0.4,
+                    "probability": 0.9263988137245178
+                },
+                {
+                    "word": " designed",
+                    "start": 0.4,
+                    "end": 0.86,
+                    "probability": 0.9555923342704773
+                },
+                {
+                    "word": " to",
+                    "start": 0.86,
+                    "end": 1.08,
+                    "probability": 0.3783706724643707
+                },
+                {
+                    "word": " sustain",
+                    "start": 1.08,
+                    "end": 1.42,
+                    "probability": 0.9717065691947937
+                },
+                {
+                    "word": " a",
+                    "start": 1.42,
+                    "end": 1.6,
+                    "probability": 0.9386813044548035
+                },
+                {
+                    "word": " boba",
+                    "start": 1.6,
+                    "end": 1.8,
+                    "probability": 0.22995392233133316
+                },
+                {
+                    "word": " building",
+                    "start": 1.8,
+                    "end": 2.08,
+                    "probability": 0.9332647323608398
+                },
+                {
+                    "word": " with",
+                    "start": 2.08,
+                    "end": 2.28,
+                    "probability": 0.9863835573196411
+                },
+                {
+                    "word": " solar",
+                    "start": 2.28,
+                    "end": 2.54,
+                    "probability": 0.9898540377616882
+                },
+                {
+                    "word": " panels.",
+                    "start": 2.54,
+                    "end": 2.94,
+                    "probability": 0.9986693859100342
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

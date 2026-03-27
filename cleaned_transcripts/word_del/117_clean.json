@@ -1,33 +1,28 @@
 {
-    "text": " the patient instructed to take the medication twice daily for 10 days.",
+    "text": " that detect the medication twice daily this.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 4.4,
-            "text": " the patient instructed to take the medication twice daily for 10 days.",
+            "end": 3.0,
+            "text": " that detect the medication twice daily this.",
             "tokens": [
                 50364,
-                264,
-                4537,
-                36384,
-                281,
-                747,
+                300,
+                5531,
                 264,
                 13851,
                 6091,
                 5212,
-                337,
-                1266,
-                1708,
+                341,
                 13,
-                50584
+                50514
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.3525162637233734,
-            "compression_ratio": 1.0,
-            "no_speech_prob": 0.006480167154222727
+            "avg_logprob": -0.6310331171209161,
+            "compression_ratio": 0.8627450980392157,
+            "no_speech_prob": 0.02796880155801773
         }
     ],
     "language": "en"

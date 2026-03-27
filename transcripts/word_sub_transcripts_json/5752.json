@@ -1,0 +1,75 @@
+{
+    "text": " What's the current exchange rate for gyros?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.26,
+            "text": " What's the current exchange rate for gyros?",
+            "tokens": [
+                50364,
+                708,
+                311,
+                264,
+                2190,
+                7742,
+                3314,
+                337,
+                15823,
+                2635,
+                30,
+                50496
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3525597865764911,
+            "compression_ratio": 0.8431372549019608,
+            "no_speech_prob": 0.004349055700004101,
+            "words": [
+                {
+                    "word": " What's",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.8954779803752899
+                },
+                {
+                    "word": " the",
+                    "start": 0.28,
+                    "end": 0.38,
+                    "probability": 0.9835280179977417
+                },
+                {
+                    "word": " current",
+                    "start": 0.38,
+                    "end": 0.62,
+                    "probability": 0.8202056884765625
+                },
+                {
+                    "word": " exchange",
+                    "start": 0.62,
+                    "end": 1.04,
+                    "probability": 0.8593939542770386
+                },
+                {
+                    "word": " rate",
+                    "start": 1.04,
+                    "end": 1.44,
+                    "probability": 0.9876086711883545
+                },
+                {
+                    "word": " for",
+                    "start": 1.44,
+                    "end": 1.68,
+                    "probability": 0.9917408227920532
+                },
+                {
+                    "word": " gyros?",
+                    "start": 1.68,
+                    "end": 2.26,
+                    "probability": 0.8674607872962952
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,59 @@
+{
+    "text": " They establish new safety controls.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.98,
+            "text": " They establish new safety controls.",
+            "tokens": [
+                50364,
+                814,
+                8327,
+                777,
+                4514,
+                9003,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5117722087436252,
+            "compression_ratio": 0.813953488372093,
+            "no_speech_prob": 0.00298180989921093,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6698641180992126
+                },
+                {
+                    "word": " establish",
+                    "start": 0.14,
+                    "end": 0.64,
+                    "probability": 0.49025893211364746
+                },
+                {
+                    "word": " new",
+                    "start": 0.64,
+                    "end": 1.02,
+                    "probability": 0.9968417882919312
+                },
+                {
+                    "word": " safety",
+                    "start": 1.02,
+                    "end": 1.4,
+                    "probability": 0.9696848392486572
+                },
+                {
+                    "word": " controls.",
+                    "start": 1.4,
+                    "end": 1.98,
+                    "probability": 0.9929854273796082
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,97 @@
+{
+    "text": " The local time at our destination is 3G100PM you know.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.06,
+            "text": " The local time at our destination is 3G100PM you know.",
+            "tokens": [
+                50364,
+                440,
+                2654,
+                565,
+                412,
+                527,
+                12236,
+                307,
+                805,
+                38,
+                6879,
+                18819,
+                291,
+                458,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4072386236751781,
+            "compression_ratio": 0.8709677419354839,
+            "no_speech_prob": 0.01830766163766384,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.64,
+                    "probability": 0.8504173755645752
+                },
+                {
+                    "word": " local",
+                    "start": 0.64,
+                    "end": 0.94,
+                    "probability": 0.9908938407897949
+                },
+                {
+                    "word": " time",
+                    "start": 0.94,
+                    "end": 1.28,
+                    "probability": 0.9942413568496704
+                },
+                {
+                    "word": " at",
+                    "start": 1.28,
+                    "end": 1.44,
+                    "probability": 0.9920365214347839
+                },
+                {
+                    "word": " our",
+                    "start": 1.44,
+                    "end": 1.58,
+                    "probability": 0.9969371557235718
+                },
+                {
+                    "word": " destination",
+                    "start": 1.58,
+                    "end": 2.06,
+                    "probability": 0.9952279329299927
+                },
+                {
+                    "word": " is",
+                    "start": 2.06,
+                    "end": 2.42,
+                    "probability": 0.9976853132247925
+                },
+                {
+                    "word": " 3G100PM",
+                    "start": 2.42,
+                    "end": 3.64,
+                    "probability": 0.5647764503955841
+                },
+                {
+                    "word": " you",
+                    "start": 3.64,
+                    "end": 3.88,
+                    "probability": 0.3662869334220886
+                },
+                {
+                    "word": " know.",
+                    "start": 3.88,
+                    "end": 4.06,
+                    "probability": 0.9931515455245972
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

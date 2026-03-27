@@ -1,0 +1,52 @@
+{
+    "text": " They analyze portable variables.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.78,
+            "text": " They analyze portable variables.",
+            "tokens": [
+                50364,
+                814,
+                12477,
+                21800,
+                9102,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48796749114990234,
+            "compression_ratio": 0.8648648648648649,
+            "no_speech_prob": 0.006783151067793369,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.5653738379478455
+                },
+                {
+                    "word": " analyze",
+                    "start": 0.16,
+                    "end": 0.56,
+                    "probability": 0.8061224222183228
+                },
+                {
+                    "word": " portable",
+                    "start": 0.56,
+                    "end": 1.14,
+                    "probability": 0.9846899509429932
+                },
+                {
+                    "word": " variables.",
+                    "start": 1.14,
+                    "end": 1.78,
+                    "probability": 0.9976443648338318
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

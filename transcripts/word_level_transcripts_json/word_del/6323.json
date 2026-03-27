@@ -1,0 +1,94 @@
+{
+    "text": " The conference room that we booked for tomorrow is available.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.48,
+            "text": " The conference room that we booked for tomorrow is available.",
+            "tokens": [
+                50364,
+                440,
+                7586,
+                1808,
+                300,
+                321,
+                26735,
+                337,
+                4153,
+                307,
+                2435,
+                13,
+                50498
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3445642335074289,
+            "compression_ratio": 0.9838709677419355,
+            "no_speech_prob": 0.00803076010197401,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.8129495978355408
+                },
+                {
+                    "word": " conference",
+                    "start": 0.1,
+                    "end": 0.46,
+                    "probability": 0.9714563488960266
+                },
+                {
+                    "word": " room",
+                    "start": 0.46,
+                    "end": 0.82,
+                    "probability": 0.9930592775344849
+                },
+                {
+                    "word": " that",
+                    "start": 0.82,
+                    "end": 1.0,
+                    "probability": 0.9027507305145264
+                },
+                {
+                    "word": " we",
+                    "start": 1.0,
+                    "end": 1.16,
+                    "probability": 0.9972540736198425
+                },
+                {
+                    "word": " booked",
+                    "start": 1.16,
+                    "end": 1.34,
+                    "probability": 0.9839171171188354
+                },
+                {
+                    "word": " for",
+                    "start": 1.34,
+                    "end": 1.54,
+                    "probability": 0.9919703006744385
+                },
+                {
+                    "word": " tomorrow",
+                    "start": 1.54,
+                    "end": 1.86,
+                    "probability": 0.9608285427093506
+                },
+                {
+                    "word": " is",
+                    "start": 1.86,
+                    "end": 2.04,
+                    "probability": 0.5267540812492371
+                },
+                {
+                    "word": " available.",
+                    "start": 2.04,
+                    "end": 2.48,
+                    "probability": 0.4651302993297577
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

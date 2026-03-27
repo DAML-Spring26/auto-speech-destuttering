@@ -1,47 +1,43 @@
 {
-    "text": " I'm thinking of starting a podcast about... Local History.",
+    "text": " and a step out. Local history.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 3.0,
-            "text": " I'm thinking of starting a podcast about...",
+            "end": 2.0,
+            "text": " and a step out.",
             "tokens": [
                 50364,
-                286,
-                478,
-                1953,
-                295,
-                2891,
+                293,
                 257,
-                7367,
-                466,
-                485,
-                50514
+                1823,
+                484,
+                13,
+                50464
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.6224002838134766,
-            "compression_ratio": 0.9206349206349206,
-            "no_speech_prob": 0.013081865385174751
+            "avg_logprob": -0.8642583993765024,
+            "compression_ratio": 0.7894736842105263,
+            "no_speech_prob": 0.03242604061961174
         },
         {
             "id": 1,
             "seek": 0,
-            "start": 5.0,
-            "end": 7.0,
-            "text": " Local History.",
+            "start": 3.6,
+            "end": 5.6000000000000005,
+            "text": " Local history.",
             "tokens": [
-                50614,
+                50544,
                 22755,
-                12486,
+                2503,
                 13,
-                50714
+                50644
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.6224002838134766,
-            "compression_ratio": 0.9206349206349206,
-            "no_speech_prob": 0.013081865385174751
+            "avg_logprob": -0.8642583993765024,
+            "compression_ratio": 0.7894736842105263,
+            "no_speech_prob": 0.03242604061961174
         }
     ],
     "language": "en"

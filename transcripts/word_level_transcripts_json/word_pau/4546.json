@@ -1,0 +1,87 @@
+{
+    "text": " She always arrives early to thoroughly prepare for class.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.5,
+            "text": " She always arrives early to thoroughly prepare for class.",
+            "tokens": [
+                50364,
+                1240,
+                1009,
+                20116,
+                2440,
+                281,
+                17987,
+                5940,
+                337,
+                1508,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37605828505295974,
+            "compression_ratio": 0.9193548387096774,
+            "no_speech_prob": 0.017777036875486374,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.6945399641990662
+                },
+                {
+                    "word": " always",
+                    "start": 0.24,
+                    "end": 0.48,
+                    "probability": 0.9714329242706299
+                },
+                {
+                    "word": " arrives",
+                    "start": 0.48,
+                    "end": 0.84,
+                    "probability": 0.9142149686813354
+                },
+                {
+                    "word": " early",
+                    "start": 0.84,
+                    "end": 1.32,
+                    "probability": 0.9939077496528625
+                },
+                {
+                    "word": " to",
+                    "start": 1.32,
+                    "end": 1.68,
+                    "probability": 0.5334102511405945
+                },
+                {
+                    "word": " thoroughly",
+                    "start": 1.68,
+                    "end": 5.28,
+                    "probability": 0.4699370265007019
+                },
+                {
+                    "word": " prepare",
+                    "start": 5.28,
+                    "end": 5.78,
+                    "probability": 0.9880796074867249
+                },
+                {
+                    "word": " for",
+                    "start": 5.78,
+                    "end": 6.12,
+                    "probability": 0.9972891807556152
+                },
+                {
+                    "word": " class.",
+                    "start": 6.12,
+                    "end": 6.5,
+                    "probability": 0.9701974987983704
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

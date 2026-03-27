@@ -1,0 +1,59 @@
+{
+    "text": " he walks to the school.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.16,
+            "text": " he walks to the school.",
+            "tokens": [
+                50364,
+                415,
+                12896,
+                281,
+                264,
+                1395,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5784328778584799,
+            "compression_ratio": 0.7419354838709677,
+            "no_speech_prob": 0.026839161291718483,
+            "words": [
+                {
+                    "word": " he",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.4014742970466614
+                },
+                {
+                    "word": " walks",
+                    "start": 0.1,
+                    "end": 0.4,
+                    "probability": 0.980340838432312
+                },
+                {
+                    "word": " to",
+                    "start": 0.4,
+                    "end": 0.62,
+                    "probability": 0.8105865716934204
+                },
+                {
+                    "word": " the",
+                    "start": 0.62,
+                    "end": 0.8,
+                    "probability": 0.8624376058578491
+                },
+                {
+                    "word": " school.",
+                    "start": 0.8,
+                    "end": 1.16,
+                    "probability": 0.9731483459472656
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

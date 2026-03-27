@@ -1,0 +1,56 @@
+{
+    "text": " Dogs, dogs, cheesecats here.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.84,
+            "text": " Dogs, dogs, cheesecats here.",
+            "tokens": [
+                50364,
+                35504,
+                11,
+                7197,
+                11,
+                5399,
+                66,
+                1720,
+                510,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3616773684819539,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.015212304890155792,
+            "words": [
+                {
+                    "word": " Dogs,",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.8121652007102966
+                },
+                {
+                    "word": " dogs,",
+                    "start": 0.72,
+                    "end": 0.94,
+                    "probability": 0.9481565356254578
+                },
+                {
+                    "word": " cheesecats",
+                    "start": 1.1,
+                    "end": 1.66,
+                    "probability": 0.7800468603769938
+                },
+                {
+                    "word": " here.",
+                    "start": 1.66,
+                    "end": 1.84,
+                    "probability": 0.9665660262107849
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

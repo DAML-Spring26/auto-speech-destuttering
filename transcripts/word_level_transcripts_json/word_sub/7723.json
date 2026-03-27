@@ -1,0 +1,87 @@
+{
+    "text": " Could you please turn off the lights before leaving?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " Could you please turn off the lights before leaving?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                1261,
+                766,
+                264,
+                5811,
+                949,
+                5012,
+                30,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28116957957927996,
+            "compression_ratio": 0.896551724137931,
+            "no_speech_prob": 0.007487018592655659,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.9509723782539368
+                },
+                {
+                    "word": " you",
+                    "start": 0.18,
+                    "end": 0.32,
+                    "probability": 0.9959061145782471
+                },
+                {
+                    "word": " please",
+                    "start": 0.32,
+                    "end": 0.58,
+                    "probability": 0.9961718916893005
+                },
+                {
+                    "word": " turn",
+                    "start": 0.58,
+                    "end": 0.86,
+                    "probability": 0.9942693710327148
+                },
+                {
+                    "word": " off",
+                    "start": 0.86,
+                    "end": 1.04,
+                    "probability": 0.9901885390281677
+                },
+                {
+                    "word": " the",
+                    "start": 1.04,
+                    "end": 1.22,
+                    "probability": 0.9907958507537842
+                },
+                {
+                    "word": " lights",
+                    "start": 1.22,
+                    "end": 1.4,
+                    "probability": 0.7976837158203125
+                },
+                {
+                    "word": " before",
+                    "start": 1.4,
+                    "end": 1.74,
+                    "probability": 0.9881047606468201
+                },
+                {
+                    "word": " leaving?",
+                    "start": 1.74,
+                    "end": 2.0,
+                    "probability": 0.9942271709442139
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

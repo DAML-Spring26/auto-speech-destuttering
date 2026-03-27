@@ -1,0 +1,105 @@
+{
+    "text": " How often should I you know? Take this medication.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.8,
+            "text": " How often should I you know?",
+            "tokens": [
+                50364,
+                1012,
+                2049,
+                820,
+                286,
+                291,
+                458,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40427789092063904,
+            "compression_ratio": 0.8620689655172413,
+            "no_speech_prob": 0.08280883729457855,
+            "words": [
+                {
+                    "word": " How",
+                    "start": 0.0,
+                    "end": 1.44,
+                    "probability": 0.872256338596344
+                },
+                {
+                    "word": " often",
+                    "start": 1.44,
+                    "end": 1.82,
+                    "probability": 0.9960414171218872
+                },
+                {
+                    "word": " should",
+                    "start": 1.82,
+                    "end": 2.04,
+                    "probability": 0.9942500591278076
+                },
+                {
+                    "word": " I",
+                    "start": 2.04,
+                    "end": 2.2,
+                    "probability": 0.9804789423942566
+                },
+                {
+                    "word": " you",
+                    "start": 2.2,
+                    "end": 2.4,
+                    "probability": 0.9314490556716919
+                },
+                {
+                    "word": " know?",
+                    "start": 2.4,
+                    "end": 2.8,
+                    "probability": 0.9913495779037476
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.0,
+            "end": 4.88,
+            "text": " Take this medication.",
+            "tokens": [
+                50564,
+                3664,
+                341,
+                13851,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40427789092063904,
+            "compression_ratio": 0.8620689655172413,
+            "no_speech_prob": 0.08280883729457855,
+            "words": [
+                {
+                    "word": " Take",
+                    "start": 3.6399999999999997,
+                    "end": 4.02,
+                    "probability": 0.9334035515785217
+                },
+                {
+                    "word": " this",
+                    "start": 4.02,
+                    "end": 4.3,
+                    "probability": 0.9863240122795105
+                },
+                {
+                    "word": " medication.",
+                    "start": 4.3,
+                    "end": 4.88,
+                    "probability": 0.9794948101043701
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

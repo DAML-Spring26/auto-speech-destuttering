@@ -1,0 +1,80 @@
+{
+    "text": " Students must complete their research prospects by December.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.24,
+            "text": " Students must complete their research prospects by December.",
+            "tokens": [
+                50364,
+                17244,
+                1633,
+                3566,
+                641,
+                2132,
+                32933,
+                538,
+                7687,
+                13,
+                50538
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33906348546346027,
+            "compression_ratio": 0.9090909090909091,
+            "no_speech_prob": 0.0036346788983792067,
+            "words": [
+                {
+                    "word": " Students",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.8699055314064026
+                },
+                {
+                    "word": " must",
+                    "start": 0.44,
+                    "end": 0.74,
+                    "probability": 0.9990515112876892
+                },
+                {
+                    "word": " complete",
+                    "start": 0.74,
+                    "end": 1.18,
+                    "probability": 0.9982706308364868
+                },
+                {
+                    "word": " their",
+                    "start": 1.18,
+                    "end": 1.4,
+                    "probability": 0.9967227578163147
+                },
+                {
+                    "word": " research",
+                    "start": 1.4,
+                    "end": 1.76,
+                    "probability": 0.9848892688751221
+                },
+                {
+                    "word": " prospects",
+                    "start": 1.76,
+                    "end": 2.34,
+                    "probability": 0.9693288803100586
+                },
+                {
+                    "word": " by",
+                    "start": 2.34,
+                    "end": 2.72,
+                    "probability": 0.981751024723053
+                },
+                {
+                    "word": " December.",
+                    "start": 2.72,
+                    "end": 3.24,
+                    "probability": 0.9581094980239868
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

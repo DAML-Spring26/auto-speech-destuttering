@@ -1,0 +1,80 @@
+{
+    "text": " Are there any like good concerts coming up?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.12,
+            "text": " Are there any like good concerts coming up?",
+            "tokens": [
+                50364,
+                2014,
+                456,
+                604,
+                411,
+                665,
+                24924,
+                1348,
+                493,
+                30,
+                50518
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2773672739664714,
+            "compression_ratio": 0.8958333333333334,
+            "no_speech_prob": 0.25439316034317017,
+            "words": [
+                {
+                    "word": " Are",
+                    "start": 0.0,
+                    "end": 0.56,
+                    "probability": 0.8670448064804077
+                },
+                {
+                    "word": " there",
+                    "start": 0.56,
+                    "end": 0.7,
+                    "probability": 0.991847038269043
+                },
+                {
+                    "word": " any",
+                    "start": 0.7,
+                    "end": 0.92,
+                    "probability": 0.9985954165458679
+                },
+                {
+                    "word": " like",
+                    "start": 0.92,
+                    "end": 1.34,
+                    "probability": 0.882563591003418
+                },
+                {
+                    "word": " good",
+                    "start": 1.34,
+                    "end": 2.06,
+                    "probability": 0.8350526094436646
+                },
+                {
+                    "word": " concerts",
+                    "start": 2.06,
+                    "end": 2.52,
+                    "probability": 0.9770141243934631
+                },
+                {
+                    "word": " coming",
+                    "start": 2.52,
+                    "end": 2.88,
+                    "probability": 0.9958381652832031
+                },
+                {
+                    "word": " up?",
+                    "start": 2.88,
+                    "end": 3.12,
+                    "probability": 0.979616641998291
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

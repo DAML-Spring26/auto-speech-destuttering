@@ -1,0 +1,81 @@
+{
+    "text": " Scientists observed the cellular mimosis through the microscope.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.78,
+            "text": " Scientists observed the cellular mimosis through the microscope.",
+            "tokens": [
+                50364,
+                32958,
+                13095,
+                264,
+                29267,
+                12247,
+                8211,
+                807,
+                264,
+                29753,
+                13,
+                50572
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.502842903137207,
+            "compression_ratio": 0.9846153846153847,
+            "no_speech_prob": 0.006754793226718903,
+            "words": [
+                {
+                    "word": " Scientists",
+                    "start": 0.0,
+                    "end": 0.6,
+                    "probability": 0.5770383477210999
+                },
+                {
+                    "word": " observed",
+                    "start": 0.6,
+                    "end": 1.28,
+                    "probability": 0.92094486951828
+                },
+                {
+                    "word": " the",
+                    "start": 1.28,
+                    "end": 1.52,
+                    "probability": 0.4283352196216583
+                },
+                {
+                    "word": " cellular",
+                    "start": 1.52,
+                    "end": 1.94,
+                    "probability": 0.972775936126709
+                },
+                {
+                    "word": " mimosis",
+                    "start": 1.94,
+                    "end": 2.62,
+                    "probability": 0.6175167560577393
+                },
+                {
+                    "word": " through",
+                    "start": 2.62,
+                    "end": 3.02,
+                    "probability": 0.989346444606781
+                },
+                {
+                    "word": " the",
+                    "start": 3.02,
+                    "end": 3.16,
+                    "probability": 0.9941052198410034
+                },
+                {
+                    "word": " microscope.",
+                    "start": 3.16,
+                    "end": 3.78,
+                    "probability": 0.9734958410263062
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

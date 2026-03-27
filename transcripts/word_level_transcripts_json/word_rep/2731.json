@@ -1,0 +1,45 @@
+{
+    "text": " Walk to school.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.04,
+            "text": " Walk to school.",
+            "tokens": [
+                50364,
+                10818,
+                281,
+                1395,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7389418738228934,
+            "compression_ratio": 0.6521739130434783,
+            "no_speech_prob": 0.020950039848685265,
+            "words": [
+                {
+                    "word": " Walk",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.6964964270591736
+                },
+                {
+                    "word": " to",
+                    "start": 0.26,
+                    "end": 0.52,
+                    "probability": 0.7730031609535217
+                },
+                {
+                    "word": " school.",
+                    "start": 0.52,
+                    "end": 1.04,
+                    "probability": 0.5176461935043335
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,80 @@
+{
+    "text": " We recommend you backup your data before proceeding.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.14,
+            "text": " We recommend you backup your data before proceeding.",
+            "tokens": [
+                50364,
+                492,
+                2748,
+                291,
+                14807,
+                428,
+                1412,
+                949,
+                41163,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3476547797520955,
+            "compression_ratio": 0.9122807017543859,
+            "no_speech_prob": 0.001656841253861785,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7616302967071533
+                },
+                {
+                    "word": " recommend",
+                    "start": 0.14,
+                    "end": 0.54,
+                    "probability": 0.9899202585220337
+                },
+                {
+                    "word": " you",
+                    "start": 0.54,
+                    "end": 0.72,
+                    "probability": 0.9861844182014465
+                },
+                {
+                    "word": " backup",
+                    "start": 0.72,
+                    "end": 0.98,
+                    "probability": 0.5705019235610962
+                },
+                {
+                    "word": " your",
+                    "start": 0.98,
+                    "end": 1.18,
+                    "probability": 0.9925938248634338
+                },
+                {
+                    "word": " data",
+                    "start": 1.18,
+                    "end": 1.38,
+                    "probability": 0.9938416481018066
+                },
+                {
+                    "word": " before",
+                    "start": 1.38,
+                    "end": 1.66,
+                    "probability": 0.9925978183746338
+                },
+                {
+                    "word": " proceeding.",
+                    "start": 1.66,
+                    "end": 2.14,
+                    "probability": 0.9980760812759399
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

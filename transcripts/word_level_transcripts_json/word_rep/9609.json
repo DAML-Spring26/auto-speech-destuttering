@@ -1,0 +1,175 @@
+{
+    "text": " Have you tried resetting your password? If that doesn't work, I can. Can assist you further.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.52,
+            "text": " Have you tried resetting your password?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                3031,
+                14322,
+                783,
+                428,
+                11524,
+                30,
+                50486
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3557973401299838,
+            "compression_ratio": 1.0454545454545454,
+            "no_speech_prob": 0.012480851262807846,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5792773365974426
+                },
+                {
+                    "word": " you",
+                    "start": 0.14,
+                    "end": 0.26,
+                    "probability": 0.990205705165863
+                },
+                {
+                    "word": " tried",
+                    "start": 0.26,
+                    "end": 0.46,
+                    "probability": 0.9888533353805542
+                },
+                {
+                    "word": " resetting",
+                    "start": 0.46,
+                    "end": 0.92,
+                    "probability": 0.8290466964244843
+                },
+                {
+                    "word": " your",
+                    "start": 0.92,
+                    "end": 1.1,
+                    "probability": 0.9239997267723083
+                },
+                {
+                    "word": " password?",
+                    "start": 1.1,
+                    "end": 1.52,
+                    "probability": 0.9355220198631287
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.12,
+            "end": 3.74,
+            "text": " If that doesn't work, I can.",
+            "tokens": [
+                50486,
+                759,
+                300,
+                1177,
+                380,
+                589,
+                11,
+                286,
+                393,
+                13,
+                50578
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3557973401299838,
+            "compression_ratio": 1.0454545454545454,
+            "no_speech_prob": 0.012480851262807846,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 2.12,
+                    "end": 2.48,
+                    "probability": 0.9750648736953735
+                },
+                {
+                    "word": " that",
+                    "start": 2.48,
+                    "end": 2.66,
+                    "probability": 0.987636387348175
+                },
+                {
+                    "word": " doesn't",
+                    "start": 2.66,
+                    "end": 3.0,
+                    "probability": 0.9887935221195221
+                },
+                {
+                    "word": " work,",
+                    "start": 3.0,
+                    "end": 3.22,
+                    "probability": 0.9975494742393494
+                },
+                {
+                    "word": " I",
+                    "start": 3.46,
+                    "end": 3.54,
+                    "probability": 0.9836286306381226
+                },
+                {
+                    "word": " can.",
+                    "start": 3.54,
+                    "end": 3.74,
+                    "probability": 0.9798762798309326
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.16,
+            "end": 4.92,
+            "text": " Can assist you further.",
+            "tokens": [
+                50578,
+                1664,
+                4255,
+                291,
+                3052,
+                13,
+                50616
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3557973401299838,
+            "compression_ratio": 1.0454545454545454,
+            "no_speech_prob": 0.012480851262807846,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 4.16,
+                    "end": 4.28,
+                    "probability": 0.7077275514602661
+                },
+                {
+                    "word": " assist",
+                    "start": 4.28,
+                    "end": 4.48,
+                    "probability": 0.38218358159065247
+                },
+                {
+                    "word": " you",
+                    "start": 4.48,
+                    "end": 4.62,
+                    "probability": 0.9965624213218689
+                },
+                {
+                    "word": " further.",
+                    "start": 4.62,
+                    "end": 4.92,
+                    "probability": 0.9723078012466431
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

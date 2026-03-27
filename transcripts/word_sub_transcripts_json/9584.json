@@ -1,0 +1,38 @@
+{
+    "text": " Follow controls.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.84,
+            "text": " Follow controls.",
+            "tokens": [
+                50364,
+                9876,
+                9003,
+                13,
+                50422
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7093169689178467,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.1113014817237854,
+            "words": [
+                {
+                    "word": " Follow",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.5858927369117737
+                },
+                {
+                    "word": " controls.",
+                    "start": 0.26,
+                    "end": 0.84,
+                    "probability": 0.7324633002281189
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

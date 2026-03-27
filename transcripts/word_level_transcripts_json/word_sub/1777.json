@@ -1,0 +1,69 @@
+{
+    "text": " Customisatisfaction has increased significantly this water.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.52,
+            "text": " Customisatisfaction has increased significantly this water.",
+            "tokens": [
+                50364,
+                16649,
+                271,
+                25239,
+                2894,
+                575,
+                6505,
+                10591,
+                341,
+                1281,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5134938680208646,
+            "compression_ratio": 0.9516129032258065,
+            "no_speech_prob": 0.002381696831434965,
+            "words": [
+                {
+                    "word": " Customisatisfaction",
+                    "start": 0.0,
+                    "end": 1.36,
+                    "probability": 0.5104985199868679
+                },
+                {
+                    "word": " has",
+                    "start": 1.36,
+                    "end": 1.58,
+                    "probability": 0.9963397979736328
+                },
+                {
+                    "word": " increased",
+                    "start": 1.58,
+                    "end": 1.92,
+                    "probability": 0.9961984753608704
+                },
+                {
+                    "word": " significantly",
+                    "start": 1.92,
+                    "end": 2.72,
+                    "probability": 0.9991346001625061
+                },
+                {
+                    "word": " this",
+                    "start": 2.72,
+                    "end": 3.14,
+                    "probability": 0.9826222658157349
+                },
+                {
+                    "word": " water.",
+                    "start": 3.14,
+                    "end": 3.52,
+                    "probability": 0.9939489364624023
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

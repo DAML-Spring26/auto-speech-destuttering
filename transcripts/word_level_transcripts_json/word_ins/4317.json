@@ -1,0 +1,87 @@
+{
+    "text": " We need to schedule our meeting with the clients.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.2,
+            "text": " We need to schedule our meeting with the clients.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                7567,
+                527,
+                3440,
+                365,
+                264,
+                6982,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27060728806715745,
+            "compression_ratio": 0.8909090909090909,
+            "no_speech_prob": 0.00848347321152687,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.841356098651886
+                },
+                {
+                    "word": " need",
+                    "start": 0.42,
+                    "end": 0.58,
+                    "probability": 0.9985209107398987
+                },
+                {
+                    "word": " to",
+                    "start": 0.58,
+                    "end": 0.7,
+                    "probability": 0.9617884159088135
+                },
+                {
+                    "word": " schedule",
+                    "start": 0.7,
+                    "end": 0.98,
+                    "probability": 0.985080897808075
+                },
+                {
+                    "word": " our",
+                    "start": 0.98,
+                    "end": 1.18,
+                    "probability": 0.8706600069999695
+                },
+                {
+                    "word": " meeting",
+                    "start": 1.18,
+                    "end": 1.48,
+                    "probability": 0.9881548881530762
+                },
+                {
+                    "word": " with",
+                    "start": 1.48,
+                    "end": 1.74,
+                    "probability": 0.9979210495948792
+                },
+                {
+                    "word": " the",
+                    "start": 1.74,
+                    "end": 1.84,
+                    "probability": 0.9829475283622742
+                },
+                {
+                    "word": " clients.",
+                    "start": 1.84,
+                    "end": 2.2,
+                    "probability": 0.9544067978858948
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

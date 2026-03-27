@@ -1,0 +1,80 @@
+{
+    "text": " Just shared a funny meme on my timeline.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.38,
+            "text": " Just shared a funny meme on my timeline.",
+            "tokens": [
+                50364,
+                1449,
+                5507,
+                257,
+                4074,
+                21701,
+                322,
+                452,
+                12933,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3280250628789266,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.011814509518444538,
+            "words": [
+                {
+                    "word": " Just",
+                    "start": 0.0,
+                    "end": 0.52,
+                    "probability": 0.7937496304512024
+                },
+                {
+                    "word": " shared",
+                    "start": 0.52,
+                    "end": 0.94,
+                    "probability": 0.7973988652229309
+                },
+                {
+                    "word": " a",
+                    "start": 0.94,
+                    "end": 1.22,
+                    "probability": 0.9603649377822876
+                },
+                {
+                    "word": " funny",
+                    "start": 1.22,
+                    "end": 1.58,
+                    "probability": 0.9622618556022644
+                },
+                {
+                    "word": " meme",
+                    "start": 1.58,
+                    "end": 1.84,
+                    "probability": 0.9933724403381348
+                },
+                {
+                    "word": " on",
+                    "start": 1.84,
+                    "end": 1.94,
+                    "probability": 0.9901435375213623
+                },
+                {
+                    "word": " my",
+                    "start": 1.94,
+                    "end": 2.06,
+                    "probability": 0.9930262565612793
+                },
+                {
+                    "word": " timeline.",
+                    "start": 2.06,
+                    "end": 2.38,
+                    "probability": 0.9883283972740173
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

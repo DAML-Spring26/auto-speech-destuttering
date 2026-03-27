@@ -1,0 +1,103 @@
+{
+    "text": " I'm afraid we'll need to allocate additional resources to this project.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.8,
+            "text": " I'm afraid we'll need to allocate additional resources to this project.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                4638,
+                321,
+                603,
+                643,
+                281,
+                35713,
+                4497,
+                3593,
+                281,
+                341,
+                1716,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2045755947337431,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.012032258324325085,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.8649155795574188
+                },
+                {
+                    "word": " afraid",
+                    "start": 0.26,
+                    "end": 0.56,
+                    "probability": 0.9978797435760498
+                },
+                {
+                    "word": " we'll",
+                    "start": 0.56,
+                    "end": 0.96,
+                    "probability": 0.9351182878017426
+                },
+                {
+                    "word": " need",
+                    "start": 0.96,
+                    "end": 1.14,
+                    "probability": 0.9955050945281982
+                },
+                {
+                    "word": " to",
+                    "start": 1.14,
+                    "end": 1.5,
+                    "probability": 0.9908142685890198
+                },
+                {
+                    "word": " allocate",
+                    "start": 1.5,
+                    "end": 4.08,
+                    "probability": 0.9371420741081238
+                },
+                {
+                    "word": " additional",
+                    "start": 4.08,
+                    "end": 4.78,
+                    "probability": 0.9925674200057983
+                },
+                {
+                    "word": " resources",
+                    "start": 4.78,
+                    "end": 5.44,
+                    "probability": 0.9954854846000671
+                },
+                {
+                    "word": " to",
+                    "start": 5.44,
+                    "end": 5.94,
+                    "probability": 0.9926718473434448
+                },
+                {
+                    "word": " this",
+                    "start": 5.94,
+                    "end": 6.16,
+                    "probability": 0.9948830604553223
+                },
+                {
+                    "word": " project.",
+                    "start": 6.16,
+                    "end": 6.8,
+                    "probability": 0.9984215497970581
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

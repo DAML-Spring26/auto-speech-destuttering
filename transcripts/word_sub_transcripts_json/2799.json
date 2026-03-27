@@ -1,0 +1,80 @@
+{
+    "text": " The research team punished our findings last week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.16,
+            "text": " The research team punished our findings last week.",
+            "tokens": [
+                50364,
+                440,
+                2132,
+                1469,
+                22365,
+                527,
+                16483,
+                1036,
+                1243,
+                13,
+                50480
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3598034381866455,
+            "compression_ratio": 0.8620689655172413,
+            "no_speech_prob": 0.004782381467521191,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6272479891777039
+                },
+                {
+                    "word": " research",
+                    "start": 0.12,
+                    "end": 0.38,
+                    "probability": 0.731335461139679
+                },
+                {
+                    "word": " team",
+                    "start": 0.38,
+                    "end": 0.68,
+                    "probability": 0.9990943670272827
+                },
+                {
+                    "word": " punished",
+                    "start": 0.68,
+                    "end": 1.02,
+                    "probability": 0.9709006547927856
+                },
+                {
+                    "word": " our",
+                    "start": 1.02,
+                    "end": 1.2,
+                    "probability": 0.930493175983429
+                },
+                {
+                    "word": " findings",
+                    "start": 1.2,
+                    "end": 1.56,
+                    "probability": 0.9956510663032532
+                },
+                {
+                    "word": " last",
+                    "start": 1.56,
+                    "end": 1.86,
+                    "probability": 0.9514299035072327
+                },
+                {
+                    "word": " week.",
+                    "start": 1.86,
+                    "end": 2.16,
+                    "probability": 0.9993594288825989
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,89 @@
+{
+    "text": " We're organizing our public then our first, the neighborhood.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.2,
+            "text": " We're organizing our public then our first, the neighborhood.",
+            "tokens": [
+                50364,
+                492,
+                434,
+                17608,
+                527,
+                1908,
+                550,
+                527,
+                700,
+                11,
+                264,
+                7630,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7447671254475912,
+            "compression_ratio": 0.9682539682539683,
+            "no_speech_prob": 0.008589742705225945,
+            "words": [
+                {
+                    "word": " We're",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.5319977551698685
+                },
+                {
+                    "word": " organizing",
+                    "start": 0.26,
+                    "end": 0.72,
+                    "probability": 0.704845130443573
+                },
+                {
+                    "word": " our",
+                    "start": 0.72,
+                    "end": 1.04,
+                    "probability": 0.8474555015563965
+                },
+                {
+                    "word": " public",
+                    "start": 1.04,
+                    "end": 1.32,
+                    "probability": 0.22807034850120544
+                },
+                {
+                    "word": " then",
+                    "start": 1.32,
+                    "end": 1.66,
+                    "probability": 0.2525990903377533
+                },
+                {
+                    "word": " our",
+                    "start": 1.66,
+                    "end": 1.86,
+                    "probability": 0.408141165971756
+                },
+                {
+                    "word": " first,",
+                    "start": 1.86,
+                    "end": 2.22,
+                    "probability": 0.8022983074188232
+                },
+                {
+                    "word": " the",
+                    "start": 2.74,
+                    "end": 4.84,
+                    "probability": 0.8708035945892334
+                },
+                {
+                    "word": " neighborhood.",
+                    "start": 4.84,
+                    "end": 5.2,
+                    "probability": 0.7540729641914368
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

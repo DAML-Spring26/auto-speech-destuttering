@@ -1,0 +1,95 @@
+{
+    "text": " The committee decided to refuel the proposal in more detail.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.84,
+            "text": " The committee decided to refuel the proposal in more detail.",
+            "tokens": [
+                50364,
+                440,
+                7482,
+                3047,
+                281,
+                1895,
+                3483,
+                264,
+                11494,
+                294,
+                544,
+                2607,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3747276306152344,
+            "compression_ratio": 0.967741935483871,
+            "no_speech_prob": 0.007998116314411163,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6497136950492859
+                },
+                {
+                    "word": " committee",
+                    "start": 0.12,
+                    "end": 0.42,
+                    "probability": 0.9077954292297363
+                },
+                {
+                    "word": " decided",
+                    "start": 0.42,
+                    "end": 0.84,
+                    "probability": 0.9929221868515015
+                },
+                {
+                    "word": " to",
+                    "start": 0.84,
+                    "end": 1.12,
+                    "probability": 0.9989264607429504
+                },
+                {
+                    "word": " refuel",
+                    "start": 1.12,
+                    "end": 1.46,
+                    "probability": 0.4294833838939667
+                },
+                {
+                    "word": " the",
+                    "start": 1.46,
+                    "end": 1.58,
+                    "probability": 0.9841623306274414
+                },
+                {
+                    "word": " proposal",
+                    "start": 1.58,
+                    "end": 1.98,
+                    "probability": 0.9764130711555481
+                },
+                {
+                    "word": " in",
+                    "start": 1.98,
+                    "end": 2.22,
+                    "probability": 0.9896419644355774
+                },
+                {
+                    "word": " more",
+                    "start": 2.22,
+                    "end": 2.4,
+                    "probability": 0.9902176260948181
+                },
+                {
+                    "word": " detail.",
+                    "start": 2.4,
+                    "end": 2.84,
+                    "probability": 0.9942461848258972
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

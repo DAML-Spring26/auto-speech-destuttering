@@ -1,0 +1,95 @@
+{
+    "text": " What's the estimated time of arrival for the next site?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.18,
+            "text": " What's the estimated time of arrival for the next site?",
+            "tokens": [
+                50364,
+                708,
+                311,
+                264,
+                14109,
+                565,
+                295,
+                18365,
+                337,
+                264,
+                958,
+                3621,
+                30,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2473470687866211,
+            "compression_ratio": 0.9482758620689655,
+            "no_speech_prob": 0.001527029788121581,
+            "words": [
+                {
+                    "word": " What's",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.8389740288257599
+                },
+                {
+                    "word": " the",
+                    "start": 0.22,
+                    "end": 0.3,
+                    "probability": 0.9905385971069336
+                },
+                {
+                    "word": " estimated",
+                    "start": 0.3,
+                    "end": 0.6,
+                    "probability": 0.977741539478302
+                },
+                {
+                    "word": " time",
+                    "start": 0.6,
+                    "end": 0.96,
+                    "probability": 0.971558690071106
+                },
+                {
+                    "word": " of",
+                    "start": 0.96,
+                    "end": 1.12,
+                    "probability": 0.8122667074203491
+                },
+                {
+                    "word": " arrival",
+                    "start": 1.12,
+                    "end": 1.38,
+                    "probability": 0.9377087354660034
+                },
+                {
+                    "word": " for",
+                    "start": 1.38,
+                    "end": 1.58,
+                    "probability": 0.9761769771575928
+                },
+                {
+                    "word": " the",
+                    "start": 1.58,
+                    "end": 1.7,
+                    "probability": 0.9685781002044678
+                },
+                {
+                    "word": " next",
+                    "start": 1.7,
+                    "end": 1.92,
+                    "probability": 0.9951964020729065
+                },
+                {
+                    "word": " site?",
+                    "start": 1.92,
+                    "end": 2.18,
+                    "probability": 0.683954119682312
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

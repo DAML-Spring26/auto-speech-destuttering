@@ -1,0 +1,80 @@
+{
+    "text": " Please fill out this medical history with form.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.3,
+            "text": " Please fill out this medical history with form.",
+            "tokens": [
+                50364,
+                2555,
+                2836,
+                484,
+                341,
+                4625,
+                2503,
+                365,
+                1254,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3231814503669739,
+            "compression_ratio": 0.8867924528301887,
+            "no_speech_prob": 0.04672601446509361,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 1.02,
+                    "probability": 0.7797423601150513
+                },
+                {
+                    "word": " fill",
+                    "start": 1.02,
+                    "end": 1.38,
+                    "probability": 0.971874475479126
+                },
+                {
+                    "word": " out",
+                    "start": 1.38,
+                    "end": 1.62,
+                    "probability": 0.9949422478675842
+                },
+                {
+                    "word": " this",
+                    "start": 1.62,
+                    "end": 1.82,
+                    "probability": 0.9962724447250366
+                },
+                {
+                    "word": " medical",
+                    "start": 1.82,
+                    "end": 2.2,
+                    "probability": 0.9508519768714905
+                },
+                {
+                    "word": " history",
+                    "start": 2.2,
+                    "end": 2.68,
+                    "probability": 0.9976254105567932
+                },
+                {
+                    "word": " with",
+                    "start": 2.68,
+                    "end": 2.96,
+                    "probability": 0.996587872505188
+                },
+                {
+                    "word": " form.",
+                    "start": 2.96,
+                    "end": 3.3,
+                    "probability": 0.9727774262428284
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

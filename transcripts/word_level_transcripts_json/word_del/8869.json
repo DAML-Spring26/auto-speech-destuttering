@@ -1,0 +1,115 @@
+{
+    "text": " The financial report indicates that there have been a significant increase in profitability.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.86,
+            "text": " The financial report indicates that there have been a significant increase in profitability.",
+            "tokens": [
+                50364,
+                440,
+                4669,
+                2275,
+                16203,
+                300,
+                456,
+                362,
+                668,
+                257,
+                4776,
+                3488,
+                294,
+                46249,
+                13,
+                50584
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3205978449653177,
+            "compression_ratio": 1.1219512195121952,
+            "no_speech_prob": 0.005764658097177744,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.9474044442176819
+                },
+                {
+                    "word": " financial",
+                    "start": 0.1,
+                    "end": 0.56,
+                    "probability": 0.6034437417984009
+                },
+                {
+                    "word": " report",
+                    "start": 0.56,
+                    "end": 0.94,
+                    "probability": 0.9981955885887146
+                },
+                {
+                    "word": " indicates",
+                    "start": 0.94,
+                    "end": 1.44,
+                    "probability": 0.9945835471153259
+                },
+                {
+                    "word": " that",
+                    "start": 1.44,
+                    "end": 1.78,
+                    "probability": 0.8970138430595398
+                },
+                {
+                    "word": " there",
+                    "start": 1.78,
+                    "end": 1.94,
+                    "probability": 0.987478494644165
+                },
+                {
+                    "word": " have",
+                    "start": 1.94,
+                    "end": 2.04,
+                    "probability": 0.19351089000701904
+                },
+                {
+                    "word": " been",
+                    "start": 2.04,
+                    "end": 2.12,
+                    "probability": 0.997232973575592
+                },
+                {
+                    "word": " a",
+                    "start": 2.12,
+                    "end": 2.26,
+                    "probability": 0.9893407225608826
+                },
+                {
+                    "word": " significant",
+                    "start": 2.26,
+                    "end": 2.78,
+                    "probability": 0.9957398176193237
+                },
+                {
+                    "word": " increase",
+                    "start": 2.78,
+                    "end": 3.3,
+                    "probability": 0.9955421090126038
+                },
+                {
+                    "word": " in",
+                    "start": 3.3,
+                    "end": 3.48,
+                    "probability": 0.998607337474823
+                },
+                {
+                    "word": " profitability.",
+                    "start": 3.48,
+                    "end": 3.86,
+                    "probability": 0.9957841038703918
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

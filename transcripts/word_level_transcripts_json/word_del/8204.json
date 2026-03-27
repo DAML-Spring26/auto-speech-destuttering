@@ -1,0 +1,96 @@
+{
+    "text": " Professor Smith, who teaches quantum physics, give a lecture tomorrow.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.08,
+            "text": " Professor Smith, who teaches quantum physics, give a lecture tomorrow.",
+            "tokens": [
+                50364,
+                8419,
+                8538,
+                11,
+                567,
+                16876,
+                13018,
+                10649,
+                11,
+                976,
+                257,
+                7991,
+                4153,
+                13,
+                50584
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30976027250289917,
+            "compression_ratio": 0.9859154929577465,
+            "no_speech_prob": 0.006031728815287352,
+            "words": [
+                {
+                    "word": " Professor",
+                    "start": 0.0,
+                    "end": 0.46,
+                    "probability": 0.8889374136924744
+                },
+                {
+                    "word": " Smith,",
+                    "start": 0.46,
+                    "end": 0.86,
+                    "probability": 0.9825000762939453
+                },
+                {
+                    "word": " who",
+                    "start": 1.26,
+                    "end": 1.34,
+                    "probability": 0.946477472782135
+                },
+                {
+                    "word": " teaches",
+                    "start": 1.34,
+                    "end": 1.74,
+                    "probability": 0.9941509366035461
+                },
+                {
+                    "word": " quantum",
+                    "start": 1.74,
+                    "end": 2.1,
+                    "probability": 0.903889000415802
+                },
+                {
+                    "word": " physics,",
+                    "start": 2.1,
+                    "end": 2.66,
+                    "probability": 0.9955381751060486
+                },
+                {
+                    "word": " give",
+                    "start": 3.14,
+                    "end": 3.28,
+                    "probability": 0.9648441672325134
+                },
+                {
+                    "word": " a",
+                    "start": 3.28,
+                    "end": 3.44,
+                    "probability": 0.9846020936965942
+                },
+                {
+                    "word": " lecture",
+                    "start": 3.44,
+                    "end": 3.74,
+                    "probability": 0.9986648559570312
+                },
+                {
+                    "word": " tomorrow.",
+                    "start": 3.74,
+                    "end": 4.08,
+                    "probability": 0.991588294506073
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

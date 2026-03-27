@@ -1,0 +1,66 @@
+{
+    "text": " the marketing team presented their patch.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.98,
+            "text": " the marketing team presented their patch.",
+            "tokens": [
+                50364,
+                264,
+                6370,
+                1469,
+                8212,
+                641,
+                9972,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4131720542907715,
+            "compression_ratio": 0.8541666666666666,
+            "no_speech_prob": 0.006508375518023968,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.5676279067993164
+                },
+                {
+                    "word": " marketing",
+                    "start": 0.08,
+                    "end": 0.42,
+                    "probability": 0.9686592221260071
+                },
+                {
+                    "word": " team",
+                    "start": 0.42,
+                    "end": 0.78,
+                    "probability": 0.9995507597923279
+                },
+                {
+                    "word": " presented",
+                    "start": 0.78,
+                    "end": 1.36,
+                    "probability": 0.9948201179504395
+                },
+                {
+                    "word": " their",
+                    "start": 1.36,
+                    "end": 1.6,
+                    "probability": 0.9874643087387085
+                },
+                {
+                    "word": " patch.",
+                    "start": 1.6,
+                    "end": 1.98,
+                    "probability": 0.9654923677444458
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

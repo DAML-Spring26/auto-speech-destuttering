@@ -1,0 +1,73 @@
+{
+    "text": " Do you know any good local restaurants?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.88,
+            "text": " Do you know any good local restaurants?",
+            "tokens": [
+                50364,
+                1144,
+                291,
+                458,
+                604,
+                665,
+                2654,
+                11486,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45159205523404206,
+            "compression_ratio": 0.8297872340425532,
+            "no_speech_prob": 0.14685310423374176,
+            "words": [
+                {
+                    "word": " Do",
+                    "start": 0.0,
+                    "end": 0.96,
+                    "probability": 0.8684373497962952
+                },
+                {
+                    "word": " you",
+                    "start": 0.96,
+                    "end": 1.14,
+                    "probability": 0.9956212639808655
+                },
+                {
+                    "word": " know",
+                    "start": 1.14,
+                    "end": 1.32,
+                    "probability": 0.9941619038581848
+                },
+                {
+                    "word": " any",
+                    "start": 1.32,
+                    "end": 1.88,
+                    "probability": 0.9902883768081665
+                },
+                {
+                    "word": " good",
+                    "start": 1.88,
+                    "end": 2.86,
+                    "probability": 0.9268671274185181
+                },
+                {
+                    "word": " local",
+                    "start": 2.86,
+                    "end": 3.3,
+                    "probability": 0.9903745651245117
+                },
+                {
+                    "word": " restaurants?",
+                    "start": 3.3,
+                    "end": 3.88,
+                    "probability": 0.9901416897773743
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

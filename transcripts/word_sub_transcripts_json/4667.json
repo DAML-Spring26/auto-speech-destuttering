@@ -1,0 +1,80 @@
+{
+    "text": " Could you pass me the stat blur please?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.66,
+            "text": " Could you pass me the stat blur please?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1320,
+                385,
+                264,
+                2219,
+                14257,
+                1767,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3848120371500651,
+            "compression_ratio": 0.8297872340425532,
+            "no_speech_prob": 0.005093310493975878,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.9218924045562744
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.32,
+                    "probability": 0.9949976205825806
+                },
+                {
+                    "word": " pass",
+                    "start": 0.32,
+                    "end": 0.6,
+                    "probability": 0.9824669361114502
+                },
+                {
+                    "word": " me",
+                    "start": 0.6,
+                    "end": 0.74,
+                    "probability": 0.9833600521087646
+                },
+                {
+                    "word": " the",
+                    "start": 0.74,
+                    "end": 0.88,
+                    "probability": 0.9456757307052612
+                },
+                {
+                    "word": " stat",
+                    "start": 0.88,
+                    "end": 1.14,
+                    "probability": 0.2103171944618225
+                },
+                {
+                    "word": " blur",
+                    "start": 1.14,
+                    "end": 1.34,
+                    "probability": 0.5279984474182129
+                },
+                {
+                    "word": " please?",
+                    "start": 1.34,
+                    "end": 1.66,
+                    "probability": 0.8809354901313782
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

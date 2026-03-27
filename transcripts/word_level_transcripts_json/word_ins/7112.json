@@ -1,0 +1,82 @@
+{
+    "text": " The physiotherapist demonstrated you know proper stretching techniques.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.5,
+            "text": " The physiotherapist demonstrated you know proper stretching techniques.",
+            "tokens": [
+                50364,
+                440,
+                21265,
+                20194,
+                468,
+                18772,
+                291,
+                458,
+                2296,
+                19632,
+                7512,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29317842211042133,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.015839233994483948,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.94809490442276
+                },
+                {
+                    "word": " physiotherapist",
+                    "start": 0.3,
+                    "end": 1.08,
+                    "probability": 0.9460746645927429
+                },
+                {
+                    "word": " demonstrated",
+                    "start": 1.08,
+                    "end": 1.64,
+                    "probability": 0.989862322807312
+                },
+                {
+                    "word": " you",
+                    "start": 1.64,
+                    "end": 1.86,
+                    "probability": 0.8803962469100952
+                },
+                {
+                    "word": " know",
+                    "start": 1.86,
+                    "end": 2.08,
+                    "probability": 0.9912436008453369
+                },
+                {
+                    "word": " proper",
+                    "start": 2.08,
+                    "end": 2.52,
+                    "probability": 0.7304753661155701
+                },
+                {
+                    "word": " stretching",
+                    "start": 2.52,
+                    "end": 3.02,
+                    "probability": 0.9927854537963867
+                },
+                {
+                    "word": " techniques.",
+                    "start": 3.02,
+                    "end": 3.5,
+                    "probability": 0.9967748522758484
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

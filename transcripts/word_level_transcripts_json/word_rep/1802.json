@@ -1,0 +1,52 @@
+{
+    "text": " We will go tomorrow.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.12,
+            "text": " We will go tomorrow.",
+            "tokens": [
+                50364,
+                492,
+                486,
+                352,
+                4153,
+                13,
+                50438
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5395969152450562,
+            "compression_ratio": 0.7142857142857143,
+            "no_speech_prob": 0.014407132752239704,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6272445321083069
+                },
+                {
+                    "word": " will",
+                    "start": 0.14,
+                    "end": 0.4,
+                    "probability": 0.9156790375709534
+                },
+                {
+                    "word": " go",
+                    "start": 0.4,
+                    "end": 0.68,
+                    "probability": 0.5535460710525513
+                },
+                {
+                    "word": " tomorrow.",
+                    "start": 0.68,
+                    "end": 1.12,
+                    "probability": 0.95026695728302
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

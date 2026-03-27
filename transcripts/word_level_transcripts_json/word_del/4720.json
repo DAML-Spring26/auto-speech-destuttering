@@ -1,0 +1,101 @@
+{
+    "text": " we should consider the benefits and the risks of this decision.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.68,
+            "text": " we should consider the benefits and the risks of this decision.",
+            "tokens": [
+                50364,
+                321,
+                820,
+                1949,
+                264,
+                5311,
+                293,
+                264,
+                10888,
+                295,
+                341,
+                3537,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18792525927225748,
+            "compression_ratio": 1.0161290322580645,
+            "no_speech_prob": 0.007166750263422728,
+            "words": [
+                {
+                    "word": " we",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.60152268409729
+                },
+                {
+                    "word": " should",
+                    "start": 0.14,
+                    "end": 0.34,
+                    "probability": 0.9978010058403015
+                },
+                {
+                    "word": " consider",
+                    "start": 0.34,
+                    "end": 0.86,
+                    "probability": 0.9930174350738525
+                },
+                {
+                    "word": " the",
+                    "start": 0.86,
+                    "end": 1.1,
+                    "probability": 0.9968400001525879
+                },
+                {
+                    "word": " benefits",
+                    "start": 1.1,
+                    "end": 1.54,
+                    "probability": 0.9929567575454712
+                },
+                {
+                    "word": " and",
+                    "start": 1.54,
+                    "end": 1.94,
+                    "probability": 0.9866814613342285
+                },
+                {
+                    "word": " the",
+                    "start": 1.94,
+                    "end": 2.08,
+                    "probability": 0.9731886982917786
+                },
+                {
+                    "word": " risks",
+                    "start": 2.08,
+                    "end": 2.5,
+                    "probability": 0.9881730675697327
+                },
+                {
+                    "word": " of",
+                    "start": 2.5,
+                    "end": 2.8,
+                    "probability": 0.9979864358901978
+                },
+                {
+                    "word": " this",
+                    "start": 2.8,
+                    "end": 3.08,
+                    "probability": 0.9790058732032776
+                },
+                {
+                    "word": " decision.",
+                    "start": 3.08,
+                    "end": 3.68,
+                    "probability": 0.9964336156845093
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

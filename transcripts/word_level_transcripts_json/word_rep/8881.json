@@ -1,0 +1,116 @@
+{
+    "text": " Despite the traffic, we managed to arrive at the airport on on time.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.92,
+            "text": " Despite the traffic, we managed to arrive at the airport on on time.",
+            "tokens": [
+                50364,
+                11334,
+                264,
+                6419,
+                11,
+                321,
+                6453,
+                281,
+                8881,
+                412,
+                264,
+                10155,
+                322,
+                322,
+                565,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2826347351074219,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.008217516355216503,
+            "words": [
+                {
+                    "word": " Despite",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.8067094087600708
+                },
+                {
+                    "word": " the",
+                    "start": 0.36,
+                    "end": 0.6,
+                    "probability": 0.9905698299407959
+                },
+                {
+                    "word": " traffic,",
+                    "start": 0.6,
+                    "end": 1.02,
+                    "probability": 0.9981036186218262
+                },
+                {
+                    "word": " we",
+                    "start": 1.32,
+                    "end": 1.36,
+                    "probability": 0.9949758052825928
+                },
+                {
+                    "word": " managed",
+                    "start": 1.36,
+                    "end": 1.6,
+                    "probability": 0.8861647844314575
+                },
+                {
+                    "word": " to",
+                    "start": 1.6,
+                    "end": 1.86,
+                    "probability": 0.9979711174964905
+                },
+                {
+                    "word": " arrive",
+                    "start": 1.86,
+                    "end": 2.12,
+                    "probability": 0.99472975730896
+                },
+                {
+                    "word": " at",
+                    "start": 2.12,
+                    "end": 2.32,
+                    "probability": 0.9953032732009888
+                },
+                {
+                    "word": " the",
+                    "start": 2.32,
+                    "end": 2.48,
+                    "probability": 0.9950467348098755
+                },
+                {
+                    "word": " airport",
+                    "start": 2.48,
+                    "end": 2.84,
+                    "probability": 0.9461036324501038
+                },
+                {
+                    "word": " on",
+                    "start": 2.84,
+                    "end": 3.24,
+                    "probability": 0.987392246723175
+                },
+                {
+                    "word": " on",
+                    "start": 3.24,
+                    "end": 3.6,
+                    "probability": 0.4474063515663147
+                },
+                {
+                    "word": " time.",
+                    "start": 3.6,
+                    "end": 3.92,
+                    "probability": 0.9161189198493958
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

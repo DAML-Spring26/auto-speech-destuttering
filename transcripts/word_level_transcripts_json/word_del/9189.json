@@ -1,0 +1,108 @@
+{
+    "text": " We recommend you arrive at least two hours before your international flight.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.94,
+            "text": " We recommend you arrive at least two hours before your international flight.",
+            "tokens": [
+                50364,
+                492,
+                2748,
+                291,
+                8881,
+                412,
+                1935,
+                732,
+                2496,
+                949,
+                428,
+                5058,
+                7018,
+                13,
+                50516
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31570929288864136,
+            "compression_ratio": 1.0410958904109588,
+            "no_speech_prob": 0.0075188796035945415,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.7693908214569092
+                },
+                {
+                    "word": " recommend",
+                    "start": 0.08,
+                    "end": 0.36,
+                    "probability": 0.983956515789032
+                },
+                {
+                    "word": " you",
+                    "start": 0.36,
+                    "end": 0.56,
+                    "probability": 0.7608271241188049
+                },
+                {
+                    "word": " arrive",
+                    "start": 0.56,
+                    "end": 0.74,
+                    "probability": 0.5154860615730286
+                },
+                {
+                    "word": " at",
+                    "start": 0.74,
+                    "end": 0.92,
+                    "probability": 0.922600269317627
+                },
+                {
+                    "word": " least",
+                    "start": 0.92,
+                    "end": 1.1,
+                    "probability": 0.8688006401062012
+                },
+                {
+                    "word": " two",
+                    "start": 1.1,
+                    "end": 1.56,
+                    "probability": 0.57381272315979
+                },
+                {
+                    "word": " hours",
+                    "start": 1.56,
+                    "end": 1.74,
+                    "probability": 0.999269425868988
+                },
+                {
+                    "word": " before",
+                    "start": 1.74,
+                    "end": 2.0,
+                    "probability": 0.9934402108192444
+                },
+                {
+                    "word": " your",
+                    "start": 2.0,
+                    "end": 2.14,
+                    "probability": 0.692326545715332
+                },
+                {
+                    "word": " international",
+                    "start": 2.14,
+                    "end": 2.38,
+                    "probability": 0.8830000162124634
+                },
+                {
+                    "word": " flight.",
+                    "start": 2.38,
+                    "end": 2.94,
+                    "probability": 0.9956985712051392
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

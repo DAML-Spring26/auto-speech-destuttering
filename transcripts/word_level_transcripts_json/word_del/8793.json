@@ -1,0 +1,101 @@
+{
+    "text": " My sister has tried to learn how to play the guitar.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.18,
+            "text": " My sister has tried to learn how to play the guitar.",
+            "tokens": [
+                50364,
+                1222,
+                4892,
+                575,
+                3031,
+                281,
+                1466,
+                577,
+                281,
+                862,
+                264,
+                7531,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3383874575297038,
+            "compression_ratio": 0.9122807017543859,
+            "no_speech_prob": 0.002653426956385374,
+            "words": [
+                {
+                    "word": " My",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.8129657506942749
+                },
+                {
+                    "word": " sister",
+                    "start": 0.16,
+                    "end": 0.56,
+                    "probability": 0.9791208505630493
+                },
+                {
+                    "word": " has",
+                    "start": 0.56,
+                    "end": 0.78,
+                    "probability": 0.9310085773468018
+                },
+                {
+                    "word": " tried",
+                    "start": 0.78,
+                    "end": 1.02,
+                    "probability": 0.46060702204704285
+                },
+                {
+                    "word": " to",
+                    "start": 1.02,
+                    "end": 1.24,
+                    "probability": 0.996285080909729
+                },
+                {
+                    "word": " learn",
+                    "start": 1.24,
+                    "end": 1.38,
+                    "probability": 0.9936643838882446
+                },
+                {
+                    "word": " how",
+                    "start": 1.38,
+                    "end": 1.52,
+                    "probability": 0.9971835017204285
+                },
+                {
+                    "word": " to",
+                    "start": 1.52,
+                    "end": 1.62,
+                    "probability": 0.9983760118484497
+                },
+                {
+                    "word": " play",
+                    "start": 1.62,
+                    "end": 1.8,
+                    "probability": 0.9977948665618896
+                },
+                {
+                    "word": " the",
+                    "start": 1.8,
+                    "end": 1.9,
+                    "probability": 0.9863453507423401
+                },
+                {
+                    "word": " guitar.",
+                    "start": 1.9,
+                    "end": 2.18,
+                    "probability": 0.9971369504928589
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,102 @@
+{
+    "text": " She's not sure she should accept a job offer or not.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.86,
+            "text": " She's not sure she should accept a job offer or not.",
+            "tokens": [
+                50364,
+                1240,
+                311,
+                406,
+                988,
+                750,
+                820,
+                3241,
+                257,
+                1691,
+                2626,
+                420,
+                406,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25642064213752747,
+            "compression_ratio": 0.9454545454545454,
+            "no_speech_prob": 0.005527614150196314,
+            "words": [
+                {
+                    "word": " She's",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.8073788583278656
+                },
+                {
+                    "word": " not",
+                    "start": 0.26,
+                    "end": 0.38,
+                    "probability": 0.9967377781867981
+                },
+                {
+                    "word": " sure",
+                    "start": 0.38,
+                    "end": 0.66,
+                    "probability": 0.9952669143676758
+                },
+                {
+                    "word": " she",
+                    "start": 0.66,
+                    "end": 0.88,
+                    "probability": 0.9776543974876404
+                },
+                {
+                    "word": " should",
+                    "start": 0.88,
+                    "end": 1.04,
+                    "probability": 0.9933352470397949
+                },
+                {
+                    "word": " accept",
+                    "start": 1.04,
+                    "end": 1.4,
+                    "probability": 0.9933657050132751
+                },
+                {
+                    "word": " a",
+                    "start": 1.4,
+                    "end": 1.6,
+                    "probability": 0.962017834186554
+                },
+                {
+                    "word": " job",
+                    "start": 1.6,
+                    "end": 1.82,
+                    "probability": 0.9979174733161926
+                },
+                {
+                    "word": " offer",
+                    "start": 1.82,
+                    "end": 2.26,
+                    "probability": 0.9759283661842346
+                },
+                {
+                    "word": " or",
+                    "start": 2.26,
+                    "end": 2.56,
+                    "probability": 0.8955115079879761
+                },
+                {
+                    "word": " not.",
+                    "start": 2.56,
+                    "end": 2.86,
+                    "probability": 0.9893378019332886
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

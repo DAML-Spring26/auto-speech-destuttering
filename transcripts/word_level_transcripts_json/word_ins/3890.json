@@ -1,0 +1,101 @@
+{
+    "text": " Please hold while I transfer you to our technical support team.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.58,
+            "text": " Please hold while I transfer you to our technical support team.",
+            "tokens": [
+                50364,
+                2555,
+                1797,
+                1339,
+                286,
+                5003,
+                291,
+                281,
+                527,
+                6191,
+                1406,
+                1469,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33105637232462565,
+            "compression_ratio": 0.9264705882352942,
+            "no_speech_prob": 0.024066174402832985,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.48,
+                    "probability": 0.7628507614135742
+                },
+                {
+                    "word": " hold",
+                    "start": 0.48,
+                    "end": 0.72,
+                    "probability": 0.9660720229148865
+                },
+                {
+                    "word": " while",
+                    "start": 0.72,
+                    "end": 0.94,
+                    "probability": 0.9221125245094299
+                },
+                {
+                    "word": " I",
+                    "start": 0.94,
+                    "end": 1.04,
+                    "probability": 0.9840462803840637
+                },
+                {
+                    "word": " transfer",
+                    "start": 1.04,
+                    "end": 1.46,
+                    "probability": 0.9959412813186646
+                },
+                {
+                    "word": " you",
+                    "start": 1.46,
+                    "end": 1.64,
+                    "probability": 0.9292088150978088
+                },
+                {
+                    "word": " to",
+                    "start": 1.64,
+                    "end": 1.8,
+                    "probability": 0.9953151941299438
+                },
+                {
+                    "word": " our",
+                    "start": 1.8,
+                    "end": 2.0,
+                    "probability": 0.3351700007915497
+                },
+                {
+                    "word": " technical",
+                    "start": 2.0,
+                    "end": 2.76,
+                    "probability": 0.7455657124519348
+                },
+                {
+                    "word": " support",
+                    "start": 2.76,
+                    "end": 3.2,
+                    "probability": 0.9917430281639099
+                },
+                {
+                    "word": " team.",
+                    "start": 3.2,
+                    "end": 3.58,
+                    "probability": 0.9977765679359436
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

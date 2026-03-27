@@ -1,0 +1,101 @@
+{
+    "text": " The company plan to launch a new marketing campaign next quarter.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.38,
+            "text": " The company plan to launch a new marketing campaign next quarter.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                1393,
+                281,
+                4025,
+                257,
+                777,
+                6370,
+                5129,
+                958,
+                6555,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37204278310139977,
+            "compression_ratio": 0.9558823529411765,
+            "no_speech_prob": 0.002514555351808667,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5174468159675598
+                },
+                {
+                    "word": " company",
+                    "start": 0.12,
+                    "end": 0.4,
+                    "probability": 0.9834831953048706
+                },
+                {
+                    "word": " plan",
+                    "start": 0.4,
+                    "end": 0.72,
+                    "probability": 0.579059898853302
+                },
+                {
+                    "word": " to",
+                    "start": 0.72,
+                    "end": 0.96,
+                    "probability": 0.4992557466030121
+                },
+                {
+                    "word": " launch",
+                    "start": 0.96,
+                    "end": 1.2,
+                    "probability": 0.9951549768447876
+                },
+                {
+                    "word": " a",
+                    "start": 1.2,
+                    "end": 1.4,
+                    "probability": 0.9857659339904785
+                },
+                {
+                    "word": " new",
+                    "start": 1.4,
+                    "end": 1.52,
+                    "probability": 0.9918308854103088
+                },
+                {
+                    "word": " marketing",
+                    "start": 1.52,
+                    "end": 1.9,
+                    "probability": 0.9352508187294006
+                },
+                {
+                    "word": " campaign",
+                    "start": 1.9,
+                    "end": 2.46,
+                    "probability": 0.9964348077774048
+                },
+                {
+                    "word": " next",
+                    "start": 2.46,
+                    "end": 2.84,
+                    "probability": 0.9672584533691406
+                },
+                {
+                    "word": " quarter.",
+                    "start": 2.84,
+                    "end": 3.38,
+                    "probability": 0.9805052876472473
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

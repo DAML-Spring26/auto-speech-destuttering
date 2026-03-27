@@ -1,0 +1,59 @@
+{
+    "text": " The board made their precision.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.42,
+            "text": " The board made their precision.",
+            "tokens": [
+                50364,
+                440,
+                3150,
+                1027,
+                641,
+                18356,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5672115749782987,
+            "compression_ratio": 0.7948717948717948,
+            "no_speech_prob": 0.022297432646155357,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.47478532791137695
+                },
+                {
+                    "word": " board",
+                    "start": 0.14,
+                    "end": 0.4,
+                    "probability": 0.4121825397014618
+                },
+                {
+                    "word": " made",
+                    "start": 0.4,
+                    "end": 0.62,
+                    "probability": 0.9777075052261353
+                },
+                {
+                    "word": " their",
+                    "start": 0.62,
+                    "end": 0.86,
+                    "probability": 0.9911243319511414
+                },
+                {
+                    "word": " precision.",
+                    "start": 0.86,
+                    "end": 1.42,
+                    "probability": 0.9565535187721252
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

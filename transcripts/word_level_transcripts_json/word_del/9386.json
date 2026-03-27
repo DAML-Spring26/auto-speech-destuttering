@@ -1,0 +1,81 @@
+{
+    "text": " the travel agent asked we had valid passports.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.52,
+            "text": " the travel agent asked we had valid passports.",
+            "tokens": [
+                50364,
+                264,
+                3147,
+                9461,
+                2351,
+                321,
+                632,
+                7363,
+                1320,
+                17845,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5173010459313025,
+            "compression_ratio": 0.8846153846153846,
+            "no_speech_prob": 0.006476988550275564,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6052844524383545
+                },
+                {
+                    "word": " travel",
+                    "start": 0.12,
+                    "end": 0.48,
+                    "probability": 0.8652521371841431
+                },
+                {
+                    "word": " agent",
+                    "start": 0.48,
+                    "end": 0.74,
+                    "probability": 0.1725044995546341
+                },
+                {
+                    "word": " asked",
+                    "start": 0.74,
+                    "end": 1.12,
+                    "probability": 0.8010880351066589
+                },
+                {
+                    "word": " we",
+                    "start": 1.12,
+                    "end": 1.28,
+                    "probability": 0.8137320876121521
+                },
+                {
+                    "word": " had",
+                    "start": 1.28,
+                    "end": 1.4,
+                    "probability": 0.9218236207962036
+                },
+                {
+                    "word": " valid",
+                    "start": 1.4,
+                    "end": 1.7,
+                    "probability": 0.8899481892585754
+                },
+                {
+                    "word": " passports.",
+                    "start": 1.7,
+                    "end": 2.52,
+                    "probability": 0.8610083162784576
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

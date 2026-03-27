@@ -1,0 +1,80 @@
+{
+    "text": " Can you believe how quickly technology is advancing?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.04,
+            "text": " Can you believe how quickly technology is advancing?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                1697,
+                577,
+                2661,
+                2899,
+                307,
+                27267,
+                30,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3579598665237427,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.007633323315531015,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7709391117095947
+                },
+                {
+                    "word": " you",
+                    "start": 0.12,
+                    "end": 0.3,
+                    "probability": 0.9910680651664734
+                },
+                {
+                    "word": " believe",
+                    "start": 0.3,
+                    "end": 0.98,
+                    "probability": 0.982406735420227
+                },
+                {
+                    "word": " how",
+                    "start": 0.98,
+                    "end": 3.44,
+                    "probability": 0.707991898059845
+                },
+                {
+                    "word": " quickly",
+                    "start": 3.44,
+                    "end": 4.06,
+                    "probability": 0.9839093089103699
+                },
+                {
+                    "word": " technology",
+                    "start": 4.06,
+                    "end": 4.84,
+                    "probability": 0.982174277305603
+                },
+                {
+                    "word": " is",
+                    "start": 4.84,
+                    "end": 5.3,
+                    "probability": 0.9925358295440674
+                },
+                {
+                    "word": " advancing?",
+                    "start": 5.3,
+                    "end": 6.04,
+                    "probability": 0.9974182844161987
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

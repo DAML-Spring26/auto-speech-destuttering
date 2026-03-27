@@ -1,0 +1,53 @@
+{
+    "text": " Place Transpose this document.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.44,
+            "text": " Place Transpose this document.",
+            "tokens": [
+                50364,
+                13637,
+                6531,
+                43501,
+                341,
+                4166,
+                13,
+                50444
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6573221418592665,
+            "compression_ratio": 0.7894736842105263,
+            "no_speech_prob": 0.0243084579706192,
+            "words": [
+                {
+                    "word": " Place",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.2743224799633026
+                },
+                {
+                    "word": " Transpose",
+                    "start": 0.22,
+                    "end": 0.84,
+                    "probability": 0.6753460466861725
+                },
+                {
+                    "word": " this",
+                    "start": 0.84,
+                    "end": 1.08,
+                    "probability": 0.7023605108261108
+                },
+                {
+                    "word": " document.",
+                    "start": 1.08,
+                    "end": 1.44,
+                    "probability": 0.9555138349533081
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,81 @@
+{
+    "text": " The new policy aims to reduce traffic contention.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.88,
+            "text": " The new policy aims to reduce traffic contention.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                3897,
+                24683,
+                281,
+                5407,
+                6419,
+                660,
+                1251,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3107983149014987,
+            "compression_ratio": 0.8596491228070176,
+            "no_speech_prob": 0.03045729547739029,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.64,
+                    "probability": 0.7897198796272278
+                },
+                {
+                    "word": " new",
+                    "start": 0.64,
+                    "end": 0.76,
+                    "probability": 0.9813406467437744
+                },
+                {
+                    "word": " policy",
+                    "start": 0.76,
+                    "end": 1.18,
+                    "probability": 0.9869049191474915
+                },
+                {
+                    "word": " aims",
+                    "start": 1.18,
+                    "end": 1.44,
+                    "probability": 0.9986230134963989
+                },
+                {
+                    "word": " to",
+                    "start": 1.44,
+                    "end": 1.66,
+                    "probability": 0.9984020590782166
+                },
+                {
+                    "word": " reduce",
+                    "start": 1.66,
+                    "end": 1.92,
+                    "probability": 0.9962241649627686
+                },
+                {
+                    "word": " traffic",
+                    "start": 1.92,
+                    "end": 2.26,
+                    "probability": 0.9972608089447021
+                },
+                {
+                    "word": " contention.",
+                    "start": 2.26,
+                    "end": 2.88,
+                    "probability": 0.8625932931900024
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,52 @@
+{
+    "text": " Doctors command regular exercise.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.68,
+            "text": " Doctors command regular exercise.",
+            "tokens": [
+                50364,
+                39090,
+                5622,
+                3890,
+                5380,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4488794207572937,
+            "compression_ratio": 0.8048780487804879,
+            "no_speech_prob": 0.004460586700588465,
+            "words": [
+                {
+                    "word": " Doctors",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.7866957187652588
+                },
+                {
+                    "word": " command",
+                    "start": 0.36,
+                    "end": 0.7,
+                    "probability": 0.48001837730407715
+                },
+                {
+                    "word": " regular",
+                    "start": 0.7,
+                    "end": 1.06,
+                    "probability": 0.9724730253219604
+                },
+                {
+                    "word": " exercise.",
+                    "start": 1.06,
+                    "end": 1.68,
+                    "probability": 0.7016234993934631
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

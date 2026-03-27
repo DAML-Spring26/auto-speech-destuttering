@@ -1,0 +1,59 @@
+{
+    "text": " we should obtain regular backups.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.54,
+            "text": " we should obtain regular backups.",
+            "tokens": [
+                50364,
+                321,
+                820,
+                12701,
+                3890,
+                50160,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30331897735595703,
+            "compression_ratio": 0.8048780487804879,
+            "no_speech_prob": 0.004663635045289993,
+            "words": [
+                {
+                    "word": " we",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.613405704498291
+                },
+                {
+                    "word": " should",
+                    "start": 0.12,
+                    "end": 0.3,
+                    "probability": 0.9973735809326172
+                },
+                {
+                    "word": " obtain",
+                    "start": 0.3,
+                    "end": 0.68,
+                    "probability": 0.9980247020721436
+                },
+                {
+                    "word": " regular",
+                    "start": 0.68,
+                    "end": 1.1,
+                    "probability": 0.9925174713134766
+                },
+                {
+                    "word": " backups.",
+                    "start": 1.1,
+                    "end": 1.54,
+                    "probability": 0.963674008846283
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

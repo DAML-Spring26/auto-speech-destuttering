@@ -1,0 +1,95 @@
+{
+    "text": " The economic forecast predicts steady growth over the next quarter.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.36,
+            "text": " The economic forecast predicts steady growth over the next quarter.",
+            "tokens": [
+                50364,
+                440,
+                4836,
+                14330,
+                6069,
+                82,
+                13211,
+                4599,
+                670,
+                264,
+                958,
+                6555,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30980440775553386,
+            "compression_ratio": 0.9852941176470589,
+            "no_speech_prob": 0.003190030110999942,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.6654757261276245
+                },
+                {
+                    "word": " economic",
+                    "start": 0.18,
+                    "end": 0.72,
+                    "probability": 0.9519206285476685
+                },
+                {
+                    "word": " forecast",
+                    "start": 0.72,
+                    "end": 1.22,
+                    "probability": 0.9146902561187744
+                },
+                {
+                    "word": " predicts",
+                    "start": 1.22,
+                    "end": 1.8,
+                    "probability": 0.8932017683982849
+                },
+                {
+                    "word": " steady",
+                    "start": 1.8,
+                    "end": 2.0,
+                    "probability": 0.980911374092102
+                },
+                {
+                    "word": " growth",
+                    "start": 2.0,
+                    "end": 2.3,
+                    "probability": 0.9411036968231201
+                },
+                {
+                    "word": " over",
+                    "start": 2.3,
+                    "end": 2.6,
+                    "probability": 0.9905043244361877
+                },
+                {
+                    "word": " the",
+                    "start": 2.6,
+                    "end": 2.74,
+                    "probability": 0.9946957230567932
+                },
+                {
+                    "word": " next",
+                    "start": 2.74,
+                    "end": 2.94,
+                    "probability": 0.9933491349220276
+                },
+                {
+                    "word": " quarter.",
+                    "start": 2.94,
+                    "end": 3.36,
+                    "probability": 0.9871187210083008
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

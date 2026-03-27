@@ -1,0 +1,120 @@
+{
+    "text": " Have you seen my keys? I can't well find them anywhere.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " Have you seen my keys?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                1612,
+                452,
+                9317,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3381851346869218,
+            "compression_ratio": 0.873015873015873,
+            "no_speech_prob": 0.21392668783664703,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 1.08,
+                    "probability": 0.8672924041748047
+                },
+                {
+                    "word": " you",
+                    "start": 1.08,
+                    "end": 1.24,
+                    "probability": 0.997060239315033
+                },
+                {
+                    "word": " seen",
+                    "start": 1.24,
+                    "end": 1.46,
+                    "probability": 0.9978172779083252
+                },
+                {
+                    "word": " my",
+                    "start": 1.46,
+                    "end": 1.7,
+                    "probability": 0.9972399473190308
+                },
+                {
+                    "word": " keys?",
+                    "start": 1.7,
+                    "end": 2.0,
+                    "probability": 0.981029748916626
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.54,
+            "end": 6.16,
+            "text": " I can't well find them anywhere.",
+            "tokens": [
+                50514,
+                286,
+                393,
+                380,
+                731,
+                915,
+                552,
+                4992,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3381851346869218,
+            "compression_ratio": 0.873015873015873,
+            "no_speech_prob": 0.21392668783664703,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 3.54,
+                    "end": 3.84,
+                    "probability": 0.977661669254303
+                },
+                {
+                    "word": " can't",
+                    "start": 3.84,
+                    "end": 4.22,
+                    "probability": 0.9879834353923798
+                },
+                {
+                    "word": " well",
+                    "start": 4.22,
+                    "end": 4.54,
+                    "probability": 0.8495293855667114
+                },
+                {
+                    "word": " find",
+                    "start": 4.54,
+                    "end": 5.54,
+                    "probability": 0.5332944989204407
+                },
+                {
+                    "word": " them",
+                    "start": 5.54,
+                    "end": 5.76,
+                    "probability": 0.9942722320556641
+                },
+                {
+                    "word": " anywhere.",
+                    "start": 5.76,
+                    "end": 6.16,
+                    "probability": 0.9917504191398621
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

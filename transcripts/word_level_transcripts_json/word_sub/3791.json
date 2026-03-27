@@ -1,0 +1,60 @@
+{
+    "text": " Please ventilate the customer information.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.66,
+            "text": " Please ventilate the customer information.",
+            "tokens": [
+                50364,
+                2555,
+                27498,
+                473,
+                264,
+                5474,
+                1589,
+                13,
+                50454
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35051066875457765,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.007117944769561291,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.6874460577964783
+                },
+                {
+                    "word": " ventilate",
+                    "start": 0.22,
+                    "end": 0.64,
+                    "probability": 0.8927241861820221
+                },
+                {
+                    "word": " the",
+                    "start": 0.64,
+                    "end": 0.72,
+                    "probability": 0.9837599992752075
+                },
+                {
+                    "word": " customer",
+                    "start": 0.72,
+                    "end": 1.04,
+                    "probability": 0.993627667427063
+                },
+                {
+                    "word": " information.",
+                    "start": 1.04,
+                    "end": 1.66,
+                    "probability": 0.9803896546363831
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

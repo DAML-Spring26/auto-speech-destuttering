@@ -1,0 +1,96 @@
+{
+    "text": " The dietitian recommends increasing fiber intake to improve digestive health.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.32,
+            "text": " The dietitian recommends increasing fiber intake to improve digestive health.",
+            "tokens": [
+                50364,
+                440,
+                6339,
+                270,
+                952,
+                34556,
+                5662,
+                12874,
+                18060,
+                281,
+                3470,
+                32696,
+                1585,
+                13,
+                50684
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41603565216064453,
+            "compression_ratio": 1.0405405405405406,
+            "no_speech_prob": 0.0064233760349452496,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8462746143341064
+                },
+                {
+                    "word": " dietitian",
+                    "start": 0.12,
+                    "end": 0.84,
+                    "probability": 0.7614790797233582
+                },
+                {
+                    "word": " recommends",
+                    "start": 0.84,
+                    "end": 1.36,
+                    "probability": 0.969720721244812
+                },
+                {
+                    "word": " increasing",
+                    "start": 1.36,
+                    "end": 2.12,
+                    "probability": 0.9711652398109436
+                },
+                {
+                    "word": " fiber",
+                    "start": 2.12,
+                    "end": 2.52,
+                    "probability": 0.48135820031166077
+                },
+                {
+                    "word": " intake",
+                    "start": 2.52,
+                    "end": 3.08,
+                    "probability": 0.8544619679450989
+                },
+                {
+                    "word": " to",
+                    "start": 3.08,
+                    "end": 3.52,
+                    "probability": 0.6152249574661255
+                },
+                {
+                    "word": " improve",
+                    "start": 3.52,
+                    "end": 5.08,
+                    "probability": 0.9353649020195007
+                },
+                {
+                    "word": " digestive",
+                    "start": 5.08,
+                    "end": 5.64,
+                    "probability": 0.8980669379234314
+                },
+                {
+                    "word": " health.",
+                    "start": 5.64,
+                    "end": 6.32,
+                    "probability": 0.9991493225097656
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

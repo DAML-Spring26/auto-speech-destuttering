@@ -1,0 +1,60 @@
+{
+    "text": " The system shows improved conformance.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.2,
+            "text": " The system shows improved conformance.",
+            "tokens": [
+                50364,
+                440,
+                1185,
+                3110,
+                9689,
+                18975,
+                719,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42162284851074217,
+            "compression_ratio": 0.8260869565217391,
+            "no_speech_prob": 0.005295748356729746,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5804773569107056
+                },
+                {
+                    "word": " system",
+                    "start": 0.12,
+                    "end": 0.5,
+                    "probability": 0.9930431842803955
+                },
+                {
+                    "word": " shows",
+                    "start": 0.5,
+                    "end": 0.84,
+                    "probability": 0.9942888021469116
+                },
+                {
+                    "word": " improved",
+                    "start": 0.84,
+                    "end": 1.26,
+                    "probability": 0.9471490979194641
+                },
+                {
+                    "word": " conformance.",
+                    "start": 1.26,
+                    "end": 2.2,
+                    "probability": 0.9731506109237671
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

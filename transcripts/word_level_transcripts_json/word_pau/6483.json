@@ -1,0 +1,119 @@
+{
+    "text": " We need to dry the issue before it ass collates further.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.9,
+            "text": " We need to dry the issue before it",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                4016,
+                264,
+                2734,
+                949,
+                309,
+                50608
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5592871109644572,
+            "compression_ratio": 0.85,
+            "no_speech_prob": 0.008699038065969944,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7035679221153259
+                },
+                {
+                    "word": " need",
+                    "start": 0.16,
+                    "end": 0.3,
+                    "probability": 0.9958457350730896
+                },
+                {
+                    "word": " to",
+                    "start": 0.3,
+                    "end": 0.52,
+                    "probability": 0.9985930323600769
+                },
+                {
+                    "word": " dry",
+                    "start": 0.52,
+                    "end": 0.88,
+                    "probability": 0.8311221599578857
+                },
+                {
+                    "word": " the",
+                    "start": 0.88,
+                    "end": 1.2,
+                    "probability": 0.3331202268600464
+                },
+                {
+                    "word": " issue",
+                    "start": 1.2,
+                    "end": 1.6,
+                    "probability": 0.4675801694393158
+                },
+                {
+                    "word": " before",
+                    "start": 1.6,
+                    "end": 2.22,
+                    "probability": 0.9731848239898682
+                },
+                {
+                    "word": " it",
+                    "start": 2.22,
+                    "end": 4.9,
+                    "probability": 0.45406752824783325
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 490,
+            "start": 4.9,
+            "end": 6.14,
+            "text": " ass collates further.",
+            "tokens": [
+                50364,
+                1256,
+                1263,
+                1024,
+                3052,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.83152174949646,
+            "compression_ratio": 0.7241379310344828,
+            "no_speech_prob": 0.19043372571468353,
+            "words": [
+                {
+                    "word": " ass",
+                    "start": 4.9,
+                    "end": 5.2,
+                    "probability": 0.10568946599960327
+                },
+                {
+                    "word": " collates",
+                    "start": 5.2,
+                    "end": 5.74,
+                    "probability": 0.7585534155368805
+                },
+                {
+                    "word": " further.",
+                    "start": 5.74,
+                    "end": 6.14,
+                    "probability": 0.9653254747390747
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

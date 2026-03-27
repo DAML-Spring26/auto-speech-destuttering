@@ -1,0 +1,77 @@
+{
+    "text": " the philosopher contemplated the nature of consensiousness.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.5,
+            "text": " the philosopher contemplated the nature of consensiousness.",
+            "tokens": [
+                50364,
+                264,
+                29805,
+                19935,
+                770,
+                264,
+                3687,
+                295,
+                1014,
+                694,
+                851,
+                1287,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48031708399454753,
+            "compression_ratio": 0.9833333333333333,
+            "no_speech_prob": 0.009591146372258663,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5304174423217773
+                },
+                {
+                    "word": " philosopher",
+                    "start": 0.1,
+                    "end": 0.42,
+                    "probability": 0.9229690432548523
+                },
+                {
+                    "word": " contemplated",
+                    "start": 0.42,
+                    "end": 1.14,
+                    "probability": 0.9969158172607422
+                },
+                {
+                    "word": " the",
+                    "start": 1.14,
+                    "end": 1.26,
+                    "probability": 0.9876666069030762
+                },
+                {
+                    "word": " nature",
+                    "start": 1.26,
+                    "end": 1.5,
+                    "probability": 0.9950547218322754
+                },
+                {
+                    "word": " of",
+                    "start": 1.5,
+                    "end": 1.62,
+                    "probability": 0.9989564418792725
+                },
+                {
+                    "word": " consensiousness.",
+                    "start": 1.62,
+                    "end": 2.5,
+                    "probability": 0.5387777164578438
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,101 @@
+{
+    "text": " Either the marketing strategy or product design needs to be revised.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.42,
+            "text": " Either the marketing strategy or product design needs to be revised.",
+            "tokens": [
+                50364,
+                13746,
+                264,
+                6370,
+                5206,
+                420,
+                1674,
+                1715,
+                2203,
+                281,
+                312,
+                35228,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24457424481709797,
+            "compression_ratio": 1.0149253731343284,
+            "no_speech_prob": 0.0013521783985197544,
+            "words": [
+                {
+                    "word": " Either",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.7175251841545105
+                },
+                {
+                    "word": " the",
+                    "start": 0.24,
+                    "end": 0.38,
+                    "probability": 0.9796740412712097
+                },
+                {
+                    "word": " marketing",
+                    "start": 0.38,
+                    "end": 0.72,
+                    "probability": 0.9205217361450195
+                },
+                {
+                    "word": " strategy",
+                    "start": 0.72,
+                    "end": 1.46,
+                    "probability": 0.9888272285461426
+                },
+                {
+                    "word": " or",
+                    "start": 1.46,
+                    "end": 1.64,
+                    "probability": 0.9599224925041199
+                },
+                {
+                    "word": " product",
+                    "start": 1.64,
+                    "end": 1.96,
+                    "probability": 0.9350203275680542
+                },
+                {
+                    "word": " design",
+                    "start": 1.96,
+                    "end": 2.3,
+                    "probability": 0.9933434724807739
+                },
+                {
+                    "word": " needs",
+                    "start": 2.3,
+                    "end": 2.56,
+                    "probability": 0.9778274893760681
+                },
+                {
+                    "word": " to",
+                    "start": 2.56,
+                    "end": 2.8,
+                    "probability": 0.9981809854507446
+                },
+                {
+                    "word": " be",
+                    "start": 2.8,
+                    "end": 2.94,
+                    "probability": 0.9991928935050964
+                },
+                {
+                    "word": " revised.",
+                    "start": 2.94,
+                    "end": 3.42,
+                    "probability": 0.9878671169281006
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,76 @@
+{
+    "text": " The architect designed an eco-friendly skyscraper.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.04,
+            "text": " The architect designed an eco-friendly skyscraper.",
+            "tokens": [
+                50364,
+                440,
+                6331,
+                4761,
+                364,
+                30226,
+                12,
+                22864,
+                48227,
+                39302,
+                610,
+                13,
+                50522
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29685149874006,
+            "compression_ratio": 0.8620689655172413,
+            "no_speech_prob": 0.0031734032090753317,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7318909764289856
+                },
+                {
+                    "word": " architect",
+                    "start": 0.1,
+                    "end": 0.52,
+                    "probability": 0.92305588722229
+                },
+                {
+                    "word": " designed",
+                    "start": 0.52,
+                    "end": 1.06,
+                    "probability": 0.9585842490196228
+                },
+                {
+                    "word": " an",
+                    "start": 1.06,
+                    "end": 1.4,
+                    "probability": 0.9181309342384338
+                },
+                {
+                    "word": " eco",
+                    "start": 1.4,
+                    "end": 1.64,
+                    "probability": 0.9749978184700012
+                },
+                {
+                    "word": "-friendly",
+                    "start": 1.64,
+                    "end": 2.06,
+                    "probability": 0.9281638264656067
+                },
+                {
+                    "word": " skyscraper.",
+                    "start": 2.06,
+                    "end": 3.04,
+                    "probability": 0.969762404759725
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

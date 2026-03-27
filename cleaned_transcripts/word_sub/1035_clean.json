@@ -1,27 +1,25 @@
 {
-    "text": " Researchers publish their latest bindings.",
+    "text": " Researchers published their latest.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 3.0,
-            "text": " Researchers publish their latest bindings.",
+            "end": 2.0,
+            "text": " Researchers published their latest.",
             "tokens": [
                 50364,
                 43555,
-                11374,
+                6572,
                 641,
                 6792,
-                14786,
-                1109,
                 13,
-                50514
+                50464
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.38756024837493896,
-            "compression_ratio": 0.84,
-            "no_speech_prob": 0.0065043605864048
+            "avg_logprob": -0.46386128664016724,
+            "compression_ratio": 0.813953488372093,
+            "no_speech_prob": 0.010646809823811054
         }
     ],
     "language": "en"

@@ -1,0 +1,81 @@
+{
+    "text": " the ancient artifacts carefully restored by expert conservators.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.82,
+            "text": " the ancient artifacts carefully restored by expert conservators.",
+            "tokens": [
+                50364,
+                264,
+                7832,
+                24617,
+                7500,
+                23143,
+                538,
+                5844,
+                9704,
+                3391,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32317403646615833,
+            "compression_ratio": 0.9846153846153847,
+            "no_speech_prob": 0.006804412230849266,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.610886812210083
+                },
+                {
+                    "word": " ancient",
+                    "start": 0.12,
+                    "end": 0.42,
+                    "probability": 0.9091941714286804
+                },
+                {
+                    "word": " artifacts",
+                    "start": 0.42,
+                    "end": 0.88,
+                    "probability": 0.9666528701782227
+                },
+                {
+                    "word": " carefully",
+                    "start": 0.88,
+                    "end": 1.48,
+                    "probability": 0.9161995053291321
+                },
+                {
+                    "word": " restored",
+                    "start": 1.48,
+                    "end": 2.02,
+                    "probability": 0.9697110056877136
+                },
+                {
+                    "word": " by",
+                    "start": 2.02,
+                    "end": 2.4,
+                    "probability": 0.9920623302459717
+                },
+                {
+                    "word": " expert",
+                    "start": 2.4,
+                    "end": 2.86,
+                    "probability": 0.946068286895752
+                },
+                {
+                    "word": " conservators.",
+                    "start": 2.86,
+                    "end": 3.82,
+                    "probability": 0.9764232039451599
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

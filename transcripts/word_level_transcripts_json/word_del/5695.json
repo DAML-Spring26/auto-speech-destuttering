@@ -1,0 +1,95 @@
+{
+    "text": " Despite heavy rain, the outdoor event will proceed as planned.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.06,
+            "text": " Despite heavy rain, the outdoor event will proceed as planned.",
+            "tokens": [
+                50364,
+                11334,
+                4676,
+                4830,
+                11,
+                264,
+                15942,
+                2280,
+                486,
+                8991,
+                382,
+                8589,
+                13,
+                50580
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30735575358072914,
+            "compression_ratio": 0.9538461538461539,
+            "no_speech_prob": 0.02936684899032116,
+            "words": [
+                {
+                    "word": " Despite",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.6906023621559143
+                },
+                {
+                    "word": " heavy",
+                    "start": 0.44,
+                    "end": 0.88,
+                    "probability": 0.9811483025550842
+                },
+                {
+                    "word": " rain,",
+                    "start": 0.88,
+                    "end": 1.26,
+                    "probability": 0.9918889403343201
+                },
+                {
+                    "word": " the",
+                    "start": 1.54,
+                    "end": 1.62,
+                    "probability": 0.9892005920410156
+                },
+                {
+                    "word": " outdoor",
+                    "start": 1.62,
+                    "end": 2.04,
+                    "probability": 0.9709821343421936
+                },
+                {
+                    "word": " event",
+                    "start": 2.04,
+                    "end": 2.54,
+                    "probability": 0.7672523856163025
+                },
+                {
+                    "word": " will",
+                    "start": 2.54,
+                    "end": 2.7,
+                    "probability": 0.9924766421318054
+                },
+                {
+                    "word": " proceed",
+                    "start": 2.7,
+                    "end": 3.16,
+                    "probability": 0.964686393737793
+                },
+                {
+                    "word": " as",
+                    "start": 3.16,
+                    "end": 3.58,
+                    "probability": 0.9862481951713562
+                },
+                {
+                    "word": " planned.",
+                    "start": 3.58,
+                    "end": 4.06,
+                    "probability": 0.9974195957183838
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

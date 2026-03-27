@@ -1,0 +1,53 @@
+{
+    "text": " Sleep, sleep while now.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.18,
+            "text": " Sleep, sleep while now.",
+            "tokens": [
+                50364,
+                19383,
+                11,
+                2817,
+                1339,
+                586,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5544619030422635,
+            "compression_ratio": 0.8214285714285714,
+            "no_speech_prob": 0.029990598559379578,
+            "words": [
+                {
+                    "word": " Sleep,",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.5365632772445679
+                },
+                {
+                    "word": " sleep",
+                    "start": 0.46,
+                    "end": 0.72,
+                    "probability": 0.9628490805625916
+                },
+                {
+                    "word": " while",
+                    "start": 0.72,
+                    "end": 0.96,
+                    "probability": 0.777157723903656
+                },
+                {
+                    "word": " now.",
+                    "start": 0.96,
+                    "end": 1.18,
+                    "probability": 0.888161301612854
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

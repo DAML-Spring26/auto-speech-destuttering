@@ -1,0 +1,94 @@
+{
+    "text": " He asked the budget could be increased for the project.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.22,
+            "text": " He asked the budget could be increased for the project.",
+            "tokens": [
+                50364,
+                634,
+                2351,
+                264,
+                4706,
+                727,
+                312,
+                6505,
+                337,
+                264,
+                1716,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3314754622323172,
+            "compression_ratio": 0.9322033898305084,
+            "no_speech_prob": 0.0033416617661714554,
+            "words": [
+                {
+                    "word": " He",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5495258569717407
+                },
+                {
+                    "word": " asked",
+                    "start": 0.12,
+                    "end": 0.38,
+                    "probability": 0.9518746733665466
+                },
+                {
+                    "word": " the",
+                    "start": 0.38,
+                    "end": 0.58,
+                    "probability": 0.9570491909980774
+                },
+                {
+                    "word": " budget",
+                    "start": 0.58,
+                    "end": 0.82,
+                    "probability": 0.9848818182945251
+                },
+                {
+                    "word": " could",
+                    "start": 0.82,
+                    "end": 1.04,
+                    "probability": 0.8772584199905396
+                },
+                {
+                    "word": " be",
+                    "start": 1.04,
+                    "end": 1.2,
+                    "probability": 0.9710991382598877
+                },
+                {
+                    "word": " increased",
+                    "start": 1.2,
+                    "end": 1.48,
+                    "probability": 0.9190057516098022
+                },
+                {
+                    "word": " for",
+                    "start": 1.48,
+                    "end": 1.7,
+                    "probability": 0.9922394752502441
+                },
+                {
+                    "word": " the",
+                    "start": 1.7,
+                    "end": 1.82,
+                    "probability": 0.9951281547546387
+                },
+                {
+                    "word": " project.",
+                    "start": 1.82,
+                    "end": 2.22,
+                    "probability": 0.996993899345398
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

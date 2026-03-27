@@ -1,0 +1,115 @@
+{
+    "text": " The director announced the company will be implementing a new employee training program.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.94,
+            "text": " The director announced the company will be implementing a new employee training program.",
+            "tokens": [
+                50364,
+                440,
+                5391,
+                7548,
+                264,
+                2237,
+                486,
+                312,
+                18114,
+                257,
+                777,
+                10738,
+                3097,
+                1461,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3092304959016688,
+            "compression_ratio": 1.1139240506329113,
+            "no_speech_prob": 0.007050843443721533,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7370387315750122
+                },
+                {
+                    "word": " director",
+                    "start": 0.12,
+                    "end": 0.52,
+                    "probability": 0.764504611492157
+                },
+                {
+                    "word": " announced",
+                    "start": 0.52,
+                    "end": 1.12,
+                    "probability": 0.9920260310173035
+                },
+                {
+                    "word": " the",
+                    "start": 1.12,
+                    "end": 1.48,
+                    "probability": 0.9571696519851685
+                },
+                {
+                    "word": " company",
+                    "start": 1.48,
+                    "end": 1.88,
+                    "probability": 0.9943361878395081
+                },
+                {
+                    "word": " will",
+                    "start": 1.88,
+                    "end": 2.22,
+                    "probability": 0.9885404706001282
+                },
+                {
+                    "word": " be",
+                    "start": 2.22,
+                    "end": 2.38,
+                    "probability": 0.9965793490409851
+                },
+                {
+                    "word": " implementing",
+                    "start": 2.38,
+                    "end": 3.02,
+                    "probability": 0.9865120649337769
+                },
+                {
+                    "word": " a",
+                    "start": 3.02,
+                    "end": 3.36,
+                    "probability": 0.9362943768501282
+                },
+                {
+                    "word": " new",
+                    "start": 3.36,
+                    "end": 3.56,
+                    "probability": 0.9635887742042542
+                },
+                {
+                    "word": " employee",
+                    "start": 3.56,
+                    "end": 3.92,
+                    "probability": 0.5845495462417603
+                },
+                {
+                    "word": " training",
+                    "start": 3.92,
+                    "end": 4.38,
+                    "probability": 0.9907901287078857
+                },
+                {
+                    "word": " program.",
+                    "start": 4.38,
+                    "end": 4.94,
+                    "probability": 0.7164325714111328
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

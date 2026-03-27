@@ -1,0 +1,89 @@
+{
+    "text": " Your payment is overdue, please update your billing information.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.92,
+            "text": " Your payment is overdue, please update your billing information.",
+            "tokens": [
+                50364,
+                2260,
+                10224,
+                307,
+                19853,
+                622,
+                11,
+                1767,
+                5623,
+                428,
+                35618,
+                1589,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.321108341217041,
+            "compression_ratio": 0.9411764705882353,
+            "no_speech_prob": 0.03484747186303139,
+            "words": [
+                {
+                    "word": " Your",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.7755049467086792
+                },
+                {
+                    "word": " payment",
+                    "start": 0.32,
+                    "end": 0.56,
+                    "probability": 0.9963105320930481
+                },
+                {
+                    "word": " is",
+                    "start": 0.56,
+                    "end": 0.76,
+                    "probability": 0.9981988072395325
+                },
+                {
+                    "word": " overdue,",
+                    "start": 0.76,
+                    "end": 1.18,
+                    "probability": 0.8623329102993011
+                },
+                {
+                    "word": " please",
+                    "start": 1.3,
+                    "end": 1.46,
+                    "probability": 0.9326971173286438
+                },
+                {
+                    "word": " update",
+                    "start": 1.46,
+                    "end": 1.96,
+                    "probability": 0.8858236074447632
+                },
+                {
+                    "word": " your",
+                    "start": 1.96,
+                    "end": 2.24,
+                    "probability": 0.9917876124382019
+                },
+                {
+                    "word": " billing",
+                    "start": 2.24,
+                    "end": 2.4,
+                    "probability": 0.9771887063980103
+                },
+                {
+                    "word": " information.",
+                    "start": 2.4,
+                    "end": 2.92,
+                    "probability": 0.9951121211051941
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

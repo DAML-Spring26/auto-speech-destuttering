@@ -1,0 +1,94 @@
+{
+    "text": " She wondered if her presentation was received by the audience.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.34,
+            "text": " She wondered if her presentation was received by the audience.",
+            "tokens": [
+                50364,
+                1240,
+                17055,
+                498,
+                720,
+                5860,
+                390,
+                4613,
+                538,
+                264,
+                4034,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3292308194296701,
+            "compression_ratio": 0.9538461538461539,
+            "no_speech_prob": 0.0046662879176437855,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.76430743932724
+                },
+                {
+                    "word": " wondered",
+                    "start": 0.18,
+                    "end": 0.54,
+                    "probability": 0.749466061592102
+                },
+                {
+                    "word": " if",
+                    "start": 0.54,
+                    "end": 0.84,
+                    "probability": 0.998358428478241
+                },
+                {
+                    "word": " her",
+                    "start": 0.84,
+                    "end": 0.98,
+                    "probability": 0.9621456265449524
+                },
+                {
+                    "word": " presentation",
+                    "start": 0.98,
+                    "end": 1.52,
+                    "probability": 0.9927946925163269
+                },
+                {
+                    "word": " was",
+                    "start": 1.52,
+                    "end": 2.06,
+                    "probability": 0.9667784571647644
+                },
+                {
+                    "word": " received",
+                    "start": 2.06,
+                    "end": 2.5,
+                    "probability": 0.7296491265296936
+                },
+                {
+                    "word": " by",
+                    "start": 2.5,
+                    "end": 2.76,
+                    "probability": 0.9966134428977966
+                },
+                {
+                    "word": " the",
+                    "start": 2.76,
+                    "end": 2.92,
+                    "probability": 0.9921534657478333
+                },
+                {
+                    "word": " audience.",
+                    "start": 2.92,
+                    "end": 3.34,
+                    "probability": 0.9956936836242676
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,88 @@
+{
+    "text": " I'll get back to you with more information tomorrow.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.72,
+            "end": 4.28,
+            "text": " I'll get back to you with more information tomorrow.",
+            "tokens": [
+                50364,
+                286,
+                603,
+                483,
+                646,
+                281,
+                291,
+                365,
+                544,
+                1589,
+                4153,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39636969566345215,
+            "compression_ratio": 0.9122807017543859,
+            "no_speech_prob": 0.06782863289117813,
+            "words": [
+                {
+                    "word": " I'll",
+                    "start": 0.72,
+                    "end": 1.22,
+                    "probability": 0.9465814232826233
+                },
+                {
+                    "word": " get",
+                    "start": 1.22,
+                    "end": 1.38,
+                    "probability": 0.995941162109375
+                },
+                {
+                    "word": " back",
+                    "start": 1.38,
+                    "end": 1.62,
+                    "probability": 0.9966260194778442
+                },
+                {
+                    "word": " to",
+                    "start": 1.62,
+                    "end": 1.88,
+                    "probability": 0.9942269325256348
+                },
+                {
+                    "word": " you",
+                    "start": 1.88,
+                    "end": 2.0,
+                    "probability": 0.9978598952293396
+                },
+                {
+                    "word": " with",
+                    "start": 2.0,
+                    "end": 2.16,
+                    "probability": 0.9946645498275757
+                },
+                {
+                    "word": " more",
+                    "start": 2.16,
+                    "end": 2.38,
+                    "probability": 0.9957380294799805
+                },
+                {
+                    "word": " information",
+                    "start": 2.38,
+                    "end": 3.08,
+                    "probability": 0.9847323298454285
+                },
+                {
+                    "word": " tomorrow.",
+                    "start": 3.08,
+                    "end": 4.28,
+                    "probability": 0.5548334717750549
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

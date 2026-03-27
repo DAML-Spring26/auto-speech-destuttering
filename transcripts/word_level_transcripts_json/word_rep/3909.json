@@ -1,0 +1,48 @@
+{
+    "text": " We build sandcassels.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.74,
+            "text": " We build sandcassels.",
+            "tokens": [
+                50364,
+                492,
+                1322,
+                4932,
+                66,
+                640,
+                1625,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4520107746124268,
+            "compression_ratio": 0.7241379310344828,
+            "no_speech_prob": 0.0237526074051857,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.5525367856025696
+                },
+                {
+                    "word": " build",
+                    "start": 0.24,
+                    "end": 0.6,
+                    "probability": 0.4966135323047638
+                },
+                {
+                    "word": " sandcassels.",
+                    "start": 0.6,
+                    "end": 1.74,
+                    "probability": 0.7617833614349365
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

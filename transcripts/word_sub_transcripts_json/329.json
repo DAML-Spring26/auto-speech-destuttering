@@ -1,0 +1,52 @@
+{
+    "text": " they discuss potential applications.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.82,
+            "text": " they discuss potential applications.",
+            "tokens": [
+                50364,
+                436,
+                2248,
+                3995,
+                5821,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6070060133934021,
+            "compression_ratio": 0.8181818181818182,
+            "no_speech_prob": 0.017558174207806587,
+            "words": [
+                {
+                    "word": " they",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.4945656657218933
+                },
+                {
+                    "word": " discuss",
+                    "start": 0.14,
+                    "end": 0.48,
+                    "probability": 0.47432535886764526
+                },
+                {
+                    "word": " potential",
+                    "start": 0.48,
+                    "end": 1.16,
+                    "probability": 0.9949901700019836
+                },
+                {
+                    "word": " applications.",
+                    "start": 1.16,
+                    "end": 1.82,
+                    "probability": 0.9945617318153381
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

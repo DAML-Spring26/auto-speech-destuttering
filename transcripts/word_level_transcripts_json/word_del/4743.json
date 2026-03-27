@@ -1,0 +1,74 @@
+{
+    "text": " After accident, emergency services arrived within minutes.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.96,
+            "text": " After accident, emergency services arrived within minutes.",
+            "tokens": [
+                50364,
+                2381,
+                6398,
+                11,
+                7473,
+                3328,
+                6678,
+                1951,
+                2077,
+                13,
+                50531
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40436593691507977,
+            "compression_ratio": 0.9206349206349206,
+            "no_speech_prob": 0.003928800579160452,
+            "words": [
+                {
+                    "word": " After",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.7038004994392395
+                },
+                {
+                    "word": " accident,",
+                    "start": 0.32,
+                    "end": 0.76,
+                    "probability": 0.780409574508667
+                },
+                {
+                    "word": " emergency",
+                    "start": 0.96,
+                    "end": 1.26,
+                    "probability": 0.9235931038856506
+                },
+                {
+                    "word": " services",
+                    "start": 1.26,
+                    "end": 1.96,
+                    "probability": 0.8697217702865601
+                },
+                {
+                    "word": " arrived",
+                    "start": 1.96,
+                    "end": 2.3,
+                    "probability": 0.9531665444374084
+                },
+                {
+                    "word": " within",
+                    "start": 2.3,
+                    "end": 2.62,
+                    "probability": 0.9913238286972046
+                },
+                {
+                    "word": " minutes.",
+                    "start": 2.62,
+                    "end": 2.96,
+                    "probability": 0.9946494698524475
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

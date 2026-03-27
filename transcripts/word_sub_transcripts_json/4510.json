@@ -1,0 +1,73 @@
+{
+    "text": " Please submit your expense sports by Friday.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.1,
+            "text": " Please submit your expense sports by Friday.",
+            "tokens": [
+                50364,
+                2555,
+                10315,
+                428,
+                18406,
+                6573,
+                538,
+                6984,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3771844343705611,
+            "compression_ratio": 0.88,
+            "no_speech_prob": 0.008932421915233135,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.5,
+                    "probability": 0.660916805267334
+                },
+                {
+                    "word": " submit",
+                    "start": 0.5,
+                    "end": 0.76,
+                    "probability": 0.9880004525184631
+                },
+                {
+                    "word": " your",
+                    "start": 0.76,
+                    "end": 0.9,
+                    "probability": 0.9896342754364014
+                },
+                {
+                    "word": " expense",
+                    "start": 0.9,
+                    "end": 1.2,
+                    "probability": 0.9574341177940369
+                },
+                {
+                    "word": " sports",
+                    "start": 1.2,
+                    "end": 1.54,
+                    "probability": 0.6332154870033264
+                },
+                {
+                    "word": " by",
+                    "start": 1.54,
+                    "end": 1.74,
+                    "probability": 0.9746092557907104
+                },
+                {
+                    "word": " Friday.",
+                    "start": 1.74,
+                    "end": 2.1,
+                    "probability": 0.9877260327339172
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,94 @@
+{
+    "text": " We need to run some tests to determine the cause.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.36,
+            "text": " We need to run some tests to determine the cause.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                1190,
+                512,
+                6921,
+                281,
+                6997,
+                264,
+                3082,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31413330350603375,
+            "compression_ratio": 0.9245283018867925,
+            "no_speech_prob": 0.003785236505791545,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6818784475326538
+                },
+                {
+                    "word": " need",
+                    "start": 0.16,
+                    "end": 0.3,
+                    "probability": 0.9972074627876282
+                },
+                {
+                    "word": " to",
+                    "start": 0.3,
+                    "end": 0.46,
+                    "probability": 0.9958299994468689
+                },
+                {
+                    "word": " run",
+                    "start": 0.46,
+                    "end": 0.6,
+                    "probability": 0.9956455826759338
+                },
+                {
+                    "word": " some",
+                    "start": 0.6,
+                    "end": 0.86,
+                    "probability": 0.9919231534004211
+                },
+                {
+                    "word": " tests",
+                    "start": 0.86,
+                    "end": 1.2,
+                    "probability": 0.7027039527893066
+                },
+                {
+                    "word": " to",
+                    "start": 1.2,
+                    "end": 1.4,
+                    "probability": 0.9972171783447266
+                },
+                {
+                    "word": " determine",
+                    "start": 1.4,
+                    "end": 1.84,
+                    "probability": 0.988097071647644
+                },
+                {
+                    "word": " the",
+                    "start": 1.84,
+                    "end": 2.06,
+                    "probability": 0.9967404007911682
+                },
+                {
+                    "word": " cause.",
+                    "start": 2.06,
+                    "end": 2.36,
+                    "probability": 0.9057334661483765
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

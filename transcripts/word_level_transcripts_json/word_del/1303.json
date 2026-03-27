@@ -1,0 +1,123 @@
+{
+    "text": " By the time the project completed, we will have invested over a million dollars.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.02,
+            "text": " By the time the project completed, we will have invested over a million dollars.",
+            "tokens": [
+                50364,
+                3146,
+                264,
+                565,
+                264,
+                1716,
+                7365,
+                11,
+                321,
+                486,
+                362,
+                13104,
+                670,
+                257,
+                2459,
+                3808,
+                13,
+                50636
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2566778032403243,
+            "compression_ratio": 1.0526315789473684,
+            "no_speech_prob": 0.008654712699353695,
+            "words": [
+                {
+                    "word": " By",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.8305910229682922
+                },
+                {
+                    "word": " the",
+                    "start": 0.16,
+                    "end": 0.32,
+                    "probability": 0.9917880892753601
+                },
+                {
+                    "word": " time",
+                    "start": 0.32,
+                    "end": 0.6,
+                    "probability": 0.9986206293106079
+                },
+                {
+                    "word": " the",
+                    "start": 0.6,
+                    "end": 0.78,
+                    "probability": 0.9472339153289795
+                },
+                {
+                    "word": " project",
+                    "start": 0.78,
+                    "end": 1.1,
+                    "probability": 0.996874213218689
+                },
+                {
+                    "word": " completed,",
+                    "start": 1.1,
+                    "end": 1.94,
+                    "probability": 0.9603064060211182
+                },
+                {
+                    "word": " we",
+                    "start": 2.58,
+                    "end": 2.9,
+                    "probability": 0.9882463812828064
+                },
+                {
+                    "word": " will",
+                    "start": 2.9,
+                    "end": 3.02,
+                    "probability": 0.977599024772644
+                },
+                {
+                    "word": " have",
+                    "start": 3.02,
+                    "end": 3.18,
+                    "probability": 0.9910324215888977
+                },
+                {
+                    "word": " invested",
+                    "start": 3.18,
+                    "end": 3.72,
+                    "probability": 0.9795666337013245
+                },
+                {
+                    "word": " over",
+                    "start": 3.72,
+                    "end": 4.08,
+                    "probability": 0.969440221786499
+                },
+                {
+                    "word": " a",
+                    "start": 4.08,
+                    "end": 4.24,
+                    "probability": 0.8118523955345154
+                },
+                {
+                    "word": " million",
+                    "start": 4.24,
+                    "end": 4.54,
+                    "probability": 0.9829205870628357
+                },
+                {
+                    "word": " dollars.",
+                    "start": 4.54,
+                    "end": 5.02,
+                    "probability": 0.9877051115036011
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

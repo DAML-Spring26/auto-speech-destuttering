@@ -1,0 +1,87 @@
+{
+    "text": " We should focus some both improving quality reducing costs.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.02,
+            "text": " We should focus some both improving quality reducing costs.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                1879,
+                512,
+                1293,
+                11470,
+                3125,
+                12245,
+                5497,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3670016068678636,
+            "compression_ratio": 0.9076923076923077,
+            "no_speech_prob": 0.0037910016253590584,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6134214997291565
+                },
+                {
+                    "word": " should",
+                    "start": 0.12,
+                    "end": 0.28,
+                    "probability": 0.9987503290176392
+                },
+                {
+                    "word": " focus",
+                    "start": 0.28,
+                    "end": 0.6,
+                    "probability": 0.9977607727050781
+                },
+                {
+                    "word": " some",
+                    "start": 0.6,
+                    "end": 0.86,
+                    "probability": 0.613966166973114
+                },
+                {
+                    "word": " both",
+                    "start": 0.86,
+                    "end": 1.12,
+                    "probability": 0.8456020355224609
+                },
+                {
+                    "word": " improving",
+                    "start": 1.12,
+                    "end": 1.54,
+                    "probability": 0.8350359201431274
+                },
+                {
+                    "word": " quality",
+                    "start": 1.54,
+                    "end": 2.02,
+                    "probability": 0.9919179081916809
+                },
+                {
+                    "word": " reducing",
+                    "start": 2.02,
+                    "end": 2.48,
+                    "probability": 0.8180776834487915
+                },
+                {
+                    "word": " costs.",
+                    "start": 2.48,
+                    "end": 3.02,
+                    "probability": 0.9966802597045898
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

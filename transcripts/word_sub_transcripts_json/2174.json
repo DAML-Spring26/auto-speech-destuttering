@@ -1,0 +1,67 @@
+{
+    "text": " She analysed the market trend specially.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.02,
+            "text": " She analysed the market trend specially.",
+            "tokens": [
+                50364,
+                1240,
+                23014,
+                292,
+                264,
+                2142,
+                6028,
+                22549,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5163244767622515,
+            "compression_ratio": 0.8695652173913043,
+            "no_speech_prob": 0.0029683096799999475,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.5872518420219421
+                },
+                {
+                    "word": " analysed",
+                    "start": 0.22,
+                    "end": 0.84,
+                    "probability": 0.6769000738859177
+                },
+                {
+                    "word": " the",
+                    "start": 0.84,
+                    "end": 0.92,
+                    "probability": 0.9816477298736572
+                },
+                {
+                    "word": " market",
+                    "start": 0.92,
+                    "end": 1.16,
+                    "probability": 0.8400706648826599
+                },
+                {
+                    "word": " trend",
+                    "start": 1.16,
+                    "end": 1.48,
+                    "probability": 0.6926192045211792
+                },
+                {
+                    "word": " specially.",
+                    "start": 1.48,
+                    "end": 2.02,
+                    "probability": 0.6277502179145813
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

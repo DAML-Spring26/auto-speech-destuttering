@@ -1,0 +1,113 @@
+{
+    "text": " The new Troubleshows promising results in... ...tutin' chronic pain.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.48,
+            "text": " The new Troubleshows promising results in...",
+            "tokens": [
+                50364,
+                440,
+                777,
+                1765,
+                263,
+                8806,
+                71,
+                1509,
+                20257,
+                3542,
+                294,
+                485,
+                50488
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8737305800120035,
+            "compression_ratio": 0.9714285714285714,
+            "no_speech_prob": 0.004808831959962845,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6754763126373291
+                },
+                {
+                    "word": " new",
+                    "start": 0.14,
+                    "end": 0.28,
+                    "probability": 0.870987057685852
+                },
+                {
+                    "word": " Troubleshows",
+                    "start": 0.28,
+                    "end": 0.98,
+                    "probability": 0.42087467312812804
+                },
+                {
+                    "word": " promising",
+                    "start": 0.98,
+                    "end": 1.4,
+                    "probability": 0.7874420285224915
+                },
+                {
+                    "word": " results",
+                    "start": 1.4,
+                    "end": 1.9,
+                    "probability": 0.9575498700141907
+                },
+                {
+                    "word": " in...",
+                    "start": 1.9,
+                    "end": 2.48,
+                    "probability": 0.6071087941527367
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.120000000000001,
+            "end": 5.52,
+            "text": " ...tutin' chronic pain.",
+            "tokens": [
+                50580,
+                1097,
+                83,
+                325,
+                259,
+                6,
+                14493,
+                1822,
+                13,
+                50652
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8737305800120035,
+            "compression_ratio": 0.9714285714285714,
+            "no_speech_prob": 0.004808831959962845,
+            "words": [
+                {
+                    "word": " ...tutin'",
+                    "start": 4.120000000000001,
+                    "end": 4.84,
+                    "probability": 0.3597954884171486
+                },
+                {
+                    "word": " chronic",
+                    "start": 4.94,
+                    "end": 5.16,
+                    "probability": 0.6087175011634827
+                },
+                {
+                    "word": " pain.",
+                    "start": 5.16,
+                    "end": 5.52,
+                    "probability": 0.9934182167053223
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

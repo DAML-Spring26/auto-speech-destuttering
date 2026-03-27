@@ -1,0 +1,94 @@
+{
+    "text": " Could you please forward the email to the backing team?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.34,
+            "text": " Could you please forward the email to the backing team?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                2128,
+                264,
+                3796,
+                281,
+                264,
+                19373,
+                1469,
+                30,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30304459163120817,
+            "compression_ratio": 0.9322033898305084,
+            "no_speech_prob": 0.007083097007125616,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.9624967575073242
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.3,
+                    "probability": 0.9970329999923706
+                },
+                {
+                    "word": " please",
+                    "start": 0.3,
+                    "end": 0.56,
+                    "probability": 0.9970390796661377
+                },
+                {
+                    "word": " forward",
+                    "start": 0.56,
+                    "end": 0.94,
+                    "probability": 0.9691957235336304
+                },
+                {
+                    "word": " the",
+                    "start": 0.94,
+                    "end": 1.18,
+                    "probability": 0.97782301902771
+                },
+                {
+                    "word": " email",
+                    "start": 1.18,
+                    "end": 1.44,
+                    "probability": 0.828881561756134
+                },
+                {
+                    "word": " to",
+                    "start": 1.44,
+                    "end": 1.64,
+                    "probability": 0.99397212266922
+                },
+                {
+                    "word": " the",
+                    "start": 1.64,
+                    "end": 1.72,
+                    "probability": 0.9827389717102051
+                },
+                {
+                    "word": " backing",
+                    "start": 1.72,
+                    "end": 1.98,
+                    "probability": 0.7433727979660034
+                },
+                {
+                    "word": " team?",
+                    "start": 1.98,
+                    "end": 2.34,
+                    "probability": 0.987436056137085
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

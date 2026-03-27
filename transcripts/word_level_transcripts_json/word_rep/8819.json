@@ -1,0 +1,122 @@
+{
+    "text": " The sales team has exceeded their targets for the third quarter in a row.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.02,
+            "text": " The sales team has exceeded their targets for the third quarter in a row.",
+            "tokens": [
+                50364,
+                440,
+                5763,
+                1469,
+                575,
+                38026,
+                641,
+                12911,
+                337,
+                264,
+                2636,
+                6555,
+                294,
+                257,
+                5386,
+                13,
+                50576
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.307305998272366,
+            "compression_ratio": 1.042857142857143,
+            "no_speech_prob": 0.005267894361168146,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7137637734413147
+                },
+                {
+                    "word": " sales",
+                    "start": 0.12,
+                    "end": 0.42,
+                    "probability": 0.7691807150840759
+                },
+                {
+                    "word": " team",
+                    "start": 0.42,
+                    "end": 0.78,
+                    "probability": 0.9966937303543091
+                },
+                {
+                    "word": " has",
+                    "start": 0.78,
+                    "end": 1.0,
+                    "probability": 0.9784635901451111
+                },
+                {
+                    "word": " exceeded",
+                    "start": 1.0,
+                    "end": 1.4,
+                    "probability": 0.9780730605125427
+                },
+                {
+                    "word": " their",
+                    "start": 1.4,
+                    "end": 1.66,
+                    "probability": 0.9965916872024536
+                },
+                {
+                    "word": " targets",
+                    "start": 1.66,
+                    "end": 2.04,
+                    "probability": 0.9362983703613281
+                },
+                {
+                    "word": " for",
+                    "start": 2.04,
+                    "end": 2.34,
+                    "probability": 0.9935085773468018
+                },
+                {
+                    "word": " the",
+                    "start": 2.34,
+                    "end": 2.46,
+                    "probability": 0.9787863492965698
+                },
+                {
+                    "word": " third",
+                    "start": 2.46,
+                    "end": 2.72,
+                    "probability": 0.8884050846099854
+                },
+                {
+                    "word": " quarter",
+                    "start": 2.72,
+                    "end": 3.06,
+                    "probability": 0.5903202891349792
+                },
+                {
+                    "word": " in",
+                    "start": 3.06,
+                    "end": 3.34,
+                    "probability": 0.7437041401863098
+                },
+                {
+                    "word": " a",
+                    "start": 3.34,
+                    "end": 3.78,
+                    "probability": 0.4737001359462738
+                },
+                {
+                    "word": " row.",
+                    "start": 3.78,
+                    "end": 4.02,
+                    "probability": 0.9132148623466492
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

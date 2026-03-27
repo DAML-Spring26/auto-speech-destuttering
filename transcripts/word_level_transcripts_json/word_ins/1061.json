@@ -1,0 +1,73 @@
+{
+    "text": " What have you been up to lately?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.78,
+            "end": 3.42,
+            "text": " What have you been up to lately?",
+            "tokens": [
+                50364,
+                708,
+                362,
+                291,
+                668,
+                493,
+                281,
+                12881,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.46926411715420807,
+            "compression_ratio": 0.8,
+            "no_speech_prob": 0.18522603809833527,
+            "words": [
+                {
+                    "word": " What",
+                    "start": 0.78,
+                    "end": 1.2,
+                    "probability": 0.7174595594406128
+                },
+                {
+                    "word": " have",
+                    "start": 1.2,
+                    "end": 1.32,
+                    "probability": 0.9587289690971375
+                },
+                {
+                    "word": " you",
+                    "start": 1.32,
+                    "end": 1.42,
+                    "probability": 0.9920159578323364
+                },
+                {
+                    "word": " been",
+                    "start": 1.42,
+                    "end": 1.56,
+                    "probability": 0.9981241822242737
+                },
+                {
+                    "word": " up",
+                    "start": 1.56,
+                    "end": 1.72,
+                    "probability": 0.9987014532089233
+                },
+                {
+                    "word": " to",
+                    "start": 1.72,
+                    "end": 1.98,
+                    "probability": 0.9977263808250427
+                },
+                {
+                    "word": " lately?",
+                    "start": 1.98,
+                    "end": 3.42,
+                    "probability": 0.8127657175064087
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

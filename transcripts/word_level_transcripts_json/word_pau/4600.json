@@ -1,0 +1,96 @@
+{
+    "text": " The restaurant offers a fusion of traditional and modern cuisines.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.86,
+            "text": " The restaurant offers a fusion of traditional and modern cuisines.",
+            "tokens": [
+                50364,
+                440,
+                6383,
+                7736,
+                257,
+                23100,
+                295,
+                5164,
+                293,
+                4363,
+                2702,
+                271,
+                1652,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2332836091518402,
+            "compression_ratio": 1.0153846153846153,
+            "no_speech_prob": 0.001969653647392988,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8701244592666626
+                },
+                {
+                    "word": " restaurant",
+                    "start": 0.12,
+                    "end": 0.54,
+                    "probability": 0.9724221229553223
+                },
+                {
+                    "word": " offers",
+                    "start": 0.54,
+                    "end": 0.94,
+                    "probability": 0.7997004985809326
+                },
+                {
+                    "word": " a",
+                    "start": 0.94,
+                    "end": 1.26,
+                    "probability": 0.9694573879241943
+                },
+                {
+                    "word": " fusion",
+                    "start": 1.26,
+                    "end": 1.64,
+                    "probability": 0.9947006702423096
+                },
+                {
+                    "word": " of",
+                    "start": 1.64,
+                    "end": 1.88,
+                    "probability": 0.9972266554832458
+                },
+                {
+                    "word": " traditional",
+                    "start": 1.88,
+                    "end": 2.38,
+                    "probability": 0.9861337542533875
+                },
+                {
+                    "word": " and",
+                    "start": 2.38,
+                    "end": 2.86,
+                    "probability": 0.9383161067962646
+                },
+                {
+                    "word": " modern",
+                    "start": 2.86,
+                    "end": 6.16,
+                    "probability": 0.8770804405212402
+                },
+                {
+                    "word": " cuisines.",
+                    "start": 6.16,
+                    "end": 6.86,
+                    "probability": 0.9547877113024393
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,101 @@
+{
+    "text": " The hotel offers a complimentary breakfast buffet for all guests every.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.92,
+            "text": " The hotel offers a complimentary breakfast buffet for all guests every.",
+            "tokens": [
+                50364,
+                440,
+                7622,
+                7736,
+                257,
+                47162,
+                8201,
+                42904,
+                337,
+                439,
+                9804,
+                633,
+                13,
+                50622
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.285823122660319,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.003280412405729294,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8745484948158264
+                },
+                {
+                    "word": " hotel",
+                    "start": 0.14,
+                    "end": 0.48,
+                    "probability": 0.8857690691947937
+                },
+                {
+                    "word": " offers",
+                    "start": 0.48,
+                    "end": 1.0,
+                    "probability": 0.9064047932624817
+                },
+                {
+                    "word": " a",
+                    "start": 1.0,
+                    "end": 1.24,
+                    "probability": 0.9948411583900452
+                },
+                {
+                    "word": " complimentary",
+                    "start": 1.24,
+                    "end": 1.92,
+                    "probability": 0.9243665337562561
+                },
+                {
+                    "word": " breakfast",
+                    "start": 1.92,
+                    "end": 2.68,
+                    "probability": 0.9752844572067261
+                },
+                {
+                    "word": " buffet",
+                    "start": 2.68,
+                    "end": 3.2,
+                    "probability": 0.9386632442474365
+                },
+                {
+                    "word": " for",
+                    "start": 3.2,
+                    "end": 3.64,
+                    "probability": 0.9835808277130127
+                },
+                {
+                    "word": " all",
+                    "start": 3.64,
+                    "end": 4.02,
+                    "probability": 0.978972852230072
+                },
+                {
+                    "word": " guests",
+                    "start": 4.02,
+                    "end": 4.44,
+                    "probability": 0.9314233064651489
+                },
+                {
+                    "word": " every.",
+                    "start": 4.44,
+                    "end": 4.92,
+                    "probability": 0.8216166496276855
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

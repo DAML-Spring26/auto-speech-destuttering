@@ -1,0 +1,59 @@
+{
+    "text": " The patient requires intimate tension.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.9,
+            "text": " The patient requires intimate tension.",
+            "tokens": [
+                50364,
+                440,
+                4537,
+                7029,
+                20215,
+                8980,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32729408476087785,
+            "compression_ratio": 0.8260869565217391,
+            "no_speech_prob": 0.014496173709630966,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.669930636882782
+                },
+                {
+                    "word": " patient",
+                    "start": 0.1,
+                    "end": 0.46,
+                    "probability": 0.9957587122917175
+                },
+                {
+                    "word": " requires",
+                    "start": 0.46,
+                    "end": 0.98,
+                    "probability": 0.9933114051818848
+                },
+                {
+                    "word": " intimate",
+                    "start": 0.98,
+                    "end": 1.44,
+                    "probability": 0.9260600209236145
+                },
+                {
+                    "word": " tension.",
+                    "start": 1.44,
+                    "end": 1.9,
+                    "probability": 0.9927299618721008
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

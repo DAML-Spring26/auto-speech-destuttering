@@ -1,0 +1,59 @@
+{
+    "text": " The late of growth increased.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.22,
+            "text": " The late of growth increased.",
+            "tokens": [
+                50364,
+                440,
+                3469,
+                295,
+                4599,
+                6505,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48120906617906356,
+            "compression_ratio": 0.7837837837837838,
+            "no_speech_prob": 0.023972129449248314,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5796496868133545
+                },
+                {
+                    "word": " late",
+                    "start": 0.1,
+                    "end": 0.28,
+                    "probability": 0.5447582006454468
+                },
+                {
+                    "word": " of",
+                    "start": 0.28,
+                    "end": 0.42,
+                    "probability": 0.9365503787994385
+                },
+                {
+                    "word": " growth",
+                    "start": 0.42,
+                    "end": 0.66,
+                    "probability": 0.9828628897666931
+                },
+                {
+                    "word": " increased.",
+                    "start": 0.66,
+                    "end": 1.22,
+                    "probability": 0.9948377013206482
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

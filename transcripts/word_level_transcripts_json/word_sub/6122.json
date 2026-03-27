@@ -1,0 +1,67 @@
+{
+    "text": " The scientist analyzed the chemical confound.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.52,
+            "text": " The scientist analyzed the chemical confound.",
+            "tokens": [
+                50364,
+                440,
+                12662,
+                28181,
+                264,
+                7313,
+                1497,
+                554,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.481587063182484,
+            "compression_ratio": 0.8653846153846154,
+            "no_speech_prob": 0.0054534683004021645,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6813310980796814
+                },
+                {
+                    "word": " scientist",
+                    "start": 0.12,
+                    "end": 0.52,
+                    "probability": 0.6467079520225525
+                },
+                {
+                    "word": " analyzed",
+                    "start": 0.52,
+                    "end": 1.16,
+                    "probability": 0.8538339734077454
+                },
+                {
+                    "word": " the",
+                    "start": 1.16,
+                    "end": 1.46,
+                    "probability": 0.9918087124824524
+                },
+                {
+                    "word": " chemical",
+                    "start": 1.46,
+                    "end": 1.84,
+                    "probability": 0.9938092827796936
+                },
+                {
+                    "word": " confound.",
+                    "start": 1.84,
+                    "end": 2.52,
+                    "probability": 0.8981805443763733
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

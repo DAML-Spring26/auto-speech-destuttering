@@ -1,0 +1,105 @@
+{
+    "text": " Your test results show normal levels across. All parameters.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.62,
+            "text": " Your test results show normal levels across.",
+            "tokens": [
+                50364,
+                2260,
+                1500,
+                3542,
+                855,
+                2710,
+                4358,
+                2108,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6519855260848999,
+            "compression_ratio": 0.9523809523809523,
+            "no_speech_prob": 0.007499589119106531,
+            "words": [
+                {
+                    "word": " Your",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.4664960205554962
+                },
+                {
+                    "word": " test",
+                    "start": 0.18,
+                    "end": 0.56,
+                    "probability": 0.8357531428337097
+                },
+                {
+                    "word": " results",
+                    "start": 0.56,
+                    "end": 0.92,
+                    "probability": 0.9717892408370972
+                },
+                {
+                    "word": " show",
+                    "start": 0.92,
+                    "end": 1.3,
+                    "probability": 0.9883131384849548
+                },
+                {
+                    "word": " normal",
+                    "start": 1.3,
+                    "end": 1.7,
+                    "probability": 0.8556657433509827
+                },
+                {
+                    "word": " levels",
+                    "start": 1.7,
+                    "end": 2.14,
+                    "probability": 0.9928083419799805
+                },
+                {
+                    "word": " across.",
+                    "start": 2.14,
+                    "end": 2.62,
+                    "probability": 0.9687193632125854
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.88,
+            "end": 6.68,
+            "text": " All parameters.",
+            "tokens": [
+                50658,
+                1057,
+                9834,
+                13,
+                50718
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6519855260848999,
+            "compression_ratio": 0.9523809523809523,
+            "no_speech_prob": 0.007499589119106531,
+            "words": [
+                {
+                    "word": " All",
+                    "start": 5.68,
+                    "end": 6.08,
+                    "probability": 0.9297548532485962
+                },
+                {
+                    "word": " parameters.",
+                    "start": 6.08,
+                    "end": 6.68,
+                    "probability": 0.9700317978858948
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

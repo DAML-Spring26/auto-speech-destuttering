@@ -1,0 +1,119 @@
+{
+    "text": " These two are a carry on luggage in. The overhead compartment.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.16,
+            "text": " These two are a carry on luggage in.",
+            "tokens": [
+                50364,
+                1981,
+                732,
+                366,
+                257,
+                3985,
+                322,
+                27744,
+                294,
+                13,
+                50656
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7578280766805013,
+            "compression_ratio": 0.96875,
+            "no_speech_prob": 0.00256175990216434,
+            "words": [
+                {
+                    "word": " These",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.5162574648857117
+                },
+                {
+                    "word": " two",
+                    "start": 0.28,
+                    "end": 0.56,
+                    "probability": 0.5477694272994995
+                },
+                {
+                    "word": " are",
+                    "start": 0.56,
+                    "end": 0.74,
+                    "probability": 0.5568042993545532
+                },
+                {
+                    "word": " a",
+                    "start": 0.74,
+                    "end": 0.9,
+                    "probability": 0.2729809284210205
+                },
+                {
+                    "word": " carry",
+                    "start": 0.9,
+                    "end": 1.24,
+                    "probability": 0.8110746741294861
+                },
+                {
+                    "word": " on",
+                    "start": 1.24,
+                    "end": 1.46,
+                    "probability": 0.7610499858856201
+                },
+                {
+                    "word": " luggage",
+                    "start": 1.46,
+                    "end": 1.76,
+                    "probability": 0.879486083984375
+                },
+                {
+                    "word": " in.",
+                    "start": 1.76,
+                    "end": 2.16,
+                    "probability": 0.9565666317939758
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.84,
+            "end": 7.06,
+            "text": " The overhead compartment.",
+            "tokens": [
+                50656,
+                440,
+                19922,
+                26505,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7578280766805013,
+            "compression_ratio": 0.96875,
+            "no_speech_prob": 0.00256175990216434,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 5.6000000000000005,
+                    "end": 5.9,
+                    "probability": 0.9607481360435486
+                },
+                {
+                    "word": " overhead",
+                    "start": 5.9,
+                    "end": 6.26,
+                    "probability": 0.9931847453117371
+                },
+                {
+                    "word": " compartment.",
+                    "start": 6.26,
+                    "end": 7.06,
+                    "probability": 0.9943816065788269
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

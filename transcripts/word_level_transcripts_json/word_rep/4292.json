@@ -1,0 +1,125 @@
+{
+    "text": " I'm sorry, but your flight has been been delayed due to inclement weather conditions.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.26,
+            "text": " I'm sorry, but your flight has been been delayed due to inclement weather conditions.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                2597,
+                11,
+                457,
+                428,
+                7018,
+                575,
+                668,
+                668,
+                20268,
+                3462,
+                281,
+                834,
+                3054,
+                5503,
+                4487,
+                13,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2754918280101958,
+            "compression_ratio": 1.0625,
+            "no_speech_prob": 0.018535463139414787,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.56,
+                    "probability": 0.8258228600025177
+                },
+                {
+                    "word": " sorry,",
+                    "start": 0.56,
+                    "end": 0.9,
+                    "probability": 0.9975595474243164
+                },
+                {
+                    "word": " but",
+                    "start": 1.06,
+                    "end": 1.12,
+                    "probability": 0.985166609287262
+                },
+                {
+                    "word": " your",
+                    "start": 1.12,
+                    "end": 1.26,
+                    "probability": 0.9509072303771973
+                },
+                {
+                    "word": " flight",
+                    "start": 1.26,
+                    "end": 1.5,
+                    "probability": 0.9977885484695435
+                },
+                {
+                    "word": " has",
+                    "start": 1.5,
+                    "end": 1.78,
+                    "probability": 0.9948806762695312
+                },
+                {
+                    "word": " been",
+                    "start": 1.78,
+                    "end": 1.96,
+                    "probability": 0.9948657155036926
+                },
+                {
+                    "word": " been",
+                    "start": 1.96,
+                    "end": 2.32,
+                    "probability": 0.5499115586280823
+                },
+                {
+                    "word": " delayed",
+                    "start": 2.32,
+                    "end": 2.6,
+                    "probability": 0.9991732239723206
+                },
+                {
+                    "word": " due",
+                    "start": 2.6,
+                    "end": 2.9,
+                    "probability": 0.9967033267021179
+                },
+                {
+                    "word": " to",
+                    "start": 2.9,
+                    "end": 3.1,
+                    "probability": 0.9990323781967163
+                },
+                {
+                    "word": " inclement",
+                    "start": 3.1,
+                    "end": 3.52,
+                    "probability": 0.8866454064846039
+                },
+                {
+                    "word": " weather",
+                    "start": 3.52,
+                    "end": 3.8,
+                    "probability": 0.619615912437439
+                },
+                {
+                    "word": " conditions.",
+                    "start": 3.8,
+                    "end": 4.26,
+                    "probability": 0.9971227049827576
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

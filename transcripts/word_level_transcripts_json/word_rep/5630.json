@@ -1,0 +1,94 @@
+{
+    "text": " We should consider the environmental impact before making a decision.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.78,
+            "text": " We should consider the environmental impact before making a decision.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                1949,
+                264,
+                8303,
+                2712,
+                949,
+                1455,
+                257,
+                3537,
+                13,
+                50568
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2794603109359741,
+            "compression_ratio": 1.0298507462686568,
+            "no_speech_prob": 0.004104661289602518,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6658840775489807
+                },
+                {
+                    "word": " should",
+                    "start": 0.1,
+                    "end": 0.22,
+                    "probability": 0.9964344501495361
+                },
+                {
+                    "word": " consider",
+                    "start": 0.22,
+                    "end": 0.62,
+                    "probability": 0.9924553632736206
+                },
+                {
+                    "word": " the",
+                    "start": 0.62,
+                    "end": 0.84,
+                    "probability": 0.4607769250869751
+                },
+                {
+                    "word": " environmental",
+                    "start": 0.84,
+                    "end": 1.8,
+                    "probability": 0.8785264492034912
+                },
+                {
+                    "word": " impact",
+                    "start": 1.8,
+                    "end": 2.54,
+                    "probability": 0.9922878742218018
+                },
+                {
+                    "word": " before",
+                    "start": 2.54,
+                    "end": 2.9,
+                    "probability": 0.9540700912475586
+                },
+                {
+                    "word": " making",
+                    "start": 2.9,
+                    "end": 3.22,
+                    "probability": 0.9934625625610352
+                },
+                {
+                    "word": " a",
+                    "start": 3.22,
+                    "end": 3.38,
+                    "probability": 0.9695830941200256
+                },
+                {
+                    "word": " decision.",
+                    "start": 3.38,
+                    "end": 3.78,
+                    "probability": 0.9879982471466064
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,66 @@
+{
+    "text": " We should contain our alternative solutions.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.44,
+            "text": " We should contain our alternative solutions.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                5304,
+                527,
+                8535,
+                6547,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45239815711975095,
+            "compression_ratio": 0.8627450980392157,
+            "no_speech_prob": 0.008736451156437397,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6677641868591309
+                },
+                {
+                    "word": " should",
+                    "start": 0.12,
+                    "end": 0.28,
+                    "probability": 0.7620757222175598
+                },
+                {
+                    "word": " contain",
+                    "start": 0.28,
+                    "end": 0.76,
+                    "probability": 0.7100465893745422
+                },
+                {
+                    "word": " our",
+                    "start": 0.76,
+                    "end": 1.0,
+                    "probability": 0.7784315347671509
+                },
+                {
+                    "word": " alternative",
+                    "start": 1.0,
+                    "end": 1.62,
+                    "probability": 0.9787194132804871
+                },
+                {
+                    "word": " solutions.",
+                    "start": 1.62,
+                    "end": 2.44,
+                    "probability": 0.9872640371322632
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

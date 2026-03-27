@@ -1,0 +1,121 @@
+{
+    "text": " In case of severe weather, seek shelter in... ...a sturdy building.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.96,
+            "text": " In case of severe weather, seek shelter in...",
+            "tokens": [
+                50364,
+                682,
+                1389,
+                295,
+                8922,
+                5503,
+                11,
+                8075,
+                13341,
+                294,
+                485,
+                50512
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5985854148864747,
+            "compression_ratio": 0.9571428571428572,
+            "no_speech_prob": 0.016238516196608543,
+            "words": [
+                {
+                    "word": " In",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.6504766941070557
+                },
+                {
+                    "word": " case",
+                    "start": 0.2,
+                    "end": 0.44,
+                    "probability": 0.9645463824272156
+                },
+                {
+                    "word": " of",
+                    "start": 0.44,
+                    "end": 0.76,
+                    "probability": 0.9926002025604248
+                },
+                {
+                    "word": " severe",
+                    "start": 0.76,
+                    "end": 1.12,
+                    "probability": 0.9365093111991882
+                },
+                {
+                    "word": " weather,",
+                    "start": 1.12,
+                    "end": 1.5,
+                    "probability": 0.9985617995262146
+                },
+                {
+                    "word": " seek",
+                    "start": 1.86,
+                    "end": 2.04,
+                    "probability": 0.47128552198410034
+                },
+                {
+                    "word": " shelter",
+                    "start": 2.04,
+                    "end": 2.5,
+                    "probability": 0.9913721084594727
+                },
+                {
+                    "word": " in...",
+                    "start": 2.5,
+                    "end": 2.96,
+                    "probability": 0.5928864479064941
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.0,
+            "end": 7.64,
+            "text": " ...a sturdy building.",
+            "tokens": [
+                50684,
+                1097,
+                64,
+                31506,
+                2390,
+                13,
+                50756
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5985854148864747,
+            "compression_ratio": 0.9571428571428572,
+            "no_speech_prob": 0.016238516196608543,
+            "words": [
+                {
+                    "word": " ...a",
+                    "start": 6.0,
+                    "end": 6.72,
+                    "probability": 0.47670379281044006
+                },
+                {
+                    "word": " sturdy",
+                    "start": 6.72,
+                    "end": 7.14,
+                    "probability": 0.8210107684135437
+                },
+                {
+                    "word": " building.",
+                    "start": 7.14,
+                    "end": 7.64,
+                    "probability": 0.9986728429794312
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

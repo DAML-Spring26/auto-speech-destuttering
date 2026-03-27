@@ -1,0 +1,80 @@
+{
+    "text": " Could you please clarify the project head line?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " Could you please clarify the project head line?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                17594,
+                264,
+                1716,
+                1378,
+                1622,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4379340410232544,
+            "compression_ratio": 0.8545454545454545,
+            "no_speech_prob": 0.014668282121419907,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.9376893043518066
+                },
+                {
+                    "word": " you",
+                    "start": 0.14,
+                    "end": 0.26,
+                    "probability": 0.9951340556144714
+                },
+                {
+                    "word": " please",
+                    "start": 0.26,
+                    "end": 0.52,
+                    "probability": 0.9977920055389404
+                },
+                {
+                    "word": " clarify",
+                    "start": 0.52,
+                    "end": 0.88,
+                    "probability": 0.982873260974884
+                },
+                {
+                    "word": " the",
+                    "start": 0.88,
+                    "end": 1.14,
+                    "probability": 0.9841878414154053
+                },
+                {
+                    "word": " project",
+                    "start": 1.14,
+                    "end": 1.44,
+                    "probability": 0.709559440612793
+                },
+                {
+                    "word": " head",
+                    "start": 1.44,
+                    "end": 1.72,
+                    "probability": 0.6537200212478638
+                },
+                {
+                    "word": " line?",
+                    "start": 1.72,
+                    "end": 2.0,
+                    "probability": 0.4675132632255554
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

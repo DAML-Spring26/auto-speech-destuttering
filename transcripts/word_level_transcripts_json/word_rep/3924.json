@@ -1,0 +1,59 @@
+{
+    "text": " you should try this recipe.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.8,
+            "text": " you should try this recipe.",
+            "tokens": [
+                50364,
+                291,
+                820,
+                853,
+                341,
+                6782,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42477745480007595,
+            "compression_ratio": 0.7714285714285715,
+            "no_speech_prob": 0.027189547196030617,
+            "words": [
+                {
+                    "word": " you",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.47316688299179077
+                },
+                {
+                    "word": " should",
+                    "start": 0.26,
+                    "end": 0.8,
+                    "probability": 0.5483593344688416
+                },
+                {
+                    "word": " try",
+                    "start": 0.8,
+                    "end": 1.08,
+                    "probability": 0.9971328973770142
+                },
+                {
+                    "word": " this",
+                    "start": 1.08,
+                    "end": 1.34,
+                    "probability": 0.9836767911911011
+                },
+                {
+                    "word": " recipe.",
+                    "start": 1.34,
+                    "end": 1.8,
+                    "probability": 0.9978116154670715
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

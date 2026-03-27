@@ -1,0 +1,73 @@
+{
+    "text": " Please provide your location to emergency services.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.0,
+            "text": " Please provide your location to emergency services.",
+            "tokens": [
+                50364,
+                2555,
+                2893,
+                428,
+                4914,
+                281,
+                7473,
+                3328,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3531147133220326,
+            "compression_ratio": 0.8793103448275862,
+            "no_speech_prob": 0.02111646719276905,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.7393172979354858
+                },
+                {
+                    "word": " provide",
+                    "start": 0.44,
+                    "end": 0.78,
+                    "probability": 0.9835909008979797
+                },
+                {
+                    "word": " your",
+                    "start": 0.78,
+                    "end": 1.02,
+                    "probability": 0.9907084703445435
+                },
+                {
+                    "word": " location",
+                    "start": 1.02,
+                    "end": 1.46,
+                    "probability": 0.9903866052627563
+                },
+                {
+                    "word": " to",
+                    "start": 1.46,
+                    "end": 1.8,
+                    "probability": 0.9978261590003967
+                },
+                {
+                    "word": " emergency",
+                    "start": 1.8,
+                    "end": 2.32,
+                    "probability": 0.6716523170471191
+                },
+                {
+                    "word": " services.",
+                    "start": 2.32,
+                    "end": 3.0,
+                    "probability": 0.9973516464233398
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

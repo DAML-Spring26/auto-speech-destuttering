@@ -1,0 +1,81 @@
+{
+    "text": " Dad, can I borrow the car as tonight?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.96,
+            "end": 3.7,
+            "text": " Dad, can I borrow the car as tonight?",
+            "tokens": [
+                50364,
+                5639,
+                11,
+                393,
+                286,
+                11172,
+                264,
+                1032,
+                382,
+                4440,
+                30,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3812281902019794,
+            "compression_ratio": 0.8409090909090909,
+            "no_speech_prob": 0.17285515367984772,
+            "words": [
+                {
+                    "word": " Dad,",
+                    "start": 0.96,
+                    "end": 1.44,
+                    "probability": 0.8960312604904175
+                },
+                {
+                    "word": " can",
+                    "start": 2.16,
+                    "end": 2.42,
+                    "probability": 0.9679782390594482
+                },
+                {
+                    "word": " I",
+                    "start": 2.42,
+                    "end": 2.54,
+                    "probability": 0.9867015480995178
+                },
+                {
+                    "word": " borrow",
+                    "start": 2.54,
+                    "end": 2.84,
+                    "probability": 0.9984201192855835
+                },
+                {
+                    "word": " the",
+                    "start": 2.84,
+                    "end": 3.06,
+                    "probability": 0.9951243996620178
+                },
+                {
+                    "word": " car",
+                    "start": 3.06,
+                    "end": 3.26,
+                    "probability": 0.985817015171051
+                },
+                {
+                    "word": " as",
+                    "start": 3.26,
+                    "end": 3.48,
+                    "probability": 0.2011214941740036
+                },
+                {
+                    "word": " tonight?",
+                    "start": 3.48,
+                    "end": 3.7,
+                    "probability": 0.9416406154632568
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,115 @@
+{
+    "text": " Could you please send me the report by the end of the day?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.26,
+            "text": " Could you please send me the report by the end of the day?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                2845,
+                385,
+                264,
+                2275,
+                538,
+                264,
+                917,
+                295,
+                264,
+                786,
+                30,
+                50584
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3250886692720301,
+            "compression_ratio": 1.0175438596491229,
+            "no_speech_prob": 0.014262470416724682,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.8423874378204346
+                },
+                {
+                    "word": " you",
+                    "start": 0.18,
+                    "end": 0.34,
+                    "probability": 0.9972937703132629
+                },
+                {
+                    "word": " please",
+                    "start": 0.34,
+                    "end": 0.6,
+                    "probability": 0.9740647673606873
+                },
+                {
+                    "word": " send",
+                    "start": 0.6,
+                    "end": 0.92,
+                    "probability": 0.9949705004692078
+                },
+                {
+                    "word": " me",
+                    "start": 0.92,
+                    "end": 1.14,
+                    "probability": 0.9951270818710327
+                },
+                {
+                    "word": " the",
+                    "start": 1.14,
+                    "end": 1.34,
+                    "probability": 0.990833580493927
+                },
+                {
+                    "word": " report",
+                    "start": 1.34,
+                    "end": 1.64,
+                    "probability": 0.992340087890625
+                },
+                {
+                    "word": " by",
+                    "start": 1.64,
+                    "end": 2.02,
+                    "probability": 0.9393505454063416
+                },
+                {
+                    "word": " the",
+                    "start": 2.02,
+                    "end": 3.46,
+                    "probability": 0.4773159921169281
+                },
+                {
+                    "word": " end",
+                    "start": 3.46,
+                    "end": 3.72,
+                    "probability": 0.9936341047286987
+                },
+                {
+                    "word": " of",
+                    "start": 3.72,
+                    "end": 3.88,
+                    "probability": 0.9967371821403503
+                },
+                {
+                    "word": " the",
+                    "start": 3.88,
+                    "end": 4.0,
+                    "probability": 0.9960078001022339
+                },
+                {
+                    "word": " day?",
+                    "start": 4.0,
+                    "end": 4.26,
+                    "probability": 0.9973405003547668
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

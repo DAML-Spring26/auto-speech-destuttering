@@ -1,0 +1,67 @@
+{
+    "text": " We walked across, across the bridge.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.06,
+            "text": " We walked across, across the bridge.",
+            "tokens": [
+                50364,
+                492,
+                7628,
+                2108,
+                11,
+                2108,
+                264,
+                7283,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.44294227253306995,
+            "compression_ratio": 0.9473684210526315,
+            "no_speech_prob": 0.004762963857501745,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7138753533363342
+                },
+                {
+                    "word": " walked",
+                    "start": 0.14,
+                    "end": 0.44,
+                    "probability": 0.8396075367927551
+                },
+                {
+                    "word": " across,",
+                    "start": 0.44,
+                    "end": 0.76,
+                    "probability": 0.9961470365524292
+                },
+                {
+                    "word": " across",
+                    "start": 1.14,
+                    "end": 1.54,
+                    "probability": 0.9937127232551575
+                },
+                {
+                    "word": " the",
+                    "start": 1.54,
+                    "end": 1.78,
+                    "probability": 0.9959438443183899
+                },
+                {
+                    "word": " bridge.",
+                    "start": 1.78,
+                    "end": 2.06,
+                    "probability": 0.9942666888237
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,73 @@
+{
+    "text": " the committee evaluating the proposals for weeks.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.28,
+            "text": " the committee evaluating the proposals for weeks.",
+            "tokens": [
+                50364,
+                264,
+                7482,
+                27479,
+                264,
+                20198,
+                337,
+                3259,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4287786917252974,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.03133287653326988,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5493500232696533
+                },
+                {
+                    "word": " committee",
+                    "start": 0.14,
+                    "end": 0.46,
+                    "probability": 0.7361237406730652
+                },
+                {
+                    "word": " evaluating",
+                    "start": 0.46,
+                    "end": 0.98,
+                    "probability": 0.9655260443687439
+                },
+                {
+                    "word": " the",
+                    "start": 0.98,
+                    "end": 1.14,
+                    "probability": 0.9876865148544312
+                },
+                {
+                    "word": " proposals",
+                    "start": 1.14,
+                    "end": 1.54,
+                    "probability": 0.9777357578277588
+                },
+                {
+                    "word": " for",
+                    "start": 1.54,
+                    "end": 1.9,
+                    "probability": 0.9957316517829895
+                },
+                {
+                    "word": " weeks.",
+                    "start": 1.9,
+                    "end": 2.28,
+                    "probability": 0.9871472120285034
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,33 +1,29 @@
 {
-    "text": " Please ensure all equipment is properly maintained and unsurviced.",
+    "text": " Please ensure all equipment unsurviced.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 5.0,
-            "text": " Please ensure all equipment is properly maintained and unsurviced.",
+            "end": 4.0,
+            "text": " Please ensure all equipment unsurviced.",
             "tokens": [
                 50364,
                 2555,
                 5586,
                 439,
                 5927,
-                307,
-                6108,
-                17578,
-                293,
                 2693,
                 374,
                 85,
                 4233,
                 13,
-                50614
+                50564
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.4311175048351288,
-            "compression_ratio": 0.9850746268656716,
-            "no_speech_prob": 0.025023560971021652
+            "avg_logprob": -0.5827823479970297,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.02853301726281643
         }
     ],
     "language": "en"

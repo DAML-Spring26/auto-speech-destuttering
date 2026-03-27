@@ -1,0 +1,80 @@
+{
+    "text": " the strength of the material was tested thoroughly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.34,
+            "text": " the strength of the material was tested thoroughly.",
+            "tokens": [
+                50364,
+                264,
+                3800,
+                295,
+                264,
+                2527,
+                390,
+                8246,
+                17987,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.44638586044311523,
+            "compression_ratio": 0.9107142857142857,
+            "no_speech_prob": 0.004082321189343929,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5569304823875427
+                },
+                {
+                    "word": " strength",
+                    "start": 0.12,
+                    "end": 0.5,
+                    "probability": 0.9217065572738647
+                },
+                {
+                    "word": " of",
+                    "start": 0.5,
+                    "end": 0.7,
+                    "probability": 0.8127608299255371
+                },
+                {
+                    "word": " the",
+                    "start": 0.7,
+                    "end": 0.82,
+                    "probability": 0.979464054107666
+                },
+                {
+                    "word": " material",
+                    "start": 0.82,
+                    "end": 1.24,
+                    "probability": 0.9555525779724121
+                },
+                {
+                    "word": " was",
+                    "start": 1.24,
+                    "end": 1.52,
+                    "probability": 0.9269589781761169
+                },
+                {
+                    "word": " tested",
+                    "start": 1.52,
+                    "end": 1.86,
+                    "probability": 0.9899583458900452
+                },
+                {
+                    "word": " thoroughly.",
+                    "start": 1.86,
+                    "end": 2.34,
+                    "probability": 0.9846142530441284
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

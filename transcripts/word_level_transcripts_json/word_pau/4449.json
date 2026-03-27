@@ -1,0 +1,101 @@
+{
+    "text": " The flight to Tokyo has been delayed due to technical issues.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.46,
+            "text": " The flight to Tokyo has been delayed due to technical issues.",
+            "tokens": [
+                50364,
+                440,
+                7018,
+                281,
+                15147,
+                575,
+                668,
+                20268,
+                3462,
+                281,
+                6191,
+                2663,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2654972235361735,
+            "compression_ratio": 0.9384615384615385,
+            "no_speech_prob": 0.044802699238061905,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6069652438163757
+                },
+                {
+                    "word": " flight",
+                    "start": 0.12,
+                    "end": 0.38,
+                    "probability": 0.9231435060501099
+                },
+                {
+                    "word": " to",
+                    "start": 0.38,
+                    "end": 0.6,
+                    "probability": 0.9765755534172058
+                },
+                {
+                    "word": " Tokyo",
+                    "start": 0.6,
+                    "end": 0.94,
+                    "probability": 0.9986951947212219
+                },
+                {
+                    "word": " has",
+                    "start": 0.94,
+                    "end": 1.32,
+                    "probability": 0.9955390095710754
+                },
+                {
+                    "word": " been",
+                    "start": 1.32,
+                    "end": 1.52,
+                    "probability": 0.9980596899986267
+                },
+                {
+                    "word": " delayed",
+                    "start": 1.52,
+                    "end": 1.88,
+                    "probability": 0.9977443218231201
+                },
+                {
+                    "word": " due",
+                    "start": 1.88,
+                    "end": 2.3,
+                    "probability": 0.9499382972717285
+                },
+                {
+                    "word": " to",
+                    "start": 2.3,
+                    "end": 3.06,
+                    "probability": 0.988452136516571
+                },
+                {
+                    "word": " technical",
+                    "start": 3.06,
+                    "end": 4.88,
+                    "probability": 0.9322391152381897
+                },
+                {
+                    "word": " issues.",
+                    "start": 4.88,
+                    "end": 5.46,
+                    "probability": 0.9978759288787842
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

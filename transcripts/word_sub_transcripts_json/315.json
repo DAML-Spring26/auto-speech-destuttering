@@ -1,0 +1,66 @@
+{
+    "text": " the software update includes bug picks.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.82,
+            "text": " the software update includes bug picks.",
+            "tokens": [
+                50364,
+                264,
+                4722,
+                5623,
+                5974,
+                7426,
+                16137,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.542415189743042,
+            "compression_ratio": 0.8297872340425532,
+            "no_speech_prob": 0.012854594737291336,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.4559982120990753
+                },
+                {
+                    "word": " software",
+                    "start": 0.12,
+                    "end": 0.5,
+                    "probability": 0.986782431602478
+                },
+                {
+                    "word": " update",
+                    "start": 0.5,
+                    "end": 0.88,
+                    "probability": 0.8890275359153748
+                },
+                {
+                    "word": " includes",
+                    "start": 0.88,
+                    "end": 1.3,
+                    "probability": 0.9784168004989624
+                },
+                {
+                    "word": " bug",
+                    "start": 1.3,
+                    "end": 1.54,
+                    "probability": 0.9442880153656006
+                },
+                {
+                    "word": " picks.",
+                    "start": 1.54,
+                    "end": 1.82,
+                    "probability": 0.6771984696388245
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,128 @@
+{
+    "text": " Could you please turn up? The volume, I can't hear the TV.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.22,
+            "text": " Could you please turn up?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                1261,
+                493,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4630727767944336,
+            "compression_ratio": 0.8923076923076924,
+            "no_speech_prob": 0.016796868294477463,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.9185917377471924
+                },
+                {
+                    "word": " you",
+                    "start": 0.22,
+                    "end": 0.38,
+                    "probability": 0.998250424861908
+                },
+                {
+                    "word": " please",
+                    "start": 0.38,
+                    "end": 0.68,
+                    "probability": 0.9952848553657532
+                },
+                {
+                    "word": " turn",
+                    "start": 0.68,
+                    "end": 0.94,
+                    "probability": 0.9766325950622559
+                },
+                {
+                    "word": " up?",
+                    "start": 0.94,
+                    "end": 1.22,
+                    "probability": 0.9965357780456543
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.22,
+            "end": 6.48,
+            "text": " The volume, I can't hear the TV.",
+            "tokens": [
+                50596,
+                440,
+                5523,
+                11,
+                286,
+                393,
+                380,
+                1568,
+                264,
+                3558,
+                13,
+                50696
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4630727767944336,
+            "compression_ratio": 0.8923076923076924,
+            "no_speech_prob": 0.016796868294477463,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 4.22,
+                    "end": 4.78,
+                    "probability": 0.6797749400138855
+                },
+                {
+                    "word": " volume,",
+                    "start": 4.78,
+                    "end": 5.1,
+                    "probability": 0.9690279960632324
+                },
+                {
+                    "word": " I",
+                    "start": 5.46,
+                    "end": 5.58,
+                    "probability": 0.9809072613716125
+                },
+                {
+                    "word": " can't",
+                    "start": 5.58,
+                    "end": 5.86,
+                    "probability": 0.9731878340244293
+                },
+                {
+                    "word": " hear",
+                    "start": 5.86,
+                    "end": 5.96,
+                    "probability": 0.9980049729347229
+                },
+                {
+                    "word": " the",
+                    "start": 5.96,
+                    "end": 6.16,
+                    "probability": 0.9963816404342651
+                },
+                {
+                    "word": " TV.",
+                    "start": 6.16,
+                    "end": 6.48,
+                    "probability": 0.9452149868011475
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

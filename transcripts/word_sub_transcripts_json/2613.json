@@ -1,0 +1,59 @@
+{
+    "text": " The study produced remarkable results.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.96,
+            "text": " The study produced remarkable results.",
+            "tokens": [
+                50364,
+                440,
+                2979,
+                7126,
+                12802,
+                3542,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4365946716732449,
+            "compression_ratio": 0.8636363636363636,
+            "no_speech_prob": 0.0045570023357868195,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.5820304155349731
+                },
+                {
+                    "word": " study",
+                    "start": 0.08,
+                    "end": 0.4,
+                    "probability": 0.9901919364929199
+                },
+                {
+                    "word": " produced",
+                    "start": 0.4,
+                    "end": 0.9,
+                    "probability": 0.9712717533111572
+                },
+                {
+                    "word": " remarkable",
+                    "start": 0.9,
+                    "end": 1.4,
+                    "probability": 0.9932997226715088
+                },
+                {
+                    "word": " results.",
+                    "start": 1.4,
+                    "end": 1.96,
+                    "probability": 0.9980111122131348
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

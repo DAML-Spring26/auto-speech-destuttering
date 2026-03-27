@@ -1,0 +1,108 @@
+{
+    "text": " The doctor recommended that you take the medication twice daily with meals.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.42,
+            "text": " The doctor recommended that you take the medication twice daily with meals.",
+            "tokens": [
+                50364,
+                440,
+                4631,
+                9628,
+                300,
+                291,
+                747,
+                264,
+                13851,
+                6091,
+                5212,
+                365,
+                12832,
+                13,
+                50556
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2928026020526886,
+            "compression_ratio": 1.0273972602739727,
+            "no_speech_prob": 0.011453220620751381,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.738286018371582
+                },
+                {
+                    "word": " doctor",
+                    "start": 0.12,
+                    "end": 0.42,
+                    "probability": 0.9548296332359314
+                },
+                {
+                    "word": " recommended",
+                    "start": 0.42,
+                    "end": 0.9,
+                    "probability": 0.9896095991134644
+                },
+                {
+                    "word": " that",
+                    "start": 0.9,
+                    "end": 1.14,
+                    "probability": 0.9490439295768738
+                },
+                {
+                    "word": " you",
+                    "start": 1.14,
+                    "end": 1.24,
+                    "probability": 0.985020637512207
+                },
+                {
+                    "word": " take",
+                    "start": 1.24,
+                    "end": 1.36,
+                    "probability": 0.9932355284690857
+                },
+                {
+                    "word": " the",
+                    "start": 1.36,
+                    "end": 1.46,
+                    "probability": 0.5877401828765869
+                },
+                {
+                    "word": " medication",
+                    "start": 1.46,
+                    "end": 1.92,
+                    "probability": 0.9966251850128174
+                },
+                {
+                    "word": " twice",
+                    "start": 1.92,
+                    "end": 2.24,
+                    "probability": 0.8699342608451843
+                },
+                {
+                    "word": " daily",
+                    "start": 2.24,
+                    "end": 2.56,
+                    "probability": 0.9961590766906738
+                },
+                {
+                    "word": " with",
+                    "start": 2.56,
+                    "end": 2.84,
+                    "probability": 0.7969120144844055
+                },
+                {
+                    "word": " meals.",
+                    "start": 2.84,
+                    "end": 3.42,
+                    "probability": 0.964286744594574
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

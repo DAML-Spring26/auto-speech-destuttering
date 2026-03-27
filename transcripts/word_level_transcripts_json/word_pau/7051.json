@@ -1,0 +1,81 @@
+{
+    "text": " I'll need more time to complete this task.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.66,
+            "text": " I'll need more time to complete this task.",
+            "tokens": [
+                50364,
+                286,
+                603,
+                643,
+                544,
+                565,
+                281,
+                3566,
+                341,
+                5633,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.363552240224985,
+            "compression_ratio": 0.8936170212765957,
+            "no_speech_prob": 0.016349170356988907,
+            "words": [
+                {
+                    "word": " I'll",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.9388509094715118
+                },
+                {
+                    "word": " need",
+                    "start": 0.24,
+                    "end": 0.44,
+                    "probability": 0.9975093603134155
+                },
+                {
+                    "word": " more",
+                    "start": 0.44,
+                    "end": 0.68,
+                    "probability": 0.9972055554389954
+                },
+                {
+                    "word": " time",
+                    "start": 0.68,
+                    "end": 1.08,
+                    "probability": 0.9993346333503723
+                },
+                {
+                    "word": " to",
+                    "start": 1.08,
+                    "end": 1.36,
+                    "probability": 0.6516081690788269
+                },
+                {
+                    "word": " complete",
+                    "start": 1.36,
+                    "end": 3.7,
+                    "probability": 0.7292429208755493
+                },
+                {
+                    "word": " this",
+                    "start": 3.7,
+                    "end": 4.12,
+                    "probability": 0.981697142124176
+                },
+                {
+                    "word": " task.",
+                    "start": 4.12,
+                    "end": 4.66,
+                    "probability": 0.991904616355896
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

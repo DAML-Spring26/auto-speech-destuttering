@@ -1,0 +1,148 @@
+{
+    "text": " Experts predict that renewable energy sources will play a crucial role in future power grids.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.3,
+            "text": " Experts predict that renewable energy sources will play a crucial role in future",
+            "tokens": [
+                50364,
+                12522,
+                1373,
+                6069,
+                300,
+                20938,
+                2281,
+                7139,
+                486,
+                862,
+                257,
+                11462,
+                3090,
+                294,
+                2027,
+                50680
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2630926767985026,
+            "compression_ratio": 1.0810810810810811,
+            "no_speech_prob": 0.03917863965034485,
+            "words": [
+                {
+                    "word": " Experts",
+                    "start": 0.0,
+                    "end": 1.28,
+                    "probability": 0.9798784255981445
+                },
+                {
+                    "word": " predict",
+                    "start": 1.28,
+                    "end": 1.6,
+                    "probability": 0.997333288192749
+                },
+                {
+                    "word": " that",
+                    "start": 1.6,
+                    "end": 1.82,
+                    "probability": 0.9859829545021057
+                },
+                {
+                    "word": " renewable",
+                    "start": 1.82,
+                    "end": 2.2,
+                    "probability": 0.9948091506958008
+                },
+                {
+                    "word": " energy",
+                    "start": 2.2,
+                    "end": 2.8,
+                    "probability": 0.9866524338722229
+                },
+                {
+                    "word": " sources",
+                    "start": 2.8,
+                    "end": 3.36,
+                    "probability": 0.9981899857521057
+                },
+                {
+                    "word": " will",
+                    "start": 3.36,
+                    "end": 4.04,
+                    "probability": 0.9786897301673889
+                },
+                {
+                    "word": " play",
+                    "start": 4.04,
+                    "end": 4.42,
+                    "probability": 0.9939124584197998
+                },
+                {
+                    "word": " a",
+                    "start": 4.42,
+                    "end": 4.76,
+                    "probability": 0.9927391409873962
+                },
+                {
+                    "word": " crucial",
+                    "start": 4.76,
+                    "end": 5.16,
+                    "probability": 0.9982471466064453
+                },
+                {
+                    "word": " role",
+                    "start": 5.16,
+                    "end": 5.52,
+                    "probability": 0.9996211528778076
+                },
+                {
+                    "word": " in",
+                    "start": 5.52,
+                    "end": 5.82,
+                    "probability": 0.9972714781761169
+                },
+                {
+                    "word": " future",
+                    "start": 5.82,
+                    "end": 6.3,
+                    "probability": 0.96500563621521
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 630,
+            "start": 6.3,
+            "end": 8.18,
+            "text": " power grids.",
+            "tokens": [
+                50364,
+                1347,
+                677,
+                3742,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8516998291015625,
+            "compression_ratio": 0.6,
+            "no_speech_prob": 0.5040521621704102,
+            "words": [
+                {
+                    "word": " power",
+                    "start": 6.3,
+                    "end": 7.64,
+                    "probability": 0.5377596020698547
+                },
+                {
+                    "word": " grids.",
+                    "start": 7.64,
+                    "end": 8.18,
+                    "probability": 0.988690584897995
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

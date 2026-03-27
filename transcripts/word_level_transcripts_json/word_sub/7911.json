@@ -1,0 +1,70 @@
+{
+    "text": " the geologist identified a rarimental dashboard.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.56,
+            "text": " the geologist identified a rarimental dashboard.",
+            "tokens": [
+                50364,
+                264,
+                1519,
+                9201,
+                9234,
+                257,
+                367,
+                289,
+                2328,
+                304,
+                18342,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.692655222756522,
+            "compression_ratio": 0.8888888888888888,
+            "no_speech_prob": 0.0058956025168299675,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6281176805496216
+                },
+                {
+                    "word": " geologist",
+                    "start": 0.12,
+                    "end": 0.66,
+                    "probability": 0.8226248621940613
+                },
+                {
+                    "word": " identified",
+                    "start": 0.66,
+                    "end": 1.26,
+                    "probability": 0.9366602897644043
+                },
+                {
+                    "word": " a",
+                    "start": 1.26,
+                    "end": 1.56,
+                    "probability": 0.9737358689308167
+                },
+                {
+                    "word": " rarimental",
+                    "start": 1.56,
+                    "end": 2.16,
+                    "probability": 0.34501659497618675
+                },
+                {
+                    "word": " dashboard.",
+                    "start": 2.16,
+                    "end": 2.56,
+                    "probability": 0.5064157843589783
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

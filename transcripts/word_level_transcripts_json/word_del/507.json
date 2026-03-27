@@ -1,0 +1,80 @@
+{
+    "text": " our team working on implementing stronger security measures.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.46,
+            "text": " our team working on implementing stronger security measures.",
+            "tokens": [
+                50364,
+                527,
+                1469,
+                1364,
+                322,
+                18114,
+                7249,
+                3825,
+                8000,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3561224937438965,
+            "compression_ratio": 0.967741935483871,
+            "no_speech_prob": 0.011099717579782009,
+            "words": [
+                {
+                    "word": " our",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.5194190740585327
+                },
+                {
+                    "word": " team",
+                    "start": 0.34,
+                    "end": 0.64,
+                    "probability": 0.7301415205001831
+                },
+                {
+                    "word": " working",
+                    "start": 0.64,
+                    "end": 1.04,
+                    "probability": 0.9748503565788269
+                },
+                {
+                    "word": " on",
+                    "start": 1.04,
+                    "end": 1.24,
+                    "probability": 0.9925806522369385
+                },
+                {
+                    "word": " implementing",
+                    "start": 1.24,
+                    "end": 1.76,
+                    "probability": 0.9840703010559082
+                },
+                {
+                    "word": " stronger",
+                    "start": 1.76,
+                    "end": 2.28,
+                    "probability": 0.9772192239761353
+                },
+                {
+                    "word": " security",
+                    "start": 2.28,
+                    "end": 3.02,
+                    "probability": 0.9918728470802307
+                },
+                {
+                    "word": " measures.",
+                    "start": 3.02,
+                    "end": 3.46,
+                    "probability": 0.9987338185310364
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

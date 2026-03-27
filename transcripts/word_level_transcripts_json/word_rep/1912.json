@@ -1,0 +1,105 @@
+{
+    "text": " If you need help, please don't hesitate, don't hesitate to ask.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.28,
+            "text": " If you need help, please don't hesitate, don't hesitate to ask.",
+            "tokens": [
+                50364,
+                759,
+                291,
+                643,
+                854,
+                11,
+                1767,
+                500,
+                380,
+                20842,
+                11,
+                500,
+                380,
+                20842,
+                281,
+                1029,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2491891760575144,
+            "compression_ratio": 1.125,
+            "no_speech_prob": 0.011178756132721901,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.8525777459144592
+                },
+                {
+                    "word": " you",
+                    "start": 0.18,
+                    "end": 0.28,
+                    "probability": 0.9945845007896423
+                },
+                {
+                    "word": " need",
+                    "start": 0.28,
+                    "end": 0.42,
+                    "probability": 0.9994066953659058
+                },
+                {
+                    "word": " help,",
+                    "start": 0.42,
+                    "end": 0.68,
+                    "probability": 0.9987873435020447
+                },
+                {
+                    "word": " please",
+                    "start": 0.94,
+                    "end": 1.08,
+                    "probability": 0.9865971207618713
+                },
+                {
+                    "word": " don't",
+                    "start": 1.08,
+                    "end": 1.46,
+                    "probability": 0.950799822807312
+                },
+                {
+                    "word": " hesitate,",
+                    "start": 1.46,
+                    "end": 1.76,
+                    "probability": 0.9986737966537476
+                },
+                {
+                    "word": " don't",
+                    "start": 1.76,
+                    "end": 2.18,
+                    "probability": 0.9856334328651428
+                },
+                {
+                    "word": " hesitate",
+                    "start": 2.18,
+                    "end": 2.5,
+                    "probability": 0.9994856119155884
+                },
+                {
+                    "word": " to",
+                    "start": 2.5,
+                    "end": 2.9,
+                    "probability": 0.9851556420326233
+                },
+                {
+                    "word": " ask.",
+                    "start": 2.9,
+                    "end": 3.28,
+                    "probability": 0.9967013001441956
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

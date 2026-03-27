@@ -1,0 +1,87 @@
+{
+    "text": " The company is expanding its operations in emerging markets.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.46,
+            "text": " The company is expanding its operations in emerging markets.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                307,
+                14702,
+                1080,
+                7705,
+                294,
+                14989,
+                8383,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41634610983041614,
+            "compression_ratio": 0.9375,
+            "no_speech_prob": 0.008551003411412239,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5228355526924133
+                },
+                {
+                    "word": " company",
+                    "start": 0.12,
+                    "end": 0.56,
+                    "probability": 0.9839639067649841
+                },
+                {
+                    "word": " is",
+                    "start": 0.56,
+                    "end": 0.78,
+                    "probability": 0.9517139792442322
+                },
+                {
+                    "word": " expanding",
+                    "start": 0.78,
+                    "end": 1.28,
+                    "probability": 0.9462223052978516
+                },
+                {
+                    "word": " its",
+                    "start": 1.28,
+                    "end": 1.52,
+                    "probability": 0.965381383895874
+                },
+                {
+                    "word": " operations",
+                    "start": 1.52,
+                    "end": 2.02,
+                    "probability": 0.9922186136245728
+                },
+                {
+                    "word": " in",
+                    "start": 2.02,
+                    "end": 2.42,
+                    "probability": 0.9923126101493835
+                },
+                {
+                    "word": " emerging",
+                    "start": 2.42,
+                    "end": 5.02,
+                    "probability": 0.23014569282531738
+                },
+                {
+                    "word": " markets.",
+                    "start": 5.02,
+                    "end": 5.46,
+                    "probability": 0.9820833206176758
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

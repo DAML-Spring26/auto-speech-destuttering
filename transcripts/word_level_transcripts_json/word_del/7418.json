@@ -1,0 +1,80 @@
+{
+    "text": " The CEO announced a company would expand globally.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.82,
+            "text": " The CEO announced a company would expand globally.",
+            "tokens": [
+                50364,
+                440,
+                9282,
+                7548,
+                257,
+                2237,
+                576,
+                5268,
+                18958,
+                13,
+                50520
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29066218932469684,
+            "compression_ratio": 0.8928571428571429,
+            "no_speech_prob": 0.0036285151727497578,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.691116452217102
+                },
+                {
+                    "word": " CEO",
+                    "start": 0.12,
+                    "end": 0.52,
+                    "probability": 0.9437361359596252
+                },
+                {
+                    "word": " announced",
+                    "start": 0.52,
+                    "end": 0.98,
+                    "probability": 0.9926823973655701
+                },
+                {
+                    "word": " a",
+                    "start": 0.98,
+                    "end": 1.16,
+                    "probability": 0.6533013582229614
+                },
+                {
+                    "word": " company",
+                    "start": 1.16,
+                    "end": 1.56,
+                    "probability": 0.9983200430870056
+                },
+                {
+                    "word": " would",
+                    "start": 1.56,
+                    "end": 1.8,
+                    "probability": 0.9936676621437073
+                },
+                {
+                    "word": " expand",
+                    "start": 1.8,
+                    "end": 2.22,
+                    "probability": 0.9957861304283142
+                },
+                {
+                    "word": " globally.",
+                    "start": 2.22,
+                    "end": 2.82,
+                    "probability": 0.9944105744361877
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

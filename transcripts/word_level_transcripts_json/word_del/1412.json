@@ -1,0 +1,116 @@
+{
+    "text": " We're planning to go to either the beach to the mountains this weekend.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.62,
+            "text": " We're planning to go to either the beach to the mountains this weekend.",
+            "tokens": [
+                50364,
+                492,
+                434,
+                5038,
+                281,
+                352,
+                281,
+                2139,
+                264,
+                7534,
+                281,
+                264,
+                10233,
+                341,
+                6711,
+                13,
+                50510
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35272645950317383,
+            "compression_ratio": 1.0289855072463767,
+            "no_speech_prob": 0.005769743584096432,
+            "words": [
+                {
+                    "word": " We're",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.7586420476436615
+                },
+                {
+                    "word": " planning",
+                    "start": 0.18,
+                    "end": 0.44,
+                    "probability": 0.9979285001754761
+                },
+                {
+                    "word": " to",
+                    "start": 0.44,
+                    "end": 0.62,
+                    "probability": 0.9974334836006165
+                },
+                {
+                    "word": " go",
+                    "start": 0.62,
+                    "end": 0.76,
+                    "probability": 0.9953904151916504
+                },
+                {
+                    "word": " to",
+                    "start": 0.76,
+                    "end": 0.94,
+                    "probability": 0.9826815724372864
+                },
+                {
+                    "word": " either",
+                    "start": 0.94,
+                    "end": 1.16,
+                    "probability": 0.8494706749916077
+                },
+                {
+                    "word": " the",
+                    "start": 1.16,
+                    "end": 1.3,
+                    "probability": 0.9053429365158081
+                },
+                {
+                    "word": " beach",
+                    "start": 1.3,
+                    "end": 1.5,
+                    "probability": 0.8234805464744568
+                },
+                {
+                    "word": " to",
+                    "start": 1.5,
+                    "end": 1.62,
+                    "probability": 0.2881455719470978
+                },
+                {
+                    "word": " the",
+                    "start": 1.62,
+                    "end": 1.66,
+                    "probability": 0.7035509347915649
+                },
+                {
+                    "word": " mountains",
+                    "start": 1.66,
+                    "end": 1.98,
+                    "probability": 0.9920151233673096
+                },
+                {
+                    "word": " this",
+                    "start": 1.98,
+                    "end": 2.3,
+                    "probability": 0.9714885354042053
+                },
+                {
+                    "word": " weekend.",
+                    "start": 2.3,
+                    "end": 2.62,
+                    "probability": 0.9920276999473572
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

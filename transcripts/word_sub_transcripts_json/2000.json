@@ -1,0 +1,66 @@
+{
+    "text": " The device will transport data securely.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.72,
+            "text": " The device will transport data securely.",
+            "tokens": [
+                50364,
+                440,
+                4302,
+                486,
+                5495,
+                1412,
+                38348,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31731154918670657,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.002571122720837593,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7033107876777649
+                },
+                {
+                    "word": " device",
+                    "start": 0.14,
+                    "end": 0.56,
+                    "probability": 0.9753420948982239
+                },
+                {
+                    "word": " will",
+                    "start": 0.56,
+                    "end": 0.92,
+                    "probability": 0.979272723197937
+                },
+                {
+                    "word": " transport",
+                    "start": 0.92,
+                    "end": 1.52,
+                    "probability": 0.98185133934021
+                },
+                {
+                    "word": " data",
+                    "start": 1.52,
+                    "end": 1.96,
+                    "probability": 0.9886562824249268
+                },
+                {
+                    "word": " securely.",
+                    "start": 1.96,
+                    "end": 2.72,
+                    "probability": 0.9899433851242065
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

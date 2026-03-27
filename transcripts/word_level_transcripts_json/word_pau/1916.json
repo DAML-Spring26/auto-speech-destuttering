@@ -1,0 +1,87 @@
+{
+    "text": " The quarterly report shows a significant increase in revenue.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.28,
+            "text": " The quarterly report shows a significant increase in revenue.",
+            "tokens": [
+                50364,
+                440,
+                38633,
+                2275,
+                3110,
+                257,
+                4776,
+                3488,
+                294,
+                9324,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37087539526132435,
+            "compression_ratio": 0.9242424242424242,
+            "no_speech_prob": 0.033855896443128586,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7461696267127991
+                },
+                {
+                    "word": " quarterly",
+                    "start": 0.14,
+                    "end": 0.66,
+                    "probability": 0.6940556764602661
+                },
+                {
+                    "word": " report",
+                    "start": 0.66,
+                    "end": 1.12,
+                    "probability": 0.9668739438056946
+                },
+                {
+                    "word": " shows",
+                    "start": 1.12,
+                    "end": 1.86,
+                    "probability": 0.9948662519454956
+                },
+                {
+                    "word": " a",
+                    "start": 1.86,
+                    "end": 3.22,
+                    "probability": 0.7529246211051941
+                },
+                {
+                    "word": " significant",
+                    "start": 3.22,
+                    "end": 5.88,
+                    "probability": 0.9908874034881592
+                },
+                {
+                    "word": " increase",
+                    "start": 5.88,
+                    "end": 6.48,
+                    "probability": 0.9990493655204773
+                },
+                {
+                    "word": " in",
+                    "start": 6.48,
+                    "end": 6.78,
+                    "probability": 0.9992923736572266
+                },
+                {
+                    "word": " revenue.",
+                    "start": 6.78,
+                    "end": 7.28,
+                    "probability": 0.9868192672729492
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

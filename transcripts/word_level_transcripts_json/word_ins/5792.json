@@ -1,0 +1,140 @@
+{
+    "text": " We should review the data carefully. Before we draw any conclusions from the experiment.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.22,
+            "text": " We should review the data carefully.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                3131,
+                264,
+                1412,
+                7500,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2722709746587844,
+            "compression_ratio": 1.0731707317073171,
+            "no_speech_prob": 0.019756944850087166,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.78,
+                    "probability": 0.8505344986915588
+                },
+                {
+                    "word": " should",
+                    "start": 0.78,
+                    "end": 1.0,
+                    "probability": 0.9981194138526917
+                },
+                {
+                    "word": " review",
+                    "start": 1.0,
+                    "end": 1.26,
+                    "probability": 0.9895306825637817
+                },
+                {
+                    "word": " the",
+                    "start": 1.26,
+                    "end": 1.46,
+                    "probability": 0.9948832988739014
+                },
+                {
+                    "word": " data",
+                    "start": 1.46,
+                    "end": 1.68,
+                    "probability": 0.9947828650474548
+                },
+                {
+                    "word": " carefully.",
+                    "start": 1.68,
+                    "end": 2.22,
+                    "probability": 0.9988960027694702
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.0,
+            "end": 5.74,
+            "text": " Before we draw any conclusions from the experiment.",
+            "tokens": [
+                50514,
+                4546,
+                321,
+                2642,
+                604,
+                22865,
+                490,
+                264,
+                5120,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2722709746587844,
+            "compression_ratio": 1.0731707317073171,
+            "no_speech_prob": 0.019756944850087166,
+            "words": [
+                {
+                    "word": " Before",
+                    "start": 3.0,
+                    "end": 3.56,
+                    "probability": 0.9880937933921814
+                },
+                {
+                    "word": " we",
+                    "start": 3.56,
+                    "end": 3.78,
+                    "probability": 0.9946243166923523
+                },
+                {
+                    "word": " draw",
+                    "start": 3.78,
+                    "end": 4.0,
+                    "probability": 0.9986684322357178
+                },
+                {
+                    "word": " any",
+                    "start": 4.0,
+                    "end": 4.28,
+                    "probability": 0.9961424469947815
+                },
+                {
+                    "word": " conclusions",
+                    "start": 4.28,
+                    "end": 4.8,
+                    "probability": 0.994545578956604
+                },
+                {
+                    "word": " from",
+                    "start": 4.8,
+                    "end": 5.08,
+                    "probability": 0.9961507320404053
+                },
+                {
+                    "word": " the",
+                    "start": 5.08,
+                    "end": 5.24,
+                    "probability": 0.9954723119735718
+                },
+                {
+                    "word": " experiment.",
+                    "start": 5.24,
+                    "end": 5.74,
+                    "probability": 0.9917219281196594
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

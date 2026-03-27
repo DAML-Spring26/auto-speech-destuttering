@@ -1,0 +1,59 @@
+{
+    "text": " The result showed sufficient improvement.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.56,
+            "text": " The result showed sufficient improvement.",
+            "tokens": [
+                50364,
+                440,
+                1874,
+                4712,
+                11563,
+                10444,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4396320978800456,
+            "compression_ratio": 0.8723404255319149,
+            "no_speech_prob": 0.004942046012729406,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.40391647815704346
+                },
+                {
+                    "word": " result",
+                    "start": 0.12,
+                    "end": 0.32,
+                    "probability": 0.621230959892273
+                },
+                {
+                    "word": " showed",
+                    "start": 0.32,
+                    "end": 0.58,
+                    "probability": 0.8167780041694641
+                },
+                {
+                    "word": " sufficient",
+                    "start": 0.58,
+                    "end": 1.04,
+                    "probability": 0.9980193376541138
+                },
+                {
+                    "word": " improvement.",
+                    "start": 1.04,
+                    "end": 1.56,
+                    "probability": 0.9989093542098999
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

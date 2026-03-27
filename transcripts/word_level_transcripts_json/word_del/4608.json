@@ -1,0 +1,94 @@
+{
+    "text": " We were unsure the meeting would be held as scheduled.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.3,
+            "text": " We were unsure the meeting would be held as scheduled.",
+            "tokens": [
+                50364,
+                492,
+                645,
+                32486,
+                264,
+                3440,
+                576,
+                312,
+                5167,
+                382,
+                15678,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2613323586327689,
+            "compression_ratio": 0.9152542372881356,
+            "no_speech_prob": 0.008008823730051517,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8620160222053528
+                },
+                {
+                    "word": " were",
+                    "start": 0.14,
+                    "end": 0.32,
+                    "probability": 0.9856577515602112
+                },
+                {
+                    "word": " unsure",
+                    "start": 0.32,
+                    "end": 0.7,
+                    "probability": 0.998775064945221
+                },
+                {
+                    "word": " the",
+                    "start": 0.7,
+                    "end": 0.9,
+                    "probability": 0.9475803971290588
+                },
+                {
+                    "word": " meeting",
+                    "start": 0.9,
+                    "end": 1.1,
+                    "probability": 0.997437596321106
+                },
+                {
+                    "word": " would",
+                    "start": 1.1,
+                    "end": 1.32,
+                    "probability": 0.9882744550704956
+                },
+                {
+                    "word": " be",
+                    "start": 1.32,
+                    "end": 1.44,
+                    "probability": 0.9863414168357849
+                },
+                {
+                    "word": " held",
+                    "start": 1.44,
+                    "end": 1.74,
+                    "probability": 0.9963749051094055
+                },
+                {
+                    "word": " as",
+                    "start": 1.74,
+                    "end": 1.88,
+                    "probability": 0.786990761756897
+                },
+                {
+                    "word": " scheduled.",
+                    "start": 1.88,
+                    "end": 2.3,
+                    "probability": 0.9998146891593933
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

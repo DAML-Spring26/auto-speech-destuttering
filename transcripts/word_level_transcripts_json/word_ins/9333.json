@@ -1,0 +1,95 @@
+{
+    "text": " Remember to like, stay hydrated and get plenty of rest.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.38,
+            "text": " Remember to like, stay hydrated and get plenty of rest.",
+            "tokens": [
+                50364,
+                5459,
+                281,
+                411,
+                11,
+                1754,
+                44960,
+                293,
+                483,
+                7140,
+                295,
+                1472,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21726059913635254,
+            "compression_ratio": 0.9016393442622951,
+            "no_speech_prob": 0.01637324132025242,
+            "words": [
+                {
+                    "word": " Remember",
+                    "start": 0.0,
+                    "end": 0.66,
+                    "probability": 0.901867151260376
+                },
+                {
+                    "word": " to",
+                    "start": 0.66,
+                    "end": 0.88,
+                    "probability": 0.997975766658783
+                },
+                {
+                    "word": " like,",
+                    "start": 0.88,
+                    "end": 1.18,
+                    "probability": 0.8144883513450623
+                },
+                {
+                    "word": " stay",
+                    "start": 1.52,
+                    "end": 1.76,
+                    "probability": 0.9621355533599854
+                },
+                {
+                    "word": " hydrated",
+                    "start": 1.76,
+                    "end": 2.24,
+                    "probability": 0.9995079040527344
+                },
+                {
+                    "word": " and",
+                    "start": 2.24,
+                    "end": 2.5,
+                    "probability": 0.973115861415863
+                },
+                {
+                    "word": " get",
+                    "start": 2.5,
+                    "end": 2.66,
+                    "probability": 0.9980884194374084
+                },
+                {
+                    "word": " plenty",
+                    "start": 2.66,
+                    "end": 3.0,
+                    "probability": 0.9992431402206421
+                },
+                {
+                    "word": " of",
+                    "start": 3.0,
+                    "end": 3.18,
+                    "probability": 0.9972532391548157
+                },
+                {
+                    "word": " rest.",
+                    "start": 3.18,
+                    "end": 3.38,
+                    "probability": 0.9986454844474792
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

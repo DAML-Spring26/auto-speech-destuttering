@@ -1,0 +1,95 @@
+{
+    "text": " I can't believe how quickly the semester has gone by.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.04,
+            "text": " I can't believe how quickly the semester has gone by.",
+            "tokens": [
+                50364,
+                286,
+                393,
+                380,
+                1697,
+                577,
+                2661,
+                264,
+                11894,
+                575,
+                2780,
+                538,
+                13,
+                50622
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3748932202657064,
+            "compression_ratio": 0.8688524590163934,
+            "no_speech_prob": 0.008320046588778496,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.9171921014785767
+                },
+                {
+                    "word": " can't",
+                    "start": 0.18,
+                    "end": 0.46,
+                    "probability": 0.9878666400909424
+                },
+                {
+                    "word": " believe",
+                    "start": 0.46,
+                    "end": 0.64,
+                    "probability": 0.9955251812934875
+                },
+                {
+                    "word": " how",
+                    "start": 0.64,
+                    "end": 1.06,
+                    "probability": 0.950441837310791
+                },
+                {
+                    "word": " quickly",
+                    "start": 1.06,
+                    "end": 3.7,
+                    "probability": 0.21597489714622498
+                },
+                {
+                    "word": " the",
+                    "start": 3.7,
+                    "end": 3.9,
+                    "probability": 0.5474421977996826
+                },
+                {
+                    "word": " semester",
+                    "start": 3.9,
+                    "end": 4.3,
+                    "probability": 0.9866182208061218
+                },
+                {
+                    "word": " has",
+                    "start": 4.3,
+                    "end": 4.52,
+                    "probability": 0.8240858316421509
+                },
+                {
+                    "word": " gone",
+                    "start": 4.52,
+                    "end": 4.72,
+                    "probability": 0.9830689430236816
+                },
+                {
+                    "word": " by.",
+                    "start": 4.72,
+                    "end": 5.04,
+                    "probability": 0.9927029609680176
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

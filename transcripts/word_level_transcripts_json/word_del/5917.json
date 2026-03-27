@@ -1,0 +1,88 @@
+{
+    "text": " The fight attendance would demonstrate safety procedures before takeoff.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.72,
+            "text": " The fight attendance would demonstrate safety procedures before takeoff.",
+            "tokens": [
+                50364,
+                440,
+                2092,
+                24337,
+                576,
+                11698,
+                4514,
+                13846,
+                949,
+                747,
+                4506,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4384028570992606,
+            "compression_ratio": 1.0285714285714285,
+            "no_speech_prob": 0.010042699985206127,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.48244887590408325
+                },
+                {
+                    "word": " fight",
+                    "start": 0.14,
+                    "end": 0.26,
+                    "probability": 0.7315861582756042
+                },
+                {
+                    "word": " attendance",
+                    "start": 0.26,
+                    "end": 0.64,
+                    "probability": 0.770656406879425
+                },
+                {
+                    "word": " would",
+                    "start": 0.64,
+                    "end": 0.82,
+                    "probability": 0.7316636443138123
+                },
+                {
+                    "word": " demonstrate",
+                    "start": 0.82,
+                    "end": 1.2,
+                    "probability": 0.9789789319038391
+                },
+                {
+                    "word": " safety",
+                    "start": 1.2,
+                    "end": 1.56,
+                    "probability": 0.9802876710891724
+                },
+                {
+                    "word": " procedures",
+                    "start": 1.56,
+                    "end": 1.92,
+                    "probability": 0.9923812747001648
+                },
+                {
+                    "word": " before",
+                    "start": 1.92,
+                    "end": 2.22,
+                    "probability": 0.9910213351249695
+                },
+                {
+                    "word": " takeoff.",
+                    "start": 2.22,
+                    "end": 2.72,
+                    "probability": 0.5705475509166718
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

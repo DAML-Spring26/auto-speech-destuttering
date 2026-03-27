@@ -1,0 +1,67 @@
+{
+    "text": " the software developer fix critical pugs.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.26,
+            "text": " the software developer fix critical pugs.",
+            "tokens": [
+                50364,
+                264,
+                4722,
+                10754,
+                3191,
+                4924,
+                280,
+                14950,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5507223389365457,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.008959470316767693,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.47396349906921387
+                },
+                {
+                    "word": " software",
+                    "start": 0.12,
+                    "end": 0.54,
+                    "probability": 0.9364784955978394
+                },
+                {
+                    "word": " developer",
+                    "start": 0.54,
+                    "end": 1.06,
+                    "probability": 0.9647535085678101
+                },
+                {
+                    "word": " fix",
+                    "start": 1.06,
+                    "end": 1.36,
+                    "probability": 0.4426165223121643
+                },
+                {
+                    "word": " critical",
+                    "start": 1.36,
+                    "end": 1.74,
+                    "probability": 0.9130325317382812
+                },
+                {
+                    "word": " pugs.",
+                    "start": 1.74,
+                    "end": 2.26,
+                    "probability": 0.7907440662384033
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

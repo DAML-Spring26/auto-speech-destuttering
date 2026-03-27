@@ -1,0 +1,87 @@
+{
+    "text": " I need to regard the minutes of the meeting.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.2,
+            "text": " I need to regard the minutes of the meeting.",
+            "tokens": [
+                50364,
+                286,
+                643,
+                281,
+                3843,
+                264,
+                2077,
+                295,
+                264,
+                3440,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38142064901498646,
+            "compression_ratio": 0.9565217391304348,
+            "no_speech_prob": 0.003821824211627245,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.9460627436637878
+                },
+                {
+                    "word": " need",
+                    "start": 0.18,
+                    "end": 0.38,
+                    "probability": 0.9929332733154297
+                },
+                {
+                    "word": " to",
+                    "start": 0.38,
+                    "end": 0.58,
+                    "probability": 0.9987418055534363
+                },
+                {
+                    "word": " regard",
+                    "start": 0.58,
+                    "end": 0.9,
+                    "probability": 0.7035366296768188
+                },
+                {
+                    "word": " the",
+                    "start": 0.9,
+                    "end": 1.16,
+                    "probability": 0.9890713691711426
+                },
+                {
+                    "word": " minutes",
+                    "start": 1.16,
+                    "end": 1.46,
+                    "probability": 0.9868190288543701
+                },
+                {
+                    "word": " of",
+                    "start": 1.46,
+                    "end": 1.7,
+                    "probability": 0.9970099925994873
+                },
+                {
+                    "word": " the",
+                    "start": 1.7,
+                    "end": 1.86,
+                    "probability": 0.9884815216064453
+                },
+                {
+                    "word": " meeting.",
+                    "start": 1.86,
+                    "end": 2.2,
+                    "probability": 0.9968865513801575
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

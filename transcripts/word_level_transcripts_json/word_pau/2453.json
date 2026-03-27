@@ -1,0 +1,74 @@
+{
+    "text": " I'm having trouble understanding this research paper.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.84,
+            "text": " I'm having trouble understanding this research paper.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                1419,
+                5253,
+                3701,
+                341,
+                2132,
+                3035,
+                13,
+                50672
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4310404459635417,
+            "compression_ratio": 0.9137931034482759,
+            "no_speech_prob": 0.005672144703567028,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.7974430620670319
+                },
+                {
+                    "word": " having",
+                    "start": 0.26,
+                    "end": 0.48,
+                    "probability": 0.9978356957435608
+                },
+                {
+                    "word": " trouble",
+                    "start": 0.48,
+                    "end": 0.78,
+                    "probability": 0.9928035140037537
+                },
+                {
+                    "word": " understanding",
+                    "start": 0.78,
+                    "end": 1.58,
+                    "probability": 0.9861663579940796
+                },
+                {
+                    "word": " this",
+                    "start": 1.58,
+                    "end": 4.8,
+                    "probability": 0.7556940317153931
+                },
+                {
+                    "word": " research",
+                    "start": 4.8,
+                    "end": 5.36,
+                    "probability": 0.9526494145393372
+                },
+                {
+                    "word": " paper.",
+                    "start": 5.36,
+                    "end": 5.84,
+                    "probability": 0.989443838596344
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

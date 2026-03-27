@@ -1,0 +1,94 @@
+{
+    "text": " Your order has been processed and will be shipped tomorrow.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.88,
+            "text": " Your order has been processed and will be shipped tomorrow.",
+            "tokens": [
+                50364,
+                2260,
+                1668,
+                575,
+                668,
+                18846,
+                293,
+                486,
+                312,
+                25312,
+                4153,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4188767841884068,
+            "compression_ratio": 0.9365079365079365,
+            "no_speech_prob": 0.09487401694059372,
+            "words": [
+                {
+                    "word": " Your",
+                    "start": 0.0,
+                    "end": 0.52,
+                    "probability": 0.7583216428756714
+                },
+                {
+                    "word": " order",
+                    "start": 0.52,
+                    "end": 0.82,
+                    "probability": 0.9799515604972839
+                },
+                {
+                    "word": " has",
+                    "start": 0.82,
+                    "end": 1.0,
+                    "probability": 0.9860792756080627
+                },
+                {
+                    "word": " been",
+                    "start": 1.0,
+                    "end": 1.12,
+                    "probability": 0.9990445971488953
+                },
+                {
+                    "word": " processed",
+                    "start": 1.12,
+                    "end": 1.58,
+                    "probability": 0.9893524050712585
+                },
+                {
+                    "word": " and",
+                    "start": 1.58,
+                    "end": 2.06,
+                    "probability": 0.4181067943572998
+                },
+                {
+                    "word": " will",
+                    "start": 2.06,
+                    "end": 4.06,
+                    "probability": 0.5035648345947266
+                },
+                {
+                    "word": " be",
+                    "start": 4.06,
+                    "end": 4.2,
+                    "probability": 0.9981229901313782
+                },
+                {
+                    "word": " shipped",
+                    "start": 4.2,
+                    "end": 4.46,
+                    "probability": 0.99834144115448
+                },
+                {
+                    "word": " tomorrow.",
+                    "start": 4.46,
+                    "end": 4.88,
+                    "probability": 0.97625732421875
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

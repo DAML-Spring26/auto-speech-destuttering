@@ -1,0 +1,59 @@
+{
+    "text": " The research concealed interesting patterns.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.64,
+            "text": " The research concealed interesting patterns.",
+            "tokens": [
+                50364,
+                440,
+                2132,
+                46305,
+                1880,
+                8294,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.49063216315375435,
+            "compression_ratio": 0.8979591836734694,
+            "no_speech_prob": 0.004486819263547659,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7220924496650696
+                },
+                {
+                    "word": " research",
+                    "start": 0.12,
+                    "end": 0.6,
+                    "probability": 0.9682978391647339
+                },
+                {
+                    "word": " concealed",
+                    "start": 0.6,
+                    "end": 1.24,
+                    "probability": 0.7854815125465393
+                },
+                {
+                    "word": " interesting",
+                    "start": 1.24,
+                    "end": 2.04,
+                    "probability": 0.9511173963546753
+                },
+                {
+                    "word": " patterns.",
+                    "start": 2.04,
+                    "end": 2.64,
+                    "probability": 0.9874457120895386
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

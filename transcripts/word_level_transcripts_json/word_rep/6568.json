@@ -1,0 +1,130 @@
+{
+    "text": " The new healthcare plan will provide better coverage for preventive care and and chronic conditions.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.12,
+            "text": " The new healthcare plan will provide better coverage for preventive care and and chronic conditions.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                8884,
+                1393,
+                486,
+                2893,
+                1101,
+                9645,
+                337,
+                4871,
+                488,
+                1127,
+                293,
+                293,
+                14493,
+                4487,
+                13,
+                50644
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31992354393005373,
+            "compression_ratio": 1.1904761904761905,
+            "no_speech_prob": 0.004777566529810429,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.9202345609664917
+                },
+                {
+                    "word": " new",
+                    "start": 0.12,
+                    "end": 0.3,
+                    "probability": 0.947735071182251
+                },
+                {
+                    "word": " healthcare",
+                    "start": 0.3,
+                    "end": 0.76,
+                    "probability": 0.5491054654121399
+                },
+                {
+                    "word": " plan",
+                    "start": 0.76,
+                    "end": 1.16,
+                    "probability": 0.9939950108528137
+                },
+                {
+                    "word": " will",
+                    "start": 1.16,
+                    "end": 1.34,
+                    "probability": 0.99724280834198
+                },
+                {
+                    "word": " provide",
+                    "start": 1.34,
+                    "end": 1.64,
+                    "probability": 0.9979750514030457
+                },
+                {
+                    "word": " better",
+                    "start": 1.64,
+                    "end": 2.14,
+                    "probability": 0.9885425567626953
+                },
+                {
+                    "word": " coverage",
+                    "start": 2.14,
+                    "end": 2.6,
+                    "probability": 0.9976134300231934
+                },
+                {
+                    "word": " for",
+                    "start": 2.6,
+                    "end": 2.78,
+                    "probability": 0.9886515736579895
+                },
+                {
+                    "word": " preventive",
+                    "start": 2.78,
+                    "end": 3.34,
+                    "probability": 0.95063716173172
+                },
+                {
+                    "word": " care",
+                    "start": 3.34,
+                    "end": 3.56,
+                    "probability": 0.9965481162071228
+                },
+                {
+                    "word": " and",
+                    "start": 3.56,
+                    "end": 3.96,
+                    "probability": 0.9692386984825134
+                },
+                {
+                    "word": " and",
+                    "start": 3.96,
+                    "end": 4.28,
+                    "probability": 0.38620325922966003
+                },
+                {
+                    "word": " chronic",
+                    "start": 4.28,
+                    "end": 4.54,
+                    "probability": 0.9875326752662659
+                },
+                {
+                    "word": " conditions.",
+                    "start": 4.54,
+                    "end": 5.12,
+                    "probability": 0.9876216053962708
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

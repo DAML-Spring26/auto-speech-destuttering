@@ -1,0 +1,57 @@
+{
+    "text": " Psychologist study Covative Biasis.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.36,
+            "text": " Psychologist study Covative Biasis.",
+            "tokens": [
+                50364,
+                17303,
+                9201,
+                2979,
+                3066,
+                85,
+                1166,
+                363,
+                4609,
+                271,
+                13,
+                50484
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -0.7988639978262094,
+            "compression_ratio": 0.813953488372093,
+            "no_speech_prob": 0.014976558275520802,
+            "words": [
+                {
+                    "word": " Psychologist",
+                    "start": 0.0,
+                    "end": 0.68,
+                    "probability": 0.6902707517147064
+                },
+                {
+                    "word": " study",
+                    "start": 0.68,
+                    "end": 1.12,
+                    "probability": 0.8845382928848267
+                },
+                {
+                    "word": " Covative",
+                    "start": 1.12,
+                    "end": 1.64,
+                    "probability": 0.2564336806535721
+                },
+                {
+                    "word": " Biasis.",
+                    "start": 1.64,
+                    "end": 2.36,
+                    "probability": 0.6811090658108393
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,74 @@
+{
+    "text": " She presented her research at the contention.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.34,
+            "text": " She presented her research at the contention.",
+            "tokens": [
+                50364,
+                1240,
+                8212,
+                720,
+                2132,
+                412,
+                264,
+                660,
+                1251,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3657605250676473,
+            "compression_ratio": 0.9375,
+            "no_speech_prob": 0.003294414607807994,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.7221364378929138
+                },
+                {
+                    "word": " presented",
+                    "start": 0.24,
+                    "end": 0.76,
+                    "probability": 0.9951035976409912
+                },
+                {
+                    "word": " her",
+                    "start": 0.76,
+                    "end": 0.98,
+                    "probability": 0.9933813810348511
+                },
+                {
+                    "word": " research",
+                    "start": 0.98,
+                    "end": 1.38,
+                    "probability": 0.993120551109314
+                },
+                {
+                    "word": " at",
+                    "start": 1.38,
+                    "end": 1.64,
+                    "probability": 0.8917811512947083
+                },
+                {
+                    "word": " the",
+                    "start": 1.64,
+                    "end": 1.72,
+                    "probability": 0.9859806299209595
+                },
+                {
+                    "word": " contention.",
+                    "start": 1.72,
+                    "end": 2.34,
+                    "probability": 0.9660777151584625
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,125 @@
+{
+    "text": " I'm sorry, but I don't think I can make it to the party tonight.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.58,
+            "text": " I'm sorry, but I don't think I can make it to the party tonight.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                2597,
+                11,
+                457,
+                286,
+                500,
+                380,
+                519,
+                286,
+                393,
+                652,
+                309,
+                281,
+                264,
+                3595,
+                4440,
+                13,
+                50654
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25132129305884954,
+            "compression_ratio": 0.9552238805970149,
+            "no_speech_prob": 0.027718033641576767,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.8694249987602234
+                },
+                {
+                    "word": " sorry,",
+                    "start": 0.18,
+                    "end": 0.42,
+                    "probability": 0.996682345867157
+                },
+                {
+                    "word": " but",
+                    "start": 0.68,
+                    "end": 0.74,
+                    "probability": 0.975018322467804
+                },
+                {
+                    "word": " I",
+                    "start": 0.74,
+                    "end": 0.86,
+                    "probability": 0.9854031801223755
+                },
+                {
+                    "word": " don't",
+                    "start": 0.86,
+                    "end": 1.1,
+                    "probability": 0.9974637925624847
+                },
+                {
+                    "word": " think",
+                    "start": 1.1,
+                    "end": 1.24,
+                    "probability": 0.9968997240066528
+                },
+                {
+                    "word": " I",
+                    "start": 1.24,
+                    "end": 1.4,
+                    "probability": 0.9860125184059143
+                },
+                {
+                    "word": " can",
+                    "start": 1.4,
+                    "end": 1.56,
+                    "probability": 0.9968962669372559
+                },
+                {
+                    "word": " make",
+                    "start": 1.56,
+                    "end": 1.72,
+                    "probability": 0.9963027238845825
+                },
+                {
+                    "word": " it",
+                    "start": 1.72,
+                    "end": 1.92,
+                    "probability": 0.9872848391532898
+                },
+                {
+                    "word": " to",
+                    "start": 1.92,
+                    "end": 2.08,
+                    "probability": 0.7812753915786743
+                },
+                {
+                    "word": " the",
+                    "start": 2.08,
+                    "end": 3.54,
+                    "probability": 0.5407630801200867
+                },
+                {
+                    "word": " party",
+                    "start": 3.54,
+                    "end": 5.22,
+                    "probability": 0.9876046180725098
+                },
+                {
+                    "word": " tonight.",
+                    "start": 5.22,
+                    "end": 5.58,
+                    "probability": 0.9943414926528931
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

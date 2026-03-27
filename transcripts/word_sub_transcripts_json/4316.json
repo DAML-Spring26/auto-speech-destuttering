@@ -1,0 +1,59 @@
+{
+    "text": " the committee accepted the changes.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.76,
+            "text": " the committee accepted the changes.",
+            "tokens": [
+                50364,
+                264,
+                7482,
+                9035,
+                264,
+                2962,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4523286819458008,
+            "compression_ratio": 0.8536585365853658,
+            "no_speech_prob": 0.013964277692139149,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5736085176467896
+                },
+                {
+                    "word": " committee",
+                    "start": 0.14,
+                    "end": 0.5,
+                    "probability": 0.8827988505363464
+                },
+                {
+                    "word": " accepted",
+                    "start": 0.5,
+                    "end": 1.06,
+                    "probability": 0.9164273738861084
+                },
+                {
+                    "word": " the",
+                    "start": 1.06,
+                    "end": 1.26,
+                    "probability": 0.991686999797821
+                },
+                {
+                    "word": " changes.",
+                    "start": 1.26,
+                    "end": 1.76,
+                    "probability": 0.9939873218536377
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

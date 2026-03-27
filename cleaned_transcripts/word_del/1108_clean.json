@@ -1,12 +1,12 @@
 {
-    "text": " The new policy implemented by the management last month.",
+    "text": " The new policy implemented by the manager.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 2.92,
-            "text": " The new policy implemented by the management last month.",
+            "end": 2.24,
+            "text": " The new policy implemented by the manager.",
             "tokens": [
                 50364,
                 440,
@@ -15,16 +15,14 @@
                 12270,
                 538,
                 264,
-                4592,
-                1036,
-                1618,
+                6598,
                 13,
-                50510
+                50476
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.3234846041752742,
-            "compression_ratio": 0.9491525423728814,
-            "no_speech_prob": 0.01102755218744278
+            "avg_logprob": -0.513757662339644,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.037248555570840836
         }
     ],
     "language": "en"

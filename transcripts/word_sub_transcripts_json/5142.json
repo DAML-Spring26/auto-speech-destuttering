@@ -1,0 +1,80 @@
+{
+    "text": " The customer service representative resolved the tissue promptly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.3,
+            "text": " The customer service representative resolved the tissue promptly.",
+            "tokens": [
+                50364,
+                440,
+                5474,
+                2643,
+                12424,
+                20772,
+                264,
+                12404,
+                48594,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4515567620595296,
+            "compression_ratio": 0.9701492537313433,
+            "no_speech_prob": 0.028781211003661156,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.98,
+                    "probability": 0.9076336622238159
+                },
+                {
+                    "word": " customer",
+                    "start": 0.98,
+                    "end": 1.42,
+                    "probability": 0.8382718563079834
+                },
+                {
+                    "word": " service",
+                    "start": 1.42,
+                    "end": 1.9,
+                    "probability": 0.9953523874282837
+                },
+                {
+                    "word": " representative",
+                    "start": 1.9,
+                    "end": 2.78,
+                    "probability": 0.9541483521461487
+                },
+                {
+                    "word": " resolved",
+                    "start": 2.78,
+                    "end": 3.28,
+                    "probability": 0.8776490092277527
+                },
+                {
+                    "word": " the",
+                    "start": 3.28,
+                    "end": 3.52,
+                    "probability": 0.5127230286598206
+                },
+                {
+                    "word": " tissue",
+                    "start": 3.52,
+                    "end": 3.78,
+                    "probability": 0.9086143970489502
+                },
+                {
+                    "word": " promptly.",
+                    "start": 3.78,
+                    "end": 4.3,
+                    "probability": 0.9937326312065125
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

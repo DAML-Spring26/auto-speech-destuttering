@@ -1,0 +1,88 @@
+{
+    "text": " The scientist analyzed the molecular rupture of the compound.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.46,
+            "text": " The scientist analyzed the molecular rupture of the compound.",
+            "tokens": [
+                50364,
+                440,
+                12662,
+                28181,
+                264,
+                19046,
+                5420,
+                35603,
+                295,
+                264,
+                14154,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40515078817095074,
+            "compression_ratio": 0.953125,
+            "no_speech_prob": 0.0039807893335819244,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6687746644020081
+                },
+                {
+                    "word": " scientist",
+                    "start": 0.1,
+                    "end": 0.5,
+                    "probability": 0.5512261986732483
+                },
+                {
+                    "word": " analyzed",
+                    "start": 0.5,
+                    "end": 1.02,
+                    "probability": 0.3639427125453949
+                },
+                {
+                    "word": " the",
+                    "start": 1.02,
+                    "end": 1.26,
+                    "probability": 0.9757851362228394
+                },
+                {
+                    "word": " molecular",
+                    "start": 1.26,
+                    "end": 1.56,
+                    "probability": 0.9958093166351318
+                },
+                {
+                    "word": " rupture",
+                    "start": 1.56,
+                    "end": 1.96,
+                    "probability": 0.9748747050762177
+                },
+                {
+                    "word": " of",
+                    "start": 1.96,
+                    "end": 2.06,
+                    "probability": 0.9897342920303345
+                },
+                {
+                    "word": " the",
+                    "start": 2.06,
+                    "end": 2.12,
+                    "probability": 0.9891975522041321
+                },
+                {
+                    "word": " compound.",
+                    "start": 2.12,
+                    "end": 2.46,
+                    "probability": 0.9929319620132446
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

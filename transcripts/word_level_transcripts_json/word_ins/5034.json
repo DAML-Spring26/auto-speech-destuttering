@@ -1,0 +1,81 @@
+{
+    "text": " Mom, can you help me with my homework?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.6199999999999999,
+            "end": 2.5,
+            "text": " Mom, can you help me with my homework?",
+            "tokens": [
+                50364,
+                5576,
+                11,
+                393,
+                291,
+                854,
+                385,
+                365,
+                452,
+                14578,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3859308682955228,
+            "compression_ratio": 0.8260869565217391,
+            "no_speech_prob": 0.3740251362323761,
+            "words": [
+                {
+                    "word": " Mom,",
+                    "start": 0.6199999999999999,
+                    "end": 1.0,
+                    "probability": 0.6469661593437195
+                },
+                {
+                    "word": " can",
+                    "start": 1.16,
+                    "end": 1.26,
+                    "probability": 0.9837648272514343
+                },
+                {
+                    "word": " you",
+                    "start": 1.26,
+                    "end": 1.4,
+                    "probability": 0.9977155923843384
+                },
+                {
+                    "word": " help",
+                    "start": 1.4,
+                    "end": 1.6,
+                    "probability": 0.9980754852294922
+                },
+                {
+                    "word": " me",
+                    "start": 1.6,
+                    "end": 1.78,
+                    "probability": 0.9668406248092651
+                },
+                {
+                    "word": " with",
+                    "start": 1.78,
+                    "end": 1.94,
+                    "probability": 0.9964259266853333
+                },
+                {
+                    "word": " my",
+                    "start": 1.94,
+                    "end": 2.14,
+                    "probability": 0.9978747367858887
+                },
+                {
+                    "word": " homework?",
+                    "start": 2.14,
+                    "end": 2.5,
+                    "probability": 0.9936791062355042
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

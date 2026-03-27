@@ -1,0 +1,66 @@
+{
+    "text": " they will construct for the research.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.66,
+            "text": " they will construct for the research.",
+            "tokens": [
+                50364,
+                436,
+                486,
+                7690,
+                337,
+                264,
+                2132,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30406479835510253,
+            "compression_ratio": 0.8222222222222222,
+            "no_speech_prob": 0.008382565341889858,
+            "words": [
+                {
+                    "word": " they",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.5499936938285828
+                },
+                {
+                    "word": " will",
+                    "start": 0.18,
+                    "end": 0.3,
+                    "probability": 0.9819229245185852
+                },
+                {
+                    "word": " construct",
+                    "start": 0.3,
+                    "end": 0.76,
+                    "probability": 0.9761492609977722
+                },
+                {
+                    "word": " for",
+                    "start": 0.76,
+                    "end": 1.04,
+                    "probability": 0.7402446269989014
+                },
+                {
+                    "word": " the",
+                    "start": 1.04,
+                    "end": 1.18,
+                    "probability": 0.9888689517974854
+                },
+                {
+                    "word": " research.",
+                    "start": 1.18,
+                    "end": 1.66,
+                    "probability": 0.9881651401519775
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

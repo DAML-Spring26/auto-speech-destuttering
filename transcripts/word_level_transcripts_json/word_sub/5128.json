@@ -1,0 +1,80 @@
+{
+    "text": " if the experiment succeeds will punish the results.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.88,
+            "text": " if the experiment succeeds will punish the results.",
+            "tokens": [
+                50364,
+                498,
+                264,
+                5120,
+                49263,
+                486,
+                9842,
+                264,
+                3542,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.442947785059611,
+            "compression_ratio": 0.9107142857142857,
+            "no_speech_prob": 0.006340549793094397,
+            "words": [
+                {
+                    "word": " if",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.48952990770339966
+                },
+                {
+                    "word": " the",
+                    "start": 0.22,
+                    "end": 0.34,
+                    "probability": 0.982783317565918
+                },
+                {
+                    "word": " experiment",
+                    "start": 0.34,
+                    "end": 0.78,
+                    "probability": 0.8596978187561035
+                },
+                {
+                    "word": " succeeds",
+                    "start": 0.78,
+                    "end": 1.3,
+                    "probability": 0.995933473110199
+                },
+                {
+                    "word": " will",
+                    "start": 1.3,
+                    "end": 2.0,
+                    "probability": 0.4487325847148895
+                },
+                {
+                    "word": " punish",
+                    "start": 2.0,
+                    "end": 2.3,
+                    "probability": 0.9876204133033752
+                },
+                {
+                    "word": " the",
+                    "start": 2.3,
+                    "end": 2.48,
+                    "probability": 0.9882335662841797
+                },
+                {
+                    "word": " results.",
+                    "start": 2.48,
+                    "end": 2.88,
+                    "probability": 0.934945821762085
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

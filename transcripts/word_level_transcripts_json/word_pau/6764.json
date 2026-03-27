@@ -1,0 +1,121 @@
+{
+    "text": " We sincerely regret any inconvenience this may of... Of course, Jill.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.22,
+            "text": " We sincerely regret any inconvenience this may of...",
+            "tokens": [
+                50364,
+                492,
+                30694,
+                10879,
+                604,
+                28752,
+                1182,
+                341,
+                815,
+                295,
+                485,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6397016048431396,
+            "compression_ratio": 0.9583333333333334,
+            "no_speech_prob": 0.016063187271356583,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.5615209341049194
+                },
+                {
+                    "word": " sincerely",
+                    "start": 0.16,
+                    "end": 0.62,
+                    "probability": 0.9916303753852844
+                },
+                {
+                    "word": " regret",
+                    "start": 0.62,
+                    "end": 1.0,
+                    "probability": 0.9974138736724854
+                },
+                {
+                    "word": " any",
+                    "start": 1.0,
+                    "end": 1.34,
+                    "probability": 0.9597470760345459
+                },
+                {
+                    "word": " inconvenience",
+                    "start": 1.34,
+                    "end": 2.1,
+                    "probability": 0.9691842794418335
+                },
+                {
+                    "word": " this",
+                    "start": 2.1,
+                    "end": 2.32,
+                    "probability": 0.945510745048523
+                },
+                {
+                    "word": " may",
+                    "start": 2.32,
+                    "end": 2.58,
+                    "probability": 0.791736364364624
+                },
+                {
+                    "word": " of...",
+                    "start": 2.58,
+                    "end": 3.22,
+                    "probability": 0.46716128289699554
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.88,
+            "end": 6.68,
+            "text": " Of course, Jill.",
+            "tokens": [
+                50658,
+                2720,
+                1164,
+                11,
+                24690,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6397016048431396,
+            "compression_ratio": 0.9583333333333334,
+            "no_speech_prob": 0.016063187271356583,
+            "words": [
+                {
+                    "word": " Of",
+                    "start": 5.68,
+                    "end": 6.02,
+                    "probability": 0.32231324911117554
+                },
+                {
+                    "word": " course,",
+                    "start": 6.02,
+                    "end": 6.32,
+                    "probability": 0.8147088885307312
+                },
+                {
+                    "word": " Jill.",
+                    "start": 6.56,
+                    "end": 6.68,
+                    "probability": 0.6222894787788391
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

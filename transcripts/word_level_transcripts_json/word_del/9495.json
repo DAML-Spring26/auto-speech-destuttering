@@ -1,0 +1,123 @@
+{
+    "text": " The doctor will be with you shortly. Have you filled all the necessary forms?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.82,
+            "text": " The doctor will be with you shortly. Have you filled all the necessary forms?",
+            "tokens": [
+                50364,
+                440,
+                4631,
+                486,
+                312,
+                365,
+                291,
+                13392,
+                13,
+                3560,
+                291,
+                6412,
+                439,
+                264,
+                4818,
+                6422,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20964788135729337,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.01676018349826336,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7284063100814819
+                },
+                {
+                    "word": " doctor",
+                    "start": 0.12,
+                    "end": 0.42,
+                    "probability": 0.9683670997619629
+                },
+                {
+                    "word": " will",
+                    "start": 0.42,
+                    "end": 0.62,
+                    "probability": 0.9974531531333923
+                },
+                {
+                    "word": " be",
+                    "start": 0.62,
+                    "end": 0.76,
+                    "probability": 0.9959459900856018
+                },
+                {
+                    "word": " with",
+                    "start": 0.76,
+                    "end": 0.94,
+                    "probability": 0.9981010556221008
+                },
+                {
+                    "word": " you",
+                    "start": 0.94,
+                    "end": 1.06,
+                    "probability": 0.9956657290458679
+                },
+                {
+                    "word": " shortly.",
+                    "start": 1.06,
+                    "end": 1.42,
+                    "probability": 0.9984524250030518
+                },
+                {
+                    "word": " Have",
+                    "start": 1.96,
+                    "end": 2.08,
+                    "probability": 0.9945935606956482
+                },
+                {
+                    "word": " you",
+                    "start": 2.08,
+                    "end": 2.22,
+                    "probability": 0.9979487061500549
+                },
+                {
+                    "word": " filled",
+                    "start": 2.22,
+                    "end": 2.46,
+                    "probability": 0.9466069936752319
+                },
+                {
+                    "word": " all",
+                    "start": 2.46,
+                    "end": 2.7,
+                    "probability": 0.9952051639556885
+                },
+                {
+                    "word": " the",
+                    "start": 2.7,
+                    "end": 2.86,
+                    "probability": 0.9711465835571289
+                },
+                {
+                    "word": " necessary",
+                    "start": 2.86,
+                    "end": 3.24,
+                    "probability": 0.9976804256439209
+                },
+                {
+                    "word": " forms?",
+                    "start": 3.24,
+                    "end": 3.82,
+                    "probability": 0.9909265041351318
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

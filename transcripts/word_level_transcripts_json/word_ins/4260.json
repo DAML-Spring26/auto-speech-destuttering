@@ -1,0 +1,81 @@
+{
+    "text": " We need to schedule a follow-up appointment.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.7200000000000002,
+            "end": 4.62,
+            "text": " We need to schedule a follow-up appointment.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                7567,
+                257,
+                1524,
+                12,
+                1010,
+                13653,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38346158541165865,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.20173309743404388,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.7200000000000002,
+                    "end": 1.44,
+                    "probability": 0.717710018157959
+                },
+                {
+                    "word": " need",
+                    "start": 1.44,
+                    "end": 1.72,
+                    "probability": 0.9929729700088501
+                },
+                {
+                    "word": " to",
+                    "start": 1.72,
+                    "end": 1.94,
+                    "probability": 0.9956300258636475
+                },
+                {
+                    "word": " schedule",
+                    "start": 1.94,
+                    "end": 2.3,
+                    "probability": 0.9877075552940369
+                },
+                {
+                    "word": " a",
+                    "start": 2.3,
+                    "end": 2.52,
+                    "probability": 0.9729242324829102
+                },
+                {
+                    "word": " follow",
+                    "start": 2.52,
+                    "end": 2.84,
+                    "probability": 0.9125787019729614
+                },
+                {
+                    "word": "-up",
+                    "start": 2.84,
+                    "end": 3.3,
+                    "probability": 0.7992712557315826
+                },
+                {
+                    "word": " appointment.",
+                    "start": 3.3,
+                    "end": 4.62,
+                    "probability": 0.9008591175079346
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

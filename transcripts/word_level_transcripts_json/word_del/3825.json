@@ -1,0 +1,140 @@
+{
+    "text": " We should arrive at the airport at least three hours our international flight departs.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.78,
+            "text": " We should arrive at the airport at least three hours",
+            "tokens": [
+                50364,
+                492,
+                820,
+                8881,
+                412,
+                264,
+                10155,
+                412,
+                1935,
+                1045,
+                2496,
+                50510
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3373781612941197,
+            "compression_ratio": 1.1466666666666667,
+            "no_speech_prob": 0.0036630709655582905,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.593845546245575
+                },
+                {
+                    "word": " should",
+                    "start": 0.12,
+                    "end": 0.34,
+                    "probability": 0.997271716594696
+                },
+                {
+                    "word": " arrive",
+                    "start": 0.34,
+                    "end": 0.74,
+                    "probability": 0.9965158700942993
+                },
+                {
+                    "word": " at",
+                    "start": 0.74,
+                    "end": 1.04,
+                    "probability": 0.9938832521438599
+                },
+                {
+                    "word": " the",
+                    "start": 1.04,
+                    "end": 1.16,
+                    "probability": 0.9934136271476746
+                },
+                {
+                    "word": " airport",
+                    "start": 1.16,
+                    "end": 1.54,
+                    "probability": 0.9732898473739624
+                },
+                {
+                    "word": " at",
+                    "start": 1.54,
+                    "end": 1.9,
+                    "probability": 0.8494430184364319
+                },
+                {
+                    "word": " least",
+                    "start": 1.9,
+                    "end": 2.08,
+                    "probability": 0.9862716197967529
+                },
+                {
+                    "word": " three",
+                    "start": 2.08,
+                    "end": 2.44,
+                    "probability": 0.5479363799095154
+                },
+                {
+                    "word": " hours",
+                    "start": 2.44,
+                    "end": 2.78,
+                    "probability": 0.9971151351928711
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.78,
+            "end": 4.88,
+            "text": " our international flight departs.",
+            "tokens": [
+                50510,
+                527,
+                5058,
+                7018,
+                9110,
+                82,
+                13,
+                50620
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3373781612941197,
+            "compression_ratio": 1.1466666666666667,
+            "no_speech_prob": 0.0036630709655582905,
+            "words": [
+                {
+                    "word": " our",
+                    "start": 2.78,
+                    "end": 3.06,
+                    "probability": 0.7711479663848877
+                },
+                {
+                    "word": " international",
+                    "start": 3.06,
+                    "end": 3.8,
+                    "probability": 0.7610824108123779
+                },
+                {
+                    "word": " flight",
+                    "start": 3.8,
+                    "end": 4.14,
+                    "probability": 0.9968903660774231
+                },
+                {
+                    "word": " departs.",
+                    "start": 4.14,
+                    "end": 4.88,
+                    "probability": 0.9118666350841522
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

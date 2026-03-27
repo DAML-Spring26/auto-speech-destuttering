@@ -1,0 +1,59 @@
+{
+    "text": " The investment showed promising concerns.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.16,
+            "text": " The investment showed promising concerns.",
+            "tokens": [
+                50364,
+                440,
+                6078,
+                4712,
+                20257,
+                7389,
+                13,
+                50491
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5717737939622667,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.0020602678414434195,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7069177627563477
+                },
+                {
+                    "word": " investment",
+                    "start": 0.12,
+                    "end": 0.56,
+                    "probability": 0.7006646394729614
+                },
+                {
+                    "word": " showed",
+                    "start": 0.56,
+                    "end": 0.96,
+                    "probability": 0.9788051843643188
+                },
+                {
+                    "word": " promising",
+                    "start": 0.96,
+                    "end": 1.46,
+                    "probability": 0.5958492159843445
+                },
+                {
+                    "word": " concerns.",
+                    "start": 1.46,
+                    "end": 2.16,
+                    "probability": 0.9805479049682617
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

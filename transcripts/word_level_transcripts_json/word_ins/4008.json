@@ -1,0 +1,66 @@
+{
+    "text": " Thank you for choosing our services.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.82,
+            "text": " Thank you for choosing our services.",
+            "tokens": [
+                50364,
+                1044,
+                291,
+                337,
+                10875,
+                527,
+                3328,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31729717254638673,
+            "compression_ratio": 0.8181818181818182,
+            "no_speech_prob": 0.004124192055314779,
+            "words": [
+                {
+                    "word": " Thank",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.8918341398239136
+                },
+                {
+                    "word": " you",
+                    "start": 0.44,
+                    "end": 0.6,
+                    "probability": 0.9800636768341064
+                },
+                {
+                    "word": " for",
+                    "start": 0.6,
+                    "end": 0.74,
+                    "probability": 0.9967719912528992
+                },
+                {
+                    "word": " choosing",
+                    "start": 0.74,
+                    "end": 1.1,
+                    "probability": 0.9755708575248718
+                },
+                {
+                    "word": " our",
+                    "start": 1.1,
+                    "end": 1.36,
+                    "probability": 0.9795709848403931
+                },
+                {
+                    "word": " services.",
+                    "start": 1.36,
+                    "end": 1.82,
+                    "probability": 0.9585995674133301
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

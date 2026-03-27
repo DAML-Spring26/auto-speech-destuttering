@@ -1,49 +1,45 @@
 {
-    "text": " Would you like to add a side? Salute to your order.",
+    "text": " We add a side. Salute your order.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 4.44,
-            "text": " Would you like to add a side?",
+            "end": 3.84,
+            "text": " We add a side.",
             "tokens": [
                 50364,
-                6068,
-                291,
-                411,
-                281,
+                492,
                 909,
                 257,
                 1252,
-                30,
-                50586
+                13,
+                50556
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.4910110674406353,
-            "compression_ratio": 0.9272727272727272,
-            "no_speech_prob": 0.005042141769081354
+            "avg_logprob": -0.7229180653889974,
+            "compression_ratio": 0.8048780487804879,
+            "no_speech_prob": 0.010749449953436852
         },
         {
             "id": 1,
             "seek": 0,
-            "start": 4.44,
-            "end": 5.44,
-            "text": " Salute to your order.",
+            "start": 3.84,
+            "end": 4.84,
+            "text": " Salute your order.",
             "tokens": [
-                50586,
+                50556,
                 5996,
                 1169,
-                281,
                 428,
                 1668,
                 13,
-                50636
+                50606
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.4910110674406353,
-            "compression_ratio": 0.9272727272727272,
-            "no_speech_prob": 0.005042141769081354
+            "avg_logprob": -0.7229180653889974,
+            "compression_ratio": 0.8048780487804879,
+            "no_speech_prob": 0.010749449953436852
         }
     ],
     "language": "en"

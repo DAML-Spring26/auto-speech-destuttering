@@ -1,0 +1,59 @@
+{
+    "text": " The department improved its performance.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.9,
+            "text": " The department improved its performance.",
+            "tokens": [
+                50364,
+                440,
+                5882,
+                9689,
+                1080,
+                3389,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.46766302320692277,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.005186121910810471,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5287556052207947
+                },
+                {
+                    "word": " department",
+                    "start": 0.12,
+                    "end": 0.62,
+                    "probability": 0.9012488722801208
+                },
+                {
+                    "word": " improved",
+                    "start": 0.62,
+                    "end": 1.16,
+                    "probability": 0.9279151558876038
+                },
+                {
+                    "word": " its",
+                    "start": 1.16,
+                    "end": 1.4,
+                    "probability": 0.8803995251655579
+                },
+                {
+                    "word": " performance.",
+                    "start": 1.4,
+                    "end": 1.9,
+                    "probability": 0.9952758550643921
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

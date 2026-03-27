@@ -1,0 +1,120 @@
+{
+    "text": " Anyone know a good place for her? Sushi in the city.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.22,
+            "text": " Anyone know a good place for her?",
+            "tokens": [
+                50364,
+                14643,
+                458,
+                257,
+                665,
+                1081,
+                337,
+                720,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5765592675460013,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.00700085423886776,
+            "words": [
+                {
+                    "word": " Anyone",
+                    "start": 0.0,
+                    "end": 0.52,
+                    "probability": 0.6501120924949646
+                },
+                {
+                    "word": " know",
+                    "start": 0.52,
+                    "end": 0.82,
+                    "probability": 0.9865046143531799
+                },
+                {
+                    "word": " a",
+                    "start": 0.82,
+                    "end": 1.06,
+                    "probability": 0.9861254096031189
+                },
+                {
+                    "word": " good",
+                    "start": 1.06,
+                    "end": 1.18,
+                    "probability": 0.9980279803276062
+                },
+                {
+                    "word": " place",
+                    "start": 1.18,
+                    "end": 1.52,
+                    "probability": 0.9993465542793274
+                },
+                {
+                    "word": " for",
+                    "start": 1.52,
+                    "end": 1.9,
+                    "probability": 0.9964904189109802
+                },
+                {
+                    "word": " her?",
+                    "start": 1.9,
+                    "end": 2.22,
+                    "probability": 0.6503721475601196
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.38,
+            "end": 6.8,
+            "text": " Sushi in the city.",
+            "tokens": [
+                50644,
+                318,
+                16880,
+                294,
+                264,
+                2307,
+                13,
+                50744
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5765592675460013,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.00700085423886776,
+            "words": [
+                {
+                    "word": " Sushi",
+                    "start": 5.38,
+                    "end": 6.06,
+                    "probability": 0.5617137402296066
+                },
+                {
+                    "word": " in",
+                    "start": 6.06,
+                    "end": 6.28,
+                    "probability": 0.952093780040741
+                },
+                {
+                    "word": " the",
+                    "start": 6.28,
+                    "end": 6.4,
+                    "probability": 0.9943751096725464
+                },
+                {
+                    "word": " city.",
+                    "start": 6.4,
+                    "end": 6.8,
+                    "probability": 0.8541831374168396
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

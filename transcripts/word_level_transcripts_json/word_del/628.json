@@ -1,0 +1,102 @@
+{
+    "text": " Book I'm reading is really interesting and hard to put down.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.94,
+            "text": " Book I'm reading is really interesting and hard to put down.",
+            "tokens": [
+                50364,
+                9476,
+                286,
+                478,
+                3760,
+                307,
+                534,
+                1880,
+                293,
+                1152,
+                281,
+                829,
+                760,
+                13,
+                50520
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3514789640903473,
+            "compression_ratio": 0.9523809523809523,
+            "no_speech_prob": 0.0030024093575775623,
+            "words": [
+                {
+                    "word": " Book",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.7500588297843933
+                },
+                {
+                    "word": " I'm",
+                    "start": 0.2,
+                    "end": 0.48,
+                    "probability": 0.5347532033920288
+                },
+                {
+                    "word": " reading",
+                    "start": 0.48,
+                    "end": 0.66,
+                    "probability": 0.8370352387428284
+                },
+                {
+                    "word": " is",
+                    "start": 0.66,
+                    "end": 0.92,
+                    "probability": 0.9915034770965576
+                },
+                {
+                    "word": " really",
+                    "start": 0.92,
+                    "end": 1.18,
+                    "probability": 0.9925314784049988
+                },
+                {
+                    "word": " interesting",
+                    "start": 1.18,
+                    "end": 1.84,
+                    "probability": 0.9944188594818115
+                },
+                {
+                    "word": " and",
+                    "start": 1.84,
+                    "end": 2.12,
+                    "probability": 0.9323329329490662
+                },
+                {
+                    "word": " hard",
+                    "start": 2.12,
+                    "end": 2.32,
+                    "probability": 0.9931582808494568
+                },
+                {
+                    "word": " to",
+                    "start": 2.32,
+                    "end": 2.5,
+                    "probability": 0.9952461123466492
+                },
+                {
+                    "word": " put",
+                    "start": 2.5,
+                    "end": 2.66,
+                    "probability": 0.9975205063819885
+                },
+                {
+                    "word": " down.",
+                    "start": 2.66,
+                    "end": 2.94,
+                    "probability": 0.9935186505317688
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

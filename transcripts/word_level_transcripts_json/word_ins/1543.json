@@ -1,0 +1,101 @@
+{
+    "text": " We need to schedule a meeting with the client next week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.04,
+            "text": " We need to schedule a meeting with the client next week.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                7567,
+                257,
+                3440,
+                365,
+                264,
+                6423,
+                958,
+                1243,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25186406771341957,
+            "compression_ratio": 0.9333333333333333,
+            "no_speech_prob": 0.031197961419820786,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.62,
+                    "probability": 0.8667733073234558
+                },
+                {
+                    "word": " need",
+                    "start": 0.62,
+                    "end": 0.76,
+                    "probability": 0.9981916546821594
+                },
+                {
+                    "word": " to",
+                    "start": 0.76,
+                    "end": 0.94,
+                    "probability": 0.9956933856010437
+                },
+                {
+                    "word": " schedule",
+                    "start": 0.94,
+                    "end": 1.38,
+                    "probability": 0.9991098046302795
+                },
+                {
+                    "word": " a",
+                    "start": 1.38,
+                    "end": 1.98,
+                    "probability": 0.9364448189735413
+                },
+                {
+                    "word": " meeting",
+                    "start": 1.98,
+                    "end": 2.66,
+                    "probability": 0.9444262981414795
+                },
+                {
+                    "word": " with",
+                    "start": 2.66,
+                    "end": 2.92,
+                    "probability": 0.9973811507225037
+                },
+                {
+                    "word": " the",
+                    "start": 2.92,
+                    "end": 3.02,
+                    "probability": 0.8905514478683472
+                },
+                {
+                    "word": " client",
+                    "start": 3.02,
+                    "end": 3.38,
+                    "probability": 0.9878585338592529
+                },
+                {
+                    "word": " next",
+                    "start": 3.38,
+                    "end": 3.76,
+                    "probability": 0.9976958632469177
+                },
+                {
+                    "word": " week.",
+                    "start": 3.76,
+                    "end": 4.04,
+                    "probability": 0.9983251690864563
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

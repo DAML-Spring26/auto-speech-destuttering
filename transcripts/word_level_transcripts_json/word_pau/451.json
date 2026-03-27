@@ -1,0 +1,122 @@
+{
+    "text": " Honey, have you seen? My glasses anywhere, I can't find them.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.06,
+            "text": " Honey, have you seen?",
+            "tokens": [
+                50364,
+                16187,
+                11,
+                362,
+                291,
+                1612,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5106981822422573,
+            "compression_ratio": 0.8840579710144928,
+            "no_speech_prob": 0.009918980300426483,
+            "words": [
+                {
+                    "word": " Honey,",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.8283811211585999
+                },
+                {
+                    "word": " have",
+                    "start": 0.6,
+                    "end": 0.68,
+                    "probability": 0.9611080884933472
+                },
+                {
+                    "word": " you",
+                    "start": 0.68,
+                    "end": 0.8,
+                    "probability": 0.9860088229179382
+                },
+                {
+                    "word": " seen?",
+                    "start": 0.8,
+                    "end": 1.06,
+                    "probability": 0.9979802966117859
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.08,
+            "end": 7.0,
+            "text": " My glasses anywhere, I can't find them.",
+            "tokens": [
+                50590,
+                1222,
+                10812,
+                4992,
+                11,
+                286,
+                393,
+                380,
+                915,
+                552,
+                13,
+                50740
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5106981822422573,
+            "compression_ratio": 0.8840579710144928,
+            "no_speech_prob": 0.009918980300426483,
+            "words": [
+                {
+                    "word": " My",
+                    "start": 4.08,
+                    "end": 4.72,
+                    "probability": 0.9499059319496155
+                },
+                {
+                    "word": " glasses",
+                    "start": 4.72,
+                    "end": 5.14,
+                    "probability": 0.8200777173042297
+                },
+                {
+                    "word": " anywhere,",
+                    "start": 5.14,
+                    "end": 5.64,
+                    "probability": 0.599138081073761
+                },
+                {
+                    "word": " I",
+                    "start": 5.92,
+                    "end": 6.0,
+                    "probability": 0.9812435507774353
+                },
+                {
+                    "word": " can't",
+                    "start": 6.0,
+                    "end": 6.32,
+                    "probability": 0.984552800655365
+                },
+                {
+                    "word": " find",
+                    "start": 6.32,
+                    "end": 6.68,
+                    "probability": 0.997546374797821
+                },
+                {
+                    "word": " them.",
+                    "start": 6.68,
+                    "end": 7.0,
+                    "probability": 0.9279178977012634
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

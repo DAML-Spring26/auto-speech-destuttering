@@ -1,0 +1,52 @@
+{
+    "text": " My cat sleeps here.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.72,
+            "text": " My cat sleeps here.",
+            "tokens": [
+                50364,
+                1222,
+                3857,
+                37991,
+                510,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.49437761306762695,
+            "compression_ratio": 0.7037037037037037,
+            "no_speech_prob": 0.007026879116892815,
+            "words": [
+                {
+                    "word": " My",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.4632123112678528
+                },
+                {
+                    "word": " cat",
+                    "start": 0.26,
+                    "end": 0.9,
+                    "probability": 0.8070381283760071
+                },
+                {
+                    "word": " sleeps",
+                    "start": 0.9,
+                    "end": 1.32,
+                    "probability": 0.7845785021781921
+                },
+                {
+                    "word": " here.",
+                    "start": 1.32,
+                    "end": 1.72,
+                    "probability": 0.9936037659645081
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

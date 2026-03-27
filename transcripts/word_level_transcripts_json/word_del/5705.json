@@ -1,0 +1,94 @@
+{
+    "text": " She spoke so softly I could barely hear her words.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.18,
+            "text": " She spoke so softly I could barely hear her words.",
+            "tokens": [
+                50364,
+                1240,
+                7179,
+                370,
+                30832,
+                286,
+                727,
+                10268,
+                1568,
+                720,
+                2283,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2939836638314383,
+            "compression_ratio": 0.9615384615384616,
+            "no_speech_prob": 0.004318675491958857,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.768133819103241
+                },
+                {
+                    "word": " spoke",
+                    "start": 0.2,
+                    "end": 0.56,
+                    "probability": 0.9832723140716553
+                },
+                {
+                    "word": " so",
+                    "start": 0.56,
+                    "end": 0.9,
+                    "probability": 0.9885421991348267
+                },
+                {
+                    "word": " softly",
+                    "start": 0.9,
+                    "end": 1.36,
+                    "probability": 0.9802001714706421
+                },
+                {
+                    "word": " I",
+                    "start": 1.36,
+                    "end": 1.7,
+                    "probability": 0.7565885782241821
+                },
+                {
+                    "word": " could",
+                    "start": 1.7,
+                    "end": 2.02,
+                    "probability": 0.974635660648346
+                },
+                {
+                    "word": " barely",
+                    "start": 2.02,
+                    "end": 2.46,
+                    "probability": 0.9989916682243347
+                },
+                {
+                    "word": " hear",
+                    "start": 2.46,
+                    "end": 2.7,
+                    "probability": 0.998801589012146
+                },
+                {
+                    "word": " her",
+                    "start": 2.7,
+                    "end": 2.88,
+                    "probability": 0.9984179735183716
+                },
+                {
+                    "word": " words.",
+                    "start": 2.88,
+                    "end": 3.18,
+                    "probability": 0.9692317843437195
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

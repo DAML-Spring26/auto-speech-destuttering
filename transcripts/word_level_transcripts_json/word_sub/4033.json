@@ -1,0 +1,74 @@
+{
+    "text": " We need to certify these calculations immediately.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.6,
+            "text": " We need to certify these calculations immediately.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                5351,
+                2505,
+                613,
+                20448,
+                4258,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31137824058532715,
+            "compression_ratio": 0.8620689655172413,
+            "no_speech_prob": 0.005781854037195444,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.5596208572387695
+                },
+                {
+                    "word": " need",
+                    "start": 0.2,
+                    "end": 0.34,
+                    "probability": 0.9968982934951782
+                },
+                {
+                    "word": " to",
+                    "start": 0.34,
+                    "end": 0.52,
+                    "probability": 0.998469889163971
+                },
+                {
+                    "word": " certify",
+                    "start": 0.52,
+                    "end": 1.08,
+                    "probability": 0.9848844408988953
+                },
+                {
+                    "word": " these",
+                    "start": 1.08,
+                    "end": 1.34,
+                    "probability": 0.9441124200820923
+                },
+                {
+                    "word": " calculations",
+                    "start": 1.34,
+                    "end": 1.94,
+                    "probability": 0.9943267703056335
+                },
+                {
+                    "word": " immediately.",
+                    "start": 1.94,
+                    "end": 2.6,
+                    "probability": 0.9919026494026184
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

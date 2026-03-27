@@ -1,0 +1,66 @@
+{
+    "text": " Company must comply with safety regulations.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.18,
+            "text": " Company must comply with safety regulations.",
+            "tokens": [
+                50364,
+                13918,
+                1633,
+                27956,
+                365,
+                4514,
+                12563,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.425887393951416,
+            "compression_ratio": 0.88,
+            "no_speech_prob": 0.010510061867535114,
+            "words": [
+                {
+                    "word": " Company",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.7428135275840759
+                },
+                {
+                    "word": " must",
+                    "start": 0.38,
+                    "end": 0.6,
+                    "probability": 0.9883260130882263
+                },
+                {
+                    "word": " comply",
+                    "start": 0.6,
+                    "end": 0.98,
+                    "probability": 0.9971760511398315
+                },
+                {
+                    "word": " with",
+                    "start": 0.98,
+                    "end": 1.18,
+                    "probability": 0.9985865354537964
+                },
+                {
+                    "word": " safety",
+                    "start": 1.18,
+                    "end": 1.6,
+                    "probability": 0.9734600782394409
+                },
+                {
+                    "word": " regulations.",
+                    "start": 1.6,
+                    "end": 2.18,
+                    "probability": 0.9965431094169617
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

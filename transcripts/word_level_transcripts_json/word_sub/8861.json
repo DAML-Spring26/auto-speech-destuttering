@@ -1,0 +1,59 @@
+{
+    "text": " They must regard all transactions.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.6,
+            "text": " They must regard all transactions.",
+            "tokens": [
+                50364,
+                814,
+                1633,
+                3843,
+                439,
+                16856,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36597299575805664,
+            "compression_ratio": 0.8095238095238095,
+            "no_speech_prob": 0.009419729001820087,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.638931155204773
+                },
+                {
+                    "word": " must",
+                    "start": 0.16,
+                    "end": 0.32,
+                    "probability": 0.99815434217453
+                },
+                {
+                    "word": " regard",
+                    "start": 0.32,
+                    "end": 0.66,
+                    "probability": 0.9716019034385681
+                },
+                {
+                    "word": " all",
+                    "start": 0.66,
+                    "end": 0.96,
+                    "probability": 0.9202350974082947
+                },
+                {
+                    "word": " transactions.",
+                    "start": 0.96,
+                    "end": 1.6,
+                    "probability": 0.9486165046691895
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,81 @@
+{
+    "text": " Let's go see that new action movie tonight.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.86,
+            "text": " Let's go see that new action movie tonight.",
+            "tokens": [
+                50364,
+                961,
+                311,
+                352,
+                536,
+                300,
+                777,
+                3069,
+                3169,
+                4440,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36553459901076096,
+            "compression_ratio": 0.86,
+            "no_speech_prob": 0.021528465673327446,
+            "words": [
+                {
+                    "word": " Let's",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.865585058927536
+                },
+                {
+                    "word": " go",
+                    "start": 0.36,
+                    "end": 0.48,
+                    "probability": 0.9657188057899475
+                },
+                {
+                    "word": " see",
+                    "start": 0.48,
+                    "end": 0.74,
+                    "probability": 0.9897528886795044
+                },
+                {
+                    "word": " that",
+                    "start": 0.74,
+                    "end": 0.98,
+                    "probability": 0.9801914691925049
+                },
+                {
+                    "word": " new",
+                    "start": 0.98,
+                    "end": 1.24,
+                    "probability": 0.9322499632835388
+                },
+                {
+                    "word": " action",
+                    "start": 1.24,
+                    "end": 4.1,
+                    "probability": 0.6233633756637573
+                },
+                {
+                    "word": " movie",
+                    "start": 4.1,
+                    "end": 4.48,
+                    "probability": 0.954980194568634
+                },
+                {
+                    "word": " tonight.",
+                    "start": 4.48,
+                    "end": 4.86,
+                    "probability": 0.9764344692230225
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

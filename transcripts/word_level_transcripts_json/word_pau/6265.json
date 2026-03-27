@@ -1,0 +1,87 @@
+{
+    "text": " Remember to pack someone clothes for the mountain hike.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.32,
+            "text": " Remember to pack someone clothes for the mountain hike.",
+            "tokens": [
+                50364,
+                5459,
+                281,
+                2844,
+                1580,
+                5534,
+                337,
+                264,
+                6937,
+                23282,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40973487267127406,
+            "compression_ratio": 0.9166666666666666,
+            "no_speech_prob": 0.003757149912416935,
+            "words": [
+                {
+                    "word": " Remember",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.8529488444328308
+                },
+                {
+                    "word": " to",
+                    "start": 0.44,
+                    "end": 0.68,
+                    "probability": 0.9972551465034485
+                },
+                {
+                    "word": " pack",
+                    "start": 0.68,
+                    "end": 0.92,
+                    "probability": 0.9558670520782471
+                },
+                {
+                    "word": " someone",
+                    "start": 0.92,
+                    "end": 1.42,
+                    "probability": 0.8108022809028625
+                },
+                {
+                    "word": " clothes",
+                    "start": 1.42,
+                    "end": 1.9,
+                    "probability": 0.5644661784172058
+                },
+                {
+                    "word": " for",
+                    "start": 1.9,
+                    "end": 2.26,
+                    "probability": 0.9897667765617371
+                },
+                {
+                    "word": " the",
+                    "start": 2.26,
+                    "end": 3.52,
+                    "probability": 0.7391483187675476
+                },
+                {
+                    "word": " mountain",
+                    "start": 3.52,
+                    "end": 3.86,
+                    "probability": 0.8105162978172302
+                },
+                {
+                    "word": " hike.",
+                    "start": 3.86,
+                    "end": 4.32,
+                    "probability": 0.984788179397583
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

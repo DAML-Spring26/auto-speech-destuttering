@@ -1,0 +1,109 @@
+{
+    "text": " The lecture was engaging that the students didn't want it to end.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.68,
+            "text": " The lecture was engaging that the students didn't want it to end.",
+            "tokens": [
+                50364,
+                440,
+                7991,
+                390,
+                11268,
+                300,
+                264,
+                1731,
+                994,
+                380,
+                528,
+                309,
+                281,
+                917,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22311791251687443,
+            "compression_ratio": 0.9701492537313433,
+            "no_speech_prob": 0.004698533099144697,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5940946936607361
+                },
+                {
+                    "word": " lecture",
+                    "start": 0.12,
+                    "end": 0.5,
+                    "probability": 0.9829015731811523
+                },
+                {
+                    "word": " was",
+                    "start": 0.5,
+                    "end": 0.8,
+                    "probability": 0.9958248138427734
+                },
+                {
+                    "word": " engaging",
+                    "start": 0.8,
+                    "end": 1.34,
+                    "probability": 0.9812679886817932
+                },
+                {
+                    "word": " that",
+                    "start": 1.34,
+                    "end": 1.6,
+                    "probability": 0.9582430124282837
+                },
+                {
+                    "word": " the",
+                    "start": 1.6,
+                    "end": 1.76,
+                    "probability": 0.9546055793762207
+                },
+                {
+                    "word": " students",
+                    "start": 1.76,
+                    "end": 2.16,
+                    "probability": 0.9867568016052246
+                },
+                {
+                    "word": " didn't",
+                    "start": 2.16,
+                    "end": 2.74,
+                    "probability": 0.9876270592212677
+                },
+                {
+                    "word": " want",
+                    "start": 2.74,
+                    "end": 2.92,
+                    "probability": 0.9919513463973999
+                },
+                {
+                    "word": " it",
+                    "start": 2.92,
+                    "end": 3.16,
+                    "probability": 0.9943125247955322
+                },
+                {
+                    "word": " to",
+                    "start": 3.16,
+                    "end": 3.36,
+                    "probability": 0.9946119785308838
+                },
+                {
+                    "word": " end.",
+                    "start": 3.36,
+                    "end": 3.68,
+                    "probability": 0.9993502497673035
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

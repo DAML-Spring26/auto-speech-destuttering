@@ -1,0 +1,109 @@
+{
+    "text": " The patient symptoms have significantly improved since, since starting the new medication.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.88,
+            "text": " The patient symptoms have significantly improved since, since starting the new medication.",
+            "tokens": [
+                50364,
+                440,
+                4537,
+                8332,
+                362,
+                10591,
+                9689,
+                1670,
+                11,
+                1670,
+                2891,
+                264,
+                777,
+                13851,
+                13,
+                50732
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29938896964578066,
+            "compression_ratio": 1.0975609756097562,
+            "no_speech_prob": 0.009439626708626747,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7660964727401733
+                },
+                {
+                    "word": " patient",
+                    "start": 0.14,
+                    "end": 0.66,
+                    "probability": 0.9006112217903137
+                },
+                {
+                    "word": " symptoms",
+                    "start": 0.66,
+                    "end": 1.42,
+                    "probability": 0.7286133170127869
+                },
+                {
+                    "word": " have",
+                    "start": 1.42,
+                    "end": 1.72,
+                    "probability": 0.9944879412651062
+                },
+                {
+                    "word": " significantly",
+                    "start": 1.72,
+                    "end": 2.62,
+                    "probability": 0.9980432987213135
+                },
+                {
+                    "word": " improved",
+                    "start": 2.62,
+                    "end": 3.5,
+                    "probability": 0.9940720200538635
+                },
+                {
+                    "word": " since,",
+                    "start": 3.5,
+                    "end": 4.3,
+                    "probability": 0.9969372749328613
+                },
+                {
+                    "word": " since",
+                    "start": 4.58,
+                    "end": 5.12,
+                    "probability": 0.9939019680023193
+                },
+                {
+                    "word": " starting",
+                    "start": 5.12,
+                    "end": 5.84,
+                    "probability": 0.9918767213821411
+                },
+                {
+                    "word": " the",
+                    "start": 5.84,
+                    "end": 6.1,
+                    "probability": 0.9921405911445618
+                },
+                {
+                    "word": " new",
+                    "start": 6.1,
+                    "end": 6.28,
+                    "probability": 0.9881346225738525
+                },
+                {
+                    "word": " medication.",
+                    "start": 6.28,
+                    "end": 6.88,
+                    "probability": 0.9918931722640991
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

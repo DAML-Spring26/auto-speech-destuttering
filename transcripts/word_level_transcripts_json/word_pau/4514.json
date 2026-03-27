@@ -1,0 +1,91 @@
+{
+    "text": " The package should arrive sometime. Next week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.34,
+            "text": " The package should arrive sometime.",
+            "tokens": [
+                50364,
+                440,
+                7372,
+                820,
+                8881,
+                15053,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5758374077933175,
+            "compression_ratio": 0.8846153846153846,
+            "no_speech_prob": 0.0026836905162781477,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6984173059463501
+                },
+                {
+                    "word": " package",
+                    "start": 0.14,
+                    "end": 0.42,
+                    "probability": 0.7794656157493591
+                },
+                {
+                    "word": " should",
+                    "start": 0.42,
+                    "end": 0.7,
+                    "probability": 0.9447938203811646
+                },
+                {
+                    "word": " arrive",
+                    "start": 0.7,
+                    "end": 0.9,
+                    "probability": 0.9725987911224365
+                },
+                {
+                    "word": " sometime.",
+                    "start": 0.9,
+                    "end": 1.34,
+                    "probability": 0.5245230793952942
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.800000000000001,
+            "end": 5.64,
+            "text": " Next week.",
+            "tokens": [
+                50614,
+                3087,
+                1243,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5758374077933175,
+            "compression_ratio": 0.8846153846153846,
+            "no_speech_prob": 0.0026836905162781477,
+            "words": [
+                {
+                    "word": " Next",
+                    "start": 4.800000000000001,
+                    "end": 5.36,
+                    "probability": 0.9503076672554016
+                },
+                {
+                    "word": " week.",
+                    "start": 5.36,
+                    "end": 5.64,
+                    "probability": 0.9854264259338379
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

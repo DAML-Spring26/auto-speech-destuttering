@@ -1,0 +1,174 @@
+{
+    "text": " Please call scotter. Stella, did you remember to call Thay Weller? Please call grandma for her birthday well.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.6399999999999992,
+            "end": 5.86,
+            "text": " Please call scotter. Stella, did you remember to call Thay Weller? Please call",
+            "tokens": [
+                50364,
+                2555,
+                818,
+                795,
+                310,
+                391,
+                13,
+                45073,
+                11,
+                630,
+                291,
+                1604,
+                281,
+                818,
+                334,
+                320,
+                1042,
+                260,
+                30,
+                2555,
+                818,
+                50658
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5124506488923104,
+            "compression_ratio": 1.1720430107526882,
+            "no_speech_prob": 0.3151428699493408,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.6399999999999992,
+                    "end": 1.1,
+                    "probability": 0.7205391526222229
+                },
+                {
+                    "word": " call",
+                    "start": 1.1,
+                    "end": 1.3,
+                    "probability": 0.913467526435852
+                },
+                {
+                    "word": " scotter.",
+                    "start": 1.3,
+                    "end": 1.88,
+                    "probability": 0.49568449209133786
+                },
+                {
+                    "word": " Stella,",
+                    "start": 2.44,
+                    "end": 2.9,
+                    "probability": 0.5449894070625305
+                },
+                {
+                    "word": " did",
+                    "start": 3.42,
+                    "end": 3.74,
+                    "probability": 0.9778730869293213
+                },
+                {
+                    "word": " you",
+                    "start": 3.74,
+                    "end": 3.84,
+                    "probability": 0.9981406927108765
+                },
+                {
+                    "word": " remember",
+                    "start": 3.84,
+                    "end": 4.08,
+                    "probability": 0.9885780811309814
+                },
+                {
+                    "word": " to",
+                    "start": 4.08,
+                    "end": 4.26,
+                    "probability": 0.9171881079673767
+                },
+                {
+                    "word": " call",
+                    "start": 4.26,
+                    "end": 4.34,
+                    "probability": 0.9682559967041016
+                },
+                {
+                    "word": " Thay",
+                    "start": 4.34,
+                    "end": 4.54,
+                    "probability": 0.6488223075866699
+                },
+                {
+                    "word": " Weller?",
+                    "start": 4.54,
+                    "end": 4.82,
+                    "probability": 0.6177129298448563
+                },
+                {
+                    "word": " Please",
+                    "start": 5.44,
+                    "end": 5.64,
+                    "probability": 0.9741112589836121
+                },
+                {
+                    "word": " call",
+                    "start": 5.64,
+                    "end": 5.86,
+                    "probability": 0.9844850301742554
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.86,
+            "end": 7.02,
+            "text": " grandma for her birthday well.",
+            "tokens": [
+                50658,
+                15766,
+                337,
+                720,
+                6154,
+                731,
+                13,
+                50802
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5124506488923104,
+            "compression_ratio": 1.1720430107526882,
+            "no_speech_prob": 0.3151428699493408,
+            "words": [
+                {
+                    "word": " grandma",
+                    "start": 5.86,
+                    "end": 6.24,
+                    "probability": 0.45306161046028137
+                },
+                {
+                    "word": " for",
+                    "start": 6.24,
+                    "end": 6.4,
+                    "probability": 0.9822884798049927
+                },
+                {
+                    "word": " her",
+                    "start": 6.4,
+                    "end": 6.52,
+                    "probability": 0.9819292426109314
+                },
+                {
+                    "word": " birthday",
+                    "start": 6.52,
+                    "end": 6.8,
+                    "probability": 0.9869540333747864
+                },
+                {
+                    "word": " well.",
+                    "start": 6.8,
+                    "end": 7.02,
+                    "probability": 0.546532392501831
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,99 @@
+{
+    "text": " The company's profits have increased by... at 20%.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " The company's profits have increased by...",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                17982,
+                362,
+                6505,
+                538,
+                485,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6381860375404358,
+            "compression_ratio": 0.8620689655172413,
+            "no_speech_prob": 0.019735658541321754,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7467665672302246
+                },
+                {
+                    "word": " company's",
+                    "start": 0.14,
+                    "end": 0.72,
+                    "probability": 0.9611152410507202
+                },
+                {
+                    "word": " profits",
+                    "start": 0.72,
+                    "end": 1.02,
+                    "probability": 0.9893113970756531
+                },
+                {
+                    "word": " have",
+                    "start": 1.02,
+                    "end": 1.26,
+                    "probability": 0.9826670289039612
+                },
+                {
+                    "word": " increased",
+                    "start": 1.26,
+                    "end": 1.58,
+                    "probability": 0.9963213205337524
+                },
+                {
+                    "word": " by...",
+                    "start": 1.58,
+                    "end": 2.0300000000000002,
+                    "probability": 0.69013512134552
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.8,
+            "end": 6.06,
+            "text": " at 20%.",
+            "tokens": [
+                50604,
+                412,
+                945,
+                6856,
+                50679
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6381860375404358,
+            "compression_ratio": 0.8620689655172413,
+            "no_speech_prob": 0.019735658541321754,
+            "words": [
+                {
+                    "word": " at",
+                    "start": 4.709999999999999,
+                    "end": 5.159999999999999,
+                    "probability": 0.2881622910499573
+                },
+                {
+                    "word": " 20%.",
+                    "start": 5.159999999999999,
+                    "end": 6.06,
+                    "probability": 0.7927745580673218
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

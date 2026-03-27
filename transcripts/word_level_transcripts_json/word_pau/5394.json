@@ -1,0 +1,87 @@
+{
+    "text": " The conference will feature keynote speakers from leading companies.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.84,
+            "text": " The conference will feature keynote speakers from leading companies.",
+            "tokens": [
+                50364,
+                440,
+                7586,
+                486,
+                4111,
+                33896,
+                9518,
+                490,
+                5775,
+                3431,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3284451044522799,
+            "compression_ratio": 0.9855072463768116,
+            "no_speech_prob": 0.006247151177376509,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8455208539962769
+                },
+                {
+                    "word": " conference",
+                    "start": 0.12,
+                    "end": 0.52,
+                    "probability": 0.9577847123146057
+                },
+                {
+                    "word": " will",
+                    "start": 0.52,
+                    "end": 0.78,
+                    "probability": 0.9972080588340759
+                },
+                {
+                    "word": " feature",
+                    "start": 0.78,
+                    "end": 1.14,
+                    "probability": 0.9983567595481873
+                },
+                {
+                    "word": " keynote",
+                    "start": 1.14,
+                    "end": 1.58,
+                    "probability": 0.8419417142868042
+                },
+                {
+                    "word": " speakers",
+                    "start": 1.58,
+                    "end": 2.1,
+                    "probability": 0.9958451390266418
+                },
+                {
+                    "word": " from",
+                    "start": 2.1,
+                    "end": 2.68,
+                    "probability": 0.9865233302116394
+                },
+                {
+                    "word": " leading",
+                    "start": 2.68,
+                    "end": 6.26,
+                    "probability": 0.41646450757980347
+                },
+                {
+                    "word": " companies.",
+                    "start": 6.26,
+                    "end": 6.84,
+                    "probability": 0.9878736138343811
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

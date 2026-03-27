@@ -1,0 +1,108 @@
+{
+    "text": " The team that wins the most games will advance to the finals.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.2,
+            "text": " The team that wins the most games will advance to the finals.",
+            "tokens": [
+                50364,
+                440,
+                1469,
+                300,
+                10641,
+                264,
+                881,
+                2813,
+                486,
+                7295,
+                281,
+                264,
+                25526,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2750571072101593,
+            "compression_ratio": 0.9838709677419355,
+            "no_speech_prob": 0.0018316494533792138,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5926591753959656
+                },
+                {
+                    "word": " team",
+                    "start": 0.12,
+                    "end": 0.28,
+                    "probability": 0.9858942031860352
+                },
+                {
+                    "word": " that",
+                    "start": 0.28,
+                    "end": 0.48,
+                    "probability": 0.9764152765274048
+                },
+                {
+                    "word": " wins",
+                    "start": 0.48,
+                    "end": 0.68,
+                    "probability": 0.9977389574050903
+                },
+                {
+                    "word": " the",
+                    "start": 0.68,
+                    "end": 0.88,
+                    "probability": 0.975142776966095
+                },
+                {
+                    "word": " most",
+                    "start": 0.88,
+                    "end": 1.04,
+                    "probability": 0.9584401249885559
+                },
+                {
+                    "word": " games",
+                    "start": 1.04,
+                    "end": 1.32,
+                    "probability": 0.8216580152511597
+                },
+                {
+                    "word": " will",
+                    "start": 1.32,
+                    "end": 1.66,
+                    "probability": 0.8714597821235657
+                },
+                {
+                    "word": " advance",
+                    "start": 1.66,
+                    "end": 2.28,
+                    "probability": 0.9433414340019226
+                },
+                {
+                    "word": " to",
+                    "start": 2.28,
+                    "end": 2.6,
+                    "probability": 0.9887712597846985
+                },
+                {
+                    "word": " the",
+                    "start": 2.6,
+                    "end": 2.72,
+                    "probability": 0.9882848262786865
+                },
+                {
+                    "word": " finals.",
+                    "start": 2.72,
+                    "end": 3.2,
+                    "probability": 0.9564047455787659
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

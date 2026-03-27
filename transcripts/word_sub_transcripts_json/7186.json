@@ -1,0 +1,83 @@
+{
+    "text": " The patient symptoms suggest a rare autoimmune dysgosure.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.12,
+            "text": " The patient symptoms suggest a rare autoimmune dysgosure.",
+            "tokens": [
+                50364,
+                440,
+                4537,
+                8332,
+                3402,
+                257,
+                5892,
+                8399,
+                49031,
+                15243,
+                70,
+                7641,
+                13,
+                50538
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6835030237833659,
+            "compression_ratio": 0.9344262295081968,
+            "no_speech_prob": 0.008019314147531986,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8988324403762817
+                },
+                {
+                    "word": " patient",
+                    "start": 0.14,
+                    "end": 0.52,
+                    "probability": 0.6816553473472595
+                },
+                {
+                    "word": " symptoms",
+                    "start": 0.52,
+                    "end": 0.98,
+                    "probability": 0.7818437218666077
+                },
+                {
+                    "word": " suggest",
+                    "start": 0.98,
+                    "end": 1.44,
+                    "probability": 0.9862247705459595
+                },
+                {
+                    "word": " a",
+                    "start": 1.44,
+                    "end": 1.66,
+                    "probability": 0.9621614217758179
+                },
+                {
+                    "word": " rare",
+                    "start": 1.66,
+                    "end": 1.84,
+                    "probability": 0.9702048897743225
+                },
+                {
+                    "word": " autoimmune",
+                    "start": 1.84,
+                    "end": 2.34,
+                    "probability": 0.9621924161911011
+                },
+                {
+                    "word": " dysgosure.",
+                    "start": 2.34,
+                    "end": 3.12,
+                    "probability": 0.18486537163456282
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

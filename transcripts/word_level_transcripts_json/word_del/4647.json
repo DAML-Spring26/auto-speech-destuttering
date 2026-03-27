@@ -1,0 +1,101 @@
+{
+    "text": " he suggested we should consider all options before making a decision.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.6,
+            "text": " he suggested we should consider all options before making a decision.",
+            "tokens": [
+                50364,
+                415,
+                10945,
+                321,
+                820,
+                1949,
+                439,
+                3956,
+                949,
+                1455,
+                257,
+                3537,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3095179557800293,
+            "compression_ratio": 1.0298507462686568,
+            "no_speech_prob": 0.013785174116492271,
+            "words": [
+                {
+                    "word": " he",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.45170873403549194
+                },
+                {
+                    "word": " suggested",
+                    "start": 0.12,
+                    "end": 0.68,
+                    "probability": 0.9945367574691772
+                },
+                {
+                    "word": " we",
+                    "start": 0.68,
+                    "end": 0.88,
+                    "probability": 0.9467570185661316
+                },
+                {
+                    "word": " should",
+                    "start": 0.88,
+                    "end": 1.08,
+                    "probability": 0.9984715580940247
+                },
+                {
+                    "word": " consider",
+                    "start": 1.08,
+                    "end": 1.56,
+                    "probability": 0.9823806285858154
+                },
+                {
+                    "word": " all",
+                    "start": 1.56,
+                    "end": 1.84,
+                    "probability": 0.9703958034515381
+                },
+                {
+                    "word": " options",
+                    "start": 1.84,
+                    "end": 2.22,
+                    "probability": 0.9834579229354858
+                },
+                {
+                    "word": " before",
+                    "start": 2.22,
+                    "end": 2.7,
+                    "probability": 0.9520716667175293
+                },
+                {
+                    "word": " making",
+                    "start": 2.7,
+                    "end": 3.02,
+                    "probability": 0.9971687197685242
+                },
+                {
+                    "word": " a",
+                    "start": 3.02,
+                    "end": 3.18,
+                    "probability": 0.9933265447616577
+                },
+                {
+                    "word": " decision.",
+                    "start": 3.18,
+                    "end": 3.6,
+                    "probability": 0.9958062171936035
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

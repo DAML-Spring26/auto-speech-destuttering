@@ -1,0 +1,82 @@
+{
+    "text": " The archaeologist carefully excavated the ancient burial site.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.62,
+            "text": " The archaeologist carefully excavated the ancient burial site.",
+            "tokens": [
+                50364,
+                440,
+                21894,
+                9201,
+                7500,
+                34351,
+                770,
+                264,
+                7832,
+                35751,
+                3621,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28141149452754427,
+            "compression_ratio": 0.9393939393939394,
+            "no_speech_prob": 0.002949885092675686,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.8297186493873596
+                },
+                {
+                    "word": " archaeologist",
+                    "start": 0.16,
+                    "end": 0.72,
+                    "probability": 0.8581932783126831
+                },
+                {
+                    "word": " carefully",
+                    "start": 0.72,
+                    "end": 1.28,
+                    "probability": 0.9881399869918823
+                },
+                {
+                    "word": " excavated",
+                    "start": 1.28,
+                    "end": 2.12,
+                    "probability": 0.9945202171802521
+                },
+                {
+                    "word": " the",
+                    "start": 2.12,
+                    "end": 2.34,
+                    "probability": 0.9918387532234192
+                },
+                {
+                    "word": " ancient",
+                    "start": 2.34,
+                    "end": 2.72,
+                    "probability": 0.9532748460769653
+                },
+                {
+                    "word": " burial",
+                    "start": 2.72,
+                    "end": 3.16,
+                    "probability": 0.9799505472183228
+                },
+                {
+                    "word": " site.",
+                    "start": 3.16,
+                    "end": 3.62,
+                    "probability": 0.9929537177085876
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

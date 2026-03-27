@@ -1,0 +1,72 @@
+{
+    "text": " Roide yw  hvorin am unch dend.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.64,
+            "text": " Roide yw  hvorin am unch dend.",
+            "tokens": [
+                50364,
+                3101,
+                482,
+                288,
+                86,
+                220,
+                31459,
+                259,
+                669,
+                517,
+                339,
+                274,
+                521,
+                13,
+                50614
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.7904181480407715,
+            "compression_ratio": 0.7894736842105263,
+            "no_speech_prob": 0.0012498266296461225,
+            "words": [
+                {
+                    "word": " Roide",
+                    "start": 0.0,
+                    "end": 0.6,
+                    "probability": 0.0018512866699893493
+                },
+                {
+                    "word": " yw",
+                    "start": 0.6,
+                    "end": 0.74,
+                    "probability": 0.034342757891863585
+                },
+                {
+                    "word": "  hvorin",
+                    "start": 0.78,
+                    "end": 1.18,
+                    "probability": 0.00549743915325962
+                },
+                {
+                    "word": " am",
+                    "start": 1.18,
+                    "end": 1.3,
+                    "probability": 0.06161560118198395
+                },
+                {
+                    "word": " unch",
+                    "start": 1.3,
+                    "end": 1.4,
+                    "probability": 0.00782756123226136
+                },
+                {
+                    "word": " dend.",
+                    "start": 1.4,
+                    "end": 2.64,
+                    "probability": 0.014122656371910125
+                }
+            ]
+        }
+    ],
+    "language": "cy"
+}

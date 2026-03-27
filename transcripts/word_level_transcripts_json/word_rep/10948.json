@@ -1,0 +1,122 @@
+{
+    "text": " The new health care policy aims to provide affordable medical care to all citizens.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.44,
+            "text": " The new health care policy aims to provide affordable medical care to all citizens.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                1585,
+                1127,
+                3897,
+                24683,
+                281,
+                2893,
+                12028,
+                4625,
+                1127,
+                281,
+                439,
+                7180,
+                13,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31188329060872394,
+            "compression_ratio": 1.064102564102564,
+            "no_speech_prob": 0.008702625520527363,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.48,
+                    "probability": 0.8524678349494934
+                },
+                {
+                    "word": " new",
+                    "start": 0.48,
+                    "end": 0.6,
+                    "probability": 0.8264309763908386
+                },
+                {
+                    "word": " health",
+                    "start": 0.6,
+                    "end": 0.9,
+                    "probability": 0.45088785886764526
+                },
+                {
+                    "word": " care",
+                    "start": 0.9,
+                    "end": 1.04,
+                    "probability": 0.4930306077003479
+                },
+                {
+                    "word": " policy",
+                    "start": 1.04,
+                    "end": 1.5,
+                    "probability": 0.9925203323364258
+                },
+                {
+                    "word": " aims",
+                    "start": 1.5,
+                    "end": 1.84,
+                    "probability": 0.9983916878700256
+                },
+                {
+                    "word": " to",
+                    "start": 1.84,
+                    "end": 2.02,
+                    "probability": 0.9958998560905457
+                },
+                {
+                    "word": " provide",
+                    "start": 2.02,
+                    "end": 2.28,
+                    "probability": 0.9988299012184143
+                },
+                {
+                    "word": " affordable",
+                    "start": 2.28,
+                    "end": 2.76,
+                    "probability": 0.997905969619751
+                },
+                {
+                    "word": " medical",
+                    "start": 2.76,
+                    "end": 3.16,
+                    "probability": 0.9698165655136108
+                },
+                {
+                    "word": " care",
+                    "start": 3.16,
+                    "end": 3.46,
+                    "probability": 0.9823942184448242
+                },
+                {
+                    "word": " to",
+                    "start": 3.46,
+                    "end": 3.72,
+                    "probability": 0.8193771839141846
+                },
+                {
+                    "word": " all",
+                    "start": 3.72,
+                    "end": 4.02,
+                    "probability": 0.914070725440979
+                },
+                {
+                    "word": " citizens.",
+                    "start": 4.02,
+                    "end": 4.44,
+                    "probability": 0.9940956830978394
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

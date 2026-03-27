@@ -1,0 +1,109 @@
+{
+    "text": " This smartphone is more, more expensive than the one we saw yesterday.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.82,
+            "text": " This smartphone is more, more expensive than the one we saw yesterday.",
+            "tokens": [
+                50364,
+                639,
+                13307,
+                307,
+                544,
+                11,
+                544,
+                5124,
+                813,
+                264,
+                472,
+                321,
+                1866,
+                5186,
+                13,
+                50516
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22276676402372472,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.011277721263468266,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8251218795776367
+                },
+                {
+                    "word": " smartphone",
+                    "start": 0.14,
+                    "end": 0.48,
+                    "probability": 0.788147509098053
+                },
+                {
+                    "word": " is",
+                    "start": 0.48,
+                    "end": 0.66,
+                    "probability": 0.9699870347976685
+                },
+                {
+                    "word": " more,",
+                    "start": 0.66,
+                    "end": 0.84,
+                    "probability": 0.9914538860321045
+                },
+                {
+                    "word": " more",
+                    "start": 1.06,
+                    "end": 1.18,
+                    "probability": 0.9957088232040405
+                },
+                {
+                    "word": " expensive",
+                    "start": 1.18,
+                    "end": 1.46,
+                    "probability": 0.9990687966346741
+                },
+                {
+                    "word": " than",
+                    "start": 1.46,
+                    "end": 1.8,
+                    "probability": 0.9673671126365662
+                },
+                {
+                    "word": " the",
+                    "start": 1.8,
+                    "end": 1.88,
+                    "probability": 0.9824642539024353
+                },
+                {
+                    "word": " one",
+                    "start": 1.88,
+                    "end": 2.02,
+                    "probability": 0.9847995042800903
+                },
+                {
+                    "word": " we",
+                    "start": 2.02,
+                    "end": 2.22,
+                    "probability": 0.9866085648536682
+                },
+                {
+                    "word": " saw",
+                    "start": 2.22,
+                    "end": 2.38,
+                    "probability": 0.9979771971702576
+                },
+                {
+                    "word": " yesterday.",
+                    "start": 2.38,
+                    "end": 2.82,
+                    "probability": 0.9963698387145996
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

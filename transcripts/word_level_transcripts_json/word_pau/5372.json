@@ -1,0 +1,80 @@
+{
+    "text": " The new marketing campaign has been very successful.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.16,
+            "text": " The new marketing campaign has been very successful.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                6370,
+                5129,
+                575,
+                668,
+                588,
+                4406,
+                13,
+                50534
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3668129841486613,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.005695171654224396,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8607677817344666
+                },
+                {
+                    "word": " new",
+                    "start": 0.14,
+                    "end": 0.3,
+                    "probability": 0.9716813564300537
+                },
+                {
+                    "word": " marketing",
+                    "start": 0.3,
+                    "end": 0.7,
+                    "probability": 0.8505166172981262
+                },
+                {
+                    "word": " campaign",
+                    "start": 0.7,
+                    "end": 1.38,
+                    "probability": 0.991113007068634
+                },
+                {
+                    "word": " has",
+                    "start": 1.38,
+                    "end": 1.74,
+                    "probability": 0.993974506855011
+                },
+                {
+                    "word": " been",
+                    "start": 1.74,
+                    "end": 1.96,
+                    "probability": 0.9962253570556641
+                },
+                {
+                    "word": " very",
+                    "start": 1.96,
+                    "end": 2.3,
+                    "probability": 0.9491305947303772
+                },
+                {
+                    "word": " successful.",
+                    "start": 2.3,
+                    "end": 3.16,
+                    "probability": 0.9908435344696045
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

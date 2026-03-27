@@ -1,0 +1,59 @@
+{
+    "text": " The system profess the request.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.28,
+            "text": " The system profess the request.",
+            "tokens": [
+                50364,
+                440,
+                1185,
+                2668,
+                264,
+                5308,
+                13,
+                50446
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5920674535963271,
+            "compression_ratio": 0.8157894736842105,
+            "no_speech_prob": 0.008657176047563553,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5264315009117126
+                },
+                {
+                    "word": " system",
+                    "start": 0.1,
+                    "end": 0.38,
+                    "probability": 0.9729005098342896
+                },
+                {
+                    "word": " profess",
+                    "start": 0.38,
+                    "end": 0.72,
+                    "probability": 0.4400404989719391
+                },
+                {
+                    "word": " the",
+                    "start": 0.72,
+                    "end": 0.94,
+                    "probability": 0.6983163952827454
+                },
+                {
+                    "word": " request.",
+                    "start": 0.94,
+                    "end": 1.28,
+                    "probability": 0.9869640469551086
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

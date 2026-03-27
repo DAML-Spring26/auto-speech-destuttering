@@ -1,0 +1,88 @@
+{
+    "text": " This is COVID emergency, all personnel must evacuate immediately.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.44,
+            "text": " This is COVID emergency, all personnel must evacuate immediately.",
+            "tokens": [
+                50364,
+                639,
+                307,
+                4566,
+                7473,
+                11,
+                439,
+                14988,
+                1633,
+                48570,
+                4258,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3864039693559919,
+            "compression_ratio": 0.9285714285714286,
+            "no_speech_prob": 0.005723861977458,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.8896607756614685
+                },
+                {
+                    "word": " is",
+                    "start": 0.16,
+                    "end": 0.32,
+                    "probability": 0.9631894826889038
+                },
+                {
+                    "word": " COVID",
+                    "start": 0.32,
+                    "end": 0.62,
+                    "probability": 0.30415797233581543
+                },
+                {
+                    "word": " emergency,",
+                    "start": 0.62,
+                    "end": 1.1,
+                    "probability": 0.8846784830093384
+                },
+                {
+                    "word": " all",
+                    "start": 1.68,
+                    "end": 1.84,
+                    "probability": 0.974643349647522
+                },
+                {
+                    "word": " personnel",
+                    "start": 1.84,
+                    "end": 2.22,
+                    "probability": 0.9841057658195496
+                },
+                {
+                    "word": " must",
+                    "start": 2.22,
+                    "end": 2.52,
+                    "probability": 0.9983928799629211
+                },
+                {
+                    "word": " evacuate",
+                    "start": 2.52,
+                    "end": 2.92,
+                    "probability": 0.9324723482131958
+                },
+                {
+                    "word": " immediately.",
+                    "start": 2.92,
+                    "end": 3.44,
+                    "probability": 0.9966639876365662
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

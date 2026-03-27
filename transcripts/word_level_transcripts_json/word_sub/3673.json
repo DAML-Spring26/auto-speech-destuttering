@@ -1,0 +1,66 @@
+{
+    "text": " The research team conducted expensive experiments.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.84,
+            "text": " The research team conducted expensive experiments.",
+            "tokens": [
+                50364,
+                440,
+                2132,
+                1469,
+                13809,
+                5124,
+                12050,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4268970489501953,
+            "compression_ratio": 0.9259259259259259,
+            "no_speech_prob": 0.0025384884793311357,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5180323123931885
+                },
+                {
+                    "word": " research",
+                    "start": 0.12,
+                    "end": 0.46,
+                    "probability": 0.9122615456581116
+                },
+                {
+                    "word": " team",
+                    "start": 0.46,
+                    "end": 0.84,
+                    "probability": 0.9974088072776794
+                },
+                {
+                    "word": " conducted",
+                    "start": 0.84,
+                    "end": 1.4,
+                    "probability": 0.9793828725814819
+                },
+                {
+                    "word": " expensive",
+                    "start": 1.4,
+                    "end": 2.08,
+                    "probability": 0.7337286472320557
+                },
+                {
+                    "word": " experiments.",
+                    "start": 2.08,
+                    "end": 2.84,
+                    "probability": 0.998097836971283
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

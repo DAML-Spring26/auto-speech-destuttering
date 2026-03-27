@@ -1,0 +1,102 @@
+{
+    "text": " Don't forget to check the baggage allowance on for your flight.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.9199999999999999,
+            "end": 4.92,
+            "text": " Don't forget to check the baggage allowance on for your flight.",
+            "tokens": [
+                50364,
+                1468,
+                380,
+                2870,
+                281,
+                1520,
+                264,
+                41567,
+                30647,
+                322,
+                337,
+                428,
+                7018,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28488725423812866,
+            "compression_ratio": 0.9402985074626866,
+            "no_speech_prob": 0.07268723100423813,
+            "words": [
+                {
+                    "word": " Don't",
+                    "start": 0.9199999999999999,
+                    "end": 1.5,
+                    "probability": 0.9282150566577911
+                },
+                {
+                    "word": " forget",
+                    "start": 1.5,
+                    "end": 1.8,
+                    "probability": 0.9960536956787109
+                },
+                {
+                    "word": " to",
+                    "start": 1.8,
+                    "end": 2.08,
+                    "probability": 0.9977059364318848
+                },
+                {
+                    "word": " check",
+                    "start": 2.08,
+                    "end": 2.3,
+                    "probability": 0.9953849911689758
+                },
+                {
+                    "word": " the",
+                    "start": 2.3,
+                    "end": 2.54,
+                    "probability": 0.9929667711257935
+                },
+                {
+                    "word": " baggage",
+                    "start": 2.54,
+                    "end": 2.94,
+                    "probability": 0.9482640027999878
+                },
+                {
+                    "word": " allowance",
+                    "start": 2.94,
+                    "end": 3.76,
+                    "probability": 0.7676272392272949
+                },
+                {
+                    "word": " on",
+                    "start": 3.76,
+                    "end": 4.12,
+                    "probability": 0.8810158967971802
+                },
+                {
+                    "word": " for",
+                    "start": 4.12,
+                    "end": 4.36,
+                    "probability": 0.9883615374565125
+                },
+                {
+                    "word": " your",
+                    "start": 4.36,
+                    "end": 4.52,
+                    "probability": 0.9952026605606079
+                },
+                {
+                    "word": " flight.",
+                    "start": 4.52,
+                    "end": 4.92,
+                    "probability": 0.9974082112312317
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

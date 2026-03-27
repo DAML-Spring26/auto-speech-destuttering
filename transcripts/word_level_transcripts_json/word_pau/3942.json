@@ -1,0 +1,97 @@
+{
+    "text": " I'm not feeling well, so I'll work from home today.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.44,
+            "text": " I'm not feeling well, so I'll work from home today.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                406,
+                2633,
+                731,
+                11,
+                370,
+                286,
+                603,
+                589,
+                490,
+                1280,
+                965,
+                13,
+                50652
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31228242200963635,
+            "compression_ratio": 0.864406779661017,
+            "no_speech_prob": 0.010760977864265442,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.9256083071231842
+                },
+                {
+                    "word": " not",
+                    "start": 0.2,
+                    "end": 0.32,
+                    "probability": 0.9968416690826416
+                },
+                {
+                    "word": " feeling",
+                    "start": 0.32,
+                    "end": 0.68,
+                    "probability": 0.9973737001419067
+                },
+                {
+                    "word": " well,",
+                    "start": 0.68,
+                    "end": 1.14,
+                    "probability": 0.9977731108665466
+                },
+                {
+                    "word": " so",
+                    "start": 1.46,
+                    "end": 1.52,
+                    "probability": 0.9550804495811462
+                },
+                {
+                    "word": " I'll",
+                    "start": 1.52,
+                    "end": 4.38,
+                    "probability": 0.7925445735454559
+                },
+                {
+                    "word": " work",
+                    "start": 4.38,
+                    "end": 4.58,
+                    "probability": 0.984876275062561
+                },
+                {
+                    "word": " from",
+                    "start": 4.58,
+                    "end": 4.82,
+                    "probability": 0.9966172575950623
+                },
+                {
+                    "word": " home",
+                    "start": 4.82,
+                    "end": 5.08,
+                    "probability": 0.9997043013572693
+                },
+                {
+                    "word": " today.",
+                    "start": 5.08,
+                    "end": 5.44,
+                    "probability": 0.9943992495536804
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

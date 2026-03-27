@@ -1,0 +1,81 @@
+{
+    "text": " Can you recommend any you know, local attractions?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.52,
+            "text": " Can you recommend any you know, local attractions?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                2748,
+                604,
+                291,
+                458,
+                11,
+                2654,
+                35005,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35860699873704177,
+            "compression_ratio": 0.9090909090909091,
+            "no_speech_prob": 0.0180316511541605,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.52,
+                    "probability": 0.8327363729476929
+                },
+                {
+                    "word": " you",
+                    "start": 0.52,
+                    "end": 0.62,
+                    "probability": 0.9961463212966919
+                },
+                {
+                    "word": " recommend",
+                    "start": 0.62,
+                    "end": 1.02,
+                    "probability": 0.9950090646743774
+                },
+                {
+                    "word": " any",
+                    "start": 1.02,
+                    "end": 1.3,
+                    "probability": 0.9737192392349243
+                },
+                {
+                    "word": " you",
+                    "start": 1.3,
+                    "end": 1.44,
+                    "probability": 0.7094340920448303
+                },
+                {
+                    "word": " know,",
+                    "start": 1.44,
+                    "end": 1.6,
+                    "probability": 0.9837243556976318
+                },
+                {
+                    "word": " local",
+                    "start": 1.82,
+                    "end": 2.02,
+                    "probability": 0.6805621981620789
+                },
+                {
+                    "word": " attractions?",
+                    "start": 2.02,
+                    "end": 2.52,
+                    "probability": 0.9839263558387756
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

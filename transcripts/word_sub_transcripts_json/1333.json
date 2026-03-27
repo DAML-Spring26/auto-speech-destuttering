@@ -1,0 +1,59 @@
+{
+    "text": " Scientists uncover new species annually.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.16,
+            "text": " Scientists uncover new species annually.",
+            "tokens": [
+                50364,
+                32958,
+                21694,
+                777,
+                6172,
+                29974,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3612069288889567,
+            "compression_ratio": 0.851063829787234,
+            "no_speech_prob": 0.007614071946591139,
+            "words": [
+                {
+                    "word": " Scientists",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.7706573605537415
+                },
+                {
+                    "word": " uncover",
+                    "start": 0.44,
+                    "end": 0.9,
+                    "probability": 0.9838203191757202
+                },
+                {
+                    "word": " new",
+                    "start": 0.9,
+                    "end": 1.2,
+                    "probability": 0.9699211120605469
+                },
+                {
+                    "word": " species",
+                    "start": 1.2,
+                    "end": 1.66,
+                    "probability": 0.9948951601982117
+                },
+                {
+                    "word": " annually.",
+                    "start": 1.66,
+                    "end": 2.16,
+                    "probability": 0.9832150340080261
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

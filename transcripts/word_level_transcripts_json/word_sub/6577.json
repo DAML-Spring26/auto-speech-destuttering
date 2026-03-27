@@ -1,0 +1,87 @@
+{
+    "text": " The scientist analyzed the cellular structure under the microphone.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.16,
+            "text": " The scientist analyzed the cellular structure under the microphone.",
+            "tokens": [
+                50364,
+                440,
+                12662,
+                28181,
+                264,
+                29267,
+                3877,
+                833,
+                264,
+                10952,
+                13,
+                50534
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41597538727980393,
+            "compression_ratio": 0.9852941176470589,
+            "no_speech_prob": 0.002261837711557746,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7654906511306763
+                },
+                {
+                    "word": " scientist",
+                    "start": 0.1,
+                    "end": 0.54,
+                    "probability": 0.7286832928657532
+                },
+                {
+                    "word": " analyzed",
+                    "start": 0.54,
+                    "end": 1.08,
+                    "probability": 0.49185168743133545
+                },
+                {
+                    "word": " the",
+                    "start": 1.08,
+                    "end": 1.38,
+                    "probability": 0.9780152440071106
+                },
+                {
+                    "word": " cellular",
+                    "start": 1.38,
+                    "end": 1.72,
+                    "probability": 0.9926733374595642
+                },
+                {
+                    "word": " structure",
+                    "start": 1.72,
+                    "end": 2.22,
+                    "probability": 0.9707966446876526
+                },
+                {
+                    "word": " under",
+                    "start": 2.22,
+                    "end": 2.54,
+                    "probability": 0.9847912192344666
+                },
+                {
+                    "word": " the",
+                    "start": 2.54,
+                    "end": 2.68,
+                    "probability": 0.9923880100250244
+                },
+                {
+                    "word": " microphone.",
+                    "start": 2.68,
+                    "end": 3.16,
+                    "probability": 0.8688905239105225
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

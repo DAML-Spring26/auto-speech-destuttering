@@ -1,0 +1,101 @@
+{
+    "text": " The marketing campaign resulted in a significant increase in brand recognition.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.78,
+            "text": " The marketing campaign resulted in a significant increase in brand recognition.",
+            "tokens": [
+                50364,
+                440,
+                6370,
+                5129,
+                18753,
+                294,
+                257,
+                4776,
+                3488,
+                294,
+                3360,
+                11150,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26900981267293295,
+            "compression_ratio": 1.082191780821918,
+            "no_speech_prob": 0.008488493040204048,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6646358370780945
+                },
+                {
+                    "word": " marketing",
+                    "start": 0.16,
+                    "end": 0.56,
+                    "probability": 0.8345780968666077
+                },
+                {
+                    "word": " campaign",
+                    "start": 0.56,
+                    "end": 1.24,
+                    "probability": 0.9962228536605835
+                },
+                {
+                    "word": " resulted",
+                    "start": 1.24,
+                    "end": 1.76,
+                    "probability": 0.9981167316436768
+                },
+                {
+                    "word": " in",
+                    "start": 1.76,
+                    "end": 2.24,
+                    "probability": 0.9920759201049805
+                },
+                {
+                    "word": " a",
+                    "start": 2.24,
+                    "end": 2.42,
+                    "probability": 0.983035683631897
+                },
+                {
+                    "word": " significant",
+                    "start": 2.42,
+                    "end": 3.02,
+                    "probability": 0.9967997074127197
+                },
+                {
+                    "word": " increase",
+                    "start": 3.02,
+                    "end": 3.76,
+                    "probability": 0.9978218078613281
+                },
+                {
+                    "word": " in",
+                    "start": 3.76,
+                    "end": 4.04,
+                    "probability": 0.9981750249862671
+                },
+                {
+                    "word": " brand",
+                    "start": 4.04,
+                    "end": 6.08,
+                    "probability": 0.9340515732765198
+                },
+                {
+                    "word": " recognition.",
+                    "start": 6.08,
+                    "end": 6.78,
+                    "probability": 0.9959053993225098
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

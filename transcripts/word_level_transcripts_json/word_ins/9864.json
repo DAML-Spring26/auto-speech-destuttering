@@ -1,0 +1,80 @@
+{
+    "text": " Have you like finished writing your thesis introduction?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.14,
+            "text": " Have you like finished writing your thesis introduction?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                411,
+                4335,
+                3579,
+                428,
+                22288,
+                9339,
+                30,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45044060548146564,
+            "compression_ratio": 0.9032258064516129,
+            "no_speech_prob": 0.12708592414855957,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 1.76,
+                    "probability": 0.762202799320221
+                },
+                {
+                    "word": " you",
+                    "start": 1.76,
+                    "end": 1.98,
+                    "probability": 0.9902741312980652
+                },
+                {
+                    "word": " like",
+                    "start": 1.98,
+                    "end": 2.3,
+                    "probability": 0.7638562917709351
+                },
+                {
+                    "word": " finished",
+                    "start": 2.3,
+                    "end": 3.22,
+                    "probability": 0.5753932595252991
+                },
+                {
+                    "word": " writing",
+                    "start": 3.22,
+                    "end": 3.72,
+                    "probability": 0.9811583757400513
+                },
+                {
+                    "word": " your",
+                    "start": 3.72,
+                    "end": 3.96,
+                    "probability": 0.9890927076339722
+                },
+                {
+                    "word": " thesis",
+                    "start": 3.96,
+                    "end": 4.4,
+                    "probability": 0.9826871752738953
+                },
+                {
+                    "word": " introduction?",
+                    "start": 4.4,
+                    "end": 5.14,
+                    "probability": 0.9782907962799072
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

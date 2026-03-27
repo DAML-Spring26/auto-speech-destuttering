@@ -1,0 +1,147 @@
+{
+    "text": " What do you think about the casting choices you know? For the upcoming superhero movie.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.42,
+            "text": " What do you think about the casting choices you know?",
+            "tokens": [
+                50364,
+                708,
+                360,
+                291,
+                519,
+                466,
+                264,
+                17301,
+                7994,
+                291,
+                458,
+                30,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3805564967068759,
+            "compression_ratio": 1.0740740740740742,
+            "no_speech_prob": 0.11911281943321228,
+            "words": [
+                {
+                    "word": " What",
+                    "start": 0.0,
+                    "end": 1.0,
+                    "probability": 0.8666967749595642
+                },
+                {
+                    "word": " do",
+                    "start": 1.0,
+                    "end": 1.16,
+                    "probability": 0.9940487146377563
+                },
+                {
+                    "word": " you",
+                    "start": 1.16,
+                    "end": 1.28,
+                    "probability": 0.9960201382637024
+                },
+                {
+                    "word": " think",
+                    "start": 1.28,
+                    "end": 1.5,
+                    "probability": 0.9975589513778687
+                },
+                {
+                    "word": " about",
+                    "start": 1.5,
+                    "end": 1.74,
+                    "probability": 0.9933619499206543
+                },
+                {
+                    "word": " the",
+                    "start": 1.74,
+                    "end": 1.94,
+                    "probability": 0.9947143197059631
+                },
+                {
+                    "word": " casting",
+                    "start": 1.94,
+                    "end": 2.32,
+                    "probability": 0.9818904399871826
+                },
+                {
+                    "word": " choices",
+                    "start": 2.32,
+                    "end": 2.82,
+                    "probability": 0.9885313510894775
+                },
+                {
+                    "word": " you",
+                    "start": 2.82,
+                    "end": 3.16,
+                    "probability": 0.9887838959693909
+                },
+                {
+                    "word": " know?",
+                    "start": 3.16,
+                    "end": 3.42,
+                    "probability": 0.9956638216972351
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.84,
+            "end": 6.96,
+            "text": " For the upcoming superhero movie.",
+            "tokens": [
+                50614,
+                1171,
+                264,
+                11500,
+                19428,
+                3169,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3805564967068759,
+            "compression_ratio": 1.0740740740740742,
+            "no_speech_prob": 0.11911281943321228,
+            "words": [
+                {
+                    "word": " For",
+                    "start": 4.84,
+                    "end": 5.2,
+                    "probability": 0.9273634552955627
+                },
+                {
+                    "word": " the",
+                    "start": 5.2,
+                    "end": 5.36,
+                    "probability": 0.9520571827888489
+                },
+                {
+                    "word": " upcoming",
+                    "start": 5.36,
+                    "end": 5.7,
+                    "probability": 0.9485823512077332
+                },
+                {
+                    "word": " superhero",
+                    "start": 5.7,
+                    "end": 6.38,
+                    "probability": 0.4828953444957733
+                },
+                {
+                    "word": " movie.",
+                    "start": 6.38,
+                    "end": 6.96,
+                    "probability": 0.9925381541252136
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

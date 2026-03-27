@@ -1,12 +1,12 @@
 {
-    "text": " Is there a manager available to address my concerns?",
+    "text": " Is there a manager available to... ...addressments?",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 7.0,
-            "text": " Is there a manager available to address my concerns?",
+            "end": 2.0,
+            "text": " Is there a manager available to...",
             "tokens": [
                 50364,
                 1119,
@@ -15,16 +15,33 @@
                 6598,
                 2435,
                 281,
-                2985,
-                452,
-                7389,
-                30,
-                50714
+                485,
+                50464
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.35311310107891375,
-            "compression_ratio": 0.896551724137931,
-            "no_speech_prob": 0.020064689218997955
+            "avg_logprob": -0.5267459084005917,
+            "compression_ratio": 0.8947368421052632,
+            "no_speech_prob": 0.02549690380692482
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.8,
+            "end": 5.8,
+            "text": " ...addressments?",
+            "tokens": [
+                50604,
+                1097,
+                25224,
+                735,
+                1117,
+                30,
+                50654
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5267459084005917,
+            "compression_ratio": 0.8947368421052632,
+            "no_speech_prob": 0.02549690380692482
         }
     ],
     "language": "en"

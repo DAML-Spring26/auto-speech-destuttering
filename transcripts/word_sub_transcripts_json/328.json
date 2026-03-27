@@ -1,0 +1,60 @@
+{
+    "text": " The analysis reveals interesting platters.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.84,
+            "text": " The analysis reveals interesting platters.",
+            "tokens": [
+                50364,
+                440,
+                5215,
+                20893,
+                1880,
+                499,
+                37690,
+                13,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5910642147064209,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.004994346294552088,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7335469126701355
+                },
+                {
+                    "word": " analysis",
+                    "start": 0.14,
+                    "end": 0.6,
+                    "probability": 0.7519010305404663
+                },
+                {
+                    "word": " reveals",
+                    "start": 0.6,
+                    "end": 1.24,
+                    "probability": 0.9886399507522583
+                },
+                {
+                    "word": " interesting",
+                    "start": 1.24,
+                    "end": 2.12,
+                    "probability": 0.9834981560707092
+                },
+                {
+                    "word": " platters.",
+                    "start": 2.12,
+                    "end": 2.84,
+                    "probability": 0.4439859241247177
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

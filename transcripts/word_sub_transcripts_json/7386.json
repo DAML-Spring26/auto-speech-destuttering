@@ -1,0 +1,80 @@
+{
+    "text": " the genetic modification resulted in increased crop field.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.16,
+            "text": " the genetic modification resulted in increased crop field.",
+            "tokens": [
+                50364,
+                264,
+                12462,
+                26747,
+                18753,
+                294,
+                6505,
+                9086,
+                2519,
+                13,
+                50534
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3740071455637614,
+            "compression_ratio": 0.9666666666666667,
+            "no_speech_prob": 0.007490342948585749,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5499215126037598
+                },
+                {
+                    "word": " genetic",
+                    "start": 0.14,
+                    "end": 0.48,
+                    "probability": 0.9721478223800659
+                },
+                {
+                    "word": " modification",
+                    "start": 0.48,
+                    "end": 1.34,
+                    "probability": 0.9934223294258118
+                },
+                {
+                    "word": " resulted",
+                    "start": 1.34,
+                    "end": 1.82,
+                    "probability": 0.9979155659675598
+                },
+                {
+                    "word": " in",
+                    "start": 1.82,
+                    "end": 2.08,
+                    "probability": 0.9580140709877014
+                },
+                {
+                    "word": " increased",
+                    "start": 2.08,
+                    "end": 2.48,
+                    "probability": 0.9291432499885559
+                },
+                {
+                    "word": " crop",
+                    "start": 2.48,
+                    "end": 2.76,
+                    "probability": 0.9906728863716125
+                },
+                {
+                    "word": " field.",
+                    "start": 2.76,
+                    "end": 3.16,
+                    "probability": 0.9597213864326477
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

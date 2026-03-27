@@ -1,0 +1,95 @@
+{
+    "text": " What's the projected growth rate for the next fiscal year?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.56,
+            "text": " What's the projected growth rate for the next fiscal year?",
+            "tokens": [
+                50364,
+                708,
+                311,
+                264,
+                26231,
+                4599,
+                3314,
+                337,
+                264,
+                958,
+                15897,
+                1064,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2894049962361654,
+            "compression_ratio": 0.9206349206349206,
+            "no_speech_prob": 0.0019340070430189371,
+            "words": [
+                {
+                    "word": " What's",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.875604659318924
+                },
+                {
+                    "word": " the",
+                    "start": 0.34,
+                    "end": 0.46,
+                    "probability": 0.9867635369300842
+                },
+                {
+                    "word": " projected",
+                    "start": 0.46,
+                    "end": 1.02,
+                    "probability": 0.980830192565918
+                },
+                {
+                    "word": " growth",
+                    "start": 1.02,
+                    "end": 1.42,
+                    "probability": 0.9973625540733337
+                },
+                {
+                    "word": " rate",
+                    "start": 1.42,
+                    "end": 1.86,
+                    "probability": 0.9991361498832703
+                },
+                {
+                    "word": " for",
+                    "start": 1.86,
+                    "end": 2.16,
+                    "probability": 0.9919840693473816
+                },
+                {
+                    "word": " the",
+                    "start": 2.16,
+                    "end": 2.3,
+                    "probability": 0.9763162732124329
+                },
+                {
+                    "word": " next",
+                    "start": 2.3,
+                    "end": 2.62,
+                    "probability": 0.8556627035140991
+                },
+                {
+                    "word": " fiscal",
+                    "start": 2.62,
+                    "end": 3.16,
+                    "probability": 0.8341070413589478
+                },
+                {
+                    "word": " year?",
+                    "start": 3.16,
+                    "end": 3.56,
+                    "probability": 0.897500216960907
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

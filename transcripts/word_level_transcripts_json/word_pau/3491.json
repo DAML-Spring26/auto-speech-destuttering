@@ -1,0 +1,81 @@
+{
+    "text": " Professor Johnson's research focuses on climate change impacts.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.72,
+            "text": " Professor Johnson's research focuses on climate change impacts.",
+            "tokens": [
+                50364,
+                8419,
+                9779,
+                311,
+                2132,
+                16109,
+                322,
+                5659,
+                1319,
+                11606,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29503268461961013,
+            "compression_ratio": 0.9545454545454546,
+            "no_speech_prob": 0.01065887976437807,
+            "words": [
+                {
+                    "word": " Professor",
+                    "start": 0.0,
+                    "end": 0.46,
+                    "probability": 0.9537534713745117
+                },
+                {
+                    "word": " Johnson's",
+                    "start": 0.46,
+                    "end": 1.2,
+                    "probability": 0.9388307929039001
+                },
+                {
+                    "word": " research",
+                    "start": 1.2,
+                    "end": 1.62,
+                    "probability": 0.7641430497169495
+                },
+                {
+                    "word": " focuses",
+                    "start": 1.62,
+                    "end": 2.28,
+                    "probability": 0.971439778804779
+                },
+                {
+                    "word": " on",
+                    "start": 2.28,
+                    "end": 5.46,
+                    "probability": 0.9477527737617493
+                },
+                {
+                    "word": " climate",
+                    "start": 5.46,
+                    "end": 5.76,
+                    "probability": 0.935896635055542
+                },
+                {
+                    "word": " change",
+                    "start": 5.76,
+                    "end": 6.2,
+                    "probability": 0.9910954236984253
+                },
+                {
+                    "word": " impacts.",
+                    "start": 6.2,
+                    "end": 6.72,
+                    "probability": 0.9752880930900574
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

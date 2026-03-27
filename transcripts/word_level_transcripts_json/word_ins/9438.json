@@ -1,0 +1,101 @@
+{
+    "text": " We should like plan something special for mom's birthday next month",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.7,
+            "text": " We should like plan something special for mom's birthday next month",
+            "tokens": [
+                50364,
+                492,
+                820,
+                411,
+                1393,
+                746,
+                2121,
+                337,
+                1225,
+                311,
+                6154,
+                958,
+                1618,
+                50600
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1975916862487793,
+            "compression_ratio": 0.9852941176470589,
+            "no_speech_prob": 0.06737180799245834,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.52,
+                    "probability": 0.853141188621521
+                },
+                {
+                    "word": " should",
+                    "start": 0.52,
+                    "end": 0.72,
+                    "probability": 0.9928679466247559
+                },
+                {
+                    "word": " like",
+                    "start": 0.72,
+                    "end": 1.02,
+                    "probability": 0.9150062203407288
+                },
+                {
+                    "word": " plan",
+                    "start": 1.02,
+                    "end": 1.64,
+                    "probability": 0.8614767789840698
+                },
+                {
+                    "word": " something",
+                    "start": 1.64,
+                    "end": 2.08,
+                    "probability": 0.9976792931556702
+                },
+                {
+                    "word": " special",
+                    "start": 2.08,
+                    "end": 2.64,
+                    "probability": 0.9974504113197327
+                },
+                {
+                    "word": " for",
+                    "start": 2.64,
+                    "end": 3.06,
+                    "probability": 0.9978367686271667
+                },
+                {
+                    "word": " mom's",
+                    "start": 3.06,
+                    "end": 3.72,
+                    "probability": 0.7894974052906036
+                },
+                {
+                    "word": " birthday",
+                    "start": 3.72,
+                    "end": 4.08,
+                    "probability": 0.9809448719024658
+                },
+                {
+                    "word": " next",
+                    "start": 4.08,
+                    "end": 4.38,
+                    "probability": 0.9970951080322266
+                },
+                {
+                    "word": " month",
+                    "start": 4.38,
+                    "end": 4.7,
+                    "probability": 0.9990491271018982
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

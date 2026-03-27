@@ -1,0 +1,108 @@
+{
+    "text": " Our customer service team has successfully resolved the majority of pending issues.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.12,
+            "text": " Our customer service team has successfully resolved the majority of pending issues.",
+            "tokens": [
+                50364,
+                2621,
+                5474,
+                2643,
+                1469,
+                575,
+                10727,
+                20772,
+                264,
+                6286,
+                295,
+                32110,
+                2663,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27948471903800964,
+            "compression_ratio": 1.0921052631578947,
+            "no_speech_prob": 0.013267483562231064,
+            "words": [
+                {
+                    "word": " Our",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.7666123509407043
+                },
+                {
+                    "word": " customer",
+                    "start": 0.22,
+                    "end": 0.78,
+                    "probability": 0.903039813041687
+                },
+                {
+                    "word": " service",
+                    "start": 0.78,
+                    "end": 1.38,
+                    "probability": 0.9724377989768982
+                },
+                {
+                    "word": " team",
+                    "start": 1.38,
+                    "end": 1.96,
+                    "probability": 0.9956967830657959
+                },
+                {
+                    "word": " has",
+                    "start": 1.96,
+                    "end": 2.38,
+                    "probability": 0.9784769415855408
+                },
+                {
+                    "word": " successfully",
+                    "start": 2.38,
+                    "end": 3.26,
+                    "probability": 0.9802502393722534
+                },
+                {
+                    "word": " resolved",
+                    "start": 3.26,
+                    "end": 4.12,
+                    "probability": 0.9959948062896729
+                },
+                {
+                    "word": " the",
+                    "start": 4.12,
+                    "end": 5.14,
+                    "probability": 0.7682104706764221
+                },
+                {
+                    "word": " majority",
+                    "start": 5.14,
+                    "end": 5.5,
+                    "probability": 0.9924350380897522
+                },
+                {
+                    "word": " of",
+                    "start": 5.5,
+                    "end": 6.08,
+                    "probability": 0.996752142906189
+                },
+                {
+                    "word": " pending",
+                    "start": 6.08,
+                    "end": 6.52,
+                    "probability": 0.9878693222999573
+                },
+                {
+                    "word": " issues.",
+                    "start": 6.52,
+                    "end": 7.12,
+                    "probability": 0.9980781078338623
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

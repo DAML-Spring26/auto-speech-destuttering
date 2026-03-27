@@ -1,0 +1,101 @@
+{
+    "text": " We need to improve our marketing strategy to attract more customers.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.54,
+            "text": " We need to improve our marketing strategy to attract more customers.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                3470,
+                527,
+                6370,
+                5206,
+                281,
+                5049,
+                544,
+                4581,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24849694569905598,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.0024436793755739927,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6452236175537109
+                },
+                {
+                    "word": " need",
+                    "start": 0.16,
+                    "end": 0.34,
+                    "probability": 0.9977414608001709
+                },
+                {
+                    "word": " to",
+                    "start": 0.34,
+                    "end": 0.54,
+                    "probability": 0.9991088509559631
+                },
+                {
+                    "word": " improve",
+                    "start": 0.54,
+                    "end": 0.92,
+                    "probability": 0.9918040037155151
+                },
+                {
+                    "word": " our",
+                    "start": 0.92,
+                    "end": 1.16,
+                    "probability": 0.9964577555656433
+                },
+                {
+                    "word": " marketing",
+                    "start": 1.16,
+                    "end": 1.6,
+                    "probability": 0.9434863328933716
+                },
+                {
+                    "word": " strategy",
+                    "start": 1.6,
+                    "end": 2.44,
+                    "probability": 0.9951269626617432
+                },
+                {
+                    "word": " to",
+                    "start": 2.44,
+                    "end": 3.02,
+                    "probability": 0.7895205616950989
+                },
+                {
+                    "word": " attract",
+                    "start": 3.02,
+                    "end": 5.38,
+                    "probability": 0.7850068211555481
+                },
+                {
+                    "word": " more",
+                    "start": 5.38,
+                    "end": 5.84,
+                    "probability": 0.9950045943260193
+                },
+                {
+                    "word": " customers.",
+                    "start": 5.84,
+                    "end": 6.54,
+                    "probability": 0.9968384504318237
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

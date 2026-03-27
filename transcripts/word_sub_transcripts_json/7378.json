@@ -1,0 +1,82 @@
+{
+    "text": " the audit revealed discrepancies in the financial results.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.72,
+            "text": " the audit revealed discrepancies in the financial results.",
+            "tokens": [
+                50364,
+                264,
+                17748,
+                9599,
+                2983,
+                19919,
+                32286,
+                294,
+                264,
+                4669,
+                3542,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3183488505227225,
+            "compression_ratio": 0.9666666666666667,
+            "no_speech_prob": 0.006152348127216101,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.48231300711631775
+                },
+                {
+                    "word": " audit",
+                    "start": 0.1,
+                    "end": 0.32,
+                    "probability": 0.9178991913795471
+                },
+                {
+                    "word": " revealed",
+                    "start": 0.32,
+                    "end": 0.74,
+                    "probability": 0.8298845887184143
+                },
+                {
+                    "word": " discrepancies",
+                    "start": 0.74,
+                    "end": 1.48,
+                    "probability": 0.9846986333529154
+                },
+                {
+                    "word": " in",
+                    "start": 1.48,
+                    "end": 1.72,
+                    "probability": 0.9814209342002869
+                },
+                {
+                    "word": " the",
+                    "start": 1.72,
+                    "end": 1.82,
+                    "probability": 0.9772064685821533
+                },
+                {
+                    "word": " financial",
+                    "start": 1.82,
+                    "end": 2.2,
+                    "probability": 0.9953731894493103
+                },
+                {
+                    "word": " results.",
+                    "start": 2.2,
+                    "end": 2.72,
+                    "probability": 0.9880210757255554
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,66 @@
+{
+    "text": " She sings beautifully and plays piano.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.5,
+            "text": " She sings beautifully and plays piano.",
+            "tokens": [
+                50364,
+                1240,
+                23250,
+                16525,
+                293,
+                5749,
+                9211,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5473192691802978,
+            "compression_ratio": 0.8260869565217391,
+            "no_speech_prob": 0.003871435299515724,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.6900283694267273
+                },
+                {
+                    "word": " sings",
+                    "start": 0.24,
+                    "end": 0.58,
+                    "probability": 0.9877995252609253
+                },
+                {
+                    "word": " beautifully",
+                    "start": 0.58,
+                    "end": 1.16,
+                    "probability": 0.9709125757217407
+                },
+                {
+                    "word": " and",
+                    "start": 1.16,
+                    "end": 2.72,
+                    "probability": 0.3800414502620697
+                },
+                {
+                    "word": " plays",
+                    "start": 2.72,
+                    "end": 3.06,
+                    "probability": 0.9962539672851562
+                },
+                {
+                    "word": " piano.",
+                    "start": 3.06,
+                    "end": 3.5,
+                    "probability": 0.9839169383049011
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

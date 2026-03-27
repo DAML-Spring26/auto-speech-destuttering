@@ -1,0 +1,52 @@
+{
+    "text": " They improved system deficiency.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.5,
+            "text": " They improved system deficiency.",
+            "tokens": [
+                50364,
+                814,
+                9689,
+                1185,
+                37500,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5090173482894897,
+            "compression_ratio": 0.8,
+            "no_speech_prob": 0.005110822152346373,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5443970561027527
+                },
+                {
+                    "word": " improved",
+                    "start": 0.14,
+                    "end": 0.42,
+                    "probability": 0.43555283546447754
+                },
+                {
+                    "word": " system",
+                    "start": 0.42,
+                    "end": 0.82,
+                    "probability": 0.9424532651901245
+                },
+                {
+                    "word": " deficiency.",
+                    "start": 0.82,
+                    "end": 1.5,
+                    "probability": 0.7253730297088623
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

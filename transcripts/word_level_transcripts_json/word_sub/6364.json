@@ -1,0 +1,88 @@
+{
+    "text": " The geologist analyzed the rock samples for mineral extent.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.06,
+            "text": " The geologist analyzed the rock samples for mineral extent.",
+            "tokens": [
+                50364,
+                440,
+                1519,
+                9201,
+                28181,
+                264,
+                3727,
+                10938,
+                337,
+                21630,
+                8396,
+                13,
+                50588
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39412641525268555,
+            "compression_ratio": 0.9076923076923077,
+            "no_speech_prob": 0.002585445996373892,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.8277918696403503
+                },
+                {
+                    "word": " geologist",
+                    "start": 0.08,
+                    "end": 0.68,
+                    "probability": 0.8243409693241119
+                },
+                {
+                    "word": " analyzed",
+                    "start": 0.68,
+                    "end": 1.48,
+                    "probability": 0.5037384629249573
+                },
+                {
+                    "word": " the",
+                    "start": 1.48,
+                    "end": 1.9,
+                    "probability": 0.9914364218711853
+                },
+                {
+                    "word": " rock",
+                    "start": 1.9,
+                    "end": 2.16,
+                    "probability": 0.9693664908409119
+                },
+                {
+                    "word": " samples",
+                    "start": 2.16,
+                    "end": 2.8,
+                    "probability": 0.9955055713653564
+                },
+                {
+                    "word": " for",
+                    "start": 2.8,
+                    "end": 3.16,
+                    "probability": 0.8608680367469788
+                },
+                {
+                    "word": " mineral",
+                    "start": 3.16,
+                    "end": 3.5,
+                    "probability": 0.9547808170318604
+                },
+                {
+                    "word": " extent.",
+                    "start": 3.5,
+                    "end": 4.06,
+                    "probability": 0.7718877792358398
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,101 @@
+{
+    "text": " We need to submit report by the end of this week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.14,
+            "text": " We need to submit report by the end of this week.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                10315,
+                2275,
+                538,
+                264,
+                917,
+                295,
+                341,
+                1243,
+                13,
+                50480
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2542598724365234,
+            "compression_ratio": 0.8909090909090909,
+            "no_speech_prob": 0.008681410923600197,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7801717519760132
+                },
+                {
+                    "word": " need",
+                    "start": 0.12,
+                    "end": 0.26,
+                    "probability": 0.9963876008987427
+                },
+                {
+                    "word": " to",
+                    "start": 0.26,
+                    "end": 0.4,
+                    "probability": 0.9987422823905945
+                },
+                {
+                    "word": " submit",
+                    "start": 0.4,
+                    "end": 0.62,
+                    "probability": 0.9923624992370605
+                },
+                {
+                    "word": " report",
+                    "start": 0.62,
+                    "end": 0.96,
+                    "probability": 0.9239544868469238
+                },
+                {
+                    "word": " by",
+                    "start": 0.96,
+                    "end": 1.18,
+                    "probability": 0.9919923543930054
+                },
+                {
+                    "word": " the",
+                    "start": 1.18,
+                    "end": 1.32,
+                    "probability": 0.9935044050216675
+                },
+                {
+                    "word": " end",
+                    "start": 1.32,
+                    "end": 1.54,
+                    "probability": 0.9981617331504822
+                },
+                {
+                    "word": " of",
+                    "start": 1.54,
+                    "end": 1.68,
+                    "probability": 0.989065408706665
+                },
+                {
+                    "word": " this",
+                    "start": 1.68,
+                    "end": 1.88,
+                    "probability": 0.9833678007125854
+                },
+                {
+                    "word": " week.",
+                    "start": 1.88,
+                    "end": 2.14,
+                    "probability": 0.9974186420440674
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

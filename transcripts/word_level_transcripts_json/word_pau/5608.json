@@ -1,0 +1,113 @@
+{
+    "text": " We should plan something special for. Dad's birthday next week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.9,
+            "text": " We should plan something special for.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                1393,
+                746,
+                2121,
+                337,
+                13,
+                50492
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6284969117906358,
+            "compression_ratio": 0.9130434782608695,
+            "no_speech_prob": 0.012257725931704044,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6168612241744995
+                },
+                {
+                    "word": " should",
+                    "start": 0.14,
+                    "end": 0.32,
+                    "probability": 0.9970593452453613
+                },
+                {
+                    "word": " plan",
+                    "start": 0.32,
+                    "end": 0.58,
+                    "probability": 0.9287193417549133
+                },
+                {
+                    "word": " something",
+                    "start": 0.58,
+                    "end": 1.08,
+                    "probability": 0.9944208264350891
+                },
+                {
+                    "word": " special",
+                    "start": 1.08,
+                    "end": 1.6,
+                    "probability": 0.9875332117080688
+                },
+                {
+                    "word": " for.",
+                    "start": 1.6,
+                    "end": 1.9,
+                    "probability": 0.9951949715614319
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.32,
+            "end": 7.0,
+            "text": " Dad's birthday next week.",
+            "tokens": [
+                50641,
+                5639,
+                311,
+                6154,
+                958,
+                1243,
+                13,
+                50741
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6284969117906358,
+            "compression_ratio": 0.9130434782608695,
+            "no_speech_prob": 0.012257725931704044,
+            "words": [
+                {
+                    "word": " Dad's",
+                    "start": 5.32,
+                    "end": 5.94,
+                    "probability": 0.9439533352851868
+                },
+                {
+                    "word": " birthday",
+                    "start": 5.94,
+                    "end": 6.18,
+                    "probability": 0.7702797055244446
+                },
+                {
+                    "word": " next",
+                    "start": 6.18,
+                    "end": 6.68,
+                    "probability": 0.995333731174469
+                },
+                {
+                    "word": " week.",
+                    "start": 6.68,
+                    "end": 7.0,
+                    "probability": 0.9987653493881226
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,112 @@
+{
+    "text": " Our flight to Paris has been delayed, but two hours.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.5,
+            "text": " Our flight to Paris has been delayed,",
+            "tokens": [
+                50364,
+                2621,
+                7018,
+                281,
+                8380,
+                575,
+                668,
+                20268,
+                11,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5886551352108226,
+            "compression_ratio": 0.8813559322033898,
+            "no_speech_prob": 0.045421700924634933,
+            "words": [
+                {
+                    "word": " Our",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.721773624420166
+                },
+                {
+                    "word": " flight",
+                    "start": 0.2,
+                    "end": 0.56,
+                    "probability": 0.9957310557365417
+                },
+                {
+                    "word": " to",
+                    "start": 0.56,
+                    "end": 0.92,
+                    "probability": 0.9955034852027893
+                },
+                {
+                    "word": " Paris",
+                    "start": 0.92,
+                    "end": 1.32,
+                    "probability": 0.9979046583175659
+                },
+                {
+                    "word": " has",
+                    "start": 1.32,
+                    "end": 1.76,
+                    "probability": 0.9945163130760193
+                },
+                {
+                    "word": " been",
+                    "start": 1.76,
+                    "end": 2.0,
+                    "probability": 0.9969845414161682
+                },
+                {
+                    "word": " delayed,",
+                    "start": 2.0,
+                    "end": 2.5,
+                    "probability": 0.9979016780853271
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.14,
+            "end": 5.1,
+            "text": " but two hours.",
+            "tokens": [
+                50524,
+                457,
+                732,
+                2496,
+                13,
+                50649
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5886551352108226,
+            "compression_ratio": 0.8813559322033898,
+            "no_speech_prob": 0.045421700924634933,
+            "words": [
+                {
+                    "word": " but",
+                    "start": 3.14,
+                    "end": 3.32,
+                    "probability": 0.22472941875457764
+                },
+                {
+                    "word": " two",
+                    "start": 3.32,
+                    "end": 4.6,
+                    "probability": 0.4823020398616791
+                },
+                {
+                    "word": " hours.",
+                    "start": 4.6,
+                    "end": 5.1,
+                    "probability": 0.9979994893074036
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

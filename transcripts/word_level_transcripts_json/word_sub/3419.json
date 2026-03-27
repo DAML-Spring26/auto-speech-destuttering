@@ -1,0 +1,66 @@
+{
+    "text": " The company focuses on customer classification.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.3,
+            "text": " The company focuses on customer classification.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                16109,
+                322,
+                5474,
+                21538,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3983220815658569,
+            "compression_ratio": 0.8867924528301887,
+            "no_speech_prob": 0.0034781156573444605,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6029642820358276
+                },
+                {
+                    "word": " company",
+                    "start": 0.12,
+                    "end": 0.48,
+                    "probability": 0.985859215259552
+                },
+                {
+                    "word": " focuses",
+                    "start": 0.48,
+                    "end": 0.98,
+                    "probability": 0.9882498979568481
+                },
+                {
+                    "word": " on",
+                    "start": 0.98,
+                    "end": 1.24,
+                    "probability": 0.9986255168914795
+                },
+                {
+                    "word": " customer",
+                    "start": 1.24,
+                    "end": 1.66,
+                    "probability": 0.9450609087944031
+                },
+                {
+                    "word": " classification.",
+                    "start": 1.66,
+                    "end": 2.3,
+                    "probability": 0.9860192537307739
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

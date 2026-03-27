@@ -1,0 +1,167 @@
+{
+    "text": " I'm sorry, but your warranty has expired. Would you like to purchase an extended? Plan.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.8,
+            "text": " I'm sorry, but your warranty has expired.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                2597,
+                11,
+                457,
+                428,
+                26852,
+                575,
+                36587,
+                13,
+                50536
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4262746175130208,
+            "compression_ratio": 1.0235294117647058,
+            "no_speech_prob": 0.014207448810338974,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.9060065150260925
+                },
+                {
+                    "word": " sorry,",
+                    "start": 0.28,
+                    "end": 0.68,
+                    "probability": 0.9972819089889526
+                },
+                {
+                    "word": " but",
+                    "start": 1.08,
+                    "end": 1.2,
+                    "probability": 0.988908588886261
+                },
+                {
+                    "word": " your",
+                    "start": 1.2,
+                    "end": 1.38,
+                    "probability": 0.8587813377380371
+                },
+                {
+                    "word": " warranty",
+                    "start": 1.38,
+                    "end": 1.8,
+                    "probability": 0.8816627860069275
+                },
+                {
+                    "word": " has",
+                    "start": 1.8,
+                    "end": 2.16,
+                    "probability": 0.9924431443214417
+                },
+                {
+                    "word": " expired.",
+                    "start": 2.16,
+                    "end": 2.8,
+                    "probability": 0.9992917776107788
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.34,
+            "end": 5.16,
+            "text": " Would you like to purchase an extended?",
+            "tokens": [
+                50536,
+                6068,
+                291,
+                411,
+                281,
+                8110,
+                364,
+                10913,
+                30,
+                50744
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4262746175130208,
+            "compression_ratio": 1.0235294117647058,
+            "no_speech_prob": 0.014207448810338974,
+            "words": [
+                {
+                    "word": " Would",
+                    "start": 3.34,
+                    "end": 3.46,
+                    "probability": 0.9757370948791504
+                },
+                {
+                    "word": " you",
+                    "start": 3.46,
+                    "end": 3.6,
+                    "probability": 0.9972993731498718
+                },
+                {
+                    "word": " like",
+                    "start": 3.6,
+                    "end": 3.76,
+                    "probability": 0.9993734955787659
+                },
+                {
+                    "word": " to",
+                    "start": 3.76,
+                    "end": 3.98,
+                    "probability": 0.998561680316925
+                },
+                {
+                    "word": " purchase",
+                    "start": 3.98,
+                    "end": 4.3,
+                    "probability": 0.9975019097328186
+                },
+                {
+                    "word": " an",
+                    "start": 4.3,
+                    "end": 4.56,
+                    "probability": 0.8659055233001709
+                },
+                {
+                    "word": " extended?",
+                    "start": 4.56,
+                    "end": 5.16,
+                    "probability": 0.9534032344818115
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.82,
+            "end": 7.54,
+            "text": " Plan.",
+            "tokens": [
+                50744,
+                8112,
+                13,
+                50754
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4262746175130208,
+            "compression_ratio": 1.0235294117647058,
+            "no_speech_prob": 0.014207448810338974,
+            "words": [
+                {
+                    "word": " Plan.",
+                    "start": 6.82,
+                    "end": 7.54,
+                    "probability": 0.8455235958099365
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

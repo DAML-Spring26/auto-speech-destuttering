@@ -1,0 +1,109 @@
+{
+    "text": " The manager asked a submitter reports by the end of the week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.58,
+            "text": " The manager asked a submitter reports by the end of the week.",
+            "tokens": [
+                50364,
+                440,
+                6598,
+                2351,
+                257,
+                10315,
+                391,
+                7122,
+                538,
+                264,
+                917,
+                295,
+                264,
+                1243,
+                13,
+                50500
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3202505953171674,
+            "compression_ratio": 0.9682539682539683,
+            "no_speech_prob": 0.005573410075157881,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.8608953952789307
+                },
+                {
+                    "word": " manager",
+                    "start": 0.08,
+                    "end": 0.44,
+                    "probability": 0.964323103427887
+                },
+                {
+                    "word": " asked",
+                    "start": 0.44,
+                    "end": 0.74,
+                    "probability": 0.9354299902915955
+                },
+                {
+                    "word": " a",
+                    "start": 0.74,
+                    "end": 0.9,
+                    "probability": 0.5077977776527405
+                },
+                {
+                    "word": " submitter",
+                    "start": 0.9,
+                    "end": 1.28,
+                    "probability": 0.756917268037796
+                },
+                {
+                    "word": " reports",
+                    "start": 1.28,
+                    "end": 1.62,
+                    "probability": 0.6245920062065125
+                },
+                {
+                    "word": " by",
+                    "start": 1.62,
+                    "end": 1.9,
+                    "probability": 0.981767475605011
+                },
+                {
+                    "word": " the",
+                    "start": 1.9,
+                    "end": 2.02,
+                    "probability": 0.9963297247886658
+                },
+                {
+                    "word": " end",
+                    "start": 2.02,
+                    "end": 2.16,
+                    "probability": 0.9988909363746643
+                },
+                {
+                    "word": " of",
+                    "start": 2.16,
+                    "end": 2.28,
+                    "probability": 0.9963647723197937
+                },
+                {
+                    "word": " the",
+                    "start": 2.28,
+                    "end": 2.36,
+                    "probability": 0.9920306205749512
+                },
+                {
+                    "word": " week.",
+                    "start": 2.36,
+                    "end": 2.58,
+                    "probability": 0.9993422627449036
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,87 @@
+{
+    "text": " We need checking at least two hours before departure.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.56,
+            "text": " We need checking at least two hours before departure.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                8568,
+                412,
+                1935,
+                732,
+                2496,
+                949,
+                25866,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35819416779738206,
+            "compression_ratio": 0.8983050847457628,
+            "no_speech_prob": 0.002272132784128189,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7850180864334106
+                },
+                {
+                    "word": " need",
+                    "start": 0.12,
+                    "end": 0.26,
+                    "probability": 0.992263674736023
+                },
+                {
+                    "word": " checking",
+                    "start": 0.26,
+                    "end": 0.6,
+                    "probability": 0.5563812255859375
+                },
+                {
+                    "word": " at",
+                    "start": 0.6,
+                    "end": 0.82,
+                    "probability": 0.9880003333091736
+                },
+                {
+                    "word": " least",
+                    "start": 0.82,
+                    "end": 0.94,
+                    "probability": 0.9980048537254333
+                },
+                {
+                    "word": " two",
+                    "start": 0.94,
+                    "end": 1.24,
+                    "probability": 0.4715226888656616
+                },
+                {
+                    "word": " hours",
+                    "start": 1.24,
+                    "end": 1.52,
+                    "probability": 0.9893463253974915
+                },
+                {
+                    "word": " before",
+                    "start": 1.52,
+                    "end": 1.96,
+                    "probability": 0.9929307699203491
+                },
+                {
+                    "word": " departure.",
+                    "start": 1.96,
+                    "end": 2.56,
+                    "probability": 0.9782111048698425
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

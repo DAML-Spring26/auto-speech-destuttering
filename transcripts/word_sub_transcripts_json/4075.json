@@ -1,0 +1,66 @@
+{
+    "text": " We need to calculate these findings.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.26,
+            "text": " We need to calculate these findings.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                8873,
+                613,
+                16483,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3248652219772339,
+            "compression_ratio": 0.8181818181818182,
+            "no_speech_prob": 0.005651162005960941,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.7173041701316833
+                },
+                {
+                    "word": " need",
+                    "start": 0.18,
+                    "end": 0.36,
+                    "probability": 0.9966681599617004
+                },
+                {
+                    "word": " to",
+                    "start": 0.36,
+                    "end": 0.58,
+                    "probability": 0.9988248944282532
+                },
+                {
+                    "word": " calculate",
+                    "start": 0.58,
+                    "end": 1.12,
+                    "probability": 0.9964125752449036
+                },
+                {
+                    "word": " these",
+                    "start": 1.12,
+                    "end": 1.7,
+                    "probability": 0.9802817106246948
+                },
+                {
+                    "word": " findings.",
+                    "start": 1.7,
+                    "end": 2.26,
+                    "probability": 0.9898611307144165
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

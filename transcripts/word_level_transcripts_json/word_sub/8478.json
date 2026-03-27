@@ -1,0 +1,101 @@
+{
+    "text": " We need to schedule a meeting to discuss the project guideline.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.76,
+            "text": " We need to schedule a meeting to discuss the project guideline.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                7567,
+                257,
+                3440,
+                281,
+                2248,
+                264,
+                1716,
+                41653,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22188202540079752,
+            "compression_ratio": 0.984375,
+            "no_speech_prob": 0.0015062999445945024,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8800198435783386
+                },
+                {
+                    "word": " need",
+                    "start": 0.12,
+                    "end": 0.3,
+                    "probability": 0.9950093030929565
+                },
+                {
+                    "word": " to",
+                    "start": 0.3,
+                    "end": 0.48,
+                    "probability": 0.9950801134109497
+                },
+                {
+                    "word": " schedule",
+                    "start": 0.48,
+                    "end": 0.8,
+                    "probability": 0.9615563750267029
+                },
+                {
+                    "word": " a",
+                    "start": 0.8,
+                    "end": 0.98,
+                    "probability": 0.9926181435585022
+                },
+                {
+                    "word": " meeting",
+                    "start": 0.98,
+                    "end": 1.16,
+                    "probability": 0.999398946762085
+                },
+                {
+                    "word": " to",
+                    "start": 1.16,
+                    "end": 1.38,
+                    "probability": 0.9957758784294128
+                },
+                {
+                    "word": " discuss",
+                    "start": 1.38,
+                    "end": 1.66,
+                    "probability": 0.9970453381538391
+                },
+                {
+                    "word": " the",
+                    "start": 1.66,
+                    "end": 1.84,
+                    "probability": 0.9805483818054199
+                },
+                {
+                    "word": " project",
+                    "start": 1.84,
+                    "end": 2.24,
+                    "probability": 0.932030975818634
+                },
+                {
+                    "word": " guideline.",
+                    "start": 2.24,
+                    "end": 2.76,
+                    "probability": 0.9104852080345154
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

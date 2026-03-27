@@ -1,0 +1,52 @@
+{
+    "text": " Please provide detailed destruction.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.54,
+            "text": " Please provide detailed destruction.",
+            "tokens": [
+                50364,
+                2555,
+                2893,
+                9942,
+                13563,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39461749792099,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.01635163277387619,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6685571670532227
+                },
+                {
+                    "word": " provide",
+                    "start": 0.16,
+                    "end": 0.52,
+                    "probability": 0.9893544912338257
+                },
+                {
+                    "word": " detailed",
+                    "start": 0.52,
+                    "end": 0.92,
+                    "probability": 0.9934466481208801
+                },
+                {
+                    "word": " destruction.",
+                    "start": 0.92,
+                    "end": 1.54,
+                    "probability": 0.9551793932914734
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

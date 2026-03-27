@@ -1,0 +1,54 @@
+{
+    "text": " Shrink cold cold water.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.62,
+            "text": " Shrink cold cold water.",
+            "tokens": [
+                50364,
+                1160,
+                81,
+                475,
+                3554,
+                3554,
+                1281,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5488370418548584,
+            "compression_ratio": 0.8846153846153846,
+            "no_speech_prob": 0.01763402484357357,
+            "words": [
+                {
+                    "word": " Shrink",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.795271118481954
+                },
+                {
+                    "word": " cold",
+                    "start": 0.4,
+                    "end": 0.78,
+                    "probability": 0.7496917247772217
+                },
+                {
+                    "word": " cold",
+                    "start": 0.78,
+                    "end": 1.18,
+                    "probability": 0.5090106725692749
+                },
+                {
+                    "word": " water.",
+                    "start": 1.18,
+                    "end": 1.62,
+                    "probability": 0.9845839738845825
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

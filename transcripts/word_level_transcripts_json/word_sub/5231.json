@@ -1,0 +1,73 @@
+{
+    "text": " The patient is experiencing acute abdominal plane.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.82,
+            "text": " The patient is experiencing acute abdominal plane.",
+            "tokens": [
+                50364,
+                440,
+                4537,
+                307,
+                11139,
+                24390,
+                38701,
+                5720,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4302768273787065,
+            "compression_ratio": 0.8928571428571429,
+            "no_speech_prob": 0.006541718728840351,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6357973217964172
+                },
+                {
+                    "word": " patient",
+                    "start": 0.16,
+                    "end": 0.66,
+                    "probability": 0.9965697526931763
+                },
+                {
+                    "word": " is",
+                    "start": 0.66,
+                    "end": 0.98,
+                    "probability": 0.9972363710403442
+                },
+                {
+                    "word": " experiencing",
+                    "start": 0.98,
+                    "end": 1.92,
+                    "probability": 0.9983824491500854
+                },
+                {
+                    "word": " acute",
+                    "start": 1.92,
+                    "end": 2.6,
+                    "probability": 0.8310583233833313
+                },
+                {
+                    "word": " abdominal",
+                    "start": 2.6,
+                    "end": 3.2,
+                    "probability": 0.9951674938201904
+                },
+                {
+                    "word": " plane.",
+                    "start": 3.2,
+                    "end": 3.82,
+                    "probability": 0.5785921812057495
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

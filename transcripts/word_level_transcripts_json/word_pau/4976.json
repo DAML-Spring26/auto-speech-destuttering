@@ -1,0 +1,89 @@
+{
+    "text": " The company's new product launch was a resounding success.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.92,
+            "text": " The company's new product launch was a resounding success.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                777,
+                1674,
+                4025,
+                390,
+                257,
+                725,
+                24625,
+                2245,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25410412152608236,
+            "compression_ratio": 0.90625,
+            "no_speech_prob": 0.01815735548734665,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7249259352684021
+                },
+                {
+                    "word": " company's",
+                    "start": 0.14,
+                    "end": 0.88,
+                    "probability": 0.9555699825286865
+                },
+                {
+                    "word": " new",
+                    "start": 0.88,
+                    "end": 1.04,
+                    "probability": 0.9913640022277832
+                },
+                {
+                    "word": " product",
+                    "start": 1.04,
+                    "end": 1.46,
+                    "probability": 0.9567862153053284
+                },
+                {
+                    "word": " launch",
+                    "start": 1.46,
+                    "end": 1.88,
+                    "probability": 0.7431021332740784
+                },
+                {
+                    "word": " was",
+                    "start": 1.88,
+                    "end": 2.2,
+                    "probability": 0.9850795269012451
+                },
+                {
+                    "word": " a",
+                    "start": 2.2,
+                    "end": 2.44,
+                    "probability": 0.9323638677597046
+                },
+                {
+                    "word": " resounding",
+                    "start": 2.44,
+                    "end": 3.38,
+                    "probability": 0.7473336756229401
+                },
+                {
+                    "word": " success.",
+                    "start": 3.38,
+                    "end": 5.92,
+                    "probability": 0.8884544968605042
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

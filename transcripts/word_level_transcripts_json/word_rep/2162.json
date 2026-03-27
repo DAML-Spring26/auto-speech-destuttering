@@ -1,0 +1,45 @@
+{
+    "text": " He walks fast.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.24,
+            "text": " He walks fast.",
+            "tokens": [
+                50364,
+                634,
+                12896,
+                2370,
+                13,
+                50444
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5909607751028878,
+            "compression_ratio": 0.6363636363636364,
+            "no_speech_prob": 0.02781282551586628,
+            "words": [
+                {
+                    "word": " He",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.39098745584487915
+                },
+                {
+                    "word": " walks",
+                    "start": 0.2,
+                    "end": 0.72,
+                    "probability": 0.7541757822036743
+                },
+                {
+                    "word": " fast.",
+                    "start": 0.72,
+                    "end": 1.24,
+                    "probability": 0.980241060256958
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

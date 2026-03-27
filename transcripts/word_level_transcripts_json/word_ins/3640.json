@@ -1,0 +1,94 @@
+{
+    "text": " We should plan a camping trip for our next summer.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.7,
+            "end": 3.48,
+            "text": " We should plan a camping trip for our next summer.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                1393,
+                257,
+                19470,
+                4931,
+                337,
+                527,
+                958,
+                4266,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3535372529711042,
+            "compression_ratio": 0.8620689655172413,
+            "no_speech_prob": 0.03487329185009003,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.7,
+                    "end": 1.22,
+                    "probability": 0.8652564883232117
+                },
+                {
+                    "word": " should",
+                    "start": 1.22,
+                    "end": 1.38,
+                    "probability": 0.9923146367073059
+                },
+                {
+                    "word": " plan",
+                    "start": 1.38,
+                    "end": 1.6,
+                    "probability": 0.975440263748169
+                },
+                {
+                    "word": " a",
+                    "start": 1.6,
+                    "end": 1.8,
+                    "probability": 0.9953149557113647
+                },
+                {
+                    "word": " camping",
+                    "start": 1.8,
+                    "end": 2.06,
+                    "probability": 0.9888696670532227
+                },
+                {
+                    "word": " trip",
+                    "start": 2.06,
+                    "end": 2.38,
+                    "probability": 0.9968181848526001
+                },
+                {
+                    "word": " for",
+                    "start": 2.38,
+                    "end": 2.64,
+                    "probability": 0.990120530128479
+                },
+                {
+                    "word": " our",
+                    "start": 2.64,
+                    "end": 2.8,
+                    "probability": 0.9446424245834351
+                },
+                {
+                    "word": " next",
+                    "start": 2.8,
+                    "end": 3.1,
+                    "probability": 0.9985179305076599
+                },
+                {
+                    "word": " summer.",
+                    "start": 3.1,
+                    "end": 3.48,
+                    "probability": 0.984943687915802
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,94 @@
+{
+    "text": " Have you finished reading the report I sent you know?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " Have you finished reading the report I sent you know?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                4335,
+                3760,
+                264,
+                2275,
+                286,
+                2279,
+                291,
+                458,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24750440461294992,
+            "compression_ratio": 0.9464285714285714,
+            "no_speech_prob": 0.06710243225097656,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.836496889591217
+                },
+                {
+                    "word": " you",
+                    "start": 0.32,
+                    "end": 0.42,
+                    "probability": 0.9967753291130066
+                },
+                {
+                    "word": " finished",
+                    "start": 0.42,
+                    "end": 0.64,
+                    "probability": 0.9903766512870789
+                },
+                {
+                    "word": " reading",
+                    "start": 0.64,
+                    "end": 0.9,
+                    "probability": 0.9933682084083557
+                },
+                {
+                    "word": " the",
+                    "start": 0.9,
+                    "end": 1.06,
+                    "probability": 0.9806011915206909
+                },
+                {
+                    "word": " report",
+                    "start": 1.06,
+                    "end": 1.24,
+                    "probability": 0.9785491824150085
+                },
+                {
+                    "word": " I",
+                    "start": 1.24,
+                    "end": 1.46,
+                    "probability": 0.9383707046508789
+                },
+                {
+                    "word": " sent",
+                    "start": 1.46,
+                    "end": 1.64,
+                    "probability": 0.9971954822540283
+                },
+                {
+                    "word": " you",
+                    "start": 1.64,
+                    "end": 1.8,
+                    "probability": 0.9931943416595459
+                },
+                {
+                    "word": " know?",
+                    "start": 1.8,
+                    "end": 2.0,
+                    "probability": 0.5125873684883118
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

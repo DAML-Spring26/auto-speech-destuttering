@@ -1,0 +1,73 @@
+{
+    "text": " the document signed by older department heads.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.88,
+            "text": " the document signed by older department heads.",
+            "tokens": [
+                50364,
+                264,
+                4166,
+                8175,
+                538,
+                4906,
+                5882,
+                8050,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5832066102461382,
+            "compression_ratio": 0.9019607843137255,
+            "no_speech_prob": 0.011627508327364922,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5174754858016968
+                },
+                {
+                    "word": " document",
+                    "start": 0.14,
+                    "end": 0.46,
+                    "probability": 0.4455883502960205
+                },
+                {
+                    "word": " signed",
+                    "start": 0.46,
+                    "end": 0.78,
+                    "probability": 0.9088252782821655
+                },
+                {
+                    "word": " by",
+                    "start": 0.78,
+                    "end": 0.96,
+                    "probability": 0.9983232617378235
+                },
+                {
+                    "word": " older",
+                    "start": 0.96,
+                    "end": 1.16,
+                    "probability": 0.6102174520492554
+                },
+                {
+                    "word": " department",
+                    "start": 1.16,
+                    "end": 1.56,
+                    "probability": 0.18243113160133362
+                },
+                {
+                    "word": " heads.",
+                    "start": 1.56,
+                    "end": 1.88,
+                    "probability": 0.9625969529151917
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

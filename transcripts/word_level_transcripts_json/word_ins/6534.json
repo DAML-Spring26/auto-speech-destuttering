@@ -1,0 +1,108 @@
+{
+    "text": " The new restaurant downtown has received excellent reviews from food critics really.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.56,
+            "text": " The new restaurant downtown has received excellent reviews from food critics really.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                6383,
+                14209,
+                575,
+                4613,
+                7103,
+                10229,
+                490,
+                1755,
+                22503,
+                534,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3147940933704376,
+            "compression_ratio": 1.0769230769230769,
+            "no_speech_prob": 0.03740057349205017,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.58,
+                    "probability": 0.895601749420166
+                },
+                {
+                    "word": " new",
+                    "start": 0.58,
+                    "end": 0.78,
+                    "probability": 0.8198672533035278
+                },
+                {
+                    "word": " restaurant",
+                    "start": 0.78,
+                    "end": 1.2,
+                    "probability": 0.9869338274002075
+                },
+                {
+                    "word": " downtown",
+                    "start": 1.2,
+                    "end": 1.86,
+                    "probability": 0.8884211182594299
+                },
+                {
+                    "word": " has",
+                    "start": 1.86,
+                    "end": 2.26,
+                    "probability": 0.9921069145202637
+                },
+                {
+                    "word": " received",
+                    "start": 2.26,
+                    "end": 2.68,
+                    "probability": 0.9959074258804321
+                },
+                {
+                    "word": " excellent",
+                    "start": 2.68,
+                    "end": 3.34,
+                    "probability": 0.9983432292938232
+                },
+                {
+                    "word": " reviews",
+                    "start": 3.34,
+                    "end": 3.84,
+                    "probability": 0.9983166456222534
+                },
+                {
+                    "word": " from",
+                    "start": 3.84,
+                    "end": 4.26,
+                    "probability": 0.9925684928894043
+                },
+                {
+                    "word": " food",
+                    "start": 4.26,
+                    "end": 4.58,
+                    "probability": 0.8364653587341309
+                },
+                {
+                    "word": " critics",
+                    "start": 4.58,
+                    "end": 5.02,
+                    "probability": 0.9926379919052124
+                },
+                {
+                    "word": " really.",
+                    "start": 5.02,
+                    "end": 5.56,
+                    "probability": 0.4743707776069641
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

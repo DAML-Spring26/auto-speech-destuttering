@@ -1,0 +1,94 @@
+{
+    "text": " The manager will review your performance evaluation next with week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.9,
+            "text": " The manager will review your performance evaluation next with week.",
+            "tokens": [
+                50364,
+                440,
+                6598,
+                486,
+                3131,
+                428,
+                3389,
+                13344,
+                958,
+                365,
+                1243,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2962310314178467,
+            "compression_ratio": 0.9852941176470589,
+            "no_speech_prob": 0.016909169033169746,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.58,
+                    "probability": 0.8803321123123169
+                },
+                {
+                    "word": " manager",
+                    "start": 0.58,
+                    "end": 0.98,
+                    "probability": 0.8234176635742188
+                },
+                {
+                    "word": " will",
+                    "start": 0.98,
+                    "end": 1.2,
+                    "probability": 0.9990139007568359
+                },
+                {
+                    "word": " review",
+                    "start": 1.2,
+                    "end": 1.52,
+                    "probability": 0.9943834543228149
+                },
+                {
+                    "word": " your",
+                    "start": 1.52,
+                    "end": 1.76,
+                    "probability": 0.9934613704681396
+                },
+                {
+                    "word": " performance",
+                    "start": 1.76,
+                    "end": 2.26,
+                    "probability": 0.9674179553985596
+                },
+                {
+                    "word": " evaluation",
+                    "start": 2.26,
+                    "end": 2.86,
+                    "probability": 0.9963170289993286
+                },
+                {
+                    "word": " next",
+                    "start": 2.86,
+                    "end": 3.38,
+                    "probability": 0.9972077012062073
+                },
+                {
+                    "word": " with",
+                    "start": 3.38,
+                    "end": 3.64,
+                    "probability": 0.7404965758323669
+                },
+                {
+                    "word": " week.",
+                    "start": 3.64,
+                    "end": 3.9,
+                    "probability": 0.5697784423828125
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

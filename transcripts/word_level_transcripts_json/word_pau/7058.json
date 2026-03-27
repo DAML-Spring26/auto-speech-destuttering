@@ -1,0 +1,87 @@
+{
+    "text": " Could you please provide more information about this issue?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.14,
+            "text": " Could you please provide more information about this issue?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                2893,
+                544,
+                1589,
+                466,
+                341,
+                2734,
+                30,
+                50636
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34152837900015026,
+            "compression_ratio": 0.9365079365079365,
+            "no_speech_prob": 0.005930319894105196,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.9273019433021545
+                },
+                {
+                    "word": " you",
+                    "start": 0.2,
+                    "end": 0.28,
+                    "probability": 0.9976660013198853
+                },
+                {
+                    "word": " please",
+                    "start": 0.28,
+                    "end": 0.5,
+                    "probability": 0.9898951649665833
+                },
+                {
+                    "word": " provide",
+                    "start": 0.5,
+                    "end": 0.8,
+                    "probability": 0.9965308308601379
+                },
+                {
+                    "word": " more",
+                    "start": 0.8,
+                    "end": 1.06,
+                    "probability": 0.9931961297988892
+                },
+                {
+                    "word": " information",
+                    "start": 1.06,
+                    "end": 1.62,
+                    "probability": 0.9945472478866577
+                },
+                {
+                    "word": " about",
+                    "start": 1.62,
+                    "end": 1.92,
+                    "probability": 0.993074893951416
+                },
+                {
+                    "word": " this",
+                    "start": 1.92,
+                    "end": 4.76,
+                    "probability": 0.7533491253852844
+                },
+                {
+                    "word": " issue?",
+                    "start": 4.76,
+                    "end": 5.14,
+                    "probability": 0.995307981967926
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

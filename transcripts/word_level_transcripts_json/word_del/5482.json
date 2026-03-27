@@ -1,0 +1,94 @@
+{
+    "text": " The project manager been working on the proposal all week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.86,
+            "text": " The project manager been working on the proposal all week.",
+            "tokens": [
+                50364,
+                440,
+                1716,
+                6598,
+                668,
+                1364,
+                322,
+                264,
+                11494,
+                439,
+                1243,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2856256791523525,
+            "compression_ratio": 0.9354838709677419,
+            "no_speech_prob": 0.007257815450429916,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7070064544677734
+                },
+                {
+                    "word": " project",
+                    "start": 0.1,
+                    "end": 0.36,
+                    "probability": 0.9066394567489624
+                },
+                {
+                    "word": " manager",
+                    "start": 0.36,
+                    "end": 0.82,
+                    "probability": 0.9872732162475586
+                },
+                {
+                    "word": " been",
+                    "start": 0.82,
+                    "end": 1.12,
+                    "probability": 0.6807912588119507
+                },
+                {
+                    "word": " working",
+                    "start": 1.12,
+                    "end": 1.46,
+                    "probability": 0.995704710483551
+                },
+                {
+                    "word": " on",
+                    "start": 1.46,
+                    "end": 1.66,
+                    "probability": 0.9945599436759949
+                },
+                {
+                    "word": " the",
+                    "start": 1.66,
+                    "end": 1.78,
+                    "probability": 0.9809300899505615
+                },
+                {
+                    "word": " proposal",
+                    "start": 1.78,
+                    "end": 2.28,
+                    "probability": 0.9325529932975769
+                },
+                {
+                    "word": " all",
+                    "start": 2.28,
+                    "end": 2.6,
+                    "probability": 0.9380537867546082
+                },
+                {
+                    "word": " week.",
+                    "start": 2.6,
+                    "end": 2.86,
+                    "probability": 0.9969737529754639
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

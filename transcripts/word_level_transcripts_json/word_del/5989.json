@@ -1,0 +1,87 @@
+{
+    "text": " The team working diligently to resolve the technical issues.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.84,
+            "text": " The team working diligently to resolve the technical issues.",
+            "tokens": [
+                50364,
+                440,
+                1469,
+                1364,
+                49013,
+                281,
+                14151,
+                264,
+                6191,
+                2663,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2890059214371901,
+            "compression_ratio": 0.9375,
+            "no_speech_prob": 0.0006497579161077738,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8437139987945557
+                },
+                {
+                    "word": " team",
+                    "start": 0.12,
+                    "end": 0.32,
+                    "probability": 0.9544830322265625
+                },
+                {
+                    "word": " working",
+                    "start": 0.32,
+                    "end": 0.66,
+                    "probability": 0.9389159083366394
+                },
+                {
+                    "word": " diligently",
+                    "start": 0.66,
+                    "end": 1.12,
+                    "probability": 0.9200011491775513
+                },
+                {
+                    "word": " to",
+                    "start": 1.12,
+                    "end": 1.4,
+                    "probability": 0.9604275822639465
+                },
+                {
+                    "word": " resolve",
+                    "start": 1.4,
+                    "end": 1.64,
+                    "probability": 0.9923688769340515
+                },
+                {
+                    "word": " the",
+                    "start": 1.64,
+                    "end": 1.84,
+                    "probability": 0.9898772835731506
+                },
+                {
+                    "word": " technical",
+                    "start": 1.84,
+                    "end": 2.2,
+                    "probability": 0.9896230697631836
+                },
+                {
+                    "word": " issues.",
+                    "start": 2.2,
+                    "end": 2.84,
+                    "probability": 0.9964220523834229
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

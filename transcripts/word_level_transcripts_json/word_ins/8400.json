@@ -1,0 +1,89 @@
+{
+    "text": " What's the plot of the um, new superhero movie?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.76,
+            "text": " What's the plot of the um, new superhero movie?",
+            "tokens": [
+                50364,
+                708,
+                311,
+                264,
+                7542,
+                295,
+                264,
+                1105,
+                11,
+                777,
+                19428,
+                3169,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38624642690022787,
+            "compression_ratio": 0.9215686274509803,
+            "no_speech_prob": 0.019045807421207428,
+            "words": [
+                {
+                    "word": " What's",
+                    "start": 0.0,
+                    "end": 0.6,
+                    "probability": 0.9376705586910248
+                },
+                {
+                    "word": " the",
+                    "start": 0.6,
+                    "end": 0.7,
+                    "probability": 0.9583789110183716
+                },
+                {
+                    "word": " plot",
+                    "start": 0.7,
+                    "end": 0.96,
+                    "probability": 0.9873870015144348
+                },
+                {
+                    "word": " of",
+                    "start": 0.96,
+                    "end": 1.14,
+                    "probability": 0.9970839619636536
+                },
+                {
+                    "word": " the",
+                    "start": 1.14,
+                    "end": 1.28,
+                    "probability": 0.9476905465126038
+                },
+                {
+                    "word": " um,",
+                    "start": 1.28,
+                    "end": 1.44,
+                    "probability": 0.4241735637187958
+                },
+                {
+                    "word": " new",
+                    "start": 1.68,
+                    "end": 1.82,
+                    "probability": 0.7287138104438782
+                },
+                {
+                    "word": " superhero",
+                    "start": 1.82,
+                    "end": 2.3,
+                    "probability": 0.8833487033843994
+                },
+                {
+                    "word": " movie?",
+                    "start": 2.3,
+                    "end": 2.76,
+                    "probability": 0.9943035840988159
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

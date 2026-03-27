@@ -1,0 +1,94 @@
+{
+    "text": " Can you please turn down the volume on your headphones?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.48,
+            "text": " Can you please turn down the volume on your headphones?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                1767,
+                1261,
+                760,
+                264,
+                5523,
+                322,
+                428,
+                16278,
+                30,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26605537959507536,
+            "compression_ratio": 0.9166666666666666,
+            "no_speech_prob": 0.010483828373253345,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.7370670437812805
+                },
+                {
+                    "word": " you",
+                    "start": 0.2,
+                    "end": 0.32,
+                    "probability": 0.9976820945739746
+                },
+                {
+                    "word": " please",
+                    "start": 0.32,
+                    "end": 0.62,
+                    "probability": 0.9906696081161499
+                },
+                {
+                    "word": " turn",
+                    "start": 0.62,
+                    "end": 0.92,
+                    "probability": 0.986503005027771
+                },
+                {
+                    "word": " down",
+                    "start": 0.92,
+                    "end": 1.18,
+                    "probability": 0.9891543984413147
+                },
+                {
+                    "word": " the",
+                    "start": 1.18,
+                    "end": 1.38,
+                    "probability": 0.8590888381004333
+                },
+                {
+                    "word": " volume",
+                    "start": 1.38,
+                    "end": 3.86,
+                    "probability": 0.85210782289505
+                },
+                {
+                    "word": " on",
+                    "start": 3.86,
+                    "end": 4.02,
+                    "probability": 0.9741908311843872
+                },
+                {
+                    "word": " your",
+                    "start": 4.02,
+                    "end": 4.14,
+                    "probability": 0.9944198727607727
+                },
+                {
+                    "word": " headphones?",
+                    "start": 4.14,
+                    "end": 4.48,
+                    "probability": 0.9695097208023071
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

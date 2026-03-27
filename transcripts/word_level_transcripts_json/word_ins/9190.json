@@ -1,0 +1,87 @@
+{
+    "text": " Can you like explain how this new feature works?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.38,
+            "text": " Can you like explain how this new feature works?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                411,
+                2903,
+                577,
+                341,
+                777,
+                4111,
+                1985,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2651213132418119,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.013496718369424343,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.9124130606651306
+                },
+                {
+                    "word": " you",
+                    "start": 0.36,
+                    "end": 0.5,
+                    "probability": 0.9880457520484924
+                },
+                {
+                    "word": " like",
+                    "start": 0.5,
+                    "end": 0.72,
+                    "probability": 0.8684325814247131
+                },
+                {
+                    "word": " explain",
+                    "start": 0.72,
+                    "end": 1.12,
+                    "probability": 0.7631948590278625
+                },
+                {
+                    "word": " how",
+                    "start": 1.12,
+                    "end": 1.38,
+                    "probability": 0.9925916194915771
+                },
+                {
+                    "word": " this",
+                    "start": 1.38,
+                    "end": 1.56,
+                    "probability": 0.9967466592788696
+                },
+                {
+                    "word": " new",
+                    "start": 1.56,
+                    "end": 1.78,
+                    "probability": 0.9964967370033264
+                },
+                {
+                    "word": " feature",
+                    "start": 1.78,
+                    "end": 2.06,
+                    "probability": 0.9935718774795532
+                },
+                {
+                    "word": " works?",
+                    "start": 2.06,
+                    "end": 2.38,
+                    "probability": 0.9969080090522766
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

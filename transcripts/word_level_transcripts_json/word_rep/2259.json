@@ -1,0 +1,52 @@
+{
+    "text": " it a cat sleeps.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.88,
+            "text": " it a cat sleeps.",
+            "tokens": [
+                50364,
+                309,
+                257,
+                3857,
+                37991,
+                13,
+                50424
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9034973978996277,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.01865088939666748,
+            "words": [
+                {
+                    "word": " it",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.11391766369342804
+                },
+                {
+                    "word": " a",
+                    "start": 0.2,
+                    "end": 0.38,
+                    "probability": 0.28924626111984253
+                },
+                {
+                    "word": " cat",
+                    "start": 0.38,
+                    "end": 0.56,
+                    "probability": 0.9324138164520264
+                },
+                {
+                    "word": " sleeps.",
+                    "start": 0.56,
+                    "end": 0.88,
+                    "probability": 0.8268558382987976
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

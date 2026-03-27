@@ -1,0 +1,59 @@
+{
+    "text": " the experiment produced unexpected results.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.76,
+            "text": " the experiment produced unexpected results.",
+            "tokens": [
+                50364,
+                264,
+                5120,
+                7126,
+                13106,
+                3542,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.46438943015204537,
+            "compression_ratio": 0.9148936170212766,
+            "no_speech_prob": 0.005163044203072786,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5572299361228943
+                },
+                {
+                    "word": " experiment",
+                    "start": 0.12,
+                    "end": 0.7,
+                    "probability": 0.9875040650367737
+                },
+                {
+                    "word": " produced",
+                    "start": 0.7,
+                    "end": 1.22,
+                    "probability": 0.9755183458328247
+                },
+                {
+                    "word": " unexpected",
+                    "start": 1.22,
+                    "end": 1.82,
+                    "probability": 0.9885398745536804
+                },
+                {
+                    "word": " results.",
+                    "start": 1.82,
+                    "end": 2.76,
+                    "probability": 0.8279443383216858
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

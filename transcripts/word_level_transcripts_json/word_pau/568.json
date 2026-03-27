@@ -1,0 +1,109 @@
+{
+    "text": " She's been working as a software developer for over five years now.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.18,
+            "text": " She's been working as a software developer for over five years now.",
+            "tokens": [
+                50364,
+                1240,
+                311,
+                668,
+                1364,
+                382,
+                257,
+                4722,
+                10754,
+                337,
+                670,
+                1732,
+                924,
+                586,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32890454460592833,
+            "compression_ratio": 0.9852941176470589,
+            "no_speech_prob": 0.004022595006972551,
+            "words": [
+                {
+                    "word": " She's",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.8640268743038177
+                },
+                {
+                    "word": " been",
+                    "start": 0.32,
+                    "end": 0.44,
+                    "probability": 0.9947860240936279
+                },
+                {
+                    "word": " working",
+                    "start": 0.44,
+                    "end": 0.76,
+                    "probability": 0.997829258441925
+                },
+                {
+                    "word": " as",
+                    "start": 0.76,
+                    "end": 1.02,
+                    "probability": 0.9967952370643616
+                },
+                {
+                    "word": " a",
+                    "start": 1.02,
+                    "end": 1.12,
+                    "probability": 0.9968164563179016
+                },
+                {
+                    "word": " software",
+                    "start": 1.12,
+                    "end": 1.48,
+                    "probability": 0.8266167044639587
+                },
+                {
+                    "word": " developer",
+                    "start": 1.48,
+                    "end": 1.96,
+                    "probability": 0.9981264472007751
+                },
+                {
+                    "word": " for",
+                    "start": 1.96,
+                    "end": 2.38,
+                    "probability": 0.9892288446426392
+                },
+                {
+                    "word": " over",
+                    "start": 2.38,
+                    "end": 5.1,
+                    "probability": 0.5745746493339539
+                },
+                {
+                    "word": " five",
+                    "start": 5.1,
+                    "end": 5.56,
+                    "probability": 0.8318210244178772
+                },
+                {
+                    "word": " years",
+                    "start": 5.56,
+                    "end": 5.82,
+                    "probability": 0.9987578392028809
+                },
+                {
+                    "word": " now.",
+                    "start": 5.82,
+                    "end": 6.18,
+                    "probability": 0.9872084259986877
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

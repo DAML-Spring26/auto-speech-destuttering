@@ -1,0 +1,52 @@
+{
+    "text": " to school we go.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.5,
+            "text": " to school we go.",
+            "tokens": [
+                50364,
+                281,
+                1395,
+                321,
+                352,
+                13,
+                50446
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.655542254447937,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.07632347196340561,
+            "words": [
+                {
+                    "word": " to",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.2792396545410156
+                },
+                {
+                    "word": " school",
+                    "start": 0.22,
+                    "end": 0.92,
+                    "probability": 0.9010956883430481
+                },
+                {
+                    "word": " we",
+                    "start": 0.92,
+                    "end": 1.16,
+                    "probability": 0.9030883312225342
+                },
+                {
+                    "word": " go.",
+                    "start": 1.16,
+                    "end": 1.5,
+                    "probability": 0.9818449020385742
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,87 @@
+{
+    "text": " the students preparing for their final exams next week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.58,
+            "text": " the students preparing for their final exams next week.",
+            "tokens": [
+                50364,
+                264,
+                1731,
+                10075,
+                337,
+                641,
+                2572,
+                20514,
+                958,
+                1243,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.328547661121075,
+            "compression_ratio": 0.9322033898305084,
+            "no_speech_prob": 0.00480608968064189,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.48189374804496765
+                },
+                {
+                    "word": " students",
+                    "start": 0.12,
+                    "end": 0.44,
+                    "probability": 0.9500414729118347
+                },
+                {
+                    "word": " preparing",
+                    "start": 0.44,
+                    "end": 0.9,
+                    "probability": 0.9533790946006775
+                },
+                {
+                    "word": " for",
+                    "start": 0.9,
+                    "end": 1.16,
+                    "probability": 0.9975970387458801
+                },
+                {
+                    "word": " their",
+                    "start": 1.16,
+                    "end": 1.26,
+                    "probability": 0.8967477679252625
+                },
+                {
+                    "word": " final",
+                    "start": 1.26,
+                    "end": 1.56,
+                    "probability": 0.9857209920883179
+                },
+                {
+                    "word": " exams",
+                    "start": 1.56,
+                    "end": 2.0,
+                    "probability": 0.8547374606132507
+                },
+                {
+                    "word": " next",
+                    "start": 2.0,
+                    "end": 2.3,
+                    "probability": 0.9955984354019165
+                },
+                {
+                    "word": " week.",
+                    "start": 2.3,
+                    "end": 2.58,
+                    "probability": 0.9981595873832703
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

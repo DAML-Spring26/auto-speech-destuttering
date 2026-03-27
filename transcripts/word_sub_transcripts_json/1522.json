@@ -1,0 +1,52 @@
+{
+    "text": " They discovered ancient articles.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.54,
+            "text": " They discovered ancient articles.",
+            "tokens": [
+                50364,
+                814,
+                6941,
+                7832,
+                11290,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4217485785484314,
+            "compression_ratio": 0.8048780487804879,
+            "no_speech_prob": 0.008180797100067139,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.4732387959957123
+                },
+                {
+                    "word": " discovered",
+                    "start": 0.16,
+                    "end": 0.6,
+                    "probability": 0.9918223023414612
+                },
+                {
+                    "word": " ancient",
+                    "start": 0.6,
+                    "end": 0.94,
+                    "probability": 0.6378688812255859
+                },
+                {
+                    "word": " articles.",
+                    "start": 0.94,
+                    "end": 1.54,
+                    "probability": 0.9295077919960022
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

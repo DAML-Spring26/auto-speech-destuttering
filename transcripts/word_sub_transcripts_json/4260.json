@@ -1,0 +1,80 @@
+{
+    "text": " We need to address these critical tissues soon.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.24,
+            "text": " We need to address these critical tissues soon.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                2985,
+                613,
+                4924,
+                27353,
+                2321,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2955429156621297,
+            "compression_ratio": 0.9038461538461539,
+            "no_speech_prob": 0.009624202735722065,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7184447050094604
+                },
+                {
+                    "word": " need",
+                    "start": 0.14,
+                    "end": 0.32,
+                    "probability": 0.9925776124000549
+                },
+                {
+                    "word": " to",
+                    "start": 0.32,
+                    "end": 0.48,
+                    "probability": 0.99774569272995
+                },
+                {
+                    "word": " address",
+                    "start": 0.48,
+                    "end": 0.76,
+                    "probability": 0.9760069251060486
+                },
+                {
+                    "word": " these",
+                    "start": 0.76,
+                    "end": 1.1,
+                    "probability": 0.9665029644966125
+                },
+                {
+                    "word": " critical",
+                    "start": 1.1,
+                    "end": 1.48,
+                    "probability": 0.9854751825332642
+                },
+                {
+                    "word": " tissues",
+                    "start": 1.48,
+                    "end": 1.84,
+                    "probability": 0.9537726640701294
+                },
+                {
+                    "word": " soon.",
+                    "start": 1.84,
+                    "end": 2.24,
+                    "probability": 0.9853674173355103
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

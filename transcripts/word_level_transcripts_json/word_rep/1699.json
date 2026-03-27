@@ -1,0 +1,52 @@
+{
+    "text": " We will go insane.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.72,
+            "text": " We will go insane.",
+            "tokens": [
+                50364,
+                492,
+                486,
+                352,
+                10838,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6438387632369995,
+            "compression_ratio": 0.6923076923076923,
+            "no_speech_prob": 0.025489982217550278,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.41163206100463867
+                },
+                {
+                    "word": " will",
+                    "start": 0.16,
+                    "end": 0.46,
+                    "probability": 0.7736209630966187
+                },
+                {
+                    "word": " go",
+                    "start": 0.46,
+                    "end": 1.26,
+                    "probability": 0.8661689162254333
+                },
+                {
+                    "word": " insane.",
+                    "start": 1.26,
+                    "end": 1.72,
+                    "probability": 0.2205807864665985
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,74 @@
+{
+    "text": " Have you seen my keys anywhere, like?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.38,
+            "text": " Have you seen my keys anywhere, like?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                1612,
+                452,
+                9317,
+                4992,
+                11,
+                411,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4114505449930827,
+            "compression_ratio": 0.8222222222222222,
+            "no_speech_prob": 0.04934818297624588,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 0.72,
+                    "probability": 0.8597611784934998
+                },
+                {
+                    "word": " you",
+                    "start": 0.72,
+                    "end": 0.9,
+                    "probability": 0.9977738261222839
+                },
+                {
+                    "word": " seen",
+                    "start": 0.9,
+                    "end": 1.12,
+                    "probability": 0.9979569911956787
+                },
+                {
+                    "word": " my",
+                    "start": 1.12,
+                    "end": 1.3,
+                    "probability": 0.9979000091552734
+                },
+                {
+                    "word": " keys",
+                    "start": 1.3,
+                    "end": 1.54,
+                    "probability": 0.9888233542442322
+                },
+                {
+                    "word": " anywhere,",
+                    "start": 1.54,
+                    "end": 1.96,
+                    "probability": 0.9887296557426453
+                },
+                {
+                    "word": " like?",
+                    "start": 2.24,
+                    "end": 2.38,
+                    "probability": 0.9486914873123169
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

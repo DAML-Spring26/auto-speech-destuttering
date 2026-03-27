@@ -1,0 +1,52 @@
+{
+    "text": " She manages customer reactions.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.48,
+            "text": " She manages customer reactions.",
+            "tokens": [
+                50364,
+                1240,
+                22489,
+                5474,
+                12215,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4295470118522644,
+            "compression_ratio": 0.7948717948717948,
+            "no_speech_prob": 0.009369462728500366,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.756842851638794
+                },
+                {
+                    "word": " manages",
+                    "start": 0.22,
+                    "end": 0.52,
+                    "probability": 0.9857572913169861
+                },
+                {
+                    "word": " customer",
+                    "start": 0.52,
+                    "end": 0.96,
+                    "probability": 0.451457142829895
+                },
+                {
+                    "word": " reactions.",
+                    "start": 0.96,
+                    "end": 1.48,
+                    "probability": 0.990385890007019
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,80 @@
+{
+    "text": " Have you considered the ethical implications of i?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.78,
+            "text": " Have you considered the ethical implications of i?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                4888,
+                264,
+                18890,
+                16602,
+                295,
+                741,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3917819658915202,
+            "compression_ratio": 0.9090909090909091,
+            "no_speech_prob": 0.007758582476526499,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7152372002601624
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.32,
+                    "probability": 0.9983766078948975
+                },
+                {
+                    "word": " considered",
+                    "start": 0.32,
+                    "end": 0.78,
+                    "probability": 0.9942858815193176
+                },
+                {
+                    "word": " the",
+                    "start": 0.78,
+                    "end": 1.06,
+                    "probability": 0.9891055226325989
+                },
+                {
+                    "word": " ethical",
+                    "start": 1.06,
+                    "end": 1.4,
+                    "probability": 0.9838919639587402
+                },
+                {
+                    "word": " implications",
+                    "start": 1.4,
+                    "end": 2.2,
+                    "probability": 0.9960541725158691
+                },
+                {
+                    "word": " of",
+                    "start": 2.2,
+                    "end": 2.54,
+                    "probability": 0.9321246147155762
+                },
+                {
+                    "word": " i?",
+                    "start": 2.54,
+                    "end": 2.78,
+                    "probability": 0.39896827936172485
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

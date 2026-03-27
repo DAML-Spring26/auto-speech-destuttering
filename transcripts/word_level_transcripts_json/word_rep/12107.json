@@ -1,0 +1,116 @@
+{
+    "text": " The kids are excited about going camping, camping in the mountains next weekend.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.06,
+            "text": " The kids are excited about going camping, camping in the mountains next weekend.",
+            "tokens": [
+                50364,
+                440,
+                2301,
+                366,
+                2919,
+                466,
+                516,
+                19470,
+                11,
+                19470,
+                294,
+                264,
+                10233,
+                958,
+                6711,
+                13,
+                50580
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23979600270589194,
+            "compression_ratio": 1.0526315789473684,
+            "no_speech_prob": 0.004233316518366337,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.88374263048172
+                },
+                {
+                    "word": " kids",
+                    "start": 0.12,
+                    "end": 0.34,
+                    "probability": 0.9944531321525574
+                },
+                {
+                    "word": " are",
+                    "start": 0.34,
+                    "end": 0.52,
+                    "probability": 0.9980225563049316
+                },
+                {
+                    "word": " excited",
+                    "start": 0.52,
+                    "end": 0.94,
+                    "probability": 0.9984387755393982
+                },
+                {
+                    "word": " about",
+                    "start": 0.94,
+                    "end": 1.16,
+                    "probability": 0.9979836940765381
+                },
+                {
+                    "word": " going",
+                    "start": 1.16,
+                    "end": 1.38,
+                    "probability": 0.9736678600311279
+                },
+                {
+                    "word": " camping,",
+                    "start": 1.38,
+                    "end": 1.82,
+                    "probability": 0.9836687445640564
+                },
+                {
+                    "word": " camping",
+                    "start": 2.14,
+                    "end": 2.5,
+                    "probability": 0.963099479675293
+                },
+                {
+                    "word": " in",
+                    "start": 2.5,
+                    "end": 2.82,
+                    "probability": 0.9915892481803894
+                },
+                {
+                    "word": " the",
+                    "start": 2.82,
+                    "end": 2.9,
+                    "probability": 0.9945405125617981
+                },
+                {
+                    "word": " mountains",
+                    "start": 2.9,
+                    "end": 3.28,
+                    "probability": 0.9735150933265686
+                },
+                {
+                    "word": " next",
+                    "start": 3.28,
+                    "end": 3.64,
+                    "probability": 0.9942848086357117
+                },
+                {
+                    "word": " weekend.",
+                    "start": 3.64,
+                    "end": 4.06,
+                    "probability": 0.9692968726158142
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

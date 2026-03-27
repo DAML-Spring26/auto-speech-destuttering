@@ -1,0 +1,59 @@
+{
+    "text": " The client requested additional confirmation.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.36,
+            "text": " The client requested additional confirmation.",
+            "tokens": [
+                50364,
+                440,
+                6423,
+                16436,
+                4497,
+                21871,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42997948328653973,
+            "compression_ratio": 0.9,
+            "no_speech_prob": 0.011261321604251862,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.4484863579273224
+                },
+                {
+                    "word": " client",
+                    "start": 0.12,
+                    "end": 0.44,
+                    "probability": 0.9695911407470703
+                },
+                {
+                    "word": " requested",
+                    "start": 0.44,
+                    "end": 1.02,
+                    "probability": 0.9952210783958435
+                },
+                {
+                    "word": " additional",
+                    "start": 1.02,
+                    "end": 1.68,
+                    "probability": 0.9755167365074158
+                },
+                {
+                    "word": " confirmation.",
+                    "start": 1.68,
+                    "end": 2.36,
+                    "probability": 0.987374484539032
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

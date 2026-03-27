@@ -1,0 +1,96 @@
+{
+    "text": " The company's profits have increased significantly since, since last quarter.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.84,
+            "text": " The company's profits have increased significantly since, since last quarter.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                17982,
+                362,
+                6505,
+                10591,
+                1670,
+                11,
+                1670,
+                1036,
+                6555,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30441662669181824,
+            "compression_ratio": 1.013157894736842,
+            "no_speech_prob": 0.0032243309542536736,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.8254862427711487
+                },
+                {
+                    "word": " company's",
+                    "start": 0.1,
+                    "end": 0.76,
+                    "probability": 0.9647442698478699
+                },
+                {
+                    "word": " profits",
+                    "start": 0.76,
+                    "end": 1.1,
+                    "probability": 0.9798765778541565
+                },
+                {
+                    "word": " have",
+                    "start": 1.1,
+                    "end": 1.36,
+                    "probability": 0.9945517182350159
+                },
+                {
+                    "word": " increased",
+                    "start": 1.36,
+                    "end": 1.72,
+                    "probability": 0.9963292479515076
+                },
+                {
+                    "word": " significantly",
+                    "start": 1.72,
+                    "end": 2.5,
+                    "probability": 0.9984203577041626
+                },
+                {
+                    "word": " since,",
+                    "start": 2.5,
+                    "end": 3.4,
+                    "probability": 0.9918034076690674
+                },
+                {
+                    "word": " since",
+                    "start": 3.4,
+                    "end": 4.06,
+                    "probability": 0.9872898459434509
+                },
+                {
+                    "word": " last",
+                    "start": 4.06,
+                    "end": 4.3,
+                    "probability": 0.9932084679603577
+                },
+                {
+                    "word": " quarter.",
+                    "start": 4.3,
+                    "end": 4.84,
+                    "probability": 0.9946329593658447
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

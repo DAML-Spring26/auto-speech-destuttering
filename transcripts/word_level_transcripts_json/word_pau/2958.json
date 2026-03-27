@@ -1,0 +1,105 @@
+{
+    "text": " the chef recommends trying. The special of the day.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.88,
+            "text": " the chef recommends trying.",
+            "tokens": [
+                50364,
+                264,
+                10530,
+                34556,
+                1382,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6976391077041626,
+            "compression_ratio": 0.9107142857142857,
+            "no_speech_prob": 0.04504380747675896,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.3587939143180847
+                },
+                {
+                    "word": " chef",
+                    "start": 0.18,
+                    "end": 0.5,
+                    "probability": 0.5999116897583008
+                },
+                {
+                    "word": " recommends",
+                    "start": 0.5,
+                    "end": 1.16,
+                    "probability": 0.9257946610450745
+                },
+                {
+                    "word": " trying.",
+                    "start": 1.16,
+                    "end": 1.88,
+                    "probability": 0.9654383659362793
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.2,
+            "end": 6.56,
+            "text": " The special of the day.",
+            "tokens": [
+                50624,
+                440,
+                2121,
+                295,
+                264,
+                786,
+                13,
+                50724
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6976391077041626,
+            "compression_ratio": 0.9107142857142857,
+            "no_speech_prob": 0.04504380747675896,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 4.92,
+                    "end": 5.42,
+                    "probability": 0.840538740158081
+                },
+                {
+                    "word": " special",
+                    "start": 5.42,
+                    "end": 5.92,
+                    "probability": 0.86026531457901
+                },
+                {
+                    "word": " of",
+                    "start": 5.92,
+                    "end": 6.2,
+                    "probability": 0.9970609545707703
+                },
+                {
+                    "word": " the",
+                    "start": 6.2,
+                    "end": 6.3,
+                    "probability": 0.9965655207633972
+                },
+                {
+                    "word": " day.",
+                    "start": 6.3,
+                    "end": 6.56,
+                    "probability": 0.9983073472976685
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

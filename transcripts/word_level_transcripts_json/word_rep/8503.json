@@ -1,0 +1,94 @@
+{
+    "text": " The team will meet end and discuss the new strategy.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.78,
+            "text": " The team will meet end and discuss the new strategy.",
+            "tokens": [
+                50364,
+                440,
+                1469,
+                486,
+                1677,
+                917,
+                293,
+                2248,
+                264,
+                777,
+                5206,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27315711975097656,
+            "compression_ratio": 0.9122807017543859,
+            "no_speech_prob": 0.0038638226687908173,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.8049293160438538
+                },
+                {
+                    "word": " team",
+                    "start": 0.1,
+                    "end": 0.34,
+                    "probability": 0.9888140559196472
+                },
+                {
+                    "word": " will",
+                    "start": 0.34,
+                    "end": 0.44,
+                    "probability": 0.994685173034668
+                },
+                {
+                    "word": " meet",
+                    "start": 0.44,
+                    "end": 0.66,
+                    "probability": 0.9631179571151733
+                },
+                {
+                    "word": " end",
+                    "start": 0.66,
+                    "end": 0.96,
+                    "probability": 0.7968021035194397
+                },
+                {
+                    "word": " and",
+                    "start": 0.96,
+                    "end": 1.4,
+                    "probability": 0.9062612652778625
+                },
+                {
+                    "word": " discuss",
+                    "start": 1.4,
+                    "end": 1.74,
+                    "probability": 0.9961642026901245
+                },
+                {
+                    "word": " the",
+                    "start": 1.74,
+                    "end": 2.02,
+                    "probability": 0.9879066944122314
+                },
+                {
+                    "word": " new",
+                    "start": 2.02,
+                    "end": 2.18,
+                    "probability": 0.9952560067176819
+                },
+                {
+                    "word": " strategy.",
+                    "start": 2.18,
+                    "end": 2.78,
+                    "probability": 0.9929063320159912
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

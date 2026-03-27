@@ -1,0 +1,59 @@
+{
+    "text": " She received multiple arrangement awards.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.28,
+            "text": " She received multiple arrangement awards.",
+            "tokens": [
+                50364,
+                1240,
+                4613,
+                3866,
+                17620,
+                15193,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5860687361823188,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.011549667455255985,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.3688260614871979
+                },
+                {
+                    "word": " received",
+                    "start": 0.24,
+                    "end": 0.64,
+                    "probability": 0.9108094573020935
+                },
+                {
+                    "word": " multiple",
+                    "start": 0.64,
+                    "end": 1.04,
+                    "probability": 0.9874681234359741
+                },
+                {
+                    "word": " arrangement",
+                    "start": 1.04,
+                    "end": 1.78,
+                    "probability": 0.8744490146636963
+                },
+                {
+                    "word": " awards.",
+                    "start": 1.78,
+                    "end": 2.28,
+                    "probability": 0.9727214574813843
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

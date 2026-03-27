@@ -1,0 +1,73 @@
+{
+    "text": " Medical research and hand this patient care.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.12,
+            "text": " Medical research and hand this patient care.",
+            "tokens": [
+                50364,
+                15896,
+                2132,
+                293,
+                1011,
+                341,
+                4537,
+                1127,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7211031913757324,
+            "compression_ratio": 0.8979591836734694,
+            "no_speech_prob": 0.005634361412376165,
+            "words": [
+                {
+                    "word": " Medical",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.5950785279273987
+                },
+                {
+                    "word": " research",
+                    "start": 0.44,
+                    "end": 0.9,
+                    "probability": 0.5975704789161682
+                },
+                {
+                    "word": " and",
+                    "start": 0.9,
+                    "end": 1.14,
+                    "probability": 0.739299476146698
+                },
+                {
+                    "word": " hand",
+                    "start": 1.14,
+                    "end": 1.32,
+                    "probability": 0.1286265254020691
+                },
+                {
+                    "word": " this",
+                    "start": 1.32,
+                    "end": 1.52,
+                    "probability": 0.1570717841386795
+                },
+                {
+                    "word": " patient",
+                    "start": 1.52,
+                    "end": 1.84,
+                    "probability": 0.9967879056930542
+                },
+                {
+                    "word": " care.",
+                    "start": 1.84,
+                    "end": 2.12,
+                    "probability": 0.9931842684745789
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

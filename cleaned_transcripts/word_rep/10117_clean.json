@@ -1,12 +1,12 @@
 {
-    "text": " The company CEO announced that they would be expanding into new markets next year.",
+    "text": " The company CEO announced that they were expanding into new markets next year.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 5.12,
-            "text": " The company CEO announced that they would be expanding into new markets next year.",
+            "end": 4.4,
+            "text": " The company CEO announced that they were expanding into new markets next year.",
             "tokens": [
                 50364,
                 440,
@@ -15,8 +15,7 @@
                 7548,
                 300,
                 436,
-                576,
-                312,
+                645,
                 14702,
                 666,
                 777,
@@ -24,12 +23,12 @@
                 958,
                 1064,
                 13,
-                50620
+                50584
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.29394210709465873,
-            "compression_ratio": 1.0,
-            "no_speech_prob": 0.003060563001781702
+            "avg_logprob": -0.3237781244165757,
+            "compression_ratio": 0.9873417721518988,
+            "no_speech_prob": 0.0026878516655415297
         }
     ],
     "language": "en"

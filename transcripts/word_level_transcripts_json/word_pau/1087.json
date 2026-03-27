@@ -1,0 +1,99 @@
+{
+    "text": " I love watching action. Moves is on weekends.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.2,
+            "text": " I love watching action.",
+            "tokens": [
+                50364,
+                286,
+                959,
+                1976,
+                3069,
+                13,
+                50522
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5291961431503296,
+            "compression_ratio": 0.8653846153846154,
+            "no_speech_prob": 0.013433584943413734,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.9100486040115356
+                },
+                {
+                    "word": " love",
+                    "start": 0.14,
+                    "end": 0.28,
+                    "probability": 0.9849606156349182
+                },
+                {
+                    "word": " watching",
+                    "start": 0.28,
+                    "end": 0.68,
+                    "probability": 0.9938693046569824
+                },
+                {
+                    "word": " action.",
+                    "start": 0.68,
+                    "end": 1.2,
+                    "probability": 0.9212526679039001
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.16,
+            "end": 3.9,
+            "text": " Moves is on weekends.",
+            "tokens": [
+                50522,
+                3335,
+                977,
+                307,
+                322,
+                23595,
+                13,
+                50586
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5291961431503296,
+            "compression_ratio": 0.8653846153846154,
+            "no_speech_prob": 0.013433584943413734,
+            "words": [
+                {
+                    "word": " Moves",
+                    "start": 2.9299999999999997,
+                    "end": 3.3,
+                    "probability": 0.38280412554740906
+                },
+                {
+                    "word": " is",
+                    "start": 3.3,
+                    "end": 3.42,
+                    "probability": 0.7641669511795044
+                },
+                {
+                    "word": " on",
+                    "start": 3.42,
+                    "end": 3.56,
+                    "probability": 0.9850014448165894
+                },
+                {
+                    "word": " weekends.",
+                    "start": 3.56,
+                    "end": 3.9,
+                    "probability": 0.9500796794891357
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

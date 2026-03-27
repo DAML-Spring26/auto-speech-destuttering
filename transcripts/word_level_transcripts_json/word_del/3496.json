@@ -1,0 +1,81 @@
+{
+    "text": " The company's profits increased significantly since last year.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.1,
+            "text": " The company's profits increased significantly since last year.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                17982,
+                6505,
+                10591,
+                1670,
+                1036,
+                1064,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30591447536761945,
+            "compression_ratio": 0.9393939393939394,
+            "no_speech_prob": 0.005353869870305061,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.8525553345680237
+                },
+                {
+                    "word": " company's",
+                    "start": 0.1,
+                    "end": 0.64,
+                    "probability": 0.9838829338550568
+                },
+                {
+                    "word": " profits",
+                    "start": 0.64,
+                    "end": 0.94,
+                    "probability": 0.9645991921424866
+                },
+                {
+                    "word": " increased",
+                    "start": 0.94,
+                    "end": 1.34,
+                    "probability": 0.6668416261672974
+                },
+                {
+                    "word": " significantly",
+                    "start": 1.34,
+                    "end": 2.0,
+                    "probability": 0.9991662502288818
+                },
+                {
+                    "word": " since",
+                    "start": 2.0,
+                    "end": 2.54,
+                    "probability": 0.9978827834129333
+                },
+                {
+                    "word": " last",
+                    "start": 2.54,
+                    "end": 2.78,
+                    "probability": 0.99498051404953
+                },
+                {
+                    "word": " year.",
+                    "start": 2.78,
+                    "end": 3.1,
+                    "probability": 0.9987367987632751
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

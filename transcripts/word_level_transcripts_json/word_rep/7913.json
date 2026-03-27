@@ -1,0 +1,109 @@
+{
+    "text": " The team's performance has been consistently improving over the past few months.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.74,
+            "text": " The team's performance has been consistently improving over the past few months.",
+            "tokens": [
+                50364,
+                440,
+                1469,
+                311,
+                3389,
+                575,
+                668,
+                14961,
+                11470,
+                670,
+                264,
+                1791,
+                1326,
+                2493,
+                13,
+                50672
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26981087291941924,
+            "compression_ratio": 1.0389610389610389,
+            "no_speech_prob": 0.01029293518513441,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8959160447120667
+                },
+                {
+                    "word": " team's",
+                    "start": 0.12,
+                    "end": 0.52,
+                    "probability": 0.9745659232139587
+                },
+                {
+                    "word": " performance",
+                    "start": 0.52,
+                    "end": 1.1,
+                    "probability": 0.9966092109680176
+                },
+                {
+                    "word": " has",
+                    "start": 1.1,
+                    "end": 1.44,
+                    "probability": 0.9922453761100769
+                },
+                {
+                    "word": " been",
+                    "start": 1.44,
+                    "end": 1.66,
+                    "probability": 0.9895715713500977
+                },
+                {
+                    "word": " consistently",
+                    "start": 1.66,
+                    "end": 2.52,
+                    "probability": 0.9901483654975891
+                },
+                {
+                    "word": " improving",
+                    "start": 2.52,
+                    "end": 4.04,
+                    "probability": 0.3521532118320465
+                },
+                {
+                    "word": " over",
+                    "start": 4.04,
+                    "end": 4.54,
+                    "probability": 0.98305743932724
+                },
+                {
+                    "word": " the",
+                    "start": 4.54,
+                    "end": 4.7,
+                    "probability": 0.9979730248451233
+                },
+                {
+                    "word": " past",
+                    "start": 4.7,
+                    "end": 5.0,
+                    "probability": 0.9805625677108765
+                },
+                {
+                    "word": " few",
+                    "start": 5.0,
+                    "end": 5.28,
+                    "probability": 0.9978970289230347
+                },
+                {
+                    "word": " months.",
+                    "start": 5.28,
+                    "end": 5.74,
+                    "probability": 0.9988507032394409
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

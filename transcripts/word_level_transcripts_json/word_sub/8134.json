@@ -1,0 +1,81 @@
+{
+    "text": " The genetic mutation resulted in an unexpected phenotype.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.36,
+            "text": " The genetic mutation resulted in an unexpected phenotype.",
+            "tokens": [
+                50364,
+                440,
+                12462,
+                27960,
+                18753,
+                294,
+                364,
+                13106,
+                7279,
+                13108,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5001372557419997,
+            "compression_ratio": 0.9193548387096774,
+            "no_speech_prob": 0.002601433778181672,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6606301069259644
+                },
+                {
+                    "word": " genetic",
+                    "start": 0.1,
+                    "end": 0.5,
+                    "probability": 0.7356337904930115
+                },
+                {
+                    "word": " mutation",
+                    "start": 0.5,
+                    "end": 1.12,
+                    "probability": 0.9958749413490295
+                },
+                {
+                    "word": " resulted",
+                    "start": 1.12,
+                    "end": 1.56,
+                    "probability": 0.9960004687309265
+                },
+                {
+                    "word": " in",
+                    "start": 1.56,
+                    "end": 1.86,
+                    "probability": 0.9964248538017273
+                },
+                {
+                    "word": " an",
+                    "start": 1.86,
+                    "end": 1.96,
+                    "probability": 0.985054075717926
+                },
+                {
+                    "word": " unexpected",
+                    "start": 1.96,
+                    "end": 2.52,
+                    "probability": 0.9016417264938354
+                },
+                {
+                    "word": " phenotype.",
+                    "start": 2.52,
+                    "end": 3.36,
+                    "probability": 0.38009877502918243
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

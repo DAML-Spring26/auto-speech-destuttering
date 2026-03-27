@@ -1,0 +1,74 @@
+{
+    "text": " Patients should take the medicine twice daily.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.2,
+            "text": " Patients should take the medicine twice daily.",
+            "tokens": [
+                50364,
+                4379,
+                2448,
+                820,
+                747,
+                264,
+                7195,
+                6091,
+                5212,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.462405800819397,
+            "compression_ratio": 0.8846153846153846,
+            "no_speech_prob": 0.012005054391920567,
+            "words": [
+                {
+                    "word": " Patients",
+                    "start": 0.0,
+                    "end": 0.48,
+                    "probability": 0.6494584381580353
+                },
+                {
+                    "word": " should",
+                    "start": 0.48,
+                    "end": 0.62,
+                    "probability": 0.9894298911094666
+                },
+                {
+                    "word": " take",
+                    "start": 0.62,
+                    "end": 0.78,
+                    "probability": 0.9969472289085388
+                },
+                {
+                    "word": " the",
+                    "start": 0.78,
+                    "end": 0.96,
+                    "probability": 0.9073523879051208
+                },
+                {
+                    "word": " medicine",
+                    "start": 0.96,
+                    "end": 1.3,
+                    "probability": 0.9890571236610413
+                },
+                {
+                    "word": " twice",
+                    "start": 1.3,
+                    "end": 1.74,
+                    "probability": 0.9856196641921997
+                },
+                {
+                    "word": " daily.",
+                    "start": 1.74,
+                    "end": 2.2,
+                    "probability": 0.9970619082450867
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

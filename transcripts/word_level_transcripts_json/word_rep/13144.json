@@ -1,0 +1,146 @@
+{
+    "text": " The new marketing campaign aims to reach a broader audience through through social media platforms.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.8,
+            "text": " The new marketing campaign aims to reach a broader audience through",
+            "tokens": [
+                50364,
+                440,
+                777,
+                6370,
+                5129,
+                24683,
+                281,
+                2524,
+                257,
+                13227,
+                4034,
+                807,
+                50560
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28920750390915645,
+            "compression_ratio": 1.2073170731707317,
+            "no_speech_prob": 0.0070274705067276955,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.5566748380661011
+                },
+                {
+                    "word": " new",
+                    "start": 0.18,
+                    "end": 0.36,
+                    "probability": 0.9883667826652527
+                },
+                {
+                    "word": " marketing",
+                    "start": 0.36,
+                    "end": 0.84,
+                    "probability": 0.9645411968231201
+                },
+                {
+                    "word": " campaign",
+                    "start": 0.84,
+                    "end": 1.5,
+                    "probability": 0.9757775068283081
+                },
+                {
+                    "word": " aims",
+                    "start": 1.5,
+                    "end": 1.98,
+                    "probability": 0.9984914064407349
+                },
+                {
+                    "word": " to",
+                    "start": 1.98,
+                    "end": 2.2,
+                    "probability": 0.9978845715522766
+                },
+                {
+                    "word": " reach",
+                    "start": 2.2,
+                    "end": 2.42,
+                    "probability": 0.9909180402755737
+                },
+                {
+                    "word": " a",
+                    "start": 2.42,
+                    "end": 2.64,
+                    "probability": 0.98338782787323
+                },
+                {
+                    "word": " broader",
+                    "start": 2.64,
+                    "end": 2.92,
+                    "probability": 0.9945664405822754
+                },
+                {
+                    "word": " audience",
+                    "start": 2.92,
+                    "end": 3.42,
+                    "probability": 0.9994422793388367
+                },
+                {
+                    "word": " through",
+                    "start": 3.42,
+                    "end": 3.8,
+                    "probability": 0.9829732179641724
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.8,
+            "end": 5.54,
+            "text": " through social media platforms.",
+            "tokens": [
+                50560,
+                807,
+                2093,
+                3021,
+                9473,
+                13,
+                50660
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28920750390915645,
+            "compression_ratio": 1.2073170731707317,
+            "no_speech_prob": 0.0070274705067276955,
+            "words": [
+                {
+                    "word": " through",
+                    "start": 3.8,
+                    "end": 4.16,
+                    "probability": 0.4033487141132355
+                },
+                {
+                    "word": " social",
+                    "start": 4.16,
+                    "end": 4.62,
+                    "probability": 0.9824491739273071
+                },
+                {
+                    "word": " media",
+                    "start": 4.62,
+                    "end": 4.94,
+                    "probability": 0.9993122816085815
+                },
+                {
+                    "word": " platforms.",
+                    "start": 4.94,
+                    "end": 5.54,
+                    "probability": 0.9938293099403381
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

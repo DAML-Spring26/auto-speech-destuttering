@@ -1,0 +1,88 @@
+{
+    "text": " I'm concerned about the potential impact on our budget.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.02,
+            "text": " I'm concerned about the potential impact on our budget.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                5922,
+                466,
+                264,
+                3995,
+                2712,
+                322,
+                527,
+                4706,
+                13,
+                50572
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3142474378858294,
+            "compression_ratio": 0.9016393442622951,
+            "no_speech_prob": 0.004312779754400253,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.8122820556163788
+                },
+                {
+                    "word": " concerned",
+                    "start": 0.26,
+                    "end": 0.7,
+                    "probability": 0.9920095205307007
+                },
+                {
+                    "word": " about",
+                    "start": 0.7,
+                    "end": 1.06,
+                    "probability": 0.9931689500808716
+                },
+                {
+                    "word": " the",
+                    "start": 1.06,
+                    "end": 2.18,
+                    "probability": 0.9299545884132385
+                },
+                {
+                    "word": " potential",
+                    "start": 2.18,
+                    "end": 2.7,
+                    "probability": 0.998551070690155
+                },
+                {
+                    "word": " impact",
+                    "start": 2.7,
+                    "end": 3.14,
+                    "probability": 0.9965795874595642
+                },
+                {
+                    "word": " on",
+                    "start": 3.14,
+                    "end": 3.48,
+                    "probability": 0.9925209283828735
+                },
+                {
+                    "word": " our",
+                    "start": 3.48,
+                    "end": 3.64,
+                    "probability": 0.9932745695114136
+                },
+                {
+                    "word": " budget.",
+                    "start": 3.64,
+                    "end": 4.02,
+                    "probability": 0.9957925081253052
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

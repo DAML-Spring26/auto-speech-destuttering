@@ -1,0 +1,66 @@
+{
+    "text": " The manager improved the budget plan.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.74,
+            "text": " The manager improved the budget plan.",
+            "tokens": [
+                50364,
+                440,
+                6598,
+                9689,
+                264,
+                4706,
+                1393,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3018369436264038,
+            "compression_ratio": 0.8409090909090909,
+            "no_speech_prob": 0.0017374695744365454,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7767677903175354
+                },
+                {
+                    "word": " manager",
+                    "start": 0.12,
+                    "end": 0.4,
+                    "probability": 0.9839264750480652
+                },
+                {
+                    "word": " improved",
+                    "start": 0.4,
+                    "end": 0.84,
+                    "probability": 0.8421600461006165
+                },
+                {
+                    "word": " the",
+                    "start": 0.84,
+                    "end": 1.04,
+                    "probability": 0.9765530228614807
+                },
+                {
+                    "word": " budget",
+                    "start": 1.04,
+                    "end": 1.32,
+                    "probability": 0.9936303496360779
+                },
+                {
+                    "word": " plan.",
+                    "start": 1.32,
+                    "end": 1.74,
+                    "probability": 0.9976893663406372
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

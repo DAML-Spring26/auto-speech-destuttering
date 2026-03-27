@@ -1,0 +1,94 @@
+{
+    "text": " Remember to bring your sunscreen and hat to the beach.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.48,
+            "text": " Remember to bring your sunscreen and hat to the beach.",
+            "tokens": [
+                50364,
+                5459,
+                281,
+                1565,
+                428,
+                30304,
+                293,
+                2385,
+                281,
+                264,
+                7534,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39589708192007883,
+            "compression_ratio": 0.9,
+            "no_speech_prob": 0.00812990590929985,
+            "words": [
+                {
+                    "word": " Remember",
+                    "start": 0.0,
+                    "end": 0.54,
+                    "probability": 0.815279483795166
+                },
+                {
+                    "word": " to",
+                    "start": 0.54,
+                    "end": 0.84,
+                    "probability": 0.9817603230476379
+                },
+                {
+                    "word": " bring",
+                    "start": 0.84,
+                    "end": 1.16,
+                    "probability": 0.937545657157898
+                },
+                {
+                    "word": " your",
+                    "start": 1.16,
+                    "end": 4.68,
+                    "probability": 0.7295063138008118
+                },
+                {
+                    "word": " sunscreen",
+                    "start": 4.68,
+                    "end": 5.22,
+                    "probability": 0.9760446548461914
+                },
+                {
+                    "word": " and",
+                    "start": 5.22,
+                    "end": 5.6,
+                    "probability": 0.9327593445777893
+                },
+                {
+                    "word": " hat",
+                    "start": 5.6,
+                    "end": 5.82,
+                    "probability": 0.9623240828514099
+                },
+                {
+                    "word": " to",
+                    "start": 5.82,
+                    "end": 6.08,
+                    "probability": 0.9922218918800354
+                },
+                {
+                    "word": " the",
+                    "start": 6.08,
+                    "end": 6.2,
+                    "probability": 0.9963345527648926
+                },
+                {
+                    "word": " beach.",
+                    "start": 6.2,
+                    "end": 6.48,
+                    "probability": 0.9909183979034424
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

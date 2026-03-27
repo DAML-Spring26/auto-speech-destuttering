@@ -1,0 +1,66 @@
+{
+    "text": " The developers makes the critical bug.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.74,
+            "text": " The developers makes the critical bug.",
+            "tokens": [
+                50364,
+                440,
+                8849,
+                1669,
+                264,
+                4924,
+                7426,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5648008346557617,
+            "compression_ratio": 0.8444444444444444,
+            "no_speech_prob": 0.015324399806559086,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5679999589920044
+                },
+                {
+                    "word": " developers",
+                    "start": 0.1,
+                    "end": 0.54,
+                    "probability": 0.7751933336257935
+                },
+                {
+                    "word": " makes",
+                    "start": 0.54,
+                    "end": 0.86,
+                    "probability": 0.3518701493740082
+                },
+                {
+                    "word": " the",
+                    "start": 0.86,
+                    "end": 1.08,
+                    "probability": 0.9876765012741089
+                },
+                {
+                    "word": " critical",
+                    "start": 1.08,
+                    "end": 1.4,
+                    "probability": 0.8044263124465942
+                },
+                {
+                    "word": " bug.",
+                    "start": 1.4,
+                    "end": 1.74,
+                    "probability": 0.2556147575378418
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

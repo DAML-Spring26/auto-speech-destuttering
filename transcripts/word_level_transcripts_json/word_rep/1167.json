@@ -1,0 +1,59 @@
+{
+    "text": " that the car is red.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.18,
+            "text": " that the car is red.",
+            "tokens": [
+                50364,
+                300,
+                264,
+                1032,
+                307,
+                2182,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5127793418036567,
+            "compression_ratio": 0.7142857142857143,
+            "no_speech_prob": 0.02778807282447815,
+            "words": [
+                {
+                    "word": " that",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.5138301253318787
+                },
+                {
+                    "word": " the",
+                    "start": 0.18,
+                    "end": 0.54,
+                    "probability": 0.9725857973098755
+                },
+                {
+                    "word": " car",
+                    "start": 0.54,
+                    "end": 0.8,
+                    "probability": 0.9937638640403748
+                },
+                {
+                    "word": " is",
+                    "start": 0.8,
+                    "end": 0.94,
+                    "probability": 0.9341012239456177
+                },
+                {
+                    "word": " red.",
+                    "start": 0.94,
+                    "end": 1.18,
+                    "probability": 0.8174319267272949
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

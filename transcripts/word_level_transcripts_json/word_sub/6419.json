@@ -1,0 +1,101 @@
+{
+    "text": " Their committee is reviewing the proposal for the new research plant.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.82,
+            "text": " Their committee is reviewing the proposal for the new research plant.",
+            "tokens": [
+                50364,
+                6710,
+                7482,
+                307,
+                19576,
+                264,
+                11494,
+                337,
+                264,
+                777,
+                2132,
+                3709,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.331662654876709,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.003633583663031459,
+            "words": [
+                {
+                    "word": " Their",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.4262172281742096
+                },
+                {
+                    "word": " committee",
+                    "start": 0.16,
+                    "end": 0.68,
+                    "probability": 0.7405655384063721
+                },
+                {
+                    "word": " is",
+                    "start": 0.68,
+                    "end": 1.1,
+                    "probability": 0.9950810670852661
+                },
+                {
+                    "word": " reviewing",
+                    "start": 1.1,
+                    "end": 1.6,
+                    "probability": 0.9903719425201416
+                },
+                {
+                    "word": " the",
+                    "start": 1.6,
+                    "end": 1.82,
+                    "probability": 0.865130603313446
+                },
+                {
+                    "word": " proposal",
+                    "start": 1.82,
+                    "end": 2.34,
+                    "probability": 0.9974722266197205
+                },
+                {
+                    "word": " for",
+                    "start": 2.34,
+                    "end": 2.62,
+                    "probability": 0.996093213558197
+                },
+                {
+                    "word": " the",
+                    "start": 2.62,
+                    "end": 2.72,
+                    "probability": 0.9747401475906372
+                },
+                {
+                    "word": " new",
+                    "start": 2.72,
+                    "end": 2.92,
+                    "probability": 0.9286289215087891
+                },
+                {
+                    "word": " research",
+                    "start": 2.92,
+                    "end": 3.38,
+                    "probability": 0.7724913358688354
+                },
+                {
+                    "word": " plant.",
+                    "start": 3.38,
+                    "end": 3.82,
+                    "probability": 0.689990222454071
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

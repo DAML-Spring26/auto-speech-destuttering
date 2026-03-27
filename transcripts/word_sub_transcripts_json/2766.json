@@ -1,0 +1,73 @@
+{
+    "text": " They must figure the building before leaving.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.96,
+            "text": " They must figure the building before leaving.",
+            "tokens": [
+                50364,
+                814,
+                1633,
+                2573,
+                264,
+                2390,
+                949,
+                5012,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3120790828358043,
+            "compression_ratio": 0.9,
+            "no_speech_prob": 0.002304431749507785,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7366940379142761
+                },
+                {
+                    "word": " must",
+                    "start": 0.14,
+                    "end": 0.38,
+                    "probability": 0.9959362745285034
+                },
+                {
+                    "word": " figure",
+                    "start": 0.38,
+                    "end": 0.74,
+                    "probability": 0.9831667542457581
+                },
+                {
+                    "word": " the",
+                    "start": 0.74,
+                    "end": 0.9,
+                    "probability": 0.9746459126472473
+                },
+                {
+                    "word": " building",
+                    "start": 0.9,
+                    "end": 1.22,
+                    "probability": 0.9895399212837219
+                },
+                {
+                    "word": " before",
+                    "start": 1.22,
+                    "end": 1.6,
+                    "probability": 0.9871335029602051
+                },
+                {
+                    "word": " leaving.",
+                    "start": 1.6,
+                    "end": 1.96,
+                    "probability": 0.9973437190055847
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,19 +1,14 @@
 {
-    "text": " She is working as a volunteer at the animal shelter for over five years now.",
+    "text": " volunteer at the animal shelter for over five years.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 3.92,
-            "text": " She is working as a volunteer at the animal shelter for over five years now.",
+            "end": 2.6,
+            "text": " volunteer at the animal shelter for over five years.",
             "tokens": [
                 50364,
-                1240,
-                307,
-                1364,
-                382,
-                257,
                 13835,
                 412,
                 264,
@@ -23,14 +18,13 @@
                 670,
                 1732,
                 924,
-                586,
                 13,
-                50560
+                50494
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.2370511858086837,
-            "compression_ratio": 1.0410958904109588,
-            "no_speech_prob": 0.0010615871287882328
+            "avg_logprob": -0.5672051356388972,
+            "compression_ratio": 0.9285714285714286,
+            "no_speech_prob": 0.013294625096023083
         }
     ],
     "language": "en"

@@ -1,0 +1,94 @@
+{
+    "text": " The fire department will be conducting a drill next week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.9599999999999995,
+            "end": 6.16,
+            "text": " The fire department will be conducting a drill next week.",
+            "tokens": [
+                50364,
+                440,
+                2610,
+                5882,
+                486,
+                312,
+                21749,
+                257,
+                11392,
+                958,
+                1243,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3315035615648542,
+            "compression_ratio": 0.9344262295081968,
+            "no_speech_prob": 0.13081413507461548,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.9599999999999995,
+                    "end": 1.6,
+                    "probability": 0.8465427756309509
+                },
+                {
+                    "word": " fire",
+                    "start": 1.6,
+                    "end": 1.96,
+                    "probability": 0.8945174813270569
+                },
+                {
+                    "word": " department",
+                    "start": 1.96,
+                    "end": 2.5,
+                    "probability": 0.9915376901626587
+                },
+                {
+                    "word": " will",
+                    "start": 2.5,
+                    "end": 2.82,
+                    "probability": 0.9891327023506165
+                },
+                {
+                    "word": " be",
+                    "start": 2.82,
+                    "end": 3.12,
+                    "probability": 0.987307071685791
+                },
+                {
+                    "word": " conducting",
+                    "start": 3.12,
+                    "end": 5.06,
+                    "probability": 0.9705917239189148
+                },
+                {
+                    "word": " a",
+                    "start": 5.06,
+                    "end": 5.42,
+                    "probability": 0.9968804121017456
+                },
+                {
+                    "word": " drill",
+                    "start": 5.42,
+                    "end": 5.56,
+                    "probability": 0.9965698719024658
+                },
+                {
+                    "word": " next",
+                    "start": 5.56,
+                    "end": 5.88,
+                    "probability": 0.998202919960022
+                },
+                {
+                    "word": " week.",
+                    "start": 5.88,
+                    "end": 6.16,
+                    "probability": 0.9990967512130737
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

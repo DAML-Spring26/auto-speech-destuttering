@@ -1,0 +1,140 @@
+{
+    "text": " The government announced new measures to support small businesses affected by the economic downturn.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.46,
+            "text": " The government announced new measures to support small businesses affected by the economic",
+            "tokens": [
+                50364,
+                440,
+                2463,
+                7548,
+                777,
+                8000,
+                281,
+                1406,
+                1359,
+                6011,
+                8028,
+                538,
+                264,
+                4836,
+                50588
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21754936610951142,
+            "compression_ratio": 1.125,
+            "no_speech_prob": 0.004465809091925621,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.9199691414833069
+                },
+                {
+                    "word": " government",
+                    "start": 0.12,
+                    "end": 0.46,
+                    "probability": 0.7133539319038391
+                },
+                {
+                    "word": " announced",
+                    "start": 0.46,
+                    "end": 0.9,
+                    "probability": 0.8828555941581726
+                },
+                {
+                    "word": " new",
+                    "start": 0.9,
+                    "end": 1.24,
+                    "probability": 0.9938661456108093
+                },
+                {
+                    "word": " measures",
+                    "start": 1.24,
+                    "end": 1.6,
+                    "probability": 0.9984883069992065
+                },
+                {
+                    "word": " to",
+                    "start": 1.6,
+                    "end": 1.9,
+                    "probability": 0.9975917339324951
+                },
+                {
+                    "word": " support",
+                    "start": 1.9,
+                    "end": 2.22,
+                    "probability": 0.998699426651001
+                },
+                {
+                    "word": " small",
+                    "start": 2.22,
+                    "end": 2.54,
+                    "probability": 0.9965620636940002
+                },
+                {
+                    "word": " businesses",
+                    "start": 2.54,
+                    "end": 3.1,
+                    "probability": 0.9795221090316772
+                },
+                {
+                    "word": " affected",
+                    "start": 3.1,
+                    "end": 3.58,
+                    "probability": 0.9876129031181335
+                },
+                {
+                    "word": " by",
+                    "start": 3.58,
+                    "end": 3.86,
+                    "probability": 0.9994215965270996
+                },
+                {
+                    "word": " the",
+                    "start": 3.86,
+                    "end": 3.98,
+                    "probability": 0.98589026927948
+                },
+                {
+                    "word": " economic",
+                    "start": 3.98,
+                    "end": 4.46,
+                    "probability": 0.9837672710418701
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 446,
+            "start": 4.46,
+            "end": 5.08,
+            "text": " downturn.",
+            "tokens": [
+                50364,
+                11655,
+                925,
+                13,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.689565102259318,
+            "compression_ratio": 0.5294117647058824,
+            "no_speech_prob": 0.6277726292610168,
+            "words": [
+                {
+                    "word": " downturn.",
+                    "start": 4.46,
+                    "end": 5.08,
+                    "probability": 0.4908135762816528
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

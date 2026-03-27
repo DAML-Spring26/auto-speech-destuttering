@@ -1,0 +1,111 @@
+{
+    "text": " Did you catch the latest episode of that? New series",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.54,
+            "text": " Did you catch the latest episode of that?",
+            "tokens": [
+                50364,
+                2589,
+                291,
+                3745,
+                264,
+                6792,
+                3500,
+                295,
+                300,
+                30,
+                50639
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4264938235282898,
+            "compression_ratio": 0.8813559322033898,
+            "no_speech_prob": 0.01487154420465231,
+            "words": [
+                {
+                    "word": " Did",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8470757603645325
+                },
+                {
+                    "word": " you",
+                    "start": 0.14,
+                    "end": 0.32,
+                    "probability": 0.9943390488624573
+                },
+                {
+                    "word": " catch",
+                    "start": 0.32,
+                    "end": 0.66,
+                    "probability": 0.9935224652290344
+                },
+                {
+                    "word": " the",
+                    "start": 0.66,
+                    "end": 0.88,
+                    "probability": 0.9864141345024109
+                },
+                {
+                    "word": " latest",
+                    "start": 0.88,
+                    "end": 1.3,
+                    "probability": 0.9898051023483276
+                },
+                {
+                    "word": " episode",
+                    "start": 1.3,
+                    "end": 2.06,
+                    "probability": 0.9679797291755676
+                },
+                {
+                    "word": " of",
+                    "start": 2.06,
+                    "end": 2.32,
+                    "probability": 0.9903996586799622
+                },
+                {
+                    "word": " that?",
+                    "start": 2.32,
+                    "end": 2.54,
+                    "probability": 0.9606034755706787
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.82,
+            "end": 6.06,
+            "text": " New series",
+            "tokens": [
+                50639,
+                1873,
+                2638,
+                50689
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4264938235282898,
+            "compression_ratio": 0.8813559322033898,
+            "no_speech_prob": 0.01487154420465231,
+            "words": [
+                {
+                    "word": " New",
+                    "start": 4.82,
+                    "end": 5.5,
+                    "probability": 0.7490326762199402
+                },
+                {
+                    "word": " series",
+                    "start": 5.5,
+                    "end": 6.06,
+                    "probability": 0.9437233805656433
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

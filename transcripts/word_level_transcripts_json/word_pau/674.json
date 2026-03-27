@@ -1,0 +1,120 @@
+{
+    "text": " The sales team exceeded their targets for... ...the third consecutive quarter.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.4,
+            "text": " The sales team exceeded their targets for...",
+            "tokens": [
+                50364,
+                440,
+                5763,
+                1469,
+                38026,
+                641,
+                12911,
+                337,
+                485,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5849474856728002,
+            "compression_ratio": 1.054054054054054,
+            "no_speech_prob": 0.00843053124845028,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8775546550750732
+                },
+                {
+                    "word": " sales",
+                    "start": 0.12,
+                    "end": 0.52,
+                    "probability": 0.9242920875549316
+                },
+                {
+                    "word": " team",
+                    "start": 0.52,
+                    "end": 0.76,
+                    "probability": 0.9343085289001465
+                },
+                {
+                    "word": " exceeded",
+                    "start": 0.76,
+                    "end": 1.14,
+                    "probability": 0.9004225134849548
+                },
+                {
+                    "word": " their",
+                    "start": 1.14,
+                    "end": 1.38,
+                    "probability": 0.986536979675293
+                },
+                {
+                    "word": " targets",
+                    "start": 1.38,
+                    "end": 1.72,
+                    "probability": 0.9759608507156372
+                },
+                {
+                    "word": " for...",
+                    "start": 1.72,
+                    "end": 2.4,
+                    "probability": 0.6393422335386276
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.6000000000000005,
+            "end": 7.18,
+            "text": " ...the third consecutive quarter.",
+            "tokens": [
+                50644,
+                1097,
+                3322,
+                2636,
+                30497,
+                6555,
+                13,
+                50744
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5849474856728002,
+            "compression_ratio": 1.054054054054054,
+            "no_speech_prob": 0.00843053124845028,
+            "words": [
+                {
+                    "word": " ...the",
+                    "start": 5.39,
+                    "end": 5.76,
+                    "probability": 0.5043804123997688
+                },
+                {
+                    "word": " third",
+                    "start": 5.76,
+                    "end": 6.04,
+                    "probability": 0.6981058716773987
+                },
+                {
+                    "word": " consecutive",
+                    "start": 6.04,
+                    "end": 6.68,
+                    "probability": 0.9929354786872864
+                },
+                {
+                    "word": " quarter.",
+                    "start": 6.68,
+                    "end": 7.18,
+                    "probability": 0.9910790324211121
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

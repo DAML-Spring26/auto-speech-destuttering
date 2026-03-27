@@ -1,0 +1,87 @@
+{
+    "text": " Remember to update your password regularly for enhanced security.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.02,
+            "text": " Remember to update your password regularly for enhanced security.",
+            "tokens": [
+                50364,
+                5459,
+                281,
+                5623,
+                428,
+                11524,
+                11672,
+                337,
+                21191,
+                3825,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.43030405044555664,
+            "compression_ratio": 0.9701492537313433,
+            "no_speech_prob": 0.003161802887916565,
+            "words": [
+                {
+                    "word": " Remember",
+                    "start": 0.0,
+                    "end": 0.5,
+                    "probability": 0.8648505806922913
+                },
+                {
+                    "word": " to",
+                    "start": 0.5,
+                    "end": 0.8,
+                    "probability": 0.5046857595443726
+                },
+                {
+                    "word": " update",
+                    "start": 0.8,
+                    "end": 1.36,
+                    "probability": 0.8578219413757324
+                },
+                {
+                    "word": " your",
+                    "start": 1.36,
+                    "end": 2.98,
+                    "probability": 0.5584653615951538
+                },
+                {
+                    "word": " password",
+                    "start": 2.98,
+                    "end": 3.6,
+                    "probability": 0.9667619466781616
+                },
+                {
+                    "word": " regularly",
+                    "start": 3.6,
+                    "end": 4.3,
+                    "probability": 0.9855212569236755
+                },
+                {
+                    "word": " for",
+                    "start": 4.3,
+                    "end": 4.78,
+                    "probability": 0.9775856733322144
+                },
+                {
+                    "word": " enhanced",
+                    "start": 4.78,
+                    "end": 5.2,
+                    "probability": 0.9076112508773804
+                },
+                {
+                    "word": " security.",
+                    "start": 5.2,
+                    "end": 6.02,
+                    "probability": 0.9954319000244141
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

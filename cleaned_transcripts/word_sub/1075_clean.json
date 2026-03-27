@@ -1,28 +1,27 @@
 {
-    "text": " The fight was too damn to read.",
+    "text": " It was too damn to read.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 2.0,
-            "text": " The fight was too damn to read.",
+            "end": 1.48,
+            "text": " It was too damn to read.",
             "tokens": [
                 50364,
-                440,
-                2092,
+                467,
                 390,
                 886,
                 8151,
                 281,
                 1401,
                 13,
-                50464
+                50438
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.3284921646118164,
-            "compression_ratio": 0.8378378378378378,
-            "no_speech_prob": 0.004516510292887688
+            "avg_logprob": -0.5561785697937012,
+            "compression_ratio": 0.8,
+            "no_speech_prob": 0.020849479362368584
         }
     ],
     "language": "en"

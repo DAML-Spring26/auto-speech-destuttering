@@ -1,0 +1,128 @@
+{
+    "text": " The merger will be finalized once all paperwork as you know. Processed.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.54,
+            "text": " The merger will be finalized once all paperwork as you know.",
+            "tokens": [
+                50364,
+                440,
+                48002,
+                486,
+                312,
+                2572,
+                1602,
+                1564,
+                439,
+                27953,
+                382,
+                291,
+                458,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3014432816278367,
+            "compression_ratio": 0.9726027397260274,
+            "no_speech_prob": 0.06765152513980865,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.8,
+                    "probability": 0.8764227628707886
+                },
+                {
+                    "word": " merger",
+                    "start": 0.8,
+                    "end": 1.08,
+                    "probability": 0.977238118648529
+                },
+                {
+                    "word": " will",
+                    "start": 1.08,
+                    "end": 1.26,
+                    "probability": 0.9148898124694824
+                },
+                {
+                    "word": " be",
+                    "start": 1.26,
+                    "end": 1.38,
+                    "probability": 0.9968608617782593
+                },
+                {
+                    "word": " finalized",
+                    "start": 1.38,
+                    "end": 1.94,
+                    "probability": 0.9797632098197937
+                },
+                {
+                    "word": " once",
+                    "start": 1.94,
+                    "end": 2.16,
+                    "probability": 0.9918741583824158
+                },
+                {
+                    "word": " all",
+                    "start": 2.16,
+                    "end": 2.4,
+                    "probability": 0.983866274356842
+                },
+                {
+                    "word": " paperwork",
+                    "start": 2.4,
+                    "end": 2.76,
+                    "probability": 0.9310259222984314
+                },
+                {
+                    "word": " as",
+                    "start": 2.76,
+                    "end": 3.08,
+                    "probability": 0.6279076933860779
+                },
+                {
+                    "word": " you",
+                    "start": 3.08,
+                    "end": 3.22,
+                    "probability": 0.9969889521598816
+                },
+                {
+                    "word": " know.",
+                    "start": 3.22,
+                    "end": 3.54,
+                    "probability": 0.9954050779342651
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.2,
+            "end": 4.8,
+            "text": " Processed.",
+            "tokens": [
+                50564,
+                31093,
+                292,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3014432816278367,
+            "compression_ratio": 0.9726027397260274,
+            "no_speech_prob": 0.06765152513980865,
+            "words": [
+                {
+                    "word": " Processed.",
+                    "start": 4.2,
+                    "end": 4.8,
+                    "probability": 0.9519324004650116
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

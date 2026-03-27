@@ -1,0 +1,66 @@
+{
+    "text": " the system selected an usual activity.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.3,
+            "text": " the system selected an usual activity.",
+            "tokens": [
+                50364,
+                264,
+                1185,
+                8209,
+                364,
+                7713,
+                5191,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5595192909240723,
+            "compression_ratio": 0.8260869565217391,
+            "no_speech_prob": 0.0031234731432050467,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5051529407501221
+                },
+                {
+                    "word": " system",
+                    "start": 0.12,
+                    "end": 0.52,
+                    "probability": 0.9556593894958496
+                },
+                {
+                    "word": " selected",
+                    "start": 0.52,
+                    "end": 1.02,
+                    "probability": 0.960614800453186
+                },
+                {
+                    "word": " an",
+                    "start": 1.02,
+                    "end": 1.26,
+                    "probability": 0.5187503695487976
+                },
+                {
+                    "word": " usual",
+                    "start": 1.26,
+                    "end": 1.62,
+                    "probability": 0.7214331030845642
+                },
+                {
+                    "word": " activity.",
+                    "start": 1.62,
+                    "end": 2.3,
+                    "probability": 0.978922963142395
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

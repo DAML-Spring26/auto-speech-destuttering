@@ -1,0 +1,109 @@
+{
+    "text": " I'm not sure if I fully grasp the concept during the lecture.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.02,
+            "text": " I'm not sure if I fully grasp the concept during the lecture.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                406,
+                988,
+                498,
+                286,
+                4498,
+                21743,
+                264,
+                3410,
+                1830,
+                264,
+                7991,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3116433760699104,
+            "compression_ratio": 0.9384615384615385,
+            "no_speech_prob": 0.005575955379754305,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.9205026030540466
+                },
+                {
+                    "word": " not",
+                    "start": 0.24,
+                    "end": 0.32,
+                    "probability": 0.971794068813324
+                },
+                {
+                    "word": " sure",
+                    "start": 0.32,
+                    "end": 0.58,
+                    "probability": 0.9975211024284363
+                },
+                {
+                    "word": " if",
+                    "start": 0.58,
+                    "end": 0.82,
+                    "probability": 0.9944451451301575
+                },
+                {
+                    "word": " I",
+                    "start": 0.82,
+                    "end": 0.92,
+                    "probability": 0.9864276051521301
+                },
+                {
+                    "word": " fully",
+                    "start": 0.92,
+                    "end": 1.2,
+                    "probability": 0.9777730107307434
+                },
+                {
+                    "word": " grasp",
+                    "start": 1.2,
+                    "end": 1.52,
+                    "probability": 0.48962488770484924
+                },
+                {
+                    "word": " the",
+                    "start": 1.52,
+                    "end": 1.82,
+                    "probability": 0.9758757948875427
+                },
+                {
+                    "word": " concept",
+                    "start": 1.82,
+                    "end": 4.14,
+                    "probability": 0.7349837422370911
+                },
+                {
+                    "word": " during",
+                    "start": 4.14,
+                    "end": 4.52,
+                    "probability": 0.9912469983100891
+                },
+                {
+                    "word": " the",
+                    "start": 4.52,
+                    "end": 4.68,
+                    "probability": 0.9819899797439575
+                },
+                {
+                    "word": " lecture.",
+                    "start": 4.68,
+                    "end": 5.02,
+                    "probability": 0.9972923398017883
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

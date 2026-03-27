@@ -1,0 +1,59 @@
+{
+    "text": " I like hot hot soup.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.2,
+            "text": " I like hot hot soup.",
+            "tokens": [
+                50364,
+                286,
+                411,
+                2368,
+                2368,
+                7884,
+                13,
+                50434
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6139840020073785,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.007345021236687899,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8956694602966309
+                },
+                {
+                    "word": " like",
+                    "start": 0.14,
+                    "end": 0.3,
+                    "probability": 0.9860279560089111
+                },
+                {
+                    "word": " hot",
+                    "start": 0.3,
+                    "end": 0.56,
+                    "probability": 0.7743836045265198
+                },
+                {
+                    "word": " hot",
+                    "start": 0.56,
+                    "end": 0.88,
+                    "probability": 0.3386877179145813
+                },
+                {
+                    "word": " soup.",
+                    "start": 0.88,
+                    "end": 1.2,
+                    "probability": 0.5962558388710022
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

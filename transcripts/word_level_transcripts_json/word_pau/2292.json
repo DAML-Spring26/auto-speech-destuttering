@@ -1,0 +1,73 @@
+{
+    "text": " Have you seen my new phone case?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.54,
+            "text": " Have you seen my new phone case?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                1612,
+                452,
+                777,
+                2593,
+                1389,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.43705914237282495,
+            "compression_ratio": 0.8,
+            "no_speech_prob": 0.012105915695428848,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.8372129201889038
+                },
+                {
+                    "word": " you",
+                    "start": 0.2,
+                    "end": 0.38,
+                    "probability": 0.9950813055038452
+                },
+                {
+                    "word": " seen",
+                    "start": 0.38,
+                    "end": 0.64,
+                    "probability": 0.9963967204093933
+                },
+                {
+                    "word": " my",
+                    "start": 0.64,
+                    "end": 0.86,
+                    "probability": 0.9041061401367188
+                },
+                {
+                    "word": " new",
+                    "start": 0.86,
+                    "end": 1.28,
+                    "probability": 0.8231605887413025
+                },
+                {
+                    "word": " phone",
+                    "start": 1.28,
+                    "end": 3.14,
+                    "probability": 0.40255752205848694
+                },
+                {
+                    "word": " case?",
+                    "start": 3.14,
+                    "end": 3.54,
+                    "probability": 0.9844942688941956
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

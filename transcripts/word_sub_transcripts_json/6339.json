@@ -1,0 +1,84 @@
+{
+    "text": " The company's stock price plummeted after the pronouncement.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.72,
+            "text": " The company's stock price plummeted after the pronouncement.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                4127,
+                3218,
+                25854,
+                5537,
+                292,
+                934,
+                264,
+                19567,
+                518,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30227434635162354,
+            "compression_ratio": 0.9090909090909091,
+            "no_speech_prob": 0.005769138224422932,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6215618252754211
+                },
+                {
+                    "word": " company's",
+                    "start": 0.12,
+                    "end": 0.74,
+                    "probability": 0.747681051492691
+                },
+                {
+                    "word": " stock",
+                    "start": 0.74,
+                    "end": 0.84,
+                    "probability": 0.9724285006523132
+                },
+                {
+                    "word": " price",
+                    "start": 0.84,
+                    "end": 1.14,
+                    "probability": 0.9915921688079834
+                },
+                {
+                    "word": " plummeted",
+                    "start": 1.14,
+                    "end": 1.72,
+                    "probability": 0.9868171413739523
+                },
+                {
+                    "word": " after",
+                    "start": 1.72,
+                    "end": 1.98,
+                    "probability": 0.9815014004707336
+                },
+                {
+                    "word": " the",
+                    "start": 1.98,
+                    "end": 2.14,
+                    "probability": 0.9912766218185425
+                },
+                {
+                    "word": " pronouncement.",
+                    "start": 2.14,
+                    "end": 2.72,
+                    "probability": 0.9288508296012878
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

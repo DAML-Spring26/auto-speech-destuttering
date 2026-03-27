@@ -1,0 +1,106 @@
+{
+    "text": " The patient's condition has significantly improved since. Last week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.2,
+            "text": " The patient's condition has significantly improved since.",
+            "tokens": [
+                50364,
+                440,
+                4537,
+                311,
+                4188,
+                575,
+                10591,
+                9689,
+                1670,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5381469165577608,
+            "compression_ratio": 0.9444444444444444,
+            "no_speech_prob": 0.008860010653734207,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7428416013717651
+                },
+                {
+                    "word": " patient's",
+                    "start": 0.12,
+                    "end": 0.7,
+                    "probability": 0.960306704044342
+                },
+                {
+                    "word": " condition",
+                    "start": 0.7,
+                    "end": 1.14,
+                    "probability": 0.9973909258842468
+                },
+                {
+                    "word": " has",
+                    "start": 1.14,
+                    "end": 1.36,
+                    "probability": 0.9900299310684204
+                },
+                {
+                    "word": " significantly",
+                    "start": 1.36,
+                    "end": 1.98,
+                    "probability": 0.9979982972145081
+                },
+                {
+                    "word": " improved",
+                    "start": 1.98,
+                    "end": 2.68,
+                    "probability": 0.9980740547180176
+                },
+                {
+                    "word": " since.",
+                    "start": 2.68,
+                    "end": 3.2,
+                    "probability": 0.9936407208442688
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.62,
+            "end": 5.98,
+            "text": " Last week.",
+            "tokens": [
+                50614,
+                5264,
+                1243,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5381469165577608,
+            "compression_ratio": 0.9444444444444444,
+            "no_speech_prob": 0.008860010653734207,
+            "words": [
+                {
+                    "word": " Last",
+                    "start": 4.62,
+                    "end": 5.66,
+                    "probability": 0.9451444745063782
+                },
+                {
+                    "word": " week.",
+                    "start": 5.66,
+                    "end": 5.98,
+                    "probability": 0.9893869161605835
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

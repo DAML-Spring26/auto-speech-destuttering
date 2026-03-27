@@ -1,0 +1,109 @@
+{
+    "text": " She always forgets to turn off lights when she leaves the room.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.74,
+            "text": " She always forgets to turn off lights when she leaves the room.",
+            "tokens": [
+                50364,
+                1240,
+                1009,
+                2870,
+                82,
+                281,
+                1261,
+                766,
+                5811,
+                562,
+                750,
+                5510,
+                264,
+                1808,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31233131184297447,
+            "compression_ratio": 0.9545454545454546,
+            "no_speech_prob": 0.0021815532818436623,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.8165644407272339
+                },
+                {
+                    "word": " always",
+                    "start": 0.22,
+                    "end": 0.6,
+                    "probability": 0.9888930916786194
+                },
+                {
+                    "word": " forgets",
+                    "start": 0.6,
+                    "end": 1.42,
+                    "probability": 0.9911698400974274
+                },
+                {
+                    "word": " to",
+                    "start": 1.42,
+                    "end": 1.54,
+                    "probability": 0.3188030421733856
+                },
+                {
+                    "word": " turn",
+                    "start": 1.54,
+                    "end": 1.8,
+                    "probability": 0.9965117573738098
+                },
+                {
+                    "word": " off",
+                    "start": 1.8,
+                    "end": 2.1,
+                    "probability": 0.9824926853179932
+                },
+                {
+                    "word": " lights",
+                    "start": 2.1,
+                    "end": 2.36,
+                    "probability": 0.6094364523887634
+                },
+                {
+                    "word": " when",
+                    "start": 2.36,
+                    "end": 2.66,
+                    "probability": 0.9621907472610474
+                },
+                {
+                    "word": " she",
+                    "start": 2.66,
+                    "end": 2.96,
+                    "probability": 0.9936429262161255
+                },
+                {
+                    "word": " leaves",
+                    "start": 2.96,
+                    "end": 3.22,
+                    "probability": 0.987759530544281
+                },
+                {
+                    "word": " the",
+                    "start": 3.22,
+                    "end": 3.48,
+                    "probability": 0.9936906099319458
+                },
+                {
+                    "word": " room.",
+                    "start": 3.48,
+                    "end": 3.74,
+                    "probability": 0.9987579584121704
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

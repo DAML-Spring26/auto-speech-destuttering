@@ -1,0 +1,87 @@
+{
+    "text": " Are you going to the party like this weekend?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.5,
+            "text": " Are you going to the party like this weekend?",
+            "tokens": [
+                50364,
+                2014,
+                291,
+                516,
+                281,
+                264,
+                3595,
+                411,
+                341,
+                6711,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26351736142085147,
+            "compression_ratio": 0.8823529411764706,
+            "no_speech_prob": 0.025728736072778702,
+            "words": [
+                {
+                    "word": " Are",
+                    "start": 0.0,
+                    "end": 0.74,
+                    "probability": 0.8992856740951538
+                },
+                {
+                    "word": " you",
+                    "start": 0.74,
+                    "end": 0.92,
+                    "probability": 0.9948554039001465
+                },
+                {
+                    "word": " going",
+                    "start": 0.92,
+                    "end": 1.1,
+                    "probability": 0.9979591369628906
+                },
+                {
+                    "word": " to",
+                    "start": 1.1,
+                    "end": 1.28,
+                    "probability": 0.9948592185974121
+                },
+                {
+                    "word": " the",
+                    "start": 1.28,
+                    "end": 1.4,
+                    "probability": 0.9797031283378601
+                },
+                {
+                    "word": " party",
+                    "start": 1.4,
+                    "end": 1.68,
+                    "probability": 0.9902910590171814
+                },
+                {
+                    "word": " like",
+                    "start": 1.68,
+                    "end": 1.9,
+                    "probability": 0.9980899691581726
+                },
+                {
+                    "word": " this",
+                    "start": 1.9,
+                    "end": 2.16,
+                    "probability": 0.9952732920646667
+                },
+                {
+                    "word": " weekend?",
+                    "start": 2.16,
+                    "end": 2.5,
+                    "probability": 0.9925141930580139
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

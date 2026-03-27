@@ -1,0 +1,87 @@
+{
+    "text": " The report suggests we should invest in new technology.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.6,
+            "text": " The report suggests we should invest in new technology.",
+            "tokens": [
+                50364,
+                440,
+                2275,
+                13409,
+                321,
+                820,
+                1963,
+                294,
+                777,
+                2899,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31262390430157,
+            "compression_ratio": 0.9166666666666666,
+            "no_speech_prob": 0.008642296306788921,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.630722165107727
+                },
+                {
+                    "word": " report",
+                    "start": 0.14,
+                    "end": 0.36,
+                    "probability": 0.6114268898963928
+                },
+                {
+                    "word": " suggests",
+                    "start": 0.36,
+                    "end": 0.76,
+                    "probability": 0.9862948060035706
+                },
+                {
+                    "word": " we",
+                    "start": 0.76,
+                    "end": 1.04,
+                    "probability": 0.9564783573150635
+                },
+                {
+                    "word": " should",
+                    "start": 1.04,
+                    "end": 1.2,
+                    "probability": 0.9988890290260315
+                },
+                {
+                    "word": " invest",
+                    "start": 1.2,
+                    "end": 1.5,
+                    "probability": 0.9986171722412109
+                },
+                {
+                    "word": " in",
+                    "start": 1.5,
+                    "end": 1.82,
+                    "probability": 0.989027738571167
+                },
+                {
+                    "word": " new",
+                    "start": 1.82,
+                    "end": 2.02,
+                    "probability": 0.989476203918457
+                },
+                {
+                    "word": " technology.",
+                    "start": 2.02,
+                    "end": 2.6,
+                    "probability": 0.9971153736114502
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

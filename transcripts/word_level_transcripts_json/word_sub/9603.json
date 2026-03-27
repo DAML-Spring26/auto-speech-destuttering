@@ -1,0 +1,66 @@
+{
+    "text": " The bank manager approved the loan.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.38,
+            "text": " The bank manager approved the loan.",
+            "tokens": [
+                50364,
+                440,
+                3765,
+                6598,
+                10826,
+                264,
+                10529,
+                13,
+                50494
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48837862014770506,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.004151022527366877,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.695274829864502
+                },
+                {
+                    "word": " bank",
+                    "start": 0.16,
+                    "end": 0.54,
+                    "probability": 0.8320428729057312
+                },
+                {
+                    "word": " manager",
+                    "start": 0.54,
+                    "end": 1.2,
+                    "probability": 0.989838719367981
+                },
+                {
+                    "word": " approved",
+                    "start": 1.2,
+                    "end": 1.82,
+                    "probability": 0.9543586373329163
+                },
+                {
+                    "word": " the",
+                    "start": 1.82,
+                    "end": 2.1,
+                    "probability": 0.9907616972923279
+                },
+                {
+                    "word": " loan.",
+                    "start": 2.1,
+                    "end": 2.38,
+                    "probability": 0.9961236119270325
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

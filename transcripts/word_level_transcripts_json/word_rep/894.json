@@ -1,0 +1,45 @@
+{
+    "text": " you your kind.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.0,
+            "text": " you your kind.",
+            "tokens": [
+                50364,
+                291,
+                428,
+                733,
+                13,
+                50424
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7949726240975517,
+            "compression_ratio": 0.6363636363636364,
+            "no_speech_prob": 0.07470590621232986,
+            "words": [
+                {
+                    "word": " you",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.35730651021003723
+                },
+                {
+                    "word": " your",
+                    "start": 0.3,
+                    "end": 0.66,
+                    "probability": 0.43594595789909363
+                },
+                {
+                    "word": " kind.",
+                    "start": 0.66,
+                    "end": 1.0,
+                    "probability": 0.9824606776237488
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

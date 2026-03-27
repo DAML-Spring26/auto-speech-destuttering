@@ -1,0 +1,101 @@
+{
+    "text": " the patient showing signs of improvement since the new treatment began.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.5,
+            "text": " the patient showing signs of improvement since the new treatment began.",
+            "tokens": [
+                50364,
+                264,
+                4537,
+                4099,
+                7880,
+                295,
+                10444,
+                1670,
+                264,
+                777,
+                5032,
+                4283,
+                13,
+                50548
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34932152430216473,
+            "compression_ratio": 1.0597014925373134,
+            "no_speech_prob": 0.0026530956383794546,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.4392756223678589
+                },
+                {
+                    "word": " patient",
+                    "start": 0.14,
+                    "end": 0.46,
+                    "probability": 0.6485158801078796
+                },
+                {
+                    "word": " showing",
+                    "start": 0.46,
+                    "end": 0.86,
+                    "probability": 0.8041912317276001
+                },
+                {
+                    "word": " signs",
+                    "start": 0.86,
+                    "end": 1.2,
+                    "probability": 0.9991692304611206
+                },
+                {
+                    "word": " of",
+                    "start": 1.2,
+                    "end": 1.44,
+                    "probability": 0.9944429993629456
+                },
+                {
+                    "word": " improvement",
+                    "start": 1.44,
+                    "end": 1.96,
+                    "probability": 0.6401556730270386
+                },
+                {
+                    "word": " since",
+                    "start": 1.96,
+                    "end": 2.3,
+                    "probability": 0.9788073301315308
+                },
+                {
+                    "word": " the",
+                    "start": 2.3,
+                    "end": 2.56,
+                    "probability": 0.9936423301696777
+                },
+                {
+                    "word": " new",
+                    "start": 2.56,
+                    "end": 2.74,
+                    "probability": 0.9776882529258728
+                },
+                {
+                    "word": " treatment",
+                    "start": 2.74,
+                    "end": 3.12,
+                    "probability": 0.9968936443328857
+                },
+                {
+                    "word": " began.",
+                    "start": 3.12,
+                    "end": 3.5,
+                    "probability": 0.995496392250061
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

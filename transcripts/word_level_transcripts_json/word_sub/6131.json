@@ -1,0 +1,74 @@
+{
+    "text": " Children often struggle with flexions in math.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.18,
+            "text": " Children often struggle with flexions in math.",
+            "tokens": [
+                50364,
+                13354,
+                2049,
+                7799,
+                365,
+                5896,
+                626,
+                294,
+                5221,
+                13,
+                50540
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.440840204556783,
+            "compression_ratio": 0.8846153846153846,
+            "no_speech_prob": 0.013143922202289104,
+            "words": [
+                {
+                    "word": " Children",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.7602185606956482
+                },
+                {
+                    "word": " often",
+                    "start": 0.42,
+                    "end": 1.02,
+                    "probability": 0.9981541037559509
+                },
+                {
+                    "word": " struggle",
+                    "start": 1.02,
+                    "end": 1.68,
+                    "probability": 0.9913918972015381
+                },
+                {
+                    "word": " with",
+                    "start": 1.68,
+                    "end": 2.02,
+                    "probability": 0.9987432360649109
+                },
+                {
+                    "word": " flexions",
+                    "start": 2.02,
+                    "end": 2.7,
+                    "probability": 0.7240626215934753
+                },
+                {
+                    "word": " in",
+                    "start": 2.7,
+                    "end": 2.9,
+                    "probability": 0.9909248352050781
+                },
+                {
+                    "word": " math.",
+                    "start": 2.9,
+                    "end": 3.18,
+                    "probability": 0.9691796898841858
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

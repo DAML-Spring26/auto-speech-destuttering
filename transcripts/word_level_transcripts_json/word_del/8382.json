@@ -1,0 +1,101 @@
+{
+    "text": " We should consider the new regulations will affect our business model.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.1,
+            "text": " We should consider the new regulations will affect our business model.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                1949,
+                264,
+                777,
+                12563,
+                486,
+                3345,
+                527,
+                1606,
+                2316,
+                13,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30636752446492516,
+            "compression_ratio": 1.0144927536231885,
+            "no_speech_prob": 0.0027207299135625362,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6267033815383911
+                },
+                {
+                    "word": " should",
+                    "start": 0.16,
+                    "end": 0.26,
+                    "probability": 0.9969820380210876
+                },
+                {
+                    "word": " consider",
+                    "start": 0.26,
+                    "end": 0.7,
+                    "probability": 0.9985373020172119
+                },
+                {
+                    "word": " the",
+                    "start": 0.7,
+                    "end": 0.88,
+                    "probability": 0.882464587688446
+                },
+                {
+                    "word": " new",
+                    "start": 0.88,
+                    "end": 1.04,
+                    "probability": 0.975883960723877
+                },
+                {
+                    "word": " regulations",
+                    "start": 1.04,
+                    "end": 1.62,
+                    "probability": 0.9757133722305298
+                },
+                {
+                    "word": " will",
+                    "start": 1.62,
+                    "end": 1.94,
+                    "probability": 0.9799700379371643
+                },
+                {
+                    "word": " affect",
+                    "start": 1.94,
+                    "end": 2.18,
+                    "probability": 0.9347056150436401
+                },
+                {
+                    "word": " our",
+                    "start": 2.18,
+                    "end": 2.36,
+                    "probability": 0.9750281572341919
+                },
+                {
+                    "word": " business",
+                    "start": 2.36,
+                    "end": 2.64,
+                    "probability": 0.9750300049781799
+                },
+                {
+                    "word": " model.",
+                    "start": 2.64,
+                    "end": 3.1,
+                    "probability": 0.9959748387336731
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

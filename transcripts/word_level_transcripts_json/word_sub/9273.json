@@ -1,0 +1,66 @@
+{
+    "text": " The pharmacy distributed new meditation guidelines.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.94,
+            "text": " The pharmacy distributed new meditation guidelines.",
+            "tokens": [
+                50364,
+                440,
+                30639,
+                12631,
+                777,
+                12537,
+                12470,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5827125549316406,
+            "compression_ratio": 0.864406779661017,
+            "no_speech_prob": 0.014637395739555359,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5170955061912537
+                },
+                {
+                    "word": " pharmacy",
+                    "start": 0.12,
+                    "end": 0.62,
+                    "probability": 0.5900988578796387
+                },
+                {
+                    "word": " distributed",
+                    "start": 0.62,
+                    "end": 1.5,
+                    "probability": 0.919411838054657
+                },
+                {
+                    "word": " new",
+                    "start": 1.5,
+                    "end": 1.76,
+                    "probability": 0.9825217723846436
+                },
+                {
+                    "word": " meditation",
+                    "start": 1.76,
+                    "end": 2.42,
+                    "probability": 0.9593432545661926
+                },
+                {
+                    "word": " guidelines.",
+                    "start": 2.42,
+                    "end": 2.94,
+                    "probability": 0.67115718126297
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

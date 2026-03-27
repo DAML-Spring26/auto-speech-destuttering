@@ -1,0 +1,59 @@
+{
+    "text": " the surf and needs maintenance.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.12,
+            "text": " the surf and needs maintenance.",
+            "tokens": [
+                50364,
+                264,
+                9684,
+                293,
+                2203,
+                11258,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7905658086140951,
+            "compression_ratio": 0.7948717948717948,
+            "no_speech_prob": 0.007004697807133198,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5509721040725708
+                },
+                {
+                    "word": " surf",
+                    "start": 0.14,
+                    "end": 0.4,
+                    "probability": 0.35802412033081055
+                },
+                {
+                    "word": " and",
+                    "start": 0.4,
+                    "end": 0.54,
+                    "probability": 0.42351028323173523
+                },
+                {
+                    "word": " needs",
+                    "start": 0.54,
+                    "end": 0.68,
+                    "probability": 0.3253265619277954
+                },
+                {
+                    "word": " maintenance.",
+                    "start": 0.68,
+                    "end": 1.12,
+                    "probability": 0.9974498152732849
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

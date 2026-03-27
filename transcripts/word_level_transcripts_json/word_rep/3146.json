@@ -1,0 +1,45 @@
+{
+    "text": " I take photos.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.76,
+            "text": " I take photos.",
+            "tokens": [
+                50364,
+                286,
+                747,
+                5787,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5477533340454102,
+            "compression_ratio": 0.6363636363636364,
+            "no_speech_prob": 0.022890597581863403,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.7347260117530823
+                },
+                {
+                    "word": " take",
+                    "start": 0.32,
+                    "end": 1.06,
+                    "probability": 0.5522428154945374
+                },
+                {
+                    "word": " photos.",
+                    "start": 1.06,
+                    "end": 1.76,
+                    "probability": 0.9893758296966553
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

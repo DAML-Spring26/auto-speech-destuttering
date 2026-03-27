@@ -1,0 +1,94 @@
+{
+    "text": " The surgery went well and the patient is recovering nicely.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.54,
+            "text": " The surgery went well and the patient is recovering nicely.",
+            "tokens": [
+                50364,
+                440,
+                7930,
+                1437,
+                731,
+                293,
+                264,
+                4537,
+                307,
+                29180,
+                9594,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3849639211382185,
+            "compression_ratio": 0.9516129032258065,
+            "no_speech_prob": 0.009563222527503967,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6412429213523865
+                },
+                {
+                    "word": " surgery",
+                    "start": 0.16,
+                    "end": 0.56,
+                    "probability": 0.32228103280067444
+                },
+                {
+                    "word": " went",
+                    "start": 0.56,
+                    "end": 0.94,
+                    "probability": 0.9979504942893982
+                },
+                {
+                    "word": " well",
+                    "start": 0.94,
+                    "end": 1.34,
+                    "probability": 0.9986746311187744
+                },
+                {
+                    "word": " and",
+                    "start": 1.34,
+                    "end": 1.74,
+                    "probability": 0.7218770980834961
+                },
+                {
+                    "word": " the",
+                    "start": 1.74,
+                    "end": 1.92,
+                    "probability": 0.9853615164756775
+                },
+                {
+                    "word": " patient",
+                    "start": 1.92,
+                    "end": 2.34,
+                    "probability": 0.9946160912513733
+                },
+                {
+                    "word": " is",
+                    "start": 2.34,
+                    "end": 2.76,
+                    "probability": 0.9763818383216858
+                },
+                {
+                    "word": " recovering",
+                    "start": 2.76,
+                    "end": 4.56,
+                    "probability": 0.6525269150733948
+                },
+                {
+                    "word": " nicely.",
+                    "start": 4.56,
+                    "end": 5.54,
+                    "probability": 0.9860360622406006
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

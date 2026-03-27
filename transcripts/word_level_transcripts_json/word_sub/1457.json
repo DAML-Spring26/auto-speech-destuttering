@@ -1,0 +1,73 @@
+{
+    "text": " the scientist analysts the molecular structure carefully.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.74,
+            "text": " the scientist analysts the molecular structure carefully.",
+            "tokens": [
+                50364,
+                264,
+                12662,
+                31388,
+                264,
+                19046,
+                3877,
+                7500,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5508293238553134,
+            "compression_ratio": 0.95,
+            "no_speech_prob": 0.005264362320303917,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.422987163066864
+                },
+                {
+                    "word": " scientist",
+                    "start": 0.12,
+                    "end": 0.58,
+                    "probability": 0.7146551609039307
+                },
+                {
+                    "word": " analysts",
+                    "start": 0.58,
+                    "end": 1.16,
+                    "probability": 0.2633194327354431
+                },
+                {
+                    "word": " the",
+                    "start": 1.16,
+                    "end": 1.36,
+                    "probability": 0.942436158657074
+                },
+                {
+                    "word": " molecular",
+                    "start": 1.36,
+                    "end": 1.72,
+                    "probability": 0.971957802772522
+                },
+                {
+                    "word": " structure",
+                    "start": 1.72,
+                    "end": 2.24,
+                    "probability": 0.5259791612625122
+                },
+                {
+                    "word": " carefully.",
+                    "start": 2.24,
+                    "end": 2.74,
+                    "probability": 0.9309918284416199
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

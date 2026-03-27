@@ -1,0 +1,66 @@
+{
+    "text": " The conference room needs better meditation.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.02,
+            "text": " The conference room needs better meditation.",
+            "tokens": [
+                50364,
+                440,
+                7586,
+                1808,
+                2203,
+                1101,
+                12537,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36635775566101075,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.002288247924298048,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.9040409922599792
+                },
+                {
+                    "word": " conference",
+                    "start": 0.12,
+                    "end": 0.48,
+                    "probability": 0.9828475713729858
+                },
+                {
+                    "word": " room",
+                    "start": 0.48,
+                    "end": 0.86,
+                    "probability": 0.9929004907608032
+                },
+                {
+                    "word": " needs",
+                    "start": 0.86,
+                    "end": 1.1,
+                    "probability": 0.9949398040771484
+                },
+                {
+                    "word": " better",
+                    "start": 1.1,
+                    "end": 1.46,
+                    "probability": 0.9978154897689819
+                },
+                {
+                    "word": " meditation.",
+                    "start": 1.46,
+                    "end": 2.02,
+                    "probability": 0.9505338668823242
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

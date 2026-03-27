@@ -1,0 +1,95 @@
+{
+    "text": " that client feedback has been overwhelmingly positive, positive so far.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.84,
+            "text": " that client feedback has been overwhelmingly positive, positive so far.",
+            "tokens": [
+                50364,
+                300,
+                6423,
+                5824,
+                575,
+                668,
+                42926,
+                3353,
+                11,
+                3353,
+                370,
+                1400,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3523047129313151,
+            "compression_ratio": 1.0441176470588236,
+            "no_speech_prob": 0.002751367399469018,
+            "words": [
+                {
+                    "word": " that",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5725960731506348
+                },
+                {
+                    "word": " client",
+                    "start": 0.1,
+                    "end": 0.4,
+                    "probability": 0.9666023254394531
+                },
+                {
+                    "word": " feedback",
+                    "start": 0.4,
+                    "end": 0.88,
+                    "probability": 0.9877052307128906
+                },
+                {
+                    "word": " has",
+                    "start": 0.88,
+                    "end": 1.2,
+                    "probability": 0.9909765720367432
+                },
+                {
+                    "word": " been",
+                    "start": 1.2,
+                    "end": 1.34,
+                    "probability": 0.9975202679634094
+                },
+                {
+                    "word": " overwhelmingly",
+                    "start": 1.34,
+                    "end": 1.94,
+                    "probability": 0.731937825679779
+                },
+                {
+                    "word": " positive,",
+                    "start": 1.94,
+                    "end": 2.62,
+                    "probability": 0.9920278191566467
+                },
+                {
+                    "word": " positive",
+                    "start": 2.86,
+                    "end": 3.14,
+                    "probability": 0.9798880815505981
+                },
+                {
+                    "word": " so",
+                    "start": 3.14,
+                    "end": 3.48,
+                    "probability": 0.7841906547546387
+                },
+                {
+                    "word": " far.",
+                    "start": 3.48,
+                    "end": 3.84,
+                    "probability": 0.9906935095787048
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

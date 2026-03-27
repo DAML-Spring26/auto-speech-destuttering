@@ -1,0 +1,89 @@
+{
+    "text": " Dad trying to fix the leaky faucet all morning.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.58,
+            "text": " Dad trying to fix the leaky faucet all morning.",
+            "tokens": [
+                50364,
+                5639,
+                1382,
+                281,
+                3191,
+                264,
+                476,
+                15681,
+                49567,
+                302,
+                439,
+                2446,
+                13,
+                50500
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31246649424235023,
+            "compression_ratio": 0.8703703703703703,
+            "no_speech_prob": 0.00739326560869813,
+            "words": [
+                {
+                    "word": " Dad",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.679947555065155
+                },
+                {
+                    "word": " trying",
+                    "start": 0.18,
+                    "end": 0.58,
+                    "probability": 0.8552235960960388
+                },
+                {
+                    "word": " to",
+                    "start": 0.58,
+                    "end": 0.78,
+                    "probability": 0.9968718886375427
+                },
+                {
+                    "word": " fix",
+                    "start": 0.78,
+                    "end": 1.06,
+                    "probability": 0.9924867153167725
+                },
+                {
+                    "word": " the",
+                    "start": 1.06,
+                    "end": 1.26,
+                    "probability": 0.9863165020942688
+                },
+                {
+                    "word": " leaky",
+                    "start": 1.26,
+                    "end": 1.54,
+                    "probability": 0.9319926202297211
+                },
+                {
+                    "word": " faucet",
+                    "start": 1.54,
+                    "end": 2.08,
+                    "probability": 0.9822358787059784
+                },
+                {
+                    "word": " all",
+                    "start": 2.08,
+                    "end": 2.22,
+                    "probability": 0.8666585087776184
+                },
+                {
+                    "word": " morning.",
+                    "start": 2.22,
+                    "end": 2.58,
+                    "probability": 0.9896568059921265
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

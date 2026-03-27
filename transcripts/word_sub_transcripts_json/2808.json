@@ -1,0 +1,73 @@
+{
+    "text": " We need to improve customer satisfaction dates.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.18,
+            "text": " We need to improve customer satisfaction dates.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                3470,
+                5474,
+                18715,
+                11691,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3851896199313077,
+            "compression_ratio": 0.8703703703703703,
+            "no_speech_prob": 0.002827662043273449,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6555651426315308
+                },
+                {
+                    "word": " need",
+                    "start": 0.1,
+                    "end": 0.2,
+                    "probability": 0.9970069527626038
+                },
+                {
+                    "word": " to",
+                    "start": 0.2,
+                    "end": 0.36,
+                    "probability": 0.9981482028961182
+                },
+                {
+                    "word": " improve",
+                    "start": 0.36,
+                    "end": 0.64,
+                    "probability": 0.9939551949501038
+                },
+                {
+                    "word": " customer",
+                    "start": 0.64,
+                    "end": 1.08,
+                    "probability": 0.9124606847763062
+                },
+                {
+                    "word": " satisfaction",
+                    "start": 1.08,
+                    "end": 1.58,
+                    "probability": 0.9907475709915161
+                },
+                {
+                    "word": " dates.",
+                    "start": 1.58,
+                    "end": 2.18,
+                    "probability": 0.9764003753662109
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

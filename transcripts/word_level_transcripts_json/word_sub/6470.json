@@ -1,0 +1,81 @@
+{
+    "text": " The geology studied the formation of sedimentary rods.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.74,
+            "text": " The geology studied the formation of sedimentary rods.",
+            "tokens": [
+                50364,
+                440,
+                48788,
+                9454,
+                264,
+                11723,
+                295,
+                32362,
+                822,
+                32761,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40938608462993914,
+            "compression_ratio": 0.8852459016393442,
+            "no_speech_prob": 0.003933980595320463,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8595155477523804
+                },
+                {
+                    "word": " geology",
+                    "start": 0.14,
+                    "end": 0.46,
+                    "probability": 0.14368242025375366
+                },
+                {
+                    "word": " studied",
+                    "start": 0.46,
+                    "end": 0.92,
+                    "probability": 0.8999167084693909
+                },
+                {
+                    "word": " the",
+                    "start": 0.92,
+                    "end": 1.14,
+                    "probability": 0.9925001263618469
+                },
+                {
+                    "word": " formation",
+                    "start": 1.14,
+                    "end": 1.52,
+                    "probability": 0.9976744055747986
+                },
+                {
+                    "word": " of",
+                    "start": 1.52,
+                    "end": 1.86,
+                    "probability": 0.9986081719398499
+                },
+                {
+                    "word": " sedimentary",
+                    "start": 1.86,
+                    "end": 2.44,
+                    "probability": 0.9876888990402222
+                },
+                {
+                    "word": " rods.",
+                    "start": 2.44,
+                    "end": 2.74,
+                    "probability": 0.8977778553962708
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,66 @@
+{
+    "text": " The conference room needs better fighting.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.58,
+            "text": " The conference room needs better fighting.",
+            "tokens": [
+                50364,
+                440,
+                7586,
+                1808,
+                2203,
+                1101,
+                5237,
+                13,
+                50452
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4641061305999756,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.005068502854555845,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7791951298713684
+                },
+                {
+                    "word": " conference",
+                    "start": 0.1,
+                    "end": 0.44,
+                    "probability": 0.982550323009491
+                },
+                {
+                    "word": " room",
+                    "start": 0.44,
+                    "end": 0.74,
+                    "probability": 0.44763121008872986
+                },
+                {
+                    "word": " needs",
+                    "start": 0.74,
+                    "end": 0.96,
+                    "probability": 0.9886490106582642
+                },
+                {
+                    "word": " better",
+                    "start": 0.96,
+                    "end": 1.18,
+                    "probability": 0.988792359828949
+                },
+                {
+                    "word": " fighting.",
+                    "start": 1.18,
+                    "end": 1.58,
+                    "probability": 0.7488701343536377
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

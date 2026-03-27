@@ -1,30 +1,32 @@
 {
-    "text": " How may I assist you with your order today?",
+    "text": " For me ASSIST, you with your order today.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 4.0,
-            "text": " How may I assist you with your order today?",
+            "end": 3.9,
+            "text": " For me ASSIST, you with your order today.",
             "tokens": [
                 50364,
-                1012,
-                815,
-                286,
-                4255,
+                1171,
+                385,
+                7469,
+                50,
+                19756,
+                11,
                 291,
                 365,
                 428,
                 1668,
                 965,
-                30,
-                50564
+                13,
+                50559
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.29554110306959885,
-            "compression_ratio": 0.8958333333333334,
-            "no_speech_prob": 0.01850382424890995
+            "avg_logprob": -0.6277207056681315,
+            "compression_ratio": 0.8913043478260869,
+            "no_speech_prob": 0.08942992985248566
         }
     ],
     "language": "en"

@@ -1,0 +1,66 @@
+{
+    "text": " We believe the timing is right.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.4,
+            "text": " We believe the timing is right.",
+            "tokens": [
+                50364,
+                492,
+                1697,
+                264,
+                10822,
+                307,
+                558,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2994507074356079,
+            "compression_ratio": 0.8378378378378378,
+            "no_speech_prob": 0.009160320274531841,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6305921077728271
+                },
+                {
+                    "word": " believe",
+                    "start": 0.12,
+                    "end": 0.4,
+                    "probability": 0.9868941307067871
+                },
+                {
+                    "word": " the",
+                    "start": 0.4,
+                    "end": 0.6,
+                    "probability": 0.8193178772926331
+                },
+                {
+                    "word": " timing",
+                    "start": 0.6,
+                    "end": 0.92,
+                    "probability": 0.9887290000915527
+                },
+                {
+                    "word": " is",
+                    "start": 0.92,
+                    "end": 1.18,
+                    "probability": 0.9967017769813538
+                },
+                {
+                    "word": " right.",
+                    "start": 1.18,
+                    "end": 1.4,
+                    "probability": 0.9990001320838928
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

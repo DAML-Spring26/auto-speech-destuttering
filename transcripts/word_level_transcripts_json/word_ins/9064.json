@@ -1,0 +1,80 @@
+{
+    "text": " I just posted a TikTok dance challenge video.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.56,
+            "text": " I just posted a TikTok dance challenge video.",
+            "tokens": [
+                50364,
+                286,
+                445,
+                9437,
+                257,
+                20211,
+                4489,
+                3430,
+                960,
+                13,
+                50554
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4081738789876302,
+            "compression_ratio": 0.8490566037735849,
+            "no_speech_prob": 0.1761772781610489,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.74,
+                    "probability": 0.9118067026138306
+                },
+                {
+                    "word": " just",
+                    "start": 0.74,
+                    "end": 0.92,
+                    "probability": 0.9522523283958435
+                },
+                {
+                    "word": " posted",
+                    "start": 0.92,
+                    "end": 1.34,
+                    "probability": 0.996516227722168
+                },
+                {
+                    "word": " a",
+                    "start": 1.34,
+                    "end": 1.52,
+                    "probability": 0.8823651075363159
+                },
+                {
+                    "word": " TikTok",
+                    "start": 1.52,
+                    "end": 2.32,
+                    "probability": 0.6267012357711792
+                },
+                {
+                    "word": " dance",
+                    "start": 2.32,
+                    "end": 2.74,
+                    "probability": 0.8125329613685608
+                },
+                {
+                    "word": " challenge",
+                    "start": 2.74,
+                    "end": 3.14,
+                    "probability": 0.965099036693573
+                },
+                {
+                    "word": " video.",
+                    "start": 3.14,
+                    "end": 3.56,
+                    "probability": 0.9923809170722961
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

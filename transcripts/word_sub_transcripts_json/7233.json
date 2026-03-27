@@ -1,0 +1,75 @@
+{
+    "text": " the company's innovative approach revolutionized the industry.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.98,
+            "text": " the company's innovative approach revolutionized the industry.",
+            "tokens": [
+                50364,
+                264,
+                2237,
+                311,
+                12999,
+                3109,
+                8894,
+                1602,
+                264,
+                3518,
+                13,
+                50584
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39923821962796724,
+            "compression_ratio": 0.9393939393939394,
+            "no_speech_prob": 0.003893638029694557,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5031829476356506
+                },
+                {
+                    "word": " company's",
+                    "start": 0.12,
+                    "end": 0.98,
+                    "probability": 0.8720347881317139
+                },
+                {
+                    "word": " innovative",
+                    "start": 0.98,
+                    "end": 1.54,
+                    "probability": 0.9822427034378052
+                },
+                {
+                    "word": " approach",
+                    "start": 1.54,
+                    "end": 2.04,
+                    "probability": 0.9968187808990479
+                },
+                {
+                    "word": " revolutionized",
+                    "start": 2.04,
+                    "end": 3.24,
+                    "probability": 0.8135899007320404
+                },
+                {
+                    "word": " the",
+                    "start": 3.24,
+                    "end": 3.44,
+                    "probability": 0.991468071937561
+                },
+                {
+                    "word": " industry.",
+                    "start": 3.44,
+                    "end": 3.98,
+                    "probability": 0.8604983687400818
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

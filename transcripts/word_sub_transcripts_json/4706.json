@@ -1,0 +1,80 @@
+{
+    "text": " Have you checked and free your plate yet?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.3,
+            "text": " Have you checked and free your plate yet?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                10033,
+                293,
+                1737,
+                428,
+                5924,
+                1939,
+                30,
+                50434
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4588979085286458,
+            "compression_ratio": 0.9318181818181818,
+            "no_speech_prob": 0.012503803707659245,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.8150535821914673
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.22,
+                    "probability": 0.9860078692436218
+                },
+                {
+                    "word": " checked",
+                    "start": 0.22,
+                    "end": 0.48,
+                    "probability": 0.9900707602500916
+                },
+                {
+                    "word": " and",
+                    "start": 0.48,
+                    "end": 0.64,
+                    "probability": 0.43345949053764343
+                },
+                {
+                    "word": " free",
+                    "start": 0.64,
+                    "end": 0.8,
+                    "probability": 0.5193771123886108
+                },
+                {
+                    "word": " your",
+                    "start": 0.8,
+                    "end": 0.9,
+                    "probability": 0.554923951625824
+                },
+                {
+                    "word": " plate",
+                    "start": 0.9,
+                    "end": 1.08,
+                    "probability": 0.9850120544433594
+                },
+                {
+                    "word": " yet?",
+                    "start": 1.08,
+                    "end": 1.3,
+                    "probability": 0.9042709469795227
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

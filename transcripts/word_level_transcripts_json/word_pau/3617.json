@@ -1,0 +1,115 @@
+{
+    "text": " I'm not certain if. I enter a prodigy request correctly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.22,
+            "text": " I'm not certain if.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                406,
+                1629,
+                498,
+                13,
+                50550
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5416279792785644,
+            "compression_ratio": 0.8888888888888888,
+            "no_speech_prob": 0.009855125099420547,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.9358849823474884
+                },
+                {
+                    "word": " not",
+                    "start": 0.24,
+                    "end": 0.36,
+                    "probability": 0.9882480502128601
+                },
+                {
+                    "word": " certain",
+                    "start": 0.36,
+                    "end": 0.82,
+                    "probability": 0.8687502145767212
+                },
+                {
+                    "word": " if.",
+                    "start": 0.82,
+                    "end": 1.22,
+                    "probability": 0.8816433548927307
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.72,
+            "end": 5.64,
+            "text": " I enter a prodigy request correctly.",
+            "tokens": [
+                50550,
+                286,
+                3242,
+                257,
+                15792,
+                328,
+                88,
+                5308,
+                8944,
+                13,
+                50650
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5416279792785644,
+            "compression_ratio": 0.8888888888888888,
+            "no_speech_prob": 0.009855125099420547,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 3.4799999999999995,
+                    "end": 3.88,
+                    "probability": 0.9576022028923035
+                },
+                {
+                    "word": " enter",
+                    "start": 3.88,
+                    "end": 4.2,
+                    "probability": 0.4917062520980835
+                },
+                {
+                    "word": " a",
+                    "start": 4.2,
+                    "end": 4.36,
+                    "probability": 0.8224205374717712
+                },
+                {
+                    "word": " prodigy",
+                    "start": 4.36,
+                    "end": 4.58,
+                    "probability": 0.6380124092102051
+                },
+                {
+                    "word": " request",
+                    "start": 4.58,
+                    "end": 4.98,
+                    "probability": 0.9528061151504517
+                },
+                {
+                    "word": " correctly.",
+                    "start": 4.98,
+                    "end": 5.64,
+                    "probability": 0.631327211856842
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

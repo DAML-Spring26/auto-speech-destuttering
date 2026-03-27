@@ -1,0 +1,102 @@
+{
+    "text": " The museum's latest exhibition features works from emerging possibly international artists.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.26,
+            "text": " The museum's latest exhibition features works from emerging possibly international artists.",
+            "tokens": [
+                50364,
+                440,
+                8441,
+                311,
+                6792,
+                14414,
+                4122,
+                1985,
+                490,
+                14989,
+                6264,
+                5058,
+                6910,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27643445134162903,
+            "compression_ratio": 1.1097560975609757,
+            "no_speech_prob": 0.04128510504961014,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.96,
+                    "probability": 0.90866619348526
+                },
+                {
+                    "word": " museum's",
+                    "start": 0.96,
+                    "end": 1.56,
+                    "probability": 0.8715390264987946
+                },
+                {
+                    "word": " latest",
+                    "start": 1.56,
+                    "end": 1.88,
+                    "probability": 0.9969648718833923
+                },
+                {
+                    "word": " exhibition",
+                    "start": 1.88,
+                    "end": 2.52,
+                    "probability": 0.9990288019180298
+                },
+                {
+                    "word": " features",
+                    "start": 2.52,
+                    "end": 3.28,
+                    "probability": 0.9884442687034607
+                },
+                {
+                    "word": " works",
+                    "start": 3.28,
+                    "end": 4.3,
+                    "probability": 0.8756327629089355
+                },
+                {
+                    "word": " from",
+                    "start": 4.3,
+                    "end": 4.56,
+                    "probability": 0.9951647520065308
+                },
+                {
+                    "word": " emerging",
+                    "start": 4.56,
+                    "end": 5.06,
+                    "probability": 0.9974830746650696
+                },
+                {
+                    "word": " possibly",
+                    "start": 5.06,
+                    "end": 5.78,
+                    "probability": 0.9753496646881104
+                },
+                {
+                    "word": " international",
+                    "start": 5.78,
+                    "end": 6.46,
+                    "probability": 0.9909003973007202
+                },
+                {
+                    "word": " artists.",
+                    "start": 6.46,
+                    "end": 7.26,
+                    "probability": 0.9932751655578613
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

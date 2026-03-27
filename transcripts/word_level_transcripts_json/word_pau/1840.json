@@ -1,0 +1,95 @@
+{
+    "text": " just posted a throwback picture from our high school graduation.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.08,
+            "text": " just posted a throwback picture from our high school graduation.",
+            "tokens": [
+                50364,
+                445,
+                9437,
+                257,
+                3507,
+                3207,
+                3036,
+                490,
+                527,
+                1090,
+                1395,
+                15652,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34987430572509765,
+            "compression_ratio": 1.0158730158730158,
+            "no_speech_prob": 0.011067843064665794,
+            "words": [
+                {
+                    "word": " just",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.5594856142997742
+                },
+                {
+                    "word": " posted",
+                    "start": 0.16,
+                    "end": 0.82,
+                    "probability": 0.9804907441139221
+                },
+                {
+                    "word": " a",
+                    "start": 0.82,
+                    "end": 2.02,
+                    "probability": 0.9088557958602905
+                },
+                {
+                    "word": " throwback",
+                    "start": 2.02,
+                    "end": 2.66,
+                    "probability": 0.9104736745357513
+                },
+                {
+                    "word": " picture",
+                    "start": 2.66,
+                    "end": 3.24,
+                    "probability": 0.9877129793167114
+                },
+                {
+                    "word": " from",
+                    "start": 3.24,
+                    "end": 3.58,
+                    "probability": 0.9963990449905396
+                },
+                {
+                    "word": " our",
+                    "start": 3.58,
+                    "end": 3.74,
+                    "probability": 0.9917970895767212
+                },
+                {
+                    "word": " high",
+                    "start": 3.74,
+                    "end": 3.98,
+                    "probability": 0.914193868637085
+                },
+                {
+                    "word": " school",
+                    "start": 3.98,
+                    "end": 4.34,
+                    "probability": 0.9720523953437805
+                },
+                {
+                    "word": " graduation.",
+                    "start": 4.34,
+                    "end": 5.08,
+                    "probability": 0.9954332113265991
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

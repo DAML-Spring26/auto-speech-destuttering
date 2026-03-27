@@ -1,0 +1,121 @@
+{
+    "text": " Can you explain how machine learning? Algorithms work in simple terms.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.32,
+            "text": " Can you explain how machine learning?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                2903,
+                577,
+                3479,
+                2539,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4209734439849854,
+            "compression_ratio": 0.958904109589041,
+            "no_speech_prob": 0.006700659170746803,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.8233838081359863
+                },
+                {
+                    "word": " you",
+                    "start": 0.18,
+                    "end": 0.34,
+                    "probability": 0.9982469081878662
+                },
+                {
+                    "word": " explain",
+                    "start": 0.34,
+                    "end": 0.84,
+                    "probability": 0.9963990449905396
+                },
+                {
+                    "word": " how",
+                    "start": 0.84,
+                    "end": 1.14,
+                    "probability": 0.9930718541145325
+                },
+                {
+                    "word": " machine",
+                    "start": 1.14,
+                    "end": 1.52,
+                    "probability": 0.9608300924301147
+                },
+                {
+                    "word": " learning?",
+                    "start": 1.52,
+                    "end": 2.32,
+                    "probability": 0.9730986952781677
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.36,
+            "end": 9.0,
+            "text": " Algorithms work in simple terms.",
+            "tokens": [
+                50690,
+                35014,
+                6819,
+                2592,
+                589,
+                294,
+                2199,
+                2115,
+                13,
+                50840
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4209734439849854,
+            "compression_ratio": 0.958904109589041,
+            "no_speech_prob": 0.006700659170746803,
+            "words": [
+                {
+                    "word": " Algorithms",
+                    "start": 6.36,
+                    "end": 7.32,
+                    "probability": 0.8796049952507019
+                },
+                {
+                    "word": " work",
+                    "start": 7.32,
+                    "end": 7.64,
+                    "probability": 0.9521487951278687
+                },
+                {
+                    "word": " in",
+                    "start": 7.64,
+                    "end": 7.98,
+                    "probability": 0.9942700862884521
+                },
+                {
+                    "word": " simple",
+                    "start": 7.98,
+                    "end": 8.46,
+                    "probability": 0.9942271709442139
+                },
+                {
+                    "word": " terms.",
+                    "start": 8.46,
+                    "end": 9.0,
+                    "probability": 0.9995362758636475
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

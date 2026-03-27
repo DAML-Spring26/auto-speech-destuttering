@@ -1,0 +1,81 @@
+{
+    "text": " we should prioritise customer sanitation in our service.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.52,
+            "text": " we should prioritise customer sanitation in our service.",
+            "tokens": [
+                50364,
+                321,
+                820,
+                14846,
+                908,
+                5474,
+                50146,
+                294,
+                527,
+                2643,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32742698375995344,
+            "compression_ratio": 0.9333333333333333,
+            "no_speech_prob": 0.002329388167709112,
+            "words": [
+                {
+                    "word": " we",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5937650203704834
+                },
+                {
+                    "word": " should",
+                    "start": 0.1,
+                    "end": 0.2,
+                    "probability": 0.9974531531333923
+                },
+                {
+                    "word": " prioritise",
+                    "start": 0.2,
+                    "end": 1.18,
+                    "probability": 0.7324298918247223
+                },
+                {
+                    "word": " customer",
+                    "start": 1.18,
+                    "end": 1.64,
+                    "probability": 0.950076699256897
+                },
+                {
+                    "word": " sanitation",
+                    "start": 1.64,
+                    "end": 2.46,
+                    "probability": 0.9877761602401733
+                },
+                {
+                    "word": " in",
+                    "start": 2.46,
+                    "end": 2.82,
+                    "probability": 0.993615984916687
+                },
+                {
+                    "word": " our",
+                    "start": 2.82,
+                    "end": 3.0,
+                    "probability": 0.9975232481956482
+                },
+                {
+                    "word": " service.",
+                    "start": 3.0,
+                    "end": 3.52,
+                    "probability": 0.9935446977615356
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

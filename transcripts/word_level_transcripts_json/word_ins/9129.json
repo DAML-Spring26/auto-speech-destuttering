@@ -1,0 +1,66 @@
+{
+    "text": " Just like updated my profile pic.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.34,
+            "text": " Just like updated my profile pic.",
+            "tokens": [
+                50364,
+                1449,
+                411,
+                10588,
+                452,
+                7964,
+                13363,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5069826602935791,
+            "compression_ratio": 0.8048780487804879,
+            "no_speech_prob": 0.06970382481813431,
+            "words": [
+                {
+                    "word": " Just",
+                    "start": 0.0,
+                    "end": 0.8,
+                    "probability": 0.7575662732124329
+                },
+                {
+                    "word": " like",
+                    "start": 0.8,
+                    "end": 0.94,
+                    "probability": 0.9762763977050781
+                },
+                {
+                    "word": " updated",
+                    "start": 0.94,
+                    "end": 1.36,
+                    "probability": 0.8672593832015991
+                },
+                {
+                    "word": " my",
+                    "start": 1.36,
+                    "end": 1.6,
+                    "probability": 0.9774370193481445
+                },
+                {
+                    "word": " profile",
+                    "start": 1.6,
+                    "end": 2.02,
+                    "probability": 0.9741500616073608
+                },
+                {
+                    "word": " pic.",
+                    "start": 2.02,
+                    "end": 2.34,
+                    "probability": 0.49628758430480957
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

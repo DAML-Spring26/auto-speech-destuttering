@@ -1,0 +1,73 @@
+{
+    "text": " the scientist and all the chemical composition.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.64,
+            "text": " the scientist and all the chemical composition.",
+            "tokens": [
+                50364,
+                264,
+                12662,
+                293,
+                439,
+                264,
+                7313,
+                12686,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6110783923755992,
+            "compression_ratio": 0.8867924528301887,
+            "no_speech_prob": 0.008009244687855244,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.48831692337989807
+                },
+                {
+                    "word": " scientist",
+                    "start": 0.14,
+                    "end": 0.62,
+                    "probability": 0.7547808289527893
+                },
+                {
+                    "word": " and",
+                    "start": 0.62,
+                    "end": 1.0,
+                    "probability": 0.2695719599723816
+                },
+                {
+                    "word": " all",
+                    "start": 1.0,
+                    "end": 1.18,
+                    "probability": 0.272743821144104
+                },
+                {
+                    "word": " the",
+                    "start": 1.18,
+                    "end": 1.34,
+                    "probability": 0.8808380365371704
+                },
+                {
+                    "word": " chemical",
+                    "start": 1.34,
+                    "end": 1.86,
+                    "probability": 0.9947431087493896
+                },
+                {
+                    "word": " composition.",
+                    "start": 1.86,
+                    "end": 2.64,
+                    "probability": 0.9557202458381653
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

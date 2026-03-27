@@ -1,0 +1,73 @@
+{
+    "text": " the reports submitted by the dad line.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.98,
+            "text": " the reports submitted by the dad line.",
+            "tokens": [
+                50364,
+                264,
+                7122,
+                14405,
+                538,
+                264,
+                3546,
+                1622,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5552779977971857,
+            "compression_ratio": 0.8444444444444444,
+            "no_speech_prob": 0.008365500718355179,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.456014484167099
+                },
+                {
+                    "word": " reports",
+                    "start": 0.12,
+                    "end": 0.46,
+                    "probability": 0.6101456880569458
+                },
+                {
+                    "word": " submitted",
+                    "start": 0.46,
+                    "end": 0.94,
+                    "probability": 0.9957323670387268
+                },
+                {
+                    "word": " by",
+                    "start": 0.94,
+                    "end": 1.26,
+                    "probability": 0.9885270595550537
+                },
+                {
+                    "word": " the",
+                    "start": 1.26,
+                    "end": 1.4,
+                    "probability": 0.9572503566741943
+                },
+                {
+                    "word": " dad",
+                    "start": 1.4,
+                    "end": 1.64,
+                    "probability": 0.49196532368659973
+                },
+                {
+                    "word": " line.",
+                    "start": 1.64,
+                    "end": 1.98,
+                    "probability": 0.46365779638290405
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

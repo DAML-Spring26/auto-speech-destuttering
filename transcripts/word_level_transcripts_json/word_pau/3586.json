@@ -1,0 +1,95 @@
+{
+    "text": " We should discuss the smattering and our next board meeting.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.64,
+            "text": " We should discuss the smattering and our next board meeting.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                2248,
+                264,
+                899,
+                14849,
+                293,
+                527,
+                958,
+                3150,
+                3440,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5309322675069174,
+            "compression_ratio": 0.9375,
+            "no_speech_prob": 0.008856345899403095,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.67365962266922
+                },
+                {
+                    "word": " should",
+                    "start": 0.1,
+                    "end": 0.24,
+                    "probability": 0.9511324763298035
+                },
+                {
+                    "word": " discuss",
+                    "start": 0.24,
+                    "end": 0.68,
+                    "probability": 0.9934766888618469
+                },
+                {
+                    "word": " the",
+                    "start": 0.68,
+                    "end": 0.96,
+                    "probability": 0.9451027512550354
+                },
+                {
+                    "word": " smattering",
+                    "start": 0.96,
+                    "end": 1.42,
+                    "probability": 0.24298099428415298
+                },
+                {
+                    "word": " and",
+                    "start": 1.42,
+                    "end": 2.98,
+                    "probability": 0.28448888659477234
+                },
+                {
+                    "word": " our",
+                    "start": 2.98,
+                    "end": 5.6,
+                    "probability": 0.5205594301223755
+                },
+                {
+                    "word": " next",
+                    "start": 5.6,
+                    "end": 5.84,
+                    "probability": 0.9932093024253845
+                },
+                {
+                    "word": " board",
+                    "start": 5.84,
+                    "end": 6.26,
+                    "probability": 0.6186851859092712
+                },
+                {
+                    "word": " meeting.",
+                    "start": 6.26,
+                    "end": 6.64,
+                    "probability": 0.9973201155662537
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

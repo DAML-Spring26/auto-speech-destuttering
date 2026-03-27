@@ -1,0 +1,67 @@
+{
+    "text": " The car wouldn't start this morning.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.66,
+            "text": " The car wouldn't start this morning.",
+            "tokens": [
+                50364,
+                440,
+                1032,
+                2759,
+                380,
+                722,
+                341,
+                2446,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3208581967787309,
+            "compression_ratio": 0.8181818181818182,
+            "no_speech_prob": 0.009277566336095333,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6286689043045044
+                },
+                {
+                    "word": " car",
+                    "start": 0.16,
+                    "end": 0.36,
+                    "probability": 0.9955282807350159
+                },
+                {
+                    "word": " wouldn't",
+                    "start": 0.36,
+                    "end": 0.76,
+                    "probability": 0.9869950115680695
+                },
+                {
+                    "word": " start",
+                    "start": 0.76,
+                    "end": 2.04,
+                    "probability": 0.9238578677177429
+                },
+                {
+                    "word": " this",
+                    "start": 2.04,
+                    "end": 2.24,
+                    "probability": 0.9744351506233215
+                },
+                {
+                    "word": " morning.",
+                    "start": 2.24,
+                    "end": 2.66,
+                    "probability": 0.997686505317688
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

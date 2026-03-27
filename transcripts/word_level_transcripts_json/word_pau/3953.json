@@ -1,0 +1,106 @@
+{
+    "text": " I'm not sure if I understood you. Question correctly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.72,
+            "text": " I'm not sure if I understood you.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                406,
+                988,
+                498,
+                286,
+                7320,
+                291,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5808391571044922,
+            "compression_ratio": 0.8833333333333333,
+            "no_speech_prob": 0.010959042236208916,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.946534126996994
+                },
+                {
+                    "word": " not",
+                    "start": 0.26,
+                    "end": 0.36,
+                    "probability": 0.9973179697990417
+                },
+                {
+                    "word": " sure",
+                    "start": 0.36,
+                    "end": 0.64,
+                    "probability": 0.886654794216156
+                },
+                {
+                    "word": " if",
+                    "start": 0.64,
+                    "end": 0.84,
+                    "probability": 0.9973183274269104
+                },
+                {
+                    "word": " I",
+                    "start": 0.84,
+                    "end": 0.94,
+                    "probability": 0.9882363677024841
+                },
+                {
+                    "word": " understood",
+                    "start": 0.94,
+                    "end": 1.36,
+                    "probability": 0.9728427529335022
+                },
+                {
+                    "word": " you.",
+                    "start": 1.36,
+                    "end": 1.72,
+                    "probability": 0.6612405776977539
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.0200000000000005,
+            "end": 6.42,
+            "text": " Question correctly.",
+            "tokens": [
+                50628,
+                14464,
+                8944,
+                13,
+                50708
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5808391571044922,
+            "compression_ratio": 0.8833333333333333,
+            "no_speech_prob": 0.010959042236208916,
+            "words": [
+                {
+                    "word": " Question",
+                    "start": 5.0200000000000005,
+                    "end": 5.74,
+                    "probability": 0.895686149597168
+                },
+                {
+                    "word": " correctly.",
+                    "start": 5.74,
+                    "end": 6.42,
+                    "probability": 0.7927416563034058
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

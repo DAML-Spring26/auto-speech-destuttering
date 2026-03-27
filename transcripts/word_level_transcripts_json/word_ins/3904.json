@@ -1,0 +1,94 @@
+{
+    "text": " Please remember to bring your textbooks to a class tomorrow.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.1600000000000004,
+            "end": 4.58,
+            "text": " Please remember to bring your textbooks to a class tomorrow.",
+            "tokens": [
+                50364,
+                2555,
+                1604,
+                281,
+                1565,
+                428,
+                33587,
+                281,
+                257,
+                1508,
+                4153,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3284519059317453,
+            "compression_ratio": 0.967741935483871,
+            "no_speech_prob": 0.09681589156389236,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 1.1600000000000004,
+                    "end": 1.76,
+                    "probability": 0.8403429388999939
+                },
+                {
+                    "word": " remember",
+                    "start": 1.76,
+                    "end": 2.24,
+                    "probability": 0.9833389520645142
+                },
+                {
+                    "word": " to",
+                    "start": 2.24,
+                    "end": 2.46,
+                    "probability": 0.999056875705719
+                },
+                {
+                    "word": " bring",
+                    "start": 2.46,
+                    "end": 2.62,
+                    "probability": 0.9882949590682983
+                },
+                {
+                    "word": " your",
+                    "start": 2.62,
+                    "end": 2.82,
+                    "probability": 0.994821310043335
+                },
+                {
+                    "word": " textbooks",
+                    "start": 2.82,
+                    "end": 3.28,
+                    "probability": 0.6149889826774597
+                },
+                {
+                    "word": " to",
+                    "start": 3.28,
+                    "end": 3.82,
+                    "probability": 0.987311840057373
+                },
+                {
+                    "word": " a",
+                    "start": 3.82,
+                    "end": 3.94,
+                    "probability": 0.9941728711128235
+                },
+                {
+                    "word": " class",
+                    "start": 3.94,
+                    "end": 4.18,
+                    "probability": 0.9790013432502747
+                },
+                {
+                    "word": " tomorrow.",
+                    "start": 4.18,
+                    "end": 4.58,
+                    "probability": 0.9914711117744446
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

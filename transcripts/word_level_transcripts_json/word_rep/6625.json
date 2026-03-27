@@ -1,0 +1,122 @@
+{
+    "text": " The CEO announced that the company would be expanding into Asian markets next year.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.78,
+            "text": " The CEO announced that the company would be expanding into Asian markets next year.",
+            "tokens": [
+                50364,
+                440,
+                9282,
+                7548,
+                300,
+                264,
+                2237,
+                576,
+                312,
+                14702,
+                666,
+                10645,
+                8383,
+                958,
+                1064,
+                13,
+                50710
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2698526117536757,
+            "compression_ratio": 1.0121951219512195,
+            "no_speech_prob": 0.007581416517496109,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.641811192035675
+                },
+                {
+                    "word": " CEO",
+                    "start": 0.14,
+                    "end": 0.58,
+                    "probability": 0.9467896223068237
+                },
+                {
+                    "word": " announced",
+                    "start": 0.58,
+                    "end": 1.24,
+                    "probability": 0.9801893830299377
+                },
+                {
+                    "word": " that",
+                    "start": 1.24,
+                    "end": 1.84,
+                    "probability": 0.8365405797958374
+                },
+                {
+                    "word": " the",
+                    "start": 1.84,
+                    "end": 1.96,
+                    "probability": 0.9756367802619934
+                },
+                {
+                    "word": " company",
+                    "start": 1.96,
+                    "end": 2.44,
+                    "probability": 0.9916394352912903
+                },
+                {
+                    "word": " would",
+                    "start": 2.44,
+                    "end": 3.06,
+                    "probability": 0.9641726613044739
+                },
+                {
+                    "word": " be",
+                    "start": 3.06,
+                    "end": 3.36,
+                    "probability": 0.9874945282936096
+                },
+                {
+                    "word": " expanding",
+                    "start": 3.36,
+                    "end": 4.44,
+                    "probability": 0.5912600755691528
+                },
+                {
+                    "word": " into",
+                    "start": 4.44,
+                    "end": 5.08,
+                    "probability": 0.9378935694694519
+                },
+                {
+                    "word": " Asian",
+                    "start": 5.08,
+                    "end": 5.56,
+                    "probability": 0.8655812740325928
+                },
+                {
+                    "word": " markets",
+                    "start": 5.56,
+                    "end": 6.02,
+                    "probability": 0.958453357219696
+                },
+                {
+                    "word": " next",
+                    "start": 6.02,
+                    "end": 6.4,
+                    "probability": 0.9736939668655396
+                },
+                {
+                    "word": " year.",
+                    "start": 6.4,
+                    "end": 6.78,
+                    "probability": 0.9970079064369202
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

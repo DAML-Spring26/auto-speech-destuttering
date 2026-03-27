@@ -1,0 +1,73 @@
+{
+    "text": " The new algorithm significantly improves processing speed.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.42,
+            "text": " The new algorithm significantly improves processing speed.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                9284,
+                10591,
+                24771,
+                9007,
+                3073,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33598704771562055,
+            "compression_ratio": 0.90625,
+            "no_speech_prob": 0.006765439175069332,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5635308027267456
+                },
+                {
+                    "word": " new",
+                    "start": 0.14,
+                    "end": 0.34,
+                    "probability": 0.9735487103462219
+                },
+                {
+                    "word": " algorithm",
+                    "start": 0.34,
+                    "end": 0.84,
+                    "probability": 0.8552713394165039
+                },
+                {
+                    "word": " significantly",
+                    "start": 0.84,
+                    "end": 1.94,
+                    "probability": 0.9365503191947937
+                },
+                {
+                    "word": " improves",
+                    "start": 1.94,
+                    "end": 5.0,
+                    "probability": 0.992768406867981
+                },
+                {
+                    "word": " processing",
+                    "start": 5.0,
+                    "end": 5.74,
+                    "probability": 0.9889969825744629
+                },
+                {
+                    "word": " speed.",
+                    "start": 5.74,
+                    "end": 6.42,
+                    "probability": 0.9978906512260437
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

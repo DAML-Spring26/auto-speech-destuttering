@@ -1,0 +1,81 @@
+{
+    "text": " What's the deadline for submitting the research paper?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.62,
+            "text": " What's the deadline for submitting the research paper?",
+            "tokens": [
+                50364,
+                708,
+                311,
+                264,
+                20615,
+                337,
+                31836,
+                264,
+                2132,
+                3035,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.334013058589055,
+            "compression_ratio": 0.9152542372881356,
+            "no_speech_prob": 0.13007226586341858,
+            "words": [
+                {
+                    "word": " What's",
+                    "start": 0.0,
+                    "end": 0.78,
+                    "probability": 0.8619917631149292
+                },
+                {
+                    "word": " the",
+                    "start": 0.78,
+                    "end": 0.88,
+                    "probability": 0.9937542080879211
+                },
+                {
+                    "word": " deadline",
+                    "start": 0.88,
+                    "end": 1.16,
+                    "probability": 0.997327446937561
+                },
+                {
+                    "word": " for",
+                    "start": 1.16,
+                    "end": 1.4,
+                    "probability": 0.9978406429290771
+                },
+                {
+                    "word": " submitting",
+                    "start": 1.4,
+                    "end": 1.72,
+                    "probability": 0.9875181317329407
+                },
+                {
+                    "word": " the",
+                    "start": 1.72,
+                    "end": 1.94,
+                    "probability": 0.9911099672317505
+                },
+                {
+                    "word": " research",
+                    "start": 1.94,
+                    "end": 2.24,
+                    "probability": 0.8667930960655212
+                },
+                {
+                    "word": " paper?",
+                    "start": 2.24,
+                    "end": 2.62,
+                    "probability": 0.994325578212738
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,122 @@
+{
+    "text": " The annual report shows that I have revenue grown by 15% this year.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.46,
+            "text": " The annual report shows that I have revenue grown by 15% this year.",
+            "tokens": [
+                50364,
+                440,
+                9784,
+                2275,
+                3110,
+                300,
+                286,
+                362,
+                9324,
+                7709,
+                538,
+                2119,
+                4,
+                341,
+                1064,
+                13,
+                50540
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34488402472602,
+            "compression_ratio": 0.9178082191780822,
+            "no_speech_prob": 0.003121976973488927,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7661513090133667
+                },
+                {
+                    "word": " annual",
+                    "start": 0.1,
+                    "end": 0.32,
+                    "probability": 0.922072172164917
+                },
+                {
+                    "word": " report",
+                    "start": 0.32,
+                    "end": 0.66,
+                    "probability": 0.8946051001548767
+                },
+                {
+                    "word": " shows",
+                    "start": 0.66,
+                    "end": 0.94,
+                    "probability": 0.7362028956413269
+                },
+                {
+                    "word": " that",
+                    "start": 0.94,
+                    "end": 1.08,
+                    "probability": 0.9602851271629333
+                },
+                {
+                    "word": " I",
+                    "start": 1.08,
+                    "end": 1.2,
+                    "probability": 0.8179359436035156
+                },
+                {
+                    "word": " have",
+                    "start": 1.2,
+                    "end": 1.32,
+                    "probability": 0.28357285261154175
+                },
+                {
+                    "word": " revenue",
+                    "start": 1.32,
+                    "end": 1.56,
+                    "probability": 0.7780306339263916
+                },
+                {
+                    "word": " grown",
+                    "start": 1.56,
+                    "end": 1.88,
+                    "probability": 0.9348052740097046
+                },
+                {
+                    "word": " by",
+                    "start": 1.88,
+                    "end": 2.14,
+                    "probability": 0.9915894865989685
+                },
+                {
+                    "word": " 15",
+                    "start": 2.14,
+                    "end": 2.64,
+                    "probability": 0.9677507877349854
+                },
+                {
+                    "word": "%",
+                    "start": 2.64,
+                    "end": 3.04,
+                    "probability": 0.9326387643814087
+                },
+                {
+                    "word": " this",
+                    "start": 3.04,
+                    "end": 3.24,
+                    "probability": 0.9946823716163635
+                },
+                {
+                    "word": " year.",
+                    "start": 3.24,
+                    "end": 3.46,
+                    "probability": 0.9990252256393433
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

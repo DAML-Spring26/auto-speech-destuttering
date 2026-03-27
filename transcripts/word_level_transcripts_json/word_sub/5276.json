@@ -1,0 +1,61 @@
+{
+    "text": " she's majoring in cognitive physiology.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.38,
+            "text": " she's majoring in cognitive physiology.",
+            "tokens": [
+                50364,
+                750,
+                311,
+                2563,
+                278,
+                294,
+                15605,
+                43585,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3903695019808682,
+            "compression_ratio": 0.8297872340425532,
+            "no_speech_prob": 0.0029904237017035484,
+            "words": [
+                {
+                    "word": " she's",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.6902770847082138
+                },
+                {
+                    "word": " majoring",
+                    "start": 0.36,
+                    "end": 0.96,
+                    "probability": 0.9432883858680725
+                },
+                {
+                    "word": " in",
+                    "start": 0.96,
+                    "end": 1.18,
+                    "probability": 0.9970189332962036
+                },
+                {
+                    "word": " cognitive",
+                    "start": 1.18,
+                    "end": 1.66,
+                    "probability": 0.9455708265304565
+                },
+                {
+                    "word": " physiology.",
+                    "start": 1.66,
+                    "end": 2.38,
+                    "probability": 0.9954451322555542
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

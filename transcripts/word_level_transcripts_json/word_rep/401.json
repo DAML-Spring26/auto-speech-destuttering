@@ -1,0 +1,45 @@
+{
+    "text": " nor did I.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.86,
+            "text": " nor did I.",
+            "tokens": [
+                50364,
+                6051,
+                630,
+                286,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5050152029309954,
+            "compression_ratio": 0.5555555555555556,
+            "no_speech_prob": 0.02359103597700596,
+            "words": [
+                {
+                    "word": " nor",
+                    "start": 0.0,
+                    "end": 0.46,
+                    "probability": 0.5440247654914856
+                },
+                {
+                    "word": " did",
+                    "start": 0.46,
+                    "end": 1.52,
+                    "probability": 0.8625404834747314
+                },
+                {
+                    "word": " I.",
+                    "start": 1.52,
+                    "end": 1.86,
+                    "probability": 0.9781419634819031
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

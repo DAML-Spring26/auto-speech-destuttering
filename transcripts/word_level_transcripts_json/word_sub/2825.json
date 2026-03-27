@@ -1,0 +1,59 @@
+{
+    "text": " They processed a new solution.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.88,
+            "text": " They processed a new solution.",
+            "tokens": [
+                50364,
+                814,
+                18846,
+                257,
+                777,
+                3827,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3559563159942627,
+            "compression_ratio": 0.7894736842105263,
+            "no_speech_prob": 0.005312883295118809,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.5571634769439697
+                },
+                {
+                    "word": " processed",
+                    "start": 0.16,
+                    "end": 0.7,
+                    "probability": 0.9318352937698364
+                },
+                {
+                    "word": " a",
+                    "start": 0.7,
+                    "end": 1.06,
+                    "probability": 0.996090829372406
+                },
+                {
+                    "word": " new",
+                    "start": 1.06,
+                    "end": 1.26,
+                    "probability": 0.9921696782112122
+                },
+                {
+                    "word": " solution.",
+                    "start": 1.26,
+                    "end": 1.88,
+                    "probability": 0.9964724779129028
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

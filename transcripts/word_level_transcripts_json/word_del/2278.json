@@ -1,0 +1,136 @@
+{
+    "text": " and you tell me where nearest ATM is I need to withdraw some cash for lunch.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.4,
+            "text": " and you tell me where nearest ATM is I need to withdraw some cash for lunch.",
+            "tokens": [
+                50364,
+                293,
+                291,
+                980,
+                385,
+                689,
+                23831,
+                46455,
+                307,
+                286,
+                643,
+                281,
+                14999,
+                512,
+                6388,
+                337,
+                6349,
+                13,
+                50548
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42188639640808107,
+            "compression_ratio": 0.987012987012987,
+            "no_speech_prob": 0.005513682961463928,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.33288249373435974
+                },
+                {
+                    "word": " you",
+                    "start": 0.12,
+                    "end": 0.24,
+                    "probability": 0.8332216143608093
+                },
+                {
+                    "word": " tell",
+                    "start": 0.24,
+                    "end": 0.42,
+                    "probability": 0.9738072156906128
+                },
+                {
+                    "word": " me",
+                    "start": 0.42,
+                    "end": 0.58,
+                    "probability": 0.9960150122642517
+                },
+                {
+                    "word": " where",
+                    "start": 0.58,
+                    "end": 0.76,
+                    "probability": 0.729896068572998
+                },
+                {
+                    "word": " nearest",
+                    "start": 0.76,
+                    "end": 1.06,
+                    "probability": 0.15067695081233978
+                },
+                {
+                    "word": " ATM",
+                    "start": 1.06,
+                    "end": 1.42,
+                    "probability": 0.7563933730125427
+                },
+                {
+                    "word": " is",
+                    "start": 1.42,
+                    "end": 1.66,
+                    "probability": 0.8975377082824707
+                },
+                {
+                    "word": " I",
+                    "start": 1.66,
+                    "end": 1.82,
+                    "probability": 0.5109984874725342
+                },
+                {
+                    "word": " need",
+                    "start": 1.82,
+                    "end": 2.0,
+                    "probability": 0.9856840372085571
+                },
+                {
+                    "word": " to",
+                    "start": 2.0,
+                    "end": 2.18,
+                    "probability": 0.9948357343673706
+                },
+                {
+                    "word": " withdraw",
+                    "start": 2.18,
+                    "end": 2.48,
+                    "probability": 0.9837338924407959
+                },
+                {
+                    "word": " some",
+                    "start": 2.48,
+                    "end": 2.68,
+                    "probability": 0.9484962224960327
+                },
+                {
+                    "word": " cash",
+                    "start": 2.68,
+                    "end": 2.98,
+                    "probability": 0.9939073920249939
+                },
+                {
+                    "word": " for",
+                    "start": 2.98,
+                    "end": 3.14,
+                    "probability": 0.9655651450157166
+                },
+                {
+                    "word": " lunch.",
+                    "start": 3.14,
+                    "end": 3.4,
+                    "probability": 0.8931054472923279
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

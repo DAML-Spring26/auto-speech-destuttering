@@ -1,0 +1,66 @@
+{
+    "text": " We must calculate the research findings.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.24,
+            "text": " We must calculate the research findings.",
+            "tokens": [
+                50364,
+                492,
+                1633,
+                8873,
+                264,
+                2132,
+                16483,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37523984909057617,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.010193826630711555,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.6598095893859863
+                },
+                {
+                    "word": " must",
+                    "start": 0.42,
+                    "end": 0.58,
+                    "probability": 0.9937074780464172
+                },
+                {
+                    "word": " calculate",
+                    "start": 0.58,
+                    "end": 1.02,
+                    "probability": 0.9938130378723145
+                },
+                {
+                    "word": " the",
+                    "start": 1.02,
+                    "end": 1.26,
+                    "probability": 0.9867120981216431
+                },
+                {
+                    "word": " research",
+                    "start": 1.26,
+                    "end": 1.64,
+                    "probability": 0.9645257592201233
+                },
+                {
+                    "word": " findings.",
+                    "start": 1.64,
+                    "end": 2.24,
+                    "probability": 0.9966756105422974
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

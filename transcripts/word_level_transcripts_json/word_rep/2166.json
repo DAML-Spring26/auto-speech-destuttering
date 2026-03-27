@@ -1,0 +1,45 @@
+{
+    "text": " Let me see.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.86,
+            "text": " Let me see.",
+            "tokens": [
+                50364,
+                961,
+                385,
+                536,
+                13,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47795070920671734,
+            "compression_ratio": 0.5789473684210527,
+            "no_speech_prob": 0.022163061425089836,
+            "words": [
+                {
+                    "word": " Let",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.7737928032875061
+                },
+                {
+                    "word": " me",
+                    "start": 0.22,
+                    "end": 0.56,
+                    "probability": 0.9689875841140747
+                },
+                {
+                    "word": " see.",
+                    "start": 0.56,
+                    "end": 0.86,
+                    "probability": 0.9830493927001953
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

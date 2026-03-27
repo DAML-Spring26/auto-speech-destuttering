@@ -1,0 +1,96 @@
+{
+    "text": " Umji, I just want tickets to see my favorite band.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.48,
+            "text": " Umji, I just want tickets to see my favorite band.",
+            "tokens": [
+                50364,
+                3301,
+                4013,
+                11,
+                286,
+                445,
+                528,
+                12628,
+                281,
+                536,
+                452,
+                2954,
+                4116,
+                13,
+                50560
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3741580545902252,
+            "compression_ratio": 0.8620689655172413,
+            "no_speech_prob": 0.02197372354567051,
+            "words": [
+                {
+                    "word": " Umji,",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.6288275718688965
+                },
+                {
+                    "word": " I",
+                    "start": 0.72,
+                    "end": 0.9,
+                    "probability": 0.9289144277572632
+                },
+                {
+                    "word": " just",
+                    "start": 0.9,
+                    "end": 1.5,
+                    "probability": 0.2633747458457947
+                },
+                {
+                    "word": " want",
+                    "start": 1.5,
+                    "end": 1.72,
+                    "probability": 0.8549469709396362
+                },
+                {
+                    "word": " tickets",
+                    "start": 1.72,
+                    "end": 2.0,
+                    "probability": 0.94580078125
+                },
+                {
+                    "word": " to",
+                    "start": 2.0,
+                    "end": 2.28,
+                    "probability": 0.9974179267883301
+                },
+                {
+                    "word": " see",
+                    "start": 2.28,
+                    "end": 2.44,
+                    "probability": 0.9984673857688904
+                },
+                {
+                    "word": " my",
+                    "start": 2.44,
+                    "end": 2.62,
+                    "probability": 0.9976654052734375
+                },
+                {
+                    "word": " favorite",
+                    "start": 2.62,
+                    "end": 3.08,
+                    "probability": 0.9192492365837097
+                },
+                {
+                    "word": " band.",
+                    "start": 3.08,
+                    "end": 3.48,
+                    "probability": 0.99358069896698
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

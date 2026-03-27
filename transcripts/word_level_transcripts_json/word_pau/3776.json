@@ -1,0 +1,80 @@
+{
+    "text": " Your order will be processed within 24 hours.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.68,
+            "text": " Your order will be processed within 24 hours.",
+            "tokens": [
+                50364,
+                2260,
+                1668,
+                486,
+                312,
+                18846,
+                1951,
+                4022,
+                2496,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2826065222422282,
+            "compression_ratio": 0.8823529411764706,
+            "no_speech_prob": 0.006699834018945694,
+            "words": [
+                {
+                    "word": " Your",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8117197155952454
+                },
+                {
+                    "word": " order",
+                    "start": 0.12,
+                    "end": 0.46,
+                    "probability": 0.9817065596580505
+                },
+                {
+                    "word": " will",
+                    "start": 0.46,
+                    "end": 0.68,
+                    "probability": 0.9958451390266418
+                },
+                {
+                    "word": " be",
+                    "start": 0.68,
+                    "end": 0.88,
+                    "probability": 0.9989302754402161
+                },
+                {
+                    "word": " processed",
+                    "start": 0.88,
+                    "end": 1.64,
+                    "probability": 0.9921019673347473
+                },
+                {
+                    "word": " within",
+                    "start": 1.64,
+                    "end": 5.3,
+                    "probability": 0.8038921356201172
+                },
+                {
+                    "word": " 24",
+                    "start": 5.3,
+                    "end": 6.22,
+                    "probability": 0.9448871612548828
+                },
+                {
+                    "word": " hours.",
+                    "start": 6.22,
+                    "end": 6.68,
+                    "probability": 0.981162428855896
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,96 @@
+{
+    "text": " the market's showing signs of recovery after the recent downturn.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.08,
+            "text": " the market's showing signs of recovery after the recent downturn.",
+            "tokens": [
+                50364,
+                264,
+                2142,
+                311,
+                4099,
+                7880,
+                295,
+                8597,
+                934,
+                264,
+                5162,
+                11655,
+                925,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2833060622215271,
+            "compression_ratio": 0.9701492537313433,
+            "no_speech_prob": 0.006225263234227896,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5574672818183899
+                },
+                {
+                    "word": " market's",
+                    "start": 0.12,
+                    "end": 0.6,
+                    "probability": 0.6410286128520966
+                },
+                {
+                    "word": " showing",
+                    "start": 0.6,
+                    "end": 0.8,
+                    "probability": 0.9654413461685181
+                },
+                {
+                    "word": " signs",
+                    "start": 0.8,
+                    "end": 1.14,
+                    "probability": 0.9974191188812256
+                },
+                {
+                    "word": " of",
+                    "start": 1.14,
+                    "end": 1.3,
+                    "probability": 0.9952338337898254
+                },
+                {
+                    "word": " recovery",
+                    "start": 1.3,
+                    "end": 1.64,
+                    "probability": 0.9503008723258972
+                },
+                {
+                    "word": " after",
+                    "start": 1.64,
+                    "end": 2.02,
+                    "probability": 0.9966379404067993
+                },
+                {
+                    "word": " the",
+                    "start": 2.02,
+                    "end": 2.16,
+                    "probability": 0.9815386533737183
+                },
+                {
+                    "word": " recent",
+                    "start": 2.16,
+                    "end": 2.44,
+                    "probability": 0.9900333285331726
+                },
+                {
+                    "word": " downturn.",
+                    "start": 2.44,
+                    "end": 3.08,
+                    "probability": 0.9903558492660522
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

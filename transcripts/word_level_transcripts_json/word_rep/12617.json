@@ -1,0 +1,94 @@
+{
+    "text": " The new product launch has exceeded our initial sales projections.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.62,
+            "text": " The new product launch has exceeded our initial sales projections.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                1674,
+                4025,
+                575,
+                38026,
+                527,
+                5883,
+                5763,
+                32371,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28337388379233225,
+            "compression_ratio": 0.9850746268656716,
+            "no_speech_prob": 0.00620464701205492,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8232592344284058
+                },
+                {
+                    "word": " new",
+                    "start": 0.12,
+                    "end": 0.34,
+                    "probability": 0.9783551692962646
+                },
+                {
+                    "word": " product",
+                    "start": 0.34,
+                    "end": 0.76,
+                    "probability": 0.9155592918395996
+                },
+                {
+                    "word": " launch",
+                    "start": 0.76,
+                    "end": 1.16,
+                    "probability": 0.9721781015396118
+                },
+                {
+                    "word": " has",
+                    "start": 1.16,
+                    "end": 1.58,
+                    "probability": 0.991841197013855
+                },
+                {
+                    "word": " exceeded",
+                    "start": 1.58,
+                    "end": 2.1,
+                    "probability": 0.9884588122367859
+                },
+                {
+                    "word": " our",
+                    "start": 2.1,
+                    "end": 2.34,
+                    "probability": 0.9847869277000427
+                },
+                {
+                    "word": " initial",
+                    "start": 2.34,
+                    "end": 2.76,
+                    "probability": 0.9921877384185791
+                },
+                {
+                    "word": " sales",
+                    "start": 2.76,
+                    "end": 3.92,
+                    "probability": 0.6200075745582581
+                },
+                {
+                    "word": " projections.",
+                    "start": 3.92,
+                    "end": 4.62,
+                    "probability": 0.9403790235519409
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

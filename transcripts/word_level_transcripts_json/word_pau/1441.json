@@ -1,0 +1,109 @@
+{
+    "text": " I can't believe we got front row system to the Broadway show.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.02,
+            "text": " I can't believe we got front row system to the Broadway show.",
+            "tokens": [
+                50364,
+                286,
+                393,
+                380,
+                1697,
+                321,
+                658,
+                1868,
+                5386,
+                1185,
+                281,
+                264,
+                19414,
+                855,
+                13,
+                50572
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48566672381232767,
+            "compression_ratio": 0.9242424242424242,
+            "no_speech_prob": 0.013496039435267448,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.9280230402946472
+                },
+                {
+                    "word": " can't",
+                    "start": 0.14,
+                    "end": 0.46,
+                    "probability": 0.9856525361537933
+                },
+                {
+                    "word": " believe",
+                    "start": 0.46,
+                    "end": 0.64,
+                    "probability": 0.9980728626251221
+                },
+                {
+                    "word": " we",
+                    "start": 0.64,
+                    "end": 0.84,
+                    "probability": 0.9846665859222412
+                },
+                {
+                    "word": " got",
+                    "start": 0.84,
+                    "end": 0.96,
+                    "probability": 0.9375617504119873
+                },
+                {
+                    "word": " front",
+                    "start": 0.96,
+                    "end": 1.22,
+                    "probability": 0.24078106880187988
+                },
+                {
+                    "word": " row",
+                    "start": 1.22,
+                    "end": 1.5,
+                    "probability": 0.5076665878295898
+                },
+                {
+                    "word": " system",
+                    "start": 1.5,
+                    "end": 1.84,
+                    "probability": 0.29366809129714966
+                },
+                {
+                    "word": " to",
+                    "start": 1.84,
+                    "end": 3.24,
+                    "probability": 0.293369323015213
+                },
+                {
+                    "word": " the",
+                    "start": 3.24,
+                    "end": 3.38,
+                    "probability": 0.892700731754303
+                },
+                {
+                    "word": " Broadway",
+                    "start": 3.38,
+                    "end": 3.68,
+                    "probability": 0.9844439029693604
+                },
+                {
+                    "word": " show.",
+                    "start": 3.68,
+                    "end": 4.02,
+                    "probability": 0.9409521222114563
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,73 @@
+{
+    "text": " We should track the pressure readings hourly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.78,
+            "text": " We should track the pressure readings hourly.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                2837,
+                264,
+                3321,
+                27319,
+                48364,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25207682089372113,
+            "compression_ratio": 0.8653846153846154,
+            "no_speech_prob": 0.0021789507009088993,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6206159591674805
+                },
+                {
+                    "word": " should",
+                    "start": 0.12,
+                    "end": 0.22,
+                    "probability": 0.9925098419189453
+                },
+                {
+                    "word": " track",
+                    "start": 0.22,
+                    "end": 0.44,
+                    "probability": 0.9417995810508728
+                },
+                {
+                    "word": " the",
+                    "start": 0.44,
+                    "end": 0.62,
+                    "probability": 0.993450403213501
+                },
+                {
+                    "word": " pressure",
+                    "start": 0.62,
+                    "end": 0.92,
+                    "probability": 0.9836859107017517
+                },
+                {
+                    "word": " readings",
+                    "start": 0.92,
+                    "end": 1.34,
+                    "probability": 0.9268808364868164
+                },
+                {
+                    "word": " hourly.",
+                    "start": 1.34,
+                    "end": 1.78,
+                    "probability": 0.966881275177002
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,66 @@
+{
+    "text": " Did you regard the meeting minutes?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.24,
+            "text": " Did you regard the meeting minutes?",
+            "tokens": [
+                50364,
+                2589,
+                291,
+                3843,
+                264,
+                3440,
+                2077,
+                30,
+                50454
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3162994384765625,
+            "compression_ratio": 0.813953488372093,
+            "no_speech_prob": 0.018679678440093994,
+            "words": [
+                {
+                    "word": " Did",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.8777410387992859
+                },
+                {
+                    "word": " you",
+                    "start": 0.1,
+                    "end": 0.22,
+                    "probability": 0.9965556859970093
+                },
+                {
+                    "word": " regard",
+                    "start": 0.22,
+                    "end": 0.46,
+                    "probability": 0.9816550016403198
+                },
+                {
+                    "word": " the",
+                    "start": 0.46,
+                    "end": 0.66,
+                    "probability": 0.9909728765487671
+                },
+                {
+                    "word": " meeting",
+                    "start": 0.66,
+                    "end": 0.84,
+                    "probability": 0.9895484447479248
+                },
+                {
+                    "word": " minutes?",
+                    "start": 0.84,
+                    "end": 1.24,
+                    "probability": 0.9946302175521851
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

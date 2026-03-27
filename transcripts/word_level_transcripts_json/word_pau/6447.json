@@ -1,0 +1,87 @@
+{
+    "text": " The document choose informative but the pacing is slow.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.48,
+            "text": " The document choose informative but the pacing is slow.",
+            "tokens": [
+                50364,
+                440,
+                4166,
+                2826,
+                27759,
+                457,
+                264,
+                43285,
+                307,
+                2964,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7183653024526743,
+            "compression_ratio": 0.8870967741935484,
+            "no_speech_prob": 0.007088049780577421,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5942160487174988
+                },
+                {
+                    "word": " document",
+                    "start": 0.14,
+                    "end": 0.48,
+                    "probability": 0.910348653793335
+                },
+                {
+                    "word": " choose",
+                    "start": 0.48,
+                    "end": 0.94,
+                    "probability": 0.0469287671148777
+                },
+                {
+                    "word": " informative",
+                    "start": 0.94,
+                    "end": 1.68,
+                    "probability": 0.6024061441421509
+                },
+                {
+                    "word": " but",
+                    "start": 1.68,
+                    "end": 2.54,
+                    "probability": 0.4734317660331726
+                },
+                {
+                    "word": " the",
+                    "start": 2.54,
+                    "end": 5.58,
+                    "probability": 0.5322065949440002
+                },
+                {
+                    "word": " pacing",
+                    "start": 5.58,
+                    "end": 5.94,
+                    "probability": 0.9661762714385986
+                },
+                {
+                    "word": " is",
+                    "start": 5.94,
+                    "end": 6.14,
+                    "probability": 0.6298073530197144
+                },
+                {
+                    "word": " slow.",
+                    "start": 6.14,
+                    "end": 6.48,
+                    "probability": 0.9853158593177795
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,125 @@
+{
+    "text": " The project manager asked whole team members it submitted their progress reports.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.26,
+            "text": " The project manager asked whole team members",
+            "tokens": [
+                50364,
+                440,
+                1716,
+                6598,
+                2351,
+                1379,
+                1469,
+                2679,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4445815616183811,
+            "compression_ratio": 1.08,
+            "no_speech_prob": 0.0038312359247356653,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8576000332832336
+                },
+                {
+                    "word": " project",
+                    "start": 0.12,
+                    "end": 0.48,
+                    "probability": 0.6007575988769531
+                },
+                {
+                    "word": " manager",
+                    "start": 0.48,
+                    "end": 0.98,
+                    "probability": 0.9933466911315918
+                },
+                {
+                    "word": " asked",
+                    "start": 0.98,
+                    "end": 1.36,
+                    "probability": 0.8566389083862305
+                },
+                {
+                    "word": " whole",
+                    "start": 1.36,
+                    "end": 1.62,
+                    "probability": 0.43171146512031555
+                },
+                {
+                    "word": " team",
+                    "start": 1.62,
+                    "end": 1.92,
+                    "probability": 0.9947242140769958
+                },
+                {
+                    "word": " members",
+                    "start": 1.92,
+                    "end": 2.26,
+                    "probability": 0.9900450110435486
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.26,
+            "end": 4.08,
+            "text": " it submitted their progress reports.",
+            "tokens": [
+                50484,
+                309,
+                14405,
+                641,
+                4205,
+                7122,
+                13,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4445815616183811,
+            "compression_ratio": 1.08,
+            "no_speech_prob": 0.0038312359247356653,
+            "words": [
+                {
+                    "word": " it",
+                    "start": 2.26,
+                    "end": 2.42,
+                    "probability": 0.19667422771453857
+                },
+                {
+                    "word": " submitted",
+                    "start": 2.42,
+                    "end": 2.9,
+                    "probability": 0.9253039956092834
+                },
+                {
+                    "word": " their",
+                    "start": 2.9,
+                    "end": 3.18,
+                    "probability": 0.9897187948226929
+                },
+                {
+                    "word": " progress",
+                    "start": 3.18,
+                    "end": 3.56,
+                    "probability": 0.9038359522819519
+                },
+                {
+                    "word": " reports.",
+                    "start": 3.56,
+                    "end": 4.08,
+                    "probability": 0.7387657761573792
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,94 @@
+{
+    "text": " The company is implementing a new customer relationship management system.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.3,
+            "text": " The company is implementing a new customer relationship management system.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                307,
+                18114,
+                257,
+                777,
+                5474,
+                2480,
+                4592,
+                1185,
+                13,
+                50592
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2728522505078997,
+            "compression_ratio": 1.0422535211267605,
+            "no_speech_prob": 0.00462334044277668,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7700602412223816
+                },
+                {
+                    "word": " company",
+                    "start": 0.14,
+                    "end": 0.56,
+                    "probability": 0.9895647764205933
+                },
+                {
+                    "word": " is",
+                    "start": 0.56,
+                    "end": 0.96,
+                    "probability": 0.994966447353363
+                },
+                {
+                    "word": " implementing",
+                    "start": 0.96,
+                    "end": 1.56,
+                    "probability": 0.9829015731811523
+                },
+                {
+                    "word": " a",
+                    "start": 1.56,
+                    "end": 1.84,
+                    "probability": 0.9855594635009766
+                },
+                {
+                    "word": " new",
+                    "start": 1.84,
+                    "end": 2.02,
+                    "probability": 0.9923961758613586
+                },
+                {
+                    "word": " customer",
+                    "start": 2.02,
+                    "end": 2.5,
+                    "probability": 0.9720868468284607
+                },
+                {
+                    "word": " relationship",
+                    "start": 2.5,
+                    "end": 3.16,
+                    "probability": 0.9726075530052185
+                },
+                {
+                    "word": " management",
+                    "start": 3.16,
+                    "end": 3.72,
+                    "probability": 0.995288610458374
+                },
+                {
+                    "word": " system.",
+                    "start": 3.72,
+                    "end": 4.3,
+                    "probability": 0.9970408082008362
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,101 @@
+{
+    "text": " We need to address these issues before they become more serious.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.5,
+            "text": " We need to address these issues before they become more serious.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                2985,
+                613,
+                2663,
+                949,
+                436,
+                1813,
+                544,
+                3156,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2314425786336263,
+            "compression_ratio": 1.0158730158730158,
+            "no_speech_prob": 0.007707696408033371,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8562062382698059
+                },
+                {
+                    "word": " need",
+                    "start": 0.12,
+                    "end": 0.26,
+                    "probability": 0.9956722259521484
+                },
+                {
+                    "word": " to",
+                    "start": 0.26,
+                    "end": 0.42,
+                    "probability": 0.998764157295227
+                },
+                {
+                    "word": " address",
+                    "start": 0.42,
+                    "end": 0.7,
+                    "probability": 0.953832745552063
+                },
+                {
+                    "word": " these",
+                    "start": 0.7,
+                    "end": 1.22,
+                    "probability": 0.9701875448226929
+                },
+                {
+                    "word": " issues",
+                    "start": 1.22,
+                    "end": 1.74,
+                    "probability": 0.6773921847343445
+                },
+                {
+                    "word": " before",
+                    "start": 1.74,
+                    "end": 2.24,
+                    "probability": 0.9575666785240173
+                },
+                {
+                    "word": " they",
+                    "start": 2.24,
+                    "end": 2.44,
+                    "probability": 0.983866810798645
+                },
+                {
+                    "word": " become",
+                    "start": 2.44,
+                    "end": 2.72,
+                    "probability": 0.9641220569610596
+                },
+                {
+                    "word": " more",
+                    "start": 2.72,
+                    "end": 2.98,
+                    "probability": 0.9718183875083923
+                },
+                {
+                    "word": " serious.",
+                    "start": 2.98,
+                    "end": 3.5,
+                    "probability": 0.9975813627243042
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

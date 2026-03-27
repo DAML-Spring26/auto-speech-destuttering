@@ -1,0 +1,82 @@
+{
+    "text": " We've achieved our highest, high sales figures ever.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.78,
+            "text": " We've achieved our highest, high sales figures ever.",
+            "tokens": [
+                50364,
+                492,
+                600,
+                11042,
+                527,
+                6343,
+                11,
+                1090,
+                5763,
+                9624,
+                1562,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33560688155038015,
+            "compression_ratio": 0.9629629629629629,
+            "no_speech_prob": 0.006207895930856466,
+            "words": [
+                {
+                    "word": " We've",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.7868909537792206
+                },
+                {
+                    "word": " achieved",
+                    "start": 0.24,
+                    "end": 0.56,
+                    "probability": 0.9976420998573303
+                },
+                {
+                    "word": " our",
+                    "start": 0.56,
+                    "end": 0.82,
+                    "probability": 0.9943714737892151
+                },
+                {
+                    "word": " highest,",
+                    "start": 0.82,
+                    "end": 1.24,
+                    "probability": 0.6200138926506042
+                },
+                {
+                    "word": " high",
+                    "start": 1.46,
+                    "end": 1.66,
+                    "probability": 0.7511559724807739
+                },
+                {
+                    "word": " sales",
+                    "start": 1.66,
+                    "end": 2.02,
+                    "probability": 0.9257535338401794
+                },
+                {
+                    "word": " figures",
+                    "start": 2.02,
+                    "end": 2.38,
+                    "probability": 0.9765337109565735
+                },
+                {
+                    "word": " ever.",
+                    "start": 2.38,
+                    "end": 2.78,
+                    "probability": 0.9803705215454102
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

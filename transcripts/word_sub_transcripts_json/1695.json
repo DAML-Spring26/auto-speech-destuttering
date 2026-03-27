@@ -1,0 +1,74 @@
+{
+    "text": " The flight from distance stars fascinate astronomers.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.84,
+            "text": " The flight from distance stars fascinate astronomers.",
+            "tokens": [
+                50364,
+                440,
+                7018,
+                490,
+                4560,
+                6105,
+                7184,
+                13923,
+                43151,
+                13,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.507551908493042,
+            "compression_ratio": 0.8983050847457628,
+            "no_speech_prob": 0.007471227087080479,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5517480373382568
+                },
+                {
+                    "word": " flight",
+                    "start": 0.1,
+                    "end": 0.32,
+                    "probability": 0.9922381043434143
+                },
+                {
+                    "word": " from",
+                    "start": 0.32,
+                    "end": 0.6,
+                    "probability": 0.993171215057373
+                },
+                {
+                    "word": " distance",
+                    "start": 0.6,
+                    "end": 0.96,
+                    "probability": 0.621527373790741
+                },
+                {
+                    "word": " stars",
+                    "start": 0.96,
+                    "end": 1.44,
+                    "probability": 0.8312360644340515
+                },
+                {
+                    "word": " fascinate",
+                    "start": 1.44,
+                    "end": 2.12,
+                    "probability": 0.6727522611618042
+                },
+                {
+                    "word": " astronomers.",
+                    "start": 2.12,
+                    "end": 2.84,
+                    "probability": 0.9784029722213745
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

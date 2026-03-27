@@ -1,0 +1,117 @@
+{
+    "text": " After the accident, the injured wicker immediately taken to the hospital for treatment.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.66,
+            "text": " After the accident, the injured wicker immediately taken to the hospital for treatment.",
+            "tokens": [
+                50364,
+                2381,
+                264,
+                6398,
+                11,
+                264,
+                13408,
+                261,
+                33804,
+                4258,
+                2726,
+                281,
+                264,
+                4530,
+                337,
+                5032,
+                13,
+                50556
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2644062042236328,
+            "compression_ratio": 1.0740740740740742,
+            "no_speech_prob": 0.003617654088884592,
+            "words": [
+                {
+                    "word": " After",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.935166597366333
+                },
+                {
+                    "word": " the",
+                    "start": 0.3,
+                    "end": 0.5,
+                    "probability": 0.9877995252609253
+                },
+                {
+                    "word": " accident,",
+                    "start": 0.5,
+                    "end": 0.86,
+                    "probability": 0.9962571859359741
+                },
+                {
+                    "word": " the",
+                    "start": 1.1,
+                    "end": 1.18,
+                    "probability": 0.9934939742088318
+                },
+                {
+                    "word": " injured",
+                    "start": 1.18,
+                    "end": 1.38,
+                    "probability": 0.9619839787483215
+                },
+                {
+                    "word": " wicker",
+                    "start": 1.38,
+                    "end": 1.74,
+                    "probability": 0.5904340744018555
+                },
+                {
+                    "word": " immediately",
+                    "start": 1.74,
+                    "end": 2.1,
+                    "probability": 0.9939090013504028
+                },
+                {
+                    "word": " taken",
+                    "start": 2.1,
+                    "end": 2.5,
+                    "probability": 0.8689113259315491
+                },
+                {
+                    "word": " to",
+                    "start": 2.5,
+                    "end": 2.7,
+                    "probability": 0.9702229499816895
+                },
+                {
+                    "word": " the",
+                    "start": 2.7,
+                    "end": 2.78,
+                    "probability": 0.9537572860717773
+                },
+                {
+                    "word": " hospital",
+                    "start": 2.78,
+                    "end": 3.14,
+                    "probability": 0.9978637099266052
+                },
+                {
+                    "word": " for",
+                    "start": 3.14,
+                    "end": 3.38,
+                    "probability": 0.9979841709136963
+                },
+                {
+                    "word": " treatment.",
+                    "start": 3.38,
+                    "end": 3.66,
+                    "probability": 0.992447018623352
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

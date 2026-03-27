@@ -1,0 +1,117 @@
+{
+    "text": " I'm not sure if I'll able to attend the party on Saturday night.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.76,
+            "text": " I'm not sure if I'll able to attend the party on Saturday night.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                406,
+                988,
+                498,
+                286,
+                603,
+                1075,
+                281,
+                6888,
+                264,
+                3595,
+                322,
+                8803,
+                1818,
+                13,
+                50568
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23587879381681742,
+            "compression_ratio": 0.9411764705882353,
+            "no_speech_prob": 0.0021814561914652586,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.8810262382030487
+                },
+                {
+                    "word": " not",
+                    "start": 0.26,
+                    "end": 0.42,
+                    "probability": 0.9946587681770325
+                },
+                {
+                    "word": " sure",
+                    "start": 0.42,
+                    "end": 0.68,
+                    "probability": 0.9992533326148987
+                },
+                {
+                    "word": " if",
+                    "start": 0.68,
+                    "end": 0.94,
+                    "probability": 0.9943114519119263
+                },
+                {
+                    "word": " I'll",
+                    "start": 0.94,
+                    "end": 1.18,
+                    "probability": 0.9751990437507629
+                },
+                {
+                    "word": " able",
+                    "start": 1.18,
+                    "end": 1.44,
+                    "probability": 0.6196625828742981
+                },
+                {
+                    "word": " to",
+                    "start": 1.44,
+                    "end": 1.66,
+                    "probability": 0.9969156980514526
+                },
+                {
+                    "word": " attend",
+                    "start": 1.66,
+                    "end": 1.96,
+                    "probability": 0.9984334111213684
+                },
+                {
+                    "word": " the",
+                    "start": 1.96,
+                    "end": 2.14,
+                    "probability": 0.9392426609992981
+                },
+                {
+                    "word": " party",
+                    "start": 2.14,
+                    "end": 2.54,
+                    "probability": 0.9738909602165222
+                },
+                {
+                    "word": " on",
+                    "start": 2.54,
+                    "end": 2.78,
+                    "probability": 0.9790737628936768
+                },
+                {
+                    "word": " Saturday",
+                    "start": 2.78,
+                    "end": 3.28,
+                    "probability": 0.9663214087486267
+                },
+                {
+                    "word": " night.",
+                    "start": 3.28,
+                    "end": 3.76,
+                    "probability": 0.9122352600097656
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

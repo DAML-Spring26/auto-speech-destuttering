@@ -1,0 +1,110 @@
+{
+    "text": " The conference, which was held last month, attracted experts from various industries.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.02,
+            "text": " The conference, which was held last month, attracted experts from various industries.",
+            "tokens": [
+                50364,
+                440,
+                7586,
+                11,
+                597,
+                390,
+                5167,
+                1036,
+                1618,
+                11,
+                15912,
+                8572,
+                490,
+                3683,
+                13284,
+                13,
+                50683
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24260883861117893,
+            "compression_ratio": 1.0897435897435896,
+            "no_speech_prob": 0.004757065325975418,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8360133171081543
+                },
+                {
+                    "word": " conference,",
+                    "start": 0.12,
+                    "end": 0.66,
+                    "probability": 0.6528609991073608
+                },
+                {
+                    "word": " which",
+                    "start": 1.16,
+                    "end": 1.42,
+                    "probability": 0.9980494976043701
+                },
+                {
+                    "word": " was",
+                    "start": 1.42,
+                    "end": 1.62,
+                    "probability": 0.9976010918617249
+                },
+                {
+                    "word": " held",
+                    "start": 1.62,
+                    "end": 1.88,
+                    "probability": 0.999030351638794
+                },
+                {
+                    "word": " last",
+                    "start": 1.88,
+                    "end": 2.18,
+                    "probability": 0.9979479908943176
+                },
+                {
+                    "word": " month,",
+                    "start": 2.18,
+                    "end": 2.66,
+                    "probability": 0.9915947318077087
+                },
+                {
+                    "word": " attracted",
+                    "start": 3.08,
+                    "end": 3.5,
+                    "probability": 0.9951110482215881
+                },
+                {
+                    "word": " experts",
+                    "start": 3.5,
+                    "end": 4.06,
+                    "probability": 0.994437575340271
+                },
+                {
+                    "word": " from",
+                    "start": 4.06,
+                    "end": 4.58,
+                    "probability": 0.9966777563095093
+                },
+                {
+                    "word": " various",
+                    "start": 4.58,
+                    "end": 5.36,
+                    "probability": 0.9657819271087646
+                },
+                {
+                    "word": " industries.",
+                    "start": 5.36,
+                    "end": 6.02,
+                    "probability": 0.9987155199050903
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

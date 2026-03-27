@@ -1,0 +1,52 @@
+{
+    "text": " the import was significant.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.32,
+            "text": " the import was significant.",
+            "tokens": [
+                50364,
+                264,
+                974,
+                390,
+                4776,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5561375021934509,
+            "compression_ratio": 0.7714285714285715,
+            "no_speech_prob": 0.008548024110496044,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5377941727638245
+                },
+                {
+                    "word": " import",
+                    "start": 0.14,
+                    "end": 0.48,
+                    "probability": 0.9486770033836365
+                },
+                {
+                    "word": " was",
+                    "start": 0.48,
+                    "end": 0.74,
+                    "probability": 0.5600832104682922
+                },
+                {
+                    "word": " significant.",
+                    "start": 0.74,
+                    "end": 1.32,
+                    "probability": 0.9540455937385559
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

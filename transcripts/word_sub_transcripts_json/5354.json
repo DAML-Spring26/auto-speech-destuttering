@@ -1,0 +1,94 @@
+{
+    "text": " the engineer designed an innovative solution to the structural program.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.48,
+            "text": " the engineer designed an innovative solution to the structural program.",
+            "tokens": [
+                50364,
+                264,
+                11403,
+                4761,
+                364,
+                12999,
+                3827,
+                281,
+                264,
+                15067,
+                1461,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41516355105808805,
+            "compression_ratio": 1.0597014925373134,
+            "no_speech_prob": 0.0037241557147353888,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.43029797077178955
+                },
+                {
+                    "word": " engineer",
+                    "start": 0.12,
+                    "end": 0.48,
+                    "probability": 0.7161688208580017
+                },
+                {
+                    "word": " designed",
+                    "start": 0.48,
+                    "end": 0.92,
+                    "probability": 0.9441509246826172
+                },
+                {
+                    "word": " an",
+                    "start": 0.92,
+                    "end": 1.1,
+                    "probability": 0.9695731401443481
+                },
+                {
+                    "word": " innovative",
+                    "start": 1.1,
+                    "end": 1.4,
+                    "probability": 0.9976219534873962
+                },
+                {
+                    "word": " solution",
+                    "start": 1.4,
+                    "end": 2.08,
+                    "probability": 0.996421217918396
+                },
+                {
+                    "word": " to",
+                    "start": 2.08,
+                    "end": 2.32,
+                    "probability": 0.9914224743843079
+                },
+                {
+                    "word": " the",
+                    "start": 2.32,
+                    "end": 2.46,
+                    "probability": 0.9782375693321228
+                },
+                {
+                    "word": " structural",
+                    "start": 2.46,
+                    "end": 2.9,
+                    "probability": 0.9477114081382751
+                },
+                {
+                    "word": " program.",
+                    "start": 2.9,
+                    "end": 3.48,
+                    "probability": 0.7207528948783875
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

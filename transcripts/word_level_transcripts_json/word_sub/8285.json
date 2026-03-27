@@ -1,0 +1,80 @@
+{
+    "text": " the journalist wrote and particle about climate change.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.4,
+            "text": " the journalist wrote and particle about climate change.",
+            "tokens": [
+                50364,
+                264,
+                17277,
+                4114,
+                293,
+                12359,
+                466,
+                5659,
+                1319,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38261906305948895,
+            "compression_ratio": 0.9166666666666666,
+            "no_speech_prob": 0.00799464900046587,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.4932806193828583
+                },
+                {
+                    "word": " journalist",
+                    "start": 0.12,
+                    "end": 0.6,
+                    "probability": 0.8797045946121216
+                },
+                {
+                    "word": " wrote",
+                    "start": 0.6,
+                    "end": 1.04,
+                    "probability": 0.9952019453048706
+                },
+                {
+                    "word": " and",
+                    "start": 1.04,
+                    "end": 1.42,
+                    "probability": 0.6770979166030884
+                },
+                {
+                    "word": " particle",
+                    "start": 1.42,
+                    "end": 2.04,
+                    "probability": 0.7608450651168823
+                },
+                {
+                    "word": " about",
+                    "start": 2.04,
+                    "end": 2.4,
+                    "probability": 0.9848455190658569
+                },
+                {
+                    "word": " climate",
+                    "start": 2.4,
+                    "end": 2.86,
+                    "probability": 0.9929046034812927
+                },
+                {
+                    "word": " change.",
+                    "start": 2.86,
+                    "end": 3.4,
+                    "probability": 0.9990772008895874
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

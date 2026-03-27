@@ -1,0 +1,66 @@
+{
+    "text": " The conference will feature expert seekers.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.04,
+            "text": " The conference will feature expert seekers.",
+            "tokens": [
+                50364,
+                440,
+                7586,
+                486,
+                4111,
+                5844,
+                47915,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4370737075805664,
+            "compression_ratio": 0.86,
+            "no_speech_prob": 0.0020797867327928543,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7802084684371948
+                },
+                {
+                    "word": " conference",
+                    "start": 0.12,
+                    "end": 0.52,
+                    "probability": 0.9410891532897949
+                },
+                {
+                    "word": " will",
+                    "start": 0.52,
+                    "end": 0.78,
+                    "probability": 0.9816138744354248
+                },
+                {
+                    "word": " feature",
+                    "start": 0.78,
+                    "end": 1.14,
+                    "probability": 0.9954441785812378
+                },
+                {
+                    "word": " expert",
+                    "start": 1.14,
+                    "end": 1.54,
+                    "probability": 0.8886295557022095
+                },
+                {
+                    "word": " seekers.",
+                    "start": 1.54,
+                    "end": 2.04,
+                    "probability": 0.8270557522773743
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

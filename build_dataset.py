@@ -24,19 +24,26 @@ for folder in os.listdir(TRANSCRIPT_ROOT):
 
         audio_id = file.replace(".json", "")
 
-        for seg in data["segments"]:
-            rows.append({
-                "audio_id": audio_id,
-                "start": seg["start"],
-                "end": seg["end"],
-                "duration": seg["end"] - seg["start"],
-                "text": seg["text"].strip(),
-                "label": label
-            })
+        for seg in data.get("segments", []):
+            seg_text = seg.get("text", "").strip()
+
+            for w in seg.get("words", []):
+                if "start" not in w or "end" not in w:
+                    continue
+
+                rows.append({
+                    "audio_id": audio_id,
+                    "word": w.get("word", "").strip(),
+                    "start": float(w["start"]),
+                    "end": float(w["end"]),
+                    "duration": float(w["end"] - w["start"]),
+                    "text": seg_text,   # context
+                    "label": label
+                })
 
 df = pd.DataFrame(rows)
 
 os.makedirs("data", exist_ok=True)
 df.to_csv("data/labeled_segments.csv", index=False)
 
-print("Dataset built successfully.")
+print(f"Dataset built successfully. Total rows: {len(df)}")

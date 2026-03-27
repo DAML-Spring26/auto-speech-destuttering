@@ -1,0 +1,73 @@
+{
+    "text": " they will prevent the findings next week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.6,
+            "text": " they will prevent the findings next week.",
+            "tokens": [
+                50364,
+                436,
+                486,
+                4871,
+                264,
+                16483,
+                958,
+                1243,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31320643424987793,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.008404042571783066,
+            "words": [
+                {
+                    "word": " they",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.451627254486084
+                },
+                {
+                    "word": " will",
+                    "start": 0.1,
+                    "end": 0.18,
+                    "probability": 0.7848035097122192
+                },
+                {
+                    "word": " prevent",
+                    "start": 0.18,
+                    "end": 0.42,
+                    "probability": 0.9883872866630554
+                },
+                {
+                    "word": " the",
+                    "start": 0.42,
+                    "end": 0.58,
+                    "probability": 0.9874733686447144
+                },
+                {
+                    "word": " findings",
+                    "start": 0.58,
+                    "end": 0.94,
+                    "probability": 0.9916102290153503
+                },
+                {
+                    "word": " next",
+                    "start": 0.94,
+                    "end": 1.28,
+                    "probability": 0.990119457244873
+                },
+                {
+                    "word": " week.",
+                    "start": 1.28,
+                    "end": 1.6,
+                    "probability": 0.9978081583976746
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

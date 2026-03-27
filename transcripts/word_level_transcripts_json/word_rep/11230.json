@@ -1,0 +1,94 @@
+{
+    "text": " The research paper was well received by the scientific community.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.28,
+            "text": " The research paper was well received by the scientific community.",
+            "tokens": [
+                50364,
+                440,
+                2132,
+                3035,
+                390,
+                731,
+                4613,
+                538,
+                264,
+                8134,
+                1768,
+                13,
+                50592
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3295655591147287,
+            "compression_ratio": 0.9558823529411765,
+            "no_speech_prob": 0.004992000292986631,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.8163207173347473
+                },
+                {
+                    "word": " research",
+                    "start": 0.16,
+                    "end": 0.54,
+                    "probability": 0.9180791974067688
+                },
+                {
+                    "word": " paper",
+                    "start": 0.54,
+                    "end": 1.08,
+                    "probability": 0.9934269189834595
+                },
+                {
+                    "word": " was",
+                    "start": 1.08,
+                    "end": 1.62,
+                    "probability": 0.9922243356704712
+                },
+                {
+                    "word": " well",
+                    "start": 1.62,
+                    "end": 2.22,
+                    "probability": 0.4377707540988922
+                },
+                {
+                    "word": " received",
+                    "start": 2.22,
+                    "end": 2.66,
+                    "probability": 0.9399110078811646
+                },
+                {
+                    "word": " by",
+                    "start": 2.66,
+                    "end": 2.94,
+                    "probability": 0.9974350333213806
+                },
+                {
+                    "word": " the",
+                    "start": 2.94,
+                    "end": 3.06,
+                    "probability": 0.932573139667511
+                },
+                {
+                    "word": " scientific",
+                    "start": 3.06,
+                    "end": 3.54,
+                    "probability": 0.7707253098487854
+                },
+                {
+                    "word": " community.",
+                    "start": 3.54,
+                    "end": 4.28,
+                    "probability": 0.9979682564735413
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

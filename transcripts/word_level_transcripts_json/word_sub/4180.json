@@ -1,0 +1,66 @@
+{
+    "text": " We need to project our investments.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.02,
+            "text": " We need to project our investments.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                1716,
+                527,
+                13784,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38887007236480714,
+            "compression_ratio": 0.813953488372093,
+            "no_speech_prob": 0.03954824060201645,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.54,
+                    "probability": 0.720102071762085
+                },
+                {
+                    "word": " need",
+                    "start": 0.54,
+                    "end": 0.68,
+                    "probability": 0.9962809681892395
+                },
+                {
+                    "word": " to",
+                    "start": 0.68,
+                    "end": 0.82,
+                    "probability": 0.9984784722328186
+                },
+                {
+                    "word": " project",
+                    "start": 0.82,
+                    "end": 1.08,
+                    "probability": 0.9833002090454102
+                },
+                {
+                    "word": " our",
+                    "start": 1.08,
+                    "end": 1.42,
+                    "probability": 0.9966358542442322
+                },
+                {
+                    "word": " investments.",
+                    "start": 1.42,
+                    "end": 2.02,
+                    "probability": 0.9172859191894531
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

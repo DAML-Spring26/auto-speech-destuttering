@@ -1,0 +1,73 @@
+{
+    "text": " She managed to remain all the information.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.14,
+            "text": " She managed to remain all the information.",
+            "tokens": [
+                50364,
+                1240,
+                6453,
+                281,
+                6222,
+                439,
+                264,
+                1589,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37004951997236774,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.005605836398899555,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.6126115918159485
+                },
+                {
+                    "word": " managed",
+                    "start": 0.24,
+                    "end": 0.58,
+                    "probability": 0.9821403622627258
+                },
+                {
+                    "word": " to",
+                    "start": 0.58,
+                    "end": 0.84,
+                    "probability": 0.9976156949996948
+                },
+                {
+                    "word": " remain",
+                    "start": 0.84,
+                    "end": 1.1,
+                    "probability": 0.9830290079116821
+                },
+                {
+                    "word": " all",
+                    "start": 1.1,
+                    "end": 1.38,
+                    "probability": 0.9737874269485474
+                },
+                {
+                    "word": " the",
+                    "start": 1.38,
+                    "end": 1.54,
+                    "probability": 0.9892510175704956
+                },
+                {
+                    "word": " information.",
+                    "start": 1.54,
+                    "end": 2.14,
+                    "probability": 0.9967626333236694
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

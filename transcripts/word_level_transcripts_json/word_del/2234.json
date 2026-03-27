@@ -1,0 +1,102 @@
+{
+    "text": " The government has announced plans and vests in renewable energy sources.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.98,
+            "text": " The government has announced plans and vests in renewable energy sources.",
+            "tokens": [
+                50364,
+                440,
+                2463,
+                575,
+                7548,
+                5482,
+                293,
+                371,
+                4409,
+                294,
+                20938,
+                2281,
+                7139,
+                13,
+                50588
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.354067862033844,
+            "compression_ratio": 1.028169014084507,
+            "no_speech_prob": 0.0008762259385548532,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.9418933987617493
+                },
+                {
+                    "word": " government",
+                    "start": 0.12,
+                    "end": 0.46,
+                    "probability": 0.9303340315818787
+                },
+                {
+                    "word": " has",
+                    "start": 0.46,
+                    "end": 0.84,
+                    "probability": 0.9938337802886963
+                },
+                {
+                    "word": " announced",
+                    "start": 0.84,
+                    "end": 1.14,
+                    "probability": 0.9978471994400024
+                },
+                {
+                    "word": " plans",
+                    "start": 1.14,
+                    "end": 1.6,
+                    "probability": 0.990196704864502
+                },
+                {
+                    "word": " and",
+                    "start": 1.6,
+                    "end": 1.84,
+                    "probability": 0.533165454864502
+                },
+                {
+                    "word": " vests",
+                    "start": 1.84,
+                    "end": 2.26,
+                    "probability": 0.6117692738771439
+                },
+                {
+                    "word": " in",
+                    "start": 2.26,
+                    "end": 2.4,
+                    "probability": 0.9367780685424805
+                },
+                {
+                    "word": " renewable",
+                    "start": 2.4,
+                    "end": 2.82,
+                    "probability": 0.9812940359115601
+                },
+                {
+                    "word": " energy",
+                    "start": 2.82,
+                    "end": 3.34,
+                    "probability": 0.9928280711174011
+                },
+                {
+                    "word": " sources.",
+                    "start": 3.34,
+                    "end": 3.98,
+                    "probability": 0.997857391834259
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

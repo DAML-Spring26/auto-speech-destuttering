@@ -1,0 +1,87 @@
+{
+    "text": " The pilot band would say flee despite a storm.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.28,
+            "text": " The pilot band would say flee despite a storm.",
+            "tokens": [
+                50364,
+                440,
+                9691,
+                4116,
+                576,
+                584,
+                25146,
+                7228,
+                257,
+                7679,
+                13,
+                50493
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5080670210031363,
+            "compression_ratio": 0.8518518518518519,
+            "no_speech_prob": 0.012225659564137459,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6641316413879395
+                },
+                {
+                    "word": " pilot",
+                    "start": 0.12,
+                    "end": 0.4,
+                    "probability": 0.9829878807067871
+                },
+                {
+                    "word": " band",
+                    "start": 0.4,
+                    "end": 0.66,
+                    "probability": 0.6855887174606323
+                },
+                {
+                    "word": " would",
+                    "start": 0.66,
+                    "end": 0.82,
+                    "probability": 0.5443035960197449
+                },
+                {
+                    "word": " say",
+                    "start": 0.82,
+                    "end": 0.98,
+                    "probability": 0.917378306388855
+                },
+                {
+                    "word": " flee",
+                    "start": 0.98,
+                    "end": 1.24,
+                    "probability": 0.5343899130821228
+                },
+                {
+                    "word": " despite",
+                    "start": 1.24,
+                    "end": 1.64,
+                    "probability": 0.6592046022415161
+                },
+                {
+                    "word": " a",
+                    "start": 1.64,
+                    "end": 1.92,
+                    "probability": 0.478604793548584
+                },
+                {
+                    "word": " storm.",
+                    "start": 1.92,
+                    "end": 2.28,
+                    "probability": 0.9988621473312378
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

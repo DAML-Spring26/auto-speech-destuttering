@@ -1,0 +1,94 @@
+{
+    "text": " The company planning to launch the new product next quarter.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.26,
+            "text": " The company planning to launch the new product next quarter.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                5038,
+                281,
+                4025,
+                264,
+                777,
+                1674,
+                958,
+                6555,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3253121035439627,
+            "compression_ratio": 0.9230769230769231,
+            "no_speech_prob": 0.0023116879165172577,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.4772014617919922
+                },
+                {
+                    "word": " company",
+                    "start": 0.1,
+                    "end": 0.4,
+                    "probability": 0.9919381737709045
+                },
+                {
+                    "word": " planning",
+                    "start": 0.4,
+                    "end": 0.74,
+                    "probability": 0.9080308675765991
+                },
+                {
+                    "word": " to",
+                    "start": 0.74,
+                    "end": 0.9,
+                    "probability": 0.9983015060424805
+                },
+                {
+                    "word": " launch",
+                    "start": 0.9,
+                    "end": 1.08,
+                    "probability": 0.9987002611160278
+                },
+                {
+                    "word": " the",
+                    "start": 1.08,
+                    "end": 1.28,
+                    "probability": 0.9720378518104553
+                },
+                {
+                    "word": " new",
+                    "start": 1.28,
+                    "end": 1.42,
+                    "probability": 0.9936218857765198
+                },
+                {
+                    "word": " product",
+                    "start": 1.42,
+                    "end": 1.64,
+                    "probability": 0.9019514918327332
+                },
+                {
+                    "word": " next",
+                    "start": 1.64,
+                    "end": 1.9,
+                    "probability": 0.9538171291351318
+                },
+                {
+                    "word": " quarter.",
+                    "start": 1.9,
+                    "end": 2.26,
+                    "probability": 0.972364604473114
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

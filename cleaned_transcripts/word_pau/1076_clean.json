@@ -1,15 +1,14 @@
 {
-    "text": " Given your family history, I'd recommend regular screenings as the precautionary measure.",
+    "text": " your family history, I'd recommend regular screenings as the precautionary measure.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 6.38,
-            "text": " Given your family history, I'd recommend regular screenings as the precautionary measure.",
+            "end": 6.08,
+            "text": " your family history, I'd recommend regular screenings as the precautionary measure.",
             "tokens": [
                 50364,
-                18600,
                 428,
                 1605,
                 2503,
@@ -27,12 +26,12 @@
                 822,
                 3481,
                 13,
-                50683
+                50668
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.27513651620774043,
-            "compression_ratio": 1.0595238095238095,
-            "no_speech_prob": 0.009611576795578003
+            "avg_logprob": -0.3782313585281372,
+            "compression_ratio": 1.0375,
+            "no_speech_prob": 0.07816238701343536
         }
     ],
     "language": "en"

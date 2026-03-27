@@ -1,0 +1,108 @@
+{
+    "text": " We need to decide to take the train or rent a car.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.26,
+            "text": " We need to decide to take the train or rent a car.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                4536,
+                281,
+                747,
+                264,
+                3847,
+                420,
+                6214,
+                257,
+                1032,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3294782340526581,
+            "compression_ratio": 0.9433962264150944,
+            "no_speech_prob": 0.011564444750547409,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7383853197097778
+                },
+                {
+                    "word": " need",
+                    "start": 0.14,
+                    "end": 0.28,
+                    "probability": 0.9874287247657776
+                },
+                {
+                    "word": " to",
+                    "start": 0.28,
+                    "end": 0.42,
+                    "probability": 0.9946969747543335
+                },
+                {
+                    "word": " decide",
+                    "start": 0.42,
+                    "end": 0.68,
+                    "probability": 0.8276929259300232
+                },
+                {
+                    "word": " to",
+                    "start": 0.68,
+                    "end": 0.88,
+                    "probability": 0.9942383766174316
+                },
+                {
+                    "word": " take",
+                    "start": 0.88,
+                    "end": 1.06,
+                    "probability": 0.994665265083313
+                },
+                {
+                    "word": " the",
+                    "start": 1.06,
+                    "end": 1.2,
+                    "probability": 0.9411038160324097
+                },
+                {
+                    "word": " train",
+                    "start": 1.2,
+                    "end": 1.52,
+                    "probability": 0.9779893755912781
+                },
+                {
+                    "word": " or",
+                    "start": 1.52,
+                    "end": 1.68,
+                    "probability": 0.95821613073349
+                },
+                {
+                    "word": " rent",
+                    "start": 1.68,
+                    "end": 1.9,
+                    "probability": 0.4525342881679535
+                },
+                {
+                    "word": " a",
+                    "start": 1.9,
+                    "end": 2.0,
+                    "probability": 0.9958500862121582
+                },
+                {
+                    "word": " car.",
+                    "start": 2.0,
+                    "end": 2.26,
+                    "probability": 0.9986916184425354
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

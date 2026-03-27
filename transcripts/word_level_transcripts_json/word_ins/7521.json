@@ -1,0 +1,81 @@
+{
+    "text": " The concert was you know, amazing last night.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.56,
+            "text": " The concert was you know, amazing last night.",
+            "tokens": [
+                50364,
+                440,
+                8543,
+                390,
+                291,
+                458,
+                11,
+                2243,
+                1036,
+                1818,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4286329196049617,
+            "compression_ratio": 0.8490566037735849,
+            "no_speech_prob": 0.08425652235746384,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.98,
+                    "probability": 0.8396837711334229
+                },
+                {
+                    "word": " concert",
+                    "start": 0.98,
+                    "end": 1.4,
+                    "probability": 0.9636204242706299
+                },
+                {
+                    "word": " was",
+                    "start": 1.4,
+                    "end": 1.7,
+                    "probability": 0.9959057569503784
+                },
+                {
+                    "word": " you",
+                    "start": 1.7,
+                    "end": 1.86,
+                    "probability": 0.9752374291419983
+                },
+                {
+                    "word": " know,",
+                    "start": 1.86,
+                    "end": 2.06,
+                    "probability": 0.9957685470581055
+                },
+                {
+                    "word": " amazing",
+                    "start": 2.46,
+                    "end": 2.9,
+                    "probability": 0.851593554019928
+                },
+                {
+                    "word": " last",
+                    "start": 2.9,
+                    "end": 3.24,
+                    "probability": 0.9907703399658203
+                },
+                {
+                    "word": " night.",
+                    "start": 3.24,
+                    "end": 3.56,
+                    "probability": 0.997309684753418
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

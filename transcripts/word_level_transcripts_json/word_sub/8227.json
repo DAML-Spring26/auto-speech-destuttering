@@ -1,0 +1,82 @@
+{
+    "text": " The movie premiere was a star-studded event.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.3,
+            "text": " The movie premiere was a star-studded event.",
+            "tokens": [
+                50364,
+                440,
+                3169,
+                28372,
+                390,
+                257,
+                3543,
+                12,
+                28349,
+                9207,
+                2280,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3957479681287493,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.007310197688639164,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8825687170028687
+                },
+                {
+                    "word": " movie",
+                    "start": 0.12,
+                    "end": 0.42,
+                    "probability": 0.9776896834373474
+                },
+                {
+                    "word": " premiere",
+                    "start": 0.42,
+                    "end": 0.82,
+                    "probability": 0.7903881669044495
+                },
+                {
+                    "word": " was",
+                    "start": 0.82,
+                    "end": 1.12,
+                    "probability": 0.9923392534255981
+                },
+                {
+                    "word": " a",
+                    "start": 1.12,
+                    "end": 1.26,
+                    "probability": 0.9882424473762512
+                },
+                {
+                    "word": " star",
+                    "start": 1.26,
+                    "end": 1.52,
+                    "probability": 0.877417802810669
+                },
+                {
+                    "word": "-studded",
+                    "start": 1.52,
+                    "end": 2.02,
+                    "probability": 0.6508303383986155
+                },
+                {
+                    "word": " event.",
+                    "start": 2.02,
+                    "end": 2.3,
+                    "probability": 0.9971024394035339
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

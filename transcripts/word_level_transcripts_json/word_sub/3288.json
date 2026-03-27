@@ -1,0 +1,59 @@
+{
+    "text": " The company announced so tragedy.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.66,
+            "text": " The company announced so tragedy.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                7548,
+                370,
+                18563,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30387992329067653,
+            "compression_ratio": 0.8048780487804879,
+            "no_speech_prob": 0.008522169664502144,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7144085168838501
+                },
+                {
+                    "word": " company",
+                    "start": 0.16,
+                    "end": 0.6,
+                    "probability": 0.9807950854301453
+                },
+                {
+                    "word": " announced",
+                    "start": 0.6,
+                    "end": 0.96,
+                    "probability": 0.9734709858894348
+                },
+                {
+                    "word": " so",
+                    "start": 0.96,
+                    "end": 1.24,
+                    "probability": 0.7949280738830566
+                },
+                {
+                    "word": " tragedy.",
+                    "start": 1.24,
+                    "end": 1.66,
+                    "probability": 0.9508544206619263
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

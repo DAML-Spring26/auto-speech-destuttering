@@ -1,0 +1,94 @@
+{
+    "text": " Professor explained the exam would cover chapters 1 through 5.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.32,
+            "text": " Professor explained the exam would cover chapters 1 through 5.",
+            "tokens": [
+                50364,
+                8419,
+                8825,
+                264,
+                1139,
+                576,
+                2060,
+                20013,
+                502,
+                807,
+                1025,
+                13,
+                50538
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4480907235826765,
+            "compression_ratio": 0.9253731343283582,
+            "no_speech_prob": 0.010191677138209343,
+            "words": [
+                {
+                    "word": " Professor",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.49672332406044006
+                },
+                {
+                    "word": " explained",
+                    "start": 0.38,
+                    "end": 0.92,
+                    "probability": 0.6556010246276855
+                },
+                {
+                    "word": " the",
+                    "start": 0.92,
+                    "end": 1.1,
+                    "probability": 0.9762482047080994
+                },
+                {
+                    "word": " exam",
+                    "start": 1.1,
+                    "end": 1.38,
+                    "probability": 0.9556431770324707
+                },
+                {
+                    "word": " would",
+                    "start": 1.38,
+                    "end": 1.6,
+                    "probability": 0.9188463687896729
+                },
+                {
+                    "word": " cover",
+                    "start": 1.6,
+                    "end": 1.86,
+                    "probability": 0.9926030039787292
+                },
+                {
+                    "word": " chapters",
+                    "start": 1.86,
+                    "end": 2.36,
+                    "probability": 0.9847081899642944
+                },
+                {
+                    "word": " 1",
+                    "start": 2.36,
+                    "end": 2.72,
+                    "probability": 0.49087345600128174
+                },
+                {
+                    "word": " through",
+                    "start": 2.72,
+                    "end": 2.94,
+                    "probability": 0.541231095790863
+                },
+                {
+                    "word": " 5.",
+                    "start": 2.94,
+                    "end": 3.32,
+                    "probability": 0.996086835861206
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

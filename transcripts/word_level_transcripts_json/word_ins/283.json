@@ -1,0 +1,99 @@
+{
+    "text": " Can you explain the concept of photosynthesis? Um...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.5,
+            "text": " Can you explain the concept of photosynthesis?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                2903,
+                264,
+                3410,
+                295,
+                5787,
+                45601,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4550035297870636,
+            "compression_ratio": 0.8813559322033898,
+            "no_speech_prob": 0.06069029122591019,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.62,
+                    "probability": 0.75466388463974
+                },
+                {
+                    "word": " you",
+                    "start": 0.62,
+                    "end": 0.84,
+                    "probability": 0.9982017278671265
+                },
+                {
+                    "word": " explain",
+                    "start": 0.84,
+                    "end": 1.36,
+                    "probability": 0.997490644454956
+                },
+                {
+                    "word": " the",
+                    "start": 1.36,
+                    "end": 1.64,
+                    "probability": 0.9974964261054993
+                },
+                {
+                    "word": " concept",
+                    "start": 1.64,
+                    "end": 2.12,
+                    "probability": 0.997363269329071
+                },
+                {
+                    "word": " of",
+                    "start": 2.12,
+                    "end": 2.44,
+                    "probability": 0.9973167777061462
+                },
+                {
+                    "word": " photosynthesis?",
+                    "start": 2.44,
+                    "end": 3.5,
+                    "probability": 0.9409531950950623
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.22,
+            "end": 4.98,
+            "text": " Um...",
+            "tokens": [
+                50564,
+                3301,
+                485,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4550035297870636,
+            "compression_ratio": 0.8813559322033898,
+            "no_speech_prob": 0.06069029122591019,
+            "words": [
+                {
+                    "word": " Um...",
+                    "start": 4.22,
+                    "end": 4.98,
+                    "probability": 0.4517708420753479
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

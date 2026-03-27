@@ -1,0 +1,95 @@
+{
+    "text": " Pharmaceutical company is conducting clinical trials for a new machine.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.64,
+            "text": " Pharmaceutical company is conducting clinical trials for a new machine.",
+            "tokens": [
+                50364,
+                44032,
+                24218,
+                2237,
+                307,
+                21749,
+                9115,
+                12450,
+                337,
+                257,
+                777,
+                3479,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30015878677368163,
+            "compression_ratio": 0.9861111111111112,
+            "no_speech_prob": 0.008605627343058586,
+            "words": [
+                {
+                    "word": " Pharmaceutical",
+                    "start": 0.0,
+                    "end": 0.64,
+                    "probability": 0.648605689406395
+                },
+                {
+                    "word": " company",
+                    "start": 0.64,
+                    "end": 1.14,
+                    "probability": 0.7627948522567749
+                },
+                {
+                    "word": " is",
+                    "start": 1.14,
+                    "end": 1.42,
+                    "probability": 0.9906478524208069
+                },
+                {
+                    "word": " conducting",
+                    "start": 1.42,
+                    "end": 1.84,
+                    "probability": 0.9895578026771545
+                },
+                {
+                    "word": " clinical",
+                    "start": 1.84,
+                    "end": 2.34,
+                    "probability": 0.9955059289932251
+                },
+                {
+                    "word": " trials",
+                    "start": 2.34,
+                    "end": 2.84,
+                    "probability": 0.9973042011260986
+                },
+                {
+                    "word": " for",
+                    "start": 2.84,
+                    "end": 3.1,
+                    "probability": 0.9975003600120544
+                },
+                {
+                    "word": " a",
+                    "start": 3.1,
+                    "end": 3.18,
+                    "probability": 0.9976233839988708
+                },
+                {
+                    "word": " new",
+                    "start": 3.18,
+                    "end": 3.3,
+                    "probability": 0.9901871681213379
+                },
+                {
+                    "word": " machine.",
+                    "start": 3.3,
+                    "end": 3.64,
+                    "probability": 0.9988676309585571
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

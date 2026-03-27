@@ -1,0 +1,68 @@
+{
+    "text": " the artist exhibition showcased abstract impressionism.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.88,
+            "text": " the artist exhibition showcased abstract impressionism.",
+            "tokens": [
+                50364,
+                264,
+                5748,
+                14414,
+                29794,
+                1937,
+                12649,
+                9995,
+                1434,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3405988613764445,
+            "compression_ratio": 0.9322033898305084,
+            "no_speech_prob": 0.010224965400993824,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7934141755104065
+                },
+                {
+                    "word": " artist",
+                    "start": 0.14,
+                    "end": 0.48,
+                    "probability": 0.48073524236679077
+                },
+                {
+                    "word": " exhibition",
+                    "start": 0.48,
+                    "end": 1.08,
+                    "probability": 0.8395141959190369
+                },
+                {
+                    "word": " showcased",
+                    "start": 1.08,
+                    "end": 1.74,
+                    "probability": 0.955788791179657
+                },
+                {
+                    "word": " abstract",
+                    "start": 1.74,
+                    "end": 2.08,
+                    "probability": 0.9899441003799438
+                },
+                {
+                    "word": " impressionism.",
+                    "start": 2.08,
+                    "end": 2.88,
+                    "probability": 0.9080176055431366
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

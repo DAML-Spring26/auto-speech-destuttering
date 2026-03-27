@@ -1,0 +1,123 @@
+{
+    "text": " We need to confirm our return flight at least 24 hours before, before departure.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.8,
+            "text": " We need to confirm our return flight at least 24 hours before, before departure.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                9064,
+                527,
+                2736,
+                7018,
+                412,
+                1935,
+                4022,
+                2496,
+                949,
+                11,
+                949,
+                25866,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29297274037411336,
+            "compression_ratio": 1.0389610389610389,
+            "no_speech_prob": 0.007556305732578039,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8801791667938232
+                },
+                {
+                    "word": " need",
+                    "start": 0.12,
+                    "end": 0.26,
+                    "probability": 0.9976086616516113
+                },
+                {
+                    "word": " to",
+                    "start": 0.26,
+                    "end": 0.4,
+                    "probability": 0.9993022680282593
+                },
+                {
+                    "word": " confirm",
+                    "start": 0.4,
+                    "end": 0.78,
+                    "probability": 0.9680261611938477
+                },
+                {
+                    "word": " our",
+                    "start": 0.78,
+                    "end": 1.04,
+                    "probability": 0.5884249806404114
+                },
+                {
+                    "word": " return",
+                    "start": 1.04,
+                    "end": 1.32,
+                    "probability": 0.9783781170845032
+                },
+                {
+                    "word": " flight",
+                    "start": 1.32,
+                    "end": 1.72,
+                    "probability": 0.997147262096405
+                },
+                {
+                    "word": " at",
+                    "start": 1.72,
+                    "end": 1.9,
+                    "probability": 0.9837937951087952
+                },
+                {
+                    "word": " least",
+                    "start": 1.9,
+                    "end": 2.02,
+                    "probability": 0.975055456161499
+                },
+                {
+                    "word": " 24",
+                    "start": 2.02,
+                    "end": 2.78,
+                    "probability": 0.9858009219169617
+                },
+                {
+                    "word": " hours",
+                    "start": 2.78,
+                    "end": 3.06,
+                    "probability": 0.9834216237068176
+                },
+                {
+                    "word": " before,",
+                    "start": 3.06,
+                    "end": 3.44,
+                    "probability": 0.9872092008590698
+                },
+                {
+                    "word": " before",
+                    "start": 3.62,
+                    "end": 4.24,
+                    "probability": 0.889624297618866
+                },
+                {
+                    "word": " departure.",
+                    "start": 4.24,
+                    "end": 4.8,
+                    "probability": 0.9888717532157898
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

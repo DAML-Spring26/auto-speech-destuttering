@@ -1,0 +1,115 @@
+{
+    "text": " The doctor recommended that I take these antibiotics for the next seven days.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.3,
+            "text": " The doctor recommended that I take these antibiotics for the next seven days.",
+            "tokens": [
+                50364,
+                440,
+                4631,
+                9628,
+                300,
+                286,
+                747,
+                613,
+                26922,
+                337,
+                264,
+                958,
+                3407,
+                1708,
+                13,
+                50644
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28331344267901254,
+            "compression_ratio": 1.0266666666666666,
+            "no_speech_prob": 0.003379817819222808,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8138390183448792
+                },
+                {
+                    "word": " doctor",
+                    "start": 0.12,
+                    "end": 0.46,
+                    "probability": 0.9113210439682007
+                },
+                {
+                    "word": " recommended",
+                    "start": 0.46,
+                    "end": 1.16,
+                    "probability": 0.9940390586853027
+                },
+                {
+                    "word": " that",
+                    "start": 1.16,
+                    "end": 1.46,
+                    "probability": 0.9753012657165527
+                },
+                {
+                    "word": " I",
+                    "start": 1.46,
+                    "end": 1.72,
+                    "probability": 0.9803487658500671
+                },
+                {
+                    "word": " take",
+                    "start": 1.72,
+                    "end": 2.14,
+                    "probability": 0.9906544089317322
+                },
+                {
+                    "word": " these",
+                    "start": 2.14,
+                    "end": 2.86,
+                    "probability": 0.5983002185821533
+                },
+                {
+                    "word": " antibiotics",
+                    "start": 2.86,
+                    "end": 3.66,
+                    "probability": 0.9886674284934998
+                },
+                {
+                    "word": " for",
+                    "start": 3.66,
+                    "end": 4.16,
+                    "probability": 0.975765585899353
+                },
+                {
+                    "word": " the",
+                    "start": 4.16,
+                    "end": 4.4,
+                    "probability": 0.994654655456543
+                },
+                {
+                    "word": " next",
+                    "start": 4.4,
+                    "end": 4.62,
+                    "probability": 0.9975554943084717
+                },
+                {
+                    "word": " seven",
+                    "start": 4.62,
+                    "end": 5.02,
+                    "probability": 0.52547687292099
+                },
+                {
+                    "word": " days.",
+                    "start": 5.02,
+                    "end": 5.3,
+                    "probability": 0.9984784722328186
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

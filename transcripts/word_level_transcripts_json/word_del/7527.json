@@ -1,0 +1,59 @@
+{
+    "text": " that could be tested extensively.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.54,
+            "text": " that could be tested extensively.",
+            "tokens": [
+                50364,
+                300,
+                727,
+                312,
+                8246,
+                32636,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45696767171223956,
+            "compression_ratio": 0.8048780487804879,
+            "no_speech_prob": 0.01552649587392807,
+            "words": [
+                {
+                    "word": " that",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5745193958282471
+                },
+                {
+                    "word": " could",
+                    "start": 0.12,
+                    "end": 0.3,
+                    "probability": 0.990138053894043
+                },
+                {
+                    "word": " be",
+                    "start": 0.3,
+                    "end": 0.5,
+                    "probability": 0.34203824400901794
+                },
+                {
+                    "word": " tested",
+                    "start": 0.5,
+                    "end": 0.92,
+                    "probability": 0.7845033407211304
+                },
+                {
+                    "word": " extensively.",
+                    "start": 0.92,
+                    "end": 1.54,
+                    "probability": 0.9881138205528259
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

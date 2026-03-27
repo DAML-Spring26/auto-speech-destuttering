@@ -1,0 +1,87 @@
+{
+    "text": " How long have you been studying ancient Greek literature?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.98,
+            "text": " How long have you been studying ancient Greek literature?",
+            "tokens": [
+                50364,
+                1012,
+                938,
+                362,
+                291,
+                668,
+                7601,
+                7832,
+                10281,
+                10394,
+                30,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3277429800767165,
+            "compression_ratio": 0.9047619047619048,
+            "no_speech_prob": 0.006123258266597986,
+            "words": [
+                {
+                    "word": " How",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6495583057403564
+                },
+                {
+                    "word": " long",
+                    "start": 0.16,
+                    "end": 0.4,
+                    "probability": 0.9789010286331177
+                },
+                {
+                    "word": " have",
+                    "start": 0.4,
+                    "end": 0.62,
+                    "probability": 0.9937977194786072
+                },
+                {
+                    "word": " you",
+                    "start": 0.62,
+                    "end": 0.82,
+                    "probability": 0.9930126070976257
+                },
+                {
+                    "word": " been",
+                    "start": 0.82,
+                    "end": 1.02,
+                    "probability": 0.9955085515975952
+                },
+                {
+                    "word": " studying",
+                    "start": 1.02,
+                    "end": 1.52,
+                    "probability": 0.9953218102455139
+                },
+                {
+                    "word": " ancient",
+                    "start": 1.52,
+                    "end": 2.1,
+                    "probability": 0.8357693552970886
+                },
+                {
+                    "word": " Greek",
+                    "start": 2.1,
+                    "end": 2.52,
+                    "probability": 0.9979478716850281
+                },
+                {
+                    "word": " literature?",
+                    "start": 2.52,
+                    "end": 2.98,
+                    "probability": 0.8158082365989685
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

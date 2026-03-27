@@ -1,0 +1,102 @@
+{
+    "text": " The company implemented a new policy to promote work-life balance.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.86,
+            "text": " The company implemented a new policy to promote work-life balance.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                12270,
+                257,
+                777,
+                3897,
+                281,
+                9773,
+                589,
+                12,
+                9073,
+                4772,
+                13,
+                50580
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34211495518684387,
+            "compression_ratio": 0.9850746268656716,
+            "no_speech_prob": 0.004133677110075951,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7542796730995178
+                },
+                {
+                    "word": " company",
+                    "start": 0.1,
+                    "end": 0.44,
+                    "probability": 0.9839694499969482
+                },
+                {
+                    "word": " implemented",
+                    "start": 0.44,
+                    "end": 1.18,
+                    "probability": 0.5385507345199585
+                },
+                {
+                    "word": " a",
+                    "start": 1.18,
+                    "end": 1.44,
+                    "probability": 0.9942976832389832
+                },
+                {
+                    "word": " new",
+                    "start": 1.44,
+                    "end": 1.64,
+                    "probability": 0.995771586894989
+                },
+                {
+                    "word": " policy",
+                    "start": 1.64,
+                    "end": 2.2,
+                    "probability": 0.9984117746353149
+                },
+                {
+                    "word": " to",
+                    "start": 2.2,
+                    "end": 2.44,
+                    "probability": 0.9956537485122681
+                },
+                {
+                    "word": " promote",
+                    "start": 2.44,
+                    "end": 2.72,
+                    "probability": 0.9991583824157715
+                },
+                {
+                    "word": " work",
+                    "start": 2.72,
+                    "end": 3.1,
+                    "probability": 0.6999396681785583
+                },
+                {
+                    "word": "-life",
+                    "start": 3.1,
+                    "end": 3.4,
+                    "probability": 0.7845189571380615
+                },
+                {
+                    "word": " balance.",
+                    "start": 3.4,
+                    "end": 3.86,
+                    "probability": 0.9962112903594971
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

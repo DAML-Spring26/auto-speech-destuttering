@@ -1,0 +1,95 @@
+{
+    "text": " The concert tickets are sold out for tonight's show on.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.4,
+            "text": " The concert tickets are sold out for tonight's show on.",
+            "tokens": [
+                50364,
+                440,
+                8543,
+                12628,
+                366,
+                3718,
+                484,
+                337,
+                4440,
+                311,
+                855,
+                322,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3175885836283366,
+            "compression_ratio": 0.9016393442622951,
+            "no_speech_prob": 0.04849063977599144,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.98,
+                    "probability": 0.8720731735229492
+                },
+                {
+                    "word": " concert",
+                    "start": 0.98,
+                    "end": 1.44,
+                    "probability": 0.9391888976097107
+                },
+                {
+                    "word": " tickets",
+                    "start": 1.44,
+                    "end": 1.94,
+                    "probability": 0.9887190461158752
+                },
+                {
+                    "word": " are",
+                    "start": 1.94,
+                    "end": 2.42,
+                    "probability": 0.9984180927276611
+                },
+                {
+                    "word": " sold",
+                    "start": 2.42,
+                    "end": 2.78,
+                    "probability": 0.9962326884269714
+                },
+                {
+                    "word": " out",
+                    "start": 2.78,
+                    "end": 3.18,
+                    "probability": 0.9952758550643921
+                },
+                {
+                    "word": " for",
+                    "start": 3.18,
+                    "end": 3.5,
+                    "probability": 0.9892910122871399
+                },
+                {
+                    "word": " tonight's",
+                    "start": 3.5,
+                    "end": 4.0,
+                    "probability": 0.9883306920528412
+                },
+                {
+                    "word": " show",
+                    "start": 4.0,
+                    "end": 4.16,
+                    "probability": 0.9935712814331055
+                },
+                {
+                    "word": " on.",
+                    "start": 4.16,
+                    "end": 4.4,
+                    "probability": 0.5936625599861145
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

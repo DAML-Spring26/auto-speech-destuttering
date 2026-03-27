@@ -1,0 +1,116 @@
+{
+    "text": " This security system prevents unatha rai o roth",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.5,
+            "text": " This security system prevents un",
+            "tokens": [
+                50364,
+                639,
+                3825,
+                1185,
+                22367,
+                517,
+                50514
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.334438535902235,
+            "compression_ratio": 0.8867924528301887,
+            "no_speech_prob": 0.002588829956948757,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.000724691548384726
+                },
+                {
+                    "word": " security",
+                    "start": 0.12,
+                    "end": 0.56,
+                    "probability": 0.6227920651435852
+                },
+                {
+                    "word": " system",
+                    "start": 0.56,
+                    "end": 1.18,
+                    "probability": 0.9885687828063965
+                },
+                {
+                    "word": " prevents",
+                    "start": 1.18,
+                    "end": 1.76,
+                    "probability": 0.7503624558448792
+                },
+                {
+                    "word": " unatha",
+                    "start": 1.76,
+                    "end": 2.5,
+                    "probability": 0.3713561757467687
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.5,
+            "end": 2.92,
+            "text": "atha rai",
+            "tokens": [
+                50514,
+                29441,
+                367,
+                1301,
+                50814
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.334438535902235,
+            "compression_ratio": 0.8867924528301887,
+            "no_speech_prob": 0.002588829956948757,
+            "words": [
+                {
+                    "word": " rai",
+                    "start": 2.5,
+                    "end": 2.8,
+                    "probability": 0.1473273765295744
+                },
+                {
+                    "word": " o",
+                    "start": 2.8,
+                    "end": 2.92,
+                    "probability": 0.014437099918723106
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 2.92,
+            "end": 3.14,
+            "text": " o roth",
+            "tokens": [
+                50814,
+                277,
+                744,
+                392,
+                50969
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.334438535902235,
+            "compression_ratio": 0.8867924528301887,
+            "no_speech_prob": 0.002588829956948757,
+            "words": [
+                {
+                    "word": " roth",
+                    "start": 2.92,
+                    "end": 3.14,
+                    "probability": 0.0014124239096418023
+                }
+            ]
+        }
+    ],
+    "language": "cy"
+}

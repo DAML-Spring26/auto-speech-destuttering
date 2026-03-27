@@ -1,0 +1,80 @@
+{
+    "text": " Could you please pass me the remote control?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.8,
+            "text": " Could you please pass me the remote control?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                1320,
+                385,
+                264,
+                8607,
+                1969,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18442809581756592,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.010423337109386921,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.874778151512146
+                },
+                {
+                    "word": " you",
+                    "start": 0.14,
+                    "end": 0.26,
+                    "probability": 0.9801563024520874
+                },
+                {
+                    "word": " please",
+                    "start": 0.26,
+                    "end": 0.5,
+                    "probability": 0.9937646389007568
+                },
+                {
+                    "word": " pass",
+                    "start": 0.5,
+                    "end": 0.86,
+                    "probability": 0.986219584941864
+                },
+                {
+                    "word": " me",
+                    "start": 0.86,
+                    "end": 1.02,
+                    "probability": 0.9555251598358154
+                },
+                {
+                    "word": " the",
+                    "start": 1.02,
+                    "end": 1.12,
+                    "probability": 0.9871488213539124
+                },
+                {
+                    "word": " remote",
+                    "start": 1.12,
+                    "end": 1.4,
+                    "probability": 0.9843025207519531
+                },
+                {
+                    "word": " control?",
+                    "start": 1.4,
+                    "end": 1.8,
+                    "probability": 0.9894092082977295
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

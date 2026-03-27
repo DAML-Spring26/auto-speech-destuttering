@@ -1,0 +1,59 @@
+{
+    "text": " The report provides valuable insights.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.48,
+            "text": " The report provides valuable insights.",
+            "tokens": [
+                50364,
+                440,
+                2275,
+                6417,
+                8263,
+                14310,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42990316285027397,
+            "compression_ratio": 0.8260869565217391,
+            "no_speech_prob": 0.005578439217060804,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7020622491836548
+                },
+                {
+                    "word": " report",
+                    "start": 0.12,
+                    "end": 0.52,
+                    "probability": 0.9725177884101868
+                },
+                {
+                    "word": " provides",
+                    "start": 0.52,
+                    "end": 1.12,
+                    "probability": 0.7168281078338623
+                },
+                {
+                    "word": " valuable",
+                    "start": 1.12,
+                    "end": 1.78,
+                    "probability": 0.9892265796661377
+                },
+                {
+                    "word": " insights.",
+                    "start": 1.78,
+                    "end": 2.48,
+                    "probability": 0.9901302456855774
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

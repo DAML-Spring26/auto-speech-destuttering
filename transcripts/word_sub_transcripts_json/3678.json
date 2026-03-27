@@ -1,0 +1,62 @@
+{
+    "text": " Financial analyst, Patek, market growth.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.38,
+            "text": " Financial analyst, Patek, market growth.",
+            "tokens": [
+                50364,
+                25560,
+                19085,
+                11,
+                4379,
+                916,
+                11,
+                2142,
+                4599,
+                13,
+                50496
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.840388298034668,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.029810478910803795,
+            "words": [
+                {
+                    "word": " Financial",
+                    "start": 0.0,
+                    "end": 0.5,
+                    "probability": 0.7639018893241882
+                },
+                {
+                    "word": " analyst,",
+                    "start": 0.5,
+                    "end": 0.9,
+                    "probability": 0.47752711176872253
+                },
+                {
+                    "word": " Patek,",
+                    "start": 1.12,
+                    "end": 1.42,
+                    "probability": 0.2504293844103813
+                },
+                {
+                    "word": " market",
+                    "start": 1.62,
+                    "end": 1.98,
+                    "probability": 0.42085617780685425
+                },
+                {
+                    "word": " growth.",
+                    "start": 1.98,
+                    "end": 2.38,
+                    "probability": 0.9823761582374573
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

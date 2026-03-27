@@ -1,0 +1,52 @@
+{
+    "text": " She told us everything.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.08,
+            "text": " She told us everything.",
+            "tokens": [
+                50364,
+                1240,
+                1907,
+                505,
+                1203,
+                13,
+                50438
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.46390366554260254,
+            "compression_ratio": 0.7419354838709677,
+            "no_speech_prob": 0.01979762688279152,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.805505096912384
+                },
+                {
+                    "word": " told",
+                    "start": 0.16,
+                    "end": 0.38,
+                    "probability": 0.9933621883392334
+                },
+                {
+                    "word": " us",
+                    "start": 0.38,
+                    "end": 0.58,
+                    "probability": 0.9993483424186707
+                },
+                {
+                    "word": " everything.",
+                    "start": 0.58,
+                    "end": 1.08,
+                    "probability": 0.7735195755958557
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

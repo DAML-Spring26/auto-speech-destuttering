@@ -1,0 +1,59 @@
+{
+    "text": " They discuss the project deadline.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.42,
+            "text": " They discuss the project deadline.",
+            "tokens": [
+                50364,
+                814,
+                2248,
+                264,
+                1716,
+                20615,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5713099903530545,
+            "compression_ratio": 0.8095238095238095,
+            "no_speech_prob": 0.005221658851951361,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5155860781669617
+                },
+                {
+                    "word": " discuss",
+                    "start": 0.14,
+                    "end": 0.42,
+                    "probability": 0.6579940915107727
+                },
+                {
+                    "word": " the",
+                    "start": 0.42,
+                    "end": 0.64,
+                    "probability": 0.9750229716300964
+                },
+                {
+                    "word": " project",
+                    "start": 0.64,
+                    "end": 1.02,
+                    "probability": 0.9449765682220459
+                },
+                {
+                    "word": " deadline.",
+                    "start": 1.02,
+                    "end": 1.42,
+                    "probability": 0.32585015892982483
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

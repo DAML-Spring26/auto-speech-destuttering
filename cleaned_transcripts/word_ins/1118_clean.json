@@ -1,35 +1,32 @@
 {
-    "text": " We'll need to unschedule or follow up appointment in two weeks.",
+    "text": " to them schedule a follow-up appointment in two weeks.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 4.0,
-            "text": " We'll need to unschedule or follow up appointment in two weeks.",
+            "end": 2.4,
+            "text": " to them schedule a follow-up appointment in two weeks.",
             "tokens": [
                 50364,
-                492,
-                603,
-                643,
                 281,
-                2693,
-                19318,
-                2271,
-                420,
+                552,
+                7567,
+                257,
                 1524,
-                493,
+                12,
+                1010,
                 13653,
                 294,
                 732,
                 3259,
                 13,
-                50564
+                50484
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.3614652421739366,
-            "compression_ratio": 0.9692307692307692,
-            "no_speech_prob": 0.03984250873327255
+            "avg_logprob": -0.3322638511657715,
+            "compression_ratio": 0.9310344827586207,
+            "no_speech_prob": 0.015387307852506638
         }
     ],
     "language": "en"

@@ -1,0 +1,61 @@
+{
+    "text": " the Professor Discuss Quantum Mechanics.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.48,
+            "text": " the Professor Discuss Quantum Mechanics.",
+            "tokens": [
+                50364,
+                264,
+                8419,
+                4208,
+                2169,
+                44964,
+                30175,
+                1167,
+                13,
+                50494
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5336552099748091,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.009513135999441147,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.3985189199447632
+                },
+                {
+                    "word": " Professor",
+                    "start": 0.12,
+                    "end": 0.64,
+                    "probability": 0.6344993710517883
+                },
+                {
+                    "word": " Discuss",
+                    "start": 0.64,
+                    "end": 1.26,
+                    "probability": 0.8431960344314575
+                },
+                {
+                    "word": " Quantum",
+                    "start": 1.26,
+                    "end": 1.62,
+                    "probability": 0.8832127451896667
+                },
+                {
+                    "word": " Mechanics.",
+                    "start": 1.62,
+                    "end": 2.48,
+                    "probability": 0.9723242819309235
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

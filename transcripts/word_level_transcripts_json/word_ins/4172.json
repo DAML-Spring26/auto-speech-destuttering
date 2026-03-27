@@ -1,0 +1,95 @@
+{
+    "text": " I forgot to bring my umbrella and it's raining heavily.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.0,
+            "text": " I forgot to bring my umbrella and it's raining heavily.",
+            "tokens": [
+                50364,
+                286,
+                5298,
+                281,
+                1565,
+                452,
+                21925,
+                293,
+                309,
+                311,
+                18441,
+                10950,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2477160612742106,
+            "compression_ratio": 0.9016393442622951,
+            "no_speech_prob": 0.03193088620901108,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.56,
+                    "probability": 0.9197444319725037
+                },
+                {
+                    "word": " forgot",
+                    "start": 0.56,
+                    "end": 0.86,
+                    "probability": 0.9502439498901367
+                },
+                {
+                    "word": " to",
+                    "start": 0.86,
+                    "end": 1.1,
+                    "probability": 0.9987242817878723
+                },
+                {
+                    "word": " bring",
+                    "start": 1.1,
+                    "end": 1.24,
+                    "probability": 0.9948973059654236
+                },
+                {
+                    "word": " my",
+                    "start": 1.24,
+                    "end": 1.46,
+                    "probability": 0.9958363771438599
+                },
+                {
+                    "word": " umbrella",
+                    "start": 1.46,
+                    "end": 1.8,
+                    "probability": 0.9801744222640991
+                },
+                {
+                    "word": " and",
+                    "start": 1.8,
+                    "end": 2.14,
+                    "probability": 0.7933370471000671
+                },
+                {
+                    "word": " it's",
+                    "start": 2.14,
+                    "end": 2.56,
+                    "probability": 0.942492812871933
+                },
+                {
+                    "word": " raining",
+                    "start": 2.56,
+                    "end": 3.6,
+                    "probability": 0.9061388969421387
+                },
+                {
+                    "word": " heavily.",
+                    "start": 3.6,
+                    "end": 4.0,
+                    "probability": 0.9984226226806641
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,73 @@
+{
+    "text": " the architect designed an innovative sustainable building.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.0,
+            "text": " the architect designed an innovative sustainable building.",
+            "tokens": [
+                50364,
+                264,
+                6331,
+                4761,
+                364,
+                12999,
+                11235,
+                2390,
+                13,
+                50576
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.46520675312389026,
+            "compression_ratio": 0.9830508474576272,
+            "no_speech_prob": 0.005026500206440687,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5548111200332642
+                },
+                {
+                    "word": " architect",
+                    "start": 0.12,
+                    "end": 0.66,
+                    "probability": 0.9606394171714783
+                },
+                {
+                    "word": " designed",
+                    "start": 0.66,
+                    "end": 1.38,
+                    "probability": 0.9828197360038757
+                },
+                {
+                    "word": " an",
+                    "start": 1.38,
+                    "end": 1.84,
+                    "probability": 0.6968954205513
+                },
+                {
+                    "word": " innovative",
+                    "start": 1.84,
+                    "end": 2.5,
+                    "probability": 0.9372329711914062
+                },
+                {
+                    "word": " sustainable",
+                    "start": 2.5,
+                    "end": 3.34,
+                    "probability": 0.7129425406455994
+                },
+                {
+                    "word": " building.",
+                    "start": 3.34,
+                    "end": 4.0,
+                    "probability": 0.6732540130615234
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

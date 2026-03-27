@@ -1,0 +1,101 @@
+{
+    "text": " The conference was attended by experts from various fields of study.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.04,
+            "text": " The conference was attended by experts from various fields of study.",
+            "tokens": [
+                50364,
+                440,
+                7586,
+                390,
+                15990,
+                538,
+                8572,
+                490,
+                3683,
+                7909,
+                295,
+                2979,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31380039850870767,
+            "compression_ratio": 0.9855072463768116,
+            "no_speech_prob": 0.009861974976956844,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7596500515937805
+                },
+                {
+                    "word": " conference",
+                    "start": 0.1,
+                    "end": 0.48,
+                    "probability": 0.9458795785903931
+                },
+                {
+                    "word": " was",
+                    "start": 0.48,
+                    "end": 0.68,
+                    "probability": 0.4180377423763275
+                },
+                {
+                    "word": " attended",
+                    "start": 0.68,
+                    "end": 1.02,
+                    "probability": 0.9791186451911926
+                },
+                {
+                    "word": " by",
+                    "start": 1.02,
+                    "end": 1.3,
+                    "probability": 0.9951943755149841
+                },
+                {
+                    "word": " experts",
+                    "start": 1.3,
+                    "end": 1.72,
+                    "probability": 0.9918511509895325
+                },
+                {
+                    "word": " from",
+                    "start": 1.72,
+                    "end": 1.94,
+                    "probability": 0.9881151914596558
+                },
+                {
+                    "word": " various",
+                    "start": 1.94,
+                    "end": 2.24,
+                    "probability": 0.9948782920837402
+                },
+                {
+                    "word": " fields",
+                    "start": 2.24,
+                    "end": 2.52,
+                    "probability": 0.9871824979782104
+                },
+                {
+                    "word": " of",
+                    "start": 2.52,
+                    "end": 2.68,
+                    "probability": 0.9963971972465515
+                },
+                {
+                    "word": " study.",
+                    "start": 2.68,
+                    "end": 3.04,
+                    "probability": 0.9980562925338745
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

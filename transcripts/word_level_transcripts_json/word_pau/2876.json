@@ -1,0 +1,88 @@
+{
+    "text": " I'll meet you at the coffee shop at work.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.16,
+            "text": " I'll meet you at the coffee shop at work.",
+            "tokens": [
+                50364,
+                286,
+                603,
+                1677,
+                291,
+                412,
+                264,
+                4982,
+                3945,
+                412,
+                589,
+                13,
+                50539
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47992890221732004,
+            "compression_ratio": 0.8723404255319149,
+            "no_speech_prob": 0.006958881393074989,
+            "words": [
+                {
+                    "word": " I'll",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.9358762502670288
+                },
+                {
+                    "word": " meet",
+                    "start": 0.14,
+                    "end": 0.28,
+                    "probability": 0.9981637597084045
+                },
+                {
+                    "word": " you",
+                    "start": 0.28,
+                    "end": 0.44,
+                    "probability": 0.9783779978752136
+                },
+                {
+                    "word": " at",
+                    "start": 0.44,
+                    "end": 0.62,
+                    "probability": 0.9560339450836182
+                },
+                {
+                    "word": " the",
+                    "start": 0.62,
+                    "end": 2.12,
+                    "probability": 0.6569063067436218
+                },
+                {
+                    "word": " coffee",
+                    "start": 2.12,
+                    "end": 2.38,
+                    "probability": 0.4991738200187683
+                },
+                {
+                    "word": " shop",
+                    "start": 2.38,
+                    "end": 2.6,
+                    "probability": 0.9969630837440491
+                },
+                {
+                    "word": " at",
+                    "start": 2.6,
+                    "end": 2.8,
+                    "probability": 0.5423641800880432
+                },
+                {
+                    "word": " work.",
+                    "start": 2.8,
+                    "end": 3.16,
+                    "probability": 0.4222300052642822
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

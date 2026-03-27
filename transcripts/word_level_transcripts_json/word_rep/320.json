@@ -1,0 +1,55 @@
+{
+    "text": " I can't, can't go.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.16,
+            "text": " I can't, can't go.",
+            "tokens": [
+                50364,
+                286,
+                393,
+                380,
+                11,
+                393,
+                380,
+                352,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.43637440421364526,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.05895046517252922,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.8359359502792358
+                },
+                {
+                    "word": " can't,",
+                    "start": 0.24,
+                    "end": 0.68,
+                    "probability": 0.9338524341583252
+                },
+                {
+                    "word": " can't",
+                    "start": 0.68,
+                    "end": 0.96,
+                    "probability": 0.9705541431903839
+                },
+                {
+                    "word": " go.",
+                    "start": 0.96,
+                    "end": 1.16,
+                    "probability": 0.9851691722869873
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,88 @@
+{
+    "text": " Don't forget to pack your passport and visa on.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.6000000000000005,
+            "end": 3.32,
+            "text": " Don't forget to pack your passport and visa on.",
+            "tokens": [
+                50364,
+                1468,
+                380,
+                2870,
+                281,
+                2844,
+                428,
+                24694,
+                293,
+                18589,
+                322,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3631690570286342,
+            "compression_ratio": 0.8867924528301887,
+            "no_speech_prob": 0.02624618262052536,
+            "words": [
+                {
+                    "word": " Don't",
+                    "start": 0.6000000000000005,
+                    "end": 1.12,
+                    "probability": 0.928196907043457
+                },
+                {
+                    "word": " forget",
+                    "start": 1.12,
+                    "end": 1.38,
+                    "probability": 0.9950297474861145
+                },
+                {
+                    "word": " to",
+                    "start": 1.38,
+                    "end": 1.6,
+                    "probability": 0.9990052580833435
+                },
+                {
+                    "word": " pack",
+                    "start": 1.6,
+                    "end": 1.78,
+                    "probability": 0.9869151711463928
+                },
+                {
+                    "word": " your",
+                    "start": 1.78,
+                    "end": 2.0,
+                    "probability": 0.9963751435279846
+                },
+                {
+                    "word": " passport",
+                    "start": 2.0,
+                    "end": 2.4,
+                    "probability": 0.9773144125938416
+                },
+                {
+                    "word": " and",
+                    "start": 2.4,
+                    "end": 2.7,
+                    "probability": 0.9737599492073059
+                },
+                {
+                    "word": " visa",
+                    "start": 2.7,
+                    "end": 2.96,
+                    "probability": 0.8050441741943359
+                },
+                {
+                    "word": " on.",
+                    "start": 2.96,
+                    "end": 3.32,
+                    "probability": 0.9532535076141357
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,118 @@
+{
+    "text": " We need to carefully analyze the data before drawing any conclusions.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.86,
+            "text": " We need to carefully",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                7500,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3971567995408002,
+            "compression_ratio": 0.9857142857142858,
+            "no_speech_prob": 0.002076883567497134,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8202217817306519
+                },
+                {
+                    "word": " need",
+                    "start": 0.12,
+                    "end": 0.26,
+                    "probability": 0.9978525638580322
+                },
+                {
+                    "word": " to",
+                    "start": 0.26,
+                    "end": 0.44,
+                    "probability": 0.9880043864250183
+                },
+                {
+                    "word": " carefully",
+                    "start": 0.44,
+                    "end": 0.86,
+                    "probability": 0.9395196437835693
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.8000000000000007,
+            "end": 6.62,
+            "text": " analyze the data before drawing any conclusions.",
+            "tokens": [
+                50574,
+                12477,
+                264,
+                1412,
+                949,
+                6316,
+                604,
+                22865,
+                13,
+                50724
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3971567995408002,
+            "compression_ratio": 0.9857142857142858,
+            "no_speech_prob": 0.002076883567497134,
+            "words": [
+                {
+                    "word": " analyze",
+                    "start": 3.8000000000000007,
+                    "end": 4.48,
+                    "probability": 0.35443219542503357
+                },
+                {
+                    "word": " the",
+                    "start": 4.48,
+                    "end": 4.78,
+                    "probability": 0.9954350590705872
+                },
+                {
+                    "word": " data",
+                    "start": 4.78,
+                    "end": 5.0,
+                    "probability": 0.9615357518196106
+                },
+                {
+                    "word": " before",
+                    "start": 5.0,
+                    "end": 5.32,
+                    "probability": 0.9954061508178711
+                },
+                {
+                    "word": " drawing",
+                    "start": 5.32,
+                    "end": 5.7,
+                    "probability": 0.9925113916397095
+                },
+                {
+                    "word": " any",
+                    "start": 5.7,
+                    "end": 6.06,
+                    "probability": 0.9979299306869507
+                },
+                {
+                    "word": " conclusions.",
+                    "start": 6.06,
+                    "end": 6.62,
+                    "probability": 0.9909815192222595
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

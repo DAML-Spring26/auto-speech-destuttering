@@ -1,0 +1,121 @@
+{
+    "text": " I'm not sure if. I can't attend the conference next month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.16,
+            "text": " I'm not sure if.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                406,
+                988,
+                498,
+                13,
+                50580
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45732665061950684,
+            "compression_ratio": 0.9508196721311475,
+            "no_speech_prob": 0.0032659464050084352,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.9172399938106537
+                },
+                {
+                    "word": " not",
+                    "start": 0.22,
+                    "end": 0.42,
+                    "probability": 0.9694450497627258
+                },
+                {
+                    "word": " sure",
+                    "start": 0.42,
+                    "end": 0.74,
+                    "probability": 0.9953306913375854
+                },
+                {
+                    "word": " if.",
+                    "start": 0.74,
+                    "end": 1.16,
+                    "probability": 0.827844500541687
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.8400000000000003,
+            "end": 6.52,
+            "text": " I can't attend the conference next month.",
+            "tokens": [
+                50580,
+                286,
+                393,
+                380,
+                6888,
+                264,
+                7586,
+                958,
+                1618,
+                13,
+                50694
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45732665061950684,
+            "compression_ratio": 0.9508196721311475,
+            "no_speech_prob": 0.0032659464050084352,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 3.8400000000000003,
+                    "end": 4.48,
+                    "probability": 0.9764994978904724
+                },
+                {
+                    "word": " can't",
+                    "start": 4.48,
+                    "end": 4.78,
+                    "probability": 0.5218521654605865
+                },
+                {
+                    "word": " attend",
+                    "start": 4.78,
+                    "end": 5.1,
+                    "probability": 0.9521013498306274
+                },
+                {
+                    "word": " the",
+                    "start": 5.1,
+                    "end": 5.28,
+                    "probability": 0.9600645303726196
+                },
+                {
+                    "word": " conference",
+                    "start": 5.28,
+                    "end": 5.68,
+                    "probability": 0.929275393486023
+                },
+                {
+                    "word": " next",
+                    "start": 5.68,
+                    "end": 6.1,
+                    "probability": 0.9893503785133362
+                },
+                {
+                    "word": " month.",
+                    "start": 6.1,
+                    "end": 6.52,
+                    "probability": 0.9972955584526062
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

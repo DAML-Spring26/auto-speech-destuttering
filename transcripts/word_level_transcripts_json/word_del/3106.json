@@ -1,0 +1,94 @@
+{
+    "text": " you should call me before making such an important decision.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.42,
+            "text": " you should call me before making such an important decision.",
+            "tokens": [
+                50364,
+                291,
+                820,
+                818,
+                385,
+                949,
+                1455,
+                1270,
+                364,
+                1021,
+                3537,
+                13,
+                50552
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29264875820704866,
+            "compression_ratio": 0.967741935483871,
+            "no_speech_prob": 0.004394808318465948,
+            "words": [
+                {
+                    "word": " you",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.5263667702674866
+                },
+                {
+                    "word": " should",
+                    "start": 0.16,
+                    "end": 0.36,
+                    "probability": 0.9961854815483093
+                },
+                {
+                    "word": " call",
+                    "start": 0.36,
+                    "end": 0.62,
+                    "probability": 0.917034924030304
+                },
+                {
+                    "word": " me",
+                    "start": 0.62,
+                    "end": 0.88,
+                    "probability": 0.9911760091781616
+                },
+                {
+                    "word": " before",
+                    "start": 0.88,
+                    "end": 1.3,
+                    "probability": 0.9803940057754517
+                },
+                {
+                    "word": " making",
+                    "start": 1.3,
+                    "end": 1.7,
+                    "probability": 0.9959808588027954
+                },
+                {
+                    "word": " such",
+                    "start": 1.7,
+                    "end": 2.26,
+                    "probability": 0.9869357943534851
+                },
+                {
+                    "word": " an",
+                    "start": 2.26,
+                    "end": 2.42,
+                    "probability": 0.997607946395874
+                },
+                {
+                    "word": " important",
+                    "start": 2.42,
+                    "end": 2.88,
+                    "probability": 0.9959624409675598
+                },
+                {
+                    "word": " decision.",
+                    "start": 2.88,
+                    "end": 3.42,
+                    "probability": 0.9994158744812012
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

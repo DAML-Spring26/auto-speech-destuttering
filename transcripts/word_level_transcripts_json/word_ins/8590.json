@@ -1,0 +1,94 @@
+{
+    "text": " The company is planning to well expand its operations globally.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.5,
+            "text": " The company is planning to well expand its operations globally.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                307,
+                5038,
+                281,
+                731,
+                5268,
+                1080,
+                7705,
+                18958,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31302976608276367,
+            "compression_ratio": 0.9545454545454546,
+            "no_speech_prob": 0.03294074907898903,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.9117832183837891
+                },
+                {
+                    "word": " company",
+                    "start": 0.3,
+                    "end": 0.64,
+                    "probability": 0.9836770296096802
+                },
+                {
+                    "word": " is",
+                    "start": 0.64,
+                    "end": 0.82,
+                    "probability": 0.8065609335899353
+                },
+                {
+                    "word": " planning",
+                    "start": 0.82,
+                    "end": 1.08,
+                    "probability": 0.9993495345115662
+                },
+                {
+                    "word": " to",
+                    "start": 1.08,
+                    "end": 1.3,
+                    "probability": 0.9974161386489868
+                },
+                {
+                    "word": " well",
+                    "start": 1.3,
+                    "end": 1.58,
+                    "probability": 0.9387131333351135
+                },
+                {
+                    "word": " expand",
+                    "start": 1.58,
+                    "end": 2.2,
+                    "probability": 0.4632498621940613
+                },
+                {
+                    "word": " its",
+                    "start": 2.2,
+                    "end": 2.52,
+                    "probability": 0.96878582239151
+                },
+                {
+                    "word": " operations",
+                    "start": 2.52,
+                    "end": 3.06,
+                    "probability": 0.9658488631248474
+                },
+                {
+                    "word": " globally.",
+                    "start": 3.06,
+                    "end": 3.5,
+                    "probability": 0.9993307590484619
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

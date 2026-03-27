@@ -1,29 +1,64 @@
 {
-    "text": " the chain to London leaves in 15 minutes.",
+    "text": " then cut the end of a Canada Rolls to schedule routes to Presents",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 7.0,
-            "text": " the chain to London leaves in 15 minutes.",
+            "end": 2.42,
+            "text": " then cut the end of a Canada",
             "tokens": [
                 50364,
+                550,
+                1723,
                 264,
-                5021,
-                281,
-                7042,
-                5510,
-                294,
-                2119,
-                2077,
-                13,
-                50714
+                917,
+                295,
+                257,
+                6309,
+                50485
             ],
-            "temperature": 0.0,
-            "avg_logprob": -0.6399306853612264,
-            "compression_ratio": 0.8541666666666666,
-            "no_speech_prob": 0.019190406426787376
+            "temperature": 1.0,
+            "avg_logprob": -5.140364560213956,
+            "compression_ratio": 1.015625,
+            "no_speech_prob": 0.10575757175683975
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.44,
+            "end": 5.58,
+            "text": " Rolls to schedule routes",
+            "tokens": [
+                50486,
+                9926,
+                82,
+                281,
+                7567,
+                18242,
+                50643
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.140364560213956,
+            "compression_ratio": 1.015625,
+            "no_speech_prob": 0.10575757175683975
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 5.6000000000000005,
+            "end": 7.48,
+            "text": " to Presents",
+            "tokens": [
+                50644,
+                281,
+                38191,
+                50738
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.140364560213956,
+            "compression_ratio": 1.015625,
+            "no_speech_prob": 0.10575757175683975
         }
     ],
     "language": "en"

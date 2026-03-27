@@ -1,0 +1,109 @@
+{
+    "text": " Despite the technical difficulties, the team managed to complete the presentation successfully.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.14,
+            "text": " Despite the technical difficulties, the team managed to complete the presentation successfully.",
+            "tokens": [
+                50364,
+                11334,
+                264,
+                6191,
+                14399,
+                11,
+                264,
+                1469,
+                6453,
+                281,
+                3566,
+                264,
+                5860,
+                10727,
+                13,
+                50688
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.263308328740737,
+            "compression_ratio": 1.144578313253012,
+            "no_speech_prob": 0.025558268651366234,
+            "words": [
+                {
+                    "word": " Despite",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.8508699536323547
+                },
+                {
+                    "word": " the",
+                    "start": 0.4,
+                    "end": 0.72,
+                    "probability": 0.9652477502822876
+                },
+                {
+                    "word": " technical",
+                    "start": 0.72,
+                    "end": 1.1,
+                    "probability": 0.9984188079833984
+                },
+                {
+                    "word": " difficulties,",
+                    "start": 1.1,
+                    "end": 1.96,
+                    "probability": 0.9964058995246887
+                },
+                {
+                    "word": " the",
+                    "start": 2.6,
+                    "end": 2.68,
+                    "probability": 0.9935134053230286
+                },
+                {
+                    "word": " team",
+                    "start": 2.68,
+                    "end": 2.88,
+                    "probability": 0.993269145488739
+                },
+                {
+                    "word": " managed",
+                    "start": 2.88,
+                    "end": 3.26,
+                    "probability": 0.9921042919158936
+                },
+                {
+                    "word": " to",
+                    "start": 3.26,
+                    "end": 3.56,
+                    "probability": 0.9993392825126648
+                },
+                {
+                    "word": " complete",
+                    "start": 3.56,
+                    "end": 4.0,
+                    "probability": 0.9953922033309937
+                },
+                {
+                    "word": " the",
+                    "start": 4.0,
+                    "end": 4.26,
+                    "probability": 0.7409172654151917
+                },
+                {
+                    "word": " presentation",
+                    "start": 4.26,
+                    "end": 5.16,
+                    "probability": 0.9518593549728394
+                },
+                {
+                    "word": " successfully.",
+                    "start": 5.16,
+                    "end": 6.14,
+                    "probability": 0.9929270148277283
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

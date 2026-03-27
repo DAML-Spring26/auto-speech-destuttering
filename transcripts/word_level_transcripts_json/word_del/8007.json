@@ -1,0 +1,87 @@
+{
+    "text": " They live in this neighborhood for over a decade.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.06,
+            "text": " They live in this neighborhood for over a decade.",
+            "tokens": [
+                50364,
+                814,
+                1621,
+                294,
+                341,
+                7630,
+                337,
+                670,
+                257,
+                10378,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4080602205716647,
+            "compression_ratio": 0.8596491228070176,
+            "no_speech_prob": 0.003808529581874609,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7363479137420654
+                },
+                {
+                    "word": " live",
+                    "start": 0.14,
+                    "end": 0.32,
+                    "probability": 0.3395865857601166
+                },
+                {
+                    "word": " in",
+                    "start": 0.32,
+                    "end": 0.56,
+                    "probability": 0.9888643026351929
+                },
+                {
+                    "word": " this",
+                    "start": 0.56,
+                    "end": 0.78,
+                    "probability": 0.9091348052024841
+                },
+                {
+                    "word": " neighborhood",
+                    "start": 0.78,
+                    "end": 1.1,
+                    "probability": 0.6975039839744568
+                },
+                {
+                    "word": " for",
+                    "start": 1.1,
+                    "end": 1.34,
+                    "probability": 0.9976442456245422
+                },
+                {
+                    "word": " over",
+                    "start": 1.34,
+                    "end": 1.52,
+                    "probability": 0.9957007765769958
+                },
+                {
+                    "word": " a",
+                    "start": 1.52,
+                    "end": 1.64,
+                    "probability": 0.98573237657547
+                },
+                {
+                    "word": " decade.",
+                    "start": 1.64,
+                    "end": 2.06,
+                    "probability": 0.9992135763168335
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

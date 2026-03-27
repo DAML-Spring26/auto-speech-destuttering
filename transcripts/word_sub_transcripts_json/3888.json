@@ -1,0 +1,66 @@
+{
+    "text": " She needs to port the files.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.18,
+            "text": " She needs to port the files.",
+            "tokens": [
+                50364,
+                1240,
+                2203,
+                281,
+                2436,
+                264,
+                7098,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4740756511688232,
+            "compression_ratio": 0.8,
+            "no_speech_prob": 0.01161394827067852,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.7994932532310486
+                },
+                {
+                    "word": " needs",
+                    "start": 0.2,
+                    "end": 0.38,
+                    "probability": 0.9903649687767029
+                },
+                {
+                    "word": " to",
+                    "start": 0.38,
+                    "end": 0.5,
+                    "probability": 0.9925091862678528
+                },
+                {
+                    "word": " port",
+                    "start": 0.5,
+                    "end": 0.68,
+                    "probability": 0.3581993579864502
+                },
+                {
+                    "word": " the",
+                    "start": 0.68,
+                    "end": 0.82,
+                    "probability": 0.9808949828147888
+                },
+                {
+                    "word": " files.",
+                    "start": 0.82,
+                    "end": 1.18,
+                    "probability": 0.9968486428260803
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

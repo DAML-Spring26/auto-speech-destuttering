@@ -1,0 +1,101 @@
+{
+    "text": " We need to improve our communication within the team at 4.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.4,
+            "end": 6.28,
+            "text": " We need to improve our communication within the team at 4.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                3470,
+                527,
+                6101,
+                1951,
+                264,
+                1469,
+                412,
+                1017,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31528377532958984,
+            "compression_ratio": 0.9508196721311475,
+            "no_speech_prob": 0.10097686201334,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 1.4,
+                    "end": 1.98,
+                    "probability": 0.9023655652999878
+                },
+                {
+                    "word": " need",
+                    "start": 1.98,
+                    "end": 2.22,
+                    "probability": 0.9979567527770996
+                },
+                {
+                    "word": " to",
+                    "start": 2.22,
+                    "end": 2.5,
+                    "probability": 0.9987316727638245
+                },
+                {
+                    "word": " improve",
+                    "start": 2.5,
+                    "end": 2.84,
+                    "probability": 0.996623158454895
+                },
+                {
+                    "word": " our",
+                    "start": 2.84,
+                    "end": 3.18,
+                    "probability": 0.9985761642456055
+                },
+                {
+                    "word": " communication",
+                    "start": 3.18,
+                    "end": 4.0,
+                    "probability": 0.9955698847770691
+                },
+                {
+                    "word": " within",
+                    "start": 4.0,
+                    "end": 5.18,
+                    "probability": 0.9048357009887695
+                },
+                {
+                    "word": " the",
+                    "start": 5.18,
+                    "end": 5.42,
+                    "probability": 0.997505247592926
+                },
+                {
+                    "word": " team",
+                    "start": 5.42,
+                    "end": 5.7,
+                    "probability": 0.9794847369194031
+                },
+                {
+                    "word": " at",
+                    "start": 5.7,
+                    "end": 6.0,
+                    "probability": 0.9889919757843018
+                },
+                {
+                    "word": " 4.",
+                    "start": 6.0,
+                    "end": 6.28,
+                    "probability": 0.4659624993801117
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

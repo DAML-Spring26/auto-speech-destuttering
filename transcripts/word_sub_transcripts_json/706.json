@@ -1,0 +1,75 @@
+{
+    "text": " She managed to split the workcold evenly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.02,
+            "text": " She managed to split the workcold evenly.",
+            "tokens": [
+                50364,
+                1240,
+                6453,
+                281,
+                7472,
+                264,
+                589,
+                66,
+                2641,
+                17658,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6622681984534631,
+            "compression_ratio": 0.8541666666666666,
+            "no_speech_prob": 0.012044684961438179,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.5550138354301453
+                },
+                {
+                    "word": " managed",
+                    "start": 0.22,
+                    "end": 0.5,
+                    "probability": 0.9842304587364197
+                },
+                {
+                    "word": " to",
+                    "start": 0.5,
+                    "end": 0.76,
+                    "probability": 0.9990938901901245
+                },
+                {
+                    "word": " split",
+                    "start": 0.76,
+                    "end": 1.0,
+                    "probability": 0.45024943351745605
+                },
+                {
+                    "word": " the",
+                    "start": 1.0,
+                    "end": 1.2,
+                    "probability": 0.9886809587478638
+                },
+                {
+                    "word": " workcold",
+                    "start": 1.2,
+                    "end": 1.62,
+                    "probability": 0.33242128292719525
+                },
+                {
+                    "word": " evenly.",
+                    "start": 1.62,
+                    "end": 2.02,
+                    "probability": 0.983373761177063
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

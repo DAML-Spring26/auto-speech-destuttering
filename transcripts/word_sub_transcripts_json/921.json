@@ -1,0 +1,66 @@
+{
+    "text": " that Professor explained the complex series.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.92,
+            "text": " that Professor explained the complex series.",
+            "tokens": [
+                50364,
+                300,
+                8419,
+                8825,
+                264,
+                3997,
+                2638,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45524797439575193,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.011056024581193924,
+            "words": [
+                {
+                    "word": " that",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6064601540565491
+                },
+                {
+                    "word": " Professor",
+                    "start": 0.12,
+                    "end": 0.48,
+                    "probability": 0.7319360375404358
+                },
+                {
+                    "word": " explained",
+                    "start": 0.48,
+                    "end": 1.02,
+                    "probability": 0.9136152863502502
+                },
+                {
+                    "word": " the",
+                    "start": 1.02,
+                    "end": 1.18,
+                    "probability": 0.881951630115509
+                },
+                {
+                    "word": " complex",
+                    "start": 1.18,
+                    "end": 1.5,
+                    "probability": 0.8607690334320068
+                },
+                {
+                    "word": " series.",
+                    "start": 1.5,
+                    "end": 1.92,
+                    "probability": 0.9911264777183533
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

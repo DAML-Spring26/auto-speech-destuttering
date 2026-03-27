@@ -1,0 +1,94 @@
+{
+    "text": " The CEO presented the quarterly financial resort to the board.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.58,
+            "text": " The CEO presented the quarterly financial resort to the board.",
+            "tokens": [
+                50364,
+                440,
+                9282,
+                8212,
+                264,
+                38633,
+                4669,
+                19606,
+                281,
+                264,
+                3150,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33552626201084684,
+            "compression_ratio": 0.9538461538461539,
+            "no_speech_prob": 0.0031895055435597897,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7722266912460327
+                },
+                {
+                    "word": " CEO",
+                    "start": 0.14,
+                    "end": 0.46,
+                    "probability": 0.9901864528656006
+                },
+                {
+                    "word": " presented",
+                    "start": 0.46,
+                    "end": 1.06,
+                    "probability": 0.9974457025527954
+                },
+                {
+                    "word": " the",
+                    "start": 1.06,
+                    "end": 1.3,
+                    "probability": 0.9870710968971252
+                },
+                {
+                    "word": " quarterly",
+                    "start": 1.3,
+                    "end": 1.72,
+                    "probability": 0.5048486590385437
+                },
+                {
+                    "word": " financial",
+                    "start": 1.72,
+                    "end": 2.22,
+                    "probability": 0.9812676906585693
+                },
+                {
+                    "word": " resort",
+                    "start": 2.22,
+                    "end": 2.82,
+                    "probability": 0.9505785703659058
+                },
+                {
+                    "word": " to",
+                    "start": 2.82,
+                    "end": 3.08,
+                    "probability": 0.7070552110671997
+                },
+                {
+                    "word": " the",
+                    "start": 3.08,
+                    "end": 3.18,
+                    "probability": 0.9917508959770203
+                },
+                {
+                    "word": " board.",
+                    "start": 3.18,
+                    "end": 3.58,
+                    "probability": 0.7511961460113525
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,127 @@
+{
+    "text": " Could you please explain the terms and well? Conditions of the contract.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.38,
+            "text": " Could you please explain the terms and well?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                2903,
+                264,
+                2115,
+                293,
+                731,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34339802265167235,
+            "compression_ratio": 0.9863013698630136,
+            "no_speech_prob": 0.05268266797065735,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.5,
+                    "probability": 0.9447920918464661
+                },
+                {
+                    "word": " you",
+                    "start": 0.5,
+                    "end": 0.64,
+                    "probability": 0.9989898800849915
+                },
+                {
+                    "word": " please",
+                    "start": 0.64,
+                    "end": 0.86,
+                    "probability": 0.9940294027328491
+                },
+                {
+                    "word": " explain",
+                    "start": 0.86,
+                    "end": 1.24,
+                    "probability": 0.9977220892906189
+                },
+                {
+                    "word": " the",
+                    "start": 1.24,
+                    "end": 1.42,
+                    "probability": 0.9955310225486755
+                },
+                {
+                    "word": " terms",
+                    "start": 1.42,
+                    "end": 1.82,
+                    "probability": 0.9982814788818359
+                },
+                {
+                    "word": " and",
+                    "start": 1.82,
+                    "end": 2.08,
+                    "probability": 0.9661950469017029
+                },
+                {
+                    "word": " well?",
+                    "start": 2.08,
+                    "end": 2.38,
+                    "probability": 0.8443790078163147
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.9,
+            "end": 4.02,
+            "text": " Conditions of the contract.",
+            "tokens": [
+                50514,
+                21793,
+                2451,
+                295,
+                264,
+                4364,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34339802265167235,
+            "compression_ratio": 0.9863013698630136,
+            "no_speech_prob": 0.05268266797065735,
+            "words": [
+                {
+                    "word": " Conditions",
+                    "start": 2.9,
+                    "end": 3.26,
+                    "probability": 0.9858023524284363
+                },
+                {
+                    "word": " of",
+                    "start": 3.26,
+                    "end": 3.52,
+                    "probability": 0.9909579753875732
+                },
+                {
+                    "word": " the",
+                    "start": 3.52,
+                    "end": 3.62,
+                    "probability": 0.9840840697288513
+                },
+                {
+                    "word": " contract.",
+                    "start": 3.62,
+                    "end": 4.02,
+                    "probability": 0.9467588067054749
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

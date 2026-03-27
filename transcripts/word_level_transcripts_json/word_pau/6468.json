@@ -1,0 +1,126 @@
+{
+    "text": " Can you help me set up? This new software on my computer.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.38,
+            "text": " Can you help me set up?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                854,
+                385,
+                992,
+                493,
+                30,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4318705608970241,
+            "compression_ratio": 0.8769230769230769,
+            "no_speech_prob": 0.0033033406361937523,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7763756513595581
+                },
+                {
+                    "word": " you",
+                    "start": 0.14,
+                    "end": 0.28,
+                    "probability": 0.9937939643859863
+                },
+                {
+                    "word": " help",
+                    "start": 0.28,
+                    "end": 0.54,
+                    "probability": 0.9953281879425049
+                },
+                {
+                    "word": " me",
+                    "start": 0.54,
+                    "end": 0.76,
+                    "probability": 0.9935285449028015
+                },
+                {
+                    "word": " set",
+                    "start": 0.76,
+                    "end": 1.04,
+                    "probability": 0.8240326046943665
+                },
+                {
+                    "word": " up?",
+                    "start": 1.04,
+                    "end": 1.38,
+                    "probability": 0.9935761094093323
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.3,
+            "end": 6.8,
+            "text": " This new software on my computer.",
+            "tokens": [
+                50596,
+                639,
+                777,
+                4722,
+                322,
+                452,
+                3820,
+                13,
+                50721
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4318705608970241,
+            "compression_ratio": 0.8769230769230769,
+            "no_speech_prob": 0.0033033406361937523,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 4.3,
+                    "end": 4.9,
+                    "probability": 0.9103262424468994
+                },
+                {
+                    "word": " new",
+                    "start": 4.9,
+                    "end": 5.16,
+                    "probability": 0.9460970163345337
+                },
+                {
+                    "word": " software",
+                    "start": 5.16,
+                    "end": 5.76,
+                    "probability": 0.9887836575508118
+                },
+                {
+                    "word": " on",
+                    "start": 5.76,
+                    "end": 6.08,
+                    "probability": 0.9731231927871704
+                },
+                {
+                    "word": " my",
+                    "start": 6.08,
+                    "end": 6.28,
+                    "probability": 0.9847316741943359
+                },
+                {
+                    "word": " computer.",
+                    "start": 6.28,
+                    "end": 6.8,
+                    "probability": 0.993712842464447
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

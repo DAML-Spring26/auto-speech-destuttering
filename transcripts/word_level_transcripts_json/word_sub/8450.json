@@ -1,0 +1,81 @@
+{
+    "text": " our team implemented Agile methodology for project measurement.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.68,
+            "text": " our team implemented Agile methodology for project measurement.",
+            "tokens": [
+                50364,
+                527,
+                1469,
+                12270,
+                2725,
+                794,
+                24850,
+                337,
+                1716,
+                13160,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45174906804011417,
+            "compression_ratio": 0.9545454545454546,
+            "no_speech_prob": 0.009876035153865814,
+            "words": [
+                {
+                    "word": " our",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.3419192135334015
+                },
+                {
+                    "word": " team",
+                    "start": 0.12,
+                    "end": 0.38,
+                    "probability": 0.9783244729042053
+                },
+                {
+                    "word": " implemented",
+                    "start": 0.38,
+                    "end": 0.9,
+                    "probability": 0.994045078754425
+                },
+                {
+                    "word": " Agile",
+                    "start": 0.9,
+                    "end": 1.26,
+                    "probability": 0.7333167195320129
+                },
+                {
+                    "word": " methodology",
+                    "start": 1.26,
+                    "end": 1.72,
+                    "probability": 0.8520005345344543
+                },
+                {
+                    "word": " for",
+                    "start": 1.72,
+                    "end": 1.92,
+                    "probability": 0.9895803332328796
+                },
+                {
+                    "word": " project",
+                    "start": 1.92,
+                    "end": 2.24,
+                    "probability": 0.884467601776123
+                },
+                {
+                    "word": " measurement.",
+                    "start": 2.24,
+                    "end": 2.68,
+                    "probability": 0.8972880840301514
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

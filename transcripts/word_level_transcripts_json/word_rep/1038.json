@@ -1,0 +1,59 @@
+{
+    "text": " Please clean your room today.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.4,
+            "text": " Please clean your room today.",
+            "tokens": [
+                50364,
+                2555,
+                2541,
+                428,
+                1808,
+                965,
+                13,
+                50446
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5025990804036459,
+            "compression_ratio": 0.8285714285714286,
+            "no_speech_prob": 0.013583198189735413,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.6455146074295044
+                },
+                {
+                    "word": " clean",
+                    "start": 0.2,
+                    "end": 0.46,
+                    "probability": 0.9876960515975952
+                },
+                {
+                    "word": " your",
+                    "start": 0.46,
+                    "end": 0.72,
+                    "probability": 0.9701566696166992
+                },
+                {
+                    "word": " room",
+                    "start": 0.72,
+                    "end": 1.1,
+                    "probability": 0.38666221499443054
+                },
+                {
+                    "word": " today.",
+                    "start": 1.1,
+                    "end": 1.4,
+                    "probability": 0.9441672563552856
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

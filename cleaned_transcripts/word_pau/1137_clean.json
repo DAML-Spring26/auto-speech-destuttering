@@ -1,16 +1,15 @@
 {
-    "text": " The latest smartphone features an advanced facial recognition system.",
+    "text": " the smartphone features an advanced facial recognition system.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 6.16,
-            "text": " The latest smartphone features an advanced facial recognition system.",
+            "end": 6.0,
+            "text": " the smartphone features an advanced facial recognition system.",
             "tokens": [
                 50364,
-                440,
-                6792,
+                264,
                 13307,
                 4122,
                 364,
@@ -19,12 +18,12 @@
                 11150,
                 1185,
                 13,
-                50672
+                50664
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.36129276569073016,
-            "compression_ratio": 1.0147058823529411,
-            "no_speech_prob": 0.007758155930787325
+            "avg_logprob": -0.45284533500671387,
+            "compression_ratio": 0.9841269841269841,
+            "no_speech_prob": 0.025380738079547882
         }
     ],
     "language": "en"

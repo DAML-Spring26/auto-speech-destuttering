@@ -1,0 +1,66 @@
+{
+    "text": " They implemented new security products immediately.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.14,
+            "text": " They implemented new security products immediately.",
+            "tokens": [
+                50364,
+                814,
+                12270,
+                777,
+                3825,
+                3383,
+                4258,
+                13,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4255233287811279,
+            "compression_ratio": 0.8793103448275862,
+            "no_speech_prob": 0.0034823594614863396,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.546396017074585
+                },
+                {
+                    "word": " implemented",
+                    "start": 0.16,
+                    "end": 0.72,
+                    "probability": 0.9877259135246277
+                },
+                {
+                    "word": " new",
+                    "start": 0.72,
+                    "end": 1.12,
+                    "probability": 0.9805718660354614
+                },
+                {
+                    "word": " security",
+                    "start": 1.12,
+                    "end": 1.82,
+                    "probability": 0.9789906740188599
+                },
+                {
+                    "word": " products",
+                    "start": 1.82,
+                    "end": 2.32,
+                    "probability": 0.9824236631393433
+                },
+                {
+                    "word": " immediately.",
+                    "start": 2.32,
+                    "end": 3.14,
+                    "probability": 0.9376825094223022
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

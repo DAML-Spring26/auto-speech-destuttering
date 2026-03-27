@@ -1,0 +1,66 @@
+{
+    "text": " The clinical trial protected significant results.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.74,
+            "text": " The clinical trial protected significant results.",
+            "tokens": [
+                50364,
+                440,
+                9115,
+                7308,
+                10594,
+                4776,
+                3542,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4899452209472656,
+            "compression_ratio": 0.9074074074074074,
+            "no_speech_prob": 0.006568089593201876,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6328327655792236
+                },
+                {
+                    "word": " clinical",
+                    "start": 0.14,
+                    "end": 0.5,
+                    "probability": 0.9164324998855591
+                },
+                {
+                    "word": " trial",
+                    "start": 0.5,
+                    "end": 0.98,
+                    "probability": 0.9984943866729736
+                },
+                {
+                    "word": " protected",
+                    "start": 0.98,
+                    "end": 1.5,
+                    "probability": 0.5386621952056885
+                },
+                {
+                    "word": " significant",
+                    "start": 1.5,
+                    "end": 2.12,
+                    "probability": 0.9787086844444275
+                },
+                {
+                    "word": " results.",
+                    "start": 2.12,
+                    "end": 2.74,
+                    "probability": 0.9372494220733643
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

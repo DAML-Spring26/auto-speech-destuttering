@@ -1,0 +1,108 @@
+{
+    "text": " The hotel shuttle bus were waiting for you at the airport exit.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.3,
+            "text": " The hotel shuttle bus were waiting for you at the airport exit.",
+            "tokens": [
+                50364,
+                440,
+                7622,
+                26728,
+                1255,
+                645,
+                3806,
+                337,
+                291,
+                412,
+                264,
+                10155,
+                11043,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31353411078453064,
+            "compression_ratio": 0.9545454545454546,
+            "no_speech_prob": 0.005598495714366436,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.3475603759288788
+                },
+                {
+                    "word": " hotel",
+                    "start": 0.12,
+                    "end": 0.4,
+                    "probability": 0.9415339231491089
+                },
+                {
+                    "word": " shuttle",
+                    "start": 0.4,
+                    "end": 0.88,
+                    "probability": 0.7481722235679626
+                },
+                {
+                    "word": " bus",
+                    "start": 0.88,
+                    "end": 1.18,
+                    "probability": 0.9768816828727722
+                },
+                {
+                    "word": " were",
+                    "start": 1.18,
+                    "end": 1.4,
+                    "probability": 0.7591769695281982
+                },
+                {
+                    "word": " waiting",
+                    "start": 1.4,
+                    "end": 1.72,
+                    "probability": 0.997412383556366
+                },
+                {
+                    "word": " for",
+                    "start": 1.72,
+                    "end": 2.04,
+                    "probability": 0.9826577305793762
+                },
+                {
+                    "word": " you",
+                    "start": 2.04,
+                    "end": 2.14,
+                    "probability": 0.9979944229125977
+                },
+                {
+                    "word": " at",
+                    "start": 2.14,
+                    "end": 2.26,
+                    "probability": 0.9869591593742371
+                },
+                {
+                    "word": " the",
+                    "start": 2.26,
+                    "end": 2.42,
+                    "probability": 0.9807279109954834
+                },
+                {
+                    "word": " airport",
+                    "start": 2.42,
+                    "end": 2.82,
+                    "probability": 0.9188976287841797
+                },
+                {
+                    "word": " exit.",
+                    "start": 2.82,
+                    "end": 3.3,
+                    "probability": 0.9980302453041077
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

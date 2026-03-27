@@ -1,0 +1,103 @@
+{
+    "text": " After reviewing the contract, our legal team suggested several important revisions.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.28,
+            "text": " After reviewing the contract, our legal team suggested several important revisions.",
+            "tokens": [
+                50364,
+                2381,
+                19576,
+                264,
+                4364,
+                11,
+                527,
+                5089,
+                1469,
+                10945,
+                2940,
+                1021,
+                3698,
+                4252,
+                13,
+                50648
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.240875524633071,
+            "compression_ratio": 1.077922077922078,
+            "no_speech_prob": 0.008479921147227287,
+            "words": [
+                {
+                    "word": " After",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.9048863649368286
+                },
+                {
+                    "word": " reviewing",
+                    "start": 0.32,
+                    "end": 0.74,
+                    "probability": 0.9962564706802368
+                },
+                {
+                    "word": " the",
+                    "start": 0.74,
+                    "end": 0.92,
+                    "probability": 0.9934701919555664
+                },
+                {
+                    "word": " contract,",
+                    "start": 0.92,
+                    "end": 1.46,
+                    "probability": 0.975739598274231
+                },
+                {
+                    "word": " our",
+                    "start": 1.8,
+                    "end": 1.88,
+                    "probability": 0.9721507430076599
+                },
+                {
+                    "word": " legal",
+                    "start": 1.88,
+                    "end": 2.2,
+                    "probability": 0.8654756546020508
+                },
+                {
+                    "word": " team",
+                    "start": 2.2,
+                    "end": 2.54,
+                    "probability": 0.9760204553604126
+                },
+                {
+                    "word": " suggested",
+                    "start": 2.54,
+                    "end": 3.2,
+                    "probability": 0.9764061570167542
+                },
+                {
+                    "word": " several",
+                    "start": 3.2,
+                    "end": 4.26,
+                    "probability": 0.9852308034896851
+                },
+                {
+                    "word": " important",
+                    "start": 4.26,
+                    "end": 4.76,
+                    "probability": 0.992840051651001
+                },
+                {
+                    "word": " revisions.",
+                    "start": 4.76,
+                    "end": 5.28,
+                    "probability": 0.9961384236812592
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

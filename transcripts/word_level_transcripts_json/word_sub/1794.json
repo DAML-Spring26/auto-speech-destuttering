@@ -1,0 +1,67 @@
+{
+    "text": " The symphony orchestra performed classical competitions.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.72,
+            "text": " The symphony orchestra performed classical competitions.",
+            "tokens": [
+                50364,
+                440,
+                6697,
+                28616,
+                25280,
+                10332,
+                13735,
+                26185,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.429902120070024,
+            "compression_ratio": 0.9180327868852459,
+            "no_speech_prob": 0.006412732880562544,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7153806090354919
+                },
+                {
+                    "word": " symphony",
+                    "start": 0.12,
+                    "end": 0.52,
+                    "probability": 0.9157162010669708
+                },
+                {
+                    "word": " orchestra",
+                    "start": 0.52,
+                    "end": 0.96,
+                    "probability": 0.8105021119117737
+                },
+                {
+                    "word": " performed",
+                    "start": 0.96,
+                    "end": 1.54,
+                    "probability": 0.8652719259262085
+                },
+                {
+                    "word": " classical",
+                    "start": 1.54,
+                    "end": 2.02,
+                    "probability": 0.981612503528595
+                },
+                {
+                    "word": " competitions.",
+                    "start": 2.02,
+                    "end": 2.72,
+                    "probability": 0.9880890250205994
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

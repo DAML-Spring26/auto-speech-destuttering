@@ -1,0 +1,80 @@
+{
+    "text": " the report been completed by the research team.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.16,
+            "text": " the report been completed by the research team.",
+            "tokens": [
+                50364,
+                264,
+                2275,
+                668,
+                7365,
+                538,
+                264,
+                2132,
+                1469,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42899930477142334,
+            "compression_ratio": 0.9038461538461539,
+            "no_speech_prob": 0.003760789055377245,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6678547859191895
+                },
+                {
+                    "word": " report",
+                    "start": 0.12,
+                    "end": 0.4,
+                    "probability": 0.9419352412223816
+                },
+                {
+                    "word": " been",
+                    "start": 0.4,
+                    "end": 0.64,
+                    "probability": 0.49518194794654846
+                },
+                {
+                    "word": " completed",
+                    "start": 0.64,
+                    "end": 1.08,
+                    "probability": 0.9943481087684631
+                },
+                {
+                    "word": " by",
+                    "start": 1.08,
+                    "end": 1.28,
+                    "probability": 0.9963601231575012
+                },
+                {
+                    "word": " the",
+                    "start": 1.28,
+                    "end": 1.4,
+                    "probability": 0.9897809028625488
+                },
+                {
+                    "word": " research",
+                    "start": 1.4,
+                    "end": 1.72,
+                    "probability": 0.921871542930603
+                },
+                {
+                    "word": " team.",
+                    "start": 1.72,
+                    "end": 2.16,
+                    "probability": 0.9990887641906738
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

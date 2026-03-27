@@ -1,0 +1,115 @@
+{
+    "text": " The workshop was interactive, engaging. Participants and hands-on activities.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.94,
+            "text": " The workshop was interactive, engaging.",
+            "tokens": [
+                50364,
+                440,
+                13541,
+                390,
+                15141,
+                11,
+                11268,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4994912624359131,
+            "compression_ratio": 1.013157894736842,
+            "no_speech_prob": 0.008496403694152832,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6296982169151306
+                },
+                {
+                    "word": " workshop",
+                    "start": 0.1,
+                    "end": 0.48,
+                    "probability": 0.9796057343482971
+                },
+                {
+                    "word": " was",
+                    "start": 0.48,
+                    "end": 0.74,
+                    "probability": 0.9964907765388489
+                },
+                {
+                    "word": " interactive,",
+                    "start": 0.74,
+                    "end": 1.48,
+                    "probability": 0.9656509757041931
+                },
+                {
+                    "word": " engaging.",
+                    "start": 2.22,
+                    "end": 2.94,
+                    "probability": 0.9953433871269226
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.02,
+            "end": 7.6,
+            "text": " Participants and hands-on activities.",
+            "tokens": [
+                50638,
+                35247,
+                1719,
+                293,
+                2377,
+                12,
+                266,
+                5354,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4994912624359131,
+            "compression_ratio": 1.013157894736842,
+            "no_speech_prob": 0.008496403694152832,
+            "words": [
+                {
+                    "word": " Participants",
+                    "start": 5.02,
+                    "end": 6.18,
+                    "probability": 0.97824627161026
+                },
+                {
+                    "word": " and",
+                    "start": 6.18,
+                    "end": 6.36,
+                    "probability": 0.9042595624923706
+                },
+                {
+                    "word": " hands",
+                    "start": 6.36,
+                    "end": 6.64,
+                    "probability": 0.9889447093009949
+                },
+                {
+                    "word": "-on",
+                    "start": 6.64,
+                    "end": 6.9,
+                    "probability": 0.7274171262979507
+                },
+                {
+                    "word": " activities.",
+                    "start": 6.9,
+                    "end": 7.6,
+                    "probability": 0.9955450296401978
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

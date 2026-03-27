@@ -1,0 +1,108 @@
+{
+    "text": " The hotel offers a stunning view of the ocean from every room.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.06,
+            "text": " The hotel offers a stunning view of the ocean from every room.",
+            "tokens": [
+                50364,
+                440,
+                7622,
+                7736,
+                257,
+                18550,
+                1910,
+                295,
+                264,
+                7810,
+                490,
+                633,
+                1808,
+                13,
+                50572
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3084332048892975,
+            "compression_ratio": 0.9393939393939394,
+            "no_speech_prob": 0.004387866239994764,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8891204595565796
+                },
+                {
+                    "word": " hotel",
+                    "start": 0.12,
+                    "end": 0.42,
+                    "probability": 0.9153124690055847
+                },
+                {
+                    "word": " offers",
+                    "start": 0.42,
+                    "end": 0.84,
+                    "probability": 0.6637644171714783
+                },
+                {
+                    "word": " a",
+                    "start": 0.84,
+                    "end": 1.04,
+                    "probability": 0.9919019341468811
+                },
+                {
+                    "word": " stunning",
+                    "start": 1.04,
+                    "end": 1.38,
+                    "probability": 0.9953923225402832
+                },
+                {
+                    "word": " view",
+                    "start": 1.38,
+                    "end": 1.7,
+                    "probability": 0.9983117580413818
+                },
+                {
+                    "word": " of",
+                    "start": 1.7,
+                    "end": 1.9,
+                    "probability": 0.9924967288970947
+                },
+                {
+                    "word": " the",
+                    "start": 1.9,
+                    "end": 2.06,
+                    "probability": 0.4499472677707672
+                },
+                {
+                    "word": " ocean",
+                    "start": 2.06,
+                    "end": 2.96,
+                    "probability": 0.758665919303894
+                },
+                {
+                    "word": " from",
+                    "start": 2.96,
+                    "end": 3.22,
+                    "probability": 0.7050797939300537
+                },
+                {
+                    "word": " every",
+                    "start": 3.22,
+                    "end": 3.68,
+                    "probability": 0.9749897718429565
+                },
+                {
+                    "word": " room.",
+                    "start": 3.68,
+                    "end": 4.06,
+                    "probability": 0.9711712002754211
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

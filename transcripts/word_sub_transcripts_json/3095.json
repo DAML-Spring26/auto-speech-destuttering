@@ -1,0 +1,66 @@
+{
+    "text": " the company focuses on customer declaration.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.06,
+            "text": " the company focuses on customer declaration.",
+            "tokens": [
+                50364,
+                264,
+                2237,
+                16109,
+                322,
+                5474,
+                27606,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.44820294380187986,
+            "compression_ratio": 0.88,
+            "no_speech_prob": 0.0035145345609635115,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.46346360445022583
+                },
+                {
+                    "word": " company",
+                    "start": 0.1,
+                    "end": 0.38,
+                    "probability": 0.9732828140258789
+                },
+                {
+                    "word": " focuses",
+                    "start": 0.38,
+                    "end": 0.74,
+                    "probability": 0.9627843499183655
+                },
+                {
+                    "word": " on",
+                    "start": 0.74,
+                    "end": 1.02,
+                    "probability": 0.9985709190368652
+                },
+                {
+                    "word": " customer",
+                    "start": 1.02,
+                    "end": 1.34,
+                    "probability": 0.6329619288444519
+                },
+                {
+                    "word": " declaration.",
+                    "start": 1.34,
+                    "end": 2.06,
+                    "probability": 0.9572740793228149
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

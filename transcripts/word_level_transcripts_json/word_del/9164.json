@@ -1,0 +1,119 @@
+{
+    "text": " Anyone know good pizza place that delivers late. I am starving.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.3,
+            "text": " Anyone know good pizza place that delivers late.",
+            "tokens": [
+                50364,
+                14643,
+                458,
+                665,
+                8298,
+                1081,
+                300,
+                24860,
+                3469,
+                13,
+                50510
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4659964243570964,
+            "compression_ratio": 0.9264705882352942,
+            "no_speech_prob": 0.003389710793271661,
+            "words": [
+                {
+                    "word": " Anyone",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.6754156351089478
+                },
+                {
+                    "word": " know",
+                    "start": 0.34,
+                    "end": 0.54,
+                    "probability": 0.8328961133956909
+                },
+                {
+                    "word": " good",
+                    "start": 0.54,
+                    "end": 0.74,
+                    "probability": 0.791808009147644
+                },
+                {
+                    "word": " pizza",
+                    "start": 0.74,
+                    "end": 1.06,
+                    "probability": 0.6707291603088379
+                },
+                {
+                    "word": " place",
+                    "start": 1.06,
+                    "end": 1.38,
+                    "probability": 0.9894930124282837
+                },
+                {
+                    "word": " that",
+                    "start": 1.38,
+                    "end": 1.66,
+                    "probability": 0.9765849709510803
+                },
+                {
+                    "word": " delivers",
+                    "start": 1.66,
+                    "end": 1.94,
+                    "probability": 0.9854969382286072
+                },
+                {
+                    "word": " late.",
+                    "start": 1.94,
+                    "end": 2.3,
+                    "probability": 0.9504485726356506
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.84,
+            "end": 3.62,
+            "text": " I am starving.",
+            "tokens": [
+                50510,
+                286,
+                669,
+                28420,
+                13,
+                50556
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4659964243570964,
+            "compression_ratio": 0.9264705882352942,
+            "no_speech_prob": 0.003389710793271661,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 2.84,
+                    "end": 3.1,
+                    "probability": 0.9930336475372314
+                },
+                {
+                    "word": " am",
+                    "start": 3.1,
+                    "end": 3.22,
+                    "probability": 0.557211697101593
+                },
+                {
+                    "word": " starving.",
+                    "start": 3.22,
+                    "end": 3.62,
+                    "probability": 0.7982908487319946
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

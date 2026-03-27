@@ -1,0 +1,109 @@
+{
+    "text": " The new album is available for well, streaming on all major platforms.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.84,
+            "text": " The new album is available for well, streaming on all major platforms.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                6030,
+                307,
+                2435,
+                337,
+                731,
+                11,
+                11791,
+                322,
+                439,
+                2563,
+                9473,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2722223225761862,
+            "compression_ratio": 1.0144927536231885,
+            "no_speech_prob": 0.07985785603523254,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.96,
+                    "probability": 0.9212692379951477
+                },
+                {
+                    "word": " new",
+                    "start": 0.96,
+                    "end": 1.16,
+                    "probability": 0.9907622933387756
+                },
+                {
+                    "word": " album",
+                    "start": 1.16,
+                    "end": 1.6,
+                    "probability": 0.9962647557258606
+                },
+                {
+                    "word": " is",
+                    "start": 1.6,
+                    "end": 1.9,
+                    "probability": 0.9971486926078796
+                },
+                {
+                    "word": " available",
+                    "start": 1.9,
+                    "end": 2.3,
+                    "probability": 0.9984242916107178
+                },
+                {
+                    "word": " for",
+                    "start": 2.3,
+                    "end": 2.66,
+                    "probability": 0.997113823890686
+                },
+                {
+                    "word": " well,",
+                    "start": 2.66,
+                    "end": 3.0,
+                    "probability": 0.9178342819213867
+                },
+                {
+                    "word": " streaming",
+                    "start": 3.68,
+                    "end": 4.18,
+                    "probability": 0.9893679022789001
+                },
+                {
+                    "word": " on",
+                    "start": 4.18,
+                    "end": 4.5,
+                    "probability": 0.9971562623977661
+                },
+                {
+                    "word": " all",
+                    "start": 4.5,
+                    "end": 4.78,
+                    "probability": 0.9975308775901794
+                },
+                {
+                    "word": " major",
+                    "start": 4.78,
+                    "end": 5.14,
+                    "probability": 0.9970525503158569
+                },
+                {
+                    "word": " platforms.",
+                    "start": 5.14,
+                    "end": 5.84,
+                    "probability": 0.9964054822921753
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,94 @@
+{
+    "text": " The CEO presented the quarterly financial report to state owners.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.0,
+            "text": " The CEO presented the quarterly financial report to state owners.",
+            "tokens": [
+                50364,
+                440,
+                9282,
+                8212,
+                264,
+                38633,
+                4669,
+                2275,
+                281,
+                1785,
+                7710,
+                13,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35076842989240375,
+            "compression_ratio": 0.9285714285714286,
+            "no_speech_prob": 0.004979424644261599,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5250741839408875
+                },
+                {
+                    "word": " CEO",
+                    "start": 0.1,
+                    "end": 0.4,
+                    "probability": 0.9818781018257141
+                },
+                {
+                    "word": " presented",
+                    "start": 0.4,
+                    "end": 0.84,
+                    "probability": 0.7052457928657532
+                },
+                {
+                    "word": " the",
+                    "start": 0.84,
+                    "end": 1.06,
+                    "probability": 0.9775355458259583
+                },
+                {
+                    "word": " quarterly",
+                    "start": 1.06,
+                    "end": 1.38,
+                    "probability": 0.9557029604911804
+                },
+                {
+                    "word": " financial",
+                    "start": 1.38,
+                    "end": 1.9,
+                    "probability": 0.9335557222366333
+                },
+                {
+                    "word": " report",
+                    "start": 1.9,
+                    "end": 2.3,
+                    "probability": 0.9710524082183838
+                },
+                {
+                    "word": " to",
+                    "start": 2.3,
+                    "end": 2.48,
+                    "probability": 0.9368903636932373
+                },
+                {
+                    "word": " state",
+                    "start": 2.48,
+                    "end": 2.68,
+                    "probability": 0.8565198183059692
+                },
+                {
+                    "word": " owners.",
+                    "start": 2.68,
+                    "end": 3.0,
+                    "probability": 0.7697727680206299
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

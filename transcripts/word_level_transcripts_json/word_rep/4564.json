@@ -1,0 +1,138 @@
+{
+    "text": " The book that won the Pulitzer Prize this year was written by a first-time author.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.74,
+            "text": " The book that won the Pulitzer Prize this year was written by a first-time author.",
+            "tokens": [
+                50364,
+                440,
+                1446,
+                300,
+                1582,
+                264,
+                35568,
+                16845,
+                22604,
+                341,
+                1064,
+                390,
+                3720,
+                538,
+                257,
+                700,
+                12,
+                3766,
+                3793,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23023811253634366,
+            "compression_ratio": 1.0512820512820513,
+            "no_speech_prob": 0.0036886900197714567,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.782157301902771
+                },
+                {
+                    "word": " book",
+                    "start": 0.12,
+                    "end": 0.32,
+                    "probability": 0.993614912033081
+                },
+                {
+                    "word": " that",
+                    "start": 0.32,
+                    "end": 0.5,
+                    "probability": 0.979860246181488
+                },
+                {
+                    "word": " won",
+                    "start": 0.5,
+                    "end": 0.64,
+                    "probability": 0.9873173832893372
+                },
+                {
+                    "word": " the",
+                    "start": 0.64,
+                    "end": 0.78,
+                    "probability": 0.9596757292747498
+                },
+                {
+                    "word": " Pulitzer",
+                    "start": 0.78,
+                    "end": 1.04,
+                    "probability": 0.7024731934070587
+                },
+                {
+                    "word": " Prize",
+                    "start": 1.04,
+                    "end": 1.36,
+                    "probability": 0.8152619004249573
+                },
+                {
+                    "word": " this",
+                    "start": 1.36,
+                    "end": 1.6,
+                    "probability": 0.9941498041152954
+                },
+                {
+                    "word": " year",
+                    "start": 1.6,
+                    "end": 1.78,
+                    "probability": 0.9926444292068481
+                },
+                {
+                    "word": " was",
+                    "start": 1.78,
+                    "end": 2.1,
+                    "probability": 0.9909881949424744
+                },
+                {
+                    "word": " written",
+                    "start": 2.1,
+                    "end": 2.68,
+                    "probability": 0.8199641704559326
+                },
+                {
+                    "word": " by",
+                    "start": 2.68,
+                    "end": 2.88,
+                    "probability": 0.9962982535362244
+                },
+                {
+                    "word": " a",
+                    "start": 2.88,
+                    "end": 3.0,
+                    "probability": 0.818606436252594
+                },
+                {
+                    "word": " first",
+                    "start": 3.0,
+                    "end": 3.22,
+                    "probability": 0.9261802434921265
+                },
+                {
+                    "word": "-time",
+                    "start": 3.22,
+                    "end": 3.46,
+                    "probability": 0.882420539855957
+                },
+                {
+                    "word": " author.",
+                    "start": 3.46,
+                    "end": 3.74,
+                    "probability": 0.9991900324821472
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

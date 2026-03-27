@@ -1,0 +1,136 @@
+{
+    "text": " I need to schedule an appointment with my dentist for a routine check up next week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.04,
+            "text": " I need to schedule an appointment with my dentist for a routine check up next week.",
+            "tokens": [
+                50364,
+                286,
+                643,
+                281,
+                7567,
+                364,
+                13653,
+                365,
+                452,
+                28666,
+                337,
+                257,
+                9927,
+                1520,
+                493,
+                958,
+                1243,
+                13,
+                50576
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24632525444030762,
+            "compression_ratio": 1.077922077922078,
+            "no_speech_prob": 0.0026030174922198057,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.9654911160469055
+                },
+                {
+                    "word": " need",
+                    "start": 0.16,
+                    "end": 0.32,
+                    "probability": 0.99570232629776
+                },
+                {
+                    "word": " to",
+                    "start": 0.32,
+                    "end": 0.48,
+                    "probability": 0.9972084164619446
+                },
+                {
+                    "word": " schedule",
+                    "start": 0.48,
+                    "end": 0.86,
+                    "probability": 0.996931791305542
+                },
+                {
+                    "word": " an",
+                    "start": 0.86,
+                    "end": 1.08,
+                    "probability": 0.9927184581756592
+                },
+                {
+                    "word": " appointment",
+                    "start": 1.08,
+                    "end": 1.46,
+                    "probability": 0.9990872144699097
+                },
+                {
+                    "word": " with",
+                    "start": 1.46,
+                    "end": 1.8,
+                    "probability": 0.9955783486366272
+                },
+                {
+                    "word": " my",
+                    "start": 1.8,
+                    "end": 1.96,
+                    "probability": 0.9893429279327393
+                },
+                {
+                    "word": " dentist",
+                    "start": 1.96,
+                    "end": 2.26,
+                    "probability": 0.4757302701473236
+                },
+                {
+                    "word": " for",
+                    "start": 2.26,
+                    "end": 2.5,
+                    "probability": 0.9928455948829651
+                },
+                {
+                    "word": " a",
+                    "start": 2.5,
+                    "end": 2.6,
+                    "probability": 0.8814799785614014
+                },
+                {
+                    "word": " routine",
+                    "start": 2.6,
+                    "end": 2.84,
+                    "probability": 0.9944170713424683
+                },
+                {
+                    "word": " check",
+                    "start": 2.84,
+                    "end": 3.14,
+                    "probability": 0.9665853977203369
+                },
+                {
+                    "word": " up",
+                    "start": 3.14,
+                    "end": 3.38,
+                    "probability": 0.4055905044078827
+                },
+                {
+                    "word": " next",
+                    "start": 3.38,
+                    "end": 3.66,
+                    "probability": 0.9927235245704651
+                },
+                {
+                    "word": " week.",
+                    "start": 3.66,
+                    "end": 4.04,
+                    "probability": 0.9964512586593628
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

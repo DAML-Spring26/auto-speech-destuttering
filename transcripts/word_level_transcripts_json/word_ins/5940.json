@@ -1,0 +1,95 @@
+{
+    "text": " The customer service representative apologized for about the inconvenience caused.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.54,
+            "text": " The customer service representative apologized for about the inconvenience caused.",
+            "tokens": [
+                50364,
+                440,
+                5474,
+                2643,
+                12424,
+                47815,
+                337,
+                466,
+                264,
+                28752,
+                1182,
+                7008,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2636134624481201,
+            "compression_ratio": 1.0789473684210527,
+            "no_speech_prob": 0.012310811318457127,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.46,
+                    "probability": 0.924784243106842
+                },
+                {
+                    "word": " customer",
+                    "start": 0.46,
+                    "end": 0.84,
+                    "probability": 0.6238881349563599
+                },
+                {
+                    "word": " service",
+                    "start": 0.84,
+                    "end": 1.3,
+                    "probability": 0.9906285405158997
+                },
+                {
+                    "word": " representative",
+                    "start": 1.3,
+                    "end": 2.02,
+                    "probability": 0.9819714426994324
+                },
+                {
+                    "word": " apologized",
+                    "start": 2.02,
+                    "end": 2.64,
+                    "probability": 0.7620736956596375
+                },
+                {
+                    "word": " for",
+                    "start": 2.64,
+                    "end": 2.96,
+                    "probability": 0.9743860960006714
+                },
+                {
+                    "word": " about",
+                    "start": 2.96,
+                    "end": 3.2,
+                    "probability": 0.9821339249610901
+                },
+                {
+                    "word": " the",
+                    "start": 3.2,
+                    "end": 3.4,
+                    "probability": 0.9935768246650696
+                },
+                {
+                    "word": " inconvenience",
+                    "start": 3.4,
+                    "end": 4.24,
+                    "probability": 0.9847814440727234
+                },
+                {
+                    "word": " caused.",
+                    "start": 4.24,
+                    "end": 4.54,
+                    "probability": 0.9981339573860168
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

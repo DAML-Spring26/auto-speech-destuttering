@@ -1,0 +1,74 @@
+{
+    "text": " The scientists hypothesized about the quantum pneumonia.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.5,
+            "text": " The scientists hypothesized about the quantum pneumonia.",
+            "tokens": [
+                50364,
+                440,
+                7708,
+                14276,
+                1602,
+                466,
+                264,
+                13018,
+                43097,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42522235711415607,
+            "compression_ratio": 0.9032258064516129,
+            "no_speech_prob": 0.0065813250839710236,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7702845931053162
+                },
+                {
+                    "word": " scientists",
+                    "start": 0.14,
+                    "end": 0.52,
+                    "probability": 0.32464155554771423
+                },
+                {
+                    "word": " hypothesized",
+                    "start": 0.52,
+                    "end": 1.42,
+                    "probability": 0.9782140552997589
+                },
+                {
+                    "word": " about",
+                    "start": 1.42,
+                    "end": 1.58,
+                    "probability": 0.9917850494384766
+                },
+                {
+                    "word": " the",
+                    "start": 1.58,
+                    "end": 1.7,
+                    "probability": 0.9709507822990417
+                },
+                {
+                    "word": " quantum",
+                    "start": 1.7,
+                    "end": 2.0,
+                    "probability": 0.9548458456993103
+                },
+                {
+                    "word": " pneumonia.",
+                    "start": 2.0,
+                    "end": 2.5,
+                    "probability": 0.9904718399047852
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,53 @@
+{
+    "text": " They'll the train arrives.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.12,
+            "text": " They'll the train arrives.",
+            "tokens": [
+                50364,
+                814,
+                603,
+                264,
+                3847,
+                20116,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5763712459140353,
+            "compression_ratio": 0.7647058823529411,
+            "no_speech_prob": 0.020327448844909668,
+            "words": [
+                {
+                    "word": " They'll",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.6009849160909653
+                },
+                {
+                    "word": " the",
+                    "start": 0.22,
+                    "end": 0.38,
+                    "probability": 0.5608283281326294
+                },
+                {
+                    "word": " train",
+                    "start": 0.38,
+                    "end": 0.7,
+                    "probability": 0.9771237969398499
+                },
+                {
+                    "word": " arrives.",
+                    "start": 0.7,
+                    "end": 1.12,
+                    "probability": 0.9548883438110352
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

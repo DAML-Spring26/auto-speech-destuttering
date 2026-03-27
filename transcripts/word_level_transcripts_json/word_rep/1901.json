@@ -1,0 +1,88 @@
+{
+    "text": " the artist's latest painting sold for a record price.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.04,
+            "text": " the artist's latest painting sold for a record price.",
+            "tokens": [
+                50364,
+                264,
+                5748,
+                311,
+                6792,
+                5370,
+                3718,
+                337,
+                257,
+                2136,
+                3218,
+                13,
+                50576
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4520947252001081,
+            "compression_ratio": 0.9298245614035088,
+            "no_speech_prob": 0.004032418131828308,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5208035707473755
+                },
+                {
+                    "word": " artist's",
+                    "start": 0.14,
+                    "end": 0.8,
+                    "probability": 0.913131594657898
+                },
+                {
+                    "word": " latest",
+                    "start": 0.8,
+                    "end": 1.02,
+                    "probability": 0.9276119470596313
+                },
+                {
+                    "word": " painting",
+                    "start": 1.02,
+                    "end": 1.54,
+                    "probability": 0.9636616110801697
+                },
+                {
+                    "word": " sold",
+                    "start": 1.54,
+                    "end": 2.22,
+                    "probability": 0.8144205212593079
+                },
+                {
+                    "word": " for",
+                    "start": 2.22,
+                    "end": 3.04,
+                    "probability": 0.2628335952758789
+                },
+                {
+                    "word": " a",
+                    "start": 3.04,
+                    "end": 3.22,
+                    "probability": 0.8953660130500793
+                },
+                {
+                    "word": " record",
+                    "start": 3.22,
+                    "end": 3.6,
+                    "probability": 0.7176486849784851
+                },
+                {
+                    "word": " price.",
+                    "start": 3.6,
+                    "end": 4.04,
+                    "probability": 0.9918971657752991
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

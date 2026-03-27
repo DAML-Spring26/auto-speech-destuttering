@@ -1,0 +1,73 @@
+{
+    "text": " Please ensure safety protocols are strictly swallowed.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.56,
+            "text": " Please ensure safety protocols are strictly swallowed.",
+            "tokens": [
+                50364,
+                2555,
+                5586,
+                4514,
+                20618,
+                366,
+                20792,
+                41769,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37653840671886096,
+            "compression_ratio": 0.9,
+            "no_speech_prob": 0.00881530623883009,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.7989162802696228
+                },
+                {
+                    "word": " ensure",
+                    "start": 0.22,
+                    "end": 0.58,
+                    "probability": 0.9500978589057922
+                },
+                {
+                    "word": " safety",
+                    "start": 0.58,
+                    "end": 1.08,
+                    "probability": 0.9766355752944946
+                },
+                {
+                    "word": " protocols",
+                    "start": 1.08,
+                    "end": 1.6,
+                    "probability": 0.9584020972251892
+                },
+                {
+                    "word": " are",
+                    "start": 1.6,
+                    "end": 1.88,
+                    "probability": 0.9816932678222656
+                },
+                {
+                    "word": " strictly",
+                    "start": 1.88,
+                    "end": 2.14,
+                    "probability": 0.9166667461395264
+                },
+                {
+                    "word": " swallowed.",
+                    "start": 2.14,
+                    "end": 2.56,
+                    "probability": 0.43185296654701233
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

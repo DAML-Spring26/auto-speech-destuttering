@@ -1,0 +1,66 @@
+{
+    "text": " This meme is well absolutely hilarious.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.4,
+            "text": " This meme is well absolutely hilarious.",
+            "tokens": [
+                50364,
+                639,
+                21701,
+                307,
+                731,
+                3122,
+                19796,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4027572154998779,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.05955486744642258,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 0.0,
+                    "end": 0.62,
+                    "probability": 0.9080329537391663
+                },
+                {
+                    "word": " meme",
+                    "start": 0.62,
+                    "end": 0.86,
+                    "probability": 0.9723060131072998
+                },
+                {
+                    "word": " is",
+                    "start": 0.86,
+                    "end": 1.04,
+                    "probability": 0.9353137016296387
+                },
+                {
+                    "word": " well",
+                    "start": 1.04,
+                    "end": 1.22,
+                    "probability": 0.9152483344078064
+                },
+                {
+                    "word": " absolutely",
+                    "start": 1.22,
+                    "end": 1.92,
+                    "probability": 0.7368229031562805
+                },
+                {
+                    "word": " hilarious.",
+                    "start": 1.92,
+                    "end": 2.4,
+                    "probability": 0.9967688322067261
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

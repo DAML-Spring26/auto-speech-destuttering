@@ -1,0 +1,80 @@
+{
+    "text": " The hospital needs more medical supplies this month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.36,
+            "text": " The hospital needs more medical supplies this month.",
+            "tokens": [
+                50364,
+                440,
+                4530,
+                2203,
+                544,
+                4625,
+                11768,
+                341,
+                1618,
+                13,
+                50494
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3231428066889445,
+            "compression_ratio": 0.9285714285714286,
+            "no_speech_prob": 0.0017092347843572497,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.8692511320114136
+                },
+                {
+                    "word": " hospital",
+                    "start": 0.1,
+                    "end": 0.54,
+                    "probability": 0.9965393543243408
+                },
+                {
+                    "word": " needs",
+                    "start": 0.54,
+                    "end": 0.84,
+                    "probability": 0.9955059289932251
+                },
+                {
+                    "word": " more",
+                    "start": 0.84,
+                    "end": 1.06,
+                    "probability": 0.9934743046760559
+                },
+                {
+                    "word": " medical",
+                    "start": 1.06,
+                    "end": 1.36,
+                    "probability": 0.9926169514656067
+                },
+                {
+                    "word": " supplies",
+                    "start": 1.36,
+                    "end": 1.76,
+                    "probability": 0.8636806607246399
+                },
+                {
+                    "word": " this",
+                    "start": 1.76,
+                    "end": 2.08,
+                    "probability": 0.9845655560493469
+                },
+                {
+                    "word": " month.",
+                    "start": 2.08,
+                    "end": 2.36,
+                    "probability": 0.998802661895752
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

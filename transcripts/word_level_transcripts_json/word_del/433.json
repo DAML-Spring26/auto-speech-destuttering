@@ -1,0 +1,102 @@
+{
+    "text": " The lifeguard won the currents were too strong for swimming today.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.36,
+            "text": " The lifeguard won the currents were too strong for swimming today.",
+            "tokens": [
+                50364,
+                440,
+                993,
+                27547,
+                1582,
+                264,
+                30110,
+                645,
+                886,
+                2068,
+                337,
+                11989,
+                965,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4804719090461731,
+            "compression_ratio": 0.9705882352941176,
+            "no_speech_prob": 0.008417929522693157,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.8711163997650146
+                },
+                {
+                    "word": " lifeguard",
+                    "start": 0.1,
+                    "end": 0.46,
+                    "probability": 0.5162103623151779
+                },
+                {
+                    "word": " won",
+                    "start": 0.46,
+                    "end": 0.64,
+                    "probability": 0.305875301361084
+                },
+                {
+                    "word": " the",
+                    "start": 0.64,
+                    "end": 0.82,
+                    "probability": 0.5907160639762878
+                },
+                {
+                    "word": " currents",
+                    "start": 0.82,
+                    "end": 1.04,
+                    "probability": 0.3945348560810089
+                },
+                {
+                    "word": " were",
+                    "start": 1.04,
+                    "end": 1.22,
+                    "probability": 0.9488418102264404
+                },
+                {
+                    "word": " too",
+                    "start": 1.22,
+                    "end": 1.38,
+                    "probability": 0.9944726824760437
+                },
+                {
+                    "word": " strong",
+                    "start": 1.38,
+                    "end": 1.64,
+                    "probability": 0.9986355900764465
+                },
+                {
+                    "word": " for",
+                    "start": 1.64,
+                    "end": 1.84,
+                    "probability": 0.9946263432502747
+                },
+                {
+                    "word": " swimming",
+                    "start": 1.84,
+                    "end": 2.08,
+                    "probability": 0.9799897074699402
+                },
+                {
+                    "word": " today.",
+                    "start": 2.08,
+                    "end": 2.36,
+                    "probability": 0.9885116815567017
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

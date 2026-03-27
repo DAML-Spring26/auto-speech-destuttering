@@ -1,0 +1,102 @@
+{
+    "text": " Both the market emptying the sales department will attend a conference.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.36,
+            "text": " Both the market emptying the sales department will attend a conference.",
+            "tokens": [
+                50364,
+                6767,
+                264,
+                2142,
+                6113,
+                1840,
+                264,
+                5763,
+                5882,
+                486,
+                6888,
+                257,
+                7586,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5310286283493042,
+            "compression_ratio": 1.0142857142857142,
+            "no_speech_prob": 0.005456788465380669,
+            "words": [
+                {
+                    "word": " Both",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.6280836462974548
+                },
+                {
+                    "word": " the",
+                    "start": 0.28,
+                    "end": 0.42,
+                    "probability": 0.9508586525917053
+                },
+                {
+                    "word": " market",
+                    "start": 0.42,
+                    "end": 0.7,
+                    "probability": 0.3242930769920349
+                },
+                {
+                    "word": " emptying",
+                    "start": 0.7,
+                    "end": 1.24,
+                    "probability": 0.3307701610028744
+                },
+                {
+                    "word": " the",
+                    "start": 1.24,
+                    "end": 1.38,
+                    "probability": 0.9878692030906677
+                },
+                {
+                    "word": " sales",
+                    "start": 1.38,
+                    "end": 1.68,
+                    "probability": 0.9116228222846985
+                },
+                {
+                    "word": " department",
+                    "start": 1.68,
+                    "end": 2.18,
+                    "probability": 0.9483819603919983
+                },
+                {
+                    "word": " will",
+                    "start": 2.18,
+                    "end": 2.42,
+                    "probability": 0.9910017848014832
+                },
+                {
+                    "word": " attend",
+                    "start": 2.42,
+                    "end": 2.78,
+                    "probability": 0.9926537275314331
+                },
+                {
+                    "word": " a",
+                    "start": 2.78,
+                    "end": 2.94,
+                    "probability": 0.8743622899055481
+                },
+                {
+                    "word": " conference.",
+                    "start": 2.94,
+                    "end": 3.36,
+                    "probability": 0.9960522055625916
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

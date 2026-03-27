@@ -1,0 +1,52 @@
+{
+    "text": " We chose Italian food.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.68,
+            "text": " We chose Italian food.",
+            "tokens": [
+                50364,
+                492,
+                5111,
+                10003,
+                1755,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39275988936424255,
+            "compression_ratio": 0.7333333333333333,
+            "no_speech_prob": 0.0060968101024627686,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.5185434222221375
+                },
+                {
+                    "word": " chose",
+                    "start": 0.16,
+                    "end": 0.8,
+                    "probability": 0.8759858012199402
+                },
+                {
+                    "word": " Italian",
+                    "start": 0.8,
+                    "end": 1.24,
+                    "probability": 0.7760348320007324
+                },
+                {
+                    "word": " food.",
+                    "start": 1.24,
+                    "end": 1.68,
+                    "probability": 0.9217395782470703
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

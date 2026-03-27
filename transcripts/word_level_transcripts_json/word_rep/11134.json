@@ -1,0 +1,124 @@
+{
+    "text": " After the concert, fans gathered outside hoping to get autographs from the band members.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.66,
+            "text": " After the concert, fans gathered outside hoping to get autographs from the band members.",
+            "tokens": [
+                50364,
+                2381,
+                264,
+                8543,
+                11,
+                4499,
+                13032,
+                2380,
+                7159,
+                281,
+                483,
+                36660,
+                82,
+                490,
+                264,
+                4116,
+                2679,
+                13,
+                50772
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33505470752716066,
+            "compression_ratio": 1.1139240506329113,
+            "no_speech_prob": 0.0033650510013103485,
+            "words": [
+                {
+                    "word": " After",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.8527688384056091
+                },
+                {
+                    "word": " the",
+                    "start": 0.42,
+                    "end": 0.68,
+                    "probability": 0.9903813004493713
+                },
+                {
+                    "word": " concert,",
+                    "start": 0.68,
+                    "end": 1.24,
+                    "probability": 0.9562743902206421
+                },
+                {
+                    "word": " fans",
+                    "start": 2.12,
+                    "end": 2.6,
+                    "probability": 0.9849029779434204
+                },
+                {
+                    "word": " gathered",
+                    "start": 2.6,
+                    "end": 2.98,
+                    "probability": 0.9600898027420044
+                },
+                {
+                    "word": " outside",
+                    "start": 2.98,
+                    "end": 3.64,
+                    "probability": 0.9886581301689148
+                },
+                {
+                    "word": " hoping",
+                    "start": 3.64,
+                    "end": 4.08,
+                    "probability": 0.6076111197471619
+                },
+                {
+                    "word": " to",
+                    "start": 4.08,
+                    "end": 4.44,
+                    "probability": 0.9979075193405151
+                },
+                {
+                    "word": " get",
+                    "start": 4.44,
+                    "end": 4.7,
+                    "probability": 0.998499870300293
+                },
+                {
+                    "word": " autographs",
+                    "start": 4.7,
+                    "end": 5.7,
+                    "probability": 0.9647970795631409
+                },
+                {
+                    "word": " from",
+                    "start": 5.7,
+                    "end": 5.86,
+                    "probability": 0.9951457381248474
+                },
+                {
+                    "word": " the",
+                    "start": 5.86,
+                    "end": 6.14,
+                    "probability": 0.49093830585479736
+                },
+                {
+                    "word": " band",
+                    "start": 6.14,
+                    "end": 7.08,
+                    "probability": 0.5740795135498047
+                },
+                {
+                    "word": " members.",
+                    "start": 7.08,
+                    "end": 7.66,
+                    "probability": 0.8966386914253235
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,59 @@
+{
+    "text": " the software update requires insulation.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.88,
+            "text": " the software update requires insulation.",
+            "tokens": [
+                50364,
+                264,
+                4722,
+                5623,
+                7029,
+                30508,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5079278945922852,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.014959517866373062,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.35982996225357056
+                },
+                {
+                    "word": " software",
+                    "start": 0.1,
+                    "end": 0.44,
+                    "probability": 0.917747437953949
+                },
+                {
+                    "word": " update",
+                    "start": 0.44,
+                    "end": 0.8,
+                    "probability": 0.980878472328186
+                },
+                {
+                    "word": " requires",
+                    "start": 0.8,
+                    "end": 1.24,
+                    "probability": 0.9467483758926392
+                },
+                {
+                    "word": " insulation.",
+                    "start": 1.24,
+                    "end": 1.88,
+                    "probability": 0.43599939346313477
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

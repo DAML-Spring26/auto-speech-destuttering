@@ -1,0 +1,54 @@
+{
+    "text": " She's coming, coming tomorrow.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.68,
+            "text": " She's coming, coming tomorrow.",
+            "tokens": [
+                50364,
+                1240,
+                311,
+                1348,
+                11,
+                1348,
+                4153,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3521679401397705,
+            "compression_ratio": 0.9375,
+            "no_speech_prob": 0.009607015177607536,
+            "words": [
+                {
+                    "word": " She's",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.8530447781085968
+                },
+                {
+                    "word": " coming,",
+                    "start": 0.34,
+                    "end": 0.64,
+                    "probability": 0.9941884279251099
+                },
+                {
+                    "word": " coming",
+                    "start": 0.9,
+                    "end": 1.16,
+                    "probability": 0.9952699542045593
+                },
+                {
+                    "word": " tomorrow.",
+                    "start": 1.16,
+                    "end": 1.68,
+                    "probability": 0.9676893949508667
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

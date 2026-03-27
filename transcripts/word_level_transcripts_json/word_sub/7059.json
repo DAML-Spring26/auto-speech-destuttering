@@ -1,0 +1,66 @@
+{
+    "text": " the museum hosts interact to exhaust.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.48,
+            "text": " the museum hosts interact to exhaust.",
+            "tokens": [
+                50364,
+                264,
+                8441,
+                21573,
+                4648,
+                281,
+                14687,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6069490909576416,
+            "compression_ratio": 0.8222222222222222,
+            "no_speech_prob": 0.006636636331677437,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.509497344493866
+                },
+                {
+                    "word": " museum",
+                    "start": 0.14,
+                    "end": 0.5,
+                    "probability": 0.7211687564849854
+                },
+                {
+                    "word": " hosts",
+                    "start": 0.5,
+                    "end": 1.0,
+                    "probability": 0.9437236189842224
+                },
+                {
+                    "word": " interact",
+                    "start": 1.0,
+                    "end": 1.62,
+                    "probability": 0.5611809492111206
+                },
+                {
+                    "word": " to",
+                    "start": 1.62,
+                    "end": 2.0,
+                    "probability": 0.2289927750825882
+                },
+                {
+                    "word": " exhaust.",
+                    "start": 2.0,
+                    "end": 2.48,
+                    "probability": 0.7243236899375916
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

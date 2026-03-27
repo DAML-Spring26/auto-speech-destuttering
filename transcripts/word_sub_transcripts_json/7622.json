@@ -1,0 +1,80 @@
+{
+    "text": " The company implemented a new customer detention strategy.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.84,
+            "text": " The company implemented a new customer detention strategy.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                12270,
+                257,
+                777,
+                5474,
+                31291,
+                5206,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31994424263636273,
+            "compression_ratio": 0.90625,
+            "no_speech_prob": 0.0062863086350262165,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6443250775337219
+                },
+                {
+                    "word": " company",
+                    "start": 0.1,
+                    "end": 0.42,
+                    "probability": 0.9849082231521606
+                },
+                {
+                    "word": " implemented",
+                    "start": 0.42,
+                    "end": 1.0,
+                    "probability": 0.9941543936729431
+                },
+                {
+                    "word": " a",
+                    "start": 1.0,
+                    "end": 1.18,
+                    "probability": 0.992067813873291
+                },
+                {
+                    "word": " new",
+                    "start": 1.18,
+                    "end": 1.32,
+                    "probability": 0.9615471959114075
+                },
+                {
+                    "word": " customer",
+                    "start": 1.32,
+                    "end": 1.66,
+                    "probability": 0.9717599749565125
+                },
+                {
+                    "word": " detention",
+                    "start": 1.66,
+                    "end": 2.14,
+                    "probability": 0.9498485326766968
+                },
+                {
+                    "word": " strategy.",
+                    "start": 2.14,
+                    "end": 2.84,
+                    "probability": 0.9917689561843872
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

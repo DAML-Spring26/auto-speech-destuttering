@@ -1,0 +1,80 @@
+{
+    "text": " She wants to produce a career in medicine.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.04,
+            "text": " She wants to produce a career in medicine.",
+            "tokens": [
+                50364,
+                1240,
+                2738,
+                281,
+                5258,
+                257,
+                3988,
+                294,
+                7195,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41023437182108563,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.002703734440729022,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.7730188965797424
+                },
+                {
+                    "word": " wants",
+                    "start": 0.22,
+                    "end": 0.42,
+                    "probability": 0.9939608573913574
+                },
+                {
+                    "word": " to",
+                    "start": 0.42,
+                    "end": 0.64,
+                    "probability": 0.9975627660751343
+                },
+                {
+                    "word": " produce",
+                    "start": 0.64,
+                    "end": 0.92,
+                    "probability": 0.3416426181793213
+                },
+                {
+                    "word": " a",
+                    "start": 0.92,
+                    "end": 1.08,
+                    "probability": 0.886326789855957
+                },
+                {
+                    "word": " career",
+                    "start": 1.08,
+                    "end": 1.44,
+                    "probability": 0.9980469942092896
+                },
+                {
+                    "word": " in",
+                    "start": 1.44,
+                    "end": 1.64,
+                    "probability": 0.9990766048431396
+                },
+                {
+                    "word": " medicine.",
+                    "start": 1.64,
+                    "end": 2.04,
+                    "probability": 0.9711281657218933
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

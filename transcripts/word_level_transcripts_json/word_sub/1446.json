@@ -1,0 +1,60 @@
+{
+    "text": " their government implemented new registrations.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.74,
+            "text": " their government implemented new registrations.",
+            "tokens": [
+                50364,
+                641,
+                2463,
+                12270,
+                777,
+                11376,
+                12154,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48040099143981935,
+            "compression_ratio": 0.9038461538461539,
+            "no_speech_prob": 0.014346461743116379,
+            "words": [
+                {
+                    "word": " their",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.34603115916252136
+                },
+                {
+                    "word": " government",
+                    "start": 0.14,
+                    "end": 0.52,
+                    "probability": 0.7504017949104309
+                },
+                {
+                    "word": " implemented",
+                    "start": 0.52,
+                    "end": 1.34,
+                    "probability": 0.8446747064590454
+                },
+                {
+                    "word": " new",
+                    "start": 1.34,
+                    "end": 1.64,
+                    "probability": 0.9937891364097595
+                },
+                {
+                    "word": " registrations.",
+                    "start": 1.64,
+                    "end": 2.74,
+                    "probability": 0.9801943898200989
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,95 @@
+{
+    "text": " We planning a surprise party for Dad's birthday next month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.7,
+            "text": " We planning a surprise party for Dad's birthday next month.",
+            "tokens": [
+                50364,
+                492,
+                5038,
+                257,
+                6365,
+                3595,
+                337,
+                5639,
+                311,
+                6154,
+                958,
+                1618,
+                13,
+                50510
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30115633010864257,
+            "compression_ratio": 0.8939393939393939,
+            "no_speech_prob": 0.009002109058201313,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5198808908462524
+                },
+                {
+                    "word": " planning",
+                    "start": 0.12,
+                    "end": 0.42,
+                    "probability": 0.5855411887168884
+                },
+                {
+                    "word": " a",
+                    "start": 0.42,
+                    "end": 0.58,
+                    "probability": 0.9866907596588135
+                },
+                {
+                    "word": " surprise",
+                    "start": 0.58,
+                    "end": 0.9,
+                    "probability": 0.9663453102111816
+                },
+                {
+                    "word": " party",
+                    "start": 0.9,
+                    "end": 1.36,
+                    "probability": 0.9956446886062622
+                },
+                {
+                    "word": " for",
+                    "start": 1.36,
+                    "end": 1.56,
+                    "probability": 0.992970883846283
+                },
+                {
+                    "word": " Dad's",
+                    "start": 1.56,
+                    "end": 1.92,
+                    "probability": 0.8822759687900543
+                },
+                {
+                    "word": " birthday",
+                    "start": 1.92,
+                    "end": 2.24,
+                    "probability": 0.9002946615219116
+                },
+                {
+                    "word": " next",
+                    "start": 2.24,
+                    "end": 2.48,
+                    "probability": 0.9951379895210266
+                },
+                {
+                    "word": " month.",
+                    "start": 2.48,
+                    "end": 2.7,
+                    "probability": 0.9956034421920776
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

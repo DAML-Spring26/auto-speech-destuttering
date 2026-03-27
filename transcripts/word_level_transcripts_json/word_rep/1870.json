@@ -1,0 +1,101 @@
+{
+    "text": " He wondered if she would arrive on time for the concert.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.44,
+            "text": " He wondered if she would arrive on time for the concert.",
+            "tokens": [
+                50364,
+                634,
+                17055,
+                498,
+                750,
+                576,
+                8881,
+                322,
+                565,
+                337,
+                264,
+                8543,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32651700973510744,
+            "compression_ratio": 0.9333333333333333,
+            "no_speech_prob": 0.009840567596256733,
+            "words": [
+                {
+                    "word": " He",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6780775189399719
+                },
+                {
+                    "word": " wondered",
+                    "start": 0.12,
+                    "end": 0.5,
+                    "probability": 0.9493566155433655
+                },
+                {
+                    "word": " if",
+                    "start": 0.5,
+                    "end": 0.94,
+                    "probability": 0.9910258650779724
+                },
+                {
+                    "word": " she",
+                    "start": 0.94,
+                    "end": 1.54,
+                    "probability": 0.46177762746810913
+                },
+                {
+                    "word": " would",
+                    "start": 1.54,
+                    "end": 1.7,
+                    "probability": 0.950442373752594
+                },
+                {
+                    "word": " arrive",
+                    "start": 1.7,
+                    "end": 2.0,
+                    "probability": 0.9746347069740295
+                },
+                {
+                    "word": " on",
+                    "start": 2.0,
+                    "end": 2.3,
+                    "probability": 0.964893639087677
+                },
+                {
+                    "word": " time",
+                    "start": 2.3,
+                    "end": 2.6,
+                    "probability": 0.9951817393302917
+                },
+                {
+                    "word": " for",
+                    "start": 2.6,
+                    "end": 2.88,
+                    "probability": 0.9908329844474792
+                },
+                {
+                    "word": " the",
+                    "start": 2.88,
+                    "end": 3.0,
+                    "probability": 0.9894720911979675
+                },
+                {
+                    "word": " concert.",
+                    "start": 3.0,
+                    "end": 3.44,
+                    "probability": 0.9842029809951782
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

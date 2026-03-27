@@ -1,0 +1,95 @@
+{
+    "text": " I can't decide to accept the job offer or not.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.6,
+            "text": " I can't decide to accept the job offer or not.",
+            "tokens": [
+                50364,
+                286,
+                393,
+                380,
+                4536,
+                281,
+                3241,
+                264,
+                1691,
+                2626,
+                420,
+                406,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33798367182413735,
+            "compression_ratio": 0.8518518518518519,
+            "no_speech_prob": 0.007614209316670895,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.9376595616340637
+                },
+                {
+                    "word": " can't",
+                    "start": 0.18,
+                    "end": 0.52,
+                    "probability": 0.9690141081809998
+                },
+                {
+                    "word": " decide",
+                    "start": 0.52,
+                    "end": 0.82,
+                    "probability": 0.9977230429649353
+                },
+                {
+                    "word": " to",
+                    "start": 0.82,
+                    "end": 1.04,
+                    "probability": 0.9967215657234192
+                },
+                {
+                    "word": " accept",
+                    "start": 1.04,
+                    "end": 1.36,
+                    "probability": 0.9898968935012817
+                },
+                {
+                    "word": " the",
+                    "start": 1.36,
+                    "end": 1.56,
+                    "probability": 0.8434225916862488
+                },
+                {
+                    "word": " job",
+                    "start": 1.56,
+                    "end": 1.74,
+                    "probability": 0.3552614450454712
+                },
+                {
+                    "word": " offer",
+                    "start": 1.74,
+                    "end": 2.12,
+                    "probability": 0.6090573072433472
+                },
+                {
+                    "word": " or",
+                    "start": 2.12,
+                    "end": 2.38,
+                    "probability": 0.9744568467140198
+                },
+                {
+                    "word": " not.",
+                    "start": 2.38,
+                    "end": 2.6,
+                    "probability": 0.994610071182251
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

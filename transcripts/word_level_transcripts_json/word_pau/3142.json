@@ -1,0 +1,133 @@
+{
+    "text": " Emergency services are responding to your a multi vehicle collision on a freeway.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.9,
+            "text": " Emergency services are responding to your",
+            "tokens": [
+                50364,
+                30524,
+                3328,
+                366,
+                16670,
+                281,
+                428,
+                50520
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.584404706954956,
+            "compression_ratio": 1.08,
+            "no_speech_prob": 0.0188905056566,
+            "words": [
+                {
+                    "word": " Emergency",
+                    "start": 0.0,
+                    "end": 0.54,
+                    "probability": 0.47838541865348816
+                },
+                {
+                    "word": " services",
+                    "start": 0.54,
+                    "end": 1.4,
+                    "probability": 0.9150394797325134
+                },
+                {
+                    "word": " are",
+                    "start": 1.4,
+                    "end": 1.68,
+                    "probability": 0.9832825660705566
+                },
+                {
+                    "word": " responding",
+                    "start": 1.68,
+                    "end": 2.38,
+                    "probability": 0.9887864589691162
+                },
+                {
+                    "word": " to",
+                    "start": 2.38,
+                    "end": 2.74,
+                    "probability": 0.9700508713722229
+                },
+                {
+                    "word": " your",
+                    "start": 2.74,
+                    "end": 2.9,
+                    "probability": 0.8513522744178772
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.48,
+            "end": 8.46,
+            "text": " a multi vehicle collision on a freeway.",
+            "tokens": [
+                50638,
+                257,
+                4825,
+                5864,
+                24644,
+                322,
+                257,
+                1737,
+                676,
+                13,
+                50798
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.584404706954956,
+            "compression_ratio": 1.08,
+            "no_speech_prob": 0.0188905056566,
+            "words": [
+                {
+                    "word": " a",
+                    "start": 5.25,
+                    "end": 5.74,
+                    "probability": 0.05328231677412987
+                },
+                {
+                    "word": " multi",
+                    "start": 5.74,
+                    "end": 6.24,
+                    "probability": 0.6412249207496643
+                },
+                {
+                    "word": " vehicle",
+                    "start": 6.24,
+                    "end": 6.88,
+                    "probability": 0.7789307832717896
+                },
+                {
+                    "word": " collision",
+                    "start": 6.88,
+                    "end": 7.52,
+                    "probability": 0.9883885979652405
+                },
+                {
+                    "word": " on",
+                    "start": 7.52,
+                    "end": 7.84,
+                    "probability": 0.9935439825057983
+                },
+                {
+                    "word": " a",
+                    "start": 7.84,
+                    "end": 7.98,
+                    "probability": 0.6523924469947815
+                },
+                {
+                    "word": " freeway.",
+                    "start": 7.98,
+                    "end": 8.46,
+                    "probability": 0.9825100600719452
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

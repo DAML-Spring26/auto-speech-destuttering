@@ -1,0 +1,66 @@
+{
+    "text": " international trade agreements affect local markets.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.18,
+            "text": " international trade agreements affect local markets.",
+            "tokens": [
+                50364,
+                5058,
+                4923,
+                21422,
+                3345,
+                2654,
+                8383,
+                13,
+                50488
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37059431076049804,
+            "compression_ratio": 0.9454545454545454,
+            "no_speech_prob": 0.008062882348895073,
+            "words": [
+                {
+                    "word": " international",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.47413817048072815
+                },
+                {
+                    "word": " trade",
+                    "start": 0.42,
+                    "end": 0.84,
+                    "probability": 0.9797377586364746
+                },
+                {
+                    "word": " agreements",
+                    "start": 0.84,
+                    "end": 1.14,
+                    "probability": 0.9683560729026794
+                },
+                {
+                    "word": " affect",
+                    "start": 1.14,
+                    "end": 1.48,
+                    "probability": 0.9556939005851746
+                },
+                {
+                    "word": " local",
+                    "start": 1.48,
+                    "end": 1.76,
+                    "probability": 0.9896905422210693
+                },
+                {
+                    "word": " markets.",
+                    "start": 1.76,
+                    "end": 2.18,
+                    "probability": 0.984000563621521
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

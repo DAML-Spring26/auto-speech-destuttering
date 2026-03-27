@@ -1,0 +1,73 @@
+{
+    "text": " The financial analysis shows positive growth friends.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.2,
+            "text": " The financial analysis shows positive growth friends.",
+            "tokens": [
+                50364,
+                440,
+                4669,
+                5215,
+                3110,
+                3353,
+                4599,
+                1855,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39907073974609375,
+            "compression_ratio": 0.8833333333333333,
+            "no_speech_prob": 0.004262745846062899,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.9461495280265808
+                },
+                {
+                    "word": " financial",
+                    "start": 0.1,
+                    "end": 0.78,
+                    "probability": 0.9004731774330139
+                },
+                {
+                    "word": " analysis",
+                    "start": 0.78,
+                    "end": 1.42,
+                    "probability": 0.9986218214035034
+                },
+                {
+                    "word": " shows",
+                    "start": 1.42,
+                    "end": 1.84,
+                    "probability": 0.9887035489082336
+                },
+                {
+                    "word": " positive",
+                    "start": 1.84,
+                    "end": 2.4,
+                    "probability": 0.9834281802177429
+                },
+                {
+                    "word": " growth",
+                    "start": 2.4,
+                    "end": 2.72,
+                    "probability": 0.901714563369751
+                },
+                {
+                    "word": " friends.",
+                    "start": 2.72,
+                    "end": 3.2,
+                    "probability": 0.40941122174263
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

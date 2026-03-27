@@ -1,0 +1,87 @@
+{
+    "text": " We need to optimize the algorithm for better preference.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.86,
+            "text": " We need to optimize the algorithm for better preference.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                19719,
+                264,
+                9284,
+                337,
+                1101,
+                17502,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37200157458965594,
+            "compression_ratio": 0.9333333333333333,
+            "no_speech_prob": 0.0019265073351562023,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5839462280273438
+                },
+                {
+                    "word": " need",
+                    "start": 0.14,
+                    "end": 0.32,
+                    "probability": 0.9957249164581299
+                },
+                {
+                    "word": " to",
+                    "start": 0.32,
+                    "end": 0.54,
+                    "probability": 0.9988229870796204
+                },
+                {
+                    "word": " optimize",
+                    "start": 0.54,
+                    "end": 1.0,
+                    "probability": 0.5567401051521301
+                },
+                {
+                    "word": " the",
+                    "start": 1.0,
+                    "end": 1.3,
+                    "probability": 0.9661874771118164
+                },
+                {
+                    "word": " algorithm",
+                    "start": 1.3,
+                    "end": 1.8,
+                    "probability": 0.9268743991851807
+                },
+                {
+                    "word": " for",
+                    "start": 1.8,
+                    "end": 2.14,
+                    "probability": 0.9905994534492493
+                },
+                {
+                    "word": " better",
+                    "start": 2.14,
+                    "end": 2.42,
+                    "probability": 0.9970031380653381
+                },
+                {
+                    "word": " preference.",
+                    "start": 2.42,
+                    "end": 2.86,
+                    "probability": 0.8882808089256287
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

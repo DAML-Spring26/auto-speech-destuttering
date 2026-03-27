@@ -1,0 +1,94 @@
+{
+    "text": " We should revise our policies to align with new regulations.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.54,
+            "text": " We should revise our policies to align with new regulations.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                44252,
+                527,
+                7657,
+                281,
+                7975,
+                365,
+                777,
+                12563,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29791927337646484,
+            "compression_ratio": 0.9375,
+            "no_speech_prob": 0.018749646842479706,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6275086402893066
+                },
+                {
+                    "word": " should",
+                    "start": 0.16,
+                    "end": 0.38,
+                    "probability": 0.995238184928894
+                },
+                {
+                    "word": " revise",
+                    "start": 0.38,
+                    "end": 0.8,
+                    "probability": 0.9925623536109924
+                },
+                {
+                    "word": " our",
+                    "start": 0.8,
+                    "end": 1.02,
+                    "probability": 0.9898927807807922
+                },
+                {
+                    "word": " policies",
+                    "start": 1.02,
+                    "end": 1.58,
+                    "probability": 0.9858675599098206
+                },
+                {
+                    "word": " to",
+                    "start": 1.58,
+                    "end": 2.08,
+                    "probability": 0.7596845030784607
+                },
+                {
+                    "word": " align",
+                    "start": 2.08,
+                    "end": 4.44,
+                    "probability": 0.361702024936676
+                },
+                {
+                    "word": " with",
+                    "start": 4.44,
+                    "end": 4.78,
+                    "probability": 0.9973964691162109
+                },
+                {
+                    "word": " new",
+                    "start": 4.78,
+                    "end": 4.92,
+                    "probability": 0.9885765910148621
+                },
+                {
+                    "word": " regulations.",
+                    "start": 4.92,
+                    "end": 5.54,
+                    "probability": 0.9973092079162598
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

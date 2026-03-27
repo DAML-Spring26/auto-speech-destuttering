@@ -1,0 +1,66 @@
+{
+    "text": " Please submit your process report weekly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.16,
+            "text": " Please submit your process report weekly.",
+            "tokens": [
+                50364,
+                2555,
+                10315,
+                428,
+                1399,
+                2275,
+                12460,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3977534055709839,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.011737046763300896,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.6905287504196167
+                },
+                {
+                    "word": " submit",
+                    "start": 0.24,
+                    "end": 0.62,
+                    "probability": 0.9895022511482239
+                },
+                {
+                    "word": " your",
+                    "start": 0.62,
+                    "end": 0.82,
+                    "probability": 0.9896982312202454
+                },
+                {
+                    "word": " process",
+                    "start": 0.82,
+                    "end": 1.2,
+                    "probability": 0.9403643608093262
+                },
+                {
+                    "word": " report",
+                    "start": 1.2,
+                    "end": 1.66,
+                    "probability": 0.9265950918197632
+                },
+                {
+                    "word": " weekly.",
+                    "start": 1.66,
+                    "end": 2.16,
+                    "probability": 0.9861705303192139
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

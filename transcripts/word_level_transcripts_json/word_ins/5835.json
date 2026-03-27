@@ -1,0 +1,116 @@
+{
+    "text": " Welcome aboard, our flight to Paris will be you know taking off shortly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.04,
+            "text": " Welcome aboard, our flight to Paris will be you know taking off shortly.",
+            "tokens": [
+                50364,
+                4027,
+                27488,
+                11,
+                527,
+                7018,
+                281,
+                8380,
+                486,
+                312,
+                291,
+                458,
+                1940,
+                766,
+                13392,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2016068696975708,
+            "compression_ratio": 0.9863013698630136,
+            "no_speech_prob": 0.025260277092456818,
+            "words": [
+                {
+                    "word": " Welcome",
+                    "start": 0.0,
+                    "end": 0.46,
+                    "probability": 0.9492393732070923
+                },
+                {
+                    "word": " aboard,",
+                    "start": 0.46,
+                    "end": 0.82,
+                    "probability": 0.9978356957435608
+                },
+                {
+                    "word": " our",
+                    "start": 1.12,
+                    "end": 1.2,
+                    "probability": 0.9731599688529968
+                },
+                {
+                    "word": " flight",
+                    "start": 1.2,
+                    "end": 1.42,
+                    "probability": 0.9463787078857422
+                },
+                {
+                    "word": " to",
+                    "start": 1.42,
+                    "end": 1.54,
+                    "probability": 0.9990179538726807
+                },
+                {
+                    "word": " Paris",
+                    "start": 1.54,
+                    "end": 1.8,
+                    "probability": 0.9952415227890015
+                },
+                {
+                    "word": " will",
+                    "start": 1.8,
+                    "end": 1.98,
+                    "probability": 0.9983041286468506
+                },
+                {
+                    "word": " be",
+                    "start": 1.98,
+                    "end": 2.08,
+                    "probability": 0.9986101388931274
+                },
+                {
+                    "word": " you",
+                    "start": 2.08,
+                    "end": 2.2,
+                    "probability": 0.9564859867095947
+                },
+                {
+                    "word": " know",
+                    "start": 2.2,
+                    "end": 2.32,
+                    "probability": 0.8626824617385864
+                },
+                {
+                    "word": " taking",
+                    "start": 2.32,
+                    "end": 2.6,
+                    "probability": 0.9764625430107117
+                },
+                {
+                    "word": " off",
+                    "start": 2.6,
+                    "end": 2.78,
+                    "probability": 0.984762966632843
+                },
+                {
+                    "word": " shortly.",
+                    "start": 2.78,
+                    "end": 3.04,
+                    "probability": 0.9955222606658936
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

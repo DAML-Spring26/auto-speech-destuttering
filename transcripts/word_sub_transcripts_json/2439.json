@@ -1,0 +1,66 @@
+{
+    "text": " Please submit the report by Friday.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.62,
+            "text": " Please submit the report by Friday.",
+            "tokens": [
+                50364,
+                2555,
+                10315,
+                264,
+                2275,
+                538,
+                6984,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39991781711578367,
+            "compression_ratio": 0.813953488372093,
+            "no_speech_prob": 0.017830612137913704,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.4588969647884369
+                },
+                {
+                    "word": " submit",
+                    "start": 0.2,
+                    "end": 0.52,
+                    "probability": 0.4379071891307831
+                },
+                {
+                    "word": " the",
+                    "start": 0.52,
+                    "end": 0.7,
+                    "probability": 0.982329785823822
+                },
+                {
+                    "word": " report",
+                    "start": 0.7,
+                    "end": 0.96,
+                    "probability": 0.9918773174285889
+                },
+                {
+                    "word": " by",
+                    "start": 0.96,
+                    "end": 1.22,
+                    "probability": 0.9870051145553589
+                },
+                {
+                    "word": " Friday.",
+                    "start": 1.22,
+                    "end": 1.62,
+                    "probability": 0.9915037751197815
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

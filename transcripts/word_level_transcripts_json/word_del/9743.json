@@ -1,0 +1,110 @@
+{
+    "text": " The hotel concierge can assist you booking tours and making restaurant reservations.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.38,
+            "text": " The hotel concierge can assist you booking tours and making restaurant reservations.",
+            "tokens": [
+                50364,
+                440,
+                7622,
+                416,
+                27674,
+                432,
+                393,
+                4255,
+                291,
+                34424,
+                22911,
+                293,
+                1455,
+                6383,
+                40222,
+                13,
+                50556
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3991352981991238,
+            "compression_ratio": 1.105263157894737,
+            "no_speech_prob": 0.00862869992852211,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8886054754257202
+                },
+                {
+                    "word": " hotel",
+                    "start": 0.12,
+                    "end": 0.36,
+                    "probability": 0.757354736328125
+                },
+                {
+                    "word": " concierge",
+                    "start": 0.36,
+                    "end": 0.94,
+                    "probability": 0.6229864060878754
+                },
+                {
+                    "word": " can",
+                    "start": 0.94,
+                    "end": 1.04,
+                    "probability": 0.9919992089271545
+                },
+                {
+                    "word": " assist",
+                    "start": 1.04,
+                    "end": 1.28,
+                    "probability": 0.8747417330741882
+                },
+                {
+                    "word": " you",
+                    "start": 1.28,
+                    "end": 1.46,
+                    "probability": 0.9197120666503906
+                },
+                {
+                    "word": " booking",
+                    "start": 1.46,
+                    "end": 1.68,
+                    "probability": 0.5220690369606018
+                },
+                {
+                    "word": " tours",
+                    "start": 1.68,
+                    "end": 2.0,
+                    "probability": 0.9703136682510376
+                },
+                {
+                    "word": " and",
+                    "start": 2.0,
+                    "end": 2.16,
+                    "probability": 0.9258671998977661
+                },
+                {
+                    "word": " making",
+                    "start": 2.16,
+                    "end": 2.34,
+                    "probability": 0.8888294696807861
+                },
+                {
+                    "word": " restaurant",
+                    "start": 2.34,
+                    "end": 2.74,
+                    "probability": 0.9636918306350708
+                },
+                {
+                    "word": " reservations.",
+                    "start": 2.74,
+                    "end": 3.38,
+                    "probability": 0.9950384497642517
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

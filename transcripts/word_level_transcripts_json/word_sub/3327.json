@@ -1,0 +1,73 @@
+{
+    "text": " We need to progress this request immediately.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.26,
+            "text": " We need to progress this request immediately.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                4205,
+                341,
+                5308,
+                4258,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3871729157187722,
+            "compression_ratio": 0.8490566037735849,
+            "no_speech_prob": 0.005016258917748928,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.6583128571510315
+                },
+                {
+                    "word": " need",
+                    "start": 0.18,
+                    "end": 0.34,
+                    "probability": 0.9970892071723938
+                },
+                {
+                    "word": " to",
+                    "start": 0.34,
+                    "end": 0.52,
+                    "probability": 0.999112069606781
+                },
+                {
+                    "word": " progress",
+                    "start": 0.52,
+                    "end": 0.88,
+                    "probability": 0.9743437767028809
+                },
+                {
+                    "word": " this",
+                    "start": 0.88,
+                    "end": 1.2,
+                    "probability": 0.9873631596565247
+                },
+                {
+                    "word": " request",
+                    "start": 1.2,
+                    "end": 1.6,
+                    "probability": 0.986777663230896
+                },
+                {
+                    "word": " immediately.",
+                    "start": 1.6,
+                    "end": 2.26,
+                    "probability": 0.993399977684021
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

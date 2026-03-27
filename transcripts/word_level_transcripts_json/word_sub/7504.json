@@ -1,0 +1,74 @@
+{
+    "text": " the philosopher upon the denature of coincidence.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.3,
+            "text": " the philosopher upon the denature of coincidence.",
+            "tokens": [
+                50364,
+                264,
+                29805,
+                3564,
+                264,
+                1441,
+                1503,
+                295,
+                22137,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5128798484802246,
+            "compression_ratio": 0.9074074074074074,
+            "no_speech_prob": 0.003830454545095563,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.3365694284439087
+                },
+                {
+                    "word": " philosopher",
+                    "start": 0.12,
+                    "end": 0.62,
+                    "probability": 0.8380241394042969
+                },
+                {
+                    "word": " upon",
+                    "start": 0.62,
+                    "end": 1.04,
+                    "probability": 0.7475254535675049
+                },
+                {
+                    "word": " the",
+                    "start": 1.04,
+                    "end": 1.18,
+                    "probability": 0.9924206137657166
+                },
+                {
+                    "word": " denature",
+                    "start": 1.18,
+                    "end": 1.62,
+                    "probability": 0.6242085099220276
+                },
+                {
+                    "word": " of",
+                    "start": 1.62,
+                    "end": 1.86,
+                    "probability": 0.9929177761077881
+                },
+                {
+                    "word": " coincidence.",
+                    "start": 1.86,
+                    "end": 2.3,
+                    "probability": 0.6069983243942261
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

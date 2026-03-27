@@ -1,0 +1,87 @@
+{
+    "text": " The new operating system is compatible with older hardware.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.66,
+            "text": " The new operating system is compatible with older hardware.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                7447,
+                1185,
+                307,
+                18218,
+                365,
+                4906,
+                8837,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2825752771817721,
+            "compression_ratio": 0.9076923076923077,
+            "no_speech_prob": 0.003078196197748184,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7179102301597595
+                },
+                {
+                    "word": " new",
+                    "start": 0.14,
+                    "end": 0.36,
+                    "probability": 0.9740269184112549
+                },
+                {
+                    "word": " operating",
+                    "start": 0.36,
+                    "end": 0.84,
+                    "probability": 0.9699079990386963
+                },
+                {
+                    "word": " system",
+                    "start": 0.84,
+                    "end": 1.4,
+                    "probability": 0.9958171248435974
+                },
+                {
+                    "word": " is",
+                    "start": 1.4,
+                    "end": 1.72,
+                    "probability": 0.9895195960998535
+                },
+                {
+                    "word": " compatible",
+                    "start": 1.72,
+                    "end": 5.46,
+                    "probability": 0.5176178216934204
+                },
+                {
+                    "word": " with",
+                    "start": 5.46,
+                    "end": 5.96,
+                    "probability": 0.9982864260673523
+                },
+                {
+                    "word": " older",
+                    "start": 5.96,
+                    "end": 6.2,
+                    "probability": 0.6059026122093201
+                },
+                {
+                    "word": " hardware.",
+                    "start": 6.2,
+                    "end": 6.66,
+                    "probability": 0.9918490648269653
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

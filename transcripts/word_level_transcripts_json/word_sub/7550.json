@@ -1,0 +1,85 @@
+{
+    "text": " our company's quarterly and in-succeeded market inspections.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.66,
+            "text": " our company's quarterly and in-succeeded market inspections.",
+            "tokens": [
+                50364,
+                527,
+                2237,
+                311,
+                38633,
+                293,
+                294,
+                12,
+                82,
+                1311,
+                4357,
+                292,
+                2142,
+                46544,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4669658997479607,
+            "compression_ratio": 0.9375,
+            "no_speech_prob": 0.007056062109768391,
+            "words": [
+                {
+                    "word": " our",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7647088170051575
+                },
+                {
+                    "word": " company's",
+                    "start": 0.16,
+                    "end": 0.72,
+                    "probability": 0.9268063008785248
+                },
+                {
+                    "word": " quarterly",
+                    "start": 0.72,
+                    "end": 1.02,
+                    "probability": 0.46310633420944214
+                },
+                {
+                    "word": " and",
+                    "start": 1.02,
+                    "end": 1.26,
+                    "probability": 0.8581111431121826
+                },
+                {
+                    "word": " in",
+                    "start": 1.26,
+                    "end": 1.36,
+                    "probability": 0.7305221557617188
+                },
+                {
+                    "word": "-succeeded",
+                    "start": 1.36,
+                    "end": 1.88,
+                    "probability": 0.6725539147853852
+                },
+                {
+                    "word": " market",
+                    "start": 1.88,
+                    "end": 2.1,
+                    "probability": 0.919053852558136
+                },
+                {
+                    "word": " inspections.",
+                    "start": 2.1,
+                    "end": 2.66,
+                    "probability": 0.5443963408470154
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

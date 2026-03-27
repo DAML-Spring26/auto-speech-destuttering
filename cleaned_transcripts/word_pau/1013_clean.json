@@ -1,5 +1,5 @@
 {
-    "text": " What's your favorite scene from? The movie we watched last night.",
+    "text": " What's your favorite scene from? You...",
     "segments": [
         {
             "id": 0,
@@ -19,31 +19,26 @@
                 50464
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.5077862990529913,
-            "compression_ratio": 0.9154929577464789,
-            "no_speech_prob": 0.01678318716585636
+            "avg_logprob": -0.8823135920933315,
+            "compression_ratio": 0.8297872340425532,
+            "no_speech_prob": 0.03493364900350571
         },
         {
             "id": 1,
             "seek": 0,
             "start": 5.3,
-            "end": 7.6000000000000005,
-            "text": " The movie we watched last night.",
+            "end": 5.8,
+            "text": " You...",
             "tokens": [
                 50629,
-                440,
-                3169,
-                321,
-                6337,
-                1036,
-                1818,
-                13,
-                50744
+                509,
+                485,
+                50654
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.5077862990529913,
-            "compression_ratio": 0.9154929577464789,
-            "no_speech_prob": 0.01678318716585636
+            "avg_logprob": -0.8823135920933315,
+            "compression_ratio": 0.8297872340425532,
+            "no_speech_prob": 0.03493364900350571
         }
     ],
     "language": "en"

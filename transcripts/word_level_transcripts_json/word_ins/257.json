@@ -1,0 +1,80 @@
+{
+    "text": " Could you please pass me the salt well?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.9799999999999995,
+            "end": 3.0,
+            "text": " Could you please pass me the salt well?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                1320,
+                385,
+                264,
+                5139,
+                731,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.379265824953715,
+            "compression_ratio": 0.8297872340425532,
+            "no_speech_prob": 0.07585497945547104,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.9799999999999995,
+                    "end": 1.46,
+                    "probability": 0.9474411606788635
+                },
+                {
+                    "word": " you",
+                    "start": 1.46,
+                    "end": 1.6,
+                    "probability": 0.9972532391548157
+                },
+                {
+                    "word": " please",
+                    "start": 1.6,
+                    "end": 1.86,
+                    "probability": 0.9941806197166443
+                },
+                {
+                    "word": " pass",
+                    "start": 1.86,
+                    "end": 2.14,
+                    "probability": 0.9855889678001404
+                },
+                {
+                    "word": " me",
+                    "start": 2.14,
+                    "end": 2.34,
+                    "probability": 0.9947781562805176
+                },
+                {
+                    "word": " the",
+                    "start": 2.34,
+                    "end": 2.48,
+                    "probability": 0.9911264777183533
+                },
+                {
+                    "word": " salt",
+                    "start": 2.48,
+                    "end": 2.76,
+                    "probability": 0.9130666255950928
+                },
+                {
+                    "word": " well?",
+                    "start": 2.76,
+                    "end": 3.0,
+                    "probability": 0.8522267937660217
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

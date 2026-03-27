@@ -1,0 +1,68 @@
+{
+    "text": " The company's profit margin increases sustainably.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " The company's profit margin increases sustainably.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                7475,
+                10270,
+                8637,
+                6769,
+                1188,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4647926092147827,
+            "compression_ratio": 0.8620689655172413,
+            "no_speech_prob": 0.009842714294791222,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.41938260197639465
+                },
+                {
+                    "word": " company's",
+                    "start": 0.1,
+                    "end": 0.6,
+                    "probability": 0.9697415828704834
+                },
+                {
+                    "word": " profit",
+                    "start": 0.6,
+                    "end": 0.82,
+                    "probability": 0.9958420395851135
+                },
+                {
+                    "word": " margin",
+                    "start": 0.82,
+                    "end": 1.12,
+                    "probability": 0.9961126446723938
+                },
+                {
+                    "word": " increases",
+                    "start": 1.12,
+                    "end": 1.48,
+                    "probability": 0.6524396538734436
+                },
+                {
+                    "word": " sustainably.",
+                    "start": 1.48,
+                    "end": 2.0,
+                    "probability": 0.6455989181995392
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

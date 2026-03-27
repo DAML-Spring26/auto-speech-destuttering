@@ -1,0 +1,94 @@
+{
+    "text": " How long is the boss right to the city centre?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.88,
+            "text": " How long is the boss right to the city centre?",
+            "tokens": [
+                50364,
+                1012,
+                938,
+                307,
+                264,
+                5741,
+                558,
+                281,
+                264,
+                2307,
+                10093,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5013923985617501,
+            "compression_ratio": 0.9019607843137255,
+            "no_speech_prob": 0.006303970701992512,
+            "words": [
+                {
+                    "word": " How",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.5925313830375671
+                },
+                {
+                    "word": " long",
+                    "start": 0.16,
+                    "end": 0.4,
+                    "probability": 0.8562553524971008
+                },
+                {
+                    "word": " is",
+                    "start": 0.4,
+                    "end": 0.56,
+                    "probability": 0.9547637701034546
+                },
+                {
+                    "word": " the",
+                    "start": 0.56,
+                    "end": 0.74,
+                    "probability": 0.9647538661956787
+                },
+                {
+                    "word": " boss",
+                    "start": 0.74,
+                    "end": 0.96,
+                    "probability": 0.7205598950386047
+                },
+                {
+                    "word": " right",
+                    "start": 0.96,
+                    "end": 1.24,
+                    "probability": 0.28525787591934204
+                },
+                {
+                    "word": " to",
+                    "start": 1.24,
+                    "end": 1.44,
+                    "probability": 0.6589338779449463
+                },
+                {
+                    "word": " the",
+                    "start": 1.44,
+                    "end": 1.78,
+                    "probability": 0.775397777557373
+                },
+                {
+                    "word": " city",
+                    "start": 1.78,
+                    "end": 3.36,
+                    "probability": 0.7901437282562256
+                },
+                {
+                    "word": " centre?",
+                    "start": 3.36,
+                    "end": 3.88,
+                    "probability": 0.46966472268104553
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

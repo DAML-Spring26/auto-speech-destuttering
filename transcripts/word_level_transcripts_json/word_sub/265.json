@@ -1,0 +1,52 @@
+{
+    "text": " they process potential solutions.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.04,
+            "text": " they process potential solutions.",
+            "tokens": [
+                50364,
+                436,
+                1399,
+                3995,
+                6547,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47096097469329834,
+            "compression_ratio": 0.8048780487804879,
+            "no_speech_prob": 0.00568118691444397,
+            "words": [
+                {
+                    "word": " they",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5376569628715515
+                },
+                {
+                    "word": " process",
+                    "start": 0.14,
+                    "end": 0.62,
+                    "probability": 0.9875779747962952
+                },
+                {
+                    "word": " potential",
+                    "start": 0.62,
+                    "end": 1.24,
+                    "probability": 0.9930962920188904
+                },
+                {
+                    "word": " solutions.",
+                    "start": 1.24,
+                    "end": 2.04,
+                    "probability": 0.9931081533432007
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

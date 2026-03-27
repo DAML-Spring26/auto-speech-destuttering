@@ -1,12 +1,12 @@
 {
-    "text": " The new policy adopted by the Board of Directors last quarter.",
+    "text": " The new policy adopted by the Board of Law.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 3.16,
-            "text": " The new policy adopted by the Board of Directors last quarter.",
+            "end": 2.0,
+            "text": " The new policy adopted by the Board of Law.",
             "tokens": [
                 50364,
                 440,
@@ -17,17 +17,14 @@
                 264,
                 10008,
                 295,
-                5822,
-                5547,
-                1036,
-                6555,
+                7744,
                 13,
-                50522
+                50464
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.29741212725639343,
-            "compression_ratio": 0.8985507246376812,
-            "no_speech_prob": 0.0026259548030793667
+            "avg_logprob": -0.3711260648874136,
+            "compression_ratio": 0.86,
+            "no_speech_prob": 0.003019650001078844
         }
     ],
     "language": "en"

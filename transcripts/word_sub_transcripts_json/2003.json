@@ -1,0 +1,66 @@
+{
+    "text": " Please assure all doors are locked.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.86,
+            "text": " Please assure all doors are locked.",
+            "tokens": [
+                50364,
+                2555,
+                20968,
+                439,
+                8077,
+                366,
+                9376,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42201595306396483,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.018252814188599586,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.5277541279792786
+                },
+                {
+                    "word": " assure",
+                    "start": 0.2,
+                    "end": 0.66,
+                    "probability": 0.6342727541923523
+                },
+                {
+                    "word": " all",
+                    "start": 0.66,
+                    "end": 1.02,
+                    "probability": 0.8585237264633179
+                },
+                {
+                    "word": " doors",
+                    "start": 1.02,
+                    "end": 1.4,
+                    "probability": 0.9962806105613708
+                },
+                {
+                    "word": " are",
+                    "start": 1.4,
+                    "end": 1.6,
+                    "probability": 0.9963815212249756
+                },
+                {
+                    "word": " locked.",
+                    "start": 1.6,
+                    "end": 1.86,
+                    "probability": 0.9887871146202087
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

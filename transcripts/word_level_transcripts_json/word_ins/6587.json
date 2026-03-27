@@ -1,0 +1,73 @@
+{
+    "text": " The project deadline is on next Friday.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.6,
+            "text": " The project deadline is on next Friday.",
+            "tokens": [
+                50364,
+                440,
+                1716,
+                20615,
+                307,
+                322,
+                958,
+                6984,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.54491511258212,
+            "compression_ratio": 0.8297872340425532,
+            "no_speech_prob": 0.03713107854127884,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.835220217704773
+                },
+                {
+                    "word": " project",
+                    "start": 0.36,
+                    "end": 0.68,
+                    "probability": 0.5797474980354309
+                },
+                {
+                    "word": " deadline",
+                    "start": 0.68,
+                    "end": 1.06,
+                    "probability": 0.9974061846733093
+                },
+                {
+                    "word": " is",
+                    "start": 1.06,
+                    "end": 1.42,
+                    "probability": 0.9891561269760132
+                },
+                {
+                    "word": " on",
+                    "start": 1.42,
+                    "end": 1.72,
+                    "probability": 0.3068329989910126
+                },
+                {
+                    "word": " next",
+                    "start": 1.72,
+                    "end": 2.14,
+                    "probability": 0.37433841824531555
+                },
+                {
+                    "word": " Friday.",
+                    "start": 2.14,
+                    "end": 2.6,
+                    "probability": 0.9703758358955383
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

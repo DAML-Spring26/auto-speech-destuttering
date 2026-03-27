@@ -1,0 +1,71 @@
+{
+    "text": " a company's quarterly revenue-succeeded expectations.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.64,
+            "text": " a company's quarterly revenue-succeeded expectations.",
+            "tokens": [
+                50364,
+                257,
+                2237,
+                311,
+                38633,
+                9324,
+                12,
+                82,
+                1311,
+                4357,
+                292,
+                9843,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41753387451171875,
+            "compression_ratio": 0.8833333333333333,
+            "no_speech_prob": 0.01579439826309681,
+            "words": [
+                {
+                    "word": " a",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.32795894145965576
+                },
+                {
+                    "word": " company's",
+                    "start": 0.16,
+                    "end": 0.68,
+                    "probability": 0.8763720989227295
+                },
+                {
+                    "word": " quarterly",
+                    "start": 0.68,
+                    "end": 0.94,
+                    "probability": 0.8381649851799011
+                },
+                {
+                    "word": " revenue",
+                    "start": 0.94,
+                    "end": 1.34,
+                    "probability": 0.9660688638687134
+                },
+                {
+                    "word": "-succeeded",
+                    "start": 1.34,
+                    "end": 2.0,
+                    "probability": 0.7961178541183471
+                },
+                {
+                    "word": " expectations.",
+                    "start": 2.0,
+                    "end": 2.64,
+                    "probability": 0.9510469436645508
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,101 @@
+{
+    "text": " Have you tried the New Yoga class well at the gym?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.8,
+            "text": " Have you tried the New Yoga class well at the gym?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                3031,
+                264,
+                1873,
+                32983,
+                1508,
+                731,
+                412,
+                264,
+                9222,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42215280532836913,
+            "compression_ratio": 0.9090909090909091,
+            "no_speech_prob": 0.030109303072094917,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.8902493119239807
+                },
+                {
+                    "word": " you",
+                    "start": 0.38,
+                    "end": 0.52,
+                    "probability": 0.997816801071167
+                },
+                {
+                    "word": " tried",
+                    "start": 0.52,
+                    "end": 0.78,
+                    "probability": 0.996775209903717
+                },
+                {
+                    "word": " the",
+                    "start": 0.78,
+                    "end": 0.92,
+                    "probability": 0.9679437279701233
+                },
+                {
+                    "word": " New",
+                    "start": 0.92,
+                    "end": 1.1,
+                    "probability": 0.599992036819458
+                },
+                {
+                    "word": " Yoga",
+                    "start": 1.1,
+                    "end": 1.36,
+                    "probability": 0.6799708008766174
+                },
+                {
+                    "word": " class",
+                    "start": 1.36,
+                    "end": 1.7,
+                    "probability": 0.5524609088897705
+                },
+                {
+                    "word": " well",
+                    "start": 1.7,
+                    "end": 2.06,
+                    "probability": 0.8552747368812561
+                },
+                {
+                    "word": " at",
+                    "start": 2.06,
+                    "end": 2.42,
+                    "probability": 0.46619540452957153
+                },
+                {
+                    "word": " the",
+                    "start": 2.42,
+                    "end": 2.56,
+                    "probability": 0.9237495064735413
+                },
+                {
+                    "word": " gym?",
+                    "start": 2.56,
+                    "end": 2.8,
+                    "probability": 0.955618679523468
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

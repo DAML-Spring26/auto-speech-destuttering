@@ -1,0 +1,125 @@
+{
+    "text": " We need to optimize our processes to remain competitive in the market.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.76,
+            "text": " We need to optimize our processes to",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                19719,
+                527,
+                7555,
+                281,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5091498692830404,
+            "compression_ratio": 1.0294117647058822,
+            "no_speech_prob": 0.0026332850102335215,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7294792532920837
+                },
+                {
+                    "word": " need",
+                    "start": 0.16,
+                    "end": 0.32,
+                    "probability": 0.9960451722145081
+                },
+                {
+                    "word": " to",
+                    "start": 0.32,
+                    "end": 0.56,
+                    "probability": 0.9993152618408203
+                },
+                {
+                    "word": " optimize",
+                    "start": 0.56,
+                    "end": 1.14,
+                    "probability": 0.6686798334121704
+                },
+                {
+                    "word": " our",
+                    "start": 1.14,
+                    "end": 1.48,
+                    "probability": 0.9839187860488892
+                },
+                {
+                    "word": " processes",
+                    "start": 1.48,
+                    "end": 2.2,
+                    "probability": 0.9664857387542725
+                },
+                {
+                    "word": " to",
+                    "start": 2.2,
+                    "end": 2.76,
+                    "probability": 0.47751742601394653
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.5600000000000005,
+            "end": 7.66,
+            "text": " remain competitive in the market.",
+            "tokens": [
+                50642,
+                6222,
+                10043,
+                294,
+                264,
+                2142,
+                13,
+                50766
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5091498692830404,
+            "compression_ratio": 1.0294117647058822,
+            "no_speech_prob": 0.0026332850102335215,
+            "words": [
+                {
+                    "word": " remain",
+                    "start": 5.4399999999999995,
+                    "end": 5.84,
+                    "probability": 0.4244043231010437
+                },
+                {
+                    "word": " competitive",
+                    "start": 5.84,
+                    "end": 6.62,
+                    "probability": 0.9924221634864807
+                },
+                {
+                    "word": " in",
+                    "start": 6.62,
+                    "end": 7.12,
+                    "probability": 0.9950026869773865
+                },
+                {
+                    "word": " the",
+                    "start": 7.12,
+                    "end": 7.26,
+                    "probability": 0.9974760413169861
+                },
+                {
+                    "word": " market.",
+                    "start": 7.26,
+                    "end": 7.66,
+                    "probability": 0.9959194660186768
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

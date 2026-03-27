@@ -1,0 +1,74 @@
+{
+    "text": " Shute applied for the partition last week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.1,
+            "text": " Shute applied for the partition last week.",
+            "tokens": [
+                50364,
+                1160,
+                1169,
+                6456,
+                337,
+                264,
+                24808,
+                1036,
+                1243,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.819011370340983,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.007231471594423056,
+            "words": [
+                {
+                    "word": " Shute",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.22685299068689346
+                },
+                {
+                    "word": " applied",
+                    "start": 0.3,
+                    "end": 0.64,
+                    "probability": 0.11010421812534332
+                },
+                {
+                    "word": " for",
+                    "start": 0.64,
+                    "end": 0.88,
+                    "probability": 0.9876735806465149
+                },
+                {
+                    "word": " the",
+                    "start": 0.88,
+                    "end": 1.0,
+                    "probability": 0.9757316708564758
+                },
+                {
+                    "word": " partition",
+                    "start": 1.0,
+                    "end": 1.44,
+                    "probability": 0.9696102142333984
+                },
+                {
+                    "word": " last",
+                    "start": 1.44,
+                    "end": 1.74,
+                    "probability": 0.9660094976425171
+                },
+                {
+                    "word": " week.",
+                    "start": 1.74,
+                    "end": 2.1,
+                    "probability": 0.9973216652870178
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

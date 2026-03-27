@@ -1,0 +1,127 @@
+{
+    "text": " I apologize but we're currently out of it. Start on that item.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.98,
+            "text": " I apologize but we're currently out of it.",
+            "tokens": [
+                50364,
+                286,
+                12328,
+                457,
+                321,
+                434,
+                4362,
+                484,
+                295,
+                309,
+                13,
+                50630
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5556457383292062,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.004560424480587244,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.596747875213623
+                },
+                {
+                    "word": " apologize",
+                    "start": 0.14,
+                    "end": 0.72,
+                    "probability": 0.7924589514732361
+                },
+                {
+                    "word": " but",
+                    "start": 0.72,
+                    "end": 1.46,
+                    "probability": 0.5576013326644897
+                },
+                {
+                    "word": " we're",
+                    "start": 1.46,
+                    "end": 1.72,
+                    "probability": 0.7805474102497101
+                },
+                {
+                    "word": " currently",
+                    "start": 1.72,
+                    "end": 2.12,
+                    "probability": 0.9898641705513
+                },
+                {
+                    "word": " out",
+                    "start": 2.12,
+                    "end": 2.4,
+                    "probability": 0.9400495290756226
+                },
+                {
+                    "word": " of",
+                    "start": 2.4,
+                    "end": 2.56,
+                    "probability": 0.978958249092102
+                },
+                {
+                    "word": " it.",
+                    "start": 2.56,
+                    "end": 4.98,
+                    "probability": 0.1365070939064026
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 498,
+            "start": 4.98,
+            "end": 6.32,
+            "text": " Start on that item.",
+            "tokens": [
+                50372,
+                6481,
+                322,
+                300,
+                3174,
+                13,
+                50448
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8885639309883118,
+            "compression_ratio": 0.7037037037037037,
+            "no_speech_prob": 0.030843203887343407,
+            "words": [
+                {
+                    "word": " Start",
+                    "start": 4.98,
+                    "end": 5.46,
+                    "probability": 0.17822352051734924
+                },
+                {
+                    "word": " on",
+                    "start": 5.46,
+                    "end": 5.74,
+                    "probability": 0.9655278325080872
+                },
+                {
+                    "word": " that",
+                    "start": 5.74,
+                    "end": 5.9,
+                    "probability": 0.9828721284866333
+                },
+                {
+                    "word": " item.",
+                    "start": 5.9,
+                    "end": 6.32,
+                    "probability": 0.9851072430610657
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

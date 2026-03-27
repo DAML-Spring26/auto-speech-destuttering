@@ -1,12 +1,12 @@
 {
-    "text": " The committee is considering to approve the proposed budget for next year.",
+    "text": " The committee is considering to approve its budget year.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 4.0,
-            "text": " The committee is considering to approve the proposed budget for next year.",
+            "end": 3.16,
+            "text": " The committee is considering to approve its budget year.",
             "tokens": [
                 50364,
                 440,
@@ -15,19 +15,16 @@
                 8079,
                 281,
                 18827,
-                264,
-                10348,
+                1080,
                 4706,
-                337,
-                958,
                 1064,
                 13,
-                50564
+                50522
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.2400268167257309,
-            "compression_ratio": 1.0136986301369864,
-            "no_speech_prob": 0.003528418717905879
+            "avg_logprob": -0.4792163188640888,
+            "compression_ratio": 0.9180327868852459,
+            "no_speech_prob": 0.006750063970685005
         }
     ],
     "language": "en"

@@ -1,0 +1,52 @@
+{
+    "text": " She delivered compelling preservation.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.44,
+            "text": " She delivered compelling preservation.",
+            "tokens": [
+                50364,
+                1240,
+                10144,
+                20050,
+                27257,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4885925054550171,
+            "compression_ratio": 0.8260869565217391,
+            "no_speech_prob": 0.012207047082483768,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.5924875736236572
+                },
+                {
+                    "word": " delivered",
+                    "start": 0.26,
+                    "end": 0.74,
+                    "probability": 0.9733994007110596
+                },
+                {
+                    "word": " compelling",
+                    "start": 0.74,
+                    "end": 1.44,
+                    "probability": 0.9879879951477051
+                },
+                {
+                    "word": " preservation.",
+                    "start": 1.44,
+                    "end": 2.44,
+                    "probability": 0.9876967072486877
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

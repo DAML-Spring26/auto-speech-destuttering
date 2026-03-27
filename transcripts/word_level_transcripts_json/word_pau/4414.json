@@ -1,0 +1,102 @@
+{
+    "text": " The nurse will be with you shortly to take your vitals.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.92,
+            "text": " The nurse will be with you shortly to take your vitals.",
+            "tokens": [
+                50364,
+                440,
+                14012,
+                486,
+                312,
+                365,
+                291,
+                13392,
+                281,
+                747,
+                428,
+                9467,
+                1124,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2967264652252197,
+            "compression_ratio": 0.9482758620689655,
+            "no_speech_prob": 0.006532490719109774,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6677091717720032
+                },
+                {
+                    "word": " nurse",
+                    "start": 0.14,
+                    "end": 0.44,
+                    "probability": 0.9752800464630127
+                },
+                {
+                    "word": " will",
+                    "start": 0.44,
+                    "end": 0.68,
+                    "probability": 0.9951562881469727
+                },
+                {
+                    "word": " be",
+                    "start": 0.68,
+                    "end": 0.86,
+                    "probability": 0.9941732287406921
+                },
+                {
+                    "word": " with",
+                    "start": 0.86,
+                    "end": 1.18,
+                    "probability": 0.9969154596328735
+                },
+                {
+                    "word": " you",
+                    "start": 1.18,
+                    "end": 1.4,
+                    "probability": 0.9970827698707581
+                },
+                {
+                    "word": " shortly",
+                    "start": 1.4,
+                    "end": 1.92,
+                    "probability": 0.994115948677063
+                },
+                {
+                    "word": " to",
+                    "start": 1.92,
+                    "end": 4.66,
+                    "probability": 0.5100137591362
+                },
+                {
+                    "word": " take",
+                    "start": 4.66,
+                    "end": 4.98,
+                    "probability": 0.9949501752853394
+                },
+                {
+                    "word": " your",
+                    "start": 4.98,
+                    "end": 5.16,
+                    "probability": 0.9903820157051086
+                },
+                {
+                    "word": " vitals.",
+                    "start": 5.16,
+                    "end": 5.92,
+                    "probability": 0.8734856843948364
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

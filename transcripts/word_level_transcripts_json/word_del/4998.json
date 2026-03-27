@@ -1,0 +1,101 @@
+{
+    "text": " You heard the latest album from that up end coming artist.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.66,
+            "text": " You heard the latest album from that up end coming artist.",
+            "tokens": [
+                50364,
+                509,
+                2198,
+                264,
+                6792,
+                6030,
+                490,
+                300,
+                493,
+                917,
+                1348,
+                5748,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34794705708821616,
+            "compression_ratio": 0.9354838709677419,
+            "no_speech_prob": 0.009246489964425564,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7912300229072571
+                },
+                {
+                    "word": " heard",
+                    "start": 0.12,
+                    "end": 0.28,
+                    "probability": 0.9831946492195129
+                },
+                {
+                    "word": " the",
+                    "start": 0.28,
+                    "end": 0.44,
+                    "probability": 0.9903952479362488
+                },
+                {
+                    "word": " latest",
+                    "start": 0.44,
+                    "end": 0.74,
+                    "probability": 0.9969346523284912
+                },
+                {
+                    "word": " album",
+                    "start": 0.74,
+                    "end": 1.16,
+                    "probability": 0.9964457154273987
+                },
+                {
+                    "word": " from",
+                    "start": 1.16,
+                    "end": 1.4,
+                    "probability": 0.9816215634346008
+                },
+                {
+                    "word": " that",
+                    "start": 1.4,
+                    "end": 1.62,
+                    "probability": 0.9655972719192505
+                },
+                {
+                    "word": " up",
+                    "start": 1.62,
+                    "end": 1.8,
+                    "probability": 0.8112548589706421
+                },
+                {
+                    "word": " end",
+                    "start": 1.8,
+                    "end": 1.98,
+                    "probability": 0.398958683013916
+                },
+                {
+                    "word": " coming",
+                    "start": 1.98,
+                    "end": 2.26,
+                    "probability": 0.9311178922653198
+                },
+                {
+                    "word": " artist.",
+                    "start": 2.26,
+                    "end": 2.66,
+                    "probability": 0.8890165090560913
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

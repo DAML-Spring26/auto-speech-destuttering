@@ -1,0 +1,98 @@
+{
+    "text": " The latest patch fixes several critical. Security vulnerabilities.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.38,
+            "text": " The latest patch fixes several critical.",
+            "tokens": [
+                50364,
+                440,
+                6792,
+                9972,
+                32539,
+                2940,
+                4924,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42660036087036135,
+            "compression_ratio": 0.9850746268656716,
+            "no_speech_prob": 0.013829021714627743,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.8802245855331421
+                },
+                {
+                    "word": " latest",
+                    "start": 0.16,
+                    "end": 0.5,
+                    "probability": 0.9916675686836243
+                },
+                {
+                    "word": " patch",
+                    "start": 0.5,
+                    "end": 0.84,
+                    "probability": 0.9845802783966064
+                },
+                {
+                    "word": " fixes",
+                    "start": 0.84,
+                    "end": 1.36,
+                    "probability": 0.9934943318367004
+                },
+                {
+                    "word": " several",
+                    "start": 1.36,
+                    "end": 1.8,
+                    "probability": 0.998552143573761
+                },
+                {
+                    "word": " critical.",
+                    "start": 1.8,
+                    "end": 2.38,
+                    "probability": 0.9830107688903809
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.62,
+            "end": 7.44,
+            "text": " Security vulnerabilities.",
+            "tokens": [
+                50664,
+                11164,
+                37633,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42660036087036135,
+            "compression_ratio": 0.9850746268656716,
+            "no_speech_prob": 0.013829021714627743,
+            "words": [
+                {
+                    "word": " Security",
+                    "start": 5.62,
+                    "end": 6.72,
+                    "probability": 0.8960013389587402
+                },
+                {
+                    "word": " vulnerabilities.",
+                    "start": 6.72,
+                    "end": 7.44,
+                    "probability": 0.6093685030937195
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

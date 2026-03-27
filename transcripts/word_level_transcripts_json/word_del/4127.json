@@ -1,0 +1,94 @@
+{
+    "text": " She asked I could review her presentation before the meeting.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.94,
+            "text": " She asked I could review her presentation before the meeting.",
+            "tokens": [
+                50364,
+                1240,
+                2351,
+                286,
+                727,
+                3131,
+                720,
+                5860,
+                949,
+                264,
+                3440,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3006411961146763,
+            "compression_ratio": 0.9384615384615385,
+            "no_speech_prob": 0.0045582614839077,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.7915407419204712
+                },
+                {
+                    "word": " asked",
+                    "start": 0.18,
+                    "end": 0.48,
+                    "probability": 0.9823863506317139
+                },
+                {
+                    "word": " I",
+                    "start": 0.48,
+                    "end": 0.64,
+                    "probability": 0.8409104347229004
+                },
+                {
+                    "word": " could",
+                    "start": 0.64,
+                    "end": 0.86,
+                    "probability": 0.9565380215644836
+                },
+                {
+                    "word": " review",
+                    "start": 0.86,
+                    "end": 1.18,
+                    "probability": 0.8878914713859558
+                },
+                {
+                    "word": " her",
+                    "start": 1.18,
+                    "end": 1.38,
+                    "probability": 0.9877579212188721
+                },
+                {
+                    "word": " presentation",
+                    "start": 1.38,
+                    "end": 2.1,
+                    "probability": 0.9976651668548584
+                },
+                {
+                    "word": " before",
+                    "start": 2.1,
+                    "end": 2.52,
+                    "probability": 0.9900956153869629
+                },
+                {
+                    "word": " the",
+                    "start": 2.52,
+                    "end": 2.68,
+                    "probability": 0.9971110820770264
+                },
+                {
+                    "word": " meeting.",
+                    "start": 2.68,
+                    "end": 2.94,
+                    "probability": 0.9986414313316345
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

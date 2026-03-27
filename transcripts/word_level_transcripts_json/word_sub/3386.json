@@ -1,0 +1,66 @@
+{
+    "text": " She prefers to walk in silence.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.46,
+            "text": " She prefers to walk in silence.",
+            "tokens": [
+                50364,
+                1240,
+                44334,
+                281,
+                1792,
+                294,
+                12239,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30347089767456054,
+            "compression_ratio": 0.7948717948717948,
+            "no_speech_prob": 0.005515054799616337,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.7328646779060364
+                },
+                {
+                    "word": " prefers",
+                    "start": 0.2,
+                    "end": 0.5,
+                    "probability": 0.9746922850608826
+                },
+                {
+                    "word": " to",
+                    "start": 0.5,
+                    "end": 0.74,
+                    "probability": 0.9963376522064209
+                },
+                {
+                    "word": " walk",
+                    "start": 0.74,
+                    "end": 0.94,
+                    "probability": 0.9918882250785828
+                },
+                {
+                    "word": " in",
+                    "start": 0.94,
+                    "end": 1.08,
+                    "probability": 0.9862263798713684
+                },
+                {
+                    "word": " silence.",
+                    "start": 1.08,
+                    "end": 1.46,
+                    "probability": 0.9931350946426392
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

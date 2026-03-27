@@ -1,0 +1,94 @@
+{
+    "text": " How long have you been working on this research project?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.4,
+            "text": " How long have you been working on this research project?",
+            "tokens": [
+                50364,
+                1012,
+                938,
+                362,
+                291,
+                668,
+                1364,
+                322,
+                341,
+                2132,
+                1716,
+                30,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27994671889713835,
+            "compression_ratio": 0.8888888888888888,
+            "no_speech_prob": 0.006735692266374826,
+            "words": [
+                {
+                    "word": " How",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8605638742446899
+                },
+                {
+                    "word": " long",
+                    "start": 0.14,
+                    "end": 0.3,
+                    "probability": 0.9963994026184082
+                },
+                {
+                    "word": " have",
+                    "start": 0.3,
+                    "end": 0.48,
+                    "probability": 0.9930320978164673
+                },
+                {
+                    "word": " you",
+                    "start": 0.48,
+                    "end": 0.58,
+                    "probability": 0.9931392073631287
+                },
+                {
+                    "word": " been",
+                    "start": 0.58,
+                    "end": 0.7,
+                    "probability": 0.9950371384620667
+                },
+                {
+                    "word": " working",
+                    "start": 0.7,
+                    "end": 1.1,
+                    "probability": 0.9574248194694519
+                },
+                {
+                    "word": " on",
+                    "start": 1.1,
+                    "end": 1.36,
+                    "probability": 0.9623905420303345
+                },
+                {
+                    "word": " this",
+                    "start": 1.36,
+                    "end": 1.56,
+                    "probability": 0.9454489946365356
+                },
+                {
+                    "word": " research",
+                    "start": 1.56,
+                    "end": 1.86,
+                    "probability": 0.8330318927764893
+                },
+                {
+                    "word": " project?",
+                    "start": 1.86,
+                    "end": 2.4,
+                    "probability": 0.993428647518158
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

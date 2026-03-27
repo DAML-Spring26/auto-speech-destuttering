@@ -1,0 +1,94 @@
+{
+    "text": " The professor emphasized critical thinking is essential in academic writing.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.32,
+            "text": " The professor emphasized critical thinking is essential in academic writing.",
+            "tokens": [
+                50364,
+                440,
+                8304,
+                34068,
+                4924,
+                1953,
+                307,
+                7115,
+                294,
+                7778,
+                3579,
+                13,
+                50538
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30242092268807547,
+            "compression_ratio": 1.027027027027027,
+            "no_speech_prob": 0.002369191963225603,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.83110511302948
+                },
+                {
+                    "word": " professor",
+                    "start": 0.08,
+                    "end": 0.4,
+                    "probability": 0.6212908625602722
+                },
+                {
+                    "word": " emphasized",
+                    "start": 0.4,
+                    "end": 0.9,
+                    "probability": 0.5463538765907288
+                },
+                {
+                    "word": " critical",
+                    "start": 0.9,
+                    "end": 1.28,
+                    "probability": 0.9399850368499756
+                },
+                {
+                    "word": " thinking",
+                    "start": 1.28,
+                    "end": 1.7,
+                    "probability": 0.9963424801826477
+                },
+                {
+                    "word": " is",
+                    "start": 1.7,
+                    "end": 1.88,
+                    "probability": 0.6456871032714844
+                },
+                {
+                    "word": " essential",
+                    "start": 1.88,
+                    "end": 2.36,
+                    "probability": 0.9851511120796204
+                },
+                {
+                    "word": " in",
+                    "start": 2.36,
+                    "end": 2.58,
+                    "probability": 0.9914535284042358
+                },
+                {
+                    "word": " academic",
+                    "start": 2.58,
+                    "end": 2.92,
+                    "probability": 0.9948423504829407
+                },
+                {
+                    "word": " writing.",
+                    "start": 2.92,
+                    "end": 3.32,
+                    "probability": 0.997369647026062
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

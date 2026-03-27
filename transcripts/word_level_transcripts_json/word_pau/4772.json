@@ -1,0 +1,87 @@
+{
+    "text": " Could you recommend a good restaurant in the area?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.18,
+            "text": " Could you recommend a good restaurant in the area?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                2748,
+                257,
+                665,
+                6383,
+                294,
+                264,
+                1859,
+                30,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4315513830918532,
+            "compression_ratio": 0.8771929824561403,
+            "no_speech_prob": 0.008664240129292011,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.8802328109741211
+                },
+                {
+                    "word": " you",
+                    "start": 0.2,
+                    "end": 0.36,
+                    "probability": 0.9952706694602966
+                },
+                {
+                    "word": " recommend",
+                    "start": 0.36,
+                    "end": 0.94,
+                    "probability": 0.9720115065574646
+                },
+                {
+                    "word": " a",
+                    "start": 0.94,
+                    "end": 1.16,
+                    "probability": 0.9941173791885376
+                },
+                {
+                    "word": " good",
+                    "start": 1.16,
+                    "end": 1.5,
+                    "probability": 0.9869967699050903
+                },
+                {
+                    "word": " restaurant",
+                    "start": 1.5,
+                    "end": 4.42,
+                    "probability": 0.1868363320827484
+                },
+                {
+                    "word": " in",
+                    "start": 4.42,
+                    "end": 4.68,
+                    "probability": 0.9622458219528198
+                },
+                {
+                    "word": " the",
+                    "start": 4.68,
+                    "end": 4.82,
+                    "probability": 0.9881290793418884
+                },
+                {
+                    "word": " area?",
+                    "start": 4.82,
+                    "end": 5.18,
+                    "probability": 0.9811239838600159
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

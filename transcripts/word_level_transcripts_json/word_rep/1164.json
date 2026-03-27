@@ -1,0 +1,52 @@
+{
+    "text": " I am going home.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.12,
+            "text": " I am going home.",
+            "tokens": [
+                50364,
+                286,
+                669,
+                516,
+                1280,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5112141966819763,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.028016678988933563,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.8549638986587524
+                },
+                {
+                    "word": " am",
+                    "start": 0.26,
+                    "end": 0.44,
+                    "probability": 0.932463526725769
+                },
+                {
+                    "word": " going",
+                    "start": 0.44,
+                    "end": 0.82,
+                    "probability": 0.9694762229919434
+                },
+                {
+                    "word": " home.",
+                    "start": 0.82,
+                    "end": 1.12,
+                    "probability": 0.9991045594215393
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

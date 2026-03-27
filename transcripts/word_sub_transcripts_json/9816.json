@@ -1,0 +1,59 @@
+{
+    "text": " She accepted the job offer.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.42,
+            "text": " She accepted the job offer.",
+            "tokens": [
+                50364,
+                1240,
+                9035,
+                264,
+                1691,
+                2626,
+                13,
+                50444
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40598124927944607,
+            "compression_ratio": 0.8181818181818182,
+            "no_speech_prob": 0.0019802607130259275,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.699113130569458
+                },
+                {
+                    "word": " accepted",
+                    "start": 0.2,
+                    "end": 0.62,
+                    "probability": 0.9947627186775208
+                },
+                {
+                    "word": " the",
+                    "start": 0.62,
+                    "end": 0.8,
+                    "probability": 0.990028440952301
+                },
+                {
+                    "word": " job",
+                    "start": 0.8,
+                    "end": 1.04,
+                    "probability": 0.9857761263847351
+                },
+                {
+                    "word": " offer.",
+                    "start": 1.04,
+                    "end": 1.42,
+                    "probability": 0.9971199035644531
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

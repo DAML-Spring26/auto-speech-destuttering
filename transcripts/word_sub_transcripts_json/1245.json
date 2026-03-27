@@ -1,0 +1,60 @@
+{
+    "text": " the architect designed sustainable guildings.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.86,
+            "text": " the architect designed sustainable guildings.",
+            "tokens": [
+                50364,
+                264,
+                6331,
+                4761,
+                11235,
+                37435,
+                1109,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5995970726013183,
+            "compression_ratio": 0.8823529411764706,
+            "no_speech_prob": 0.005034742411226034,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.2951825261116028
+                },
+                {
+                    "word": " architect",
+                    "start": 0.12,
+                    "end": 0.56,
+                    "probability": 0.8181561827659607
+                },
+                {
+                    "word": " designed",
+                    "start": 0.56,
+                    "end": 1.24,
+                    "probability": 0.6993699073791504
+                },
+                {
+                    "word": " sustainable",
+                    "start": 1.24,
+                    "end": 2.0,
+                    "probability": 0.8175644874572754
+                },
+                {
+                    "word": " guildings.",
+                    "start": 2.0,
+                    "end": 2.86,
+                    "probability": 0.5938349813222885
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

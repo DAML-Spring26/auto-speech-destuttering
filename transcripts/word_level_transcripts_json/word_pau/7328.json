@@ -1,0 +1,87 @@
+{
+    "text": " I love spending time with my family on weekends.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.86,
+            "text": " I love spending time with my family on weekends.",
+            "tokens": [
+                50364,
+                286,
+                959,
+                6434,
+                565,
+                365,
+                452,
+                1605,
+                322,
+                23595,
+                13,
+                50628
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33660089052640474,
+            "compression_ratio": 0.8727272727272727,
+            "no_speech_prob": 0.013310583308339119,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.9145158529281616
+                },
+                {
+                    "word": " love",
+                    "start": 0.2,
+                    "end": 0.36,
+                    "probability": 0.98029625415802
+                },
+                {
+                    "word": " spending",
+                    "start": 0.36,
+                    "end": 0.76,
+                    "probability": 0.9934551119804382
+                },
+                {
+                    "word": " time",
+                    "start": 0.76,
+                    "end": 1.26,
+                    "probability": 0.9931342601776123
+                },
+                {
+                    "word": " with",
+                    "start": 1.26,
+                    "end": 3.74,
+                    "probability": 0.9181921482086182
+                },
+                {
+                    "word": " my",
+                    "start": 3.74,
+                    "end": 3.96,
+                    "probability": 0.9963326454162598
+                },
+                {
+                    "word": " family",
+                    "start": 3.96,
+                    "end": 4.36,
+                    "probability": 0.9935951828956604
+                },
+                {
+                    "word": " on",
+                    "start": 4.36,
+                    "end": 4.56,
+                    "probability": 0.9912612438201904
+                },
+                {
+                    "word": " weekends.",
+                    "start": 4.56,
+                    "end": 4.86,
+                    "probability": 0.9953787326812744
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

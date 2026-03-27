@@ -1,0 +1,95 @@
+{
+    "text": " the new law aims to protect consumers from fraudulent practices.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.38,
+            "text": " the new law aims to protect consumers from fraudulent practices.",
+            "tokens": [
+                50364,
+                264,
+                777,
+                2101,
+                24683,
+                281,
+                2371,
+                11883,
+                490,
+                14560,
+                23405,
+                7525,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23308792114257812,
+            "compression_ratio": 0.9846153846153847,
+            "no_speech_prob": 0.006246734410524368,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.4492528438568115
+                },
+                {
+                    "word": " new",
+                    "start": 0.16,
+                    "end": 0.32,
+                    "probability": 0.9160470366477966
+                },
+                {
+                    "word": " law",
+                    "start": 0.32,
+                    "end": 0.54,
+                    "probability": 0.9817781448364258
+                },
+                {
+                    "word": " aims",
+                    "start": 0.54,
+                    "end": 0.84,
+                    "probability": 0.9977260231971741
+                },
+                {
+                    "word": " to",
+                    "start": 0.84,
+                    "end": 1.06,
+                    "probability": 0.9980087876319885
+                },
+                {
+                    "word": " protect",
+                    "start": 1.06,
+                    "end": 1.36,
+                    "probability": 0.9975503087043762
+                },
+                {
+                    "word": " consumers",
+                    "start": 1.36,
+                    "end": 1.96,
+                    "probability": 0.9984990358352661
+                },
+                {
+                    "word": " from",
+                    "start": 1.96,
+                    "end": 2.38,
+                    "probability": 0.988332211971283
+                },
+                {
+                    "word": " fraudulent",
+                    "start": 2.38,
+                    "end": 5.76,
+                    "probability": 0.9785462021827698
+                },
+                {
+                    "word": " practices.",
+                    "start": 5.76,
+                    "end": 6.38,
+                    "probability": 0.9899939894676208
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

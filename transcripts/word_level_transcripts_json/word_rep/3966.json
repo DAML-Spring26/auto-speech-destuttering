@@ -1,0 +1,52 @@
+{
+    "text": " Where is my bag?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.56,
+            "text": " Where is my bag?",
+            "tokens": [
+                50364,
+                2305,
+                307,
+                452,
+                3411,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4836083948612213,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.012125983834266663,
+            "words": [
+                {
+                    "word": " Where",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.8267226815223694
+                },
+                {
+                    "word": " is",
+                    "start": 0.32,
+                    "end": 0.98,
+                    "probability": 0.3224005401134491
+                },
+                {
+                    "word": " my",
+                    "start": 0.98,
+                    "end": 1.18,
+                    "probability": 0.994152843952179
+                },
+                {
+                    "word": " bag?",
+                    "start": 1.18,
+                    "end": 1.56,
+                    "probability": 0.6826204657554626
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

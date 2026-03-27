@@ -1,0 +1,102 @@
+{
+    "text": " The taxi stand is located just outside of the Arrivals area.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.04,
+            "text": " The taxi stand is located just outside of the Arrivals area.",
+            "tokens": [
+                50364,
+                440,
+                18984,
+                1463,
+                307,
+                6870,
+                445,
+                2380,
+                295,
+                264,
+                45188,
+                19778,
+                1859,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35771945118904114,
+            "compression_ratio": 0.9230769230769231,
+            "no_speech_prob": 0.007268654648214579,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.58,
+                    "probability": 0.891515851020813
+                },
+                {
+                    "word": " taxi",
+                    "start": 0.58,
+                    "end": 0.9,
+                    "probability": 0.9768943190574646
+                },
+                {
+                    "word": " stand",
+                    "start": 0.9,
+                    "end": 1.24,
+                    "probability": 0.9116008281707764
+                },
+                {
+                    "word": " is",
+                    "start": 1.24,
+                    "end": 1.38,
+                    "probability": 0.9935611486434937
+                },
+                {
+                    "word": " located",
+                    "start": 1.38,
+                    "end": 1.66,
+                    "probability": 0.997547447681427
+                },
+                {
+                    "word": " just",
+                    "start": 1.66,
+                    "end": 1.94,
+                    "probability": 0.9983397722244263
+                },
+                {
+                    "word": " outside",
+                    "start": 1.94,
+                    "end": 2.48,
+                    "probability": 0.9977422952651978
+                },
+                {
+                    "word": " of",
+                    "start": 2.48,
+                    "end": 2.68,
+                    "probability": 0.39338353276252747
+                },
+                {
+                    "word": " the",
+                    "start": 2.68,
+                    "end": 3.16,
+                    "probability": 0.7626626491546631
+                },
+                {
+                    "word": " Arrivals",
+                    "start": 3.16,
+                    "end": 3.7,
+                    "probability": 0.5830730274319649
+                },
+                {
+                    "word": " area.",
+                    "start": 3.7,
+                    "end": 4.04,
+                    "probability": 0.8052847981452942
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

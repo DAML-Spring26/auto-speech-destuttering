@@ -1,0 +1,59 @@
+{
+    "text": " The company announced significant chances.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.04,
+            "text": " The company announced significant chances.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                7548,
+                4776,
+                10486,
+                13,
+                50488
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5054134262932671,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.010698763653635979,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5226517915725708
+                },
+                {
+                    "word": " company",
+                    "start": 0.1,
+                    "end": 0.52,
+                    "probability": 0.8570771217346191
+                },
+                {
+                    "word": " announced",
+                    "start": 0.52,
+                    "end": 0.82,
+                    "probability": 0.5685375928878784
+                },
+                {
+                    "word": " significant",
+                    "start": 0.82,
+                    "end": 1.38,
+                    "probability": 0.9893073439598083
+                },
+                {
+                    "word": " chances.",
+                    "start": 1.38,
+                    "end": 2.04,
+                    "probability": 0.9858155250549316
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

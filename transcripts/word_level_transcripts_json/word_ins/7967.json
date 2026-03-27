@@ -1,0 +1,80 @@
+{
+    "text": " The new software will be implemented next month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.7,
+            "text": " The new software will be implemented next month.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                4722,
+                486,
+                312,
+                12270,
+                958,
+                1618,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.346151868502299,
+            "compression_ratio": 0.8727272727272727,
+            "no_speech_prob": 0.024961646646261215,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.62,
+                    "probability": 0.8695052862167358
+                },
+                {
+                    "word": " new",
+                    "start": 0.62,
+                    "end": 0.84,
+                    "probability": 0.9704078435897827
+                },
+                {
+                    "word": " software",
+                    "start": 0.84,
+                    "end": 1.42,
+                    "probability": 0.982078492641449
+                },
+                {
+                    "word": " will",
+                    "start": 1.42,
+                    "end": 1.82,
+                    "probability": 0.9942366480827332
+                },
+                {
+                    "word": " be",
+                    "start": 1.82,
+                    "end": 2.7,
+                    "probability": 0.7840918302536011
+                },
+                {
+                    "word": " implemented",
+                    "start": 2.7,
+                    "end": 3.6,
+                    "probability": 0.9762037992477417
+                },
+                {
+                    "word": " next",
+                    "start": 3.6,
+                    "end": 4.34,
+                    "probability": 0.982502818107605
+                },
+                {
+                    "word": " month.",
+                    "start": 4.34,
+                    "end": 4.7,
+                    "probability": 0.9951472878456116
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

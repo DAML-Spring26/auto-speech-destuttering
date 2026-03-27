@@ -1,0 +1,88 @@
+{
+    "text": " The anthropologist studied cultural practices in remote tribal committees.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.08,
+            "text": " The anthropologist studied cultural practices in remote tribal committees.",
+            "tokens": [
+                50364,
+                440,
+                22727,
+                9201,
+                9454,
+                6988,
+                7525,
+                294,
+                8607,
+                20958,
+                25998,
+                13,
+                50584
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35056887354169575,
+            "compression_ratio": 1.0422535211267605,
+            "no_speech_prob": 0.002459324663504958,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7039382457733154
+                },
+                {
+                    "word": " anthropologist",
+                    "start": 0.12,
+                    "end": 0.84,
+                    "probability": 0.9118247926235199
+                },
+                {
+                    "word": " studied",
+                    "start": 0.84,
+                    "end": 1.24,
+                    "probability": 0.9804161190986633
+                },
+                {
+                    "word": " cultural",
+                    "start": 1.24,
+                    "end": 1.72,
+                    "probability": 0.9824200868606567
+                },
+                {
+                    "word": " practices",
+                    "start": 1.72,
+                    "end": 2.36,
+                    "probability": 0.9575728178024292
+                },
+                {
+                    "word": " in",
+                    "start": 2.36,
+                    "end": 2.76,
+                    "probability": 0.9885818362236023
+                },
+                {
+                    "word": " remote",
+                    "start": 2.76,
+                    "end": 3.06,
+                    "probability": 0.8872518539428711
+                },
+                {
+                    "word": " tribal",
+                    "start": 3.06,
+                    "end": 3.46,
+                    "probability": 0.9627454280853271
+                },
+                {
+                    "word": " committees.",
+                    "start": 3.46,
+                    "end": 4.08,
+                    "probability": 0.9874902367591858
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

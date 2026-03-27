@@ -1,0 +1,66 @@
+{
+    "text": " need to progress the application quickly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " need to progress the application quickly.",
+            "tokens": [
+                50364,
+                643,
+                281,
+                4205,
+                264,
+                3861,
+                2661,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5155983924865722,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.004465432371944189,
+            "words": [
+                {
+                    "word": " need",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.19801956415176392
+                },
+                {
+                    "word": " to",
+                    "start": 0.18,
+                    "end": 0.36,
+                    "probability": 0.9975125789642334
+                },
+                {
+                    "word": " progress",
+                    "start": 0.36,
+                    "end": 0.68,
+                    "probability": 0.9719977378845215
+                },
+                {
+                    "word": " the",
+                    "start": 0.68,
+                    "end": 0.96,
+                    "probability": 0.9918856620788574
+                },
+                {
+                    "word": " application",
+                    "start": 0.96,
+                    "end": 1.52,
+                    "probability": 0.9832828044891357
+                },
+                {
+                    "word": " quickly.",
+                    "start": 1.52,
+                    "end": 2.0,
+                    "probability": 0.9948030114173889
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

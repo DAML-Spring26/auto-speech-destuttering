@@ -1,0 +1,59 @@
+{
+    "text": " This movie is absolutely hilarious.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.54,
+            "text": " This movie is absolutely hilarious.",
+            "tokens": [
+                50364,
+                639,
+                3169,
+                307,
+                3122,
+                19796,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4133431381649441,
+            "compression_ratio": 0.8536585365853658,
+            "no_speech_prob": 0.05404887720942497,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 0.0,
+                    "end": 0.92,
+                    "probability": 0.8143001794815063
+                },
+                {
+                    "word": " movie",
+                    "start": 0.92,
+                    "end": 1.28,
+                    "probability": 0.9887697696685791
+                },
+                {
+                    "word": " is",
+                    "start": 1.28,
+                    "end": 1.48,
+                    "probability": 0.9957923889160156
+                },
+                {
+                    "word": " absolutely",
+                    "start": 1.48,
+                    "end": 2.18,
+                    "probability": 0.9766067862510681
+                },
+                {
+                    "word": " hilarious.",
+                    "start": 2.18,
+                    "end": 3.54,
+                    "probability": 0.9580532312393188
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

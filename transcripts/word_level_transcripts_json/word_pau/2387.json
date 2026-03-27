@@ -1,0 +1,89 @@
+{
+    "text": " any event of a paratage use the emergency generator.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.34,
+            "text": " any event of a paratage use the emergency generator.",
+            "tokens": [
+                50364,
+                604,
+                2280,
+                295,
+                257,
+                971,
+                267,
+                609,
+                764,
+                264,
+                7473,
+                19265,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.46436325709025067,
+            "compression_ratio": 0.9122807017543859,
+            "no_speech_prob": 0.005956816952675581,
+            "words": [
+                {
+                    "word": " any",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.3889268636703491
+                },
+                {
+                    "word": " event",
+                    "start": 0.18,
+                    "end": 0.56,
+                    "probability": 0.9892451763153076
+                },
+                {
+                    "word": " of",
+                    "start": 0.56,
+                    "end": 0.76,
+                    "probability": 0.9175942540168762
+                },
+                {
+                    "word": " a",
+                    "start": 0.76,
+                    "end": 0.84,
+                    "probability": 0.9363163709640503
+                },
+                {
+                    "word": " paratage",
+                    "start": 0.84,
+                    "end": 1.66,
+                    "probability": 0.5389946401119232
+                },
+                {
+                    "word": " use",
+                    "start": 1.66,
+                    "end": 2.46,
+                    "probability": 0.7122381329536438
+                },
+                {
+                    "word": " the",
+                    "start": 2.46,
+                    "end": 3.04,
+                    "probability": 0.8301773071289062
+                },
+                {
+                    "word": " emergency",
+                    "start": 3.04,
+                    "end": 3.64,
+                    "probability": 0.9628037810325623
+                },
+                {
+                    "word": " generator.",
+                    "start": 3.64,
+                    "end": 5.34,
+                    "probability": 0.9646302461624146
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

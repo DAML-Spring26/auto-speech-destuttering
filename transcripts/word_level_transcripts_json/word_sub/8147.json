@@ -1,0 +1,88 @@
+{
+    "text": " she's studying the effects of climate change on biodiversity.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.68,
+            "text": " she's studying the effects of climate change on biodiversity.",
+            "tokens": [
+                50364,
+                750,
+                311,
+                7601,
+                264,
+                5065,
+                295,
+                5659,
+                1319,
+                322,
+                36453,
+                13,
+                50580
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34263481412615093,
+            "compression_ratio": 0.953125,
+            "no_speech_prob": 0.001227308646775782,
+            "words": [
+                {
+                    "word": " she's",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.5318546295166016
+                },
+                {
+                    "word": " studying",
+                    "start": 0.36,
+                    "end": 0.84,
+                    "probability": 0.9808716773986816
+                },
+                {
+                    "word": " the",
+                    "start": 0.84,
+                    "end": 1.12,
+                    "probability": 0.9905402660369873
+                },
+                {
+                    "word": " effects",
+                    "start": 1.12,
+                    "end": 1.42,
+                    "probability": 0.9911251664161682
+                },
+                {
+                    "word": " of",
+                    "start": 1.42,
+                    "end": 1.74,
+                    "probability": 0.9985820055007935
+                },
+                {
+                    "word": " climate",
+                    "start": 1.74,
+                    "end": 2.12,
+                    "probability": 0.9912946820259094
+                },
+                {
+                    "word": " change",
+                    "start": 2.12,
+                    "end": 2.56,
+                    "probability": 0.9981953501701355
+                },
+                {
+                    "word": " on",
+                    "start": 2.56,
+                    "end": 2.9,
+                    "probability": 0.9805097579956055
+                },
+                {
+                    "word": " biodiversity.",
+                    "start": 2.9,
+                    "end": 3.68,
+                    "probability": 0.9803531169891357
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

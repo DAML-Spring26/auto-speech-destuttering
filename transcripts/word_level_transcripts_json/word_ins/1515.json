@@ -1,0 +1,101 @@
+{
+    "text": " Please submit your expense reports by the end of the week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.38,
+            "text": " Please submit your expense reports by the end of the week.",
+            "tokens": [
+                50364,
+                2555,
+                10315,
+                428,
+                18406,
+                7122,
+                538,
+                264,
+                917,
+                295,
+                264,
+                1243,
+                13,
+                50584
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3100247065226237,
+            "compression_ratio": 0.9508196721311475,
+            "no_speech_prob": 0.12072011828422546,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.52,
+                    "probability": 0.6545001864433289
+                },
+                {
+                    "word": " submit",
+                    "start": 0.52,
+                    "end": 0.94,
+                    "probability": 0.9592956900596619
+                },
+                {
+                    "word": " your",
+                    "start": 0.94,
+                    "end": 1.18,
+                    "probability": 0.995633065700531
+                },
+                {
+                    "word": " expense",
+                    "start": 1.18,
+                    "end": 1.64,
+                    "probability": 0.974067747592926
+                },
+                {
+                    "word": " reports",
+                    "start": 1.64,
+                    "end": 2.14,
+                    "probability": 0.9681407809257507
+                },
+                {
+                    "word": " by",
+                    "start": 2.14,
+                    "end": 2.62,
+                    "probability": 0.967279314994812
+                },
+                {
+                    "word": " the",
+                    "start": 2.62,
+                    "end": 3.68,
+                    "probability": 0.7508376836776733
+                },
+                {
+                    "word": " end",
+                    "start": 3.68,
+                    "end": 3.92,
+                    "probability": 0.9951943755149841
+                },
+                {
+                    "word": " of",
+                    "start": 3.92,
+                    "end": 4.1,
+                    "probability": 0.9973739385604858
+                },
+                {
+                    "word": " the",
+                    "start": 4.1,
+                    "end": 4.18,
+                    "probability": 0.9971373081207275
+                },
+                {
+                    "word": " week.",
+                    "start": 4.18,
+                    "end": 4.38,
+                    "probability": 0.9984222650527954
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

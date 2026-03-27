@@ -1,0 +1,109 @@
+{
+    "text": " The company's profits have increased by 15% compared to last year.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.76,
+            "text": " The company's profits have increased by 15% compared to last year.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                17982,
+                362,
+                6505,
+                538,
+                2119,
+                4,
+                5347,
+                281,
+                1036,
+                1064,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2221833116867963,
+            "compression_ratio": 0.9705882352941176,
+            "no_speech_prob": 0.0028977857436984777,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8554639220237732
+                },
+                {
+                    "word": " company's",
+                    "start": 0.12,
+                    "end": 0.78,
+                    "probability": 0.9748684167861938
+                },
+                {
+                    "word": " profits",
+                    "start": 0.78,
+                    "end": 1.12,
+                    "probability": 0.9930635094642639
+                },
+                {
+                    "word": " have",
+                    "start": 1.12,
+                    "end": 1.38,
+                    "probability": 0.9864367842674255
+                },
+                {
+                    "word": " increased",
+                    "start": 1.38,
+                    "end": 1.78,
+                    "probability": 0.9952123165130615
+                },
+                {
+                    "word": " by",
+                    "start": 1.78,
+                    "end": 2.06,
+                    "probability": 0.9938750863075256
+                },
+                {
+                    "word": " 15",
+                    "start": 2.06,
+                    "end": 2.48,
+                    "probability": 0.980317234992981
+                },
+                {
+                    "word": "%",
+                    "start": 2.48,
+                    "end": 2.8,
+                    "probability": 0.9070656895637512
+                },
+                {
+                    "word": " compared",
+                    "start": 2.8,
+                    "end": 3.24,
+                    "probability": 0.9918236136436462
+                },
+                {
+                    "word": " to",
+                    "start": 3.24,
+                    "end": 3.68,
+                    "probability": 0.9964750409126282
+                },
+                {
+                    "word": " last",
+                    "start": 3.68,
+                    "end": 4.28,
+                    "probability": 0.8026834726333618
+                },
+                {
+                    "word": " year.",
+                    "start": 4.28,
+                    "end": 4.76,
+                    "probability": 0.997481644153595
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

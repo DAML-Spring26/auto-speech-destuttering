@@ -1,0 +1,87 @@
+{
+    "text": " The concert was so crowded we could barely move.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.1,
+            "text": " The concert was so crowded we could barely move.",
+            "tokens": [
+                50364,
+                440,
+                8543,
+                390,
+                370,
+                21634,
+                321,
+                727,
+                10268,
+                1286,
+                13,
+                50539
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34281092423659104,
+            "compression_ratio": 0.8888888888888888,
+            "no_speech_prob": 0.005350417457520962,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7605542540550232
+                },
+                {
+                    "word": " concert",
+                    "start": 0.12,
+                    "end": 0.62,
+                    "probability": 0.982386589050293
+                },
+                {
+                    "word": " was",
+                    "start": 0.62,
+                    "end": 0.94,
+                    "probability": 0.9958916902542114
+                },
+                {
+                    "word": " so",
+                    "start": 0.94,
+                    "end": 1.18,
+                    "probability": 0.9927113056182861
+                },
+                {
+                    "word": " crowded",
+                    "start": 1.18,
+                    "end": 1.6,
+                    "probability": 0.9483373165130615
+                },
+                {
+                    "word": " we",
+                    "start": 1.6,
+                    "end": 2.16,
+                    "probability": 0.5311206579208374
+                },
+                {
+                    "word": " could",
+                    "start": 2.16,
+                    "end": 2.42,
+                    "probability": 0.9948269724845886
+                },
+                {
+                    "word": " barely",
+                    "start": 2.42,
+                    "end": 2.72,
+                    "probability": 0.9971177577972412
+                },
+                {
+                    "word": " move.",
+                    "start": 2.72,
+                    "end": 3.1,
+                    "probability": 0.9973303079605103
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

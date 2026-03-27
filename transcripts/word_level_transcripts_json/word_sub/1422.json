@@ -1,0 +1,73 @@
+{
+    "text": " Please submit your report by Friday afternoon.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.38,
+            "text": " Please submit your report by Friday afternoon.",
+            "tokens": [
+                50364,
+                2555,
+                10315,
+                428,
+                2275,
+                538,
+                6984,
+                6499,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3278577761216597,
+            "compression_ratio": 0.8518518518518519,
+            "no_speech_prob": 0.014575723558664322,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6869285702705383
+                },
+                {
+                    "word": " submit",
+                    "start": 0.16,
+                    "end": 0.54,
+                    "probability": 0.996815025806427
+                },
+                {
+                    "word": " your",
+                    "start": 0.54,
+                    "end": 0.78,
+                    "probability": 0.9946576952934265
+                },
+                {
+                    "word": " report",
+                    "start": 0.78,
+                    "end": 1.14,
+                    "probability": 0.9978051781654358
+                },
+                {
+                    "word": " by",
+                    "start": 1.14,
+                    "end": 1.42,
+                    "probability": 0.9856622815132141
+                },
+                {
+                    "word": " Friday",
+                    "start": 1.42,
+                    "end": 1.84,
+                    "probability": 0.9982700347900391
+                },
+                {
+                    "word": " afternoon.",
+                    "start": 1.84,
+                    "end": 2.38,
+                    "probability": 0.9850381016731262
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

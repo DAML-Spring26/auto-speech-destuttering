@@ -1,0 +1,105 @@
+{
+    "text": " She always wore sunscreen when... Going to the beach.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " She always wore sunscreen when...",
+            "tokens": [
+                50364,
+                1240,
+                1009,
+                13857,
+                30304,
+                562,
+                485,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7370336055755615,
+            "compression_ratio": 0.8833333333333333,
+            "no_speech_prob": 0.006039999891072512,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.780315637588501
+                },
+                {
+                    "word": " always",
+                    "start": 0.24,
+                    "end": 0.48,
+                    "probability": 0.9915614724159241
+                },
+                {
+                    "word": " wore",
+                    "start": 0.48,
+                    "end": 0.72,
+                    "probability": 0.6950792670249939
+                },
+                {
+                    "word": " sunscreen",
+                    "start": 0.72,
+                    "end": 1.26,
+                    "probability": 0.7300724983215332
+                },
+                {
+                    "word": " when...",
+                    "start": 1.26,
+                    "end": 2.0,
+                    "probability": 0.6221433132886887
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.06,
+            "end": 4.2,
+            "text": " Going to the beach.",
+            "tokens": [
+                50528,
+                10963,
+                281,
+                264,
+                7534,
+                13,
+                50592
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7370336055755615,
+            "compression_ratio": 0.8833333333333333,
+            "no_speech_prob": 0.006039999891072512,
+            "words": [
+                {
+                    "word": " Going",
+                    "start": 3.06,
+                    "end": 3.58,
+                    "probability": 0.18633098900318146
+                },
+                {
+                    "word": " to",
+                    "start": 3.58,
+                    "end": 3.74,
+                    "probability": 0.993870735168457
+                },
+                {
+                    "word": " the",
+                    "start": 3.74,
+                    "end": 3.84,
+                    "probability": 0.9893359541893005
+                },
+                {
+                    "word": " beach.",
+                    "start": 3.84,
+                    "end": 4.2,
+                    "probability": 0.9951918125152588
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

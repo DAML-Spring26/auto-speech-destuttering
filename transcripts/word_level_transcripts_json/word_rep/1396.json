@@ -1,0 +1,47 @@
+{
+    "text": " Plainsfly flying skies.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.5,
+            "text": " Plainsfly flying skies.",
+            "tokens": [
+                50364,
+                2149,
+                2315,
+                14061,
+                7137,
+                25861,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7709421051873101,
+            "compression_ratio": 0.7931034482758621,
+            "no_speech_prob": 0.024195576086640358,
+            "words": [
+                {
+                    "word": " Plainsfly",
+                    "start": 0.0,
+                    "end": 0.62,
+                    "probability": 0.40426354358593625
+                },
+                {
+                    "word": " flying",
+                    "start": 0.62,
+                    "end": 1.22,
+                    "probability": 0.7320972681045532
+                },
+                {
+                    "word": " skies.",
+                    "start": 1.22,
+                    "end": 1.5,
+                    "probability": 0.9737232327461243
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

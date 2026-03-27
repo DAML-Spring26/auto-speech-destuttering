@@ -1,0 +1,108 @@
+{
+    "text": " The experiment results which were unexpected have been published in the journal.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.24,
+            "text": " The experiment results which were unexpected have been published in the journal.",
+            "tokens": [
+                50364,
+                440,
+                5120,
+                3542,
+                597,
+                645,
+                13106,
+                362,
+                668,
+                6572,
+                294,
+                264,
+                6708,
+                13,
+                50644
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4080941081047058,
+            "compression_ratio": 1.0526315789473684,
+            "no_speech_prob": 0.01239792350679636,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.503996729850769
+                },
+                {
+                    "word": " experiment",
+                    "start": 0.16,
+                    "end": 0.68,
+                    "probability": 0.9088028073310852
+                },
+                {
+                    "word": " results",
+                    "start": 0.68,
+                    "end": 1.12,
+                    "probability": 0.9956656098365784
+                },
+                {
+                    "word": " which",
+                    "start": 1.12,
+                    "end": 1.86,
+                    "probability": 0.44472047686576843
+                },
+                {
+                    "word": " were",
+                    "start": 1.86,
+                    "end": 2.06,
+                    "probability": 0.9286401271820068
+                },
+                {
+                    "word": " unexpected",
+                    "start": 2.06,
+                    "end": 2.7,
+                    "probability": 0.9576831459999084
+                },
+                {
+                    "word": " have",
+                    "start": 2.7,
+                    "end": 3.38,
+                    "probability": 0.9184976816177368
+                },
+                {
+                    "word": " been",
+                    "start": 3.38,
+                    "end": 3.74,
+                    "probability": 0.9954681396484375
+                },
+                {
+                    "word": " published",
+                    "start": 3.74,
+                    "end": 4.48,
+                    "probability": 0.23706188797950745
+                },
+                {
+                    "word": " in",
+                    "start": 4.48,
+                    "end": 4.82,
+                    "probability": 0.9874649047851562
+                },
+                {
+                    "word": " the",
+                    "start": 4.82,
+                    "end": 4.9,
+                    "probability": 0.9921242594718933
+                },
+                {
+                    "word": " journal.",
+                    "start": 4.9,
+                    "end": 5.24,
+                    "probability": 0.9641282558441162
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,87 @@
+{
+    "text": " The quarterly report shows significant growth in sales thus.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.34,
+            "text": " The quarterly report shows significant growth in sales thus.",
+            "tokens": [
+                50364,
+                440,
+                38633,
+                2275,
+                3110,
+                4776,
+                4599,
+                294,
+                5763,
+                8807,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3602109688978929,
+            "compression_ratio": 0.9523809523809523,
+            "no_speech_prob": 0.025270745158195496,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.48,
+                    "probability": 0.9621008038520813
+                },
+                {
+                    "word": " quarterly",
+                    "start": 0.48,
+                    "end": 0.84,
+                    "probability": 0.7137698531150818
+                },
+                {
+                    "word": " report",
+                    "start": 0.84,
+                    "end": 1.24,
+                    "probability": 0.984632134437561
+                },
+                {
+                    "word": " shows",
+                    "start": 1.24,
+                    "end": 1.62,
+                    "probability": 0.9914754629135132
+                },
+                {
+                    "word": " significant",
+                    "start": 1.62,
+                    "end": 2.2,
+                    "probability": 0.9956692457199097
+                },
+                {
+                    "word": " growth",
+                    "start": 2.2,
+                    "end": 2.62,
+                    "probability": 0.9995036125183105
+                },
+                {
+                    "word": " in",
+                    "start": 2.62,
+                    "end": 2.82,
+                    "probability": 0.9889973402023315
+                },
+                {
+                    "word": " sales",
+                    "start": 2.82,
+                    "end": 3.16,
+                    "probability": 0.9896429181098938
+                },
+                {
+                    "word": " thus.",
+                    "start": 3.16,
+                    "end": 3.34,
+                    "probability": 0.19165293872356415
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

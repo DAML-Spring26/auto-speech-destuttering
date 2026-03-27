@@ -1,0 +1,80 @@
+{
+    "text": " Remember to bring comfortable shoes for walking toes.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.14,
+            "text": " Remember to bring comfortable shoes for walking toes.",
+            "tokens": [
+                50364,
+                5459,
+                281,
+                1565,
+                4619,
+                6654,
+                337,
+                4494,
+                14681,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.352200984954834,
+            "compression_ratio": 0.9464285714285714,
+            "no_speech_prob": 0.004078446421772242,
+            "words": [
+                {
+                    "word": " Remember",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.7967441082000732
+                },
+                {
+                    "word": " to",
+                    "start": 0.42,
+                    "end": 0.6,
+                    "probability": 0.975779116153717
+                },
+                {
+                    "word": " bring",
+                    "start": 0.6,
+                    "end": 0.82,
+                    "probability": 0.9785973429679871
+                },
+                {
+                    "word": " comfortable",
+                    "start": 0.82,
+                    "end": 1.28,
+                    "probability": 0.9927681684494019
+                },
+                {
+                    "word": " shoes",
+                    "start": 1.28,
+                    "end": 1.62,
+                    "probability": 0.9982950091362
+                },
+                {
+                    "word": " for",
+                    "start": 1.62,
+                    "end": 1.94,
+                    "probability": 0.897025465965271
+                },
+                {
+                    "word": " walking",
+                    "start": 1.94,
+                    "end": 5.74,
+                    "probability": 0.570137619972229
+                },
+                {
+                    "word": " toes.",
+                    "start": 5.74,
+                    "end": 6.14,
+                    "probability": 0.7010465264320374
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

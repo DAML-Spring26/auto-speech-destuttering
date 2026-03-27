@@ -1,0 +1,89 @@
+{
+    "text": " I heard you got a new job. Well, congratulations!",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.84,
+            "text": " I heard you got a new job. Well, congratulations!",
+            "tokens": [
+                50364,
+                286,
+                2198,
+                291,
+                658,
+                257,
+                777,
+                1691,
+                13,
+                1042,
+                11,
+                13568,
+                0,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34218953450520834,
+            "compression_ratio": 0.8596491228070176,
+            "no_speech_prob": 0.22584392130374908,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.9,
+                    "probability": 0.8920042514801025
+                },
+                {
+                    "word": " heard",
+                    "start": 0.9,
+                    "end": 1.18,
+                    "probability": 0.9899150133132935
+                },
+                {
+                    "word": " you",
+                    "start": 1.18,
+                    "end": 1.42,
+                    "probability": 0.9896094799041748
+                },
+                {
+                    "word": " got",
+                    "start": 1.42,
+                    "end": 1.62,
+                    "probability": 0.9722050428390503
+                },
+                {
+                    "word": " a",
+                    "start": 1.62,
+                    "end": 1.74,
+                    "probability": 0.9986775517463684
+                },
+                {
+                    "word": " new",
+                    "start": 1.74,
+                    "end": 1.94,
+                    "probability": 0.9959945678710938
+                },
+                {
+                    "word": " job.",
+                    "start": 1.94,
+                    "end": 2.42,
+                    "probability": 0.9995101690292358
+                },
+                {
+                    "word": " Well,",
+                    "start": 2.76,
+                    "end": 3.06,
+                    "probability": 0.946843683719635
+                },
+                {
+                    "word": " congratulations!",
+                    "start": 3.24,
+                    "end": 3.84,
+                    "probability": 0.9731066226959229
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,27 +1,26 @@
 {
-    "text": " She competed the survey last week.",
+    "text": " She competed the survey luck.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 2.0,
-            "text": " She competed the survey last week.",
+            "end": 1.4000000000000001,
+            "text": " She competed the survey luck.",
             "tokens": [
                 50364,
                 1240,
                 43619,
                 264,
                 8984,
-                1036,
-                1243,
+                3668,
                 13,
-                50464
+                50434
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.3855955362319946,
-            "compression_ratio": 0.85,
-            "no_speech_prob": 0.011123020201921463
+            "avg_logprob": -0.6701506508721246,
+            "compression_ratio": 0.8285714285714286,
+            "no_speech_prob": 0.018721623346209526
         }
     ],
     "language": "en"

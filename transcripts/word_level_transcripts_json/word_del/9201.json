@@ -1,0 +1,115 @@
+{
+    "text": " The fire department has notified and is on their way to the scene.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.24,
+            "text": " The fire department has notified and is on their way to the scene.",
+            "tokens": [
+                50364,
+                440,
+                2610,
+                5882,
+                575,
+                18013,
+                293,
+                307,
+                322,
+                641,
+                636,
+                281,
+                264,
+                4145,
+                13,
+                50538
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25492053873398723,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.005296027287840843,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8485026955604553
+                },
+                {
+                    "word": " fire",
+                    "start": 0.14,
+                    "end": 0.4,
+                    "probability": 0.5684417486190796
+                },
+                {
+                    "word": " department",
+                    "start": 0.4,
+                    "end": 0.8,
+                    "probability": 0.9925296902656555
+                },
+                {
+                    "word": " has",
+                    "start": 0.8,
+                    "end": 1.04,
+                    "probability": 0.9941739439964294
+                },
+                {
+                    "word": " notified",
+                    "start": 1.04,
+                    "end": 1.52,
+                    "probability": 0.7803353667259216
+                },
+                {
+                    "word": " and",
+                    "start": 1.52,
+                    "end": 1.96,
+                    "probability": 0.9201369285583496
+                },
+                {
+                    "word": " is",
+                    "start": 1.96,
+                    "end": 2.18,
+                    "probability": 0.9885536432266235
+                },
+                {
+                    "word": " on",
+                    "start": 2.18,
+                    "end": 2.3,
+                    "probability": 0.9971926808357239
+                },
+                {
+                    "word": " their",
+                    "start": 2.3,
+                    "end": 2.44,
+                    "probability": 0.9507647752761841
+                },
+                {
+                    "word": " way",
+                    "start": 2.44,
+                    "end": 2.64,
+                    "probability": 0.9997510313987732
+                },
+                {
+                    "word": " to",
+                    "start": 2.64,
+                    "end": 2.86,
+                    "probability": 0.9962818026542664
+                },
+                {
+                    "word": " the",
+                    "start": 2.86,
+                    "end": 2.98,
+                    "probability": 0.9922466278076172
+                },
+                {
+                    "word": " scene.",
+                    "start": 2.98,
+                    "end": 3.24,
+                    "probability": 0.9967393279075623
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,59 @@
+{
+    "text": " Please retain seated during turbulence.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.84,
+            "text": " Please retain seated during turbulence.",
+            "tokens": [
+                50364,
+                2555,
+                18340,
+                20959,
+                1830,
+                48612,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.46241431766086155,
+            "compression_ratio": 0.8297872340425532,
+            "no_speech_prob": 0.023262204602360725,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.6121756434440613
+                },
+                {
+                    "word": " retain",
+                    "start": 0.18,
+                    "end": 0.52,
+                    "probability": 0.9612300992012024
+                },
+                {
+                    "word": " seated",
+                    "start": 0.52,
+                    "end": 0.92,
+                    "probability": 0.7630258202552795
+                },
+                {
+                    "word": " during",
+                    "start": 0.92,
+                    "end": 1.34,
+                    "probability": 0.9938111901283264
+                },
+                {
+                    "word": " turbulence.",
+                    "start": 1.34,
+                    "end": 1.84,
+                    "probability": 0.9683346748352051
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

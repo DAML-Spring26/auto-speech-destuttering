@@ -1,0 +1,108 @@
+{
+    "text": " The concert which was originally scheduled for last month has been postponed.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.94,
+            "text": " The concert which was originally scheduled for last month has been postponed.",
+            "tokens": [
+                50364,
+                440,
+                8543,
+                597,
+                390,
+                7993,
+                15678,
+                337,
+                1036,
+                1618,
+                575,
+                668,
+                49023,
+                13,
+                50678
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31643426418304443,
+            "compression_ratio": 1.0405405405405406,
+            "no_speech_prob": 0.014437874779105186,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6516466736793518
+                },
+                {
+                    "word": " concert",
+                    "start": 0.1,
+                    "end": 0.56,
+                    "probability": 0.803589940071106
+                },
+                {
+                    "word": " which",
+                    "start": 0.56,
+                    "end": 1.1,
+                    "probability": 0.5638717412948608
+                },
+                {
+                    "word": " was",
+                    "start": 1.1,
+                    "end": 1.28,
+                    "probability": 0.9928982257843018
+                },
+                {
+                    "word": " originally",
+                    "start": 1.28,
+                    "end": 1.74,
+                    "probability": 0.9579768776893616
+                },
+                {
+                    "word": " scheduled",
+                    "start": 1.74,
+                    "end": 2.76,
+                    "probability": 0.9960715770721436
+                },
+                {
+                    "word": " for",
+                    "start": 2.76,
+                    "end": 3.12,
+                    "probability": 0.9670915007591248
+                },
+                {
+                    "word": " last",
+                    "start": 3.12,
+                    "end": 3.42,
+                    "probability": 0.9550371766090393
+                },
+                {
+                    "word": " month",
+                    "start": 3.42,
+                    "end": 3.78,
+                    "probability": 0.9951382279396057
+                },
+                {
+                    "word": " has",
+                    "start": 3.78,
+                    "end": 4.78,
+                    "probability": 0.7723726630210876
+                },
+                {
+                    "word": " been",
+                    "start": 4.78,
+                    "end": 5.26,
+                    "probability": 0.981149435043335
+                },
+                {
+                    "word": " postponed.",
+                    "start": 5.26,
+                    "end": 5.94,
+                    "probability": 0.9980157613754272
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

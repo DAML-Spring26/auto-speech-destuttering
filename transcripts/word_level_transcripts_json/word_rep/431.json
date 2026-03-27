@@ -1,0 +1,108 @@
+{
+    "text": " This algorithm is more efficient than in the one we used previously.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.7,
+            "text": " This algorithm is more efficient than in the one we used previously.",
+            "tokens": [
+                50364,
+                639,
+                9284,
+                307,
+                544,
+                7148,
+                813,
+                294,
+                264,
+                472,
+                321,
+                1143,
+                8046,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25189125537872314,
+            "compression_ratio": 0.9855072463768116,
+            "no_speech_prob": 0.0029448335990309715,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.8460260629653931
+                },
+                {
+                    "word": " algorithm",
+                    "start": 0.16,
+                    "end": 0.64,
+                    "probability": 0.9419854879379272
+                },
+                {
+                    "word": " is",
+                    "start": 0.64,
+                    "end": 0.96,
+                    "probability": 0.9899141788482666
+                },
+                {
+                    "word": " more",
+                    "start": 0.96,
+                    "end": 1.14,
+                    "probability": 0.9968331456184387
+                },
+                {
+                    "word": " efficient",
+                    "start": 1.14,
+                    "end": 1.54,
+                    "probability": 0.9971952438354492
+                },
+                {
+                    "word": " than",
+                    "start": 1.54,
+                    "end": 1.9,
+                    "probability": 0.8482348918914795
+                },
+                {
+                    "word": " in",
+                    "start": 1.9,
+                    "end": 2.28,
+                    "probability": 0.5490989089012146
+                },
+                {
+                    "word": " the",
+                    "start": 2.28,
+                    "end": 2.36,
+                    "probability": 0.989874005317688
+                },
+                {
+                    "word": " one",
+                    "start": 2.36,
+                    "end": 2.54,
+                    "probability": 0.9659442901611328
+                },
+                {
+                    "word": " we",
+                    "start": 2.54,
+                    "end": 2.72,
+                    "probability": 0.989730715751648
+                },
+                {
+                    "word": " used",
+                    "start": 2.72,
+                    "end": 2.92,
+                    "probability": 0.8398425579071045
+                },
+                {
+                    "word": " previously.",
+                    "start": 2.92,
+                    "end": 3.7,
+                    "probability": 0.9945726990699768
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

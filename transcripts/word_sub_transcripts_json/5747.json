@@ -1,0 +1,75 @@
+{
+    "text": " The philosopher pondered the nature of unconsciousness.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.38,
+            "text": " The philosopher pondered the nature of unconsciousness.",
+            "tokens": [
+                50364,
+                440,
+                29805,
+                17384,
+                4073,
+                264,
+                3687,
+                295,
+                18900,
+                1287,
+                13,
+                50548
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3779575274540828,
+            "compression_ratio": 0.9166666666666666,
+            "no_speech_prob": 0.010266941972076893,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.49314165115356445
+                },
+                {
+                    "word": " philosopher",
+                    "start": 0.12,
+                    "end": 0.66,
+                    "probability": 0.801367461681366
+                },
+                {
+                    "word": " pondered",
+                    "start": 0.66,
+                    "end": 1.36,
+                    "probability": 0.8625217080116272
+                },
+                {
+                    "word": " the",
+                    "start": 1.36,
+                    "end": 1.54,
+                    "probability": 0.988349437713623
+                },
+                {
+                    "word": " nature",
+                    "start": 1.54,
+                    "end": 1.92,
+                    "probability": 0.9791001677513123
+                },
+                {
+                    "word": " of",
+                    "start": 1.92,
+                    "end": 2.36,
+                    "probability": 0.9981098175048828
+                },
+                {
+                    "word": " unconsciousness.",
+                    "start": 2.36,
+                    "end": 3.38,
+                    "probability": 0.9815675616264343
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

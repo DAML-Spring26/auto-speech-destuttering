@@ -1,0 +1,81 @@
+{
+    "text": " The geologist studied the formation of volcanic locks.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.44,
+            "text": " The geologist studied the formation of volcanic locks.",
+            "tokens": [
+                50364,
+                440,
+                1519,
+                9201,
+                9454,
+                264,
+                11723,
+                295,
+                35813,
+                20703,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39145267926729643,
+            "compression_ratio": 0.8852459016393442,
+            "no_speech_prob": 0.014661643654108047,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.7648944854736328
+                },
+                {
+                    "word": " geologist",
+                    "start": 0.08,
+                    "end": 0.52,
+                    "probability": 0.7422100901603699
+                },
+                {
+                    "word": " studied",
+                    "start": 0.52,
+                    "end": 0.9,
+                    "probability": 0.9614068269729614
+                },
+                {
+                    "word": " the",
+                    "start": 0.9,
+                    "end": 1.04,
+                    "probability": 0.9919746518135071
+                },
+                {
+                    "word": " formation",
+                    "start": 1.04,
+                    "end": 1.46,
+                    "probability": 0.9933680891990662
+                },
+                {
+                    "word": " of",
+                    "start": 1.46,
+                    "end": 1.68,
+                    "probability": 0.9977746605873108
+                },
+                {
+                    "word": " volcanic",
+                    "start": 1.68,
+                    "end": 2.02,
+                    "probability": 0.9229434132575989
+                },
+                {
+                    "word": " locks.",
+                    "start": 2.02,
+                    "end": 2.44,
+                    "probability": 0.7245085835456848
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

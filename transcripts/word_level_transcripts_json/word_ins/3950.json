@@ -1,0 +1,101 @@
+{
+    "text": " The new marketing campaign will launch on in the coming weeks.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.62,
+            "text": " The new marketing campaign will launch on in the coming weeks.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                6370,
+                5129,
+                486,
+                4025,
+                322,
+                294,
+                264,
+                1348,
+                3259,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3466915766398112,
+            "compression_ratio": 0.9538461538461539,
+            "no_speech_prob": 0.09974241256713867,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 1.02,
+                    "probability": 0.8809181451797485
+                },
+                {
+                    "word": " new",
+                    "start": 1.02,
+                    "end": 1.16,
+                    "probability": 0.9809803366661072
+                },
+                {
+                    "word": " marketing",
+                    "start": 1.16,
+                    "end": 1.54,
+                    "probability": 0.8663876056671143
+                },
+                {
+                    "word": " campaign",
+                    "start": 1.54,
+                    "end": 2.06,
+                    "probability": 0.9945752620697021
+                },
+                {
+                    "word": " will",
+                    "start": 2.06,
+                    "end": 2.32,
+                    "probability": 0.9324312210083008
+                },
+                {
+                    "word": " launch",
+                    "start": 2.32,
+                    "end": 2.6,
+                    "probability": 0.9982059001922607
+                },
+                {
+                    "word": " on",
+                    "start": 2.6,
+                    "end": 2.82,
+                    "probability": 0.9520153403282166
+                },
+                {
+                    "word": " in",
+                    "start": 2.82,
+                    "end": 2.94,
+                    "probability": 0.9854646325111389
+                },
+                {
+                    "word": " the",
+                    "start": 2.94,
+                    "end": 3.02,
+                    "probability": 0.9917441010475159
+                },
+                {
+                    "word": " coming",
+                    "start": 3.02,
+                    "end": 3.26,
+                    "probability": 0.9918153882026672
+                },
+                {
+                    "word": " weeks.",
+                    "start": 3.26,
+                    "end": 3.62,
+                    "probability": 0.9932600855827332
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

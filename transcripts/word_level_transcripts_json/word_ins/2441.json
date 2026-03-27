@@ -1,0 +1,102 @@
+{
+    "text": " The Board of Directors will review the proposal like next month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.88,
+            "text": " The Board of Directors will review the proposal like next month.",
+            "tokens": [
+                50364,
+                440,
+                10008,
+                295,
+                5822,
+                5547,
+                486,
+                3131,
+                264,
+                11494,
+                411,
+                958,
+                1618,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2895961105823517,
+            "compression_ratio": 0.927536231884058,
+            "no_speech_prob": 0.030466370284557343,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.8803210258483887
+                },
+                {
+                    "word": " Board",
+                    "start": 0.34,
+                    "end": 0.48,
+                    "probability": 0.8088769316673279
+                },
+                {
+                    "word": " of",
+                    "start": 0.48,
+                    "end": 0.62,
+                    "probability": 0.9970818161964417
+                },
+                {
+                    "word": " Directors",
+                    "start": 0.62,
+                    "end": 1.08,
+                    "probability": 0.9927875399589539
+                },
+                {
+                    "word": " will",
+                    "start": 1.08,
+                    "end": 1.22,
+                    "probability": 0.9831863641738892
+                },
+                {
+                    "word": " review",
+                    "start": 1.22,
+                    "end": 1.46,
+                    "probability": 0.9916868805885315
+                },
+                {
+                    "word": " the",
+                    "start": 1.46,
+                    "end": 1.64,
+                    "probability": 0.9928010702133179
+                },
+                {
+                    "word": " proposal",
+                    "start": 1.64,
+                    "end": 2.06,
+                    "probability": 0.8698417544364929
+                },
+                {
+                    "word": " like",
+                    "start": 2.06,
+                    "end": 2.34,
+                    "probability": 0.8335210680961609
+                },
+                {
+                    "word": " next",
+                    "start": 2.34,
+                    "end": 2.6,
+                    "probability": 0.5683891177177429
+                },
+                {
+                    "word": " month.",
+                    "start": 2.6,
+                    "end": 2.88,
+                    "probability": 0.9956157207489014
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,74 @@
+{
+    "text": " Grandmas coming over for dinner on Sunday.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.54,
+            "text": " Grandmas coming over for dinner on Sunday.",
+            "tokens": [
+                50364,
+                6757,
+                3799,
+                1348,
+                670,
+                337,
+                6148,
+                322,
+                7776,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4850599765777588,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.0696004182100296,
+            "words": [
+                {
+                    "word": " Grandmas",
+                    "start": 0.0,
+                    "end": 0.76,
+                    "probability": 0.6058952510356903
+                },
+                {
+                    "word": " coming",
+                    "start": 0.76,
+                    "end": 1.3,
+                    "probability": 0.6244072318077087
+                },
+                {
+                    "word": " over",
+                    "start": 1.3,
+                    "end": 1.56,
+                    "probability": 0.9925091862678528
+                },
+                {
+                    "word": " for",
+                    "start": 1.56,
+                    "end": 1.74,
+                    "probability": 0.9934377074241638
+                },
+                {
+                    "word": " dinner",
+                    "start": 1.74,
+                    "end": 1.98,
+                    "probability": 0.9948474168777466
+                },
+                {
+                    "word": " on",
+                    "start": 1.98,
+                    "end": 2.18,
+                    "probability": 0.9797128438949585
+                },
+                {
+                    "word": " Sunday.",
+                    "start": 2.18,
+                    "end": 2.54,
+                    "probability": 0.8959000706672668
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

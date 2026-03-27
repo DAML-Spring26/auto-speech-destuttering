@@ -1,0 +1,52 @@
+{
+    "text": " please check the smile.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.98,
+            "text": " please check the smile.",
+            "tokens": [
+                50364,
+                1767,
+                1520,
+                264,
+                7563,
+                13,
+                50422
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5930086970329285,
+            "compression_ratio": 0.7419354838709677,
+            "no_speech_prob": 0.019870035350322723,
+            "words": [
+                {
+                    "word": " please",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.5463767051696777
+                },
+                {
+                    "word": " check",
+                    "start": 0.26,
+                    "end": 0.52,
+                    "probability": 0.8934122920036316
+                },
+                {
+                    "word": " the",
+                    "start": 0.52,
+                    "end": 0.7,
+                    "probability": 0.8787103891372681
+                },
+                {
+                    "word": " smile.",
+                    "start": 0.7,
+                    "end": 0.98,
+                    "probability": 0.6902803182601929
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

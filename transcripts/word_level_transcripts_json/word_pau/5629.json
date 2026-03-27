@@ -1,0 +1,121 @@
+{
+    "text": " Could you explain the significance of these results in... Laman's terms.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.46,
+            "text": " Could you explain the significance of these results in...",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                2903,
+                264,
+                17687,
+                295,
+                613,
+                3542,
+                294,
+                485,
+                50581
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6265816688537598,
+            "compression_ratio": 0.972972972972973,
+            "no_speech_prob": 0.029994452372193336,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.912634015083313
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.32,
+                    "probability": 0.9951007962226868
+                },
+                {
+                    "word": " explain",
+                    "start": 0.32,
+                    "end": 0.76,
+                    "probability": 0.9821503758430481
+                },
+                {
+                    "word": " the",
+                    "start": 0.76,
+                    "end": 0.98,
+                    "probability": 0.9921485185623169
+                },
+                {
+                    "word": " significance",
+                    "start": 0.98,
+                    "end": 1.56,
+                    "probability": 0.9954556226730347
+                },
+                {
+                    "word": " of",
+                    "start": 1.56,
+                    "end": 1.92,
+                    "probability": 0.9981905817985535
+                },
+                {
+                    "word": " these",
+                    "start": 1.92,
+                    "end": 2.16,
+                    "probability": 0.9858378767967224
+                },
+                {
+                    "word": " results",
+                    "start": 2.16,
+                    "end": 2.64,
+                    "probability": 0.9953078627586365
+                },
+                {
+                    "word": " in...",
+                    "start": 2.64,
+                    "end": 4.46,
+                    "probability": 0.6045487448573112
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.46,
+            "end": 5.32,
+            "text": " Laman's terms.",
+            "tokens": [
+                50581,
+                441,
+                6147,
+                311,
+                2115,
+                13,
+                50669
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6265816688537598,
+            "compression_ratio": 0.972972972972973,
+            "no_speech_prob": 0.029994452372193336,
+            "words": [
+                {
+                    "word": " Laman's",
+                    "start": 4.46,
+                    "end": 5.1,
+                    "probability": 0.4840328296025594
+                },
+                {
+                    "word": " terms.",
+                    "start": 5.1,
+                    "end": 5.32,
+                    "probability": 0.8408803343772888
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

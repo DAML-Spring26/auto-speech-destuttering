@@ -1,0 +1,141 @@
+{
+    "text": " I'm not sure if I can attend the team building. A ven next weekend.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.36,
+            "text": " I'm not sure if I can attend the team building.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                406,
+                988,
+                498,
+                286,
+                393,
+                6888,
+                264,
+                1469,
+                2390,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5666118535128507,
+            "compression_ratio": 0.9571428571428572,
+            "no_speech_prob": 0.005840100347995758,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.9212397336959839
+                },
+                {
+                    "word": " not",
+                    "start": 0.24,
+                    "end": 0.36,
+                    "probability": 0.9977673292160034
+                },
+                {
+                    "word": " sure",
+                    "start": 0.36,
+                    "end": 0.58,
+                    "probability": 0.9894741177558899
+                },
+                {
+                    "word": " if",
+                    "start": 0.58,
+                    "end": 0.84,
+                    "probability": 0.9871982932090759
+                },
+                {
+                    "word": " I",
+                    "start": 0.84,
+                    "end": 1.0,
+                    "probability": 0.9830734729766846
+                },
+                {
+                    "word": " can",
+                    "start": 1.0,
+                    "end": 1.16,
+                    "probability": 0.9977855682373047
+                },
+                {
+                    "word": " attend",
+                    "start": 1.16,
+                    "end": 1.4,
+                    "probability": 0.9901403784751892
+                },
+                {
+                    "word": " the",
+                    "start": 1.4,
+                    "end": 1.68,
+                    "probability": 0.9566489458084106
+                },
+                {
+                    "word": " team",
+                    "start": 1.68,
+                    "end": 1.9,
+                    "probability": 0.9714945554733276
+                },
+                {
+                    "word": " building.",
+                    "start": 1.9,
+                    "end": 2.36,
+                    "probability": 0.8527342677116394
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.2,
+            "end": 7.54,
+            "text": " A ven next weekend.",
+            "tokens": [
+                50692,
+                316,
+                6138,
+                958,
+                6711,
+                13,
+                50792
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5666118535128507,
+            "compression_ratio": 0.9571428571428572,
+            "no_speech_prob": 0.005840100347995758,
+            "words": [
+                {
+                    "word": " A",
+                    "start": 6.2,
+                    "end": 6.7,
+                    "probability": 0.6648131012916565
+                },
+                {
+                    "word": " ven",
+                    "start": 6.7,
+                    "end": 6.86,
+                    "probability": 0.16918547451496124
+                },
+                {
+                    "word": " next",
+                    "start": 6.86,
+                    "end": 7.2,
+                    "probability": 0.8843002915382385
+                },
+                {
+                    "word": " weekend.",
+                    "start": 7.2,
+                    "end": 7.54,
+                    "probability": 0.9749095439910889
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

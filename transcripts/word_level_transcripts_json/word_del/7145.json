@@ -1,0 +1,80 @@
+{
+    "text": " Patient has been waiting in the examination room.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.3,
+            "text": " Patient has been waiting in the examination room.",
+            "tokens": [
+                50364,
+                25173,
+                575,
+                668,
+                3806,
+                294,
+                264,
+                23874,
+                1808,
+                13,
+                50486
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3306698004404704,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.005680540576577187,
+            "words": [
+                {
+                    "word": " Patient",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.7292177081108093
+                },
+                {
+                    "word": " has",
+                    "start": 0.32,
+                    "end": 0.58,
+                    "probability": 0.9923174381256104
+                },
+                {
+                    "word": " been",
+                    "start": 0.58,
+                    "end": 0.76,
+                    "probability": 0.99860018491745
+                },
+                {
+                    "word": " waiting",
+                    "start": 0.76,
+                    "end": 1.0,
+                    "probability": 0.638434112071991
+                },
+                {
+                    "word": " in",
+                    "start": 1.0,
+                    "end": 1.24,
+                    "probability": 0.9948719143867493
+                },
+                {
+                    "word": " the",
+                    "start": 1.24,
+                    "end": 1.36,
+                    "probability": 0.9957427382469177
+                },
+                {
+                    "word": " examination",
+                    "start": 1.36,
+                    "end": 1.84,
+                    "probability": 0.9848331809043884
+                },
+                {
+                    "word": " room.",
+                    "start": 1.84,
+                    "end": 2.3,
+                    "probability": 0.9984990358352661
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,45 @@
+{
+    "text": " Time flies fast.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.7,
+            "text": " Time flies fast.",
+            "tokens": [
+                50364,
+                6161,
+                17414,
+                2370,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6326961517333984,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.012087829411029816,
+            "words": [
+                {
+                    "word": " Time",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.636934757232666
+                },
+                {
+                    "word": " flies",
+                    "start": 0.26,
+                    "end": 0.72,
+                    "probability": 0.9911965131759644
+                },
+                {
+                    "word": " fast.",
+                    "start": 0.72,
+                    "end": 1.7,
+                    "probability": 0.24089941382408142
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,95 @@
+{
+    "text": " Don't forget to bring your ID badge to the office.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.1999999999999995,
+            "end": 4.18,
+            "text": " Don't forget to bring your ID badge to the office.",
+            "tokens": [
+                50364,
+                1468,
+                380,
+                2870,
+                281,
+                1565,
+                428,
+                7348,
+                25797,
+                281,
+                264,
+                3398,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29618132909139,
+            "compression_ratio": 0.8928571428571429,
+            "no_speech_prob": 0.033853791654109955,
+            "words": [
+                {
+                    "word": " Don't",
+                    "start": 1.1999999999999995,
+                    "end": 1.72,
+                    "probability": 0.9450443089008331
+                },
+                {
+                    "word": " forget",
+                    "start": 1.72,
+                    "end": 1.98,
+                    "probability": 0.993950605392456
+                },
+                {
+                    "word": " to",
+                    "start": 1.98,
+                    "end": 2.18,
+                    "probability": 0.9988828301429749
+                },
+                {
+                    "word": " bring",
+                    "start": 2.18,
+                    "end": 2.38,
+                    "probability": 0.9798815250396729
+                },
+                {
+                    "word": " your",
+                    "start": 2.38,
+                    "end": 2.66,
+                    "probability": 0.9910797476768494
+                },
+                {
+                    "word": " ID",
+                    "start": 2.66,
+                    "end": 2.92,
+                    "probability": 0.8341290354728699
+                },
+                {
+                    "word": " badge",
+                    "start": 2.92,
+                    "end": 3.34,
+                    "probability": 0.9747441411018372
+                },
+                {
+                    "word": " to",
+                    "start": 3.34,
+                    "end": 3.6,
+                    "probability": 0.9860652685165405
+                },
+                {
+                    "word": " the",
+                    "start": 3.6,
+                    "end": 3.74,
+                    "probability": 0.9399704337120056
+                },
+                {
+                    "word": " office.",
+                    "start": 3.74,
+                    "end": 4.18,
+                    "probability": 0.950738251209259
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

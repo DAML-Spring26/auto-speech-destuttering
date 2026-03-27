@@ -1,0 +1,88 @@
+{
+    "text": " The new exhibition showcases contemporary are from local artists.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.06,
+            "text": " The new exhibition showcases contemporary are from local artists.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                14414,
+                29794,
+                1957,
+                14878,
+                366,
+                490,
+                2654,
+                6910,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42230524335588726,
+            "compression_ratio": 0.9701492537313433,
+            "no_speech_prob": 0.00859467126429081,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.65571528673172
+                },
+                {
+                    "word": " new",
+                    "start": 0.14,
+                    "end": 0.42,
+                    "probability": 0.5462176203727722
+                },
+                {
+                    "word": " exhibition",
+                    "start": 0.42,
+                    "end": 1.06,
+                    "probability": 0.9702553153038025
+                },
+                {
+                    "word": " showcases",
+                    "start": 1.06,
+                    "end": 2.0,
+                    "probability": 0.9972172975540161
+                },
+                {
+                    "word": " contemporary",
+                    "start": 2.0,
+                    "end": 2.72,
+                    "probability": 0.9801325798034668
+                },
+                {
+                    "word": " are",
+                    "start": 2.72,
+                    "end": 3.08,
+                    "probability": 0.5849081873893738
+                },
+                {
+                    "word": " from",
+                    "start": 3.08,
+                    "end": 3.46,
+                    "probability": 0.993111252784729
+                },
+                {
+                    "word": " local",
+                    "start": 3.46,
+                    "end": 6.24,
+                    "probability": 0.41428571939468384
+                },
+                {
+                    "word": " artists.",
+                    "start": 6.24,
+                    "end": 7.06,
+                    "probability": 0.9343651533126831
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,101 @@
+{
+    "text": " The doctor recommends reducing your salt intake to lower blood pressure.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.6,
+            "text": " The doctor recommends reducing your salt intake to lower blood pressure.",
+            "tokens": [
+                50364,
+                440,
+                4631,
+                34556,
+                12245,
+                428,
+                5139,
+                18060,
+                281,
+                3126,
+                3390,
+                3321,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.343975035349528,
+            "compression_ratio": 1.0140845070422535,
+            "no_speech_prob": 0.004078992176800966,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7791104316711426
+                },
+                {
+                    "word": " doctor",
+                    "start": 0.14,
+                    "end": 0.44,
+                    "probability": 0.7770799994468689
+                },
+                {
+                    "word": " recommends",
+                    "start": 0.44,
+                    "end": 0.98,
+                    "probability": 0.9919636249542236
+                },
+                {
+                    "word": " reducing",
+                    "start": 0.98,
+                    "end": 1.52,
+                    "probability": 0.9829418063163757
+                },
+                {
+                    "word": " your",
+                    "start": 1.52,
+                    "end": 1.78,
+                    "probability": 0.9382094740867615
+                },
+                {
+                    "word": " salt",
+                    "start": 1.78,
+                    "end": 2.04,
+                    "probability": 0.9376881718635559
+                },
+                {
+                    "word": " intake",
+                    "start": 2.04,
+                    "end": 2.52,
+                    "probability": 0.8177980780601501
+                },
+                {
+                    "word": " to",
+                    "start": 2.52,
+                    "end": 2.84,
+                    "probability": 0.7661798596382141
+                },
+                {
+                    "word": " lower",
+                    "start": 2.84,
+                    "end": 4.88,
+                    "probability": 0.9028348922729492
+                },
+                {
+                    "word": " blood",
+                    "start": 4.88,
+                    "end": 5.14,
+                    "probability": 0.9929962754249573
+                },
+                {
+                    "word": " pressure.",
+                    "start": 5.14,
+                    "end": 5.6,
+                    "probability": 0.9997674822807312
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

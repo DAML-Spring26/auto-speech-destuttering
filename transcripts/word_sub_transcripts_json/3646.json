@@ -1,0 +1,59 @@
+{
+    "text": " The prototype demonstrates innovative creatures.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.74,
+            "text": " The prototype demonstrates innovative creatures.",
+            "tokens": [
+                50364,
+                440,
+                19475,
+                31034,
+                12999,
+                12281,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4556006325615777,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.007687047123908997,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5094371438026428
+                },
+                {
+                    "word": " prototype",
+                    "start": 0.1,
+                    "end": 0.5,
+                    "probability": 0.9910160303115845
+                },
+                {
+                    "word": " demonstrates",
+                    "start": 0.5,
+                    "end": 1.48,
+                    "probability": 0.9828782081604004
+                },
+                {
+                    "word": " innovative",
+                    "start": 1.48,
+                    "end": 2.04,
+                    "probability": 0.9954332113265991
+                },
+                {
+                    "word": " creatures.",
+                    "start": 2.04,
+                    "end": 2.74,
+                    "probability": 0.9938098788261414
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

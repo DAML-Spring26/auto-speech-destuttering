@@ -1,0 +1,94 @@
+{
+    "text": " We should like review the literature before starting the research.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.26,
+            "text": " We should like review the literature before starting the research.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                411,
+                3131,
+                264,
+                10394,
+                949,
+                2891,
+                264,
+                2132,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3814617225102016,
+            "compression_ratio": 0.9850746268656716,
+            "no_speech_prob": 0.07306357473134995,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.82,
+                    "probability": 0.7973462343215942
+                },
+                {
+                    "word": " should",
+                    "start": 0.82,
+                    "end": 1.04,
+                    "probability": 0.9833547472953796
+                },
+                {
+                    "word": " like",
+                    "start": 1.04,
+                    "end": 1.32,
+                    "probability": 0.9027606248855591
+                },
+                {
+                    "word": " review",
+                    "start": 1.32,
+                    "end": 2.1,
+                    "probability": 0.6333226561546326
+                },
+                {
+                    "word": " the",
+                    "start": 2.1,
+                    "end": 2.32,
+                    "probability": 0.9890602827072144
+                },
+                {
+                    "word": " literature",
+                    "start": 2.32,
+                    "end": 2.78,
+                    "probability": 0.9956604838371277
+                },
+                {
+                    "word": " before",
+                    "start": 2.78,
+                    "end": 3.16,
+                    "probability": 0.9922733902931213
+                },
+                {
+                    "word": " starting",
+                    "start": 3.16,
+                    "end": 3.62,
+                    "probability": 0.9928211569786072
+                },
+                {
+                    "word": " the",
+                    "start": 3.62,
+                    "end": 3.82,
+                    "probability": 0.9940063953399658
+                },
+                {
+                    "word": " research.",
+                    "start": 3.82,
+                    "end": 4.26,
+                    "probability": 0.9929248094558716
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

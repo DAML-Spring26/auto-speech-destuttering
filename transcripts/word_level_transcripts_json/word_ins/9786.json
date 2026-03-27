@@ -1,0 +1,81 @@
+{
+    "text": " The client requested like, changes to the design.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.74,
+            "text": " The client requested like, changes to the design.",
+            "tokens": [
+                50364,
+                440,
+                6423,
+                16436,
+                411,
+                11,
+                2962,
+                281,
+                264,
+                1715,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36307378915640026,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.0468587763607502,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 1.02,
+                    "probability": 0.9502617120742798
+                },
+                {
+                    "word": " client",
+                    "start": 1.02,
+                    "end": 1.3,
+                    "probability": 0.9544278979301453
+                },
+                {
+                    "word": " requested",
+                    "start": 1.3,
+                    "end": 1.84,
+                    "probability": 0.9909659624099731
+                },
+                {
+                    "word": " like,",
+                    "start": 1.84,
+                    "end": 2.14,
+                    "probability": 0.7234774827957153
+                },
+                {
+                    "word": " changes",
+                    "start": 2.7,
+                    "end": 3.04,
+                    "probability": 0.9377203583717346
+                },
+                {
+                    "word": " to",
+                    "start": 3.04,
+                    "end": 3.3,
+                    "probability": 0.9969283938407898
+                },
+                {
+                    "word": " the",
+                    "start": 3.3,
+                    "end": 3.42,
+                    "probability": 0.9957454800605774
+                },
+                {
+                    "word": " design.",
+                    "start": 3.42,
+                    "end": 3.74,
+                    "probability": 0.9851637482643127
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

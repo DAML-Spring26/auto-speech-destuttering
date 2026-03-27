@@ -1,0 +1,87 @@
+{
+    "text": " Could you please forward email to all department heads?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.34,
+            "text": " Could you please forward email to all department heads?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                2128,
+                3796,
+                281,
+                439,
+                5882,
+                8050,
+                30,
+                50494
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3749697025005634,
+            "compression_ratio": 0.9166666666666666,
+            "no_speech_prob": 0.026775551959872246,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.9452901482582092
+                },
+                {
+                    "word": " you",
+                    "start": 0.12,
+                    "end": 0.26,
+                    "probability": 0.9983820915222168
+                },
+                {
+                    "word": " please",
+                    "start": 0.26,
+                    "end": 0.48,
+                    "probability": 0.9927214980125427
+                },
+                {
+                    "word": " forward",
+                    "start": 0.48,
+                    "end": 0.8,
+                    "probability": 0.9781569838523865
+                },
+                {
+                    "word": " email",
+                    "start": 0.8,
+                    "end": 1.12,
+                    "probability": 0.7684329152107239
+                },
+                {
+                    "word": " to",
+                    "start": 1.12,
+                    "end": 1.38,
+                    "probability": 0.9874310493469238
+                },
+                {
+                    "word": " all",
+                    "start": 1.38,
+                    "end": 1.52,
+                    "probability": 0.6910528540611267
+                },
+                {
+                    "word": " department",
+                    "start": 1.52,
+                    "end": 1.92,
+                    "probability": 0.7881597280502319
+                },
+                {
+                    "word": " heads?",
+                    "start": 1.92,
+                    "end": 2.34,
+                    "probability": 0.9754613637924194
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

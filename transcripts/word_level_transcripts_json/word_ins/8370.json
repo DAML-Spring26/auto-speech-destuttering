@@ -1,0 +1,67 @@
+{
+    "text": " What's for dinner like tonight mom?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.24,
+            "text": " What's for dinner like tonight mom?",
+            "tokens": [
+                50364,
+                708,
+                311,
+                337,
+                6148,
+                411,
+                4440,
+                1225,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.549797231500799,
+            "compression_ratio": 0.813953488372093,
+            "no_speech_prob": 0.08183521032333374,
+            "words": [
+                {
+                    "word": " What's",
+                    "start": 0.0,
+                    "end": 0.78,
+                    "probability": 0.9009141623973846
+                },
+                {
+                    "word": " for",
+                    "start": 0.78,
+                    "end": 0.9,
+                    "probability": 0.9270323514938354
+                },
+                {
+                    "word": " dinner",
+                    "start": 0.9,
+                    "end": 1.12,
+                    "probability": 0.987902820110321
+                },
+                {
+                    "word": " like",
+                    "start": 1.12,
+                    "end": 1.42,
+                    "probability": 0.8449558615684509
+                },
+                {
+                    "word": " tonight",
+                    "start": 1.42,
+                    "end": 1.92,
+                    "probability": 0.5715762376785278
+                },
+                {
+                    "word": " mom?",
+                    "start": 1.92,
+                    "end": 2.24,
+                    "probability": 0.33546382188796997
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

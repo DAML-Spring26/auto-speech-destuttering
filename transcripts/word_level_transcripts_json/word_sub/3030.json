@@ -1,0 +1,74 @@
+{
+    "text": " The patient shows signs of ribude recovery.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.3,
+            "text": " The patient shows signs of ribude recovery.",
+            "tokens": [
+                50364,
+                440,
+                4537,
+                3110,
+                7880,
+                295,
+                9162,
+                2303,
+                8597,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6503073771794637,
+            "compression_ratio": 0.8431372549019608,
+            "no_speech_prob": 0.009512004442512989,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6720232367515564
+                },
+                {
+                    "word": " patient",
+                    "start": 0.14,
+                    "end": 0.5,
+                    "probability": 0.9215407967567444
+                },
+                {
+                    "word": " shows",
+                    "start": 0.5,
+                    "end": 0.86,
+                    "probability": 0.9695013761520386
+                },
+                {
+                    "word": " signs",
+                    "start": 0.86,
+                    "end": 1.26,
+                    "probability": 0.9995984435081482
+                },
+                {
+                    "word": " of",
+                    "start": 1.26,
+                    "end": 1.5,
+                    "probability": 0.9987252354621887
+                },
+                {
+                    "word": " ribude",
+                    "start": 1.5,
+                    "end": 1.84,
+                    "probability": 0.15575097501277924
+                },
+                {
+                    "word": " recovery.",
+                    "start": 1.84,
+                    "end": 2.3,
+                    "probability": 0.996733546257019
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,109 @@
+{
+    "text": " Although it was raining, we decided to go for a walk anywhere.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.84,
+            "text": " Although it was raining, we decided to go for a walk anywhere.",
+            "tokens": [
+                50364,
+                5780,
+                309,
+                390,
+                18441,
+                11,
+                321,
+                3047,
+                281,
+                352,
+                337,
+                257,
+                1792,
+                4992,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29874465044806986,
+            "compression_ratio": 0.9393939393939394,
+            "no_speech_prob": 0.0026231184601783752,
+            "words": [
+                {
+                    "word": " Although",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.7548004984855652
+                },
+                {
+                    "word": " it",
+                    "start": 0.2,
+                    "end": 0.36,
+                    "probability": 0.961391031742096
+                },
+                {
+                    "word": " was",
+                    "start": 0.36,
+                    "end": 0.46,
+                    "probability": 0.9910344481468201
+                },
+                {
+                    "word": " raining,",
+                    "start": 0.46,
+                    "end": 0.76,
+                    "probability": 0.9793724417686462
+                },
+                {
+                    "word": " we",
+                    "start": 0.94,
+                    "end": 1.0,
+                    "probability": 0.9959086179733276
+                },
+                {
+                    "word": " decided",
+                    "start": 1.0,
+                    "end": 1.28,
+                    "probability": 0.9907037615776062
+                },
+                {
+                    "word": " to",
+                    "start": 1.28,
+                    "end": 1.64,
+                    "probability": 0.9851614236831665
+                },
+                {
+                    "word": " go",
+                    "start": 1.64,
+                    "end": 1.98,
+                    "probability": 0.9651282429695129
+                },
+                {
+                    "word": " for",
+                    "start": 1.98,
+                    "end": 2.18,
+                    "probability": 0.839264988899231
+                },
+                {
+                    "word": " a",
+                    "start": 2.18,
+                    "end": 2.26,
+                    "probability": 0.9765927195549011
+                },
+                {
+                    "word": " walk",
+                    "start": 2.26,
+                    "end": 2.48,
+                    "probability": 0.9905185103416443
+                },
+                {
+                    "word": " anywhere.",
+                    "start": 2.48,
+                    "end": 2.84,
+                    "probability": 0.45390084385871887
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

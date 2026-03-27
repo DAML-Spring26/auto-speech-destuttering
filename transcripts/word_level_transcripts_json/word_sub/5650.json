@@ -1,0 +1,88 @@
+{
+    "text": " The lawyer will oblige to the line of questioning.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.96,
+            "text": " The lawyer will oblige to the line of questioning.",
+            "tokens": [
+                50364,
+                440,
+                11613,
+                486,
+                23740,
+                3969,
+                281,
+                264,
+                1622,
+                295,
+                21257,
+                13,
+                50534
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31391821588788715,
+            "compression_ratio": 0.8928571428571429,
+            "no_speech_prob": 0.010910870507359505,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7412897944450378
+                },
+                {
+                    "word": " lawyer",
+                    "start": 0.12,
+                    "end": 0.56,
+                    "probability": 0.9607407450675964
+                },
+                {
+                    "word": " will",
+                    "start": 0.56,
+                    "end": 0.82,
+                    "probability": 0.9971544742584229
+                },
+                {
+                    "word": " oblige",
+                    "start": 0.82,
+                    "end": 1.46,
+                    "probability": 0.8245357275009155
+                },
+                {
+                    "word": " to",
+                    "start": 1.46,
+                    "end": 1.68,
+                    "probability": 0.9775422811508179
+                },
+                {
+                    "word": " the",
+                    "start": 1.68,
+                    "end": 1.82,
+                    "probability": 0.9923464059829712
+                },
+                {
+                    "word": " line",
+                    "start": 1.82,
+                    "end": 2.12,
+                    "probability": 0.9230681657791138
+                },
+                {
+                    "word": " of",
+                    "start": 2.12,
+                    "end": 2.28,
+                    "probability": 0.9976603984832764
+                },
+                {
+                    "word": " questioning.",
+                    "start": 2.28,
+                    "end": 2.96,
+                    "probability": 0.9928702712059021
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

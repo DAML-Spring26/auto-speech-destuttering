@@ -1,0 +1,66 @@
+{
+    "text": " The security system requires regular containment.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.86,
+            "text": " The security system requires regular containment.",
+            "tokens": [
+                50364,
+                440,
+                3825,
+                1185,
+                7029,
+                3890,
+                44058,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40252065658569336,
+            "compression_ratio": 0.8909090909090909,
+            "no_speech_prob": 0.00849601998925209,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7235754132270813
+                },
+                {
+                    "word": " security",
+                    "start": 0.1,
+                    "end": 0.68,
+                    "probability": 0.9557549953460693
+                },
+                {
+                    "word": " system",
+                    "start": 0.68,
+                    "end": 1.22,
+                    "probability": 0.9984087347984314
+                },
+                {
+                    "word": " requires",
+                    "start": 1.22,
+                    "end": 1.72,
+                    "probability": 0.9948934316635132
+                },
+                {
+                    "word": " regular",
+                    "start": 1.72,
+                    "end": 2.18,
+                    "probability": 0.992950439453125
+                },
+                {
+                    "word": " containment.",
+                    "start": 2.18,
+                    "end": 2.86,
+                    "probability": 0.9961799383163452
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

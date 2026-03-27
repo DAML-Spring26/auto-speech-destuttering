@@ -1,0 +1,108 @@
+{
+    "text": " The CEO emphasized that the importance of innovation in his annual speech.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.12,
+            "text": " The CEO emphasized that the importance of innovation in his annual speech.",
+            "tokens": [
+                50364,
+                440,
+                9282,
+                34068,
+                300,
+                264,
+                7379,
+                295,
+                8504,
+                294,
+                702,
+                9784,
+                6218,
+                13,
+                50584
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31899547576904297,
+            "compression_ratio": 0.9866666666666667,
+            "no_speech_prob": 0.0072607495822012424,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6152268052101135
+                },
+                {
+                    "word": " CEO",
+                    "start": 0.16,
+                    "end": 0.44,
+                    "probability": 0.815920352935791
+                },
+                {
+                    "word": " emphasized",
+                    "start": 0.44,
+                    "end": 0.92,
+                    "probability": 0.8258988857269287
+                },
+                {
+                    "word": " that",
+                    "start": 0.92,
+                    "end": 1.34,
+                    "probability": 0.747829258441925
+                },
+                {
+                    "word": " the",
+                    "start": 1.34,
+                    "end": 1.5,
+                    "probability": 0.9707750678062439
+                },
+                {
+                    "word": " importance",
+                    "start": 1.5,
+                    "end": 1.96,
+                    "probability": 0.9982253909111023
+                },
+                {
+                    "word": " of",
+                    "start": 1.96,
+                    "end": 2.2,
+                    "probability": 0.9989763498306274
+                },
+                {
+                    "word": " innovation",
+                    "start": 2.2,
+                    "end": 2.78,
+                    "probability": 0.9823547601699829
+                },
+                {
+                    "word": " in",
+                    "start": 2.78,
+                    "end": 3.04,
+                    "probability": 0.983915388584137
+                },
+                {
+                    "word": " his",
+                    "start": 3.04,
+                    "end": 3.3,
+                    "probability": 0.9912471175193787
+                },
+                {
+                    "word": " annual",
+                    "start": 3.3,
+                    "end": 3.64,
+                    "probability": 0.9909275770187378
+                },
+                {
+                    "word": " speech.",
+                    "start": 3.64,
+                    "end": 4.12,
+                    "probability": 0.9987561702728271
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

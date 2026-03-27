@@ -1,0 +1,87 @@
+{
+    "text": " Have you finished the presentation for the board meeting?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.78,
+            "end": 3.86,
+            "text": " Have you finished the presentation for the board meeting?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                4335,
+                264,
+                5860,
+                337,
+                264,
+                3150,
+                3440,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35576072105994594,
+            "compression_ratio": 0.9193548387096774,
+            "no_speech_prob": 0.08448059856891632,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.78,
+                    "end": 1.36,
+                    "probability": 0.7297834753990173
+                },
+                {
+                    "word": " you",
+                    "start": 1.36,
+                    "end": 1.5,
+                    "probability": 0.9970754384994507
+                },
+                {
+                    "word": " finished",
+                    "start": 1.5,
+                    "end": 1.82,
+                    "probability": 0.9736559987068176
+                },
+                {
+                    "word": " the",
+                    "start": 1.82,
+                    "end": 2.08,
+                    "probability": 0.9362252354621887
+                },
+                {
+                    "word": " presentation",
+                    "start": 2.08,
+                    "end": 2.68,
+                    "probability": 0.9536352753639221
+                },
+                {
+                    "word": " for",
+                    "start": 2.68,
+                    "end": 3.14,
+                    "probability": 0.9837163686752319
+                },
+                {
+                    "word": " the",
+                    "start": 3.14,
+                    "end": 3.3,
+                    "probability": 0.9901974201202393
+                },
+                {
+                    "word": " board",
+                    "start": 3.3,
+                    "end": 3.52,
+                    "probability": 0.7627120018005371
+                },
+                {
+                    "word": " meeting?",
+                    "start": 3.52,
+                    "end": 3.86,
+                    "probability": 0.9957062602043152
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

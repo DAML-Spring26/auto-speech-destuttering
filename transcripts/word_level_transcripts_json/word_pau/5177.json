@@ -1,0 +1,107 @@
+{
+    "text": " I'll meet you at the coffee shop at... Nune.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " I'll meet you at the coffee shop at...",
+            "tokens": [
+                50364,
+                286,
+                603,
+                1677,
+                291,
+                412,
+                264,
+                4982,
+                3945,
+                412,
+                485,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5635897318522135,
+            "compression_ratio": 0.8627450980392157,
+            "no_speech_prob": 0.009105375967919827,
+            "words": [
+                {
+                    "word": " I'll",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.921475738286972
+                },
+                {
+                    "word": " meet",
+                    "start": 0.24,
+                    "end": 0.42,
+                    "probability": 0.9974783062934875
+                },
+                {
+                    "word": " you",
+                    "start": 0.42,
+                    "end": 0.58,
+                    "probability": 0.9968487620353699
+                },
+                {
+                    "word": " at",
+                    "start": 0.58,
+                    "end": 0.7,
+                    "probability": 0.9549433588981628
+                },
+                {
+                    "word": " the",
+                    "start": 0.7,
+                    "end": 0.84,
+                    "probability": 0.9892732501029968
+                },
+                {
+                    "word": " coffee",
+                    "start": 0.84,
+                    "end": 1.22,
+                    "probability": 0.9645798802375793
+                },
+                {
+                    "word": " shop",
+                    "start": 1.22,
+                    "end": 1.62,
+                    "probability": 0.9922961592674255
+                },
+                {
+                    "word": " at...",
+                    "start": 1.62,
+                    "end": 2.0,
+                    "probability": 0.6860248148441315
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.16,
+            "end": 4.72,
+            "text": " Nune.",
+            "tokens": [
+                50589,
+                426,
+                2613,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5635897318522135,
+            "compression_ratio": 0.8627450980392157,
+            "no_speech_prob": 0.009105375967919827,
+            "words": [
+                {
+                    "word": " Nune.",
+                    "start": 4.16,
+                    "end": 4.72,
+                    "probability": 0.30480682849884033
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

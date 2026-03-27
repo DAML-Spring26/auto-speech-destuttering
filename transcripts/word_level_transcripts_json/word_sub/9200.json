@@ -1,0 +1,53 @@
+{
+    "text": " The results exceeded anticipations.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.28,
+            "text": " The results exceeded anticipations.",
+            "tokens": [
+                50364,
+                440,
+                3542,
+                38026,
+                10416,
+                763,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5766918394300673,
+            "compression_ratio": 0.813953488372093,
+            "no_speech_prob": 0.010899133048951626,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.4602465331554413
+                },
+                {
+                    "word": " results",
+                    "start": 0.14,
+                    "end": 0.46,
+                    "probability": 0.9430064558982849
+                },
+                {
+                    "word": " exceeded",
+                    "start": 0.46,
+                    "end": 0.94,
+                    "probability": 0.5800775289535522
+                },
+                {
+                    "word": " anticipations.",
+                    "start": 0.94,
+                    "end": 2.28,
+                    "probability": 0.7350998073816299
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

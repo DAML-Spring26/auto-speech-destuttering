@@ -1,0 +1,80 @@
+{
+    "text": " How often do you exercise during the week?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.96,
+            "text": " How often do you exercise during the week?",
+            "tokens": [
+                50364,
+                1012,
+                2049,
+                360,
+                291,
+                5380,
+                1830,
+                264,
+                1243,
+                30,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3072438637415568,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.004143887665122747,
+            "words": [
+                {
+                    "word": " How",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7633569240570068
+                },
+                {
+                    "word": " often",
+                    "start": 0.16,
+                    "end": 0.46,
+                    "probability": 0.9985236525535583
+                },
+                {
+                    "word": " do",
+                    "start": 0.46,
+                    "end": 0.62,
+                    "probability": 0.9984682202339172
+                },
+                {
+                    "word": " you",
+                    "start": 0.62,
+                    "end": 0.7,
+                    "probability": 0.9971160888671875
+                },
+                {
+                    "word": " exercise",
+                    "start": 0.7,
+                    "end": 1.18,
+                    "probability": 0.9920579791069031
+                },
+                {
+                    "word": " during",
+                    "start": 1.18,
+                    "end": 1.64,
+                    "probability": 0.9990839958190918
+                },
+                {
+                    "word": " the",
+                    "start": 1.64,
+                    "end": 1.8,
+                    "probability": 0.9951525926589966
+                },
+                {
+                    "word": " week?",
+                    "start": 1.8,
+                    "end": 1.96,
+                    "probability": 0.9969220757484436
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,87 @@
+{
+    "text": " The fire alarm went off unexpectedly during the meeting.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.72,
+            "text": " The fire alarm went off unexpectedly during the meeting.",
+            "tokens": [
+                50364,
+                440,
+                2610,
+                14183,
+                1437,
+                766,
+                40452,
+                1830,
+                264,
+                3440,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3221928523137019,
+            "compression_ratio": 0.9180327868852459,
+            "no_speech_prob": 0.011210971511900425,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8057730793952942
+                },
+                {
+                    "word": " fire",
+                    "start": 0.12,
+                    "end": 0.36,
+                    "probability": 0.9840577244758606
+                },
+                {
+                    "word": " alarm",
+                    "start": 0.36,
+                    "end": 0.74,
+                    "probability": 0.9520404934883118
+                },
+                {
+                    "word": " went",
+                    "start": 0.74,
+                    "end": 1.0,
+                    "probability": 0.9983395338058472
+                },
+                {
+                    "word": " off",
+                    "start": 1.0,
+                    "end": 1.5,
+                    "probability": 0.9944798946380615
+                },
+                {
+                    "word": " unexpectedly",
+                    "start": 1.5,
+                    "end": 3.7,
+                    "probability": 0.8292542099952698
+                },
+                {
+                    "word": " during",
+                    "start": 3.7,
+                    "end": 4.3,
+                    "probability": 0.9860942363739014
+                },
+                {
+                    "word": " the",
+                    "start": 4.3,
+                    "end": 4.44,
+                    "probability": 0.9780181050300598
+                },
+                {
+                    "word": " meeting.",
+                    "start": 4.44,
+                    "end": 4.72,
+                    "probability": 0.9958735108375549
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

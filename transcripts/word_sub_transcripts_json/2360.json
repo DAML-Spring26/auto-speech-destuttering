@@ -1,0 +1,59 @@
+{
+    "text": " the meeting process at noon.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.16,
+            "text": " the meeting process at noon.",
+            "tokens": [
+                50364,
+                264,
+                3440,
+                1399,
+                412,
+                24040,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7222594685024686,
+            "compression_ratio": 0.7777777777777778,
+            "no_speech_prob": 0.003207411151379347,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5720971822738647
+                },
+                {
+                    "word": " meeting",
+                    "start": 0.14,
+                    "end": 0.36,
+                    "probability": 0.7567540407180786
+                },
+                {
+                    "word": " process",
+                    "start": 0.36,
+                    "end": 0.78,
+                    "probability": 0.182114377617836
+                },
+                {
+                    "word": " at",
+                    "start": 0.78,
+                    "end": 0.98,
+                    "probability": 0.5129773616790771
+                },
+                {
+                    "word": " noon.",
+                    "start": 0.98,
+                    "end": 1.16,
+                    "probability": 0.9304567575454712
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

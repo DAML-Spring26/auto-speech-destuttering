@@ -1,0 +1,81 @@
+{
+    "text": " Grandma's birthday party is on in Sunday afternoon.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.44,
+            "text": " Grandma's birthday party is on in Sunday afternoon.",
+            "tokens": [
+                50364,
+                22657,
+                311,
+                6154,
+                3595,
+                307,
+                322,
+                294,
+                7776,
+                6499,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.437100703899677,
+            "compression_ratio": 0.8947368421052632,
+            "no_speech_prob": 0.049517352133989334,
+            "words": [
+                {
+                    "word": " Grandma's",
+                    "start": 0.0,
+                    "end": 0.6,
+                    "probability": 0.6573450118303299
+                },
+                {
+                    "word": " birthday",
+                    "start": 0.6,
+                    "end": 0.94,
+                    "probability": 0.6298707723617554
+                },
+                {
+                    "word": " party",
+                    "start": 0.94,
+                    "end": 1.28,
+                    "probability": 0.9919164776802063
+                },
+                {
+                    "word": " is",
+                    "start": 1.28,
+                    "end": 1.46,
+                    "probability": 0.9973204731941223
+                },
+                {
+                    "word": " on",
+                    "start": 1.46,
+                    "end": 1.6,
+                    "probability": 0.9942118525505066
+                },
+                {
+                    "word": " in",
+                    "start": 1.6,
+                    "end": 1.72,
+                    "probability": 0.6474725604057312
+                },
+                {
+                    "word": " Sunday",
+                    "start": 1.72,
+                    "end": 1.98,
+                    "probability": 0.9879909157752991
+                },
+                {
+                    "word": " afternoon.",
+                    "start": 1.98,
+                    "end": 2.44,
+                    "probability": 0.9280732274055481
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

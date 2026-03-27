@@ -1,0 +1,59 @@
+{
+    "text": " It rained all day yesterday.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.28,
+            "text": " It rained all day yesterday.",
+            "tokens": [
+                50364,
+                467,
+                47533,
+                439,
+                786,
+                5186,
+                13,
+                50444
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.44697046279907227,
+            "compression_ratio": 0.8235294117647058,
+            "no_speech_prob": 0.011818512342870235,
+            "words": [
+                {
+                    "word": " It",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5741382837295532
+                },
+                {
+                    "word": " rained",
+                    "start": 0.14,
+                    "end": 0.42,
+                    "probability": 0.7453144192695618
+                },
+                {
+                    "word": " all",
+                    "start": 0.42,
+                    "end": 0.64,
+                    "probability": 0.9959037899971008
+                },
+                {
+                    "word": " day",
+                    "start": 0.64,
+                    "end": 0.84,
+                    "probability": 0.9994575381278992
+                },
+                {
+                    "word": " yesterday.",
+                    "start": 0.84,
+                    "end": 1.28,
+                    "probability": 0.9796963930130005
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,94 @@
+{
+    "text": " She studying for her final exams every night this week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.64,
+            "text": " She studying for her final exams every night this week.",
+            "tokens": [
+                50364,
+                1240,
+                7601,
+                337,
+                720,
+                2572,
+                20514,
+                633,
+                1818,
+                341,
+                1243,
+                13,
+                50510
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34706190654209684,
+            "compression_ratio": 0.9016393442622951,
+            "no_speech_prob": 0.006001083645969629,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.5584934949874878
+                },
+                {
+                    "word": " studying",
+                    "start": 0.16,
+                    "end": 0.5,
+                    "probability": 0.5310472249984741
+                },
+                {
+                    "word": " for",
+                    "start": 0.5,
+                    "end": 0.7,
+                    "probability": 0.9904913306236267
+                },
+                {
+                    "word": " her",
+                    "start": 0.7,
+                    "end": 0.84,
+                    "probability": 0.9952638149261475
+                },
+                {
+                    "word": " final",
+                    "start": 0.84,
+                    "end": 1.14,
+                    "probability": 0.9945673942565918
+                },
+                {
+                    "word": " exams",
+                    "start": 1.14,
+                    "end": 1.58,
+                    "probability": 0.9466676712036133
+                },
+                {
+                    "word": " every",
+                    "start": 1.58,
+                    "end": 1.86,
+                    "probability": 0.8948794603347778
+                },
+                {
+                    "word": " night",
+                    "start": 1.86,
+                    "end": 2.12,
+                    "probability": 0.9946609139442444
+                },
+                {
+                    "word": " this",
+                    "start": 2.12,
+                    "end": 2.34,
+                    "probability": 0.9659507274627686
+                },
+                {
+                    "word": " week.",
+                    "start": 2.34,
+                    "end": 2.64,
+                    "probability": 0.992451012134552
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

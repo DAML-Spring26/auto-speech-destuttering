@@ -1,0 +1,132 @@
+{
+    "text": " the latest research findings highlight the importance of early detection in encounter treatment.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.12,
+            "text": " the latest research findings highlight the importance of early detection in",
+            "tokens": [
+                50364,
+                264,
+                6792,
+                2132,
+                16483,
+                5078,
+                264,
+                7379,
+                295,
+                2440,
+                17784,
+                294,
+                50576
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4809317839773078,
+            "compression_ratio": 1.2,
+            "no_speech_prob": 0.0016055661253631115,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.3810860514640808
+                },
+                {
+                    "word": " latest",
+                    "start": 0.12,
+                    "end": 0.4,
+                    "probability": 0.995515763759613
+                },
+                {
+                    "word": " research",
+                    "start": 0.4,
+                    "end": 0.9,
+                    "probability": 0.9857218265533447
+                },
+                {
+                    "word": " findings",
+                    "start": 0.9,
+                    "end": 1.42,
+                    "probability": 0.9894490242004395
+                },
+                {
+                    "word": " highlight",
+                    "start": 1.42,
+                    "end": 1.92,
+                    "probability": 0.9901650547981262
+                },
+                {
+                    "word": " the",
+                    "start": 1.92,
+                    "end": 2.16,
+                    "probability": 0.9932677745819092
+                },
+                {
+                    "word": " importance",
+                    "start": 2.16,
+                    "end": 2.6,
+                    "probability": 0.9965231418609619
+                },
+                {
+                    "word": " of",
+                    "start": 2.6,
+                    "end": 2.88,
+                    "probability": 0.9989940524101257
+                },
+                {
+                    "word": " early",
+                    "start": 2.88,
+                    "end": 3.12,
+                    "probability": 0.9846732020378113
+                },
+                {
+                    "word": " detection",
+                    "start": 3.12,
+                    "end": 3.72,
+                    "probability": 0.9919784069061279
+                },
+                {
+                    "word": " in",
+                    "start": 3.72,
+                    "end": 4.12,
+                    "probability": 0.8643722534179688
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.12,
+            "end": 5.28,
+            "text": " encounter treatment.",
+            "tokens": [
+                50576,
+                8593,
+                5032,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4809317839773078,
+            "compression_ratio": 1.2,
+            "no_speech_prob": 0.0016055661253631115,
+            "words": [
+                {
+                    "word": " encounter",
+                    "start": 4.12,
+                    "end": 4.62,
+                    "probability": 0.10337822139263153
+                },
+                {
+                    "word": " treatment.",
+                    "start": 4.62,
+                    "end": 5.28,
+                    "probability": 0.9957717061042786
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

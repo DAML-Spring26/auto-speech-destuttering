@@ -1,0 +1,88 @@
+{
+    "text": " The software updates should fix bugs you've been experiencing.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.88,
+            "text": " The software updates should fix bugs you've been experiencing.",
+            "tokens": [
+                50364,
+                440,
+                4722,
+                9205,
+                820,
+                3191,
+                15120,
+                291,
+                600,
+                668,
+                11139,
+                13,
+                50522
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40586304664611816,
+            "compression_ratio": 0.9253731343283582,
+            "no_speech_prob": 0.0029382824432104826,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.43760862946510315
+                },
+                {
+                    "word": " software",
+                    "start": 0.1,
+                    "end": 0.52,
+                    "probability": 0.9913642406463623
+                },
+                {
+                    "word": " updates",
+                    "start": 0.52,
+                    "end": 0.94,
+                    "probability": 0.38846221566200256
+                },
+                {
+                    "word": " should",
+                    "start": 0.94,
+                    "end": 1.16,
+                    "probability": 0.9603553414344788
+                },
+                {
+                    "word": " fix",
+                    "start": 1.16,
+                    "end": 1.52,
+                    "probability": 0.9565516710281372
+                },
+                {
+                    "word": " bugs",
+                    "start": 1.52,
+                    "end": 1.8,
+                    "probability": 0.6149093508720398
+                },
+                {
+                    "word": " you've",
+                    "start": 1.8,
+                    "end": 2.08,
+                    "probability": 0.9673095941543579
+                },
+                {
+                    "word": " been",
+                    "start": 2.08,
+                    "end": 2.18,
+                    "probability": 0.9973119497299194
+                },
+                {
+                    "word": " experiencing.",
+                    "start": 2.18,
+                    "end": 2.88,
+                    "probability": 0.997672975063324
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

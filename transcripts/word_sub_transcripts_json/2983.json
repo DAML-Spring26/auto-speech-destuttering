@@ -1,0 +1,73 @@
+{
+    "text": " They installed new security products last week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.48,
+            "text": " They installed new security products last week.",
+            "tokens": [
+                50364,
+                814,
+                8899,
+                777,
+                3825,
+                3383,
+                1036,
+                1243,
+                13,
+                50496
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35637066581032495,
+            "compression_ratio": 0.8545454545454545,
+            "no_speech_prob": 0.0035683484748005867,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7234998345375061
+                },
+                {
+                    "word": " installed",
+                    "start": 0.12,
+                    "end": 0.54,
+                    "probability": 0.9842193722724915
+                },
+                {
+                    "word": " new",
+                    "start": 0.54,
+                    "end": 0.84,
+                    "probability": 0.945138692855835
+                },
+                {
+                    "word": " security",
+                    "start": 0.84,
+                    "end": 1.26,
+                    "probability": 0.9270361065864563
+                },
+                {
+                    "word": " products",
+                    "start": 1.26,
+                    "end": 1.82,
+                    "probability": 0.9910656809806824
+                },
+                {
+                    "word": " last",
+                    "start": 1.82,
+                    "end": 2.08,
+                    "probability": 0.9837605953216553
+                },
+                {
+                    "word": " week.",
+                    "start": 2.08,
+                    "end": 2.48,
+                    "probability": 0.9952115416526794
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,113 @@
+{
+    "text": " Despite the rain, we decided to... Go for a walk.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.22,
+            "text": " Despite the rain, we decided to...",
+            "tokens": [
+                50364,
+                11334,
+                264,
+                4830,
+                11,
+                321,
+                3047,
+                281,
+                485,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6399201287163628,
+            "compression_ratio": 0.8596491228070176,
+            "no_speech_prob": 0.018292609602212906,
+            "words": [
+                {
+                    "word": " Despite",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.8143715262413025
+                },
+                {
+                    "word": " the",
+                    "start": 0.34,
+                    "end": 0.54,
+                    "probability": 0.9909989833831787
+                },
+                {
+                    "word": " rain,",
+                    "start": 0.54,
+                    "end": 0.82,
+                    "probability": 0.9432594180107117
+                },
+                {
+                    "word": " we",
+                    "start": 1.26,
+                    "end": 1.34,
+                    "probability": 0.9947116374969482
+                },
+                {
+                    "word": " decided",
+                    "start": 1.34,
+                    "end": 1.72,
+                    "probability": 0.6665593981742859
+                },
+                {
+                    "word": " to...",
+                    "start": 1.72,
+                    "end": 3.22,
+                    "probability": 0.688385859131813
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.3,
+            "end": 6.52,
+            "text": " Go for a walk.",
+            "tokens": [
+                50654,
+                1037,
+                337,
+                257,
+                1792,
+                13,
+                50729
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6399201287163628,
+            "compression_ratio": 0.8596491228070176,
+            "no_speech_prob": 0.018292609602212906,
+            "words": [
+                {
+                    "word": " Go",
+                    "start": 5.3,
+                    "end": 5.92,
+                    "probability": 0.5369160771369934
+                },
+                {
+                    "word": " for",
+                    "start": 5.92,
+                    "end": 6.12,
+                    "probability": 0.9960753321647644
+                },
+                {
+                    "word": " a",
+                    "start": 6.12,
+                    "end": 6.24,
+                    "probability": 0.9980548620223999
+                },
+                {
+                    "word": " walk.",
+                    "start": 6.24,
+                    "end": 6.52,
+                    "probability": 0.9963705539703369
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

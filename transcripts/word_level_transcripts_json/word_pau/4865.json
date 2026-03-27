@@ -1,0 +1,108 @@
+{
+    "text": " Can you pick up some groceries on the way back from work?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.0,
+            "text": " Can you pick up some groceries on the way back from work?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                1888,
+                493,
+                512,
+                31391,
+                322,
+                264,
+                636,
+                646,
+                490,
+                589,
+                30,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2461903989315033,
+            "compression_ratio": 0.9047619047619048,
+            "no_speech_prob": 0.006753514986485243,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.760452926158905
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.32,
+                    "probability": 0.9982788562774658
+                },
+                {
+                    "word": " pick",
+                    "start": 0.32,
+                    "end": 0.52,
+                    "probability": 0.9948057532310486
+                },
+                {
+                    "word": " up",
+                    "start": 0.52,
+                    "end": 0.94,
+                    "probability": 0.9972493052482605
+                },
+                {
+                    "word": " some",
+                    "start": 0.94,
+                    "end": 3.88,
+                    "probability": 0.8392884135246277
+                },
+                {
+                    "word": " groceries",
+                    "start": 3.88,
+                    "end": 4.44,
+                    "probability": 0.9932848215103149
+                },
+                {
+                    "word": " on",
+                    "start": 4.44,
+                    "end": 4.76,
+                    "probability": 0.9704042673110962
+                },
+                {
+                    "word": " the",
+                    "start": 4.76,
+                    "end": 4.9,
+                    "probability": 0.6325992941856384
+                },
+                {
+                    "word": " way",
+                    "start": 4.9,
+                    "end": 5.08,
+                    "probability": 0.9980241060256958
+                },
+                {
+                    "word": " back",
+                    "start": 5.08,
+                    "end": 5.38,
+                    "probability": 0.997352123260498
+                },
+                {
+                    "word": " from",
+                    "start": 5.38,
+                    "end": 5.66,
+                    "probability": 0.9976761937141418
+                },
+                {
+                    "word": " work?",
+                    "start": 5.66,
+                    "end": 6.0,
+                    "probability": 0.9983761310577393
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

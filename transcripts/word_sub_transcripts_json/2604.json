@@ -1,0 +1,67 @@
+{
+    "text": " the train departs from platform free.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.92,
+            "text": " the train departs from platform free.",
+            "tokens": [
+                50364,
+                264,
+                3847,
+                9110,
+                82,
+                490,
+                3663,
+                1737,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4403043660250577,
+            "compression_ratio": 0.8604651162790697,
+            "no_speech_prob": 0.004384935367852449,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.41552817821502686
+                },
+                {
+                    "word": " train",
+                    "start": 0.1,
+                    "end": 0.4,
+                    "probability": 0.7915167212486267
+                },
+                {
+                    "word": " departs",
+                    "start": 0.4,
+                    "end": 0.98,
+                    "probability": 0.9495186805725098
+                },
+                {
+                    "word": " from",
+                    "start": 0.98,
+                    "end": 1.06,
+                    "probability": 0.9928626418113708
+                },
+                {
+                    "word": " platform",
+                    "start": 1.06,
+                    "end": 1.5,
+                    "probability": 0.7797883749008179
+                },
+                {
+                    "word": " free.",
+                    "start": 1.5,
+                    "end": 1.92,
+                    "probability": 0.6558010578155518
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

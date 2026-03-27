@@ -1,0 +1,74 @@
+{
+    "text": " I believe they're getting married next month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.04,
+            "text": " I believe they're getting married next month.",
+            "tokens": [
+                50364,
+                286,
+                1697,
+                436,
+                434,
+                1242,
+                5259,
+                958,
+                1618,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32993123928705853,
+            "compression_ratio": 0.8490566037735849,
+            "no_speech_prob": 0.005476347170770168,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.9263385534286499
+                },
+                {
+                    "word": " believe",
+                    "start": 0.22,
+                    "end": 0.52,
+                    "probability": 0.9885573387145996
+                },
+                {
+                    "word": " they're",
+                    "start": 0.52,
+                    "end": 0.8,
+                    "probability": 0.9216679036617279
+                },
+                {
+                    "word": " getting",
+                    "start": 0.8,
+                    "end": 1.08,
+                    "probability": 0.9972823858261108
+                },
+                {
+                    "word": " married",
+                    "start": 1.08,
+                    "end": 1.38,
+                    "probability": 0.9980618357658386
+                },
+                {
+                    "word": " next",
+                    "start": 1.38,
+                    "end": 1.7,
+                    "probability": 0.9914401769638062
+                },
+                {
+                    "word": " month.",
+                    "start": 1.7,
+                    "end": 2.04,
+                    "probability": 0.9974732995033264
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

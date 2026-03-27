@@ -1,0 +1,109 @@
+{
+    "text": " She asked whether the package had been, been delivered to her office.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.02,
+            "text": " She asked whether the package had been, been delivered to her office.",
+            "tokens": [
+                50364,
+                1240,
+                2351,
+                1968,
+                264,
+                7372,
+                632,
+                668,
+                11,
+                668,
+                10144,
+                281,
+                720,
+                3398,
+                13,
+                50580
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.329197743359734,
+            "compression_ratio": 1.0147058823529411,
+            "no_speech_prob": 0.003220492508262396,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.586361289024353
+                },
+                {
+                    "word": " asked",
+                    "start": 0.2,
+                    "end": 0.34,
+                    "probability": 0.9293031096458435
+                },
+                {
+                    "word": " whether",
+                    "start": 0.34,
+                    "end": 0.62,
+                    "probability": 0.9890760183334351
+                },
+                {
+                    "word": " the",
+                    "start": 0.62,
+                    "end": 0.8,
+                    "probability": 0.9906248450279236
+                },
+                {
+                    "word": " package",
+                    "start": 0.8,
+                    "end": 1.08,
+                    "probability": 0.8356989622116089
+                },
+                {
+                    "word": " had",
+                    "start": 1.08,
+                    "end": 1.4,
+                    "probability": 0.9695560932159424
+                },
+                {
+                    "word": " been,",
+                    "start": 1.4,
+                    "end": 1.68,
+                    "probability": 0.9964982271194458
+                },
+                {
+                    "word": " been",
+                    "start": 2.66,
+                    "end": 2.82,
+                    "probability": 0.9642850756645203
+                },
+                {
+                    "word": " delivered",
+                    "start": 2.82,
+                    "end": 3.24,
+                    "probability": 0.997825562953949
+                },
+                {
+                    "word": " to",
+                    "start": 3.24,
+                    "end": 3.5,
+                    "probability": 0.9975110292434692
+                },
+                {
+                    "word": " her",
+                    "start": 3.5,
+                    "end": 3.66,
+                    "probability": 0.9951229691505432
+                },
+                {
+                    "word": " office.",
+                    "start": 3.66,
+                    "end": 4.02,
+                    "probability": 0.9922829270362854
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,73 @@
+{
+    "text": " The investment portfolio shows remarkable growth credential.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.88,
+            "text": " The investment portfolio shows remarkable growth credential.",
+            "tokens": [
+                50364,
+                440,
+                6078,
+                12583,
+                3110,
+                12802,
+                4599,
+                22034,
+                13,
+                50520
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35692165114662866,
+            "compression_ratio": 0.9230769230769231,
+            "no_speech_prob": 0.003877823008224368,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.9343914985656738
+                },
+                {
+                    "word": " investment",
+                    "start": 0.1,
+                    "end": 0.52,
+                    "probability": 0.682090699672699
+                },
+                {
+                    "word": " portfolio",
+                    "start": 0.52,
+                    "end": 1.12,
+                    "probability": 0.996703565120697
+                },
+                {
+                    "word": " shows",
+                    "start": 1.12,
+                    "end": 1.52,
+                    "probability": 0.9840580821037292
+                },
+                {
+                    "word": " remarkable",
+                    "start": 1.52,
+                    "end": 1.94,
+                    "probability": 0.9385550618171692
+                },
+                {
+                    "word": " growth",
+                    "start": 1.94,
+                    "end": 2.34,
+                    "probability": 0.9918660521507263
+                },
+                {
+                    "word": " credential.",
+                    "start": 2.34,
+                    "end": 2.88,
+                    "probability": 0.7064351439476013
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

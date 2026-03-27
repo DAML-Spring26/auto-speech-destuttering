@@ -1,0 +1,67 @@
+{
+    "text": " The professor's lecture was incredibly informative.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.2,
+            "text": " The professor's lecture was incredibly informative.",
+            "tokens": [
+                50364,
+                440,
+                8304,
+                311,
+                7991,
+                390,
+                6252,
+                27759,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3951554298400879,
+            "compression_ratio": 0.8947368421052632,
+            "no_speech_prob": 0.004506361670792103,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5766380429267883
+                },
+                {
+                    "word": " professor's",
+                    "start": 0.12,
+                    "end": 0.92,
+                    "probability": 0.921034961938858
+                },
+                {
+                    "word": " lecture",
+                    "start": 0.92,
+                    "end": 1.28,
+                    "probability": 0.9834606051445007
+                },
+                {
+                    "word": " was",
+                    "start": 1.28,
+                    "end": 1.54,
+                    "probability": 0.9951741099357605
+                },
+                {
+                    "word": " incredibly",
+                    "start": 1.54,
+                    "end": 2.32,
+                    "probability": 0.9891459941864014
+                },
+                {
+                    "word": " informative.",
+                    "start": 2.32,
+                    "end": 5.2,
+                    "probability": 0.9397264122962952
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,127 @@
+{
+    "text": " Don't forget to bring you sunscreen and how to... with the beach.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.58,
+            "text": " Don't forget to bring you sunscreen and how to...",
+            "tokens": [
+                50364,
+                1468,
+                380,
+                2870,
+                281,
+                1565,
+                291,
+                30304,
+                293,
+                577,
+                281,
+                485,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5133056163787841,
+            "compression_ratio": 0.9558823529411765,
+            "no_speech_prob": 0.010496501810848713,
+            "words": [
+                {
+                    "word": " Don't",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.8895544707775116
+                },
+                {
+                    "word": " forget",
+                    "start": 0.26,
+                    "end": 0.56,
+                    "probability": 0.9928395748138428
+                },
+                {
+                    "word": " to",
+                    "start": 0.56,
+                    "end": 0.78,
+                    "probability": 0.9951663017272949
+                },
+                {
+                    "word": " bring",
+                    "start": 0.78,
+                    "end": 0.96,
+                    "probability": 0.9817699790000916
+                },
+                {
+                    "word": " you",
+                    "start": 0.96,
+                    "end": 1.1,
+                    "probability": 0.6635680198669434
+                },
+                {
+                    "word": " sunscreen",
+                    "start": 1.1,
+                    "end": 1.54,
+                    "probability": 0.7938547134399414
+                },
+                {
+                    "word": " and",
+                    "start": 1.54,
+                    "end": 1.76,
+                    "probability": 0.8856419920921326
+                },
+                {
+                    "word": " how",
+                    "start": 1.76,
+                    "end": 1.88,
+                    "probability": 0.41923126578330994
+                },
+                {
+                    "word": " to...",
+                    "start": 1.88,
+                    "end": 2.58,
+                    "probability": 0.5785536617040634
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.58,
+            "end": 3.42,
+            "text": " with the beach.",
+            "tokens": [
+                50514,
+                365,
+                264,
+                7534,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5133056163787841,
+            "compression_ratio": 0.9558823529411765,
+            "no_speech_prob": 0.010496501810848713,
+            "words": [
+                {
+                    "word": " with",
+                    "start": 2.58,
+                    "end": 3.1,
+                    "probability": 0.4240134060382843
+                },
+                {
+                    "word": " the",
+                    "start": 3.1,
+                    "end": 3.18,
+                    "probability": 0.45774590969085693
+                },
+                {
+                    "word": " beach.",
+                    "start": 3.18,
+                    "end": 3.42,
+                    "probability": 0.9584769010543823
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

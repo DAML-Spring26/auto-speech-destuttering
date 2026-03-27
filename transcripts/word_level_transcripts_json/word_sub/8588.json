@@ -1,0 +1,67 @@
+{
+    "text": " The company's quarterly earnings exceeded expectations.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.58,
+            "text": " The company's quarterly earnings exceeded expectations.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                38633,
+                20548,
+                38026,
+                9843,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38675329901955346,
+            "compression_ratio": 0.9016393442622951,
+            "no_speech_prob": 0.011204482056200504,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6247416734695435
+                },
+                {
+                    "word": " company's",
+                    "start": 0.1,
+                    "end": 0.66,
+                    "probability": 0.8933224678039551
+                },
+                {
+                    "word": " quarterly",
+                    "start": 0.66,
+                    "end": 1.02,
+                    "probability": 0.9465843439102173
+                },
+                {
+                    "word": " earnings",
+                    "start": 1.02,
+                    "end": 1.42,
+                    "probability": 0.7004281878471375
+                },
+                {
+                    "word": " exceeded",
+                    "start": 1.42,
+                    "end": 1.9,
+                    "probability": 0.9650097489356995
+                },
+                {
+                    "word": " expectations.",
+                    "start": 1.9,
+                    "end": 2.58,
+                    "probability": 0.9789628982543945
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,5 +1,5 @@
 {
-    "text": " In your essay, make sure to recite all your sources properly.",
+    "text": " In your essay, make sure to recite all you need.",
     "segments": [
         {
             "id": 0,
@@ -19,30 +19,29 @@
                 50464
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.5099022653367784,
-            "compression_ratio": 0.9682539682539683,
-            "no_speech_prob": 0.017779234796762466
+            "avg_logprob": -0.6345476262709674,
+            "compression_ratio": 0.8888888888888888,
+            "no_speech_prob": 0.04035348817706108
         },
         {
             "id": 1,
             "seek": 0,
-            "start": 4.1,
-            "end": 6.1000000000000005,
-            "text": " recite all your sources properly.",
+            "start": 4.0,
+            "end": 6.0,
+            "text": " recite all you need.",
             "tokens": [
-                50569,
+                50564,
                 39434,
                 439,
-                428,
-                7139,
-                6108,
+                291,
+                643,
                 13,
-                50669
+                50664
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.5099022653367784,
-            "compression_ratio": 0.9682539682539683,
-            "no_speech_prob": 0.017779234796762466
+            "avg_logprob": -0.6345476262709674,
+            "compression_ratio": 0.8888888888888888,
+            "no_speech_prob": 0.04035348817706108
         }
     ],
     "language": "en"

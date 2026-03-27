@@ -1,0 +1,127 @@
+{
+    "text": " Mom, where did you put the spare keys to? To the garage.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.26,
+            "text": " Mom, where did you put the spare keys to?",
+            "tokens": [
+                50364,
+                5576,
+                11,
+                689,
+                630,
+                291,
+                829,
+                264,
+                13798,
+                9317,
+                281,
+                30,
+                50534
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.49637436866760254,
+            "compression_ratio": 0.9491525423728814,
+            "no_speech_prob": 0.01763131655752659,
+            "words": [
+                {
+                    "word": " Mom,",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.737004280090332
+                },
+                {
+                    "word": " where",
+                    "start": 0.96,
+                    "end": 1.26,
+                    "probability": 0.9701324105262756
+                },
+                {
+                    "word": " did",
+                    "start": 1.26,
+                    "end": 1.4,
+                    "probability": 0.9945730566978455
+                },
+                {
+                    "word": " you",
+                    "start": 1.4,
+                    "end": 1.6,
+                    "probability": 0.9953252077102661
+                },
+                {
+                    "word": " put",
+                    "start": 1.6,
+                    "end": 1.8,
+                    "probability": 0.9979797005653381
+                },
+                {
+                    "word": " the",
+                    "start": 1.8,
+                    "end": 2.08,
+                    "probability": 0.9833043813705444
+                },
+                {
+                    "word": " spare",
+                    "start": 2.08,
+                    "end": 2.46,
+                    "probability": 0.9672482013702393
+                },
+                {
+                    "word": " keys",
+                    "start": 2.46,
+                    "end": 2.82,
+                    "probability": 0.963706374168396
+                },
+                {
+                    "word": " to?",
+                    "start": 2.82,
+                    "end": 3.26,
+                    "probability": 0.9081657528877258
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.16,
+            "end": 6.2,
+            "text": " To the garage.",
+            "tokens": [
+                50634,
+                1407,
+                264,
+                14400,
+                13,
+                50699
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.49637436866760254,
+            "compression_ratio": 0.9491525423728814,
+            "no_speech_prob": 0.01763131655752659,
+            "words": [
+                {
+                    "word": " To",
+                    "start": 5.16,
+                    "end": 5.5,
+                    "probability": 0.2438412457704544
+                },
+                {
+                    "word": " the",
+                    "start": 5.5,
+                    "end": 5.8,
+                    "probability": 0.9390738606452942
+                },
+                {
+                    "word": " garage.",
+                    "start": 5.8,
+                    "end": 6.2,
+                    "probability": 0.9727066159248352
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,68 @@
+{
+    "text": " I'll alcohol when, when I arrive.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.14,
+            "text": " I'll alcohol when, when I arrive.",
+            "tokens": [
+                50364,
+                286,
+                603,
+                7658,
+                562,
+                11,
+                562,
+                286,
+                8881,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.49450631936391193,
+            "compression_ratio": 0.8918918918918919,
+            "no_speech_prob": 0.027796287089586258,
+            "words": [
+                {
+                    "word": " I'll",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.9294658899307251
+                },
+                {
+                    "word": " alcohol",
+                    "start": 0.36,
+                    "end": 0.72,
+                    "probability": 0.4625353217124939
+                },
+                {
+                    "word": " when,",
+                    "start": 0.72,
+                    "end": 1.16,
+                    "probability": 0.6325576901435852
+                },
+                {
+                    "word": " when",
+                    "start": 1.44,
+                    "end": 1.66,
+                    "probability": 0.9789837002754211
+                },
+                {
+                    "word": " I",
+                    "start": 1.66,
+                    "end": 1.86,
+                    "probability": 0.9716148972511292
+                },
+                {
+                    "word": " arrive.",
+                    "start": 1.86,
+                    "end": 2.14,
+                    "probability": 0.9667050242424011
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

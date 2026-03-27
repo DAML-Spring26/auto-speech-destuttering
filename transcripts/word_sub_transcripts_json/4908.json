@@ -1,0 +1,80 @@
+{
+    "text": " The scientists examine the specimen under a microphone.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.64,
+            "text": " The scientists examine the specimen under a microphone.",
+            "tokens": [
+                50364,
+                440,
+                7708,
+                17496,
+                264,
+                34204,
+                833,
+                257,
+                10952,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3794029156366984,
+            "compression_ratio": 0.9016393442622951,
+            "no_speech_prob": 0.0053798602893948555,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6371646523475647
+                },
+                {
+                    "word": " scientists",
+                    "start": 0.14,
+                    "end": 0.74,
+                    "probability": 0.6010465025901794
+                },
+                {
+                    "word": " examine",
+                    "start": 0.74,
+                    "end": 1.54,
+                    "probability": 0.7112132906913757
+                },
+                {
+                    "word": " the",
+                    "start": 1.54,
+                    "end": 1.78,
+                    "probability": 0.8521968126296997
+                },
+                {
+                    "word": " specimen",
+                    "start": 1.78,
+                    "end": 2.3,
+                    "probability": 0.9673049449920654
+                },
+                {
+                    "word": " under",
+                    "start": 2.3,
+                    "end": 2.82,
+                    "probability": 0.9956400394439697
+                },
+                {
+                    "word": " a",
+                    "start": 2.82,
+                    "end": 3.02,
+                    "probability": 0.9962589740753174
+                },
+                {
+                    "word": " microphone.",
+                    "start": 3.02,
+                    "end": 3.64,
+                    "probability": 0.9751617908477783
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

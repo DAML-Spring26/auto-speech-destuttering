@@ -1,0 +1,82 @@
+{
+    "text": " Despite the challenges, the Doom's morale remained high.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.68,
+            "text": " Despite the challenges, the Doom's morale remained high.",
+            "tokens": [
+                50364,
+                11334,
+                264,
+                4759,
+                11,
+                264,
+                30168,
+                311,
+                37455,
+                12780,
+                1090,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41342639923095703,
+            "compression_ratio": 0.9333333333333333,
+            "no_speech_prob": 0.014808867126703262,
+            "words": [
+                {
+                    "word": " Despite",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.8188253045082092
+                },
+                {
+                    "word": " the",
+                    "start": 0.28,
+                    "end": 0.5,
+                    "probability": 0.9854159951210022
+                },
+                {
+                    "word": " challenges,",
+                    "start": 0.5,
+                    "end": 0.96,
+                    "probability": 0.9893173575401306
+                },
+                {
+                    "word": " the",
+                    "start": 1.32,
+                    "end": 1.36,
+                    "probability": 0.9675377011299133
+                },
+                {
+                    "word": " Doom's",
+                    "start": 1.36,
+                    "end": 1.66,
+                    "probability": 0.46011871099472046
+                },
+                {
+                    "word": " morale",
+                    "start": 1.66,
+                    "end": 1.94,
+                    "probability": 0.8692007660865784
+                },
+                {
+                    "word": " remained",
+                    "start": 1.94,
+                    "end": 2.34,
+                    "probability": 0.9556538462638855
+                },
+                {
+                    "word": " high.",
+                    "start": 2.34,
+                    "end": 2.68,
+                    "probability": 0.7593027353286743
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

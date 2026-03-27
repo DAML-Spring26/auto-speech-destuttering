@@ -1,0 +1,59 @@
+{
+    "text": " Please reflect the privacy policy.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.8,
+            "text": " Please reflect the privacy policy.",
+            "tokens": [
+                50364,
+                2555,
+                5031,
+                264,
+                11427,
+                3897,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29348262151082355,
+            "compression_ratio": 0.8095238095238095,
+            "no_speech_prob": 0.03556835278868675,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.6717895269393921
+                },
+                {
+                    "word": " reflect",
+                    "start": 0.4,
+                    "end": 0.8,
+                    "probability": 0.8666678667068481
+                },
+                {
+                    "word": " the",
+                    "start": 0.8,
+                    "end": 0.96,
+                    "probability": 0.9417924284934998
+                },
+                {
+                    "word": " privacy",
+                    "start": 0.96,
+                    "end": 1.3,
+                    "probability": 0.9881073832511902
+                },
+                {
+                    "word": " policy.",
+                    "start": 1.3,
+                    "end": 1.8,
+                    "probability": 0.9979726672172546
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

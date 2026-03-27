@@ -1,0 +1,95 @@
+{
+    "text": " Does anyone know to perform CPR? We need help urgently.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.32,
+            "text": " Does anyone know to perform CPR? We need help urgently.",
+            "tokens": [
+                50364,
+                4402,
+                2878,
+                458,
+                281,
+                2042,
+                47536,
+                30,
+                492,
+                643,
+                854,
+                49390,
+                13,
+                50548
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29895044962565104,
+            "compression_ratio": 0.873015873015873,
+            "no_speech_prob": 0.008283666335046291,
+            "words": [
+                {
+                    "word": " Does",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.8439853191375732
+                },
+                {
+                    "word": " anyone",
+                    "start": 0.18,
+                    "end": 0.54,
+                    "probability": 0.9884064793586731
+                },
+                {
+                    "word": " know",
+                    "start": 0.54,
+                    "end": 0.76,
+                    "probability": 0.9885320663452148
+                },
+                {
+                    "word": " to",
+                    "start": 0.76,
+                    "end": 0.94,
+                    "probability": 0.9902980923652649
+                },
+                {
+                    "word": " perform",
+                    "start": 0.94,
+                    "end": 1.28,
+                    "probability": 0.9913291931152344
+                },
+                {
+                    "word": " CPR?",
+                    "start": 1.28,
+                    "end": 1.86,
+                    "probability": 0.9650623798370361
+                },
+                {
+                    "word": " We",
+                    "start": 2.26,
+                    "end": 2.36,
+                    "probability": 0.96510910987854
+                },
+                {
+                    "word": " need",
+                    "start": 2.36,
+                    "end": 2.52,
+                    "probability": 0.9970682263374329
+                },
+                {
+                    "word": " help",
+                    "start": 2.52,
+                    "end": 2.8,
+                    "probability": 0.9243000745773315
+                },
+                {
+                    "word": " urgently.",
+                    "start": 2.8,
+                    "end": 3.32,
+                    "probability": 0.9875197410583496
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

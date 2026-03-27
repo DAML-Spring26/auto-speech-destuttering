@@ -1,0 +1,108 @@
+{
+    "text": " Family decided that they go to the beach for their summer vacation.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.1,
+            "text": " Family decided that they go to the beach for their summer vacation.",
+            "tokens": [
+                50364,
+                11661,
+                3047,
+                300,
+                436,
+                352,
+                281,
+                264,
+                7534,
+                337,
+                641,
+                4266,
+                12830,
+                13,
+                50536
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35937127470970154,
+            "compression_ratio": 0.9852941176470589,
+            "no_speech_prob": 0.0035147008020430803,
+            "words": [
+                {
+                    "word": " Family",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.4049275815486908
+                },
+                {
+                    "word": " decided",
+                    "start": 0.34,
+                    "end": 0.74,
+                    "probability": 0.9964038133621216
+                },
+                {
+                    "word": " that",
+                    "start": 0.74,
+                    "end": 1.06,
+                    "probability": 0.9249541163444519
+                },
+                {
+                    "word": " they",
+                    "start": 1.06,
+                    "end": 1.2,
+                    "probability": 0.995695948600769
+                },
+                {
+                    "word": " go",
+                    "start": 1.2,
+                    "end": 1.38,
+                    "probability": 0.8010596036911011
+                },
+                {
+                    "word": " to",
+                    "start": 1.38,
+                    "end": 1.56,
+                    "probability": 0.9921740293502808
+                },
+                {
+                    "word": " the",
+                    "start": 1.56,
+                    "end": 1.7,
+                    "probability": 0.9870480895042419
+                },
+                {
+                    "word": " beach",
+                    "start": 1.7,
+                    "end": 1.98,
+                    "probability": 0.9962940812110901
+                },
+                {
+                    "word": " for",
+                    "start": 1.98,
+                    "end": 2.1,
+                    "probability": 0.9837543368339539
+                },
+                {
+                    "word": " their",
+                    "start": 2.1,
+                    "end": 2.24,
+                    "probability": 0.6649990081787109
+                },
+                {
+                    "word": " summer",
+                    "start": 2.24,
+                    "end": 2.52,
+                    "probability": 0.9926962852478027
+                },
+                {
+                    "word": " vacation.",
+                    "start": 2.52,
+                    "end": 3.1,
+                    "probability": 0.989918053150177
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

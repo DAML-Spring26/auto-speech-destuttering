@@ -1,0 +1,66 @@
+{
+    "text": " The concert venue reached maximum opacity.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.42,
+            "text": " The concert venue reached maximum opacity.",
+            "tokens": [
+                50364,
+                440,
+                8543,
+                21645,
+                6488,
+                6674,
+                41693,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4167639255523682,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.004800236318260431,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7685615420341492
+                },
+                {
+                    "word": " concert",
+                    "start": 0.12,
+                    "end": 0.52,
+                    "probability": 0.9517248868942261
+                },
+                {
+                    "word": " venue",
+                    "start": 0.52,
+                    "end": 0.9,
+                    "probability": 0.8305248022079468
+                },
+                {
+                    "word": " reached",
+                    "start": 0.9,
+                    "end": 1.24,
+                    "probability": 0.9933226704597473
+                },
+                {
+                    "word": " maximum",
+                    "start": 1.24,
+                    "end": 1.74,
+                    "probability": 0.9614474773406982
+                },
+                {
+                    "word": " opacity.",
+                    "start": 1.74,
+                    "end": 2.42,
+                    "probability": 0.9437403678894043
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,121 @@
+{
+    "text": " Sweetie, have you decided what? You want for your birthday present?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.9,
+            "text": " Sweetie, have you decided what?",
+            "tokens": [
+                50364,
+                14653,
+                414,
+                11,
+                362,
+                291,
+                3047,
+                437,
+                30,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4444871425628662,
+            "compression_ratio": 0.9571428571428572,
+            "no_speech_prob": 0.008568732999265194,
+            "words": [
+                {
+                    "word": " Sweetie,",
+                    "start": 0.0,
+                    "end": 0.54,
+                    "probability": 0.8339931070804596
+                },
+                {
+                    "word": " have",
+                    "start": 0.88,
+                    "end": 0.94,
+                    "probability": 0.9825006127357483
+                },
+                {
+                    "word": " you",
+                    "start": 0.94,
+                    "end": 1.1,
+                    "probability": 0.9983239769935608
+                },
+                {
+                    "word": " decided",
+                    "start": 1.1,
+                    "end": 1.48,
+                    "probability": 0.9933360815048218
+                },
+                {
+                    "word": " what?",
+                    "start": 1.48,
+                    "end": 1.9,
+                    "probability": 0.9883849620819092
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.8,
+            "end": 6.02,
+            "text": " You want for your birthday present?",
+            "tokens": [
+                50604,
+                509,
+                528,
+                337,
+                428,
+                6154,
+                1974,
+                30,
+                50678
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4444871425628662,
+            "compression_ratio": 0.9571428571428572,
+            "no_speech_prob": 0.008568732999265194,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 4.46,
+                    "end": 4.82,
+                    "probability": 0.9576743841171265
+                },
+                {
+                    "word": " want",
+                    "start": 4.82,
+                    "end": 4.96,
+                    "probability": 0.8427236676216125
+                },
+                {
+                    "word": " for",
+                    "start": 4.96,
+                    "end": 5.12,
+                    "probability": 0.6384409666061401
+                },
+                {
+                    "word": " your",
+                    "start": 5.12,
+                    "end": 5.22,
+                    "probability": 0.994551956653595
+                },
+                {
+                    "word": " birthday",
+                    "start": 5.22,
+                    "end": 5.56,
+                    "probability": 0.8635432124137878
+                },
+                {
+                    "word": " present?",
+                    "start": 5.56,
+                    "end": 6.02,
+                    "probability": 0.9914085268974304
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

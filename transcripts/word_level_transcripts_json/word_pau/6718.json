@@ -1,0 +1,85 @@
+{
+    "text": " Law let me miss out. Relatable.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.48,
+            "text": " Law let me miss out.",
+            "tokens": [
+                50364,
+                7744,
+                718,
+                385,
+                1713,
+                484,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8735372679574149,
+            "compression_ratio": 0.7948717948717948,
+            "no_speech_prob": 0.03419294208288193,
+            "words": [
+                {
+                    "word": " Law",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.21106697618961334
+                },
+                {
+                    "word": " let",
+                    "start": 0.28,
+                    "end": 0.72,
+                    "probability": 0.2641145586967468
+                },
+                {
+                    "word": " me",
+                    "start": 0.72,
+                    "end": 0.96,
+                    "probability": 0.9875511527061462
+                },
+                {
+                    "word": " miss",
+                    "start": 0.96,
+                    "end": 1.26,
+                    "probability": 0.5674848556518555
+                },
+                {
+                    "word": " out.",
+                    "start": 1.26,
+                    "end": 1.48,
+                    "probability": 0.7382200956344604
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.72,
+            "end": 5.46,
+            "text": " Relatable.",
+            "tokens": [
+                50608,
+                8738,
+                31415,
+                13,
+                50658
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8735372679574149,
+            "compression_ratio": 0.7948717948717948,
+            "no_speech_prob": 0.03419294208288193,
+            "words": [
+                {
+                    "word": " Relatable.",
+                    "start": 4.72,
+                    "end": 5.46,
+                    "probability": 0.9093434512615204
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

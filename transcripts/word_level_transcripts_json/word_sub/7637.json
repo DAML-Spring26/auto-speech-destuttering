@@ -1,0 +1,73 @@
+{
+    "text": " The architect presented several innovative design contexts.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.92,
+            "text": " The architect presented several innovative design contexts.",
+            "tokens": [
+                50364,
+                440,
+                6331,
+                8212,
+                2940,
+                12999,
+                1715,
+                30628,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3696944063360041,
+            "compression_ratio": 0.9365079365079365,
+            "no_speech_prob": 0.004406203981488943,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.566364049911499
+                },
+                {
+                    "word": " architect",
+                    "start": 0.1,
+                    "end": 0.46,
+                    "probability": 0.7667443752288818
+                },
+                {
+                    "word": " presented",
+                    "start": 0.46,
+                    "end": 1.0,
+                    "probability": 0.9928179979324341
+                },
+                {
+                    "word": " several",
+                    "start": 1.0,
+                    "end": 1.38,
+                    "probability": 0.9958491325378418
+                },
+                {
+                    "word": " innovative",
+                    "start": 1.38,
+                    "end": 1.9,
+                    "probability": 0.9974289536476135
+                },
+                {
+                    "word": " design",
+                    "start": 1.9,
+                    "end": 2.26,
+                    "probability": 0.9969152212142944
+                },
+                {
+                    "word": " contexts.",
+                    "start": 2.26,
+                    "end": 2.92,
+                    "probability": 0.8986231684684753
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

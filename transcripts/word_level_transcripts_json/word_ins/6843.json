@@ -1,0 +1,102 @@
+{
+    "text": " Is there anything else I can um, assist you with today?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.02,
+            "text": " Is there anything else I can um, assist you with today?",
+            "tokens": [
+                50364,
+                1119,
+                456,
+                1340,
+                1646,
+                286,
+                393,
+                1105,
+                11,
+                4255,
+                291,
+                365,
+                965,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2257995307445526,
+            "compression_ratio": 0.8870967741935484,
+            "no_speech_prob": 0.01710996963083744,
+            "words": [
+                {
+                    "word": " Is",
+                    "start": 0.0,
+                    "end": 0.46,
+                    "probability": 0.8843369483947754
+                },
+                {
+                    "word": " there",
+                    "start": 0.46,
+                    "end": 0.58,
+                    "probability": 0.9976233839988708
+                },
+                {
+                    "word": " anything",
+                    "start": 0.58,
+                    "end": 0.88,
+                    "probability": 0.9975990653038025
+                },
+                {
+                    "word": " else",
+                    "start": 0.88,
+                    "end": 1.12,
+                    "probability": 0.9980644583702087
+                },
+                {
+                    "word": " I",
+                    "start": 1.12,
+                    "end": 1.3,
+                    "probability": 0.9753718972206116
+                },
+                {
+                    "word": " can",
+                    "start": 1.3,
+                    "end": 1.46,
+                    "probability": 0.9990979433059692
+                },
+                {
+                    "word": " um,",
+                    "start": 1.46,
+                    "end": 1.74,
+                    "probability": 0.7733680009841919
+                },
+                {
+                    "word": " assist",
+                    "start": 2.12,
+                    "end": 2.38,
+                    "probability": 0.9884823560714722
+                },
+                {
+                    "word": " you",
+                    "start": 2.38,
+                    "end": 2.66,
+                    "probability": 0.9907953143119812
+                },
+                {
+                    "word": " with",
+                    "start": 2.66,
+                    "end": 2.8,
+                    "probability": 0.9972634315490723
+                },
+                {
+                    "word": " today?",
+                    "start": 2.8,
+                    "end": 3.02,
+                    "probability": 0.9970071911811829
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

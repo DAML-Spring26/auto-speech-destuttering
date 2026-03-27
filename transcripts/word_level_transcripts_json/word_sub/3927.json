@@ -1,0 +1,60 @@
+{
+    "text": " the architect presented innovative declines.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.3,
+            "text": " the architect presented innovative declines.",
+            "tokens": [
+                50364,
+                264,
+                6331,
+                8212,
+                12999,
+                7488,
+                1652,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.49147601127624513,
+            "compression_ratio": 0.88,
+            "no_speech_prob": 0.016724983230233192,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.43182942271232605
+                },
+                {
+                    "word": " architect",
+                    "start": 0.08,
+                    "end": 0.42,
+                    "probability": 0.8871843218803406
+                },
+                {
+                    "word": " presented",
+                    "start": 0.42,
+                    "end": 1.04,
+                    "probability": 0.9914353489875793
+                },
+                {
+                    "word": " innovative",
+                    "start": 1.04,
+                    "end": 1.54,
+                    "probability": 0.9941678047180176
+                },
+                {
+                    "word": " declines.",
+                    "start": 1.54,
+                    "end": 2.3,
+                    "probability": 0.9871273636817932
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

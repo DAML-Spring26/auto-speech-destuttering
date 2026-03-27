@@ -1,0 +1,80 @@
+{
+    "text": " The new software features advanced machine learning capabilities.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.32,
+            "text": " The new software features advanced machine learning capabilities.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                4722,
+                4122,
+                7339,
+                3479,
+                2539,
+                10862,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31804664929707843,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.002936555305495858,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.586062490940094
+                },
+                {
+                    "word": " new",
+                    "start": 0.16,
+                    "end": 0.38,
+                    "probability": 0.9323456287384033
+                },
+                {
+                    "word": " software",
+                    "start": 0.38,
+                    "end": 0.82,
+                    "probability": 0.9896593689918518
+                },
+                {
+                    "word": " features",
+                    "start": 0.82,
+                    "end": 1.44,
+                    "probability": 0.9964583516120911
+                },
+                {
+                    "word": " advanced",
+                    "start": 1.44,
+                    "end": 3.7,
+                    "probability": 0.635871946811676
+                },
+                {
+                    "word": " machine",
+                    "start": 3.7,
+                    "end": 4.24,
+                    "probability": 0.9834610223770142
+                },
+                {
+                    "word": " learning",
+                    "start": 4.24,
+                    "end": 4.6,
+                    "probability": 0.8667454719543457
+                },
+                {
+                    "word": " capabilities.",
+                    "start": 4.6,
+                    "end": 5.32,
+                    "probability": 0.9990720748901367
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

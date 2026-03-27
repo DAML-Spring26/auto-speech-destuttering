@@ -1,0 +1,94 @@
+{
+    "text": " The CT scan shows a no signs of internal bleeding.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.78,
+            "text": " The CT scan shows a no signs of internal bleeding.",
+            "tokens": [
+                50364,
+                440,
+                19529,
+                11049,
+                3110,
+                257,
+                572,
+                7880,
+                295,
+                6920,
+                19312,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28012941564832416,
+            "compression_ratio": 0.8620689655172413,
+            "no_speech_prob": 0.003142321016639471,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.9532855749130249
+                },
+                {
+                    "word": " CT",
+                    "start": 0.34,
+                    "end": 0.6,
+                    "probability": 0.9724045395851135
+                },
+                {
+                    "word": " scan",
+                    "start": 0.6,
+                    "end": 0.94,
+                    "probability": 0.7561772465705872
+                },
+                {
+                    "word": " shows",
+                    "start": 0.94,
+                    "end": 1.28,
+                    "probability": 0.9911555051803589
+                },
+                {
+                    "word": " a",
+                    "start": 1.28,
+                    "end": 1.46,
+                    "probability": 0.8481251001358032
+                },
+                {
+                    "word": " no",
+                    "start": 1.46,
+                    "end": 1.72,
+                    "probability": 0.1505003720521927
+                },
+                {
+                    "word": " signs",
+                    "start": 1.72,
+                    "end": 2.0,
+                    "probability": 0.9650110006332397
+                },
+                {
+                    "word": " of",
+                    "start": 2.0,
+                    "end": 2.18,
+                    "probability": 0.9989097118377686
+                },
+                {
+                    "word": " internal",
+                    "start": 2.18,
+                    "end": 2.5,
+                    "probability": 0.9950778484344482
+                },
+                {
+                    "word": " bleeding.",
+                    "start": 2.5,
+                    "end": 2.78,
+                    "probability": 0.9976038336753845
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

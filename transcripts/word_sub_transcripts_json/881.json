@@ -1,0 +1,68 @@
+{
+    "text": " that Gamede approved the composed budget.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.3,
+            "text": " that Gamede approved the composed budget.",
+            "tokens": [
+                50364,
+                300,
+                460,
+                3475,
+                68,
+                10826,
+                264,
+                18204,
+                4706,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.656992236773173,
+            "compression_ratio": 0.8723404255319149,
+            "no_speech_prob": 0.014911252073943615,
+            "words": [
+                {
+                    "word": " that",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7496010065078735
+                },
+                {
+                    "word": " Gamede",
+                    "start": 0.16,
+                    "end": 0.58,
+                    "probability": 0.39909494916598004
+                },
+                {
+                    "word": " approved",
+                    "start": 0.58,
+                    "end": 1.04,
+                    "probability": 0.7926685810089111
+                },
+                {
+                    "word": " the",
+                    "start": 1.04,
+                    "end": 1.26,
+                    "probability": 0.9882574677467346
+                },
+                {
+                    "word": " composed",
+                    "start": 1.26,
+                    "end": 1.74,
+                    "probability": 0.6217994689941406
+                },
+                {
+                    "word": " budget.",
+                    "start": 1.74,
+                    "end": 2.3,
+                    "probability": 0.9899163842201233
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

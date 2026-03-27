@@ -1,0 +1,52 @@
+{
+    "text": " She has finished work.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.86,
+            "text": " She has finished work.",
+            "tokens": [
+                50364,
+                1240,
+                575,
+                4335,
+                589,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5624056458473206,
+            "compression_ratio": 0.7333333333333333,
+            "no_speech_prob": 0.0029302125331014395,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.7308505177497864
+                },
+                {
+                    "word": " has",
+                    "start": 0.2,
+                    "end": 0.74,
+                    "probability": 0.9960049986839294
+                },
+                {
+                    "word": " finished",
+                    "start": 0.74,
+                    "end": 1.28,
+                    "probability": 0.20503893494606018
+                },
+                {
+                    "word": " work.",
+                    "start": 1.28,
+                    "end": 1.86,
+                    "probability": 0.9905383586883545
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

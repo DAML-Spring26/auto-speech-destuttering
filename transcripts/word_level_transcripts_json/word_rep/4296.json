@@ -1,0 +1,116 @@
+{
+    "text": " Although the museum was crowded, we enjoyed seeing the famous paintings up close.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.4,
+            "text": " Although the museum was crowded, we enjoyed seeing the famous paintings up close.",
+            "tokens": [
+                50364,
+                5780,
+                264,
+                8441,
+                390,
+                21634,
+                11,
+                321,
+                4626,
+                2577,
+                264,
+                4618,
+                14880,
+                493,
+                1998,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28302733103434247,
+            "compression_ratio": 1.051948051948052,
+            "no_speech_prob": 0.004420071840286255,
+            "words": [
+                {
+                    "word": " Although",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.8568817973136902
+                },
+                {
+                    "word": " the",
+                    "start": 0.34,
+                    "end": 0.54,
+                    "probability": 0.9807603359222412
+                },
+                {
+                    "word": " museum",
+                    "start": 0.54,
+                    "end": 0.88,
+                    "probability": 0.9119219779968262
+                },
+                {
+                    "word": " was",
+                    "start": 0.88,
+                    "end": 1.14,
+                    "probability": 0.9939107894897461
+                },
+                {
+                    "word": " crowded,",
+                    "start": 1.14,
+                    "end": 1.56,
+                    "probability": 0.8944616317749023
+                },
+                {
+                    "word": " we",
+                    "start": 2.16,
+                    "end": 2.26,
+                    "probability": 0.9928970336914062
+                },
+                {
+                    "word": " enjoyed",
+                    "start": 2.26,
+                    "end": 2.6,
+                    "probability": 0.9911003708839417
+                },
+                {
+                    "word": " seeing",
+                    "start": 2.6,
+                    "end": 2.98,
+                    "probability": 0.9976629018783569
+                },
+                {
+                    "word": " the",
+                    "start": 2.98,
+                    "end": 3.26,
+                    "probability": 0.9302089810371399
+                },
+                {
+                    "word": " famous",
+                    "start": 3.26,
+                    "end": 4.24,
+                    "probability": 0.8354216814041138
+                },
+                {
+                    "word": " paintings",
+                    "start": 4.24,
+                    "end": 4.74,
+                    "probability": 0.9194643497467041
+                },
+                {
+                    "word": " up",
+                    "start": 4.74,
+                    "end": 5.02,
+                    "probability": 0.9865670800209045
+                },
+                {
+                    "word": " close.",
+                    "start": 5.02,
+                    "end": 5.4,
+                    "probability": 0.9878089427947998
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

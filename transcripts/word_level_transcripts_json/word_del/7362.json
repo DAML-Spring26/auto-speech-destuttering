@@ -1,0 +1,66 @@
+{
+    "text": " Update is required for the software.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.06,
+            "text": " Update is required for the software.",
+            "tokens": [
+                50364,
+                28923,
+                307,
+                4739,
+                337,
+                264,
+                4722,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4483243465423584,
+            "compression_ratio": 0.8181818181818182,
+            "no_speech_prob": 0.01899048686027527,
+            "words": [
+                {
+                    "word": " Update",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.6786566972732544
+                },
+                {
+                    "word": " is",
+                    "start": 0.36,
+                    "end": 0.6,
+                    "probability": 0.9965031147003174
+                },
+                {
+                    "word": " required",
+                    "start": 0.6,
+                    "end": 1.12,
+                    "probability": 0.9924709796905518
+                },
+                {
+                    "word": " for",
+                    "start": 1.12,
+                    "end": 1.4,
+                    "probability": 0.993005096912384
+                },
+                {
+                    "word": " the",
+                    "start": 1.4,
+                    "end": 1.54,
+                    "probability": 0.9887063503265381
+                },
+                {
+                    "word": " software.",
+                    "start": 1.54,
+                    "end": 2.06,
+                    "probability": 0.9406667947769165
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

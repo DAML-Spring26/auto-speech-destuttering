@@ -1,0 +1,59 @@
+{
+    "text": " She formed the analysis correctly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.08,
+            "text": " She formed the analysis correctly.",
+            "tokens": [
+                50364,
+                1240,
+                8693,
+                264,
+                5215,
+                8944,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5789019796583388,
+            "compression_ratio": 0.85,
+            "no_speech_prob": 0.004114570561796427,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.5883834958076477
+                },
+                {
+                    "word": " formed",
+                    "start": 0.28,
+                    "end": 0.66,
+                    "probability": 0.25146472454071045
+                },
+                {
+                    "word": " the",
+                    "start": 0.66,
+                    "end": 0.96,
+                    "probability": 0.9869246482849121
+                },
+                {
+                    "word": " analysis",
+                    "start": 0.96,
+                    "end": 1.42,
+                    "probability": 0.9878974556922913
+                },
+                {
+                    "word": " correctly.",
+                    "start": 1.42,
+                    "end": 2.08,
+                    "probability": 0.9872997403144836
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

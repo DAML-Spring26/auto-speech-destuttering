@@ -1,0 +1,45 @@
+{
+    "text": " with great care.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.24,
+            "text": " with great care.",
+            "tokens": [
+                50364,
+                365,
+                869,
+                1127,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5317133154187884,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.010986944660544395,
+            "words": [
+                {
+                    "word": " with",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.8925104737281799
+                },
+                {
+                    "word": " great",
+                    "start": 0.2,
+                    "end": 0.7,
+                    "probability": 0.9470291137695312
+                },
+                {
+                    "word": " care.",
+                    "start": 0.7,
+                    "end": 1.24,
+                    "probability": 0.9971351623535156
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

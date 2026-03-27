@@ -1,18 +1,19 @@
 {
-    "text": " If you had invested in that stock last year, you have seen significant returns.",
+    "text": " If you had to invest in that stock last year, you have seen significant returns.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 5.0,
-            "text": " If you had invested in that stock last year, you have seen significant returns.",
+            "end": 4.64,
+            "text": " If you had to invest in that stock last year, you have seen significant returns.",
             "tokens": [
                 50364,
                 759,
                 291,
                 632,
-                13104,
+                281,
+                1963,
                 294,
                 300,
                 4127,
@@ -25,12 +26,12 @@
                 4776,
                 11247,
                 13,
-                50614
+                50596
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.2616648423044305,
-            "compression_ratio": 1.0533333333333332,
-            "no_speech_prob": 0.005161430686712265
+            "avg_logprob": -0.34436535835266113,
+            "compression_ratio": 1.0526315789473684,
+            "no_speech_prob": 0.0056763761676847935
         }
     ],
     "language": "en"

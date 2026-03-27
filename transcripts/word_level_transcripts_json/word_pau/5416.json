@@ -1,0 +1,87 @@
+{
+    "text": " the latest update introduces several new features and improvements.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.92,
+            "text": " the latest update introduces several new features and improvements.",
+            "tokens": [
+                50364,
+                264,
+                6792,
+                5623,
+                31472,
+                2940,
+                777,
+                4122,
+                293,
+                13797,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.43670254487257737,
+            "compression_ratio": 1.0151515151515151,
+            "no_speech_prob": 0.0035067826975136995,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.5116413235664368
+                },
+                {
+                    "word": " latest",
+                    "start": 0.18,
+                    "end": 0.54,
+                    "probability": 0.996615469455719
+                },
+                {
+                    "word": " update",
+                    "start": 0.54,
+                    "end": 1.06,
+                    "probability": 0.9511472582817078
+                },
+                {
+                    "word": " introduces",
+                    "start": 1.06,
+                    "end": 1.8,
+                    "probability": 0.6825204491615295
+                },
+                {
+                    "word": " several",
+                    "start": 1.8,
+                    "end": 5.22,
+                    "probability": 0.7366109490394592
+                },
+                {
+                    "word": " new",
+                    "start": 5.22,
+                    "end": 5.52,
+                    "probability": 0.9966787099838257
+                },
+                {
+                    "word": " features",
+                    "start": 5.52,
+                    "end": 5.98,
+                    "probability": 0.9970376491546631
+                },
+                {
+                    "word": " and",
+                    "start": 5.98,
+                    "end": 6.32,
+                    "probability": 0.9873188138008118
+                },
+                {
+                    "word": " improvements.",
+                    "start": 6.32,
+                    "end": 6.92,
+                    "probability": 0.9985255599021912
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

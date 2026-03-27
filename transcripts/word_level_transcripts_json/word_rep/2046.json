@@ -1,0 +1,60 @@
+{
+    "text": " brass, grass grows in spring.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.02,
+            "text": " brass, grass grows in spring.",
+            "tokens": [
+                50364,
+                26257,
+                11,
+                8054,
+                13156,
+                294,
+                5587,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5947739124298096,
+            "compression_ratio": 0.8787878787878788,
+            "no_speech_prob": 0.052008867263793945,
+            "words": [
+                {
+                    "word": " brass,",
+                    "start": 0.0,
+                    "end": 0.56,
+                    "probability": 0.4479196071624756
+                },
+                {
+                    "word": " grass",
+                    "start": 0.74,
+                    "end": 1.04,
+                    "probability": 0.8683578968048096
+                },
+                {
+                    "word": " grows",
+                    "start": 1.04,
+                    "end": 1.4,
+                    "probability": 0.8290280103683472
+                },
+                {
+                    "word": " in",
+                    "start": 1.4,
+                    "end": 1.66,
+                    "probability": 0.45548295974731445
+                },
+                {
+                    "word": " spring.",
+                    "start": 1.66,
+                    "end": 2.02,
+                    "probability": 0.992384672164917
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,59 @@
+{
+    "text": " we should project our resources.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.12,
+            "text": " we should project our resources.",
+            "tokens": [
+                50364,
+                321,
+                820,
+                1716,
+                527,
+                3593,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4154395792219374,
+            "compression_ratio": 0.8421052631578947,
+            "no_speech_prob": 0.0053207906894385815,
+            "words": [
+                {
+                    "word": " we",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5345176458358765
+                },
+                {
+                    "word": " should",
+                    "start": 0.14,
+                    "end": 0.24,
+                    "probability": 0.9932700991630554
+                },
+                {
+                    "word": " project",
+                    "start": 0.24,
+                    "end": 0.52,
+                    "probability": 0.9748201370239258
+                },
+                {
+                    "word": " our",
+                    "start": 0.52,
+                    "end": 0.68,
+                    "probability": 0.982166588306427
+                },
+                {
+                    "word": " resources.",
+                    "start": 0.68,
+                    "end": 1.12,
+                    "probability": 0.9939090013504028
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

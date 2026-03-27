@@ -1,0 +1,82 @@
+{
+    "text": " Are you going to the party at onsaturday?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.2,
+            "text": " Are you going to the party at onsaturday?",
+            "tokens": [
+                50364,
+                2014,
+                291,
+                516,
+                281,
+                264,
+                3595,
+                412,
+                18818,
+                267,
+                8486,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3989635535648891,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.009404784068465233,
+            "words": [
+                {
+                    "word": " Are",
+                    "start": 0.0,
+                    "end": 0.6,
+                    "probability": 0.9639982581138611
+                },
+                {
+                    "word": " you",
+                    "start": 0.6,
+                    "end": 0.7,
+                    "probability": 0.9969164133071899
+                },
+                {
+                    "word": " going",
+                    "start": 0.7,
+                    "end": 0.88,
+                    "probability": 0.9975281357765198
+                },
+                {
+                    "word": " to",
+                    "start": 0.88,
+                    "end": 1.02,
+                    "probability": 0.9964029788970947
+                },
+                {
+                    "word": " the",
+                    "start": 1.02,
+                    "end": 1.12,
+                    "probability": 0.9759257435798645
+                },
+                {
+                    "word": " party",
+                    "start": 1.12,
+                    "end": 1.46,
+                    "probability": 0.9897163510322571
+                },
+                {
+                    "word": " at",
+                    "start": 1.46,
+                    "end": 1.66,
+                    "probability": 0.7796582579612732
+                },
+                {
+                    "word": " onsaturday?",
+                    "start": 1.66,
+                    "end": 2.2,
+                    "probability": 0.5241482357184092
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

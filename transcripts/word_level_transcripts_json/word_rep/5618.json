@@ -1,0 +1,102 @@
+{
+    "text": " the committee is looking into the feasibility of the proposed project.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.76,
+            "text": " the committee is looking into the feasibility of the proposed project.",
+            "tokens": [
+                50364,
+                264,
+                7482,
+                307,
+                1237,
+                666,
+                264,
+                21781,
+                2841,
+                295,
+                264,
+                10348,
+                1716,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3313349783420563,
+            "compression_ratio": 1.044776119402985,
+            "no_speech_prob": 0.012859348207712173,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.3989177942276001
+                },
+                {
+                    "word": " committee",
+                    "start": 0.12,
+                    "end": 0.52,
+                    "probability": 0.7718815207481384
+                },
+                {
+                    "word": " is",
+                    "start": 0.52,
+                    "end": 0.78,
+                    "probability": 0.9862106442451477
+                },
+                {
+                    "word": " looking",
+                    "start": 0.78,
+                    "end": 1.08,
+                    "probability": 0.9950002431869507
+                },
+                {
+                    "word": " into",
+                    "start": 1.08,
+                    "end": 1.52,
+                    "probability": 0.9930036664009094
+                },
+                {
+                    "word": " the",
+                    "start": 1.52,
+                    "end": 2.62,
+                    "probability": 0.6984823942184448
+                },
+                {
+                    "word": " feasibility",
+                    "start": 2.62,
+                    "end": 3.26,
+                    "probability": 0.9953323304653168
+                },
+                {
+                    "word": " of",
+                    "start": 3.26,
+                    "end": 3.64,
+                    "probability": 0.9239562749862671
+                },
+                {
+                    "word": " the",
+                    "start": 3.64,
+                    "end": 3.76,
+                    "probability": 0.9545714855194092
+                },
+                {
+                    "word": " proposed",
+                    "start": 3.76,
+                    "end": 4.12,
+                    "probability": 0.9816177487373352
+                },
+                {
+                    "word": " project.",
+                    "start": 4.12,
+                    "end": 4.76,
+                    "probability": 0.9962648749351501
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

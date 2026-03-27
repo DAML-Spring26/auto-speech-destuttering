@@ -1,0 +1,60 @@
+{
+    "text": " The system replays error messages.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.96,
+            "text": " The system replays error messages.",
+            "tokens": [
+                50364,
+                440,
+                1185,
+                23836,
+                82,
+                6713,
+                7897,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5757386684417725,
+            "compression_ratio": 0.8095238095238095,
+            "no_speech_prob": 0.007145266514271498,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5905104875564575
+                },
+                {
+                    "word": " system",
+                    "start": 0.14,
+                    "end": 0.54,
+                    "probability": 0.9396343231201172
+                },
+                {
+                    "word": " replays",
+                    "start": 0.54,
+                    "end": 1.18,
+                    "probability": 0.6257542222738266
+                },
+                {
+                    "word": " error",
+                    "start": 1.18,
+                    "end": 1.38,
+                    "probability": 0.6513189673423767
+                },
+                {
+                    "word": " messages.",
+                    "start": 1.38,
+                    "end": 1.96,
+                    "probability": 0.9685293436050415
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

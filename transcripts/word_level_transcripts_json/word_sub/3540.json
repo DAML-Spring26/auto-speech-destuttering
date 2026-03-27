@@ -1,0 +1,52 @@
+{
+    "text": " She analyzed market friends.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.5,
+            "text": " She analyzed market friends.",
+            "tokens": [
+                50364,
+                1240,
+                28181,
+                2142,
+                1855,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5533968806266785,
+            "compression_ratio": 0.7777777777777778,
+            "no_speech_prob": 0.00857685785740614,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.810490608215332
+                },
+                {
+                    "word": " analyzed",
+                    "start": 0.2,
+                    "end": 0.6,
+                    "probability": 0.3391115367412567
+                },
+                {
+                    "word": " market",
+                    "start": 0.6,
+                    "end": 1.1,
+                    "probability": 0.8985968232154846
+                },
+                {
+                    "word": " friends.",
+                    "start": 1.1,
+                    "end": 1.5,
+                    "probability": 0.8676807284355164
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

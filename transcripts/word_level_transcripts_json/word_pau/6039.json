@@ -1,0 +1,80 @@
+{
+    "text": " We need to improve our customer service approach.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.98,
+            "text": " We need to improve our customer service approach.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                3470,
+                527,
+                5474,
+                2643,
+                3109,
+                13,
+                50580
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36769644419352215,
+            "compression_ratio": 0.8909090909090909,
+            "no_speech_prob": 0.006384186912328005,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6683992743492126
+                },
+                {
+                    "word": " need",
+                    "start": 0.16,
+                    "end": 0.36,
+                    "probability": 0.9953941106796265
+                },
+                {
+                    "word": " to",
+                    "start": 0.36,
+                    "end": 0.56,
+                    "probability": 0.9984240531921387
+                },
+                {
+                    "word": " improve",
+                    "start": 0.56,
+                    "end": 0.96,
+                    "probability": 0.996717631816864
+                },
+                {
+                    "word": " our",
+                    "start": 0.96,
+                    "end": 2.26,
+                    "probability": 0.9576367735862732
+                },
+                {
+                    "word": " customer",
+                    "start": 2.26,
+                    "end": 2.74,
+                    "probability": 0.8510627150535583
+                },
+                {
+                    "word": " service",
+                    "start": 2.74,
+                    "end": 3.32,
+                    "probability": 0.9928712248802185
+                },
+                {
+                    "word": " approach.",
+                    "start": 3.32,
+                    "end": 3.98,
+                    "probability": 0.9941490888595581
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

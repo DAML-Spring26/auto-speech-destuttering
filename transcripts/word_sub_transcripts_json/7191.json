@@ -1,0 +1,89 @@
+{
+    "text": " The geologist analyzed rock samples from the excavation site.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.5,
+            "text": " The geologist analyzed rock samples from the excavation site.",
+            "tokens": [
+                50364,
+                440,
+                1519,
+                9201,
+                28181,
+                3727,
+                10938,
+                490,
+                264,
+                24933,
+                11116,
+                3621,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34375890096028644,
+            "compression_ratio": 0.9104477611940298,
+            "no_speech_prob": 0.004542093258351088,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7092916369438171
+                },
+                {
+                    "word": " geologist",
+                    "start": 0.14,
+                    "end": 0.6,
+                    "probability": 0.8131858706474304
+                },
+                {
+                    "word": " analyzed",
+                    "start": 0.6,
+                    "end": 1.14,
+                    "probability": 0.37087270617485046
+                },
+                {
+                    "word": " rock",
+                    "start": 1.14,
+                    "end": 1.56,
+                    "probability": 0.9293085336685181
+                },
+                {
+                    "word": " samples",
+                    "start": 1.56,
+                    "end": 1.96,
+                    "probability": 0.9989608526229858
+                },
+                {
+                    "word": " from",
+                    "start": 1.96,
+                    "end": 2.22,
+                    "probability": 0.9949486255645752
+                },
+                {
+                    "word": " the",
+                    "start": 2.22,
+                    "end": 2.4,
+                    "probability": 0.98501056432724
+                },
+                {
+                    "word": " excavation",
+                    "start": 2.4,
+                    "end": 3.16,
+                    "probability": 0.9640504717826843
+                },
+                {
+                    "word": " site.",
+                    "start": 3.16,
+                    "end": 3.5,
+                    "probability": 0.9971652626991272
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

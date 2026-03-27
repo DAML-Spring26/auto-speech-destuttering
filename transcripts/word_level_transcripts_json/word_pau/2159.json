@@ -1,0 +1,90 @@
+{
+    "text": " I'm sorry, but your warranty doesn't cover accidental damage.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.86,
+            "text": " I'm sorry, but your warranty doesn't cover accidental damage.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                2597,
+                11,
+                457,
+                428,
+                26852,
+                1177,
+                380,
+                2060,
+                38094,
+                4344,
+                13,
+                50674
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37043386697769165,
+            "compression_ratio": 0.9104477611940298,
+            "no_speech_prob": 0.024980148300528526,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.8685031533241272
+                },
+                {
+                    "word": " sorry,",
+                    "start": 0.24,
+                    "end": 0.62,
+                    "probability": 0.9944931268692017
+                },
+                {
+                    "word": " but",
+                    "start": 0.96,
+                    "end": 1.02,
+                    "probability": 0.9795133471488953
+                },
+                {
+                    "word": " your",
+                    "start": 1.02,
+                    "end": 1.24,
+                    "probability": 0.6941542029380798
+                },
+                {
+                    "word": " warranty",
+                    "start": 1.24,
+                    "end": 1.58,
+                    "probability": 0.9663993120193481
+                },
+                {
+                    "word": " doesn't",
+                    "start": 1.58,
+                    "end": 1.98,
+                    "probability": 0.9802404940128326
+                },
+                {
+                    "word": " cover",
+                    "start": 1.98,
+                    "end": 2.22,
+                    "probability": 0.9922107458114624
+                },
+                {
+                    "word": " accidental",
+                    "start": 2.22,
+                    "end": 2.94,
+                    "probability": 0.5663420557975769
+                },
+                {
+                    "word": " damage.",
+                    "start": 2.94,
+                    "end": 5.86,
+                    "probability": 0.9971305727958679
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

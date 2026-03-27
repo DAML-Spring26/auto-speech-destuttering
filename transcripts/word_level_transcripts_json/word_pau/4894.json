@@ -1,0 +1,87 @@
+{
+    "text": " We need increased productivity to meet our annual targets.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.54,
+            "text": " We need increased productivity to meet our annual targets.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                6505,
+                15604,
+                281,
+                1677,
+                527,
+                9784,
+                12911,
+                13,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36069367482112,
+            "compression_ratio": 0.9354838709677419,
+            "no_speech_prob": 0.0045074704103171825,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7285691499710083
+                },
+                {
+                    "word": " need",
+                    "start": 0.14,
+                    "end": 0.32,
+                    "probability": 0.9920493960380554
+                },
+                {
+                    "word": " increased",
+                    "start": 0.32,
+                    "end": 0.88,
+                    "probability": 0.6311885118484497
+                },
+                {
+                    "word": " productivity",
+                    "start": 0.88,
+                    "end": 3.14,
+                    "probability": 0.91873699426651
+                },
+                {
+                    "word": " to",
+                    "start": 3.14,
+                    "end": 3.54,
+                    "probability": 0.9491845965385437
+                },
+                {
+                    "word": " meet",
+                    "start": 3.54,
+                    "end": 3.72,
+                    "probability": 0.6256625652313232
+                },
+                {
+                    "word": " our",
+                    "start": 3.72,
+                    "end": 3.84,
+                    "probability": 0.9111043810844421
+                },
+                {
+                    "word": " annual",
+                    "start": 3.84,
+                    "end": 4.06,
+                    "probability": 0.8889724612236023
+                },
+                {
+                    "word": " targets.",
+                    "start": 4.06,
+                    "end": 4.54,
+                    "probability": 0.9739134907722473
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

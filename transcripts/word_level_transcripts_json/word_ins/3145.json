@@ -1,0 +1,111 @@
+{
+    "text": " Don't forget to like, bring your permission slip for the class outing.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.84,
+            "text": " Don't forget to like, bring your permission slip for the class outing.",
+            "tokens": [
+                50364,
+                1468,
+                380,
+                2870,
+                281,
+                411,
+                11,
+                1565,
+                428,
+                11226,
+                11140,
+                337,
+                264,
+                1508,
+                484,
+                278,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23314021763048673,
+            "compression_ratio": 0.9859154929577465,
+            "no_speech_prob": 0.02860095165669918,
+            "words": [
+                {
+                    "word": " Don't",
+                    "start": 0.0,
+                    "end": 0.86,
+                    "probability": 0.9486557245254517
+                },
+                {
+                    "word": " forget",
+                    "start": 0.86,
+                    "end": 1.08,
+                    "probability": 0.9824789762496948
+                },
+                {
+                    "word": " to",
+                    "start": 1.08,
+                    "end": 1.26,
+                    "probability": 0.9990068078041077
+                },
+                {
+                    "word": " like,",
+                    "start": 1.26,
+                    "end": 1.5,
+                    "probability": 0.8295538425445557
+                },
+                {
+                    "word": " bring",
+                    "start": 1.88,
+                    "end": 2.04,
+                    "probability": 0.8838068842887878
+                },
+                {
+                    "word": " your",
+                    "start": 2.04,
+                    "end": 2.2,
+                    "probability": 0.9940223097801208
+                },
+                {
+                    "word": " permission",
+                    "start": 2.2,
+                    "end": 2.52,
+                    "probability": 0.8832630515098572
+                },
+                {
+                    "word": " slip",
+                    "start": 2.52,
+                    "end": 2.92,
+                    "probability": 0.9709994792938232
+                },
+                {
+                    "word": " for",
+                    "start": 2.92,
+                    "end": 3.1,
+                    "probability": 0.9974009990692139
+                },
+                {
+                    "word": " the",
+                    "start": 3.1,
+                    "end": 3.22,
+                    "probability": 0.9960057139396667
+                },
+                {
+                    "word": " class",
+                    "start": 3.22,
+                    "end": 3.5,
+                    "probability": 0.9386373162269592
+                },
+                {
+                    "word": " outing.",
+                    "start": 3.5,
+                    "end": 3.84,
+                    "probability": 0.9763890504837036
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

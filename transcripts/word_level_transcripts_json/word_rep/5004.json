@@ -1,0 +1,95 @@
+{
+    "text": " The museum's new exhibit features artwork from various contemporary artists.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.7,
+            "text": " The museum's new exhibit features artwork from various contemporary artists.",
+            "tokens": [
+                50364,
+                440,
+                8441,
+                311,
+                777,
+                20487,
+                4122,
+                15829,
+                490,
+                3683,
+                14878,
+                6910,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.302161439259847,
+            "compression_ratio": 1.0133333333333334,
+            "no_speech_prob": 0.01026558130979538,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6989243626594543
+                },
+                {
+                    "word": " museum's",
+                    "start": 0.12,
+                    "end": 0.54,
+                    "probability": 0.9205235242843628
+                },
+                {
+                    "word": " new",
+                    "start": 0.54,
+                    "end": 0.72,
+                    "probability": 0.7469934821128845
+                },
+                {
+                    "word": " exhibit",
+                    "start": 0.72,
+                    "end": 0.98,
+                    "probability": 0.8010236620903015
+                },
+                {
+                    "word": " features",
+                    "start": 0.98,
+                    "end": 1.32,
+                    "probability": 0.9915532469749451
+                },
+                {
+                    "word": " artwork",
+                    "start": 1.32,
+                    "end": 1.72,
+                    "probability": 0.9151028990745544
+                },
+                {
+                    "word": " from",
+                    "start": 1.72,
+                    "end": 2.1,
+                    "probability": 0.9561017155647278
+                },
+                {
+                    "word": " various",
+                    "start": 2.1,
+                    "end": 2.68,
+                    "probability": 0.8703628182411194
+                },
+                {
+                    "word": " contemporary",
+                    "start": 2.68,
+                    "end": 3.22,
+                    "probability": 0.9968532919883728
+                },
+                {
+                    "word": " artists.",
+                    "start": 3.22,
+                    "end": 3.7,
+                    "probability": 0.822151243686676
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

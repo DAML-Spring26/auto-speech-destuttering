@@ -1,0 +1,81 @@
+{
+    "text": " Ohm did you well see that viral video?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.04,
+            "text": " Ohm did you well see that viral video?",
+            "tokens": [
+                50364,
+                876,
+                76,
+                630,
+                291,
+                731,
+                536,
+                300,
+                16132,
+                960,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38162976044874924,
+            "compression_ratio": 0.8636363636363636,
+            "no_speech_prob": 0.012577713467180729,
+            "words": [
+                {
+                    "word": " Ohm",
+                    "start": 0.0,
+                    "end": 0.58,
+                    "probability": 0.5429990589618683
+                },
+                {
+                    "word": " did",
+                    "start": 0.58,
+                    "end": 0.7,
+                    "probability": 0.43275153636932373
+                },
+                {
+                    "word": " you",
+                    "start": 0.7,
+                    "end": 0.88,
+                    "probability": 0.995405912399292
+                },
+                {
+                    "word": " well",
+                    "start": 0.88,
+                    "end": 1.06,
+                    "probability": 0.8824280500411987
+                },
+                {
+                    "word": " see",
+                    "start": 1.06,
+                    "end": 1.26,
+                    "probability": 0.9878718852996826
+                },
+                {
+                    "word": " that",
+                    "start": 1.26,
+                    "end": 1.4,
+                    "probability": 0.9959593415260315
+                },
+                {
+                    "word": " viral",
+                    "start": 1.4,
+                    "end": 1.72,
+                    "probability": 0.9965270161628723
+                },
+                {
+                    "word": " video?",
+                    "start": 1.72,
+                    "end": 2.04,
+                    "probability": 0.9969946146011353
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

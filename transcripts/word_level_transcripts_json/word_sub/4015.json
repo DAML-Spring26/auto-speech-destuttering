@@ -1,0 +1,73 @@
+{
+    "text": " The meeting regard shows all decisions made.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.42,
+            "text": " The meeting regard shows all decisions made.",
+            "tokens": [
+                50364,
+                440,
+                3440,
+                3843,
+                3110,
+                439,
+                5327,
+                1027,
+                13,
+                50496
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4672103361649947,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.009781194850802422,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6337560415267944
+                },
+                {
+                    "word": " meeting",
+                    "start": 0.12,
+                    "end": 0.44,
+                    "probability": 0.7643678188323975
+                },
+                {
+                    "word": " regard",
+                    "start": 0.44,
+                    "end": 0.76,
+                    "probability": 0.5339857935905457
+                },
+                {
+                    "word": " shows",
+                    "start": 0.76,
+                    "end": 1.16,
+                    "probability": 0.9949510097503662
+                },
+                {
+                    "word": " all",
+                    "start": 1.16,
+                    "end": 1.54,
+                    "probability": 0.9472975730895996
+                },
+                {
+                    "word": " decisions",
+                    "start": 1.54,
+                    "end": 2.0,
+                    "probability": 0.9902509450912476
+                },
+                {
+                    "word": " made.",
+                    "start": 2.0,
+                    "end": 2.42,
+                    "probability": 0.9961830973625183
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

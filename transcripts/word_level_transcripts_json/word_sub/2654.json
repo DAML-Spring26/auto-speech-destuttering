@@ -1,0 +1,66 @@
+{
+    "text": " she wants to discuss the proposal.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.52,
+            "text": " she wants to discuss the proposal.",
+            "tokens": [
+                50364,
+                750,
+                2738,
+                281,
+                2248,
+                264,
+                11494,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47359395027160645,
+            "compression_ratio": 0.8717948717948718,
+            "no_speech_prob": 0.005860778968781233,
+            "words": [
+                {
+                    "word": " she",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.4698413610458374
+                },
+                {
+                    "word": " wants",
+                    "start": 0.24,
+                    "end": 0.44,
+                    "probability": 0.7622708678245544
+                },
+                {
+                    "word": " to",
+                    "start": 0.44,
+                    "end": 0.62,
+                    "probability": 0.9970594048500061
+                },
+                {
+                    "word": " discuss",
+                    "start": 0.62,
+                    "end": 0.9,
+                    "probability": 0.9878306984901428
+                },
+                {
+                    "word": " the",
+                    "start": 0.9,
+                    "end": 1.1,
+                    "probability": 0.9510793089866638
+                },
+                {
+                    "word": " proposal.",
+                    "start": 1.1,
+                    "end": 1.52,
+                    "probability": 0.5744748115539551
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

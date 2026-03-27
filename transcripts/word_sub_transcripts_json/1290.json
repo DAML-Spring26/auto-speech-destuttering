@@ -1,0 +1,59 @@
+{
+    "text": " The report includes detailed paralysis.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.9,
+            "text": " The report includes detailed paralysis.",
+            "tokens": [
+                50364,
+                440,
+                2275,
+                5974,
+                9942,
+                49507,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.507486449347602,
+            "compression_ratio": 0.8297872340425532,
+            "no_speech_prob": 0.012805433012545109,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8037568926811218
+                },
+                {
+                    "word": " report",
+                    "start": 0.12,
+                    "end": 0.42,
+                    "probability": 0.9741248488426208
+                },
+                {
+                    "word": " includes",
+                    "start": 0.42,
+                    "end": 0.8,
+                    "probability": 0.9939475059509277
+                },
+                {
+                    "word": " detailed",
+                    "start": 0.8,
+                    "end": 1.3,
+                    "probability": 0.7183395624160767
+                },
+                {
+                    "word": " paralysis.",
+                    "start": 1.3,
+                    "end": 1.9,
+                    "probability": 0.9629343152046204
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

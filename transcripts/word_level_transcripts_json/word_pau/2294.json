@@ -1,0 +1,87 @@
+{
+    "text": " Can you help me set up my new computer?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.0,
+            "text": " Can you help me set up my new computer?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                854,
+                385,
+                992,
+                493,
+                452,
+                777,
+                3820,
+                30,
+                50580
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33324824846707857,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.051124561578035355,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.7388180494308472
+                },
+                {
+                    "word": " you",
+                    "start": 0.22,
+                    "end": 0.4,
+                    "probability": 0.9904950857162476
+                },
+                {
+                    "word": " help",
+                    "start": 0.4,
+                    "end": 0.66,
+                    "probability": 0.9946600794792175
+                },
+                {
+                    "word": " me",
+                    "start": 0.66,
+                    "end": 0.9,
+                    "probability": 0.9938960671424866
+                },
+                {
+                    "word": " set",
+                    "start": 0.9,
+                    "end": 1.42,
+                    "probability": 0.9739648103713989
+                },
+                {
+                    "word": " up",
+                    "start": 1.42,
+                    "end": 3.1,
+                    "probability": 0.777068018913269
+                },
+                {
+                    "word": " my",
+                    "start": 3.1,
+                    "end": 3.32,
+                    "probability": 0.9818817973136902
+                },
+                {
+                    "word": " new",
+                    "start": 3.32,
+                    "end": 3.54,
+                    "probability": 0.9935168027877808
+                },
+                {
+                    "word": " computer?",
+                    "start": 3.54,
+                    "end": 4.0,
+                    "probability": 0.9904528856277466
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,87 @@
+{
+    "text": " the new policy aims to promote work life balance.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.72,
+            "text": " the new policy aims to promote work life balance.",
+            "tokens": [
+                50364,
+                264,
+                777,
+                3897,
+                24683,
+                281,
+                9773,
+                589,
+                993,
+                4772,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5527583268972543,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.021907953545451164,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.5,
+                    "probability": 0.2438672035932541
+                },
+                {
+                    "word": " new",
+                    "start": 0.5,
+                    "end": 0.7,
+                    "probability": 0.9628296494483948
+                },
+                {
+                    "word": " policy",
+                    "start": 0.7,
+                    "end": 1.2,
+                    "probability": 0.8769155144691467
+                },
+                {
+                    "word": " aims",
+                    "start": 1.2,
+                    "end": 1.56,
+                    "probability": 0.31389012932777405
+                },
+                {
+                    "word": " to",
+                    "start": 1.56,
+                    "end": 1.84,
+                    "probability": 0.9923095703125
+                },
+                {
+                    "word": " promote",
+                    "start": 1.84,
+                    "end": 5.64,
+                    "probability": 0.6582305431365967
+                },
+                {
+                    "word": " work",
+                    "start": 5.64,
+                    "end": 6.06,
+                    "probability": 0.7472896575927734
+                },
+                {
+                    "word": " life",
+                    "start": 6.06,
+                    "end": 6.24,
+                    "probability": 0.6451165676116943
+                },
+                {
+                    "word": " balance.",
+                    "start": 6.24,
+                    "end": 6.72,
+                    "probability": 0.5442076921463013
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

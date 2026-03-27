@@ -1,0 +1,67 @@
+{
+    "text": " The plate departs from terminal 3.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.8,
+            "text": " The plate departs from terminal 3.",
+            "tokens": [
+                50364,
+                440,
+                5924,
+                9110,
+                82,
+                490,
+                14709,
+                805,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8625132820822976,
+            "compression_ratio": 0.8095238095238095,
+            "no_speech_prob": 0.015599202364683151,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.04195133596658707
+                },
+                {
+                    "word": " plate",
+                    "start": 0.18,
+                    "end": 0.26,
+                    "probability": 0.09473807364702225
+                },
+                {
+                    "word": " departs",
+                    "start": 0.26,
+                    "end": 0.9,
+                    "probability": 0.8576404750347137
+                },
+                {
+                    "word": " from",
+                    "start": 0.9,
+                    "end": 1.02,
+                    "probability": 0.9956106543540955
+                },
+                {
+                    "word": " terminal",
+                    "start": 1.02,
+                    "end": 1.42,
+                    "probability": 0.7440980076789856
+                },
+                {
+                    "word": " 3.",
+                    "start": 1.42,
+                    "end": 1.8,
+                    "probability": 0.7293069362640381
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

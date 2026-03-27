@@ -1,12 +1,12 @@
 {
-    "text": " researchers have studied the effects of climate change on marine ecosystems.",
+    "text": " researchers have studied the effects.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 4.48,
-            "text": " researchers have studied the effects of climate change on marine ecosystems.",
+            "end": 2.0,
+            "text": " researchers have studied the effects.",
             "tokens": [
                 50364,
                 10309,
@@ -14,19 +14,13 @@
                 9454,
                 264,
                 5065,
-                295,
-                5659,
-                1319,
-                322,
-                20246,
-                32647,
                 13,
-                50588
+                50464
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.3901000658671061,
-            "compression_ratio": 1.0704225352112675,
-            "no_speech_prob": 0.003120151348412037
+            "avg_logprob": -0.6697795655992296,
+            "compression_ratio": 0.8222222222222222,
+            "no_speech_prob": 0.0012292673345655203
         }
     ],
     "language": "en"

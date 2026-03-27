@@ -1,0 +1,82 @@
+{
+    "text": " The system will protect any unauthorized access attempts.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.6,
+            "text": " The system will protect any unauthorized access attempts.",
+            "tokens": [
+                50364,
+                440,
+                1185,
+                486,
+                2371,
+                604,
+                517,
+                34224,
+                1602,
+                2105,
+                15257,
+                13,
+                50572
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32176756858825684,
+            "compression_ratio": 0.890625,
+            "no_speech_prob": 0.002573624951764941,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6065113544464111
+                },
+                {
+                    "word": " system",
+                    "start": 0.12,
+                    "end": 0.52,
+                    "probability": 0.9942856431007385
+                },
+                {
+                    "word": " will",
+                    "start": 0.52,
+                    "end": 0.76,
+                    "probability": 0.998021125793457
+                },
+                {
+                    "word": " protect",
+                    "start": 0.76,
+                    "end": 1.18,
+                    "probability": 0.9899663925170898
+                },
+                {
+                    "word": " any",
+                    "start": 1.18,
+                    "end": 1.68,
+                    "probability": 0.9892210364341736
+                },
+                {
+                    "word": " unauthorized",
+                    "start": 1.68,
+                    "end": 2.48,
+                    "probability": 0.8599358797073364
+                },
+                {
+                    "word": " access",
+                    "start": 2.48,
+                    "end": 2.92,
+                    "probability": 0.9125627279281616
+                },
+                {
+                    "word": " attempts.",
+                    "start": 2.92,
+                    "end": 3.6,
+                    "probability": 0.9093005061149597
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

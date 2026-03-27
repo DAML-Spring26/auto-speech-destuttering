@@ -1,0 +1,66 @@
+{
+    "text": " She wondered the meeting would proceed.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.32,
+            "text": " She wondered the meeting would proceed.",
+            "tokens": [
+                50364,
+                1240,
+                17055,
+                264,
+                3440,
+                576,
+                8991,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41612539291381834,
+            "compression_ratio": 0.8863636363636364,
+            "no_speech_prob": 0.0020537374075502157,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.8113477826118469
+                },
+                {
+                    "word": " wondered",
+                    "start": 0.16,
+                    "end": 0.42,
+                    "probability": 0.4586063325405121
+                },
+                {
+                    "word": " the",
+                    "start": 0.42,
+                    "end": 0.58,
+                    "probability": 0.9663894176483154
+                },
+                {
+                    "word": " meeting",
+                    "start": 0.58,
+                    "end": 0.78,
+                    "probability": 0.9957389831542969
+                },
+                {
+                    "word": " would",
+                    "start": 0.78,
+                    "end": 0.98,
+                    "probability": 0.9753962755203247
+                },
+                {
+                    "word": " proceed.",
+                    "start": 0.98,
+                    "end": 1.32,
+                    "probability": 0.9866489768028259
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

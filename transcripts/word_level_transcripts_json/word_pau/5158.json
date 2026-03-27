@@ -1,0 +1,120 @@
+{
+    "text": " The professor's lecture on ancient civilizations was both fascinating and enlightening.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.92,
+            "text": " The professor's lecture on ancient civilizations was",
+            "tokens": [
+                50364,
+                440,
+                8304,
+                311,
+                7991,
+                322,
+                7832,
+                40749,
+                390,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4612064863506116,
+            "compression_ratio": 1.0740740740740742,
+            "no_speech_prob": 0.003367967903614044,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6943731307983398
+                },
+                {
+                    "word": " professor's",
+                    "start": 0.12,
+                    "end": 0.96,
+                    "probability": 0.7819046974182129
+                },
+                {
+                    "word": " lecture",
+                    "start": 0.96,
+                    "end": 1.36,
+                    "probability": 0.8660746812820435
+                },
+                {
+                    "word": " on",
+                    "start": 1.36,
+                    "end": 1.64,
+                    "probability": 0.9976052045822144
+                },
+                {
+                    "word": " ancient",
+                    "start": 1.64,
+                    "end": 2.06,
+                    "probability": 0.8587943911552429
+                },
+                {
+                    "word": " civilizations",
+                    "start": 2.06,
+                    "end": 2.76,
+                    "probability": 0.862825870513916
+                },
+                {
+                    "word": " was",
+                    "start": 2.76,
+                    "end": 3.92,
+                    "probability": 0.9911426305770874
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.5,
+            "end": 9.82,
+            "text": " both fascinating and enlightening.",
+            "tokens": [
+                50739,
+                1293,
+                10343,
+                293,
+                18690,
+                4559,
+                13,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4612064863506116,
+            "compression_ratio": 1.0740740740740742,
+            "no_speech_prob": 0.003367967903614044,
+            "words": [
+                {
+                    "word": " both",
+                    "start": 7.170000000000001,
+                    "end": 7.78,
+                    "probability": 0.03435155376791954
+                },
+                {
+                    "word": " fascinating",
+                    "start": 7.78,
+                    "end": 8.5,
+                    "probability": 0.9733611941337585
+                },
+                {
+                    "word": " and",
+                    "start": 8.5,
+                    "end": 9.02,
+                    "probability": 0.9948227405548096
+                },
+                {
+                    "word": " enlightening.",
+                    "start": 9.02,
+                    "end": 9.82,
+                    "probability": 0.9967173039913177
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

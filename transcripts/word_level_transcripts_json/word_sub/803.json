@@ -1,0 +1,66 @@
+{
+    "text": " the committee reviewed the disposal thoroughly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.3,
+            "text": " the committee reviewed the disposal thoroughly.",
+            "tokens": [
+                50364,
+                264,
+                7482,
+                18429,
+                264,
+                26400,
+                17987,
+                13,
+                50494
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5005412578582764,
+            "compression_ratio": 0.9038461538461539,
+            "no_speech_prob": 0.06904910504817963,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.40292832255363464
+                },
+                {
+                    "word": " committee",
+                    "start": 0.14,
+                    "end": 0.54,
+                    "probability": 0.7655968070030212
+                },
+                {
+                    "word": " reviewed",
+                    "start": 0.54,
+                    "end": 1.04,
+                    "probability": 0.9718632102012634
+                },
+                {
+                    "word": " the",
+                    "start": 1.04,
+                    "end": 1.24,
+                    "probability": 0.9912171363830566
+                },
+                {
+                    "word": " disposal",
+                    "start": 1.24,
+                    "end": 1.78,
+                    "probability": 0.9531821012496948
+                },
+                {
+                    "word": " thoroughly.",
+                    "start": 1.78,
+                    "end": 2.3,
+                    "probability": 0.9908608198165894
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

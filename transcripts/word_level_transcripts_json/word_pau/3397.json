@@ -1,0 +1,98 @@
+{
+    "text": " the new project. Manager will start next Monday.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.98,
+            "text": " the new project.",
+            "tokens": [
+                50364,
+                264,
+                777,
+                1716,
+                13,
+                50520
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5983729680379232,
+            "compression_ratio": 0.8727272727272727,
+            "no_speech_prob": 0.02168329805135727,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.4588504731655121
+                },
+                {
+                    "word": " new",
+                    "start": 0.14,
+                    "end": 0.34,
+                    "probability": 0.9615135788917542
+                },
+                {
+                    "word": " project.",
+                    "start": 0.34,
+                    "end": 0.98,
+                    "probability": 0.9527121782302856
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.88,
+            "end": 5.04,
+            "text": " Manager will start next Monday.",
+            "tokens": [
+                50520,
+                13821,
+                486,
+                722,
+                958,
+                8138,
+                13,
+                50620
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5983729680379232,
+            "compression_ratio": 0.8727272727272727,
+            "no_speech_prob": 0.02168329805135727,
+            "words": [
+                {
+                    "word": " Manager",
+                    "start": 2.88,
+                    "end": 3.66,
+                    "probability": 0.7159203290939331
+                },
+                {
+                    "word": " will",
+                    "start": 3.66,
+                    "end": 3.9,
+                    "probability": 0.9911156892776489
+                },
+                {
+                    "word": " start",
+                    "start": 3.9,
+                    "end": 4.22,
+                    "probability": 0.9958357810974121
+                },
+                {
+                    "word": " next",
+                    "start": 4.22,
+                    "end": 4.62,
+                    "probability": 0.9891148805618286
+                },
+                {
+                    "word": " Monday.",
+                    "start": 4.62,
+                    "end": 5.04,
+                    "probability": 0.9921286106109619
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

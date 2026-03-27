@@ -1,0 +1,66 @@
+{
+    "text": " The new policy seems quite restrictive.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.56,
+            "text": " The new policy seems quite restrictive.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                3897,
+                2544,
+                1596,
+                43220,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4171698570251465,
+            "compression_ratio": 0.8297872340425532,
+            "no_speech_prob": 0.015816926956176758,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7064130902290344
+                },
+                {
+                    "word": " new",
+                    "start": 0.12,
+                    "end": 0.26,
+                    "probability": 0.9714460968971252
+                },
+                {
+                    "word": " policy",
+                    "start": 0.26,
+                    "end": 0.66,
+                    "probability": 0.977073073387146
+                },
+                {
+                    "word": " seems",
+                    "start": 0.66,
+                    "end": 1.08,
+                    "probability": 0.9636250138282776
+                },
+                {
+                    "word": " quite",
+                    "start": 1.08,
+                    "end": 1.38,
+                    "probability": 0.9948015213012695
+                },
+                {
+                    "word": " restrictive.",
+                    "start": 1.38,
+                    "end": 3.56,
+                    "probability": 0.7211821675300598
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

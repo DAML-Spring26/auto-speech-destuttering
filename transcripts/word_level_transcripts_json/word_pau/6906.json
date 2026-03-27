@@ -1,0 +1,80 @@
+{
+    "text": " The car broke down on the highway yesterday.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.24,
+            "text": " The car broke down on the highway yesterday.",
+            "tokens": [
+                50364,
+                440,
+                1032,
+                6902,
+                760,
+                322,
+                264,
+                17205,
+                5186,
+                13,
+                50539
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.44356409708658856,
+            "compression_ratio": 0.8627450980392157,
+            "no_speech_prob": 0.021085098385810852,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8307585120201111
+                },
+                {
+                    "word": " car",
+                    "start": 0.14,
+                    "end": 0.34,
+                    "probability": 0.9568793177604675
+                },
+                {
+                    "word": " broke",
+                    "start": 0.34,
+                    "end": 0.62,
+                    "probability": 0.9896883368492126
+                },
+                {
+                    "word": " down",
+                    "start": 0.62,
+                    "end": 0.86,
+                    "probability": 0.9871720671653748
+                },
+                {
+                    "word": " on",
+                    "start": 0.86,
+                    "end": 1.12,
+                    "probability": 0.9917506575584412
+                },
+                {
+                    "word": " the",
+                    "start": 1.12,
+                    "end": 2.46,
+                    "probability": 0.3466593325138092
+                },
+                {
+                    "word": " highway",
+                    "start": 2.46,
+                    "end": 2.74,
+                    "probability": 0.9736161828041077
+                },
+                {
+                    "word": " yesterday.",
+                    "start": 2.74,
+                    "end": 3.24,
+                    "probability": 0.9933900833129883
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

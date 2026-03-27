@@ -1,0 +1,70 @@
+{
+    "text": " That Rulico's Saraje was absolutely thrilling.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.32,
+            "text": " That Rulico's Saraje was absolutely thrilling.",
+            "tokens": [
+                50364,
+                663,
+                497,
+                425,
+                2789,
+                311,
+                6894,
+                11153,
+                390,
+                3122,
+                39347,
+                13,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9233356884547642,
+            "compression_ratio": 0.8518518518518519,
+            "no_speech_prob": 0.006624732632189989,
+            "words": [
+                {
+                    "word": " That",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.6354690194129944
+                },
+                {
+                    "word": " Rulico's",
+                    "start": 0.18,
+                    "end": 0.8,
+                    "probability": 0.29209882766008377
+                },
+                {
+                    "word": " Saraje",
+                    "start": 0.8,
+                    "end": 1.12,
+                    "probability": 0.20444222167134285
+                },
+                {
+                    "word": " was",
+                    "start": 1.12,
+                    "end": 1.34,
+                    "probability": 0.9132793545722961
+                },
+                {
+                    "word": " absolutely",
+                    "start": 1.34,
+                    "end": 1.98,
+                    "probability": 0.9692199230194092
+                },
+                {
+                    "word": " thrilling.",
+                    "start": 1.98,
+                    "end": 4.32,
+                    "probability": 0.5237820148468018
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

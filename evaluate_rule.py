@@ -4,12 +4,14 @@ from sklearn.metrics import classification_report
 
 df = pd.read_csv("data/test.csv")
 
-preds = []
+y_true = []
+y_pred = []
 
 for _, row in df.iterrows():
     pred = rule_detect(row["text"])
-    if pred == -1:
-        pred = row["label"]
-    preds.append(pred)
 
-print(classification_report(df["label"], preds))
+    y_true.append(row["label"])
+    y_pred.append(pred)
+
+print("Total test rows:", len(df))
+print(classification_report(y_true, y_pred, zero_division=0))

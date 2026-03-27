@@ -1,0 +1,99 @@
+{
+    "text": " The concert held at the Sidesmen Square, where they're permitting.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.1,
+            "text": " The concert held at the Sidesmen Square, where they're permitting.",
+            "tokens": [
+                50364,
+                440,
+                8543,
+                5167,
+                412,
+                264,
+                318,
+                1875,
+                2558,
+                16463,
+                11,
+                689,
+                436,
+                434,
+                4784,
+                2414,
+                13,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4663138138620477,
+            "compression_ratio": 0.9565217391304348,
+            "no_speech_prob": 0.004701407626271248,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6364105343818665
+                },
+                {
+                    "word": " concert",
+                    "start": 0.14,
+                    "end": 0.5,
+                    "probability": 0.6423192024230957
+                },
+                {
+                    "word": " held",
+                    "start": 0.5,
+                    "end": 0.9,
+                    "probability": 0.9980732202529907
+                },
+                {
+                    "word": " at",
+                    "start": 0.9,
+                    "end": 1.04,
+                    "probability": 0.990500807762146
+                },
+                {
+                    "word": " the",
+                    "start": 1.04,
+                    "end": 1.16,
+                    "probability": 0.9892326593399048
+                },
+                {
+                    "word": " Sidesmen",
+                    "start": 1.16,
+                    "end": 1.66,
+                    "probability": 0.42897142966588336
+                },
+                {
+                    "word": " Square,",
+                    "start": 1.66,
+                    "end": 2.06,
+                    "probability": 0.9355311989784241
+                },
+                {
+                    "word": " where",
+                    "start": 2.42,
+                    "end": 2.52,
+                    "probability": 0.7110322713851929
+                },
+                {
+                    "word": " they're",
+                    "start": 2.52,
+                    "end": 2.7,
+                    "probability": 0.851341187953949
+                },
+                {
+                    "word": " permitting.",
+                    "start": 2.7,
+                    "end": 3.1,
+                    "probability": 0.8823405206203461
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

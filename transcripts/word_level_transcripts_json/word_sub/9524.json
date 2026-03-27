@@ -1,0 +1,66 @@
+{
+    "text": " The marketing team presented their synthesis.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.34,
+            "text": " The marketing team presented their synthesis.",
+            "tokens": [
+                50364,
+                440,
+                6370,
+                1469,
+                8212,
+                641,
+                30252,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38647871017456054,
+            "compression_ratio": 0.8823529411764706,
+            "no_speech_prob": 0.0081085916608572,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.493563711643219
+                },
+                {
+                    "word": " marketing",
+                    "start": 0.14,
+                    "end": 0.46,
+                    "probability": 0.9440897107124329
+                },
+                {
+                    "word": " team",
+                    "start": 0.46,
+                    "end": 0.86,
+                    "probability": 0.9993533492088318
+                },
+                {
+                    "word": " presented",
+                    "start": 0.86,
+                    "end": 1.48,
+                    "probability": 0.9933077096939087
+                },
+                {
+                    "word": " their",
+                    "start": 1.48,
+                    "end": 1.74,
+                    "probability": 0.7940640449523926
+                },
+                {
+                    "word": " synthesis.",
+                    "start": 1.74,
+                    "end": 2.34,
+                    "probability": 0.996966540813446
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

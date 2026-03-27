@@ -1,0 +1,81 @@
+{
+    "text": " I apologise but that item is currently unavailable.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.7,
+            "text": " I apologise but that item is currently unavailable.",
+            "tokens": [
+                50364,
+                286,
+                50128,
+                457,
+                300,
+                3174,
+                307,
+                4362,
+                36541,
+                32699,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32939932896540713,
+            "compression_ratio": 0.864406779661017,
+            "no_speech_prob": 0.012002509087324142,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.884786069393158
+                },
+                {
+                    "word": " apologise",
+                    "start": 0.14,
+                    "end": 0.66,
+                    "probability": 0.755729079246521
+                },
+                {
+                    "word": " but",
+                    "start": 0.66,
+                    "end": 1.22,
+                    "probability": 0.5319730043411255
+                },
+                {
+                    "word": " that",
+                    "start": 1.22,
+                    "end": 1.44,
+                    "probability": 0.9247110486030579
+                },
+                {
+                    "word": " item",
+                    "start": 1.44,
+                    "end": 2.06,
+                    "probability": 0.963935136795044
+                },
+                {
+                    "word": " is",
+                    "start": 2.06,
+                    "end": 2.28,
+                    "probability": 0.9803968667984009
+                },
+                {
+                    "word": " currently",
+                    "start": 2.28,
+                    "end": 3.74,
+                    "probability": 0.9495155215263367
+                },
+                {
+                    "word": " unavailable.",
+                    "start": 3.74,
+                    "end": 4.7,
+                    "probability": 0.9914423525333405
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

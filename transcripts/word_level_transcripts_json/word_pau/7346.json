@@ -1,0 +1,94 @@
+{
+    "text": " The new fitness program combines cardio and strength training exercises.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.68,
+            "text": " The new fitness program combines cardio and strength training exercises.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                15303,
+                1461,
+                29520,
+                34274,
+                293,
+                3800,
+                3097,
+                11900,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3538722651345389,
+            "compression_ratio": 1.0285714285714285,
+            "no_speech_prob": 0.006375377532094717,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8794238567352295
+                },
+                {
+                    "word": " new",
+                    "start": 0.14,
+                    "end": 0.36,
+                    "probability": 0.7040958404541016
+                },
+                {
+                    "word": " fitness",
+                    "start": 0.36,
+                    "end": 0.72,
+                    "probability": 0.768060028553009
+                },
+                {
+                    "word": " program",
+                    "start": 0.72,
+                    "end": 1.26,
+                    "probability": 0.7266274094581604
+                },
+                {
+                    "word": " combines",
+                    "start": 1.26,
+                    "end": 2.08,
+                    "probability": 0.993161678314209
+                },
+                {
+                    "word": " cardio",
+                    "start": 2.08,
+                    "end": 4.74,
+                    "probability": 0.6266815066337585
+                },
+                {
+                    "word": " and",
+                    "start": 4.74,
+                    "end": 5.08,
+                    "probability": 0.8635484576225281
+                },
+                {
+                    "word": " strength",
+                    "start": 5.08,
+                    "end": 5.34,
+                    "probability": 0.9417252540588379
+                },
+                {
+                    "word": " training",
+                    "start": 5.34,
+                    "end": 5.84,
+                    "probability": 0.9928257465362549
+                },
+                {
+                    "word": " exercises.",
+                    "start": 5.84,
+                    "end": 6.68,
+                    "probability": 0.9902157783508301
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

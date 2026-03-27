@@ -1,0 +1,66 @@
+{
+    "text": " the scientists conducted basic free search.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.26,
+            "text": " the scientists conducted basic free search.",
+            "tokens": [
+                50364,
+                264,
+                7708,
+                13809,
+                3875,
+                1737,
+                3164,
+                13,
+                50496
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48183445930480956,
+            "compression_ratio": 0.86,
+            "no_speech_prob": 0.003846261417493224,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.46649855375289917
+                },
+                {
+                    "word": " scientists",
+                    "start": 0.1,
+                    "end": 0.5,
+                    "probability": 0.695946991443634
+                },
+                {
+                    "word": " conducted",
+                    "start": 0.5,
+                    "end": 1.1,
+                    "probability": 0.9922536015510559
+                },
+                {
+                    "word": " basic",
+                    "start": 1.1,
+                    "end": 1.58,
+                    "probability": 0.9616115689277649
+                },
+                {
+                    "word": " free",
+                    "start": 1.58,
+                    "end": 1.9,
+                    "probability": 0.7346487045288086
+                },
+                {
+                    "word": " search.",
+                    "start": 1.9,
+                    "end": 2.26,
+                    "probability": 0.9478527903556824
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

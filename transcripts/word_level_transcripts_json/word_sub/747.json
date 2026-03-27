@@ -1,0 +1,73 @@
+{
+    "text": " The museum curator arranged the new expedition.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.12,
+            "text": " The museum curator arranged the new expedition.",
+            "tokens": [
+                50364,
+                440,
+                8441,
+                38519,
+                18721,
+                264,
+                777,
+                30359,
+                13,
+                50538
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4382604252208363,
+            "compression_ratio": 0.8703703703703703,
+            "no_speech_prob": 0.004968817345798016,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5375998616218567
+                },
+                {
+                    "word": " museum",
+                    "start": 0.14,
+                    "end": 0.5,
+                    "probability": 0.847521185874939
+                },
+                {
+                    "word": " curator",
+                    "start": 0.5,
+                    "end": 1.02,
+                    "probability": 0.9915722608566284
+                },
+                {
+                    "word": " arranged",
+                    "start": 1.02,
+                    "end": 1.62,
+                    "probability": 0.5740965008735657
+                },
+                {
+                    "word": " the",
+                    "start": 1.62,
+                    "end": 1.98,
+                    "probability": 0.9271315336227417
+                },
+                {
+                    "word": " new",
+                    "start": 1.98,
+                    "end": 2.3,
+                    "probability": 0.8907971382141113
+                },
+                {
+                    "word": " expedition.",
+                    "start": 2.3,
+                    "end": 3.12,
+                    "probability": 0.9407716989517212
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

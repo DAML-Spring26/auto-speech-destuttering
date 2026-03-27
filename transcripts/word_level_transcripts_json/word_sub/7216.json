@@ -1,0 +1,82 @@
+{
+    "text": " Please ensure all safety protocols are strictly hollered.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.68,
+            "text": " Please ensure all safety protocols are strictly hollered.",
+            "tokens": [
+                50364,
+                2555,
+                5586,
+                439,
+                4514,
+                20618,
+                366,
+                20792,
+                1106,
+                285,
+                4073,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39331187520708355,
+            "compression_ratio": 0.9193548387096774,
+            "no_speech_prob": 0.014430266804993153,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6103679537773132
+                },
+                {
+                    "word": " ensure",
+                    "start": 0.16,
+                    "end": 0.5,
+                    "probability": 0.9759566783905029
+                },
+                {
+                    "word": " all",
+                    "start": 0.5,
+                    "end": 0.82,
+                    "probability": 0.9472135901451111
+                },
+                {
+                    "word": " safety",
+                    "start": 0.82,
+                    "end": 1.14,
+                    "probability": 0.9855967164039612
+                },
+                {
+                    "word": " protocols",
+                    "start": 1.14,
+                    "end": 1.64,
+                    "probability": 0.9834975004196167
+                },
+                {
+                    "word": " are",
+                    "start": 1.64,
+                    "end": 1.96,
+                    "probability": 0.9957894682884216
+                },
+                {
+                    "word": " strictly",
+                    "start": 1.96,
+                    "end": 2.28,
+                    "probability": 0.994541347026825
+                },
+                {
+                    "word": " hollered.",
+                    "start": 2.28,
+                    "end": 2.68,
+                    "probability": 0.658163328965505
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,66 @@
+{
+    "text": " She speaks three of three languages.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.98,
+            "text": " She speaks three of three languages.",
+            "tokens": [
+                50364,
+                1240,
+                10789,
+                1045,
+                295,
+                1045,
+                8650,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5529356002807617,
+            "compression_ratio": 0.9473684210526315,
+            "no_speech_prob": 0.01004195585846901,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.5740196108818054
+                },
+                {
+                    "word": " speaks",
+                    "start": 0.3,
+                    "end": 0.64,
+                    "probability": 0.9960322976112366
+                },
+                {
+                    "word": " three",
+                    "start": 0.64,
+                    "end": 0.98,
+                    "probability": 0.8798878788948059
+                },
+                {
+                    "word": " of",
+                    "start": 0.98,
+                    "end": 1.12,
+                    "probability": 0.5876582860946655
+                },
+                {
+                    "word": " three",
+                    "start": 1.12,
+                    "end": 1.4,
+                    "probability": 0.9718301892280579
+                },
+                {
+                    "word": " languages.",
+                    "start": 1.4,
+                    "end": 1.98,
+                    "probability": 0.9974192380905151
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

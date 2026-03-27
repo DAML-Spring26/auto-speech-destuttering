@@ -1,0 +1,74 @@
+{
+    "text": " the marketing team's supposed a new strategy.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.26,
+            "text": " the marketing team's supposed a new strategy.",
+            "tokens": [
+                50364,
+                264,
+                6370,
+                1469,
+                311,
+                3442,
+                257,
+                777,
+                5206,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.43846698602040607,
+            "compression_ratio": 0.8490566037735849,
+            "no_speech_prob": 0.005514838267117739,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.4536413550376892
+                },
+                {
+                    "word": " marketing",
+                    "start": 0.1,
+                    "end": 0.44,
+                    "probability": 0.9796706438064575
+                },
+                {
+                    "word": " team's",
+                    "start": 0.44,
+                    "end": 0.92,
+                    "probability": 0.8768120110034943
+                },
+                {
+                    "word": " supposed",
+                    "start": 0.92,
+                    "end": 1.22,
+                    "probability": 0.9888995289802551
+                },
+                {
+                    "word": " a",
+                    "start": 1.22,
+                    "end": 1.44,
+                    "probability": 0.6988149285316467
+                },
+                {
+                    "word": " new",
+                    "start": 1.44,
+                    "end": 1.64,
+                    "probability": 0.9878298044204712
+                },
+                {
+                    "word": " strategy.",
+                    "start": 1.64,
+                    "end": 2.26,
+                    "probability": 0.997032880783081
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

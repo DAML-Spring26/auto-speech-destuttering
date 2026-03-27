@@ -1,0 +1,115 @@
+{
+    "text": " the marketing team held has developed a new strategy for the upcoming campaign.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.44,
+            "text": " the marketing team held has developed a new strategy for the upcoming campaign.",
+            "tokens": [
+                50364,
+                264,
+                6370,
+                1469,
+                5167,
+                575,
+                4743,
+                257,
+                777,
+                5206,
+                337,
+                264,
+                11500,
+                5129,
+                13,
+                50644
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3769320319680607,
+            "compression_ratio": 1.082191780821918,
+            "no_speech_prob": 0.004679894540458918,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.3970678746700287
+                },
+                {
+                    "word": " marketing",
+                    "start": 0.1,
+                    "end": 0.38,
+                    "probability": 0.8302691578865051
+                },
+                {
+                    "word": " team",
+                    "start": 0.38,
+                    "end": 0.76,
+                    "probability": 0.9953534603118896
+                },
+                {
+                    "word": " held",
+                    "start": 0.76,
+                    "end": 1.06,
+                    "probability": 0.4246726334095001
+                },
+                {
+                    "word": " has",
+                    "start": 1.06,
+                    "end": 2.82,
+                    "probability": 0.6777750253677368
+                },
+                {
+                    "word": " developed",
+                    "start": 2.82,
+                    "end": 3.22,
+                    "probability": 0.9960785508155823
+                },
+                {
+                    "word": " a",
+                    "start": 3.22,
+                    "end": 3.46,
+                    "probability": 0.991193950176239
+                },
+                {
+                    "word": " new",
+                    "start": 3.46,
+                    "end": 3.6,
+                    "probability": 0.9872485995292664
+                },
+                {
+                    "word": " strategy",
+                    "start": 3.6,
+                    "end": 4.0,
+                    "probability": 0.9978905320167542
+                },
+                {
+                    "word": " for",
+                    "start": 4.0,
+                    "end": 4.34,
+                    "probability": 0.9948057532310486
+                },
+                {
+                    "word": " the",
+                    "start": 4.34,
+                    "end": 4.44,
+                    "probability": 0.9975487589836121
+                },
+                {
+                    "word": " upcoming",
+                    "start": 4.44,
+                    "end": 4.82,
+                    "probability": 0.9861495494842529
+                },
+                {
+                    "word": " campaign.",
+                    "start": 4.82,
+                    "end": 5.44,
+                    "probability": 0.9931592345237732
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

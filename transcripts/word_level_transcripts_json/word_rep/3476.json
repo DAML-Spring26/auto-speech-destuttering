@@ -1,0 +1,53 @@
+{
+    "text": " They arrived, arrived early.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.86,
+            "text": " They arrived, arrived early.",
+            "tokens": [
+                50364,
+                814,
+                6678,
+                11,
+                6678,
+                2440,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5567047860887315,
+            "compression_ratio": 0.9655172413793104,
+            "no_speech_prob": 0.015925785526633263,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.6453027725219727
+                },
+                {
+                    "word": " arrived,",
+                    "start": 0.2,
+                    "end": 0.82,
+                    "probability": 0.9447640180587769
+                },
+                {
+                    "word": " arrived",
+                    "start": 0.82,
+                    "end": 1.36,
+                    "probability": 0.9818503260612488
+                },
+                {
+                    "word": " early.",
+                    "start": 1.36,
+                    "end": 1.86,
+                    "probability": 0.4016076922416687
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

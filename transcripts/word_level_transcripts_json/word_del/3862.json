@@ -1,0 +1,80 @@
+{
+    "text": " The research findings presented at the upcoming conference.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.2,
+            "text": " The research findings presented at the upcoming conference.",
+            "tokens": [
+                50364,
+                440,
+                2132,
+                16483,
+                8212,
+                412,
+                264,
+                11500,
+                7586,
+                13,
+                50534
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3770407835642497,
+            "compression_ratio": 0.9516129032258065,
+            "no_speech_prob": 0.0035239330027252436,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6563283801078796
+                },
+                {
+                    "word": " research",
+                    "start": 0.12,
+                    "end": 0.48,
+                    "probability": 0.6506388187408447
+                },
+                {
+                    "word": " findings",
+                    "start": 0.48,
+                    "end": 1.06,
+                    "probability": 0.9917922019958496
+                },
+                {
+                    "word": " presented",
+                    "start": 1.06,
+                    "end": 1.82,
+                    "probability": 0.9946604371070862
+                },
+                {
+                    "word": " at",
+                    "start": 1.82,
+                    "end": 2.12,
+                    "probability": 0.9632962346076965
+                },
+                {
+                    "word": " the",
+                    "start": 2.12,
+                    "end": 2.26,
+                    "probability": 0.9892764091491699
+                },
+                {
+                    "word": " upcoming",
+                    "start": 2.26,
+                    "end": 2.6,
+                    "probability": 0.7937629818916321
+                },
+                {
+                    "word": " conference.",
+                    "start": 2.6,
+                    "end": 3.2,
+                    "probability": 0.9923322200775146
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

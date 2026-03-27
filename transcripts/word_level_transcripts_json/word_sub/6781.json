@@ -1,0 +1,80 @@
+{
+    "text": " The pharmaceutical company is developing a new vaccine.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.38,
+            "text": " The pharmaceutical company is developing a new vaccine.",
+            "tokens": [
+                50364,
+                440,
+                27130,
+                2237,
+                307,
+                6416,
+                257,
+                777,
+                7007,
+                13,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2981372078259786,
+            "compression_ratio": 0.9016393442622951,
+            "no_speech_prob": 0.0029869081918150187,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7022703289985657
+                },
+                {
+                    "word": " pharmaceutical",
+                    "start": 0.14,
+                    "end": 0.86,
+                    "probability": 0.8724919557571411
+                },
+                {
+                    "word": " company",
+                    "start": 0.86,
+                    "end": 1.84,
+                    "probability": 0.9941039681434631
+                },
+                {
+                    "word": " is",
+                    "start": 1.84,
+                    "end": 2.28,
+                    "probability": 0.9873656034469604
+                },
+                {
+                    "word": " developing",
+                    "start": 2.28,
+                    "end": 3.08,
+                    "probability": 0.9982256293296814
+                },
+                {
+                    "word": " a",
+                    "start": 3.08,
+                    "end": 3.58,
+                    "probability": 0.9940692186355591
+                },
+                {
+                    "word": " new",
+                    "start": 3.58,
+                    "end": 3.8,
+                    "probability": 0.9947189092636108
+                },
+                {
+                    "word": " vaccine.",
+                    "start": 3.8,
+                    "end": 4.38,
+                    "probability": 0.995602011680603
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

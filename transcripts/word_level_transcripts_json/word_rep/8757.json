@@ -1,0 +1,95 @@
+{
+    "text": " The documentary which explores climate change has received critical acclaim.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.98,
+            "text": " The documentary which explores climate change has received critical acclaim.",
+            "tokens": [
+                50364,
+                440,
+                15674,
+                597,
+                45473,
+                5659,
+                1319,
+                575,
+                4613,
+                4924,
+                1317,
+                10970,
+                13,
+                50676
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38098179499308266,
+            "compression_ratio": 1.0704225352112675,
+            "no_speech_prob": 0.014818544499576092,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7380495071411133
+                },
+                {
+                    "word": " documentary",
+                    "start": 0.12,
+                    "end": 0.88,
+                    "probability": 0.9283475875854492
+                },
+                {
+                    "word": " which",
+                    "start": 0.88,
+                    "end": 1.58,
+                    "probability": 0.6407009959220886
+                },
+                {
+                    "word": " explores",
+                    "start": 1.58,
+                    "end": 2.06,
+                    "probability": 0.5679670572280884
+                },
+                {
+                    "word": " climate",
+                    "start": 2.06,
+                    "end": 2.44,
+                    "probability": 0.988456130027771
+                },
+                {
+                    "word": " change",
+                    "start": 2.44,
+                    "end": 3.12,
+                    "probability": 0.9991336464881897
+                },
+                {
+                    "word": " has",
+                    "start": 3.12,
+                    "end": 3.56,
+                    "probability": 0.9831761121749878
+                },
+                {
+                    "word": " received",
+                    "start": 3.56,
+                    "end": 4.2,
+                    "probability": 0.9725181460380554
+                },
+                {
+                    "word": " critical",
+                    "start": 4.2,
+                    "end": 5.52,
+                    "probability": 0.3475310206413269
+                },
+                {
+                    "word": " acclaim.",
+                    "start": 5.52,
+                    "end": 5.98,
+                    "probability": 0.9920770227909088
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

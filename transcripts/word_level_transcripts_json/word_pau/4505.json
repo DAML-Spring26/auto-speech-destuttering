@@ -1,0 +1,103 @@
+{
+    "text": " If it rains tomorrow, we'll have to cancel the pic neck.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.44,
+            "text": " If it rains tomorrow, we'll have to cancel the pic neck.",
+            "tokens": [
+                50364,
+                759,
+                309,
+                27805,
+                4153,
+                11,
+                321,
+                603,
+                362,
+                281,
+                10373,
+                264,
+                13363,
+                6189,
+                13,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37990354089175954,
+            "compression_ratio": 0.8888888888888888,
+            "no_speech_prob": 0.019947467371821404,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.5575714111328125
+                },
+                {
+                    "word": " it",
+                    "start": 0.24,
+                    "end": 0.38,
+                    "probability": 0.9927816987037659
+                },
+                {
+                    "word": " rains",
+                    "start": 0.38,
+                    "end": 0.66,
+                    "probability": 0.9516265392303467
+                },
+                {
+                    "word": " tomorrow,",
+                    "start": 0.66,
+                    "end": 1.16,
+                    "probability": 0.9924323558807373
+                },
+                {
+                    "word": " we'll",
+                    "start": 1.94,
+                    "end": 3.02,
+                    "probability": 0.9728556573390961
+                },
+                {
+                    "word": " have",
+                    "start": 3.02,
+                    "end": 3.18,
+                    "probability": 0.9980109333992004
+                },
+                {
+                    "word": " to",
+                    "start": 3.18,
+                    "end": 3.34,
+                    "probability": 0.9980109333992004
+                },
+                {
+                    "word": " cancel",
+                    "start": 3.34,
+                    "end": 3.78,
+                    "probability": 0.9828305244445801
+                },
+                {
+                    "word": " the",
+                    "start": 3.78,
+                    "end": 3.98,
+                    "probability": 0.9961972236633301
+                },
+                {
+                    "word": " pic",
+                    "start": 3.98,
+                    "end": 4.16,
+                    "probability": 0.3693273663520813
+                },
+                {
+                    "word": " neck.",
+                    "start": 4.16,
+                    "end": 4.44,
+                    "probability": 0.5623352527618408
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

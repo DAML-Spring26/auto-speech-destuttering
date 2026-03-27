@@ -1,0 +1,59 @@
+{
+    "text": " The research shows processing results.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.38,
+            "text": " The research shows processing results.",
+            "tokens": [
+                50364,
+                440,
+                2132,
+                3110,
+                9007,
+                3542,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4283218913608127,
+            "compression_ratio": 0.8636363636363636,
+            "no_speech_prob": 0.005028560757637024,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6161137819290161
+                },
+                {
+                    "word": " research",
+                    "start": 0.1,
+                    "end": 0.5,
+                    "probability": 0.9912095069885254
+                },
+                {
+                    "word": " shows",
+                    "start": 0.5,
+                    "end": 0.96,
+                    "probability": 0.9926411509513855
+                },
+                {
+                    "word": " processing",
+                    "start": 0.96,
+                    "end": 1.66,
+                    "probability": 0.9765149354934692
+                },
+                {
+                    "word": " results.",
+                    "start": 1.66,
+                    "end": 2.38,
+                    "probability": 0.9980168342590332
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

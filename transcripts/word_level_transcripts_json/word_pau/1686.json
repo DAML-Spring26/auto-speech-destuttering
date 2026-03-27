@@ -1,0 +1,106 @@
+{
+    "text": " I'm not sure if I understood. The instructions correctly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.5,
+            "text": " I'm not sure if I understood.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                406,
+                988,
+                498,
+                286,
+                7320,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5938860949348,
+            "compression_ratio": 0.890625,
+            "no_speech_prob": 0.010726581327617168,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.9488675892353058
+                },
+                {
+                    "word": " not",
+                    "start": 0.26,
+                    "end": 0.36,
+                    "probability": 0.9969334602355957
+                },
+                {
+                    "word": " sure",
+                    "start": 0.36,
+                    "end": 0.66,
+                    "probability": 0.9986507296562195
+                },
+                {
+                    "word": " if",
+                    "start": 0.66,
+                    "end": 0.9,
+                    "probability": 0.9956211447715759
+                },
+                {
+                    "word": " I",
+                    "start": 0.9,
+                    "end": 1.0,
+                    "probability": 0.9914215207099915
+                },
+                {
+                    "word": " understood.",
+                    "start": 1.0,
+                    "end": 1.5,
+                    "probability": 0.6140305995941162
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.22,
+            "end": 4.8,
+            "text": " The instructions correctly.",
+            "tokens": [
+                50540,
+                440,
+                9415,
+                8944,
+                13,
+                50628
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5938860949348,
+            "compression_ratio": 0.890625,
+            "no_speech_prob": 0.010726581327617168,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 3.22,
+                    "end": 3.66,
+                    "probability": 0.9541686177253723
+                },
+                {
+                    "word": " instructions",
+                    "start": 3.66,
+                    "end": 4.24,
+                    "probability": 0.9752071499824524
+                },
+                {
+                    "word": " correctly.",
+                    "start": 4.24,
+                    "end": 4.8,
+                    "probability": 0.8125038146972656
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

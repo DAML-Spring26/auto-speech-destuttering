@@ -1,0 +1,73 @@
+{
+    "text": " The system will direct any unusual patterns.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.36,
+            "text": " The system will direct any unusual patterns.",
+            "tokens": [
+                50364,
+                440,
+                1185,
+                486,
+                2047,
+                604,
+                10901,
+                8294,
+                13,
+                50500
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37814214012839575,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.00202636094763875,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7316877245903015
+                },
+                {
+                    "word": " system",
+                    "start": 0.1,
+                    "end": 0.44,
+                    "probability": 0.9933838248252869
+                },
+                {
+                    "word": " will",
+                    "start": 0.44,
+                    "end": 0.7,
+                    "probability": 0.9919294118881226
+                },
+                {
+                    "word": " direct",
+                    "start": 0.7,
+                    "end": 1.06,
+                    "probability": 0.98203045129776
+                },
+                {
+                    "word": " any",
+                    "start": 1.06,
+                    "end": 1.42,
+                    "probability": 0.9934247732162476
+                },
+                {
+                    "word": " unusual",
+                    "start": 1.42,
+                    "end": 1.84,
+                    "probability": 0.9935298562049866
+                },
+                {
+                    "word": " patterns.",
+                    "start": 1.84,
+                    "end": 2.36,
+                    "probability": 0.9948152899742126
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,66 @@
+{
+    "text": " We need to procure the premises.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.4,
+            "text": " We need to procure the premises.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                26846,
+                264,
+                34266,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2674734115600586,
+            "compression_ratio": 0.8421052631578947,
+            "no_speech_prob": 0.00693375151604414,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6501351594924927
+                },
+                {
+                    "word": " need",
+                    "start": 0.14,
+                    "end": 0.26,
+                    "probability": 0.9958624839782715
+                },
+                {
+                    "word": " to",
+                    "start": 0.26,
+                    "end": 0.48,
+                    "probability": 0.9986981153488159
+                },
+                {
+                    "word": " procure",
+                    "start": 0.48,
+                    "end": 0.78,
+                    "probability": 0.9838491678237915
+                },
+                {
+                    "word": " the",
+                    "start": 0.78,
+                    "end": 0.96,
+                    "probability": 0.9941315054893494
+                },
+                {
+                    "word": " premises.",
+                    "start": 0.96,
+                    "end": 1.4,
+                    "probability": 0.9379327893257141
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

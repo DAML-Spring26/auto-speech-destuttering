@@ -1,0 +1,102 @@
+{
+    "text": " The company's new marketing strategy has been more successful than anticipated.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.24,
+            "text": " The company's new marketing strategy has been more successful than anticipated.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                777,
+                6370,
+                5206,
+                575,
+                668,
+                544,
+                4406,
+                813,
+                23267,
+                13,
+                50696
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3114027678966522,
+            "compression_ratio": 1.025974025974026,
+            "no_speech_prob": 0.006945643108338118,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6513662338256836
+                },
+                {
+                    "word": " company's",
+                    "start": 0.14,
+                    "end": 0.8,
+                    "probability": 0.9909006357192993
+                },
+                {
+                    "word": " new",
+                    "start": 0.8,
+                    "end": 0.96,
+                    "probability": 0.9952436089515686
+                },
+                {
+                    "word": " marketing",
+                    "start": 0.96,
+                    "end": 1.32,
+                    "probability": 0.9902399778366089
+                },
+                {
+                    "word": " strategy",
+                    "start": 1.32,
+                    "end": 2.06,
+                    "probability": 0.9985489249229431
+                },
+                {
+                    "word": " has",
+                    "start": 2.06,
+                    "end": 2.32,
+                    "probability": 0.9965812563896179
+                },
+                {
+                    "word": " been",
+                    "start": 2.32,
+                    "end": 2.5,
+                    "probability": 0.9978083968162537
+                },
+                {
+                    "word": " more",
+                    "start": 2.5,
+                    "end": 2.9,
+                    "probability": 0.9952974915504456
+                },
+                {
+                    "word": " successful",
+                    "start": 2.9,
+                    "end": 4.86,
+                    "probability": 0.5429598689079285
+                },
+                {
+                    "word": " than",
+                    "start": 4.86,
+                    "end": 5.4,
+                    "probability": 0.9152330756187439
+                },
+                {
+                    "word": " anticipated.",
+                    "start": 5.4,
+                    "end": 6.24,
+                    "probability": 0.9986636638641357
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

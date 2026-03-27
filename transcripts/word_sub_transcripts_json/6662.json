@@ -1,0 +1,91 @@
+{
+    "text": " The surgeon profonded elicate operation on the patient's heart.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.02,
+            "text": " The surgeon profonded elicate operation on the patient's heart.",
+            "tokens": [
+                50364,
+                440,
+                22913,
+                1740,
+                684,
+                292,
+                806,
+                8700,
+                6916,
+                322,
+                264,
+                4537,
+                311,
+                1917,
+                13,
+                50522
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5055161083445829,
+            "compression_ratio": 0.9545454545454546,
+            "no_speech_prob": 0.00714762881398201,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.4961129426956177
+                },
+                {
+                    "word": " surgeon",
+                    "start": 0.12,
+                    "end": 0.5,
+                    "probability": 0.6265273094177246
+                },
+                {
+                    "word": " profonded",
+                    "start": 0.5,
+                    "end": 1.1,
+                    "probability": 0.7233400344848633
+                },
+                {
+                    "word": " elicate",
+                    "start": 1.1,
+                    "end": 1.38,
+                    "probability": 0.37259767204523087
+                },
+                {
+                    "word": " operation",
+                    "start": 1.38,
+                    "end": 2.04,
+                    "probability": 0.9907997250556946
+                },
+                {
+                    "word": " on",
+                    "start": 2.04,
+                    "end": 2.22,
+                    "probability": 0.9903867840766907
+                },
+                {
+                    "word": " the",
+                    "start": 2.22,
+                    "end": 2.34,
+                    "probability": 0.9872280359268188
+                },
+                {
+                    "word": " patient's",
+                    "start": 2.34,
+                    "end": 2.9,
+                    "probability": 0.9695159792900085
+                },
+                {
+                    "word": " heart.",
+                    "start": 2.9,
+                    "end": 3.02,
+                    "probability": 0.6483609676361084
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

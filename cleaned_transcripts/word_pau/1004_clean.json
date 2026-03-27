@@ -1,32 +1,24 @@
 {
-    "text": " The latest software update includes several bug fixes and performance improvements.",
+    "text": " the latest improvements.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 9.0,
-            "text": " The latest software update includes several bug fixes and performance improvements.",
+            "end": 2.0,
+            "text": " the latest improvements.",
             "tokens": [
                 50364,
-                440,
+                264,
                 6792,
-                4722,
-                5623,
-                5974,
-                2940,
-                7426,
-                32539,
-                293,
-                3389,
                 13797,
                 13,
-                50814
+                50464
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.34928245544433595,
-            "compression_ratio": 1.064102564102564,
-            "no_speech_prob": 0.005241125822067261
+            "avg_logprob": -0.7292671884809222,
+            "compression_ratio": 0.75,
+            "no_speech_prob": 0.007965881377458572
         }
     ],
     "language": "en"

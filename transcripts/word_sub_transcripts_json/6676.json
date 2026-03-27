@@ -1,0 +1,68 @@
+{
+    "text": " the architect designed an innovative skyscraper.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.92,
+            "text": " the architect designed an innovative skyscraper.",
+            "tokens": [
+                50364,
+                264,
+                6331,
+                4761,
+                364,
+                12999,
+                48227,
+                39302,
+                610,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4032376209894816,
+            "compression_ratio": 0.8888888888888888,
+            "no_speech_prob": 0.003961221314966679,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6544109582901001
+                },
+                {
+                    "word": " architect",
+                    "start": 0.16,
+                    "end": 0.62,
+                    "probability": 0.8796786665916443
+                },
+                {
+                    "word": " designed",
+                    "start": 0.62,
+                    "end": 1.2,
+                    "probability": 0.9482048153877258
+                },
+                {
+                    "word": " an",
+                    "start": 1.2,
+                    "end": 1.54,
+                    "probability": 0.8319359421730042
+                },
+                {
+                    "word": " innovative",
+                    "start": 1.54,
+                    "end": 1.98,
+                    "probability": 0.9931301474571228
+                },
+                {
+                    "word": " skyscraper.",
+                    "start": 1.98,
+                    "end": 2.92,
+                    "probability": 0.7810431718826294
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

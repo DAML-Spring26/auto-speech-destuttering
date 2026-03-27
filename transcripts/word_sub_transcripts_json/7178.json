@@ -1,0 +1,97 @@
+{
+    "text": " The symphony orchestra performed a stunning rendition of Beethoven's night.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.64,
+            "text": " The symphony orchestra performed a stunning rendition of Beethoven's night.",
+            "tokens": [
+                50364,
+                440,
+                6697,
+                28616,
+                25280,
+                10332,
+                257,
+                18550,
+                6125,
+                849,
+                295,
+                38651,
+                311,
+                1818,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28350193360272574,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.017222028225660324,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6179874539375305
+                },
+                {
+                    "word": " symphony",
+                    "start": 0.12,
+                    "end": 0.58,
+                    "probability": 0.9202991724014282
+                },
+                {
+                    "word": " orchestra",
+                    "start": 0.58,
+                    "end": 1.02,
+                    "probability": 0.9671460390090942
+                },
+                {
+                    "word": " performed",
+                    "start": 1.02,
+                    "end": 1.62,
+                    "probability": 0.9946426153182983
+                },
+                {
+                    "word": " a",
+                    "start": 1.62,
+                    "end": 1.8,
+                    "probability": 0.9362947344779968
+                },
+                {
+                    "word": " stunning",
+                    "start": 1.8,
+                    "end": 2.04,
+                    "probability": 0.9985479712486267
+                },
+                {
+                    "word": " rendition",
+                    "start": 2.04,
+                    "end": 2.6,
+                    "probability": 0.9896045029163361
+                },
+                {
+                    "word": " of",
+                    "start": 2.6,
+                    "end": 2.78,
+                    "probability": 0.9932148456573486
+                },
+                {
+                    "word": " Beethoven's",
+                    "start": 2.78,
+                    "end": 3.44,
+                    "probability": 0.9537583291530609
+                },
+                {
+                    "word": " night.",
+                    "start": 3.44,
+                    "end": 3.64,
+                    "probability": 0.4841000735759735
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

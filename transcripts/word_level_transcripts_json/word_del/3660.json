@@ -1,0 +1,122 @@
+{
+    "text": " We recommend you arrive at the airport at least two hours before your departure.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.98,
+            "text": " We recommend you arrive at the airport at least two hours before your departure.",
+            "tokens": [
+                50364,
+                492,
+                2748,
+                291,
+                8881,
+                412,
+                264,
+                10155,
+                412,
+                1935,
+                732,
+                2496,
+                949,
+                428,
+                25866,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2768487400478787,
+            "compression_ratio": 1.0810810810810811,
+            "no_speech_prob": 0.0023990930058062077,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8116071820259094
+                },
+                {
+                    "word": " recommend",
+                    "start": 0.12,
+                    "end": 0.54,
+                    "probability": 0.9961870312690735
+                },
+                {
+                    "word": " you",
+                    "start": 0.54,
+                    "end": 0.76,
+                    "probability": 0.9920199513435364
+                },
+                {
+                    "word": " arrive",
+                    "start": 0.76,
+                    "end": 1.02,
+                    "probability": 0.9769196510314941
+                },
+                {
+                    "word": " at",
+                    "start": 1.02,
+                    "end": 1.2,
+                    "probability": 0.9933578372001648
+                },
+                {
+                    "word": " the",
+                    "start": 1.2,
+                    "end": 1.34,
+                    "probability": 0.9942728877067566
+                },
+                {
+                    "word": " airport",
+                    "start": 1.34,
+                    "end": 1.68,
+                    "probability": 0.9764619469642639
+                },
+                {
+                    "word": " at",
+                    "start": 1.68,
+                    "end": 2.04,
+                    "probability": 0.8778727650642395
+                },
+                {
+                    "word": " least",
+                    "start": 2.04,
+                    "end": 2.2,
+                    "probability": 0.9960902333259583
+                },
+                {
+                    "word": " two",
+                    "start": 2.2,
+                    "end": 2.58,
+                    "probability": 0.5807314515113831
+                },
+                {
+                    "word": " hours",
+                    "start": 2.58,
+                    "end": 2.84,
+                    "probability": 0.9958588480949402
+                },
+                {
+                    "word": " before",
+                    "start": 2.84,
+                    "end": 3.22,
+                    "probability": 0.9971889853477478
+                },
+                {
+                    "word": " your",
+                    "start": 3.22,
+                    "end": 3.42,
+                    "probability": 0.8317828178405762
+                },
+                {
+                    "word": " departure.",
+                    "start": 3.42,
+                    "end": 3.98,
+                    "probability": 0.997982382774353
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

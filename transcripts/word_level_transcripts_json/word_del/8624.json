@@ -1,0 +1,75 @@
+{
+    "text": " Firefighters quickly respond at the emergency call.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.44,
+            "text": " Firefighters quickly respond at the emergency call.",
+            "tokens": [
+                50364,
+                7652,
+                14919,
+                433,
+                2661,
+                4196,
+                412,
+                264,
+                7473,
+                818,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4715982217055101,
+            "compression_ratio": 0.864406779661017,
+            "no_speech_prob": 0.007453820668160915,
+            "words": [
+                {
+                    "word": " Firefighters",
+                    "start": 0.0,
+                    "end": 0.94,
+                    "probability": 0.7618474761644999
+                },
+                {
+                    "word": " quickly",
+                    "start": 0.94,
+                    "end": 1.22,
+                    "probability": 0.9942303895950317
+                },
+                {
+                    "word": " respond",
+                    "start": 1.22,
+                    "end": 1.92,
+                    "probability": 0.8263324499130249
+                },
+                {
+                    "word": " at",
+                    "start": 1.92,
+                    "end": 2.18,
+                    "probability": 0.6776959300041199
+                },
+                {
+                    "word": " the",
+                    "start": 2.18,
+                    "end": 2.36,
+                    "probability": 0.9896389245986938
+                },
+                {
+                    "word": " emergency",
+                    "start": 2.36,
+                    "end": 2.82,
+                    "probability": 0.913070797920227
+                },
+                {
+                    "word": " call.",
+                    "start": 2.82,
+                    "end": 3.44,
+                    "probability": 0.9946720004081726
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

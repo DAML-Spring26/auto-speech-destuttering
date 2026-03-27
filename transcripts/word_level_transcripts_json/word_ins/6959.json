@@ -1,0 +1,102 @@
+{
+    "text": " Don't forget to set your alarm for the early morning flight.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.8,
+            "end": 5.08,
+            "text": " Don't forget to set your alarm for the early morning flight.",
+            "tokens": [
+                50364,
+                1468,
+                380,
+                2870,
+                281,
+                992,
+                428,
+                14183,
+                337,
+                264,
+                2440,
+                2446,
+                7018,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2511284053325653,
+            "compression_ratio": 0.9375,
+            "no_speech_prob": 0.08154517412185669,
+            "words": [
+                {
+                    "word": " Don't",
+                    "start": 0.8,
+                    "end": 1.4,
+                    "probability": 0.8986709415912628
+                },
+                {
+                    "word": " forget",
+                    "start": 1.4,
+                    "end": 1.68,
+                    "probability": 0.9976531863212585
+                },
+                {
+                    "word": " to",
+                    "start": 1.68,
+                    "end": 1.9,
+                    "probability": 0.9968944787979126
+                },
+                {
+                    "word": " set",
+                    "start": 1.9,
+                    "end": 2.12,
+                    "probability": 0.9978280663490295
+                },
+                {
+                    "word": " your",
+                    "start": 2.12,
+                    "end": 2.34,
+                    "probability": 0.9835518002510071
+                },
+                {
+                    "word": " alarm",
+                    "start": 2.34,
+                    "end": 2.74,
+                    "probability": 0.9995167255401611
+                },
+                {
+                    "word": " for",
+                    "start": 2.74,
+                    "end": 3.06,
+                    "probability": 0.9944357872009277
+                },
+                {
+                    "word": " the",
+                    "start": 3.06,
+                    "end": 3.28,
+                    "probability": 0.9920423626899719
+                },
+                {
+                    "word": " early",
+                    "start": 3.28,
+                    "end": 4.32,
+                    "probability": 0.9257892370223999
+                },
+                {
+                    "word": " morning",
+                    "start": 4.32,
+                    "end": 4.68,
+                    "probability": 0.96299809217453
+                },
+                {
+                    "word": " flight.",
+                    "start": 4.68,
+                    "end": 5.08,
+                    "probability": 0.9979711174964905
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

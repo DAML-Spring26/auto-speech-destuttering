@@ -1,0 +1,66 @@
+{
+    "text": " The scientists examined the particular structure.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.44,
+            "text": " The scientists examined the particular structure.",
+            "tokens": [
+                50364,
+                440,
+                7708,
+                30972,
+                264,
+                1729,
+                3877,
+                13,
+                50496
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47860403060913087,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.0020818707998842,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.812126100063324
+                },
+                {
+                    "word": " scientists",
+                    "start": 0.1,
+                    "end": 0.52,
+                    "probability": 0.846896767616272
+                },
+                {
+                    "word": " examined",
+                    "start": 0.52,
+                    "end": 1.18,
+                    "probability": 0.7299928665161133
+                },
+                {
+                    "word": " the",
+                    "start": 1.18,
+                    "end": 1.36,
+                    "probability": 0.9868606925010681
+                },
+                {
+                    "word": " particular",
+                    "start": 1.36,
+                    "end": 1.86,
+                    "probability": 0.9851598143577576
+                },
+                {
+                    "word": " structure.",
+                    "start": 1.86,
+                    "end": 2.44,
+                    "probability": 0.9975212216377258
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

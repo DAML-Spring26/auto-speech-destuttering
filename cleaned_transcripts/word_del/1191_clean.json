@@ -1,19 +1,16 @@
 {
-    "text": " You arrive at the airport at least two hours before your flight.",
+    "text": " You arrive at least two hours before your flight.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 3.0,
-            "text": " You arrive at the airport at least two hours before your flight.",
+            "end": 2.4,
+            "text": " You arrive at least two hours before your flight.",
             "tokens": [
                 50364,
                 509,
                 8881,
-                412,
-                264,
-                10155,
                 412,
                 1935,
                 732,
@@ -22,12 +19,12 @@
                 428,
                 7018,
                 13,
-                50514
+                50484
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.27457815408706665,
-            "compression_ratio": 0.9696969696969697,
-            "no_speech_prob": 0.01126047968864441
+            "avg_logprob": -0.3856386404771071,
+            "compression_ratio": 0.8909090909090909,
+            "no_speech_prob": 0.010109897702932358
         }
     ],
     "language": "en"

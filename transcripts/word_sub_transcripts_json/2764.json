@@ -1,0 +1,73 @@
+{
+    "text": " We should explode all available options first.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.4,
+            "text": " We should explode all available options first.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                21411,
+                439,
+                2435,
+                3956,
+                700,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37374418432062323,
+            "compression_ratio": 0.8518518518518519,
+            "no_speech_prob": 0.01165006123483181,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6311525106430054
+                },
+                {
+                    "word": " should",
+                    "start": 0.12,
+                    "end": 0.28,
+                    "probability": 0.9948984980583191
+                },
+                {
+                    "word": " explode",
+                    "start": 0.28,
+                    "end": 0.7,
+                    "probability": 0.7754533886909485
+                },
+                {
+                    "word": " all",
+                    "start": 0.7,
+                    "end": 0.96,
+                    "probability": 0.9900780916213989
+                },
+                {
+                    "word": " available",
+                    "start": 0.96,
+                    "end": 1.4,
+                    "probability": 0.9941796064376831
+                },
+                {
+                    "word": " options",
+                    "start": 1.4,
+                    "end": 1.9,
+                    "probability": 0.9801146388053894
+                },
+                {
+                    "word": " first.",
+                    "start": 1.9,
+                    "end": 2.4,
+                    "probability": 0.9788561463356018
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

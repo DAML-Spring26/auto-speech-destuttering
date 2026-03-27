@@ -1,0 +1,73 @@
+{
+    "text": " We need to steam our production process.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.88,
+            "text": " We need to steam our production process.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                11952,
+                527,
+                4265,
+                1399,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.46217506582086737,
+            "compression_ratio": 0.8888888888888888,
+            "no_speech_prob": 0.002710279542952776,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7624729871749878
+                },
+                {
+                    "word": " need",
+                    "start": 0.12,
+                    "end": 0.22,
+                    "probability": 0.995964527130127
+                },
+                {
+                    "word": " to",
+                    "start": 0.22,
+                    "end": 0.4,
+                    "probability": 0.9921355247497559
+                },
+                {
+                    "word": " steam",
+                    "start": 0.4,
+                    "end": 0.62,
+                    "probability": 0.7429760694503784
+                },
+                {
+                    "word": " our",
+                    "start": 0.62,
+                    "end": 0.76,
+                    "probability": 0.17439758777618408
+                },
+                {
+                    "word": " production",
+                    "start": 0.76,
+                    "end": 1.14,
+                    "probability": 0.9639633893966675
+                },
+                {
+                    "word": " process.",
+                    "start": 1.14,
+                    "end": 1.88,
+                    "probability": 0.9963724613189697
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

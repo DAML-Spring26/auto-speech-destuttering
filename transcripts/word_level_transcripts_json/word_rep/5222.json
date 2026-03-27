@@ -1,0 +1,103 @@
+{
+    "text": " The hotel staff was very, very accommodated into our special requests.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.88,
+            "text": " The hotel staff was very, very accommodated into our special requests.",
+            "tokens": [
+                50364,
+                440,
+                7622,
+                3525,
+                390,
+                588,
+                11,
+                588,
+                11713,
+                770,
+                666,
+                527,
+                2121,
+                12475,
+                13,
+                50574
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29481133292703066,
+            "compression_ratio": 0.9859154929577465,
+            "no_speech_prob": 0.005043663550168276,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.8731634616851807
+                },
+                {
+                    "word": " hotel",
+                    "start": 0.1,
+                    "end": 0.38,
+                    "probability": 0.9562719464302063
+                },
+                {
+                    "word": " staff",
+                    "start": 0.38,
+                    "end": 0.86,
+                    "probability": 0.9819644689559937
+                },
+                {
+                    "word": " was",
+                    "start": 0.86,
+                    "end": 1.06,
+                    "probability": 0.9855507612228394
+                },
+                {
+                    "word": " very,",
+                    "start": 1.06,
+                    "end": 1.4,
+                    "probability": 0.9777907729148865
+                },
+                {
+                    "word": " very",
+                    "start": 1.68,
+                    "end": 1.98,
+                    "probability": 0.995881199836731
+                },
+                {
+                    "word": " accommodated",
+                    "start": 1.98,
+                    "end": 2.6,
+                    "probability": 0.6555663645267487
+                },
+                {
+                    "word": " into",
+                    "start": 2.6,
+                    "end": 2.78,
+                    "probability": 0.5987274646759033
+                },
+                {
+                    "word": " our",
+                    "start": 2.78,
+                    "end": 2.86,
+                    "probability": 0.9791933298110962
+                },
+                {
+                    "word": " special",
+                    "start": 2.86,
+                    "end": 3.28,
+                    "probability": 0.9814714193344116
+                },
+                {
+                    "word": " requests.",
+                    "start": 3.28,
+                    "end": 3.88,
+                    "probability": 0.9455918073654175
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,52 @@
+{
+    "text": " This thing sing well.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.08,
+            "text": " This thing sing well.",
+            "tokens": [
+                50364,
+                639,
+                551,
+                1522,
+                731,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9681993722915649,
+            "compression_ratio": 0.8076923076923077,
+            "no_speech_prob": 0.020454129204154015,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.4873116910457611
+                },
+                {
+                    "word": " thing",
+                    "start": 0.18,
+                    "end": 0.48,
+                    "probability": 0.35541945695877075
+                },
+                {
+                    "word": " sing",
+                    "start": 0.48,
+                    "end": 0.8,
+                    "probability": 0.14282239973545074
+                },
+                {
+                    "word": " well.",
+                    "start": 0.8,
+                    "end": 1.08,
+                    "probability": 0.8530101776123047
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

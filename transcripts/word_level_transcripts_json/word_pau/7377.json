@@ -1,0 +1,104 @@
+{
+    "text": " the latest electric car model bus and impressive range.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.48,
+            "text": " the latest electric car model bus",
+            "tokens": [
+                50364,
+                264,
+                6792,
+                5210,
+                1032,
+                2316,
+                1255,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7322954177856446,
+            "compression_ratio": 0.9482758620689655,
+            "no_speech_prob": 0.00571838952600956,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.5621947646141052
+                },
+                {
+                    "word": " latest",
+                    "start": 0.16,
+                    "end": 0.74,
+                    "probability": 0.9945781230926514
+                },
+                {
+                    "word": " electric",
+                    "start": 0.74,
+                    "end": 1.36,
+                    "probability": 0.9736908674240112
+                },
+                {
+                    "word": " car",
+                    "start": 1.36,
+                    "end": 1.72,
+                    "probability": 0.9844127297401428
+                },
+                {
+                    "word": " model",
+                    "start": 1.72,
+                    "end": 2.1,
+                    "probability": 0.9266132116317749
+                },
+                {
+                    "word": " bus",
+                    "start": 2.1,
+                    "end": 2.48,
+                    "probability": 0.19580486416816711
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.48,
+            "end": 6.72,
+            "text": " and impressive range.",
+            "tokens": [
+                50634,
+                293,
+                8992,
+                3613,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7322954177856446,
+            "compression_ratio": 0.9482758620689655,
+            "no_speech_prob": 0.00571838952600956,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 2.48,
+                    "end": 3.68,
+                    "probability": 0.22561511397361755
+                },
+                {
+                    "word": " impressive",
+                    "start": 3.68,
+                    "end": 6.2,
+                    "probability": 0.9465574622154236
+                },
+                {
+                    "word": " range.",
+                    "start": 6.2,
+                    "end": 6.72,
+                    "probability": 0.9897279143333435
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

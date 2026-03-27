@@ -1,0 +1,88 @@
+{
+    "text": " Are you coming to the party this, on weekend?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.24,
+            "text": " Are you coming to the party this, on weekend?",
+            "tokens": [
+                50364,
+                2014,
+                291,
+                1348,
+                281,
+                264,
+                3595,
+                341,
+                11,
+                322,
+                6711,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48901540892464773,
+            "compression_ratio": 0.8823529411764706,
+            "no_speech_prob": 0.1906924545764923,
+            "words": [
+                {
+                    "word": " Are",
+                    "start": 0.0,
+                    "end": 0.98,
+                    "probability": 0.8423003554344177
+                },
+                {
+                    "word": " you",
+                    "start": 0.98,
+                    "end": 1.16,
+                    "probability": 0.9951802492141724
+                },
+                {
+                    "word": " coming",
+                    "start": 1.16,
+                    "end": 1.46,
+                    "probability": 0.9965916872024536
+                },
+                {
+                    "word": " to",
+                    "start": 1.46,
+                    "end": 1.66,
+                    "probability": 0.9959625601768494
+                },
+                {
+                    "word": " the",
+                    "start": 1.66,
+                    "end": 1.78,
+                    "probability": 0.9878284931182861
+                },
+                {
+                    "word": " party",
+                    "start": 1.78,
+                    "end": 2.1,
+                    "probability": 0.9890838265419006
+                },
+                {
+                    "word": " this,",
+                    "start": 2.1,
+                    "end": 2.46,
+                    "probability": 0.99293452501297
+                },
+                {
+                    "word": " on",
+                    "start": 2.76,
+                    "end": 2.86,
+                    "probability": 0.2178390920162201
+                },
+                {
+                    "word": " weekend?",
+                    "start": 2.86,
+                    "end": 3.24,
+                    "probability": 0.9229769706726074
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

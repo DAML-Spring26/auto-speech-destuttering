@@ -1,0 +1,87 @@
+{
+    "text": " Could you please explain the process in more detail?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.68,
+            "text": " Could you please explain the process in more detail?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                2903,
+                264,
+                1399,
+                294,
+                544,
+                2607,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2655033698448768,
+            "compression_ratio": 0.896551724137931,
+            "no_speech_prob": 0.021649934351444244,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.9490867853164673
+                },
+                {
+                    "word": " you",
+                    "start": 0.14,
+                    "end": 0.32,
+                    "probability": 0.9980629086494446
+                },
+                {
+                    "word": " please",
+                    "start": 0.32,
+                    "end": 0.64,
+                    "probability": 0.9943312406539917
+                },
+                {
+                    "word": " explain",
+                    "start": 0.64,
+                    "end": 1.18,
+                    "probability": 0.9919920563697815
+                },
+                {
+                    "word": " the",
+                    "start": 1.18,
+                    "end": 1.56,
+                    "probability": 0.972315788269043
+                },
+                {
+                    "word": " process",
+                    "start": 1.56,
+                    "end": 2.6,
+                    "probability": 0.38728219270706177
+                },
+                {
+                    "word": " in",
+                    "start": 2.6,
+                    "end": 3.0,
+                    "probability": 0.9772946834564209
+                },
+                {
+                    "word": " more",
+                    "start": 3.0,
+                    "end": 3.2,
+                    "probability": 0.9974129796028137
+                },
+                {
+                    "word": " detail?",
+                    "start": 3.2,
+                    "end": 3.68,
+                    "probability": 0.9943108558654785
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

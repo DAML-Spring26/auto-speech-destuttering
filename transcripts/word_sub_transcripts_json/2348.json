@@ -1,0 +1,66 @@
+{
+    "text": " Students should compare for final exams.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.2,
+            "text": " Students should compare for final exams.",
+            "tokens": [
+                50364,
+                17244,
+                820,
+                6794,
+                337,
+                2572,
+                20514,
+                13,
+                50506
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3736774682998657,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.0035216212272644043,
+            "words": [
+                {
+                    "word": " Students",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.6450933218002319
+                },
+                {
+                    "word": " should",
+                    "start": 0.32,
+                    "end": 0.64,
+                    "probability": 0.9985998272895813
+                },
+                {
+                    "word": " compare",
+                    "start": 0.64,
+                    "end": 1.08,
+                    "probability": 0.9924677014350891
+                },
+                {
+                    "word": " for",
+                    "start": 1.08,
+                    "end": 1.32,
+                    "probability": 0.9845108985900879
+                },
+                {
+                    "word": " final",
+                    "start": 1.32,
+                    "end": 1.68,
+                    "probability": 0.9681940078735352
+                },
+                {
+                    "word": " exams.",
+                    "start": 1.68,
+                    "end": 2.2,
+                    "probability": 0.9953495860099792
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

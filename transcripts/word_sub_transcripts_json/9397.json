@@ -1,0 +1,66 @@
+{
+    "text": " and you check the latest protection.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.44,
+            "text": " and you check the latest protection.",
+            "tokens": [
+                50364,
+                293,
+                291,
+                1520,
+                264,
+                6792,
+                6334,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4765126705169678,
+            "compression_ratio": 0.8181818181818182,
+            "no_speech_prob": 0.005280409939587116,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.4044519364833832
+                },
+                {
+                    "word": " you",
+                    "start": 0.14,
+                    "end": 0.22,
+                    "probability": 0.5365930199623108
+                },
+                {
+                    "word": " check",
+                    "start": 0.22,
+                    "end": 0.38,
+                    "probability": 0.6725202202796936
+                },
+                {
+                    "word": " the",
+                    "start": 0.38,
+                    "end": 0.54,
+                    "probability": 0.970401406288147
+                },
+                {
+                    "word": " latest",
+                    "start": 0.54,
+                    "end": 0.82,
+                    "probability": 0.9954026937484741
+                },
+                {
+                    "word": " protection.",
+                    "start": 0.82,
+                    "end": 1.44,
+                    "probability": 0.980453372001648
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

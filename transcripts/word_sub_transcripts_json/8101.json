@@ -1,0 +1,80 @@
+{
+    "text": " the actor forgot his mind during the performance.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.46,
+            "text": " the actor forgot his mind during the performance.",
+            "tokens": [
+                50364,
+                264,
+                8747,
+                5298,
+                702,
+                1575,
+                1830,
+                264,
+                3389,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4316035509109497,
+            "compression_ratio": 0.9074074074074074,
+            "no_speech_prob": 0.004073240328580141,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.46190446615219116
+                },
+                {
+                    "word": " actor",
+                    "start": 0.14,
+                    "end": 0.46,
+                    "probability": 0.9830543398857117
+                },
+                {
+                    "word": " forgot",
+                    "start": 0.46,
+                    "end": 0.84,
+                    "probability": 0.9842511415481567
+                },
+                {
+                    "word": " his",
+                    "start": 0.84,
+                    "end": 1.12,
+                    "probability": 0.9907805323600769
+                },
+                {
+                    "word": " mind",
+                    "start": 1.12,
+                    "end": 1.4,
+                    "probability": 0.5763420462608337
+                },
+                {
+                    "word": " during",
+                    "start": 1.4,
+                    "end": 1.8,
+                    "probability": 0.9922095537185669
+                },
+                {
+                    "word": " the",
+                    "start": 1.8,
+                    "end": 1.98,
+                    "probability": 0.749200701713562
+                },
+                {
+                    "word": " performance.",
+                    "start": 1.98,
+                    "end": 2.46,
+                    "probability": 0.9938126802444458
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

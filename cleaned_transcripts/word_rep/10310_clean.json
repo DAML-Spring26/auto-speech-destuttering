@@ -1,30 +1,29 @@
 {
-    "text": " Could you please confer tomorrow our reservation for two?",
+    "text": " you confirm tomorrow, our reservation for two.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 3.6,
-            "text": " Could you please confer tomorrow our reservation for two?",
+            "end": 3.04,
+            "text": " you confirm tomorrow, our reservation for two.",
             "tokens": [
                 50364,
-                7497,
                 291,
-                1767,
-                13765,
+                9064,
                 4153,
+                11,
                 527,
                 28922,
                 337,
                 732,
-                30,
-                50544
+                13,
+                50516
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.3998743203970102,
-            "compression_ratio": 0.9193548387096774,
-            "no_speech_prob": 0.012643106281757355
+            "avg_logprob": -0.6366477807362875,
+            "compression_ratio": 0.8679245283018868,
+            "no_speech_prob": 0.03903908655047417
         }
     ],
     "language": "en"

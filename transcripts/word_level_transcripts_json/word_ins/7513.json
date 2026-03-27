@@ -1,0 +1,88 @@
+{
+    "text": " Don't forget to well exchange currency at the airport.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.78,
+            "text": " Don't forget to well exchange currency at the airport.",
+            "tokens": [
+                50364,
+                1468,
+                380,
+                2870,
+                281,
+                731,
+                7742,
+                13346,
+                412,
+                264,
+                10155,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41193720272609163,
+            "compression_ratio": 0.8852459016393442,
+            "no_speech_prob": 0.18846552073955536,
+            "words": [
+                {
+                    "word": " Don't",
+                    "start": 0.0,
+                    "end": 1.44,
+                    "probability": 0.9265790283679962
+                },
+                {
+                    "word": " forget",
+                    "start": 1.44,
+                    "end": 1.8,
+                    "probability": 0.9915088415145874
+                },
+                {
+                    "word": " to",
+                    "start": 1.8,
+                    "end": 2.1,
+                    "probability": 0.9784358739852905
+                },
+                {
+                    "word": " well",
+                    "start": 2.1,
+                    "end": 2.48,
+                    "probability": 0.7186797857284546
+                },
+                {
+                    "word": " exchange",
+                    "start": 2.48,
+                    "end": 4.02,
+                    "probability": 0.21220101416110992
+                },
+                {
+                    "word": " currency",
+                    "start": 4.02,
+                    "end": 4.86,
+                    "probability": 0.9956821203231812
+                },
+                {
+                    "word": " at",
+                    "start": 4.86,
+                    "end": 5.2,
+                    "probability": 0.9924013614654541
+                },
+                {
+                    "word": " the",
+                    "start": 5.2,
+                    "end": 5.38,
+                    "probability": 0.9968768358230591
+                },
+                {
+                    "word": " airport.",
+                    "start": 5.38,
+                    "end": 5.78,
+                    "probability": 0.9796837568283081
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

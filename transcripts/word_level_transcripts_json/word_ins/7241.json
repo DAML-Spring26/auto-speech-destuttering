@@ -1,0 +1,99 @@
+{
+    "text": " Who's there? Going to the party on Saturday.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.8400000000000003,
+            "end": 1.64,
+            "text": " Who's there?",
+            "tokens": [
+                50364,
+                2102,
+                311,
+                456,
+                30,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4491017758846283,
+            "compression_ratio": 0.8979591836734694,
+            "no_speech_prob": 0.012506695464253426,
+            "words": [
+                {
+                    "word": " Who's",
+                    "start": 0.8400000000000003,
+                    "end": 1.48,
+                    "probability": 0.8023669719696045
+                },
+                {
+                    "word": " there?",
+                    "start": 1.48,
+                    "end": 1.64,
+                    "probability": 0.4692552089691162
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.1,
+            "end": 3.74,
+            "text": " Going to the party on Saturday.",
+            "tokens": [
+                50476,
+                10963,
+                281,
+                264,
+                3595,
+                322,
+                8803,
+                13,
+                50568
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4491017758846283,
+            "compression_ratio": 0.8979591836734694,
+            "no_speech_prob": 0.012506695464253426,
+            "words": [
+                {
+                    "word": " Going",
+                    "start": 2.1,
+                    "end": 2.4,
+                    "probability": 0.9108774065971375
+                },
+                {
+                    "word": " to",
+                    "start": 2.4,
+                    "end": 2.64,
+                    "probability": 0.9963037967681885
+                },
+                {
+                    "word": " the",
+                    "start": 2.64,
+                    "end": 2.76,
+                    "probability": 0.9842910766601562
+                },
+                {
+                    "word": " party",
+                    "start": 2.76,
+                    "end": 3.14,
+                    "probability": 0.9852097630500793
+                },
+                {
+                    "word": " on",
+                    "start": 3.14,
+                    "end": 3.36,
+                    "probability": 0.9889978766441345
+                },
+                {
+                    "word": " Saturday.",
+                    "start": 3.36,
+                    "end": 3.74,
+                    "probability": 0.993492066860199
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

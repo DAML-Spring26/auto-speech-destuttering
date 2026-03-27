@@ -1,0 +1,66 @@
+{
+    "text": " The hospital provides emergency medical surfaces.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.68,
+            "text": " The hospital provides emergency medical surfaces.",
+            "tokens": [
+                50364,
+                440,
+                4530,
+                6417,
+                7473,
+                4625,
+                16130,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3979092359542847,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.006889878306537867,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7800059914588928
+                },
+                {
+                    "word": " hospital",
+                    "start": 0.1,
+                    "end": 0.48,
+                    "probability": 0.977857232093811
+                },
+                {
+                    "word": " provides",
+                    "start": 0.48,
+                    "end": 0.9,
+                    "probability": 0.8999460935592651
+                },
+                {
+                    "word": " emergency",
+                    "start": 0.9,
+                    "end": 1.58,
+                    "probability": 0.9947766065597534
+                },
+                {
+                    "word": " medical",
+                    "start": 1.58,
+                    "end": 2.04,
+                    "probability": 0.9914052486419678
+                },
+                {
+                    "word": " surfaces.",
+                    "start": 2.04,
+                    "end": 2.68,
+                    "probability": 0.6122821569442749
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

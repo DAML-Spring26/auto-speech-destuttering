@@ -1,0 +1,52 @@
+{
+    "text": " She perceived the notification.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.36,
+            "text": " She perceived the notification.",
+            "tokens": [
+                50364,
+                1240,
+                19049,
+                264,
+                11554,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3964516222476959,
+            "compression_ratio": 0.8378378378378378,
+            "no_speech_prob": 0.006541196722537279,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.5266889333724976
+                },
+                {
+                    "word": " perceived",
+                    "start": 0.22,
+                    "end": 0.62,
+                    "probability": 0.9476245045661926
+                },
+                {
+                    "word": " the",
+                    "start": 0.62,
+                    "end": 0.88,
+                    "probability": 0.9944392442703247
+                },
+                {
+                    "word": " notification.",
+                    "start": 0.88,
+                    "end": 1.36,
+                    "probability": 0.979945719242096
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

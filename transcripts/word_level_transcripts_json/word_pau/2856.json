@@ -1,0 +1,95 @@
+{
+    "text": " She's been studying marine biology for the past five years.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.36,
+            "text": " She's been studying marine biology for the past five years.",
+            "tokens": [
+                50364,
+                1240,
+                311,
+                668,
+                7601,
+                20246,
+                14956,
+                337,
+                264,
+                1791,
+                1732,
+                924,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3221588134765625,
+            "compression_ratio": 0.9076923076923077,
+            "no_speech_prob": 0.010476997122168541,
+            "words": [
+                {
+                    "word": " She's",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.8593706786632538
+                },
+                {
+                    "word": " been",
+                    "start": 0.32,
+                    "end": 0.48,
+                    "probability": 0.9947592616081238
+                },
+                {
+                    "word": " studying",
+                    "start": 0.48,
+                    "end": 1.28,
+                    "probability": 0.9986481070518494
+                },
+                {
+                    "word": " marine",
+                    "start": 1.28,
+                    "end": 4.14,
+                    "probability": 0.8361999988555908
+                },
+                {
+                    "word": " biology",
+                    "start": 4.14,
+                    "end": 4.72,
+                    "probability": 0.9960559606552124
+                },
+                {
+                    "word": " for",
+                    "start": 4.72,
+                    "end": 5.1,
+                    "probability": 0.9953872561454773
+                },
+                {
+                    "word": " the",
+                    "start": 5.1,
+                    "end": 5.2,
+                    "probability": 0.9971219897270203
+                },
+                {
+                    "word": " past",
+                    "start": 5.2,
+                    "end": 5.46,
+                    "probability": 0.9967137575149536
+                },
+                {
+                    "word": " five",
+                    "start": 5.46,
+                    "end": 5.94,
+                    "probability": 0.8312227725982666
+                },
+                {
+                    "word": " years.",
+                    "start": 5.94,
+                    "end": 6.36,
+                    "probability": 0.9983314871788025
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,96 @@
+{
+    "text": " She said that she would you know, arrived by 3pm.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.6,
+            "text": " She said that she would you know, arrived by 3pm.",
+            "tokens": [
+                50364,
+                1240,
+                848,
+                300,
+                750,
+                576,
+                291,
+                458,
+                11,
+                6678,
+                538,
+                805,
+                14395,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30992305278778076,
+            "compression_ratio": 0.8909090909090909,
+            "no_speech_prob": 0.016054408624768257,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.8834506869316101
+                },
+                {
+                    "word": " said",
+                    "start": 0.4,
+                    "end": 0.6,
+                    "probability": 0.9944356679916382
+                },
+                {
+                    "word": " that",
+                    "start": 0.6,
+                    "end": 0.74,
+                    "probability": 0.9427109956741333
+                },
+                {
+                    "word": " she",
+                    "start": 0.74,
+                    "end": 0.96,
+                    "probability": 0.9802830219268799
+                },
+                {
+                    "word": " would",
+                    "start": 0.96,
+                    "end": 1.12,
+                    "probability": 0.9560105204582214
+                },
+                {
+                    "word": " you",
+                    "start": 1.12,
+                    "end": 1.24,
+                    "probability": 0.7957900762557983
+                },
+                {
+                    "word": " know,",
+                    "start": 1.24,
+                    "end": 1.42,
+                    "probability": 0.9711894392967224
+                },
+                {
+                    "word": " arrived",
+                    "start": 1.56,
+                    "end": 1.78,
+                    "probability": 0.6264305710792542
+                },
+                {
+                    "word": " by",
+                    "start": 1.78,
+                    "end": 2.0,
+                    "probability": 0.9670426845550537
+                },
+                {
+                    "word": " 3pm.",
+                    "start": 2.0,
+                    "end": 2.6,
+                    "probability": 0.7533289790153503
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

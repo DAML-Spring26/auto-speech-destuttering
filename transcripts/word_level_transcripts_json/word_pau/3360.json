@@ -1,0 +1,67 @@
+{
+    "text": " I'm allergic to cats and dogs.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.04,
+            "text": " I'm allergic to cats and dogs.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                31606,
+                281,
+                11111,
+                293,
+                7197,
+                13,
+                50636
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5015204603021796,
+            "compression_ratio": 0.7894736842105263,
+            "no_speech_prob": 0.013780719600617886,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.9023780226707458
+                },
+                {
+                    "word": " allergic",
+                    "start": 0.24,
+                    "end": 0.56,
+                    "probability": 0.4920731484889984
+                },
+                {
+                    "word": " to",
+                    "start": 0.56,
+                    "end": 0.92,
+                    "probability": 0.9954498410224915
+                },
+                {
+                    "word": " cats",
+                    "start": 0.92,
+                    "end": 1.14,
+                    "probability": 0.7682448029518127
+                },
+                {
+                    "word": " and",
+                    "start": 1.14,
+                    "end": 1.42,
+                    "probability": 0.9137895107269287
+                },
+                {
+                    "word": " dogs.",
+                    "start": 1.42,
+                    "end": 3.04,
+                    "probability": 0.81141597032547
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

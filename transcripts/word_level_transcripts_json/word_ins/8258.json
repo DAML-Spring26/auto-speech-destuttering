@@ -1,0 +1,96 @@
+{
+    "text": " The museum is open from 9am to like 5pm daily.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.66,
+            "text": " The museum is open from 9am to like 5pm daily.",
+            "tokens": [
+                50364,
+                440,
+                8441,
+                307,
+                1269,
+                490,
+                1722,
+                335,
+                281,
+                411,
+                1025,
+                14395,
+                5212,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3305889964103699,
+            "compression_ratio": 0.8518518518518519,
+            "no_speech_prob": 0.003952653147280216,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.9585965275764465
+                },
+                {
+                    "word": " museum",
+                    "start": 0.28,
+                    "end": 0.58,
+                    "probability": 0.9534624218940735
+                },
+                {
+                    "word": " is",
+                    "start": 0.58,
+                    "end": 0.72,
+                    "probability": 0.9852766394615173
+                },
+                {
+                    "word": " open",
+                    "start": 0.72,
+                    "end": 0.92,
+                    "probability": 0.98167484998703
+                },
+                {
+                    "word": " from",
+                    "start": 0.92,
+                    "end": 1.12,
+                    "probability": 0.9959272742271423
+                },
+                {
+                    "word": " 9am",
+                    "start": 1.12,
+                    "end": 1.52,
+                    "probability": 0.6754270493984222
+                },
+                {
+                    "word": " to",
+                    "start": 1.52,
+                    "end": 1.7,
+                    "probability": 0.9539698362350464
+                },
+                {
+                    "word": " like",
+                    "start": 1.7,
+                    "end": 1.86,
+                    "probability": 0.9682371020317078
+                },
+                {
+                    "word": " 5pm",
+                    "start": 1.86,
+                    "end": 2.38,
+                    "probability": 0.8977884352207184
+                },
+                {
+                    "word": " daily.",
+                    "start": 2.38,
+                    "end": 2.66,
+                    "probability": 0.9572832584381104
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

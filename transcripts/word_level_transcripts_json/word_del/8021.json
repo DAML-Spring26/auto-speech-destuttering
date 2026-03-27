@@ -1,0 +1,108 @@
+{
+    "text": " The patients require to fast for 12 hours before the blood test.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.44,
+            "text": " The patients require to fast for 12 hours before the blood test.",
+            "tokens": [
+                50364,
+                440,
+                4209,
+                3651,
+                281,
+                2370,
+                337,
+                2272,
+                2496,
+                949,
+                264,
+                3390,
+                1500,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29427069425582886,
+            "compression_ratio": 0.9552238805970149,
+            "no_speech_prob": 0.01963176019489765,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7226982712745667
+                },
+                {
+                    "word": " patients",
+                    "start": 0.14,
+                    "end": 0.56,
+                    "probability": 0.6550506949424744
+                },
+                {
+                    "word": " require",
+                    "start": 0.56,
+                    "end": 1.02,
+                    "probability": 0.7007821798324585
+                },
+                {
+                    "word": " to",
+                    "start": 1.02,
+                    "end": 1.3,
+                    "probability": 0.9291962385177612
+                },
+                {
+                    "word": " fast",
+                    "start": 1.3,
+                    "end": 1.5,
+                    "probability": 0.9505347609519958
+                },
+                {
+                    "word": " for",
+                    "start": 1.5,
+                    "end": 1.68,
+                    "probability": 0.9557759165763855
+                },
+                {
+                    "word": " 12",
+                    "start": 1.68,
+                    "end": 1.9,
+                    "probability": 0.9302370548248291
+                },
+                {
+                    "word": " hours",
+                    "start": 1.9,
+                    "end": 2.2,
+                    "probability": 0.9871771335601807
+                },
+                {
+                    "word": " before",
+                    "start": 2.2,
+                    "end": 2.58,
+                    "probability": 0.9922962784767151
+                },
+                {
+                    "word": " the",
+                    "start": 2.58,
+                    "end": 2.8,
+                    "probability": 0.9848172068595886
+                },
+                {
+                    "word": " blood",
+                    "start": 2.8,
+                    "end": 2.98,
+                    "probability": 0.9943410158157349
+                },
+                {
+                    "word": " test.",
+                    "start": 2.98,
+                    "end": 3.44,
+                    "probability": 0.9591386914253235
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

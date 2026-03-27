@@ -1,0 +1,75 @@
+{
+    "text": " The symphony orchestra will perform Beethoven's knife.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.26,
+            "text": " The symphony orchestra will perform Beethoven's knife.",
+            "tokens": [
+                50364,
+                440,
+                6697,
+                28616,
+                25280,
+                486,
+                2042,
+                38651,
+                311,
+                7976,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34072248752300555,
+            "compression_ratio": 0.8709677419354839,
+            "no_speech_prob": 0.009926741942763329,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.681077241897583
+                },
+                {
+                    "word": " symphony",
+                    "start": 0.12,
+                    "end": 0.52,
+                    "probability": 0.8609395623207092
+                },
+                {
+                    "word": " orchestra",
+                    "start": 0.52,
+                    "end": 0.98,
+                    "probability": 0.9757729768753052
+                },
+                {
+                    "word": " will",
+                    "start": 0.98,
+                    "end": 1.14,
+                    "probability": 0.9866905212402344
+                },
+                {
+                    "word": " perform",
+                    "start": 1.14,
+                    "end": 1.42,
+                    "probability": 0.9882686138153076
+                },
+                {
+                    "word": " Beethoven's",
+                    "start": 1.42,
+                    "end": 2.04,
+                    "probability": 0.8110781610012054
+                },
+                {
+                    "word": " knife.",
+                    "start": 2.04,
+                    "end": 2.26,
+                    "probability": 0.7822101712226868
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,140 @@
+{
+    "text": " The museum is open from 9 a.m. to 5 p.m. to stay through Sunday.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.02,
+            "text": " The museum is open from 9 a.m. to 5 p.m. to stay through Sunday.",
+            "tokens": [
+                50364,
+                440,
+                8441,
+                307,
+                1269,
+                490,
+                1722,
+                257,
+                13,
+                76,
+                13,
+                281,
+                1025,
+                280,
+                13,
+                76,
+                13,
+                281,
+                1754,
+                807,
+                7776,
+                13,
+                50572
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23121406634648642,
+            "compression_ratio": 0.9696969696969697,
+            "no_speech_prob": 0.009802930988371372,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.8153143525123596
+                },
+                {
+                    "word": " museum",
+                    "start": 0.08,
+                    "end": 0.36,
+                    "probability": 0.939983069896698
+                },
+                {
+                    "word": " is",
+                    "start": 0.36,
+                    "end": 0.54,
+                    "probability": 0.9867905974388123
+                },
+                {
+                    "word": " open",
+                    "start": 0.54,
+                    "end": 0.8,
+                    "probability": 0.819948673248291
+                },
+                {
+                    "word": " from",
+                    "start": 0.8,
+                    "end": 1.04,
+                    "probability": 0.9866054654121399
+                },
+                {
+                    "word": " 9",
+                    "start": 1.04,
+                    "end": 1.28,
+                    "probability": 0.971512496471405
+                },
+                {
+                    "word": " a",
+                    "start": 1.28,
+                    "end": 1.56,
+                    "probability": 0.4746401607990265
+                },
+                {
+                    "word": ".m.",
+                    "start": 1.56,
+                    "end": 1.74,
+                    "probability": 0.9942841529846191
+                },
+                {
+                    "word": " to",
+                    "start": 1.78,
+                    "end": 1.9,
+                    "probability": 0.9729906916618347
+                },
+                {
+                    "word": " 5",
+                    "start": 1.9,
+                    "end": 2.32,
+                    "probability": 0.9786829948425293
+                },
+                {
+                    "word": " p",
+                    "start": 2.32,
+                    "end": 2.62,
+                    "probability": 0.7234324216842651
+                },
+                {
+                    "word": ".m.",
+                    "start": 2.62,
+                    "end": 2.84,
+                    "probability": 0.9980658292770386
+                },
+                {
+                    "word": " to",
+                    "start": 3.08,
+                    "end": 3.18,
+                    "probability": 0.8378614187240601
+                },
+                {
+                    "word": " stay",
+                    "start": 3.18,
+                    "end": 3.44,
+                    "probability": 0.88665372133255
+                },
+                {
+                    "word": " through",
+                    "start": 3.44,
+                    "end": 3.62,
+                    "probability": 0.9733632206916809
+                },
+                {
+                    "word": " Sunday.",
+                    "start": 3.62,
+                    "end": 4.02,
+                    "probability": 0.8034417629241943
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

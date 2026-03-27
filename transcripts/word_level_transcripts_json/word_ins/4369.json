@@ -1,0 +1,80 @@
+{
+    "text": " We need to improve our customer satisfaction ratings.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.82,
+            "text": " We need to improve our customer satisfaction ratings.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                3470,
+                527,
+                5474,
+                18715,
+                24603,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3979169925053914,
+            "compression_ratio": 0.8983050847457628,
+            "no_speech_prob": 0.2549262046813965,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 1.58,
+                    "probability": 0.8208693861961365
+                },
+                {
+                    "word": " need",
+                    "start": 1.58,
+                    "end": 1.76,
+                    "probability": 0.994966447353363
+                },
+                {
+                    "word": " to",
+                    "start": 1.76,
+                    "end": 1.98,
+                    "probability": 0.9980176687240601
+                },
+                {
+                    "word": " improve",
+                    "start": 1.98,
+                    "end": 2.42,
+                    "probability": 0.9928351044654846
+                },
+                {
+                    "word": " our",
+                    "start": 2.42,
+                    "end": 3.32,
+                    "probability": 0.9920741319656372
+                },
+                {
+                    "word": " customer",
+                    "start": 3.32,
+                    "end": 5.44,
+                    "probability": 0.44121336936950684
+                },
+                {
+                    "word": " satisfaction",
+                    "start": 5.44,
+                    "end": 6.34,
+                    "probability": 0.9974966645240784
+                },
+                {
+                    "word": " ratings.",
+                    "start": 6.34,
+                    "end": 6.82,
+                    "probability": 0.9961321353912354
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

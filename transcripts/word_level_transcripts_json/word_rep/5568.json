@@ -1,0 +1,95 @@
+{
+    "text": " This chef's signature dish combines traditional traditional and modern flavors.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.8,
+            "text": " This chef's signature dish combines traditional traditional and modern flavors.",
+            "tokens": [
+                50364,
+                639,
+                10530,
+                311,
+                13397,
+                5025,
+                29520,
+                5164,
+                5164,
+                293,
+                4363,
+                16303,
+                13,
+                50579
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4073282241821289,
+            "compression_ratio": 1.1126760563380282,
+            "no_speech_prob": 0.005008022766560316,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.41125011444091797
+                },
+                {
+                    "word": " chef's",
+                    "start": 0.14,
+                    "end": 0.54,
+                    "probability": 0.8400158286094666
+                },
+                {
+                    "word": " signature",
+                    "start": 0.54,
+                    "end": 0.9,
+                    "probability": 0.9819008708000183
+                },
+                {
+                    "word": " dish",
+                    "start": 0.9,
+                    "end": 1.16,
+                    "probability": 0.9924067854881287
+                },
+                {
+                    "word": " combines",
+                    "start": 1.16,
+                    "end": 1.52,
+                    "probability": 0.9821496605873108
+                },
+                {
+                    "word": " traditional",
+                    "start": 1.52,
+                    "end": 2.22,
+                    "probability": 0.9946966171264648
+                },
+                {
+                    "word": " traditional",
+                    "start": 2.22,
+                    "end": 2.68,
+                    "probability": 0.4779159128665924
+                },
+                {
+                    "word": " and",
+                    "start": 2.68,
+                    "end": 3.08,
+                    "probability": 0.9849501848220825
+                },
+                {
+                    "word": " modern",
+                    "start": 3.08,
+                    "end": 3.32,
+                    "probability": 0.9986756443977356
+                },
+                {
+                    "word": " flavors.",
+                    "start": 3.32,
+                    "end": 3.8,
+                    "probability": 0.7016615271568298
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

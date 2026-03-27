@@ -1,0 +1,101 @@
+{
+    "text": " The annual employee satisfaction survey will be conducted next month well.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.04,
+            "text": " The annual employee satisfaction survey will be conducted next month well.",
+            "tokens": [
+                50364,
+                440,
+                9784,
+                10738,
+                18715,
+                8984,
+                486,
+                312,
+                13809,
+                958,
+                1618,
+                731,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26942211786905923,
+            "compression_ratio": 1.0422535211267605,
+            "no_speech_prob": 0.03204137831926346,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.76,
+                    "probability": 0.9129683375358582
+                },
+                {
+                    "word": " annual",
+                    "start": 0.76,
+                    "end": 1.08,
+                    "probability": 0.8598112463951111
+                },
+                {
+                    "word": " employee",
+                    "start": 1.08,
+                    "end": 1.68,
+                    "probability": 0.709286630153656
+                },
+                {
+                    "word": " satisfaction",
+                    "start": 1.68,
+                    "end": 2.26,
+                    "probability": 0.9245395660400391
+                },
+                {
+                    "word": " survey",
+                    "start": 2.26,
+                    "end": 3.02,
+                    "probability": 0.9972711205482483
+                },
+                {
+                    "word": " will",
+                    "start": 3.02,
+                    "end": 3.6,
+                    "probability": 0.9880421161651611
+                },
+                {
+                    "word": " be",
+                    "start": 3.6,
+                    "end": 3.78,
+                    "probability": 0.997000515460968
+                },
+                {
+                    "word": " conducted",
+                    "start": 3.78,
+                    "end": 4.22,
+                    "probability": 0.9983357787132263
+                },
+                {
+                    "word": " next",
+                    "start": 4.22,
+                    "end": 4.54,
+                    "probability": 0.9969866871833801
+                },
+                {
+                    "word": " month",
+                    "start": 4.54,
+                    "end": 4.76,
+                    "probability": 0.9941410422325134
+                },
+                {
+                    "word": " well.",
+                    "start": 4.76,
+                    "end": 5.04,
+                    "probability": 0.867686927318573
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

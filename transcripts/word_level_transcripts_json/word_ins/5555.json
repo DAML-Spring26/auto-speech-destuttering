@@ -1,0 +1,156 @@
+{
+    "text": " Can't wait to see you all at the reunion next month. I'm excited as so happy.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.5,
+            "text": " Can't wait to see you all at the reunion next month.",
+            "tokens": [
+                50364,
+                1664,
+                380,
+                1699,
+                281,
+                536,
+                291,
+                439,
+                412,
+                264,
+                34720,
+                958,
+                1618,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3064822959899902,
+            "compression_ratio": 1.013157894736842,
+            "no_speech_prob": 0.007315549533814192,
+            "words": [
+                {
+                    "word": " Can't",
+                    "start": 0.0,
+                    "end": 0.68,
+                    "probability": 0.8305047750473022
+                },
+                {
+                    "word": " wait",
+                    "start": 0.68,
+                    "end": 0.76,
+                    "probability": 0.9992225170135498
+                },
+                {
+                    "word": " to",
+                    "start": 0.76,
+                    "end": 0.9,
+                    "probability": 0.9960410594940186
+                },
+                {
+                    "word": " see",
+                    "start": 0.9,
+                    "end": 1.08,
+                    "probability": 0.9974358677864075
+                },
+                {
+                    "word": " you",
+                    "start": 1.08,
+                    "end": 1.24,
+                    "probability": 0.9738983511924744
+                },
+                {
+                    "word": " all",
+                    "start": 1.24,
+                    "end": 1.36,
+                    "probability": 0.9947578310966492
+                },
+                {
+                    "word": " at",
+                    "start": 1.36,
+                    "end": 1.46,
+                    "probability": 0.9472128748893738
+                },
+                {
+                    "word": " the",
+                    "start": 1.46,
+                    "end": 1.56,
+                    "probability": 0.9700111746788025
+                },
+                {
+                    "word": " reunion",
+                    "start": 1.56,
+                    "end": 1.82,
+                    "probability": 0.9301015138626099
+                },
+                {
+                    "word": " next",
+                    "start": 1.82,
+                    "end": 2.12,
+                    "probability": 0.9855770468711853
+                },
+                {
+                    "word": " month.",
+                    "start": 2.12,
+                    "end": 2.5,
+                    "probability": 0.9983738660812378
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.4,
+            "end": 4.42,
+            "text": " I'm excited as so happy.",
+            "tokens": [
+                50514,
+                286,
+                478,
+                2919,
+                382,
+                370,
+                2055,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3064822959899902,
+            "compression_ratio": 1.013157894736842,
+            "no_speech_prob": 0.007315549533814192,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 3.4,
+                    "end": 3.76,
+                    "probability": 0.7568589746952057
+                },
+                {
+                    "word": " excited",
+                    "start": 3.76,
+                    "end": 3.76,
+                    "probability": 0.9162507057189941
+                },
+                {
+                    "word": " as",
+                    "start": 3.76,
+                    "end": 3.96,
+                    "probability": 0.7108141779899597
+                },
+                {
+                    "word": " so",
+                    "start": 3.96,
+                    "end": 4.14,
+                    "probability": 0.9496669173240662
+                },
+                {
+                    "word": " happy.",
+                    "start": 4.14,
+                    "end": 4.42,
+                    "probability": 0.9760564565658569
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

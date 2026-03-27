@@ -1,0 +1,66 @@
+{
+    "text": " the student completed or required assignment.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.52,
+            "text": " the student completed or required assignment.",
+            "tokens": [
+                50364,
+                264,
+                3107,
+                7365,
+                420,
+                4739,
+                15187,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5146564483642578,
+            "compression_ratio": 0.9,
+            "no_speech_prob": 0.005961935967206955,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6470817923545837
+                },
+                {
+                    "word": " student",
+                    "start": 0.12,
+                    "end": 0.46,
+                    "probability": 0.5867929458618164
+                },
+                {
+                    "word": " completed",
+                    "start": 0.46,
+                    "end": 1.16,
+                    "probability": 0.979653000831604
+                },
+                {
+                    "word": " or",
+                    "start": 1.16,
+                    "end": 1.46,
+                    "probability": 0.792666494846344
+                },
+                {
+                    "word": " required",
+                    "start": 1.46,
+                    "end": 1.86,
+                    "probability": 0.9336751103401184
+                },
+                {
+                    "word": " assignment.",
+                    "start": 1.86,
+                    "end": 2.52,
+                    "probability": 0.8243594765663147
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

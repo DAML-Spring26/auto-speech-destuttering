@@ -1,0 +1,66 @@
+{
+    "text": " the border proved the annual packet.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.96,
+            "text": " the border proved the annual packet.",
+            "tokens": [
+                50364,
+                264,
+                7838,
+                14617,
+                264,
+                9784,
+                20300,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6155458927154541,
+            "compression_ratio": 0.8372093023255814,
+            "no_speech_prob": 0.0031093067955225706,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5864098072052002
+                },
+                {
+                    "word": " border",
+                    "start": 0.14,
+                    "end": 0.42,
+                    "probability": 0.1912861317396164
+                },
+                {
+                    "word": " proved",
+                    "start": 0.42,
+                    "end": 0.94,
+                    "probability": 0.7204031944274902
+                },
+                {
+                    "word": " the",
+                    "start": 0.94,
+                    "end": 1.08,
+                    "probability": 0.9676614999771118
+                },
+                {
+                    "word": " annual",
+                    "start": 1.08,
+                    "end": 1.42,
+                    "probability": 0.943385899066925
+                },
+                {
+                    "word": " packet.",
+                    "start": 1.42,
+                    "end": 1.96,
+                    "probability": 0.9464947581291199
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

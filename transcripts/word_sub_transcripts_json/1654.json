@@ -1,0 +1,66 @@
+{
+    "text": " The patient showed remarkable recovery process.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.92,
+            "text": " The patient showed remarkable recovery process.",
+            "tokens": [
+                50364,
+                440,
+                4537,
+                4712,
+                12802,
+                8597,
+                1399,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4143782615661621,
+            "compression_ratio": 0.8867924528301887,
+            "no_speech_prob": 0.012189548462629318,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6978325843811035
+                },
+                {
+                    "word": " patient",
+                    "start": 0.12,
+                    "end": 0.42,
+                    "probability": 0.9859647750854492
+                },
+                {
+                    "word": " showed",
+                    "start": 0.42,
+                    "end": 0.66,
+                    "probability": 0.6961606740951538
+                },
+                {
+                    "word": " remarkable",
+                    "start": 0.66,
+                    "end": 1.04,
+                    "probability": 0.9851260185241699
+                },
+                {
+                    "word": " recovery",
+                    "start": 1.04,
+                    "end": 1.46,
+                    "probability": 0.9983103275299072
+                },
+                {
+                    "word": " process.",
+                    "start": 1.46,
+                    "end": 1.92,
+                    "probability": 0.9965152740478516
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

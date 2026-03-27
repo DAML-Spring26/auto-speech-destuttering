@@ -1,0 +1,59 @@
+{
+    "text": " She managed the department effectively.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.68,
+            "text": " She managed the department effectively.",
+            "tokens": [
+                50364,
+                1240,
+                6453,
+                264,
+                5882,
+                8659,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.456393559773763,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.005087030120193958,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.6148589849472046
+                },
+                {
+                    "word": " managed",
+                    "start": 0.18,
+                    "end": 0.42,
+                    "probability": 0.7859915494918823
+                },
+                {
+                    "word": " the",
+                    "start": 0.42,
+                    "end": 0.62,
+                    "probability": 0.6101966500282288
+                },
+                {
+                    "word": " department",
+                    "start": 0.62,
+                    "end": 1.02,
+                    "probability": 0.8766147494316101
+                },
+                {
+                    "word": " effectively.",
+                    "start": 1.02,
+                    "end": 1.68,
+                    "probability": 0.46819716691970825
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

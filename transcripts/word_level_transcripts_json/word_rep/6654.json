@@ -1,0 +1,95 @@
+{
+    "text": " The company's new initiative aims to reduce its carbon footprint.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.44,
+            "text": " The company's new initiative aims to reduce its carbon footprint.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                777,
+                11552,
+                24683,
+                281,
+                5407,
+                1080,
+                5954,
+                24222,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3213758150736491,
+            "compression_ratio": 0.9701492537313433,
+            "no_speech_prob": 0.007429113145917654,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5739307999610901
+                },
+                {
+                    "word": " company's",
+                    "start": 0.12,
+                    "end": 0.78,
+                    "probability": 0.97332563996315
+                },
+                {
+                    "word": " new",
+                    "start": 0.78,
+                    "end": 0.92,
+                    "probability": 0.9791247248649597
+                },
+                {
+                    "word": " initiative",
+                    "start": 0.92,
+                    "end": 1.46,
+                    "probability": 0.9491004347801208
+                },
+                {
+                    "word": " aims",
+                    "start": 1.46,
+                    "end": 1.94,
+                    "probability": 0.8551666140556335
+                },
+                {
+                    "word": " to",
+                    "start": 1.94,
+                    "end": 2.18,
+                    "probability": 0.9982201457023621
+                },
+                {
+                    "word": " reduce",
+                    "start": 2.18,
+                    "end": 2.54,
+                    "probability": 0.9905973076820374
+                },
+                {
+                    "word": " its",
+                    "start": 2.54,
+                    "end": 2.98,
+                    "probability": 0.9486876130104065
+                },
+                {
+                    "word": " carbon",
+                    "start": 2.98,
+                    "end": 3.82,
+                    "probability": 0.31703490018844604
+                },
+                {
+                    "word": " footprint.",
+                    "start": 3.82,
+                    "end": 4.44,
+                    "probability": 0.9989816546440125
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

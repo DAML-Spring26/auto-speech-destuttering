@@ -1,0 +1,101 @@
+{
+    "text": " Do you prefer watching movies at home or in the feeder?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.14,
+            "text": " Do you prefer watching movies at home or in the feeder?",
+            "tokens": [
+                50364,
+                1144,
+                291,
+                4382,
+                1976,
+                6233,
+                412,
+                1280,
+                420,
+                294,
+                264,
+                48778,
+                30,
+                50532
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2618302663167318,
+            "compression_ratio": 0.9166666666666666,
+            "no_speech_prob": 0.004660562612116337,
+            "words": [
+                {
+                    "word": " Do",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7306624054908752
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.28,
+                    "probability": 0.9959796667098999
+                },
+                {
+                    "word": " prefer",
+                    "start": 0.28,
+                    "end": 0.62,
+                    "probability": 0.999299168586731
+                },
+                {
+                    "word": " watching",
+                    "start": 0.62,
+                    "end": 1.1,
+                    "probability": 0.9977843165397644
+                },
+                {
+                    "word": " movies",
+                    "start": 1.1,
+                    "end": 1.52,
+                    "probability": 0.9582944512367249
+                },
+                {
+                    "word": " at",
+                    "start": 1.52,
+                    "end": 1.82,
+                    "probability": 0.985263466835022
+                },
+                {
+                    "word": " home",
+                    "start": 1.82,
+                    "end": 2.18,
+                    "probability": 0.9979358911514282
+                },
+                {
+                    "word": " or",
+                    "start": 2.18,
+                    "end": 2.54,
+                    "probability": 0.9452345967292786
+                },
+                {
+                    "word": " in",
+                    "start": 2.54,
+                    "end": 2.74,
+                    "probability": 0.9603182077407837
+                },
+                {
+                    "word": " the",
+                    "start": 2.74,
+                    "end": 2.86,
+                    "probability": 0.98009192943573
+                },
+                {
+                    "word": " feeder?",
+                    "start": 2.86,
+                    "end": 3.14,
+                    "probability": 0.9168733358383179
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

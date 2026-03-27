@@ -1,0 +1,88 @@
+{
+    "text": " She's been studying for her final exams all week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.94,
+            "text": " She's been studying for her final exams all week.",
+            "tokens": [
+                50364,
+                1240,
+                311,
+                668,
+                7601,
+                337,
+                720,
+                2572,
+                20514,
+                439,
+                1243,
+                13,
+                50520
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2522492749350412,
+            "compression_ratio": 0.8596491228070176,
+            "no_speech_prob": 0.009923717938363552,
+            "words": [
+                {
+                    "word": " She's",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.8632512986660004
+                },
+                {
+                    "word": " been",
+                    "start": 0.32,
+                    "end": 0.48,
+                    "probability": 0.9907925128936768
+                },
+                {
+                    "word": " studying",
+                    "start": 0.48,
+                    "end": 0.94,
+                    "probability": 0.9969077706336975
+                },
+                {
+                    "word": " for",
+                    "start": 0.94,
+                    "end": 1.28,
+                    "probability": 0.9857355952262878
+                },
+                {
+                    "word": " her",
+                    "start": 1.28,
+                    "end": 1.46,
+                    "probability": 0.9938615560531616
+                },
+                {
+                    "word": " final",
+                    "start": 1.46,
+                    "end": 1.86,
+                    "probability": 0.9849083423614502
+                },
+                {
+                    "word": " exams",
+                    "start": 1.86,
+                    "end": 2.44,
+                    "probability": 0.9356912970542908
+                },
+                {
+                    "word": " all",
+                    "start": 2.44,
+                    "end": 2.68,
+                    "probability": 0.9431048035621643
+                },
+                {
+                    "word": " week.",
+                    "start": 2.68,
+                    "end": 2.94,
+                    "probability": 0.9951592087745667
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

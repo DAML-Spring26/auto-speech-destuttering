@@ -1,0 +1,45 @@
+{
+    "text": " you dance well.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.24,
+            "text": " you dance well.",
+            "tokens": [
+                50364,
+                291,
+                4489,
+                731,
+                13,
+                50440
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7080785887581962,
+            "compression_ratio": 0.6521739130434783,
+            "no_speech_prob": 0.010014943778514862,
+            "words": [
+                {
+                    "word": " you",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.41695085167884827
+                },
+                {
+                    "word": " dance",
+                    "start": 0.28,
+                    "end": 0.76,
+                    "probability": 0.6648342609405518
+                },
+                {
+                    "word": " well.",
+                    "start": 0.76,
+                    "end": 1.24,
+                    "probability": 0.9266407489776611
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,59 @@
+{
+    "text": " We eat to eat lunch.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.12,
+            "text": " We eat to eat lunch.",
+            "tokens": [
+                50364,
+                492,
+                1862,
+                281,
+                1862,
+                6349,
+                13,
+                50434
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5328061845567491,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.012786470353603363,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.6972793340682983
+                },
+                {
+                    "word": " eat",
+                    "start": 0.2,
+                    "end": 0.5,
+                    "probability": 0.9811526536941528
+                },
+                {
+                    "word": " to",
+                    "start": 0.5,
+                    "end": 0.6,
+                    "probability": 0.34955188632011414
+                },
+                {
+                    "word": " eat",
+                    "start": 0.6,
+                    "end": 0.78,
+                    "probability": 0.9956307411193848
+                },
+                {
+                    "word": " lunch.",
+                    "start": 0.78,
+                    "end": 1.12,
+                    "probability": 0.997931718826294
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

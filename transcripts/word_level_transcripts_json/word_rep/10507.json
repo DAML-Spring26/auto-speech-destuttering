@@ -1,0 +1,110 @@
+{
+    "text": " Despite the economic downturn, our company has maintained steady growth this quarter.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.7,
+            "text": " Despite the economic downturn, our company has maintained steady growth this quarter.",
+            "tokens": [
+                50364,
+                11334,
+                264,
+                4836,
+                11655,
+                925,
+                11,
+                527,
+                2237,
+                575,
+                17578,
+                13211,
+                4599,
+                341,
+                6555,
+                13,
+                50668
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2684063646528456,
+            "compression_ratio": 1.0759493670886076,
+            "no_speech_prob": 0.0051478431560099125,
+            "words": [
+                {
+                    "word": " Despite",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.8522297143936157
+                },
+                {
+                    "word": " the",
+                    "start": 0.38,
+                    "end": 0.66,
+                    "probability": 0.9917176961898804
+                },
+                {
+                    "word": " economic",
+                    "start": 0.66,
+                    "end": 1.14,
+                    "probability": 0.9980229139328003
+                },
+                {
+                    "word": " downturn,",
+                    "start": 1.14,
+                    "end": 1.92,
+                    "probability": 0.9963462650775909
+                },
+                {
+                    "word": " our",
+                    "start": 2.1,
+                    "end": 2.18,
+                    "probability": 0.9879013299942017
+                },
+                {
+                    "word": " company",
+                    "start": 2.18,
+                    "end": 2.68,
+                    "probability": 0.9927107095718384
+                },
+                {
+                    "word": " has",
+                    "start": 2.68,
+                    "end": 3.06,
+                    "probability": 0.9951097369194031
+                },
+                {
+                    "word": " maintained",
+                    "start": 3.06,
+                    "end": 3.48,
+                    "probability": 0.9879636764526367
+                },
+                {
+                    "word": " steady",
+                    "start": 3.48,
+                    "end": 4.04,
+                    "probability": 0.9903448224067688
+                },
+                {
+                    "word": " growth",
+                    "start": 4.04,
+                    "end": 4.4,
+                    "probability": 0.9696435332298279
+                },
+                {
+                    "word": " this",
+                    "start": 4.4,
+                    "end": 4.9,
+                    "probability": 0.8537707924842834
+                },
+                {
+                    "word": " quarter.",
+                    "start": 4.9,
+                    "end": 5.7,
+                    "probability": 0.38159266114234924
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

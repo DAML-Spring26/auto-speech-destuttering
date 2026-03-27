@@ -1,0 +1,101 @@
+{
+    "text": " The marketing team presented their strategy for the upcoming product launch.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.46,
+            "text": " The marketing team presented their strategy for the upcoming product launch.",
+            "tokens": [
+                50364,
+                440,
+                6370,
+                1469,
+                8212,
+                641,
+                5206,
+                337,
+                264,
+                11500,
+                1674,
+                4025,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.268561585744222,
+            "compression_ratio": 1.0410958904109588,
+            "no_speech_prob": 0.0029118910897523165,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8227815628051758
+                },
+                {
+                    "word": " marketing",
+                    "start": 0.12,
+                    "end": 0.52,
+                    "probability": 0.7681229114532471
+                },
+                {
+                    "word": " team",
+                    "start": 0.52,
+                    "end": 1.02,
+                    "probability": 0.9992051720619202
+                },
+                {
+                    "word": " presented",
+                    "start": 1.02,
+                    "end": 1.74,
+                    "probability": 0.9927996397018433
+                },
+                {
+                    "word": " their",
+                    "start": 1.74,
+                    "end": 3.82,
+                    "probability": 0.8738033175468445
+                },
+                {
+                    "word": " strategy",
+                    "start": 3.82,
+                    "end": 4.4,
+                    "probability": 0.9953846335411072
+                },
+                {
+                    "word": " for",
+                    "start": 4.4,
+                    "end": 4.74,
+                    "probability": 0.9952612519264221
+                },
+                {
+                    "word": " the",
+                    "start": 4.74,
+                    "end": 4.9,
+                    "probability": 0.9958410859107971
+                },
+                {
+                    "word": " upcoming",
+                    "start": 4.9,
+                    "end": 5.36,
+                    "probability": 0.9649776816368103
+                },
+                {
+                    "word": " product",
+                    "start": 5.36,
+                    "end": 5.92,
+                    "probability": 0.8808722496032715
+                },
+                {
+                    "word": " launch.",
+                    "start": 5.92,
+                    "end": 6.46,
+                    "probability": 0.9933873414993286
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

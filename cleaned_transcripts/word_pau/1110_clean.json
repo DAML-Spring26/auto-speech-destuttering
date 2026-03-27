@@ -1,48 +1,48 @@
 {
-    "text": " What's on rev? Movie would you like to watch tonight?",
+    "text": " What's your off? Movie we'd like to watch tonight.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
             "end": 2.0,
-            "text": " What's on rev?",
+            "text": " What's your off?",
             "tokens": [
                 50364,
                 708,
                 311,
-                322,
-                3698,
+                428,
+                766,
                 30,
                 50464
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.6358435418870714,
-            "compression_ratio": 0.8983050847457628,
-            "no_speech_prob": 0.027900421991944313
+            "avg_logprob": -0.8506480322943794,
+            "compression_ratio": 0.8928571428571429,
+            "no_speech_prob": 0.03443431481719017
         },
         {
             "id": 1,
             "seek": 0,
-            "start": 4.8,
-            "end": 6.8,
-            "text": " Movie would you like to watch tonight?",
+            "start": 4.5600000000000005,
+            "end": 6.5600000000000005,
+            "text": " Movie we'd like to watch tonight.",
             "tokens": [
-                50604,
+                50592,
                 28766,
-                576,
-                291,
+                321,
+                1116,
                 411,
                 281,
                 1159,
                 4440,
-                30,
-                50704
+                13,
+                50692
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.6358435418870714,
-            "compression_ratio": 0.8983050847457628,
-            "no_speech_prob": 0.027900421991944313
+            "avg_logprob": -0.8506480322943794,
+            "compression_ratio": 0.8928571428571429,
+            "no_speech_prob": 0.03443431481719017
         }
     ],
     "language": "en"

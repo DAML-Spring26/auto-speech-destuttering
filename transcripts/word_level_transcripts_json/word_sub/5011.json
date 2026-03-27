@@ -1,0 +1,74 @@
+{
+    "text": " our company's quarterly earnings exceeded the expectation.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.3,
+            "text": " our company's quarterly earnings exceeded the expectation.",
+            "tokens": [
+                50364,
+                527,
+                2237,
+                311,
+                38633,
+                20548,
+                38026,
+                264,
+                14334,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4415477116902669,
+            "compression_ratio": 0.90625,
+            "no_speech_prob": 0.006443873047828674,
+            "words": [
+                {
+                    "word": " our",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.6241548657417297
+                },
+                {
+                    "word": " company's",
+                    "start": 0.18,
+                    "end": 0.88,
+                    "probability": 0.8946066796779633
+                },
+                {
+                    "word": " quarterly",
+                    "start": 0.88,
+                    "end": 1.24,
+                    "probability": 0.8949046730995178
+                },
+                {
+                    "word": " earnings",
+                    "start": 1.24,
+                    "end": 1.8,
+                    "probability": 0.9947662353515625
+                },
+                {
+                    "word": " exceeded",
+                    "start": 1.8,
+                    "end": 2.32,
+                    "probability": 0.7096365094184875
+                },
+                {
+                    "word": " the",
+                    "start": 2.32,
+                    "end": 2.62,
+                    "probability": 0.6416405439376831
+                },
+                {
+                    "word": " expectation.",
+                    "start": 2.62,
+                    "end": 3.3,
+                    "probability": 0.9854230880737305
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

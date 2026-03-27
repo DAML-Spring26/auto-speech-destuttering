@@ -1,0 +1,94 @@
+{
+    "text": " We have been working on this project for six months.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.72,
+            "text": " We have been working on this project for six months.",
+            "tokens": [
+                50364,
+                492,
+                362,
+                668,
+                1364,
+                322,
+                341,
+                1716,
+                337,
+                2309,
+                2493,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30275157519749235,
+            "compression_ratio": 0.896551724137931,
+            "no_speech_prob": 0.004877137951552868,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7917037606239319
+                },
+                {
+                    "word": " have",
+                    "start": 0.12,
+                    "end": 0.26,
+                    "probability": 0.9725095629692078
+                },
+                {
+                    "word": " been",
+                    "start": 0.26,
+                    "end": 0.48,
+                    "probability": 0.9959666728973389
+                },
+                {
+                    "word": " working",
+                    "start": 0.48,
+                    "end": 1.08,
+                    "probability": 0.4872938096523285
+                },
+                {
+                    "word": " on",
+                    "start": 1.08,
+                    "end": 1.42,
+                    "probability": 0.9810949563980103
+                },
+                {
+                    "word": " this",
+                    "start": 1.42,
+                    "end": 1.58,
+                    "probability": 0.9864104390144348
+                },
+                {
+                    "word": " project",
+                    "start": 1.58,
+                    "end": 1.9,
+                    "probability": 0.9931875467300415
+                },
+                {
+                    "word": " for",
+                    "start": 1.9,
+                    "end": 2.18,
+                    "probability": 0.9916402101516724
+                },
+                {
+                    "word": " six",
+                    "start": 2.18,
+                    "end": 2.42,
+                    "probability": 0.6525512933731079
+                },
+                {
+                    "word": " months.",
+                    "start": 2.42,
+                    "end": 2.72,
+                    "probability": 0.9958587288856506
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

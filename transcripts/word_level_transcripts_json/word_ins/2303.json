@@ -1,0 +1,88 @@
+{
+    "text": " Our store offers free shipping on orders over $50.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.14,
+            "text": " Our store offers free shipping on orders over $50.",
+            "tokens": [
+                50364,
+                2621,
+                3531,
+                7736,
+                1737,
+                14122,
+                322,
+                9470,
+                670,
+                1848,
+                2803,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31912459645952496,
+            "compression_ratio": 0.8928571428571429,
+            "no_speech_prob": 0.038390420377254486,
+            "words": [
+                {
+                    "word": " Our",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.8638725876808167
+                },
+                {
+                    "word": " store",
+                    "start": 0.34,
+                    "end": 0.54,
+                    "probability": 0.9940616488456726
+                },
+                {
+                    "word": " offers",
+                    "start": 0.54,
+                    "end": 0.76,
+                    "probability": 0.7913603186607361
+                },
+                {
+                    "word": " free",
+                    "start": 0.76,
+                    "end": 0.96,
+                    "probability": 0.9966448545455933
+                },
+                {
+                    "word": " shipping",
+                    "start": 0.96,
+                    "end": 1.18,
+                    "probability": 0.9986999034881592
+                },
+                {
+                    "word": " on",
+                    "start": 1.18,
+                    "end": 1.36,
+                    "probability": 0.9848095774650574
+                },
+                {
+                    "word": " orders",
+                    "start": 1.36,
+                    "end": 1.56,
+                    "probability": 0.9534569978713989
+                },
+                {
+                    "word": " over",
+                    "start": 1.56,
+                    "end": 1.8,
+                    "probability": 0.9912763833999634
+                },
+                {
+                    "word": " $50.",
+                    "start": 1.8,
+                    "end": 2.14,
+                    "probability": 0.8760903179645538
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,67 @@
+{
+    "text": " the train departs from platform sticks.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.14,
+            "text": " the train departs from platform sticks.",
+            "tokens": [
+                50364,
+                264,
+                3847,
+                9110,
+                82,
+                490,
+                3663,
+                12518,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.518508954481645,
+            "compression_ratio": 0.8297872340425532,
+            "no_speech_prob": 0.007244267966598272,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6841235160827637
+                },
+                {
+                    "word": " train",
+                    "start": 0.12,
+                    "end": 0.42,
+                    "probability": 0.4887584447860718
+                },
+                {
+                    "word": " departs",
+                    "start": 0.42,
+                    "end": 1.1,
+                    "probability": 0.8843672871589661
+                },
+                {
+                    "word": " from",
+                    "start": 1.1,
+                    "end": 1.2,
+                    "probability": 0.9940301179885864
+                },
+                {
+                    "word": " platform",
+                    "start": 1.2,
+                    "end": 1.6,
+                    "probability": 0.6171817183494568
+                },
+                {
+                    "word": " sticks.",
+                    "start": 1.6,
+                    "end": 2.14,
+                    "probability": 0.9514539837837219
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

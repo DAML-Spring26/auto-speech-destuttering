@@ -1,0 +1,102 @@
+{
+    "text": " The experiment results were not as conclusive as we had hoped.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.0,
+            "text": " The experiment results were not as conclusive as we had hoped.",
+            "tokens": [
+                50364,
+                440,
+                5120,
+                3542,
+                645,
+                406,
+                382,
+                1588,
+                7233,
+                382,
+                321,
+                632,
+                19737,
+                13,
+                50584
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29565829038619995,
+            "compression_ratio": 0.9538461538461539,
+            "no_speech_prob": 0.007663361728191376,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6213324666023254
+                },
+                {
+                    "word": " experiment",
+                    "start": 0.12,
+                    "end": 0.58,
+                    "probability": 0.9900268316268921
+                },
+                {
+                    "word": " results",
+                    "start": 0.58,
+                    "end": 0.98,
+                    "probability": 0.9774262309074402
+                },
+                {
+                    "word": " were",
+                    "start": 0.98,
+                    "end": 1.24,
+                    "probability": 0.9952054023742676
+                },
+                {
+                    "word": " not",
+                    "start": 1.24,
+                    "end": 1.46,
+                    "probability": 0.997829258441925
+                },
+                {
+                    "word": " as",
+                    "start": 1.46,
+                    "end": 1.82,
+                    "probability": 0.9996763467788696
+                },
+                {
+                    "word": " conclusive",
+                    "start": 1.82,
+                    "end": 2.42,
+                    "probability": 0.9929734468460083
+                },
+                {
+                    "word": " as",
+                    "start": 2.42,
+                    "end": 2.84,
+                    "probability": 0.9931464791297913
+                },
+                {
+                    "word": " we",
+                    "start": 2.84,
+                    "end": 3.02,
+                    "probability": 0.9948288798332214
+                },
+                {
+                    "word": " had",
+                    "start": 3.02,
+                    "end": 3.32,
+                    "probability": 0.9921854138374329
+                },
+                {
+                    "word": " hoped.",
+                    "start": 3.32,
+                    "end": 4.0,
+                    "probability": 0.5208122134208679
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

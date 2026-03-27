@@ -1,0 +1,81 @@
+{
+    "text": " she's presenting her research at the annual confidence.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.82,
+            "text": " she's presenting her research at the annual confidence.",
+            "tokens": [
+                50364,
+                750,
+                311,
+                15578,
+                720,
+                2132,
+                412,
+                264,
+                9784,
+                6687,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34971824059119594,
+            "compression_ratio": 0.9322033898305084,
+            "no_speech_prob": 0.0041010500863194466,
+            "words": [
+                {
+                    "word": " she's",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.6419217586517334
+                },
+                {
+                    "word": " presenting",
+                    "start": 0.36,
+                    "end": 0.84,
+                    "probability": 0.9952614903450012
+                },
+                {
+                    "word": " her",
+                    "start": 0.84,
+                    "end": 1.06,
+                    "probability": 0.9889355301856995
+                },
+                {
+                    "word": " research",
+                    "start": 1.06,
+                    "end": 1.52,
+                    "probability": 0.9949988126754761
+                },
+                {
+                    "word": " at",
+                    "start": 1.52,
+                    "end": 1.78,
+                    "probability": 0.9582836627960205
+                },
+                {
+                    "word": " the",
+                    "start": 1.78,
+                    "end": 1.86,
+                    "probability": 0.9720858335494995
+                },
+                {
+                    "word": " annual",
+                    "start": 1.86,
+                    "end": 2.24,
+                    "probability": 0.9070572853088379
+                },
+                {
+                    "word": " confidence.",
+                    "start": 2.24,
+                    "end": 2.82,
+                    "probability": 0.9320144057273865
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

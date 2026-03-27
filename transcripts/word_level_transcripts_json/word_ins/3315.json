@@ -1,0 +1,94 @@
+{
+    "text": " We need to discuss the budget well for next year.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.7599999999999996,
+            "end": 4.86,
+            "text": " We need to discuss the budget well for next year.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                2248,
+                264,
+                4706,
+                731,
+                337,
+                958,
+                1064,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38787453515189035,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.07003602385520935,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.7599999999999996,
+                    "end": 1.36,
+                    "probability": 0.8011357188224792
+                },
+                {
+                    "word": " need",
+                    "start": 1.36,
+                    "end": 1.54,
+                    "probability": 0.9942731261253357
+                },
+                {
+                    "word": " to",
+                    "start": 1.54,
+                    "end": 1.74,
+                    "probability": 0.9972257018089294
+                },
+                {
+                    "word": " discuss",
+                    "start": 1.74,
+                    "end": 2.06,
+                    "probability": 0.9921019673347473
+                },
+                {
+                    "word": " the",
+                    "start": 2.06,
+                    "end": 2.34,
+                    "probability": 0.9884417057037354
+                },
+                {
+                    "word": " budget",
+                    "start": 2.34,
+                    "end": 2.64,
+                    "probability": 0.9774271249771118
+                },
+                {
+                    "word": " well",
+                    "start": 2.64,
+                    "end": 2.98,
+                    "probability": 0.949994683265686
+                },
+                {
+                    "word": " for",
+                    "start": 2.98,
+                    "end": 4.26,
+                    "probability": 0.5623149871826172
+                },
+                {
+                    "word": " next",
+                    "start": 4.26,
+                    "end": 4.54,
+                    "probability": 0.9703230857849121
+                },
+                {
+                    "word": " year.",
+                    "start": 4.54,
+                    "end": 4.86,
+                    "probability": 0.9951139688491821
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

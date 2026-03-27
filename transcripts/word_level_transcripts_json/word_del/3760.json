@@ -1,0 +1,94 @@
+{
+    "text": " The new security protocol implemented across all departments next month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.5,
+            "text": " The new security protocol implemented across all departments next month.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                3825,
+                10336,
+                12270,
+                2108,
+                439,
+                15326,
+                958,
+                1618,
+                13,
+                50548
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4287165233067104,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.0048950957134366035,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.3271747827529907
+                },
+                {
+                    "word": " new",
+                    "start": 0.1,
+                    "end": 0.26,
+                    "probability": 0.9775663018226624
+                },
+                {
+                    "word": " security",
+                    "start": 0.26,
+                    "end": 0.7,
+                    "probability": 0.8077773451805115
+                },
+                {
+                    "word": " protocol",
+                    "start": 0.7,
+                    "end": 1.2,
+                    "probability": 0.7072619199752808
+                },
+                {
+                    "word": " implemented",
+                    "start": 1.2,
+                    "end": 1.76,
+                    "probability": 0.43332067131996155
+                },
+                {
+                    "word": " across",
+                    "start": 1.76,
+                    "end": 2.18,
+                    "probability": 0.9919525980949402
+                },
+                {
+                    "word": " all",
+                    "start": 2.18,
+                    "end": 2.38,
+                    "probability": 0.966144859790802
+                },
+                {
+                    "word": " departments",
+                    "start": 2.38,
+                    "end": 2.86,
+                    "probability": 0.946675717830658
+                },
+                {
+                    "word": " next",
+                    "start": 2.86,
+                    "end": 3.16,
+                    "probability": 0.9856253266334534
+                },
+                {
+                    "word": " month.",
+                    "start": 3.16,
+                    "end": 3.5,
+                    "probability": 0.997008740901947
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

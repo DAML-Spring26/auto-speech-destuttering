@@ -1,0 +1,80 @@
+{
+    "text": " We need to focus improving our CL strategy.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.2,
+            "text": " We need to focus improving our CL strategy.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                1879,
+                11470,
+                527,
+                12855,
+                5206,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.43771711985270184,
+            "compression_ratio": 0.8431372549019608,
+            "no_speech_prob": 0.004463225603103638,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5712419748306274
+                },
+                {
+                    "word": " need",
+                    "start": 0.12,
+                    "end": 0.24,
+                    "probability": 0.9962716102600098
+                },
+                {
+                    "word": " to",
+                    "start": 0.24,
+                    "end": 0.38,
+                    "probability": 0.9950188398361206
+                },
+                {
+                    "word": " focus",
+                    "start": 0.38,
+                    "end": 0.68,
+                    "probability": 0.9945918917655945
+                },
+                {
+                    "word": " improving",
+                    "start": 0.68,
+                    "end": 1.2,
+                    "probability": 0.522550642490387
+                },
+                {
+                    "word": " our",
+                    "start": 1.2,
+                    "end": 1.38,
+                    "probability": 0.9813686609268188
+                },
+                {
+                    "word": " CL",
+                    "start": 1.38,
+                    "end": 1.64,
+                    "probability": 0.6819082498550415
+                },
+                {
+                    "word": " strategy.",
+                    "start": 1.64,
+                    "end": 2.2,
+                    "probability": 0.6592428684234619
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,95 @@
+{
+    "text": " We advise to diversify our investment portfolio to minimize risk.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.08,
+            "text": " We advise to diversify our investment portfolio to minimize risk.",
+            "tokens": [
+                50364,
+                492,
+                18312,
+                281,
+                6111,
+                2505,
+                527,
+                6078,
+                12583,
+                281,
+                17522,
+                3148,
+                13,
+                50636
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26397794087727866,
+            "compression_ratio": 0.9701492537313433,
+            "no_speech_prob": 0.0059685190208256245,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8423637747764587
+                },
+                {
+                    "word": " advise",
+                    "start": 0.14,
+                    "end": 0.66,
+                    "probability": 0.911412239074707
+                },
+                {
+                    "word": " to",
+                    "start": 0.66,
+                    "end": 1.0,
+                    "probability": 0.9381750822067261
+                },
+                {
+                    "word": " diversify",
+                    "start": 1.0,
+                    "end": 1.82,
+                    "probability": 0.9971719682216644
+                },
+                {
+                    "word": " our",
+                    "start": 1.82,
+                    "end": 2.1,
+                    "probability": 0.996492326259613
+                },
+                {
+                    "word": " investment",
+                    "start": 2.1,
+                    "end": 2.58,
+                    "probability": 0.953733503818512
+                },
+                {
+                    "word": " portfolio",
+                    "start": 2.58,
+                    "end": 3.42,
+                    "probability": 0.9749157428741455
+                },
+                {
+                    "word": " to",
+                    "start": 3.42,
+                    "end": 4.04,
+                    "probability": 0.9928969740867615
+                },
+                {
+                    "word": " minimize",
+                    "start": 4.04,
+                    "end": 4.44,
+                    "probability": 0.948986291885376
+                },
+                {
+                    "word": " risk.",
+                    "start": 4.44,
+                    "end": 5.08,
+                    "probability": 0.9734978079795837
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

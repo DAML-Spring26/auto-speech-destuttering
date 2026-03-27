@@ -1,12 +1,12 @@
 {
-    "text": " We implemented new security measures to protect sensitive data.",
+    "text": " We implemented new security measures to protect sensitive.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 3.0,
-            "text": " We implemented new security measures to protect sensitive data.",
+            "end": 2.4,
+            "text": " We implemented new security measures to protect sensitive.",
             "tokens": [
                 50364,
                 492,
@@ -17,14 +17,13 @@
                 281,
                 2371,
                 9477,
-                1412,
                 13,
-                50514
+                50484
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.2924079161423903,
-            "compression_ratio": 0.9692307692307692,
-            "no_speech_prob": 0.003892868058755994
+            "avg_logprob": -0.4108397165934245,
+            "compression_ratio": 0.9206349206349206,
+            "no_speech_prob": 0.006205483339726925
         }
     ],
     "language": "en"

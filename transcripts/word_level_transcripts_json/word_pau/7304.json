@@ -1,0 +1,101 @@
+{
+    "text": " who do you please summarize the main points of the discussion?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.54,
+            "text": " who do you please summarize the main points of the discussion?",
+            "tokens": [
+                50364,
+                567,
+                360,
+                291,
+                1767,
+                20858,
+                264,
+                2135,
+                2793,
+                295,
+                264,
+                5017,
+                30,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41068038940429685,
+            "compression_ratio": 0.96875,
+            "no_speech_prob": 0.014626597054302692,
+            "words": [
+                {
+                    "word": " who",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.4437776207923889
+                },
+                {
+                    "word": " do",
+                    "start": 0.2,
+                    "end": 0.32,
+                    "probability": 0.8295440077781677
+                },
+                {
+                    "word": " you",
+                    "start": 0.32,
+                    "end": 0.46,
+                    "probability": 0.6590616703033447
+                },
+                {
+                    "word": " please",
+                    "start": 0.46,
+                    "end": 0.58,
+                    "probability": 0.801193356513977
+                },
+                {
+                    "word": " summarize",
+                    "start": 0.58,
+                    "end": 1.08,
+                    "probability": 0.9324979782104492
+                },
+                {
+                    "word": " the",
+                    "start": 1.08,
+                    "end": 1.4,
+                    "probability": 0.9821106791496277
+                },
+                {
+                    "word": " main",
+                    "start": 1.4,
+                    "end": 1.74,
+                    "probability": 0.9926763772964478
+                },
+                {
+                    "word": " points",
+                    "start": 1.74,
+                    "end": 3.6,
+                    "probability": 0.9479902982711792
+                },
+                {
+                    "word": " of",
+                    "start": 3.6,
+                    "end": 3.86,
+                    "probability": 0.9983893632888794
+                },
+                {
+                    "word": " the",
+                    "start": 3.86,
+                    "end": 4.0,
+                    "probability": 0.9879685640335083
+                },
+                {
+                    "word": " discussion?",
+                    "start": 4.0,
+                    "end": 4.54,
+                    "probability": 0.9957655668258667
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

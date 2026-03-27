@@ -1,0 +1,95 @@
+{
+    "text": " We help Mom prepare dinner for grandma's birthday celebration tonight.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.0,
+            "text": " We help Mom prepare dinner for grandma's birthday celebration tonight.",
+            "tokens": [
+                50364,
+                492,
+                854,
+                5576,
+                5940,
+                6148,
+                337,
+                15766,
+                311,
+                6154,
+                14184,
+                4440,
+                13,
+                50520
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.40700511932373046,
+            "compression_ratio": 0.9859154929577465,
+            "no_speech_prob": 0.007020764518529177,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8540173768997192
+                },
+                {
+                    "word": " help",
+                    "start": 0.14,
+                    "end": 0.32,
+                    "probability": 0.8287347555160522
+                },
+                {
+                    "word": " Mom",
+                    "start": 0.32,
+                    "end": 0.5,
+                    "probability": 0.20776338875293732
+                },
+                {
+                    "word": " prepare",
+                    "start": 0.5,
+                    "end": 0.78,
+                    "probability": 0.8410091400146484
+                },
+                {
+                    "word": " dinner",
+                    "start": 0.78,
+                    "end": 1.04,
+                    "probability": 0.9930033087730408
+                },
+                {
+                    "word": " for",
+                    "start": 1.04,
+                    "end": 1.2,
+                    "probability": 0.9959011673927307
+                },
+                {
+                    "word": " grandma's",
+                    "start": 1.2,
+                    "end": 1.76,
+                    "probability": 0.7661193907260895
+                },
+                {
+                    "word": " birthday",
+                    "start": 1.76,
+                    "end": 2.08,
+                    "probability": 0.9644258618354797
+                },
+                {
+                    "word": " celebration",
+                    "start": 2.08,
+                    "end": 2.62,
+                    "probability": 0.9910777807235718
+                },
+                {
+                    "word": " tonight.",
+                    "start": 2.62,
+                    "end": 3.0,
+                    "probability": 0.9749006628990173
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

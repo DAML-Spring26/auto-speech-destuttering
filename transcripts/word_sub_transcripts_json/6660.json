@@ -1,0 +1,88 @@
+{
+    "text": " The electrician installed new wiring in the old building.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.66,
+            "text": " The electrician installed new wiring in the old building.",
+            "tokens": [
+                50364,
+                440,
+                5210,
+                952,
+                8899,
+                777,
+                27520,
+                294,
+                264,
+                1331,
+                2390,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3980715274810791,
+            "compression_ratio": 0.9344262295081968,
+            "no_speech_prob": 0.006392809096723795,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7903087139129639
+                },
+                {
+                    "word": " electrician",
+                    "start": 0.12,
+                    "end": 0.72,
+                    "probability": 0.91302090883255
+                },
+                {
+                    "word": " installed",
+                    "start": 0.72,
+                    "end": 1.06,
+                    "probability": 0.873589813709259
+                },
+                {
+                    "word": " new",
+                    "start": 1.06,
+                    "end": 1.4,
+                    "probability": 0.9688405394554138
+                },
+                {
+                    "word": " wiring",
+                    "start": 1.4,
+                    "end": 1.84,
+                    "probability": 0.9955266118049622
+                },
+                {
+                    "word": " in",
+                    "start": 1.84,
+                    "end": 2.06,
+                    "probability": 0.5788328051567078
+                },
+                {
+                    "word": " the",
+                    "start": 2.06,
+                    "end": 2.16,
+                    "probability": 0.9086979627609253
+                },
+                {
+                    "word": " old",
+                    "start": 2.16,
+                    "end": 2.3,
+                    "probability": 0.9952449202537537
+                },
+                {
+                    "word": " building.",
+                    "start": 2.3,
+                    "end": 2.66,
+                    "probability": 0.4162291884422302
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

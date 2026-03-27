@@ -1,0 +1,73 @@
+{
+    "text": " We should invite grandma for Thanksgiving dinner.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.96,
+            "text": " We should invite grandma for Thanksgiving dinner.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                7980,
+                15766,
+                337,
+                21230,
+                6148,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3916694034229625,
+            "compression_ratio": 0.8596491228070176,
+            "no_speech_prob": 0.008063843473792076,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.52,
+                    "probability": 0.8526081442832947
+                },
+                {
+                    "word": " should",
+                    "start": 0.52,
+                    "end": 0.8,
+                    "probability": 0.989936351776123
+                },
+                {
+                    "word": " invite",
+                    "start": 0.8,
+                    "end": 1.26,
+                    "probability": 0.9754549264907837
+                },
+                {
+                    "word": " grandma",
+                    "start": 1.26,
+                    "end": 1.88,
+                    "probability": 0.45541372895240784
+                },
+                {
+                    "word": " for",
+                    "start": 1.88,
+                    "end": 2.16,
+                    "probability": 0.9862053990364075
+                },
+                {
+                    "word": " Thanksgiving",
+                    "start": 2.16,
+                    "end": 2.56,
+                    "probability": 0.7549594640731812
+                },
+                {
+                    "word": " dinner.",
+                    "start": 2.56,
+                    "end": 2.96,
+                    "probability": 0.9599661827087402
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

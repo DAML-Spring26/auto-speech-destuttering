@@ -1,0 +1,73 @@
+{
+    "text": " We need to celebrate these instruments precisely.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.68,
+            "text": " We need to celebrate these instruments precisely.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                8098,
+                613,
+                12190,
+                13402,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29679554158991034,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.008262109011411667,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.6275800466537476
+                },
+                {
+                    "word": " need",
+                    "start": 0.18,
+                    "end": 0.34,
+                    "probability": 0.996418833732605
+                },
+                {
+                    "word": " to",
+                    "start": 0.34,
+                    "end": 0.52,
+                    "probability": 0.9993129968643188
+                },
+                {
+                    "word": " celebrate",
+                    "start": 0.52,
+                    "end": 1.02,
+                    "probability": 0.9386496543884277
+                },
+                {
+                    "word": " these",
+                    "start": 1.02,
+                    "end": 1.44,
+                    "probability": 0.979758620262146
+                },
+                {
+                    "word": " instruments",
+                    "start": 1.44,
+                    "end": 1.92,
+                    "probability": 0.9948659539222717
+                },
+                {
+                    "word": " precisely.",
+                    "start": 1.92,
+                    "end": 2.68,
+                    "probability": 0.9873812198638916
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

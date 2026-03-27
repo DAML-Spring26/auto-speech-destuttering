@@ -1,0 +1,68 @@
+{
+    "text": " Digital systems purger real-time data.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.64,
+            "text": " Digital systems purger real-time data.",
+            "tokens": [
+                50364,
+                15522,
+                3652,
+                1864,
+                1321,
+                957,
+                12,
+                3766,
+                1412,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6027703682581583,
+            "compression_ratio": 0.8260869565217391,
+            "no_speech_prob": 0.012716323137283325,
+            "words": [
+                {
+                    "word": " Digital",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.39178916811943054
+                },
+                {
+                    "word": " systems",
+                    "start": 0.3,
+                    "end": 0.94,
+                    "probability": 0.7632083892822266
+                },
+                {
+                    "word": " purger",
+                    "start": 0.94,
+                    "end": 1.42,
+                    "probability": 0.49147431552410126
+                },
+                {
+                    "word": " real",
+                    "start": 1.42,
+                    "end": 1.84,
+                    "probability": 0.6762419939041138
+                },
+                {
+                    "word": "-time",
+                    "start": 1.84,
+                    "end": 2.26,
+                    "probability": 0.856240838766098
+                },
+                {
+                    "word": " data.",
+                    "start": 2.26,
+                    "end": 2.64,
+                    "probability": 0.9975295662879944
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

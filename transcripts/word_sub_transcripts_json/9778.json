@@ -1,0 +1,66 @@
+{
+    "text": " Please can find the meeting time.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.42,
+            "text": " Please can find the meeting time.",
+            "tokens": [
+                50364,
+                2555,
+                393,
+                915,
+                264,
+                3440,
+                565,
+                13,
+                50438
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4406890869140625,
+            "compression_ratio": 0.8048780487804879,
+            "no_speech_prob": 0.003340938361361623,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6863431930541992
+                },
+                {
+                    "word": " can",
+                    "start": 0.16,
+                    "end": 0.38,
+                    "probability": 0.5293142199516296
+                },
+                {
+                    "word": " find",
+                    "start": 0.38,
+                    "end": 0.64,
+                    "probability": 0.985002338886261
+                },
+                {
+                    "word": " the",
+                    "start": 0.64,
+                    "end": 0.84,
+                    "probability": 0.9861046671867371
+                },
+                {
+                    "word": " meeting",
+                    "start": 0.84,
+                    "end": 1.06,
+                    "probability": 0.9595617651939392
+                },
+                {
+                    "word": " time.",
+                    "start": 1.06,
+                    "end": 1.42,
+                    "probability": 0.9939208030700684
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

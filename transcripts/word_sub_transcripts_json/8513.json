@@ -1,0 +1,87 @@
+{
+    "text": " Could you please pass me the salt and pepper?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.84,
+            "text": " Could you please pass me the salt and pepper?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                1320,
+                385,
+                264,
+                5139,
+                293,
+                8532,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2779384943155142,
+            "compression_ratio": 0.8490566037735849,
+            "no_speech_prob": 0.00713407201692462,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.9202371835708618
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.32,
+                    "probability": 0.9954648613929749
+                },
+                {
+                    "word": " please",
+                    "start": 0.32,
+                    "end": 0.56,
+                    "probability": 0.9862868189811707
+                },
+                {
+                    "word": " pass",
+                    "start": 0.56,
+                    "end": 0.84,
+                    "probability": 0.9852263331413269
+                },
+                {
+                    "word": " me",
+                    "start": 0.84,
+                    "end": 1.0,
+                    "probability": 0.9919523596763611
+                },
+                {
+                    "word": " the",
+                    "start": 1.0,
+                    "end": 1.12,
+                    "probability": 0.9281103014945984
+                },
+                {
+                    "word": " salt",
+                    "start": 1.12,
+                    "end": 1.36,
+                    "probability": 0.8000019788742065
+                },
+                {
+                    "word": " and",
+                    "start": 1.36,
+                    "end": 1.54,
+                    "probability": 0.9576318860054016
+                },
+                {
+                    "word": " pepper?",
+                    "start": 1.54,
+                    "end": 1.84,
+                    "probability": 0.948363721370697
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

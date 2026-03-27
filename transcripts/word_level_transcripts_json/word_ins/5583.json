@@ -1,0 +1,124 @@
+{
+    "text": " Students who complete the extracredit assignment will receive additional points on their final grade.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 8.96,
+            "text": " Students who complete the extracredit assignment will receive additional points on their final grade.",
+            "tokens": [
+                50364,
+                17244,
+                567,
+                3566,
+                264,
+                1279,
+                12080,
+                20046,
+                15187,
+                486,
+                4774,
+                4497,
+                2793,
+                322,
+                641,
+                2572,
+                7204,
+                13,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27652552127838137,
+            "compression_ratio": 1.1744186046511629,
+            "no_speech_prob": 0.19087135791778564,
+            "words": [
+                {
+                    "word": " Students",
+                    "start": 0.0,
+                    "end": 1.32,
+                    "probability": 0.8561899065971375
+                },
+                {
+                    "word": " who",
+                    "start": 1.32,
+                    "end": 1.62,
+                    "probability": 0.979668915271759
+                },
+                {
+                    "word": " complete",
+                    "start": 1.62,
+                    "end": 2.02,
+                    "probability": 0.9898256659507751
+                },
+                {
+                    "word": " the",
+                    "start": 2.02,
+                    "end": 2.28,
+                    "probability": 0.9960899949073792
+                },
+                {
+                    "word": " extracredit",
+                    "start": 2.28,
+                    "end": 2.96,
+                    "probability": 0.5911890765031179
+                },
+                {
+                    "word": " assignment",
+                    "start": 2.96,
+                    "end": 3.56,
+                    "probability": 0.9967615008354187
+                },
+                {
+                    "word": " will",
+                    "start": 3.56,
+                    "end": 4.62,
+                    "probability": 0.9040558934211731
+                },
+                {
+                    "word": " receive",
+                    "start": 4.62,
+                    "end": 6.14,
+                    "probability": 0.9429163336753845
+                },
+                {
+                    "word": " additional",
+                    "start": 6.14,
+                    "end": 6.74,
+                    "probability": 0.9968642592430115
+                },
+                {
+                    "word": " points",
+                    "start": 6.74,
+                    "end": 7.14,
+                    "probability": 0.999180018901825
+                },
+                {
+                    "word": " on",
+                    "start": 7.14,
+                    "end": 8.1,
+                    "probability": 0.9816173315048218
+                },
+                {
+                    "word": " their",
+                    "start": 8.1,
+                    "end": 8.28,
+                    "probability": 0.9972661733627319
+                },
+                {
+                    "word": " final",
+                    "start": 8.28,
+                    "end": 8.68,
+                    "probability": 0.9985288381576538
+                },
+                {
+                    "word": " grade.",
+                    "start": 8.68,
+                    "end": 8.96,
+                    "probability": 0.9939948916435242
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

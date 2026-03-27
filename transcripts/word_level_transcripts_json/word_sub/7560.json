@@ -1,0 +1,80 @@
+{
+    "text": " The new policy will take effect next month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.88,
+            "text": " The new policy will take effect next month.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                3897,
+                486,
+                747,
+                1802,
+                958,
+                1618,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3282499710718791,
+            "compression_ratio": 0.86,
+            "no_speech_prob": 0.004922080785036087,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8464023470878601
+                },
+                {
+                    "word": " new",
+                    "start": 0.12,
+                    "end": 0.32,
+                    "probability": 0.9701448678970337
+                },
+                {
+                    "word": " policy",
+                    "start": 0.32,
+                    "end": 0.94,
+                    "probability": 0.8077288269996643
+                },
+                {
+                    "word": " will",
+                    "start": 0.94,
+                    "end": 1.38,
+                    "probability": 0.9812431931495667
+                },
+                {
+                    "word": " take",
+                    "start": 1.38,
+                    "end": 1.62,
+                    "probability": 0.991935133934021
+                },
+                {
+                    "word": " effect",
+                    "start": 1.62,
+                    "end": 2.04,
+                    "probability": 0.987429678440094
+                },
+                {
+                    "word": " next",
+                    "start": 2.04,
+                    "end": 2.5,
+                    "probability": 0.9544190764427185
+                },
+                {
+                    "word": " month.",
+                    "start": 2.5,
+                    "end": 2.88,
+                    "probability": 0.9925549626350403
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

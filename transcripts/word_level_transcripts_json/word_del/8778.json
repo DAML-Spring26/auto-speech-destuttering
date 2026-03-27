@@ -1,0 +1,101 @@
+{
+    "text": " Can you tell me the latest security patch has been installed?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.88,
+            "text": " Can you tell me the latest security patch has been installed?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                980,
+                385,
+                264,
+                6792,
+                3825,
+                9972,
+                575,
+                668,
+                8899,
+                30,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26146674156188965,
+            "compression_ratio": 0.9682539682539683,
+            "no_speech_prob": 0.005034517962485552,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.4612370729446411
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.24,
+                    "probability": 0.9765699505805969
+                },
+                {
+                    "word": " tell",
+                    "start": 0.24,
+                    "end": 0.48,
+                    "probability": 0.9962705373764038
+                },
+                {
+                    "word": " me",
+                    "start": 0.48,
+                    "end": 0.64,
+                    "probability": 0.9981258511543274
+                },
+                {
+                    "word": " the",
+                    "start": 0.64,
+                    "end": 0.78,
+                    "probability": 0.9893732666969299
+                },
+                {
+                    "word": " latest",
+                    "start": 0.78,
+                    "end": 1.1,
+                    "probability": 0.9567345380783081
+                },
+                {
+                    "word": " security",
+                    "start": 1.1,
+                    "end": 1.54,
+                    "probability": 0.98557448387146
+                },
+                {
+                    "word": " patch",
+                    "start": 1.54,
+                    "end": 2.1,
+                    "probability": 0.972250759601593
+                },
+                {
+                    "word": " has",
+                    "start": 2.1,
+                    "end": 2.26,
+                    "probability": 0.9915151596069336
+                },
+                {
+                    "word": " been",
+                    "start": 2.26,
+                    "end": 2.4,
+                    "probability": 0.9979815483093262
+                },
+                {
+                    "word": " installed?",
+                    "start": 2.4,
+                    "end": 2.88,
+                    "probability": 0.9961743354797363
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

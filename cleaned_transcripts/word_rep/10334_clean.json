@@ -1,17 +1,14 @@
 {
-    "text": " He wondered if he should accept the job offer or continue his studies.",
+    "text": " he should accept the job offer or continue his studies.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 5.28,
-            "text": " He wondered if he should accept the job offer or continue his studies.",
+            "end": 5.0,
+            "text": " he should accept the job offer or continue his studies.",
             "tokens": [
                 50364,
-                634,
-                17055,
-                498,
                 415,
                 820,
                 3241,
@@ -23,12 +20,12 @@
                 702,
                 5313,
                 13,
-                50628
+                50614
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.25865568834192615,
-            "compression_ratio": 1.0144927536231885,
-            "no_speech_prob": 0.0077170804142951965
+            "avg_logprob": -0.3766686575753348,
+            "compression_ratio": 0.9649122807017544,
+            "no_speech_prob": 0.02815895900130272
         }
     ],
     "language": "en"

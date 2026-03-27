@@ -1,0 +1,99 @@
+{
+    "text": " Check out my new gaming setup. It's awesome.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.36,
+            "text": " Check out my new gaming setup.",
+            "tokens": [
+                50364,
+                6881,
+                484,
+                452,
+                777,
+                9703,
+                8657,
+                13,
+                50594
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5076546669006348,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.011427044868469238,
+            "words": [
+                {
+                    "word": " Check",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.92519211769104
+                },
+                {
+                    "word": " out",
+                    "start": 0.16,
+                    "end": 0.38,
+                    "probability": 0.9922568798065186
+                },
+                {
+                    "word": " my",
+                    "start": 0.38,
+                    "end": 0.54,
+                    "probability": 0.9937379360198975
+                },
+                {
+                    "word": " new",
+                    "start": 0.54,
+                    "end": 0.76,
+                    "probability": 0.9856939315795898
+                },
+                {
+                    "word": " gaming",
+                    "start": 0.76,
+                    "end": 1.08,
+                    "probability": 0.9787794947624207
+                },
+                {
+                    "word": " setup.",
+                    "start": 1.08,
+                    "end": 4.36,
+                    "probability": 0.5393060445785522
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.54,
+            "end": 5.06,
+            "text": " It's awesome.",
+            "tokens": [
+                50594,
+                467,
+                311,
+                3476,
+                13,
+                50628
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5076546669006348,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.011427044868469238,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 4.54,
+                    "end": 4.74,
+                    "probability": 0.9173257350921631
+                },
+                {
+                    "word": " awesome.",
+                    "start": 4.74,
+                    "end": 5.06,
+                    "probability": 0.9791232347488403
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

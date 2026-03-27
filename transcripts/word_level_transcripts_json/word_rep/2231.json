@@ -1,0 +1,52 @@
+{
+    "text": " that the star shine.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.04,
+            "text": " that the star shine.",
+            "tokens": [
+                50364,
+                300,
+                264,
+                3543,
+                12207,
+                13,
+                50428
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6210896968841553,
+            "compression_ratio": 0.7142857142857143,
+            "no_speech_prob": 0.02075844444334507,
+            "words": [
+                {
+                    "word": " that",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7823625206947327
+                },
+                {
+                    "word": " the",
+                    "start": 0.14,
+                    "end": 0.3,
+                    "probability": 0.9774639010429382
+                },
+                {
+                    "word": " star",
+                    "start": 0.3,
+                    "end": 0.6,
+                    "probability": 0.5898829102516174
+                },
+                {
+                    "word": " shine.",
+                    "start": 0.6,
+                    "end": 1.04,
+                    "probability": 0.5184745192527771
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

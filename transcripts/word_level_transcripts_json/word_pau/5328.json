@@ -1,0 +1,119 @@
+{
+    "text": " The company's financial report shows significant growth in the last quarter.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.48,
+            "text": " The company's financial report shows",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                4669,
+                2275,
+                3110,
+                50492
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5218697124057345,
+            "compression_ratio": 1.0133333333333334,
+            "no_speech_prob": 0.006666239351034164,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.8591676354408264
+                },
+                {
+                    "word": " company's",
+                    "start": 0.1,
+                    "end": 0.7,
+                    "probability": 0.9433301985263824
+                },
+                {
+                    "word": " financial",
+                    "start": 0.7,
+                    "end": 1.2,
+                    "probability": 0.975779116153717
+                },
+                {
+                    "word": " report",
+                    "start": 1.2,
+                    "end": 1.62,
+                    "probability": 0.9556346535682678
+                },
+                {
+                    "word": " shows",
+                    "start": 1.62,
+                    "end": 2.48,
+                    "probability": 0.9966779947280884
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.48,
+            "end": 7.5,
+            "text": " significant growth in the last quarter.",
+            "tokens": [
+                50638,
+                4776,
+                4599,
+                294,
+                264,
+                1036,
+                6555,
+                13,
+                50756
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5218697124057345,
+            "compression_ratio": 1.0133333333333334,
+            "no_speech_prob": 0.006666239351034164,
+            "words": [
+                {
+                    "word": " significant",
+                    "start": 5.42,
+                    "end": 5.88,
+                    "probability": 0.4472079277038574
+                },
+                {
+                    "word": " growth",
+                    "start": 5.88,
+                    "end": 6.46,
+                    "probability": 0.9970481991767883
+                },
+                {
+                    "word": " in",
+                    "start": 6.46,
+                    "end": 6.68,
+                    "probability": 0.9943517446517944
+                },
+                {
+                    "word": " the",
+                    "start": 6.68,
+                    "end": 6.78,
+                    "probability": 0.9948300719261169
+                },
+                {
+                    "word": " last",
+                    "start": 6.78,
+                    "end": 7.0,
+                    "probability": 0.991845428943634
+                },
+                {
+                    "word": " quarter.",
+                    "start": 7.0,
+                    "end": 7.5,
+                    "probability": 0.9966273903846741
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,109 @@
+{
+    "text": " The restaurant where we had dinner last night was, was highly recommended.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.58,
+            "text": " The restaurant where we had dinner last night was, was highly recommended.",
+            "tokens": [
+                50364,
+                440,
+                6383,
+                689,
+                321,
+                632,
+                6148,
+                1036,
+                1818,
+                390,
+                11,
+                390,
+                5405,
+                9628,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2623102244208841,
+            "compression_ratio": 1.0277777777777777,
+            "no_speech_prob": 0.003127191448584199,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.8041831851005554
+                },
+                {
+                    "word": " restaurant",
+                    "start": 0.16,
+                    "end": 0.56,
+                    "probability": 0.9115055203437805
+                },
+                {
+                    "word": " where",
+                    "start": 0.56,
+                    "end": 0.92,
+                    "probability": 0.8771610856056213
+                },
+                {
+                    "word": " we",
+                    "start": 0.92,
+                    "end": 1.04,
+                    "probability": 0.9822432994842529
+                },
+                {
+                    "word": " had",
+                    "start": 1.04,
+                    "end": 1.14,
+                    "probability": 0.9842255115509033
+                },
+                {
+                    "word": " dinner",
+                    "start": 1.14,
+                    "end": 1.38,
+                    "probability": 0.9829050302505493
+                },
+                {
+                    "word": " last",
+                    "start": 1.38,
+                    "end": 1.68,
+                    "probability": 0.994513750076294
+                },
+                {
+                    "word": " night",
+                    "start": 1.68,
+                    "end": 1.94,
+                    "probability": 0.9979664087295532
+                },
+                {
+                    "word": " was,",
+                    "start": 1.94,
+                    "end": 2.32,
+                    "probability": 0.9887563586235046
+                },
+                {
+                    "word": " was",
+                    "start": 2.5,
+                    "end": 2.66,
+                    "probability": 0.9895098209381104
+                },
+                {
+                    "word": " highly",
+                    "start": 2.66,
+                    "end": 2.92,
+                    "probability": 0.9949373006820679
+                },
+                {
+                    "word": " recommended.",
+                    "start": 2.92,
+                    "end": 3.58,
+                    "probability": 0.8394734263420105
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,101 @@
+{
+    "text": " both the marketing and sales teams working on the new campaign.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.98,
+            "text": " both the marketing and sales teams working on the new campaign.",
+            "tokens": [
+                50364,
+                1293,
+                264,
+                6370,
+                293,
+                5763,
+                5491,
+                1364,
+                322,
+                264,
+                777,
+                5129,
+                13,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3010300318400065,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.005125593394041061,
+            "words": [
+                {
+                    "word": " both",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.5273541808128357
+                },
+                {
+                    "word": " the",
+                    "start": 0.2,
+                    "end": 0.34,
+                    "probability": 0.9920647740364075
+                },
+                {
+                    "word": " marketing",
+                    "start": 0.34,
+                    "end": 0.7,
+                    "probability": 0.9649834632873535
+                },
+                {
+                    "word": " and",
+                    "start": 0.7,
+                    "end": 0.96,
+                    "probability": 0.984814465045929
+                },
+                {
+                    "word": " sales",
+                    "start": 0.96,
+                    "end": 1.26,
+                    "probability": 0.9900314807891846
+                },
+                {
+                    "word": " teams",
+                    "start": 1.26,
+                    "end": 1.58,
+                    "probability": 0.8188953995704651
+                },
+                {
+                    "word": " working",
+                    "start": 1.58,
+                    "end": 2.0,
+                    "probability": 0.984157919883728
+                },
+                {
+                    "word": " on",
+                    "start": 2.0,
+                    "end": 2.3,
+                    "probability": 0.9922486543655396
+                },
+                {
+                    "word": " the",
+                    "start": 2.3,
+                    "end": 2.42,
+                    "probability": 0.9882517457008362
+                },
+                {
+                    "word": " new",
+                    "start": 2.42,
+                    "end": 2.58,
+                    "probability": 0.988676905632019
+                },
+                {
+                    "word": " campaign.",
+                    "start": 2.58,
+                    "end": 2.98,
+                    "probability": 0.9889068603515625
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

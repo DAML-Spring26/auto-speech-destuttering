@@ -1,0 +1,61 @@
+{
+    "text": " un ac gen i hefn.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.42,
+            "text": " un ac gen i hefn.",
+            "tokens": [
+                50364,
+                517,
+                696,
+                1049,
+                741,
+                415,
+                69,
+                77,
+                13,
+                50368
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.583865425803445,
+            "compression_ratio": 0.68,
+            "no_speech_prob": 0.018515542149543762,
+            "words": [
+                {
+                    "word": " un",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.012954933568835258
+                },
+                {
+                    "word": " ac",
+                    "start": 0.26,
+                    "end": 0.48,
+                    "probability": 0.0033404033165425062
+                },
+                {
+                    "word": " gen",
+                    "start": 0.48,
+                    "end": 0.56,
+                    "probability": 0.0010805455967783928
+                },
+                {
+                    "word": " i",
+                    "start": 0.56,
+                    "end": 0.74,
+                    "probability": 0.027199499309062958
+                },
+                {
+                    "word": " hefn.",
+                    "start": 0.74,
+                    "end": 1.42,
+                    "probability": 0.383546569190609
+                }
+            ]
+        }
+    ],
+    "language": "cy"
+}

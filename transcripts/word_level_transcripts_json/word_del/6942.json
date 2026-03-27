@@ -1,0 +1,73 @@
+{
+    "text": " the students preparing for their final exams.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.14,
+            "text": " the students preparing for their final exams.",
+            "tokens": [
+                50364,
+                264,
+                1731,
+                10075,
+                337,
+                641,
+                2572,
+                20514,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4140098311684348,
+            "compression_ratio": 0.8653846153846154,
+            "no_speech_prob": 0.0025107339024543762,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5867142677307129
+                },
+                {
+                    "word": " students",
+                    "start": 0.1,
+                    "end": 0.38,
+                    "probability": 0.9634326696395874
+                },
+                {
+                    "word": " preparing",
+                    "start": 0.38,
+                    "end": 0.92,
+                    "probability": 0.9573303461074829
+                },
+                {
+                    "word": " for",
+                    "start": 0.92,
+                    "end": 1.18,
+                    "probability": 0.9956144094467163
+                },
+                {
+                    "word": " their",
+                    "start": 1.18,
+                    "end": 1.32,
+                    "probability": 0.9828298687934875
+                },
+                {
+                    "word": " final",
+                    "start": 1.32,
+                    "end": 1.64,
+                    "probability": 0.9947875738143921
+                },
+                {
+                    "word": " exams.",
+                    "start": 1.64,
+                    "end": 2.14,
+                    "probability": 0.9721174836158752
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

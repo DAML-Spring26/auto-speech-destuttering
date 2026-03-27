@@ -1,0 +1,59 @@
+{
+    "text": " The presentation was well compared.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.74,
+            "text": " The presentation was well compared.",
+            "tokens": [
+                50364,
+                440,
+                5860,
+                390,
+                731,
+                5347,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.44731760025024414,
+            "compression_ratio": 0.813953488372093,
+            "no_speech_prob": 0.011243121698498726,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6086328625679016
+                },
+                {
+                    "word": " presentation",
+                    "start": 0.1,
+                    "end": 0.62,
+                    "probability": 0.9981726408004761
+                },
+                {
+                    "word": " was",
+                    "start": 0.62,
+                    "end": 1.04,
+                    "probability": 0.991046130657196
+                },
+                {
+                    "word": " well",
+                    "start": 1.04,
+                    "end": 1.26,
+                    "probability": 0.9810425043106079
+                },
+                {
+                    "word": " compared.",
+                    "start": 1.26,
+                    "end": 1.74,
+                    "probability": 0.3825053572654724
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

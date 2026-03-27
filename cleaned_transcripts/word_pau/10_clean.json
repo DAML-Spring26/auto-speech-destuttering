@@ -1,5 +1,5 @@
 {
-    "text": " Call 911 immediately. If you see any suspicious.",
+    "text": " Call 911 immediately. If you see any suspicious activity.",
     "segments": [
         {
             "id": 0,
@@ -16,16 +16,16 @@
                 50476
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.7111654281616211,
-            "compression_ratio": 0.8571428571428571,
-            "no_speech_prob": 0.029492614790797234
+            "avg_logprob": -0.6685819625854492,
+            "compression_ratio": 0.8769230769230769,
+            "no_speech_prob": 0.026094023138284683
         },
         {
             "id": 1,
             "seek": 0,
             "start": 4.48,
-            "end": 6.72,
-            "text": " If you see any suspicious.",
+            "end": 7.68,
+            "text": " If you see any suspicious activity.",
             "tokens": [
                 50588,
                 759,
@@ -33,13 +33,14 @@
                 536,
                 604,
                 17931,
+                5191,
                 13,
-                50700
+                50748
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.7111654281616211,
-            "compression_ratio": 0.8571428571428571,
-            "no_speech_prob": 0.029492614790797234
+            "avg_logprob": -0.6685819625854492,
+            "compression_ratio": 0.8769230769230769,
+            "no_speech_prob": 0.026094023138284683
         }
     ],
     "language": "en"

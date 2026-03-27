@@ -1,0 +1,66 @@
+{
+    "text": " They conducted research in molecular ecology.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.94,
+            "text": " They conducted research in molecular ecology.",
+            "tokens": [
+                50364,
+                814,
+                13809,
+                2132,
+                294,
+                19046,
+                39683,
+                13,
+                50522
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42943310737609863,
+            "compression_ratio": 0.8490566037735849,
+            "no_speech_prob": 0.0026698270812630653,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.4198753535747528
+                },
+                {
+                    "word": " conducted",
+                    "start": 0.14,
+                    "end": 0.7,
+                    "probability": 0.9722932577133179
+                },
+                {
+                    "word": " research",
+                    "start": 0.7,
+                    "end": 1.42,
+                    "probability": 0.9972162246704102
+                },
+                {
+                    "word": " in",
+                    "start": 1.42,
+                    "end": 1.76,
+                    "probability": 0.9649596214294434
+                },
+                {
+                    "word": " molecular",
+                    "start": 1.76,
+                    "end": 2.18,
+                    "probability": 0.9866791367530823
+                },
+                {
+                    "word": " ecology.",
+                    "start": 2.18,
+                    "end": 2.94,
+                    "probability": 0.966301441192627
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

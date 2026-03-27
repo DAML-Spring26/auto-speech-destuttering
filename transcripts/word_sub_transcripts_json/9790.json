@@ -1,0 +1,66 @@
+{
+    "text": " Please remember to rock the door.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.98,
+            "text": " Please remember to rock the door.",
+            "tokens": [
+                50364,
+                2555,
+                1604,
+                281,
+                3727,
+                264,
+                2853,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37791643142700193,
+            "compression_ratio": 0.8048780487804879,
+            "no_speech_prob": 0.01672379858791828,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.7161275744438171
+                },
+                {
+                    "word": " remember",
+                    "start": 0.28,
+                    "end": 0.9,
+                    "probability": 0.9760226011276245
+                },
+                {
+                    "word": " to",
+                    "start": 0.9,
+                    "end": 1.14,
+                    "probability": 0.9953095316886902
+                },
+                {
+                    "word": " rock",
+                    "start": 1.14,
+                    "end": 1.44,
+                    "probability": 0.9172776937484741
+                },
+                {
+                    "word": " the",
+                    "start": 1.44,
+                    "end": 1.68,
+                    "probability": 0.9928029179573059
+                },
+                {
+                    "word": " door.",
+                    "start": 1.68,
+                    "end": 1.98,
+                    "probability": 0.9983022212982178
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

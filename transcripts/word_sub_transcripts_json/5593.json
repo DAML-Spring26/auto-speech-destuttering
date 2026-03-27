@@ -1,0 +1,88 @@
+{
+    "text": " What's the estimated time of arrival for our plate?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.24,
+            "text": " What's the estimated time of arrival for our plate?",
+            "tokens": [
+                50364,
+                708,
+                311,
+                264,
+                14109,
+                565,
+                295,
+                18365,
+                337,
+                527,
+                5924,
+                30,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3604208060673305,
+            "compression_ratio": 0.9107142857142857,
+            "no_speech_prob": 0.004383201710879803,
+            "words": [
+                {
+                    "word": " What's",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.849135547876358
+                },
+                {
+                    "word": " the",
+                    "start": 0.36,
+                    "end": 0.44,
+                    "probability": 0.9963483214378357
+                },
+                {
+                    "word": " estimated",
+                    "start": 0.44,
+                    "end": 0.8,
+                    "probability": 0.8886572122573853
+                },
+                {
+                    "word": " time",
+                    "start": 0.8,
+                    "end": 1.2,
+                    "probability": 0.9926286935806274
+                },
+                {
+                    "word": " of",
+                    "start": 1.2,
+                    "end": 1.38,
+                    "probability": 0.7871699929237366
+                },
+                {
+                    "word": " arrival",
+                    "start": 1.38,
+                    "end": 1.64,
+                    "probability": 0.6559099555015564
+                },
+                {
+                    "word": " for",
+                    "start": 1.64,
+                    "end": 1.9,
+                    "probability": 0.9771378040313721
+                },
+                {
+                    "word": " our",
+                    "start": 1.9,
+                    "end": 2.0,
+                    "probability": 0.9870629906654358
+                },
+                {
+                    "word": " plate?",
+                    "start": 2.0,
+                    "end": 2.24,
+                    "probability": 0.7919748425483704
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

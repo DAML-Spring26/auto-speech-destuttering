@@ -1,0 +1,101 @@
+{
+    "text": " the team working overtime to finish the project before the deadline.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.42,
+            "text": " the team working overtime to finish the project before the deadline.",
+            "tokens": [
+                50364,
+                264,
+                1469,
+                1364,
+                29863,
+                281,
+                2413,
+                264,
+                1716,
+                949,
+                264,
+                20615,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32948195139567055,
+            "compression_ratio": 1.0303030303030303,
+            "no_speech_prob": 0.001602741307578981,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.5351720452308655
+                },
+                {
+                    "word": " team",
+                    "start": 0.16,
+                    "end": 0.42,
+                    "probability": 0.7952647805213928
+                },
+                {
+                    "word": " working",
+                    "start": 0.42,
+                    "end": 0.72,
+                    "probability": 0.8019932508468628
+                },
+                {
+                    "word": " overtime",
+                    "start": 0.72,
+                    "end": 1.32,
+                    "probability": 0.4620983600616455
+                },
+                {
+                    "word": " to",
+                    "start": 1.32,
+                    "end": 1.58,
+                    "probability": 0.9834808707237244
+                },
+                {
+                    "word": " finish",
+                    "start": 1.58,
+                    "end": 1.88,
+                    "probability": 0.9976897239685059
+                },
+                {
+                    "word": " the",
+                    "start": 1.88,
+                    "end": 2.1,
+                    "probability": 0.990912914276123
+                },
+                {
+                    "word": " project",
+                    "start": 2.1,
+                    "end": 2.5,
+                    "probability": 0.9985516667366028
+                },
+                {
+                    "word": " before",
+                    "start": 2.5,
+                    "end": 2.88,
+                    "probability": 0.9841101169586182
+                },
+                {
+                    "word": " the",
+                    "start": 2.88,
+                    "end": 3.08,
+                    "probability": 0.9876000881195068
+                },
+                {
+                    "word": " deadline.",
+                    "start": 3.08,
+                    "end": 3.42,
+                    "probability": 0.9973034858703613
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

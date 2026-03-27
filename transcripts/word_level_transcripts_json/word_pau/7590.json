@@ -1,0 +1,73 @@
+{
+    "text": " The concert takes its soul up quickly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.3,
+            "text": " The concert takes its soul up quickly.",
+            "tokens": [
+                50364,
+                440,
+                8543,
+                2516,
+                1080,
+                5133,
+                493,
+                2661,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6545014814897017,
+            "compression_ratio": 0.8260869565217391,
+            "no_speech_prob": 0.00919762346893549,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6810140609741211
+                },
+                {
+                    "word": " concert",
+                    "start": 0.1,
+                    "end": 0.54,
+                    "probability": 0.48736074566841125
+                },
+                {
+                    "word": " takes",
+                    "start": 0.54,
+                    "end": 0.94,
+                    "probability": 0.4467865526676178
+                },
+                {
+                    "word": " its",
+                    "start": 0.94,
+                    "end": 1.28,
+                    "probability": 0.6971580982208252
+                },
+                {
+                    "word": " soul",
+                    "start": 1.28,
+                    "end": 1.58,
+                    "probability": 0.46056509017944336
+                },
+                {
+                    "word": " up",
+                    "start": 1.58,
+                    "end": 4.8,
+                    "probability": 0.5480588674545288
+                },
+                {
+                    "word": " quickly.",
+                    "start": 4.8,
+                    "end": 5.3,
+                    "probability": 0.9616761803627014
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

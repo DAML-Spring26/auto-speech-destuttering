@@ -1,0 +1,67 @@
+{
+    "text": " the split between department's call extension.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " the split between department's call extension.",
+            "tokens": [
+                50364,
+                264,
+                7472,
+                1296,
+                5882,
+                311,
+                818,
+                10320,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7997905557805841,
+            "compression_ratio": 0.8518518518518519,
+            "no_speech_prob": 0.007649213075637817,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7046154141426086
+                },
+                {
+                    "word": " split",
+                    "start": 0.1,
+                    "end": 0.34,
+                    "probability": 0.25337427854537964
+                },
+                {
+                    "word": " between",
+                    "start": 0.34,
+                    "end": 0.68,
+                    "probability": 0.9905920624732971
+                },
+                {
+                    "word": " department's",
+                    "start": 0.68,
+                    "end": 1.34,
+                    "probability": 0.6546772420406342
+                },
+                {
+                    "word": " call",
+                    "start": 1.34,
+                    "end": 1.5,
+                    "probability": 0.16087795794010162
+                },
+                {
+                    "word": " extension.",
+                    "start": 1.5,
+                    "end": 2.0,
+                    "probability": 0.8234402537345886
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,66 @@
+{
+    "text": " Could you please repeat the instructions?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.46,
+            "text": " Could you please repeat the instructions?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                7149,
+                264,
+                9415,
+                30,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3934446334838867,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.01726481132209301,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.9529731273651123
+                },
+                {
+                    "word": " you",
+                    "start": 0.22,
+                    "end": 0.4,
+                    "probability": 0.9987905621528625
+                },
+                {
+                    "word": " please",
+                    "start": 0.4,
+                    "end": 0.76,
+                    "probability": 0.9827202558517456
+                },
+                {
+                    "word": " repeat",
+                    "start": 0.76,
+                    "end": 1.18,
+                    "probability": 0.9972103238105774
+                },
+                {
+                    "word": " the",
+                    "start": 1.18,
+                    "end": 3.06,
+                    "probability": 0.7902826070785522
+                },
+                {
+                    "word": " instructions?",
+                    "start": 3.06,
+                    "end": 5.46,
+                    "probability": 0.9908375144004822
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

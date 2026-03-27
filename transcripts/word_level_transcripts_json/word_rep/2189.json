@@ -1,0 +1,45 @@
+{
+    "text": " She likes books.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.02,
+            "text": " She likes books.",
+            "tokens": [
+                50364,
+                1240,
+                5902,
+                3642,
+                13,
+                50434
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6093804495675224,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.018269838765263557,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.5331745743751526
+                },
+                {
+                    "word": " likes",
+                    "start": 0.24,
+                    "end": 0.64,
+                    "probability": 0.8108378648757935
+                },
+                {
+                    "word": " books.",
+                    "start": 0.64,
+                    "end": 1.02,
+                    "probability": 0.9489893913269043
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

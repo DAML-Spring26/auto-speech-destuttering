@@ -1,0 +1,80 @@
+{
+    "text": " How long have you been experiencing the system?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.08,
+            "text": " How long have you been experiencing the system?",
+            "tokens": [
+                50364,
+                1012,
+                938,
+                362,
+                291,
+                668,
+                11139,
+                264,
+                1185,
+                30,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3102797071139018,
+            "compression_ratio": 0.8703703703703703,
+            "no_speech_prob": 0.004696189891546965,
+            "words": [
+                {
+                    "word": " How",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.782541811466217
+                },
+                {
+                    "word": " long",
+                    "start": 0.14,
+                    "end": 0.34,
+                    "probability": 0.9969419836997986
+                },
+                {
+                    "word": " have",
+                    "start": 0.34,
+                    "end": 0.52,
+                    "probability": 0.994617760181427
+                },
+                {
+                    "word": " you",
+                    "start": 0.52,
+                    "end": 0.62,
+                    "probability": 0.9957899451255798
+                },
+                {
+                    "word": " been",
+                    "start": 0.62,
+                    "end": 0.72,
+                    "probability": 0.9964218139648438
+                },
+                {
+                    "word": " experiencing",
+                    "start": 0.72,
+                    "end": 1.28,
+                    "probability": 0.9898607730865479
+                },
+                {
+                    "word": " the",
+                    "start": 1.28,
+                    "end": 1.6,
+                    "probability": 0.5207358598709106
+                },
+                {
+                    "word": " system?",
+                    "start": 1.6,
+                    "end": 2.08,
+                    "probability": 0.980213463306427
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

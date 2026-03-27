@@ -1,0 +1,87 @@
+{
+    "text": " I need to finish this report by tomorrow morning.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.86,
+            "text": " I need to finish this report by tomorrow morning.",
+            "tokens": [
+                50364,
+                286,
+                643,
+                281,
+                2413,
+                341,
+                2275,
+                538,
+                4153,
+                2446,
+                13,
+                50668
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34097620157095104,
+            "compression_ratio": 0.9074074074074074,
+            "no_speech_prob": 0.010239822790026665,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.9587164521217346
+                },
+                {
+                    "word": " need",
+                    "start": 0.16,
+                    "end": 0.34,
+                    "probability": 0.9910837411880493
+                },
+                {
+                    "word": " to",
+                    "start": 0.34,
+                    "end": 0.54,
+                    "probability": 0.9963635802268982
+                },
+                {
+                    "word": " finish",
+                    "start": 0.54,
+                    "end": 0.9,
+                    "probability": 0.9919233918190002
+                },
+                {
+                    "word": " this",
+                    "start": 0.9,
+                    "end": 1.18,
+                    "probability": 0.8817051649093628
+                },
+                {
+                    "word": " report",
+                    "start": 1.18,
+                    "end": 1.52,
+                    "probability": 0.9909974336624146
+                },
+                {
+                    "word": " by",
+                    "start": 1.52,
+                    "end": 1.9,
+                    "probability": 0.9092703461647034
+                },
+                {
+                    "word": " tomorrow",
+                    "start": 1.9,
+                    "end": 5.28,
+                    "probability": 0.3578864336013794
+                },
+                {
+                    "word": " morning.",
+                    "start": 5.28,
+                    "end": 5.86,
+                    "probability": 0.9797747731208801
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

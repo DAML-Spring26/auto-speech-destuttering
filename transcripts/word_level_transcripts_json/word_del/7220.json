@@ -1,0 +1,59 @@
+{
+    "text": " the team achieve significant progress.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.88,
+            "text": " the team achieve significant progress.",
+            "tokens": [
+                50364,
+                264,
+                1469,
+                4584,
+                4776,
+                4205,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5407649146185981,
+            "compression_ratio": 0.8260869565217391,
+            "no_speech_prob": 0.0046789273619651794,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.3114834725856781
+                },
+                {
+                    "word": " team",
+                    "start": 0.14,
+                    "end": 0.4,
+                    "probability": 0.7620434165000916
+                },
+                {
+                    "word": " achieve",
+                    "start": 0.4,
+                    "end": 0.74,
+                    "probability": 0.7164100408554077
+                },
+                {
+                    "word": " significant",
+                    "start": 0.74,
+                    "end": 1.36,
+                    "probability": 0.9958221912384033
+                },
+                {
+                    "word": " progress.",
+                    "start": 1.36,
+                    "end": 1.88,
+                    "probability": 0.9996464252471924
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

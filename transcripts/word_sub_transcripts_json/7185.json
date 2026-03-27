@@ -1,0 +1,74 @@
+{
+    "text": " She's writing her dissertation on medieval literature.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.58,
+            "text": " She's writing her dissertation on medieval literature.",
+            "tokens": [
+                50364,
+                1240,
+                311,
+                3579,
+                720,
+                39555,
+                322,
+                24078,
+                10394,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3186010718345642,
+            "compression_ratio": 0.9,
+            "no_speech_prob": 0.0030309914145618677,
+            "words": [
+                {
+                    "word": " She's",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.730220764875412
+                },
+                {
+                    "word": " writing",
+                    "start": 0.36,
+                    "end": 0.76,
+                    "probability": 0.9952048063278198
+                },
+                {
+                    "word": " her",
+                    "start": 0.76,
+                    "end": 1.08,
+                    "probability": 0.9948927164077759
+                },
+                {
+                    "word": " dissertation",
+                    "start": 1.08,
+                    "end": 1.86,
+                    "probability": 0.9954030513763428
+                },
+                {
+                    "word": " on",
+                    "start": 1.86,
+                    "end": 2.26,
+                    "probability": 0.9928280711174011
+                },
+                {
+                    "word": " medieval",
+                    "start": 2.26,
+                    "end": 2.76,
+                    "probability": 0.8939593434333801
+                },
+                {
+                    "word": " literature.",
+                    "start": 2.76,
+                    "end": 3.58,
+                    "probability": 0.9995525479316711
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

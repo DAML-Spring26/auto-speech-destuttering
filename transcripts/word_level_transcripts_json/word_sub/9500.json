@@ -1,0 +1,52 @@
+{
+    "text": " She likes sweet handy.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.1,
+            "text": " She likes sweet handy.",
+            "tokens": [
+                50364,
+                1240,
+                5902,
+                3844,
+                13239,
+                13,
+                50428
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6451260447502136,
+            "compression_ratio": 0.7333333333333333,
+            "no_speech_prob": 0.008883661590516567,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.7159512639045715
+                },
+                {
+                    "word": " likes",
+                    "start": 0.24,
+                    "end": 0.42,
+                    "probability": 0.9566209316253662
+                },
+                {
+                    "word": " sweet",
+                    "start": 0.42,
+                    "end": 0.72,
+                    "probability": 0.6227566003799438
+                },
+                {
+                    "word": " handy.",
+                    "start": 0.72,
+                    "end": 1.1,
+                    "probability": 0.4789124131202698
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

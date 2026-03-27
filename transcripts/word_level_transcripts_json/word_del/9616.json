@@ -1,0 +1,108 @@
+{
+    "text": " The doctor will review your test results and contact you with findings.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.88,
+            "text": " The doctor will review your test results and contact you with findings.",
+            "tokens": [
+                50364,
+                440,
+                4631,
+                486,
+                3131,
+                428,
+                1500,
+                3542,
+                293,
+                3385,
+                291,
+                365,
+                16483,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24264448881149292,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.0056694126687943935,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.8827198147773743
+                },
+                {
+                    "word": " doctor",
+                    "start": 0.1,
+                    "end": 0.4,
+                    "probability": 0.9223957061767578
+                },
+                {
+                    "word": " will",
+                    "start": 0.4,
+                    "end": 0.58,
+                    "probability": 0.9972155094146729
+                },
+                {
+                    "word": " review",
+                    "start": 0.58,
+                    "end": 0.86,
+                    "probability": 0.9320117235183716
+                },
+                {
+                    "word": " your",
+                    "start": 0.86,
+                    "end": 1.02,
+                    "probability": 0.9687923192977905
+                },
+                {
+                    "word": " test",
+                    "start": 1.02,
+                    "end": 1.24,
+                    "probability": 0.9793323278427124
+                },
+                {
+                    "word": " results",
+                    "start": 1.24,
+                    "end": 1.54,
+                    "probability": 0.9987059831619263
+                },
+                {
+                    "word": " and",
+                    "start": 1.54,
+                    "end": 1.78,
+                    "probability": 0.9454666972160339
+                },
+                {
+                    "word": " contact",
+                    "start": 1.78,
+                    "end": 2.16,
+                    "probability": 0.9972959160804749
+                },
+                {
+                    "word": " you",
+                    "start": 2.16,
+                    "end": 2.4,
+                    "probability": 0.9934897422790527
+                },
+                {
+                    "word": " with",
+                    "start": 2.4,
+                    "end": 2.52,
+                    "probability": 0.9945059418678284
+                },
+                {
+                    "word": " findings.",
+                    "start": 2.52,
+                    "end": 2.88,
+                    "probability": 0.9863748550415039
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

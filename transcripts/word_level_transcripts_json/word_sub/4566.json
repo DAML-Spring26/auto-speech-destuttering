@@ -1,0 +1,82 @@
+{
+    "text": " The scientist conducted an experiment on cellulone inspiration.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.62,
+            "text": " The scientist conducted an experiment on cellulone inspiration.",
+            "tokens": [
+                50364,
+                440,
+                12662,
+                13809,
+                364,
+                5120,
+                322,
+                2815,
+                425,
+                546,
+                10249,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38278392383030485,
+            "compression_ratio": 0.9692307692307692,
+            "no_speech_prob": 0.0028519637417048216,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7533773183822632
+                },
+                {
+                    "word": " scientist",
+                    "start": 0.14,
+                    "end": 0.64,
+                    "probability": 0.862333357334137
+                },
+                {
+                    "word": " conducted",
+                    "start": 0.64,
+                    "end": 1.28,
+                    "probability": 0.9966379404067993
+                },
+                {
+                    "word": " an",
+                    "start": 1.28,
+                    "end": 1.54,
+                    "probability": 0.9875341653823853
+                },
+                {
+                    "word": " experiment",
+                    "start": 1.54,
+                    "end": 2.14,
+                    "probability": 0.9979155659675598
+                },
+                {
+                    "word": " on",
+                    "start": 2.14,
+                    "end": 2.46,
+                    "probability": 0.9961313009262085
+                },
+                {
+                    "word": " cellulone",
+                    "start": 2.46,
+                    "end": 3.12,
+                    "probability": 0.7839510440826416
+                },
+                {
+                    "word": " inspiration.",
+                    "start": 3.12,
+                    "end": 3.62,
+                    "probability": 0.1977379024028778
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

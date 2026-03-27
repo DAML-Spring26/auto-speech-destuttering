@@ -1,0 +1,101 @@
+{
+    "text": " The concert was so amazing I lost my voice from cheering.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.2,
+            "text": " The concert was so amazing I lost my voice from cheering.",
+            "tokens": [
+                50364,
+                440,
+                8543,
+                390,
+                370,
+                2243,
+                286,
+                2731,
+                452,
+                3177,
+                490,
+                11060,
+                13,
+                50534
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28947089513142904,
+            "compression_ratio": 0.890625,
+            "no_speech_prob": 0.007626981008797884,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7812318205833435
+                },
+                {
+                    "word": " concert",
+                    "start": 0.1,
+                    "end": 0.5,
+                    "probability": 0.963204562664032
+                },
+                {
+                    "word": " was",
+                    "start": 0.5,
+                    "end": 0.82,
+                    "probability": 0.9889993071556091
+                },
+                {
+                    "word": " so",
+                    "start": 0.82,
+                    "end": 1.02,
+                    "probability": 0.9974466562271118
+                },
+                {
+                    "word": " amazing",
+                    "start": 1.02,
+                    "end": 1.48,
+                    "probability": 0.9943224191665649
+                },
+                {
+                    "word": " I",
+                    "start": 1.48,
+                    "end": 1.72,
+                    "probability": 0.40582942962646484
+                },
+                {
+                    "word": " lost",
+                    "start": 1.72,
+                    "end": 1.98,
+                    "probability": 0.9943645000457764
+                },
+                {
+                    "word": " my",
+                    "start": 1.98,
+                    "end": 2.22,
+                    "probability": 0.9983780384063721
+                },
+                {
+                    "word": " voice",
+                    "start": 2.22,
+                    "end": 2.54,
+                    "probability": 0.9974638223648071
+                },
+                {
+                    "word": " from",
+                    "start": 2.54,
+                    "end": 2.76,
+                    "probability": 0.9847797751426697
+                },
+                {
+                    "word": " cheering.",
+                    "start": 2.76,
+                    "end": 3.2,
+                    "probability": 0.9366909861564636
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

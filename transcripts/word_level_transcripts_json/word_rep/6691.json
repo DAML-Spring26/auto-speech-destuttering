@@ -1,0 +1,81 @@
+{
+    "text": " The company's sustainability initiatives have received positive feedback.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.4,
+            "text": " The company's sustainability initiatives have received positive feedback.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                16360,
+                16194,
+                362,
+                4613,
+                3353,
+                5824,
+                13,
+                50552
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3280013891366812,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.007539663463830948,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7769989967346191
+                },
+                {
+                    "word": " company's",
+                    "start": 0.1,
+                    "end": 0.64,
+                    "probability": 0.9648217558860779
+                },
+                {
+                    "word": " sustainability",
+                    "start": 0.64,
+                    "end": 1.24,
+                    "probability": 0.9692267179489136
+                },
+                {
+                    "word": " initiatives",
+                    "start": 1.24,
+                    "end": 1.82,
+                    "probability": 0.99639892578125
+                },
+                {
+                    "word": " have",
+                    "start": 1.82,
+                    "end": 2.18,
+                    "probability": 0.9930174350738525
+                },
+                {
+                    "word": " received",
+                    "start": 2.18,
+                    "end": 2.7,
+                    "probability": 0.5189184546470642
+                },
+                {
+                    "word": " positive",
+                    "start": 2.7,
+                    "end": 3.04,
+                    "probability": 0.9689337611198425
+                },
+                {
+                    "word": " feedback.",
+                    "start": 3.04,
+                    "end": 3.4,
+                    "probability": 0.9995361566543579
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

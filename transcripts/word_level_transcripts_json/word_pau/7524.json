@@ -1,0 +1,80 @@
+{
+    "text": " Students are required to complete the assignment individually.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.82,
+            "text": " Students are required to complete the assignment individually.",
+            "tokens": [
+                50364,
+                17244,
+                366,
+                4739,
+                281,
+                3566,
+                264,
+                15187,
+                16652,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3124218185742696,
+            "compression_ratio": 0.9393939393939394,
+            "no_speech_prob": 0.00553863076493144,
+            "words": [
+                {
+                    "word": " Students",
+                    "start": 0.0,
+                    "end": 0.46,
+                    "probability": 0.8935815691947937
+                },
+                {
+                    "word": " are",
+                    "start": 0.46,
+                    "end": 0.72,
+                    "probability": 0.9957098960876465
+                },
+                {
+                    "word": " required",
+                    "start": 0.72,
+                    "end": 1.16,
+                    "probability": 0.9978964328765869
+                },
+                {
+                    "word": " to",
+                    "start": 1.16,
+                    "end": 1.54,
+                    "probability": 0.992333173751831
+                },
+                {
+                    "word": " complete",
+                    "start": 1.54,
+                    "end": 3.32,
+                    "probability": 0.9498828053474426
+                },
+                {
+                    "word": " the",
+                    "start": 3.32,
+                    "end": 3.58,
+                    "probability": 0.9641880989074707
+                },
+                {
+                    "word": " assignment",
+                    "start": 3.58,
+                    "end": 4.1,
+                    "probability": 0.9707382917404175
+                },
+                {
+                    "word": " individually.",
+                    "start": 4.1,
+                    "end": 4.82,
+                    "probability": 0.9994572997093201
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

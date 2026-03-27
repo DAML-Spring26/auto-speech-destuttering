@@ -1,0 +1,101 @@
+{
+    "text": " The students and the teachers were excited about the field trip.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.58,
+            "text": " The students and the teachers were excited about the field trip.",
+            "tokens": [
+                50364,
+                440,
+                1731,
+                293,
+                264,
+                6023,
+                645,
+                2919,
+                466,
+                264,
+                2519,
+                4931,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29831024805704753,
+            "compression_ratio": 0.9696969696969697,
+            "no_speech_prob": 0.003498128615319729,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.46114644408226013
+                },
+                {
+                    "word": " students",
+                    "start": 0.12,
+                    "end": 0.58,
+                    "probability": 0.9953409433364868
+                },
+                {
+                    "word": " and",
+                    "start": 0.58,
+                    "end": 1.02,
+                    "probability": 0.9736437797546387
+                },
+                {
+                    "word": " the",
+                    "start": 1.02,
+                    "end": 1.16,
+                    "probability": 0.9520310163497925
+                },
+                {
+                    "word": " teachers",
+                    "start": 1.16,
+                    "end": 1.56,
+                    "probability": 0.9938336610794067
+                },
+                {
+                    "word": " were",
+                    "start": 1.56,
+                    "end": 1.82,
+                    "probability": 0.9903470873832703
+                },
+                {
+                    "word": " excited",
+                    "start": 1.82,
+                    "end": 2.42,
+                    "probability": 0.9946812987327576
+                },
+                {
+                    "word": " about",
+                    "start": 2.42,
+                    "end": 2.78,
+                    "probability": 0.9974721074104309
+                },
+                {
+                    "word": " the",
+                    "start": 2.78,
+                    "end": 2.96,
+                    "probability": 0.9873608350753784
+                },
+                {
+                    "word": " field",
+                    "start": 2.96,
+                    "end": 3.24,
+                    "probability": 0.9931483864784241
+                },
+                {
+                    "word": " trip.",
+                    "start": 3.24,
+                    "end": 3.58,
+                    "probability": 0.987395167350769
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

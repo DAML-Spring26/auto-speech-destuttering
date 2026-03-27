@@ -1,0 +1,68 @@
+{
+    "text": " She catalyzed the market trends carefully.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.16,
+            "text": " She catalyzed the market trends carefully.",
+            "tokens": [
+                50364,
+                1240,
+                3857,
+                5222,
+                11312,
+                264,
+                2142,
+                13892,
+                7500,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27068819602330524,
+            "compression_ratio": 0.8936170212765957,
+            "no_speech_prob": 0.0036640260368585587,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.7722025513648987
+                },
+                {
+                    "word": " catalyzed",
+                    "start": 0.18,
+                    "end": 0.82,
+                    "probability": 0.9721575379371643
+                },
+                {
+                    "word": " the",
+                    "start": 0.82,
+                    "end": 0.94,
+                    "probability": 0.9955442547798157
+                },
+                {
+                    "word": " market",
+                    "start": 0.94,
+                    "end": 1.24,
+                    "probability": 0.9877209067344666
+                },
+                {
+                    "word": " trends",
+                    "start": 1.24,
+                    "end": 1.68,
+                    "probability": 0.8531283736228943
+                },
+                {
+                    "word": " carefully.",
+                    "start": 1.68,
+                    "end": 2.16,
+                    "probability": 0.9956790804862976
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

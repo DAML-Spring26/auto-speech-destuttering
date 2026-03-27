@@ -1,0 +1,119 @@
+{
+    "text": " The new employee orientation session is scheduled for next Tuesday. The...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.34,
+            "text": " The new employee orientation session is scheduled for next Tuesday.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                10738,
+                14764,
+                5481,
+                307,
+                15678,
+                337,
+                958,
+                10017,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37004873487684464,
+            "compression_ratio": 1.0136986301369864,
+            "no_speech_prob": 0.28701677918434143,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 1.46,
+                    "probability": 0.8503214120864868
+                },
+                {
+                    "word": " new",
+                    "start": 1.46,
+                    "end": 1.72,
+                    "probability": 0.7615188956260681
+                },
+                {
+                    "word": " employee",
+                    "start": 1.72,
+                    "end": 2.32,
+                    "probability": 0.6055505275726318
+                },
+                {
+                    "word": " orientation",
+                    "start": 2.32,
+                    "end": 2.98,
+                    "probability": 0.9864094257354736
+                },
+                {
+                    "word": " session",
+                    "start": 2.98,
+                    "end": 3.88,
+                    "probability": 0.9878972768783569
+                },
+                {
+                    "word": " is",
+                    "start": 3.88,
+                    "end": 4.46,
+                    "probability": 0.9445808529853821
+                },
+                {
+                    "word": " scheduled",
+                    "start": 4.46,
+                    "end": 5.0,
+                    "probability": 0.9997472167015076
+                },
+                {
+                    "word": " for",
+                    "start": 5.0,
+                    "end": 5.34,
+                    "probability": 0.9963984489440918
+                },
+                {
+                    "word": " next",
+                    "start": 5.34,
+                    "end": 5.7,
+                    "probability": 0.982437014579773
+                },
+                {
+                    "word": " Tuesday.",
+                    "start": 5.7,
+                    "end": 6.34,
+                    "probability": 0.9971321821212769
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.12,
+            "end": 8.04,
+            "text": " The...",
+            "tokens": [
+                50714,
+                440,
+                485,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37004873487684464,
+            "compression_ratio": 1.0136986301369864,
+            "no_speech_prob": 0.28701677918434143,
+            "words": [
+                {
+                    "word": " The...",
+                    "start": 7.12,
+                    "end": 8.04,
+                    "probability": 0.40793049335479736
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

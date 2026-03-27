@@ -1,0 +1,119 @@
+{
+    "text": " Your blood pressure is slightly elevated. We should monitor it closely.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.86,
+            "text": " Your blood pressure is slightly elevated.",
+            "tokens": [
+                50364,
+                2260,
+                3390,
+                3321,
+                307,
+                4748,
+                23457,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35204842216090154,
+            "compression_ratio": 1.0142857142857142,
+            "no_speech_prob": 0.014637582004070282,
+            "words": [
+                {
+                    "word": " Your",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.5664045810699463
+                },
+                {
+                    "word": " blood",
+                    "start": 0.16,
+                    "end": 0.44,
+                    "probability": 0.9953784942626953
+                },
+                {
+                    "word": " pressure",
+                    "start": 0.44,
+                    "end": 0.96,
+                    "probability": 0.9987127780914307
+                },
+                {
+                    "word": " is",
+                    "start": 0.96,
+                    "end": 1.4,
+                    "probability": 0.995107889175415
+                },
+                {
+                    "word": " slightly",
+                    "start": 1.4,
+                    "end": 4.02,
+                    "probability": 0.9453826546669006
+                },
+                {
+                    "word": " elevated.",
+                    "start": 4.02,
+                    "end": 4.86,
+                    "probability": 0.9991505146026611
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.28,
+            "end": 6.72,
+            "text": " We should monitor it closely.",
+            "tokens": [
+                50626,
+                492,
+                820,
+                6002,
+                309,
+                8185,
+                13,
+                50724
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35204842216090154,
+            "compression_ratio": 1.0142857142857142,
+            "no_speech_prob": 0.014637582004070282,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 5.28,
+                    "end": 5.4,
+                    "probability": 0.9923434853553772
+                },
+                {
+                    "word": " should",
+                    "start": 5.4,
+                    "end": 5.6,
+                    "probability": 0.9983832836151123
+                },
+                {
+                    "word": " monitor",
+                    "start": 5.6,
+                    "end": 6.02,
+                    "probability": 0.9993957281112671
+                },
+                {
+                    "word": " it",
+                    "start": 6.02,
+                    "end": 6.3,
+                    "probability": 0.9857748746871948
+                },
+                {
+                    "word": " closely.",
+                    "start": 6.3,
+                    "end": 6.72,
+                    "probability": 0.9983288645744324
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

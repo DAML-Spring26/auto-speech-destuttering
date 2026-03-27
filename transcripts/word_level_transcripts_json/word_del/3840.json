@@ -1,0 +1,103 @@
+{
+    "text": " We should focus on short-term goals and long-term objectives.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.96,
+            "text": " We should focus on short-term goals and long-term objectives.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                1879,
+                322,
+                2099,
+                12,
+                7039,
+                5493,
+                293,
+                938,
+                12,
+                7039,
+                15961,
+                13,
+                50584
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2889575397267061,
+            "compression_ratio": 0.9838709677419355,
+            "no_speech_prob": 0.0034590503200888634,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5217005014419556
+                },
+                {
+                    "word": " should",
+                    "start": 0.14,
+                    "end": 0.32,
+                    "probability": 0.9969610571861267
+                },
+                {
+                    "word": " focus",
+                    "start": 0.32,
+                    "end": 0.68,
+                    "probability": 0.997643768787384
+                },
+                {
+                    "word": " on",
+                    "start": 0.68,
+                    "end": 1.06,
+                    "probability": 0.9956359267234802
+                },
+                {
+                    "word": " short",
+                    "start": 1.06,
+                    "end": 1.38,
+                    "probability": 0.9869319796562195
+                },
+                {
+                    "word": "-term",
+                    "start": 1.38,
+                    "end": 1.74,
+                    "probability": 0.7767325043678284
+                },
+                {
+                    "word": " goals",
+                    "start": 1.74,
+                    "end": 2.12,
+                    "probability": 0.99196857213974
+                },
+                {
+                    "word": " and",
+                    "start": 2.12,
+                    "end": 2.48,
+                    "probability": 0.9483450651168823
+                },
+                {
+                    "word": " long",
+                    "start": 2.48,
+                    "end": 2.72,
+                    "probability": 0.9871101379394531
+                },
+                {
+                    "word": "-term",
+                    "start": 2.72,
+                    "end": 3.18,
+                    "probability": 0.961282342672348
+                },
+                {
+                    "word": " objectives.",
+                    "start": 3.18,
+                    "end": 3.96,
+                    "probability": 0.9911069273948669
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

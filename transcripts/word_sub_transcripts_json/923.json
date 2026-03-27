@@ -1,0 +1,73 @@
+{
+    "text": " They discuss the compact of climate change.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " They discuss the compact of climate change.",
+            "tokens": [
+                50364,
+                814,
+                2248,
+                264,
+                14679,
+                295,
+                5659,
+                1319,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3840469447049228,
+            "compression_ratio": 0.86,
+            "no_speech_prob": 0.011822936125099659,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6097137928009033
+                },
+                {
+                    "word": " discuss",
+                    "start": 0.14,
+                    "end": 0.44,
+                    "probability": 0.7034913897514343
+                },
+                {
+                    "word": " the",
+                    "start": 0.44,
+                    "end": 0.66,
+                    "probability": 0.9950590133666992
+                },
+                {
+                    "word": " compact",
+                    "start": 0.66,
+                    "end": 0.96,
+                    "probability": 0.9716503024101257
+                },
+                {
+                    "word": " of",
+                    "start": 0.96,
+                    "end": 1.22,
+                    "probability": 0.9862383604049683
+                },
+                {
+                    "word": " climate",
+                    "start": 1.22,
+                    "end": 1.46,
+                    "probability": 0.9170772433280945
+                },
+                {
+                    "word": " change.",
+                    "start": 1.46,
+                    "end": 2.0,
+                    "probability": 0.9992563128471375
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

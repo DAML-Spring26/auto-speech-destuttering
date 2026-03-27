@@ -1,0 +1,94 @@
+{
+    "text": " The conference will be held at the Downtown Convention Centre.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.3,
+            "text": " The conference will be held at the Downtown Convention Centre.",
+            "tokens": [
+                50364,
+                440,
+                7586,
+                486,
+                312,
+                5167,
+                412,
+                264,
+                49255,
+                26793,
+                20764,
+                13,
+                50589
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34864912714276997,
+            "compression_ratio": 0.96875,
+            "no_speech_prob": 0.010488150641322136,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7756968140602112
+                },
+                {
+                    "word": " conference",
+                    "start": 0.12,
+                    "end": 0.48,
+                    "probability": 0.9735974073410034
+                },
+                {
+                    "word": " will",
+                    "start": 0.48,
+                    "end": 0.78,
+                    "probability": 0.991898775100708
+                },
+                {
+                    "word": " be",
+                    "start": 0.78,
+                    "end": 0.94,
+                    "probability": 0.9938222169876099
+                },
+                {
+                    "word": " held",
+                    "start": 0.94,
+                    "end": 1.22,
+                    "probability": 0.9998179078102112
+                },
+                {
+                    "word": " at",
+                    "start": 1.22,
+                    "end": 1.4,
+                    "probability": 0.9874656796455383
+                },
+                {
+                    "word": " the",
+                    "start": 1.4,
+                    "end": 1.72,
+                    "probability": 0.9885547757148743
+                },
+                {
+                    "word": " Downtown",
+                    "start": 1.72,
+                    "end": 2.88,
+                    "probability": 0.752435028553009
+                },
+                {
+                    "word": " Convention",
+                    "start": 2.88,
+                    "end": 3.68,
+                    "probability": 0.8532635569572449
+                },
+                {
+                    "word": " Centre.",
+                    "start": 3.68,
+                    "end": 4.3,
+                    "probability": 0.8301534652709961
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

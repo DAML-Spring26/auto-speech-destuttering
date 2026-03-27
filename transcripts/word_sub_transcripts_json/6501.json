@@ -1,0 +1,83 @@
+{
+    "text": " Have you ever tried skydiving or bungee jumping?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.88,
+            "text": " Have you ever tried skydiving or bungee jumping?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                1562,
+                3031,
+                5443,
+                67,
+                2123,
+                420,
+                6702,
+                31577,
+                11233,
+                30,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3400390307108561,
+            "compression_ratio": 0.8727272727272727,
+            "no_speech_prob": 0.00310310535132885,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.8975673317909241
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.28,
+                    "probability": 0.9947294592857361
+                },
+                {
+                    "word": " ever",
+                    "start": 0.28,
+                    "end": 0.5,
+                    "probability": 0.9945712685585022
+                },
+                {
+                    "word": " tried",
+                    "start": 0.5,
+                    "end": 0.88,
+                    "probability": 0.9982782602310181
+                },
+                {
+                    "word": " skydiving",
+                    "start": 0.88,
+                    "end": 1.54,
+                    "probability": 0.823249876499176
+                },
+                {
+                    "word": " or",
+                    "start": 1.54,
+                    "end": 2.26,
+                    "probability": 0.8437520265579224
+                },
+                {
+                    "word": " bungee",
+                    "start": 2.26,
+                    "end": 2.58,
+                    "probability": 0.7386572360992432
+                },
+                {
+                    "word": " jumping?",
+                    "start": 2.58,
+                    "end": 2.88,
+                    "probability": 0.8244996666908264
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

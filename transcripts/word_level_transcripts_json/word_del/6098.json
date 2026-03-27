@@ -1,0 +1,102 @@
+{
+    "text": " The research team analysing the data collected from the clinical trials.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.38,
+            "text": " The research team analysing the data collected from the clinical trials.",
+            "tokens": [
+                50364,
+                440,
+                2132,
+                1469,
+                23014,
+                278,
+                264,
+                1412,
+                11087,
+                490,
+                264,
+                9115,
+                12450,
+                13,
+                50556
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2851200997829437,
+            "compression_ratio": 1.0434782608695652,
+            "no_speech_prob": 0.0035002329386770725,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.6207031011581421
+                },
+                {
+                    "word": " research",
+                    "start": 0.08,
+                    "end": 0.4,
+                    "probability": 0.8324038982391357
+                },
+                {
+                    "word": " team",
+                    "start": 0.4,
+                    "end": 0.7,
+                    "probability": 0.9499786496162415
+                },
+                {
+                    "word": " analysing",
+                    "start": 0.7,
+                    "end": 1.32,
+                    "probability": 0.9076640605926514
+                },
+                {
+                    "word": " the",
+                    "start": 1.32,
+                    "end": 1.5,
+                    "probability": 0.9781560897827148
+                },
+                {
+                    "word": " data",
+                    "start": 1.5,
+                    "end": 1.7,
+                    "probability": 0.9980960488319397
+                },
+                {
+                    "word": " collected",
+                    "start": 1.7,
+                    "end": 2.16,
+                    "probability": 0.9933379888534546
+                },
+                {
+                    "word": " from",
+                    "start": 2.16,
+                    "end": 2.44,
+                    "probability": 0.9903054237365723
+                },
+                {
+                    "word": " the",
+                    "start": 2.44,
+                    "end": 2.58,
+                    "probability": 0.9772487878799438
+                },
+                {
+                    "word": " clinical",
+                    "start": 2.58,
+                    "end": 2.88,
+                    "probability": 0.9820229411125183
+                },
+                {
+                    "word": " trials.",
+                    "start": 2.88,
+                    "end": 3.38,
+                    "probability": 0.9943395256996155
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

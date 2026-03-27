@@ -1,0 +1,80 @@
+{
+    "text": " Can you conform the shipping address for delivery?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.28,
+            "text": " Can you conform the shipping address for delivery?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                18975,
+                264,
+                14122,
+                2985,
+                337,
+                8982,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34233033657073975,
+            "compression_ratio": 0.8771929824561403,
+            "no_speech_prob": 0.027127597481012344,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.8069617748260498
+                },
+                {
+                    "word": " you",
+                    "start": 0.38,
+                    "end": 0.52,
+                    "probability": 0.9962339997291565
+                },
+                {
+                    "word": " conform",
+                    "start": 0.52,
+                    "end": 0.84,
+                    "probability": 0.6046265363693237
+                },
+                {
+                    "word": " the",
+                    "start": 0.84,
+                    "end": 1.1,
+                    "probability": 0.9530215263366699
+                },
+                {
+                    "word": " shipping",
+                    "start": 1.1,
+                    "end": 1.36,
+                    "probability": 0.9918934106826782
+                },
+                {
+                    "word": " address",
+                    "start": 1.36,
+                    "end": 1.68,
+                    "probability": 0.9960622191429138
+                },
+                {
+                    "word": " for",
+                    "start": 1.68,
+                    "end": 1.92,
+                    "probability": 0.9924076199531555
+                },
+                {
+                    "word": " delivery?",
+                    "start": 1.92,
+                    "end": 2.28,
+                    "probability": 0.9763093590736389
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

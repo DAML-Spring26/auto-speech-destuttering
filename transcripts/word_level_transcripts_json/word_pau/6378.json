@@ -1,0 +1,94 @@
+{
+    "text": " The new park features a playground and a walking trail.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.8,
+            "text": " The new park features a playground and a walking trail.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                3884,
+                4122,
+                257,
+                24646,
+                293,
+                257,
+                4494,
+                9924,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2947218758719308,
+            "compression_ratio": 0.9166666666666666,
+            "no_speech_prob": 0.004707607440650463,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.708904504776001
+                },
+                {
+                    "word": " new",
+                    "start": 0.14,
+                    "end": 0.42,
+                    "probability": 0.9609197974205017
+                },
+                {
+                    "word": " park",
+                    "start": 0.42,
+                    "end": 0.76,
+                    "probability": 0.8700656890869141
+                },
+                {
+                    "word": " features",
+                    "start": 0.76,
+                    "end": 1.28,
+                    "probability": 0.9765075445175171
+                },
+                {
+                    "word": " a",
+                    "start": 1.28,
+                    "end": 1.52,
+                    "probability": 0.9830871820449829
+                },
+                {
+                    "word": " playground",
+                    "start": 1.52,
+                    "end": 1.94,
+                    "probability": 0.9900844097137451
+                },
+                {
+                    "word": " and",
+                    "start": 1.94,
+                    "end": 2.36,
+                    "probability": 0.9570174217224121
+                },
+                {
+                    "word": " a",
+                    "start": 2.36,
+                    "end": 2.48,
+                    "probability": 0.9886291027069092
+                },
+                {
+                    "word": " walking",
+                    "start": 2.48,
+                    "end": 2.86,
+                    "probability": 0.9718611836433411
+                },
+                {
+                    "word": " trail.",
+                    "start": 2.86,
+                    "end": 5.8,
+                    "probability": 0.683836042881012
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

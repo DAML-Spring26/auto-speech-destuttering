@@ -1,0 +1,52 @@
+{
+    "text": " Please clarify the information.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.82,
+            "text": " Please clarify the information.",
+            "tokens": [
+                50364,
+                2555,
+                17594,
+                264,
+                1589,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40169769525527954,
+            "compression_ratio": 0.7948717948717948,
+            "no_speech_prob": 0.016629328951239586,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.6845261454582214
+                },
+                {
+                    "word": " clarify",
+                    "start": 0.24,
+                    "end": 0.84,
+                    "probability": 0.9727559685707092
+                },
+                {
+                    "word": " the",
+                    "start": 0.84,
+                    "end": 1.08,
+                    "probability": 0.971490740776062
+                },
+                {
+                    "word": " information.",
+                    "start": 1.08,
+                    "end": 1.82,
+                    "probability": 0.9942079782485962
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

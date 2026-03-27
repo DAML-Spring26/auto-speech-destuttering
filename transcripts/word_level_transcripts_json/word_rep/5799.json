@@ -1,0 +1,108 @@
+{
+    "text": " Could you please provide more details about the incident that occurred yesterday?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.34,
+            "text": " Could you please provide more details about the incident that occurred yesterday?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                2893,
+                544,
+                4365,
+                466,
+                264,
+                9348,
+                300,
+                11068,
+                5186,
+                30,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25926274061203003,
+            "compression_ratio": 1.051948051948052,
+            "no_speech_prob": 0.010685058310627937,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.9463037252426147
+                },
+                {
+                    "word": " you",
+                    "start": 0.22,
+                    "end": 0.44,
+                    "probability": 0.9971392154693604
+                },
+                {
+                    "word": " please",
+                    "start": 0.44,
+                    "end": 0.78,
+                    "probability": 0.9787651896476746
+                },
+                {
+                    "word": " provide",
+                    "start": 0.78,
+                    "end": 1.14,
+                    "probability": 0.9573097825050354
+                },
+                {
+                    "word": " more",
+                    "start": 1.14,
+                    "end": 1.42,
+                    "probability": 0.9941396713256836
+                },
+                {
+                    "word": " details",
+                    "start": 1.42,
+                    "end": 1.88,
+                    "probability": 0.98265540599823
+                },
+                {
+                    "word": " about",
+                    "start": 1.88,
+                    "end": 2.32,
+                    "probability": 0.9837928414344788
+                },
+                {
+                    "word": " the",
+                    "start": 2.32,
+                    "end": 2.56,
+                    "probability": 0.975897490978241
+                },
+                {
+                    "word": " incident",
+                    "start": 2.56,
+                    "end": 2.86,
+                    "probability": 0.992283284664154
+                },
+                {
+                    "word": " that",
+                    "start": 2.86,
+                    "end": 3.24,
+                    "probability": 0.9871013164520264
+                },
+                {
+                    "word": " occurred",
+                    "start": 3.24,
+                    "end": 3.76,
+                    "probability": 0.7441629767417908
+                },
+                {
+                    "word": " yesterday?",
+                    "start": 3.76,
+                    "end": 4.34,
+                    "probability": 0.9943833351135254
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

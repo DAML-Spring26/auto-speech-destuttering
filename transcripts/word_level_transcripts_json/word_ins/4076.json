@@ -1,0 +1,80 @@
+{
+    "text": " What chapters will be covered on the exam?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.48,
+            "text": " What chapters will be covered on the exam?",
+            "tokens": [
+                50364,
+                708,
+                20013,
+                486,
+                312,
+                5343,
+                322,
+                264,
+                1139,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28919806083043414,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.035516802221536636,
+            "words": [
+                {
+                    "word": " What",
+                    "start": 0.0,
+                    "end": 0.48,
+                    "probability": 0.8013577461242676
+                },
+                {
+                    "word": " chapters",
+                    "start": 0.48,
+                    "end": 0.84,
+                    "probability": 0.9295417666435242
+                },
+                {
+                    "word": " will",
+                    "start": 0.84,
+                    "end": 1.02,
+                    "probability": 0.9889997839927673
+                },
+                {
+                    "word": " be",
+                    "start": 1.02,
+                    "end": 1.14,
+                    "probability": 0.9986013770103455
+                },
+                {
+                    "word": " covered",
+                    "start": 1.14,
+                    "end": 1.42,
+                    "probability": 0.9965751767158508
+                },
+                {
+                    "word": " on",
+                    "start": 1.42,
+                    "end": 1.72,
+                    "probability": 0.9945726990699768
+                },
+                {
+                    "word": " the",
+                    "start": 1.72,
+                    "end": 2.16,
+                    "probability": 0.8669159412384033
+                },
+                {
+                    "word": " exam?",
+                    "start": 2.16,
+                    "end": 2.48,
+                    "probability": 0.9736067056655884
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

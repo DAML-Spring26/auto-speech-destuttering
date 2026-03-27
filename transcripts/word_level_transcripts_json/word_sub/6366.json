@@ -1,0 +1,89 @@
+{
+    "text": " The surgeon performed adelica procedure to remove the humor.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.78,
+            "text": " The surgeon performed adelica procedure to remove the humor.",
+            "tokens": [
+                50364,
+                440,
+                22913,
+                10332,
+                614,
+                338,
+                2262,
+                10747,
+                281,
+                4159,
+                264,
+                14318,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5432868957519531,
+            "compression_ratio": 0.9523809523809523,
+            "no_speech_prob": 0.007461381144821644,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6369213461875916
+                },
+                {
+                    "word": " surgeon",
+                    "start": 0.14,
+                    "end": 0.48,
+                    "probability": 0.7248329520225525
+                },
+                {
+                    "word": " performed",
+                    "start": 0.48,
+                    "end": 0.94,
+                    "probability": 0.9744229316711426
+                },
+                {
+                    "word": " adelica",
+                    "start": 0.94,
+                    "end": 1.4,
+                    "probability": 0.4782466193040212
+                },
+                {
+                    "word": " procedure",
+                    "start": 1.4,
+                    "end": 1.82,
+                    "probability": 0.9937865734100342
+                },
+                {
+                    "word": " to",
+                    "start": 1.82,
+                    "end": 2.1,
+                    "probability": 0.9956340193748474
+                },
+                {
+                    "word": " remove",
+                    "start": 2.1,
+                    "end": 2.3,
+                    "probability": 0.9988517761230469
+                },
+                {
+                    "word": " the",
+                    "start": 2.3,
+                    "end": 2.52,
+                    "probability": 0.9983398914337158
+                },
+                {
+                    "word": " humor.",
+                    "start": 2.52,
+                    "end": 2.78,
+                    "probability": 0.1565021276473999
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

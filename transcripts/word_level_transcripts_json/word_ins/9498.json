@@ -1,0 +1,95 @@
+{
+    "text": " The report was submitted late, but it was very thorough.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.6999999999999997,
+            "end": 3.98,
+            "text": " The report was submitted late, but it was very thorough.",
+            "tokens": [
+                50364,
+                440,
+                2275,
+                390,
+                14405,
+                3469,
+                11,
+                457,
+                309,
+                390,
+                588,
+                12934,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3021133740743001,
+            "compression_ratio": 0.9333333333333333,
+            "no_speech_prob": 0.1682271808385849,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.6999999999999997,
+                    "end": 1.24,
+                    "probability": 0.9061576724052429
+                },
+                {
+                    "word": " report",
+                    "start": 1.24,
+                    "end": 1.5,
+                    "probability": 0.9932810664176941
+                },
+                {
+                    "word": " was",
+                    "start": 1.5,
+                    "end": 1.7,
+                    "probability": 0.9944474697113037
+                },
+                {
+                    "word": " submitted",
+                    "start": 1.7,
+                    "end": 2.0,
+                    "probability": 0.9964525699615479
+                },
+                {
+                    "word": " late,",
+                    "start": 2.0,
+                    "end": 2.32,
+                    "probability": 0.9972614049911499
+                },
+                {
+                    "word": " but",
+                    "start": 2.6,
+                    "end": 2.74,
+                    "probability": 0.9960480332374573
+                },
+                {
+                    "word": " it",
+                    "start": 2.74,
+                    "end": 2.88,
+                    "probability": 0.9898815751075745
+                },
+                {
+                    "word": " was",
+                    "start": 2.88,
+                    "end": 3.04,
+                    "probability": 0.9954583644866943
+                },
+                {
+                    "word": " very",
+                    "start": 3.04,
+                    "end": 3.54,
+                    "probability": 0.5022999048233032
+                },
+                {
+                    "word": " thorough.",
+                    "start": 3.54,
+                    "end": 3.98,
+                    "probability": 0.9989510774612427
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,120 @@
+{
+    "text": " Did you hear about the new movie coming? I'll next week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.8,
+            "text": " Did you hear about the new movie coming?",
+            "tokens": [
+                50364,
+                2589,
+                291,
+                1568,
+                466,
+                264,
+                777,
+                3169,
+                1348,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3844106071873715,
+            "compression_ratio": 0.8888888888888888,
+            "no_speech_prob": 0.00809057243168354,
+            "words": [
+                {
+                    "word": " Did",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.8800625205039978
+                },
+                {
+                    "word": " you",
+                    "start": 0.1,
+                    "end": 0.24,
+                    "probability": 0.9952740669250488
+                },
+                {
+                    "word": " hear",
+                    "start": 0.24,
+                    "end": 0.44,
+                    "probability": 0.9989616870880127
+                },
+                {
+                    "word": " about",
+                    "start": 0.44,
+                    "end": 0.78,
+                    "probability": 0.9859419465065002
+                },
+                {
+                    "word": " the",
+                    "start": 0.78,
+                    "end": 1.0,
+                    "probability": 0.9789618849754333
+                },
+                {
+                    "word": " new",
+                    "start": 1.0,
+                    "end": 1.14,
+                    "probability": 0.9819498658180237
+                },
+                {
+                    "word": " movie",
+                    "start": 1.14,
+                    "end": 1.42,
+                    "probability": 0.9889410138130188
+                },
+                {
+                    "word": " coming?",
+                    "start": 1.42,
+                    "end": 1.8,
+                    "probability": 0.9789705872535706
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.98,
+            "end": 5.08,
+            "text": " I'll next week.",
+            "tokens": [
+                50579,
+                286,
+                603,
+                958,
+                1243,
+                13,
+                50629
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3844106071873715,
+            "compression_ratio": 0.8888888888888888,
+            "no_speech_prob": 0.00809057243168354,
+            "words": [
+                {
+                    "word": " I'll",
+                    "start": 3.98,
+                    "end": 4.54,
+                    "probability": 0.9525222182273865
+                },
+                {
+                    "word": " next",
+                    "start": 4.54,
+                    "end": 4.74,
+                    "probability": 0.8100636601448059
+                },
+                {
+                    "word": " week.",
+                    "start": 4.74,
+                    "end": 5.08,
+                    "probability": 0.9979506134986877
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

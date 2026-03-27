@@ -1,0 +1,80 @@
+{
+    "text": " The committee will review the proposal next week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.44,
+            "text": " The committee will review the proposal next week.",
+            "tokens": [
+                50364,
+                440,
+                7482,
+                486,
+                3131,
+                264,
+                11494,
+                958,
+                1243,
+                13,
+                50548
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4399044116338094,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.06342360377311707,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6719723343849182
+                },
+                {
+                    "word": " committee",
+                    "start": 0.12,
+                    "end": 0.48,
+                    "probability": 0.7081867456436157
+                },
+                {
+                    "word": " will",
+                    "start": 0.48,
+                    "end": 0.88,
+                    "probability": 0.9834294319152832
+                },
+                {
+                    "word": " review",
+                    "start": 0.88,
+                    "end": 2.34,
+                    "probability": 0.8965340256690979
+                },
+                {
+                    "word": " the",
+                    "start": 2.34,
+                    "end": 2.48,
+                    "probability": 0.9433214664459229
+                },
+                {
+                    "word": " proposal",
+                    "start": 2.48,
+                    "end": 2.84,
+                    "probability": 0.6385500431060791
+                },
+                {
+                    "word": " next",
+                    "start": 2.84,
+                    "end": 3.22,
+                    "probability": 0.9873197078704834
+                },
+                {
+                    "word": " week.",
+                    "start": 3.22,
+                    "end": 3.44,
+                    "probability": 0.9969340562820435
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

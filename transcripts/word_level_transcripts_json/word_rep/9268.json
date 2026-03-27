@@ -1,0 +1,123 @@
+{
+    "text": " Had we known about the traffic, we would have left earlier for the airport.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.32,
+            "text": " Had we known about the traffic, we would have left earlier for the airport.",
+            "tokens": [
+                50364,
+                12298,
+                321,
+                2570,
+                466,
+                264,
+                6419,
+                11,
+                321,
+                576,
+                362,
+                1411,
+                3071,
+                337,
+                264,
+                10155,
+                13,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2668203805622302,
+            "compression_ratio": 1.0416666666666667,
+            "no_speech_prob": 0.0044518704526126385,
+            "words": [
+                {
+                    "word": " Had",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.8710287809371948
+                },
+                {
+                    "word": " we",
+                    "start": 0.18,
+                    "end": 0.32,
+                    "probability": 0.9954155683517456
+                },
+                {
+                    "word": " known",
+                    "start": 0.32,
+                    "end": 0.52,
+                    "probability": 0.9921441078186035
+                },
+                {
+                    "word": " about",
+                    "start": 0.52,
+                    "end": 0.76,
+                    "probability": 0.9952734112739563
+                },
+                {
+                    "word": " the",
+                    "start": 0.76,
+                    "end": 0.9,
+                    "probability": 0.9835487008094788
+                },
+                {
+                    "word": " traffic,",
+                    "start": 0.9,
+                    "end": 1.28,
+                    "probability": 0.9970946311950684
+                },
+                {
+                    "word": " we",
+                    "start": 1.86,
+                    "end": 1.94,
+                    "probability": 0.9916873574256897
+                },
+                {
+                    "word": " would",
+                    "start": 1.94,
+                    "end": 2.18,
+                    "probability": 0.993739128112793
+                },
+                {
+                    "word": " have",
+                    "start": 2.18,
+                    "end": 2.5,
+                    "probability": 0.990784764289856
+                },
+                {
+                    "word": " left",
+                    "start": 2.5,
+                    "end": 3.18,
+                    "probability": 0.38623881340026855
+                },
+                {
+                    "word": " earlier",
+                    "start": 3.18,
+                    "end": 3.68,
+                    "probability": 0.9667407870292664
+                },
+                {
+                    "word": " for",
+                    "start": 3.68,
+                    "end": 3.88,
+                    "probability": 0.9805501103401184
+                },
+                {
+                    "word": " the",
+                    "start": 3.88,
+                    "end": 4.02,
+                    "probability": 0.9962906837463379
+                },
+                {
+                    "word": " airport.",
+                    "start": 4.02,
+                    "end": 4.32,
+                    "probability": 0.9879967570304871
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

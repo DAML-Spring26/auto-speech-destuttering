@@ -1,0 +1,66 @@
+{
+    "text": " The conference room needs better statistics.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.88,
+            "text": " The conference room needs better statistics.",
+            "tokens": [
+                50364,
+                440,
+                7586,
+                1808,
+                2203,
+                1101,
+                12523,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4005012035369873,
+            "compression_ratio": 0.8627450980392157,
+            "no_speech_prob": 0.004331762902438641,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7365326881408691
+                },
+                {
+                    "word": " conference",
+                    "start": 0.14,
+                    "end": 0.64,
+                    "probability": 0.9517797827720642
+                },
+                {
+                    "word": " room",
+                    "start": 0.64,
+                    "end": 1.18,
+                    "probability": 0.9930410385131836
+                },
+                {
+                    "word": " needs",
+                    "start": 1.18,
+                    "end": 1.58,
+                    "probability": 0.9953308701515198
+                },
+                {
+                    "word": " better",
+                    "start": 1.58,
+                    "end": 2.02,
+                    "probability": 0.9904432892799377
+                },
+                {
+                    "word": " statistics.",
+                    "start": 2.02,
+                    "end": 2.88,
+                    "probability": 0.9941325783729553
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

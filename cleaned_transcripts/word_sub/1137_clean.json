@@ -1,29 +1,25 @@
 {
-    "text": " She perceives an ODA message yesterday.",
+    "text": " We perceive our day.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 2.0,
-            "text": " She perceives an ODA message yesterday.",
+            "end": 1.0,
+            "text": " We perceive our day.",
             "tokens": [
                 50364,
-                1240,
-                9016,
-                1539,
-                364,
-                422,
-                7509,
-                3636,
-                5186,
+                492,
+                20281,
+                527,
+                786,
                 13,
-                50464
+                50414
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.7137645880381266,
-            "compression_ratio": 0.8297872340425532,
-            "no_speech_prob": 0.0027214724104851484
+            "avg_logprob": -0.7589703798294067,
+            "compression_ratio": 0.7142857142857143,
+            "no_speech_prob": 0.11406660825014114
         }
     ],
     "language": "en"

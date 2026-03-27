@@ -1,0 +1,59 @@
+{
+    "text": " the experiment reduced interesting results.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.76,
+            "text": " the experiment reduced interesting results.",
+            "tokens": [
+                50364,
+                264,
+                5120,
+                9212,
+                1880,
+                3542,
+                13,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6110553211636014,
+            "compression_ratio": 0.86,
+            "no_speech_prob": 0.005517581943422556,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5710751414299011
+                },
+                {
+                    "word": " experiment",
+                    "start": 0.14,
+                    "end": 0.82,
+                    "probability": 0.985328733921051
+                },
+                {
+                    "word": " reduced",
+                    "start": 0.82,
+                    "end": 1.3,
+                    "probability": 0.7179498076438904
+                },
+                {
+                    "word": " interesting",
+                    "start": 1.3,
+                    "end": 2.18,
+                    "probability": 0.35709014534950256
+                },
+                {
+                    "word": " results.",
+                    "start": 2.18,
+                    "end": 2.76,
+                    "probability": 0.9973468780517578
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

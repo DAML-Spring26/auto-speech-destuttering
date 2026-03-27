@@ -1,0 +1,74 @@
+{
+    "text": " the system will direct any anomalies automatically.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.32,
+            "text": " the system will direct any anomalies automatically.",
+            "tokens": [
+                50364,
+                264,
+                1185,
+                486,
+                2047,
+                604,
+                24769,
+                48872,
+                6772,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.382805864016215,
+            "compression_ratio": 0.9107142857142857,
+            "no_speech_prob": 0.00767480256035924,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.579257607460022
+                },
+                {
+                    "word": " system",
+                    "start": 0.1,
+                    "end": 0.46,
+                    "probability": 0.9954277276992798
+                },
+                {
+                    "word": " will",
+                    "start": 0.46,
+                    "end": 0.58,
+                    "probability": 0.9974868297576904
+                },
+                {
+                    "word": " direct",
+                    "start": 0.58,
+                    "end": 0.9,
+                    "probability": 0.9898277521133423
+                },
+                {
+                    "word": " any",
+                    "start": 0.9,
+                    "end": 1.2,
+                    "probability": 0.8115352988243103
+                },
+                {
+                    "word": " anomalies",
+                    "start": 1.2,
+                    "end": 1.74,
+                    "probability": 0.9957700669765472
+                },
+                {
+                    "word": " automatically.",
+                    "start": 1.74,
+                    "end": 2.32,
+                    "probability": 0.9935421943664551
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

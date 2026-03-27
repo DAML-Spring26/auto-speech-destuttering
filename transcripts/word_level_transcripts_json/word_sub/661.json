@@ -1,0 +1,52 @@
+{
+    "text": " Please complete the paralysis.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.46,
+            "text": " Please complete the paralysis.",
+            "tokens": [
+                50364,
+                2555,
+                3566,
+                264,
+                49507,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3862810432910919,
+            "compression_ratio": 0.7894736842105263,
+            "no_speech_prob": 0.008485325612127781,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.6530842781066895
+                },
+                {
+                    "word": " complete",
+                    "start": 0.28,
+                    "end": 0.76,
+                    "probability": 0.9708592295646667
+                },
+                {
+                    "word": " the",
+                    "start": 0.76,
+                    "end": 0.96,
+                    "probability": 0.9912517666816711
+                },
+                {
+                    "word": " paralysis.",
+                    "start": 0.96,
+                    "end": 1.46,
+                    "probability": 0.9764328598976135
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

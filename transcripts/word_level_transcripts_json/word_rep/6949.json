@@ -1,0 +1,94 @@
+{
+    "text": " We believe that this approach will yield the best results.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.76,
+            "text": " We believe that this approach will yield the best results.",
+            "tokens": [
+                50364,
+                492,
+                1697,
+                300,
+                341,
+                3109,
+                486,
+                11257,
+                264,
+                1151,
+                3542,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2824352639062064,
+            "compression_ratio": 0.9508196721311475,
+            "no_speech_prob": 0.016663607209920883,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.6500022411346436
+                },
+                {
+                    "word": " believe",
+                    "start": 0.22,
+                    "end": 0.68,
+                    "probability": 0.8863028287887573
+                },
+                {
+                    "word": " that",
+                    "start": 0.68,
+                    "end": 0.92,
+                    "probability": 0.9333888292312622
+                },
+                {
+                    "word": " this",
+                    "start": 0.92,
+                    "end": 1.1,
+                    "probability": 0.991603672504425
+                },
+                {
+                    "word": " approach",
+                    "start": 1.1,
+                    "end": 1.46,
+                    "probability": 0.9995980858802795
+                },
+                {
+                    "word": " will",
+                    "start": 1.46,
+                    "end": 1.72,
+                    "probability": 0.9964975714683533
+                },
+                {
+                    "word": " yield",
+                    "start": 1.72,
+                    "end": 1.9,
+                    "probability": 0.9970431923866272
+                },
+                {
+                    "word": " the",
+                    "start": 1.9,
+                    "end": 2.06,
+                    "probability": 0.9859508872032166
+                },
+                {
+                    "word": " best",
+                    "start": 2.06,
+                    "end": 2.3,
+                    "probability": 0.9986181259155273
+                },
+                {
+                    "word": " results.",
+                    "start": 2.3,
+                    "end": 2.76,
+                    "probability": 0.9782723188400269
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

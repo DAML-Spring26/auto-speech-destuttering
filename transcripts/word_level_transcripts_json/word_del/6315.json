@@ -1,0 +1,129 @@
+{
+    "text": " we should decide to go to the concert or stay home and watch a movie.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.62,
+            "text": " we should decide to go to the concert or stay home and watch a movie.",
+            "tokens": [
+                50364,
+                321,
+                820,
+                4536,
+                281,
+                352,
+                281,
+                264,
+                8543,
+                420,
+                1754,
+                1280,
+                293,
+                1159,
+                257,
+                3169,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23682084836457906,
+            "compression_ratio": 1.0454545454545454,
+            "no_speech_prob": 0.010491099208593369,
+            "words": [
+                {
+                    "word": " we",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.4851745665073395
+                },
+                {
+                    "word": " should",
+                    "start": 0.12,
+                    "end": 0.26,
+                    "probability": 0.9842922687530518
+                },
+                {
+                    "word": " decide",
+                    "start": 0.26,
+                    "end": 0.64,
+                    "probability": 0.9686674475669861
+                },
+                {
+                    "word": " to",
+                    "start": 0.64,
+                    "end": 0.88,
+                    "probability": 0.9939551949501038
+                },
+                {
+                    "word": " go",
+                    "start": 0.88,
+                    "end": 1.04,
+                    "probability": 0.997201681137085
+                },
+                {
+                    "word": " to",
+                    "start": 1.04,
+                    "end": 1.2,
+                    "probability": 0.988969087600708
+                },
+                {
+                    "word": " the",
+                    "start": 1.2,
+                    "end": 1.34,
+                    "probability": 0.9827478528022766
+                },
+                {
+                    "word": " concert",
+                    "start": 1.34,
+                    "end": 1.72,
+                    "probability": 0.8917552828788757
+                },
+                {
+                    "word": " or",
+                    "start": 1.72,
+                    "end": 2.0,
+                    "probability": 0.8678018450737
+                },
+                {
+                    "word": " stay",
+                    "start": 2.0,
+                    "end": 2.26,
+                    "probability": 0.9976119995117188
+                },
+                {
+                    "word": " home",
+                    "start": 2.26,
+                    "end": 2.7,
+                    "probability": 0.9681205749511719
+                },
+                {
+                    "word": " and",
+                    "start": 2.7,
+                    "end": 2.92,
+                    "probability": 0.9473395347595215
+                },
+                {
+                    "word": " watch",
+                    "start": 2.92,
+                    "end": 3.16,
+                    "probability": 0.9833744764328003
+                },
+                {
+                    "word": " a",
+                    "start": 3.16,
+                    "end": 3.3,
+                    "probability": 0.9896534085273743
+                },
+                {
+                    "word": " movie.",
+                    "start": 3.3,
+                    "end": 3.62,
+                    "probability": 0.9980097413063049
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

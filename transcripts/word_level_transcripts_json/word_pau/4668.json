@@ -1,0 +1,83 @@
+{
+    "text": " She always performs brilliantly in high-pressure situations.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.08,
+            "text": " She always performs brilliantly in high-pressure situations.",
+            "tokens": [
+                50364,
+                1240,
+                1009,
+                26213,
+                8695,
+                42580,
+                294,
+                1090,
+                12,
+                11637,
+                540,
+                6851,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3043405532836914,
+            "compression_ratio": 0.9230769230769231,
+            "no_speech_prob": 0.004355134908109903,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.7777366042137146
+                },
+                {
+                    "word": " always",
+                    "start": 0.22,
+                    "end": 0.58,
+                    "probability": 0.9978012442588806
+                },
+                {
+                    "word": " performs",
+                    "start": 0.58,
+                    "end": 1.36,
+                    "probability": 0.9923543930053711
+                },
+                {
+                    "word": " brilliantly",
+                    "start": 1.36,
+                    "end": 5.24,
+                    "probability": 0.9163557589054108
+                },
+                {
+                    "word": " in",
+                    "start": 5.24,
+                    "end": 5.58,
+                    "probability": 0.9967538714408875
+                },
+                {
+                    "word": " high",
+                    "start": 5.58,
+                    "end": 5.78,
+                    "probability": 0.9658172726631165
+                },
+                {
+                    "word": "-pressure",
+                    "start": 5.78,
+                    "end": 6.24,
+                    "probability": 0.8130743205547333
+                },
+                {
+                    "word": " situations.",
+                    "start": 6.24,
+                    "end": 7.08,
+                    "probability": 0.9883242845535278
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

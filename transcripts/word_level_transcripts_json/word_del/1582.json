@@ -1,0 +1,75 @@
+{
+    "text": " They're building evacuated due to gas leak.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.96,
+            "text": " They're building evacuated due to gas leak.",
+            "tokens": [
+                50364,
+                814,
+                434,
+                2390,
+                20245,
+                27275,
+                3462,
+                281,
+                4211,
+                17143,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4168903644268329,
+            "compression_ratio": 0.8431372549019608,
+            "no_speech_prob": 0.0022830278612673283,
+            "words": [
+                {
+                    "word": " They're",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.6575336307287216
+                },
+                {
+                    "word": " building",
+                    "start": 0.18,
+                    "end": 0.44,
+                    "probability": 0.9947752952575684
+                },
+                {
+                    "word": " evacuated",
+                    "start": 0.44,
+                    "end": 1.1,
+                    "probability": 0.8314497768878937
+                },
+                {
+                    "word": " due",
+                    "start": 1.1,
+                    "end": 1.28,
+                    "probability": 0.9362836480140686
+                },
+                {
+                    "word": " to",
+                    "start": 1.28,
+                    "end": 1.4,
+                    "probability": 0.9984745383262634
+                },
+                {
+                    "word": " gas",
+                    "start": 1.4,
+                    "end": 1.64,
+                    "probability": 0.49386051297187805
+                },
+                {
+                    "word": " leak.",
+                    "start": 1.64,
+                    "end": 1.96,
+                    "probability": 0.9904316067695618
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

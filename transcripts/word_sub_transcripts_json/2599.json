@@ -1,0 +1,66 @@
+{
+    "text": " They will discuss the proposal tomorrow.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.6,
+            "text": " They will discuss the proposal tomorrow.",
+            "tokens": [
+                50364,
+                814,
+                486,
+                2248,
+                264,
+                11494,
+                4153,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3115804195404053,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.016134707257151604,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5154744982719421
+                },
+                {
+                    "word": " will",
+                    "start": 0.12,
+                    "end": 0.22,
+                    "probability": 0.9716981649398804
+                },
+                {
+                    "word": " discuss",
+                    "start": 0.22,
+                    "end": 0.5,
+                    "probability": 0.9952608942985535
+                },
+                {
+                    "word": " the",
+                    "start": 0.5,
+                    "end": 0.74,
+                    "probability": 0.9890652894973755
+                },
+                {
+                    "word": " proposal",
+                    "start": 0.74,
+                    "end": 1.2,
+                    "probability": 0.9957842230796814
+                },
+                {
+                    "word": " tomorrow.",
+                    "start": 1.2,
+                    "end": 1.6,
+                    "probability": 0.9884013533592224
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,82 @@
+{
+    "text": " We're currently working on improving the system's performance.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.28,
+            "text": " We're currently working on improving the system's performance.",
+            "tokens": [
+                50364,
+                492,
+                434,
+                4362,
+                1364,
+                322,
+                11470,
+                264,
+                1185,
+                311,
+                3389,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3141394002096994,
+            "compression_ratio": 0.9253731343283582,
+            "no_speech_prob": 0.0027432481292635202,
+            "words": [
+                {
+                    "word": " We're",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.7236223518848419
+                },
+                {
+                    "word": " currently",
+                    "start": 0.24,
+                    "end": 0.52,
+                    "probability": 0.9976522326469421
+                },
+                {
+                    "word": " working",
+                    "start": 0.52,
+                    "end": 1.0,
+                    "probability": 0.9963782429695129
+                },
+                {
+                    "word": " on",
+                    "start": 1.0,
+                    "end": 1.34,
+                    "probability": 0.9969708919525146
+                },
+                {
+                    "word": " improving",
+                    "start": 1.34,
+                    "end": 1.98,
+                    "probability": 0.7609443068504333
+                },
+                {
+                    "word": " the",
+                    "start": 1.98,
+                    "end": 2.24,
+                    "probability": 0.9909919500350952
+                },
+                {
+                    "word": " system's",
+                    "start": 2.24,
+                    "end": 2.78,
+                    "probability": 0.8606679737567902
+                },
+                {
+                    "word": " performance.",
+                    "start": 2.78,
+                    "end": 3.28,
+                    "probability": 0.9984171390533447
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

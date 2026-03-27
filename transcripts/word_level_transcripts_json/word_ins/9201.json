@@ -1,0 +1,81 @@
+{
+    "text": " Do you know how to well, perform CPR?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.86,
+            "text": " Do you know how to well, perform CPR?",
+            "tokens": [
+                50364,
+                1144,
+                291,
+                458,
+                577,
+                281,
+                731,
+                11,
+                2042,
+                47536,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32747514431293195,
+            "compression_ratio": 0.8604651162790697,
+            "no_speech_prob": 0.08976678550243378,
+            "words": [
+                {
+                    "word": " Do",
+                    "start": 0.0,
+                    "end": 0.72,
+                    "probability": 0.9171990752220154
+                },
+                {
+                    "word": " you",
+                    "start": 0.72,
+                    "end": 0.8,
+                    "probability": 0.9754739999771118
+                },
+                {
+                    "word": " know",
+                    "start": 0.8,
+                    "end": 0.96,
+                    "probability": 0.9965007305145264
+                },
+                {
+                    "word": " how",
+                    "start": 0.96,
+                    "end": 1.14,
+                    "probability": 0.9969570636749268
+                },
+                {
+                    "word": " to",
+                    "start": 1.14,
+                    "end": 1.26,
+                    "probability": 0.995716392993927
+                },
+                {
+                    "word": " well,",
+                    "start": 1.26,
+                    "end": 1.58,
+                    "probability": 0.8646418452262878
+                },
+                {
+                    "word": " perform",
+                    "start": 1.92,
+                    "end": 2.22,
+                    "probability": 0.9238104224205017
+                },
+                {
+                    "word": " CPR?",
+                    "start": 2.22,
+                    "end": 2.86,
+                    "probability": 0.9860205054283142
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

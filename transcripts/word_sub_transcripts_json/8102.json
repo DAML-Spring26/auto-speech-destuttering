@@ -1,0 +1,73 @@
+{
+    "text": " the biodiversity and this ecosystem is removable.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.76,
+            "text": " the biodiversity and this ecosystem is removable.",
+            "tokens": [
+                50364,
+                264,
+                36453,
+                293,
+                341,
+                11311,
+                307,
+                44060,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.43998232754794037,
+            "compression_ratio": 0.8909090909090909,
+            "no_speech_prob": 0.0017570542404428124,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5140179991722107
+                },
+                {
+                    "word": " biodiversity",
+                    "start": 0.14,
+                    "end": 0.86,
+                    "probability": 0.5155119299888611
+                },
+                {
+                    "word": " and",
+                    "start": 0.86,
+                    "end": 1.24,
+                    "probability": 0.7898449897766113
+                },
+                {
+                    "word": " this",
+                    "start": 1.24,
+                    "end": 1.42,
+                    "probability": 0.9316688776016235
+                },
+                {
+                    "word": " ecosystem",
+                    "start": 1.42,
+                    "end": 2.04,
+                    "probability": 0.9419397115707397
+                },
+                {
+                    "word": " is",
+                    "start": 2.04,
+                    "end": 2.36,
+                    "probability": 0.9931897521018982
+                },
+                {
+                    "word": " removable.",
+                    "start": 2.36,
+                    "end": 2.76,
+                    "probability": 0.9710801839828491
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

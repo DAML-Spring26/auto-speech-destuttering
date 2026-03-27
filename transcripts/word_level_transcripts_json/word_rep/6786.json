@@ -1,0 +1,128 @@
+{
+    "text": " The more you practice the better you'll, I'll become a public speaking.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.46,
+            "text": " The more you practice the better you'll,",
+            "tokens": [
+                50364,
+                440,
+                544,
+                291,
+                3124,
+                264,
+                1101,
+                291,
+                603,
+                11,
+                50494
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.49849423908051993,
+            "compression_ratio": 0.9726027397260274,
+            "no_speech_prob": 0.005475894547998905,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6403213143348694
+                },
+                {
+                    "word": " more",
+                    "start": 0.16,
+                    "end": 0.4,
+                    "probability": 0.966585636138916
+                },
+                {
+                    "word": " you",
+                    "start": 0.4,
+                    "end": 0.52,
+                    "probability": 0.9715320467948914
+                },
+                {
+                    "word": " practice",
+                    "start": 0.52,
+                    "end": 1.04,
+                    "probability": 0.8361981511116028
+                },
+                {
+                    "word": " the",
+                    "start": 1.04,
+                    "end": 1.34,
+                    "probability": 0.8650144934654236
+                },
+                {
+                    "word": " better",
+                    "start": 1.34,
+                    "end": 1.66,
+                    "probability": 0.9866271615028381
+                },
+                {
+                    "word": " you'll,",
+                    "start": 1.66,
+                    "end": 2.46,
+                    "probability": 0.5134261697530746
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.46,
+            "end": 5.24,
+            "text": " I'll become a public speaking.",
+            "tokens": [
+                50494,
+                286,
+                603,
+                1813,
+                257,
+                1908,
+                4124,
+                13,
+                50644
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.49849423908051993,
+            "compression_ratio": 0.9726027397260274,
+            "no_speech_prob": 0.005475894547998905,
+            "words": [
+                {
+                    "word": " I'll",
+                    "start": 2.46,
+                    "end": 2.92,
+                    "probability": 0.6328518241643906
+                },
+                {
+                    "word": " become",
+                    "start": 2.92,
+                    "end": 4.08,
+                    "probability": 0.8302762508392334
+                },
+                {
+                    "word": " a",
+                    "start": 4.08,
+                    "end": 4.24,
+                    "probability": 0.7030138969421387
+                },
+                {
+                    "word": " public",
+                    "start": 4.24,
+                    "end": 4.64,
+                    "probability": 0.9642395973205566
+                },
+                {
+                    "word": " speaking.",
+                    "start": 4.64,
+                    "end": 5.24,
+                    "probability": 0.9477616548538208
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

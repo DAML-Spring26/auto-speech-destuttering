@@ -1,0 +1,94 @@
+{
+    "text": " the committee reviewing the applications that were submitted last month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.28,
+            "text": " the committee reviewing the applications that were submitted last month.",
+            "tokens": [
+                50364,
+                264,
+                7482,
+                19576,
+                264,
+                5821,
+                300,
+                645,
+                14405,
+                1036,
+                1618,
+                13,
+                50538
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37555384635925293,
+            "compression_ratio": 1.0588235294117647,
+            "no_speech_prob": 0.009989185258746147,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.517052412033081
+                },
+                {
+                    "word": " committee",
+                    "start": 0.12,
+                    "end": 0.48,
+                    "probability": 0.8484930396080017
+                },
+                {
+                    "word": " reviewing",
+                    "start": 0.48,
+                    "end": 0.98,
+                    "probability": 0.9474942088127136
+                },
+                {
+                    "word": " the",
+                    "start": 0.98,
+                    "end": 1.16,
+                    "probability": 0.9895003437995911
+                },
+                {
+                    "word": " applications",
+                    "start": 1.16,
+                    "end": 1.74,
+                    "probability": 0.9257449507713318
+                },
+                {
+                    "word": " that",
+                    "start": 1.74,
+                    "end": 2.02,
+                    "probability": 0.956954300403595
+                },
+                {
+                    "word": " were",
+                    "start": 2.02,
+                    "end": 2.16,
+                    "probability": 0.709509551525116
+                },
+                {
+                    "word": " submitted",
+                    "start": 2.16,
+                    "end": 2.62,
+                    "probability": 0.9978744983673096
+                },
+                {
+                    "word": " last",
+                    "start": 2.62,
+                    "end": 2.92,
+                    "probability": 0.9960447549819946
+                },
+                {
+                    "word": " month.",
+                    "start": 2.92,
+                    "end": 3.28,
+                    "probability": 0.9959143996238708
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

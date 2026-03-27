@@ -1,0 +1,59 @@
+{
+    "text": " She wore a pearl ring.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.04,
+            "text": " She wore a pearl ring.",
+            "tokens": [
+                50364,
+                1240,
+                13857,
+                257,
+                20287,
+                4875,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5295156902737088,
+            "compression_ratio": 0.7333333333333333,
+            "no_speech_prob": 0.007833783514797688,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.7601625919342041
+                },
+                {
+                    "word": " wore",
+                    "start": 0.22,
+                    "end": 0.42,
+                    "probability": 0.4550105333328247
+                },
+                {
+                    "word": " a",
+                    "start": 0.42,
+                    "end": 0.56,
+                    "probability": 0.9212738275527954
+                },
+                {
+                    "word": " pearl",
+                    "start": 0.56,
+                    "end": 0.74,
+                    "probability": 0.701807975769043
+                },
+                {
+                    "word": " ring.",
+                    "start": 0.74,
+                    "end": 1.04,
+                    "probability": 0.997678816318512
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

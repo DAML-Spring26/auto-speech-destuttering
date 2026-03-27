@@ -1,0 +1,59 @@
+{
+    "text": " they consider the environmental impact.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.2,
+            "text": " they consider the environmental impact.",
+            "tokens": [
+                50364,
+                436,
+                1949,
+                264,
+                8303,
+                2712,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4755687183803982,
+            "compression_ratio": 0.8297872340425532,
+            "no_speech_prob": 0.0032084917183965445,
+            "words": [
+                {
+                    "word": " they",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.5265785455703735
+                },
+                {
+                    "word": " consider",
+                    "start": 0.16,
+                    "end": 0.64,
+                    "probability": 0.980459988117218
+                },
+                {
+                    "word": " the",
+                    "start": 0.64,
+                    "end": 0.9,
+                    "probability": 0.9856738448143005
+                },
+                {
+                    "word": " environmental",
+                    "start": 0.9,
+                    "end": 1.6,
+                    "probability": 0.9607532024383545
+                },
+                {
+                    "word": " impact.",
+                    "start": 1.6,
+                    "end": 2.2,
+                    "probability": 0.9975729584693909
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

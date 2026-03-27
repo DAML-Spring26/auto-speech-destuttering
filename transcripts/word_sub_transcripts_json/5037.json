@@ -1,0 +1,81 @@
+{
+    "text": " What's your opinion on the new environmental policy?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.62,
+            "text": " What's your opinion on the new environmental policy?",
+            "tokens": [
+                50364,
+                708,
+                311,
+                428,
+                4800,
+                322,
+                264,
+                777,
+                8303,
+                3897,
+                30,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32279319029587966,
+            "compression_ratio": 0.896551724137931,
+            "no_speech_prob": 0.003944869618862867,
+            "words": [
+                {
+                    "word": " What's",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.7686218023300171
+                },
+                {
+                    "word": " your",
+                    "start": 0.36,
+                    "end": 0.44,
+                    "probability": 0.9937341809272766
+                },
+                {
+                    "word": " opinion",
+                    "start": 0.44,
+                    "end": 0.88,
+                    "probability": 0.9944573640823364
+                },
+                {
+                    "word": " on",
+                    "start": 0.88,
+                    "end": 1.06,
+                    "probability": 0.9772696495056152
+                },
+                {
+                    "word": " the",
+                    "start": 1.06,
+                    "end": 1.18,
+                    "probability": 0.9722331166267395
+                },
+                {
+                    "word": " new",
+                    "start": 1.18,
+                    "end": 1.34,
+                    "probability": 0.9616852402687073
+                },
+                {
+                    "word": " environmental",
+                    "start": 1.34,
+                    "end": 1.92,
+                    "probability": 0.775881290435791
+                },
+                {
+                    "word": " policy?",
+                    "start": 1.92,
+                    "end": 2.62,
+                    "probability": 0.911296010017395
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

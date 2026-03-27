@@ -1,0 +1,59 @@
+{
+    "text": " She compiled comprehensive research beta.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.56,
+            "text": " She compiled comprehensive research beta.",
+            "tokens": [
+                50364,
+                1240,
+                36548,
+                13914,
+                2132,
+                9861,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5364713139004178,
+            "compression_ratio": 0.9111111111111111,
+            "no_speech_prob": 0.006666715256869793,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.7557169198989868
+                },
+                {
+                    "word": " compiled",
+                    "start": 0.26,
+                    "end": 0.76,
+                    "probability": 0.722410261631012
+                },
+                {
+                    "word": " comprehensive",
+                    "start": 0.76,
+                    "end": 1.4,
+                    "probability": 0.7771403193473816
+                },
+                {
+                    "word": " research",
+                    "start": 1.4,
+                    "end": 2.0,
+                    "probability": 0.9985520243644714
+                },
+                {
+                    "word": " beta.",
+                    "start": 2.0,
+                    "end": 2.56,
+                    "probability": 0.8108412027359009
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

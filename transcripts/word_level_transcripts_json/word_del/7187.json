@@ -1,0 +1,73 @@
+{
+    "text": " The students completed their assignments on time.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.44,
+            "text": " The students completed their assignments on time.",
+            "tokens": [
+                50364,
+                440,
+                1731,
+                7365,
+                641,
+                22546,
+                322,
+                565,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3879063779657537,
+            "compression_ratio": 0.9074074074074074,
+            "no_speech_prob": 0.003235329408198595,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7299612760543823
+                },
+                {
+                    "word": " students",
+                    "start": 0.1,
+                    "end": 0.46,
+                    "probability": 0.9795516729354858
+                },
+                {
+                    "word": " completed",
+                    "start": 0.46,
+                    "end": 1.06,
+                    "probability": 0.9945347309112549
+                },
+                {
+                    "word": " their",
+                    "start": 1.06,
+                    "end": 1.34,
+                    "probability": 0.995287299156189
+                },
+                {
+                    "word": " assignments",
+                    "start": 1.34,
+                    "end": 1.78,
+                    "probability": 0.99115389585495
+                },
+                {
+                    "word": " on",
+                    "start": 1.78,
+                    "end": 2.12,
+                    "probability": 0.9973439574241638
+                },
+                {
+                    "word": " time.",
+                    "start": 2.12,
+                    "end": 2.44,
+                    "probability": 0.9940857887268066
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

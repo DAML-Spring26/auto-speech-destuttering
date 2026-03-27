@@ -1,0 +1,59 @@
+{
+    "text": " This system requires regular containment.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.92,
+            "text": " This system requires regular containment.",
+            "tokens": [
+                50364,
+                639,
+                1185,
+                7029,
+                3890,
+                44058,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4499476220872667,
+            "compression_ratio": 0.8723404255319149,
+            "no_speech_prob": 0.005268810782581568,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.49641144275665283
+                },
+                {
+                    "word": " system",
+                    "start": 0.14,
+                    "end": 0.52,
+                    "probability": 0.9787600636482239
+                },
+                {
+                    "word": " requires",
+                    "start": 0.52,
+                    "end": 0.88,
+                    "probability": 0.9936569333076477
+                },
+                {
+                    "word": " regular",
+                    "start": 0.88,
+                    "end": 1.28,
+                    "probability": 0.9802982211112976
+                },
+                {
+                    "word": " containment.",
+                    "start": 1.28,
+                    "end": 1.92,
+                    "probability": 0.9971515536308289
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

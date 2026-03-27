@@ -1,0 +1,155 @@
+{
+    "text": " The City Council has approved plans to revitalise the downtown area and attracters at new businesses.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.86,
+            "text": " The City Council has approved plans to revitalise the downtown area and attracters at",
+            "tokens": [
+                50364,
+                440,
+                4392,
+                7076,
+                575,
+                10826,
+                5482,
+                281,
+                42457,
+                908,
+                264,
+                14209,
+                1859,
+                293,
+                5049,
+                433,
+                412,
+                50608
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3334572553634644,
+            "compression_ratio": 1.103896103896104,
+            "no_speech_prob": 0.003908501472324133,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.9375033974647522
+                },
+                {
+                    "word": " City",
+                    "start": 0.1,
+                    "end": 0.4,
+                    "probability": 0.8801991939544678
+                },
+                {
+                    "word": " Council",
+                    "start": 0.4,
+                    "end": 0.96,
+                    "probability": 0.9831310510635376
+                },
+                {
+                    "word": " has",
+                    "start": 0.96,
+                    "end": 1.22,
+                    "probability": 0.9956018924713135
+                },
+                {
+                    "word": " approved",
+                    "start": 1.22,
+                    "end": 1.56,
+                    "probability": 0.9911453127861023
+                },
+                {
+                    "word": " plans",
+                    "start": 1.56,
+                    "end": 1.94,
+                    "probability": 0.37223654985427856
+                },
+                {
+                    "word": " to",
+                    "start": 1.94,
+                    "end": 2.16,
+                    "probability": 0.9985476136207581
+                },
+                {
+                    "word": " revitalise",
+                    "start": 2.16,
+                    "end": 2.9,
+                    "probability": 0.9419755637645721
+                },
+                {
+                    "word": " the",
+                    "start": 2.9,
+                    "end": 3.04,
+                    "probability": 0.9890468716621399
+                },
+                {
+                    "word": " downtown",
+                    "start": 3.04,
+                    "end": 3.54,
+                    "probability": 0.41961729526519775
+                },
+                {
+                    "word": " area",
+                    "start": 3.54,
+                    "end": 3.98,
+                    "probability": 0.9957602620124817
+                },
+                {
+                    "word": " and",
+                    "start": 3.98,
+                    "end": 4.2,
+                    "probability": 0.8256372213363647
+                },
+                {
+                    "word": " attracters",
+                    "start": 4.2,
+                    "end": 4.74,
+                    "probability": 0.3909243643283844
+                },
+                {
+                    "word": " at",
+                    "start": 4.74,
+                    "end": 4.86,
+                    "probability": 0.7246843576431274
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 486,
+            "start": 4.86,
+            "end": 8.68,
+            "text": " new businesses.",
+            "tokens": [
+                50364,
+                777,
+                6011,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.823963483174642,
+            "compression_ratio": 0.6521739130434783,
+            "no_speech_prob": 0.004735103342682123,
+            "words": [
+                {
+                    "word": " new",
+                    "start": 4.86,
+                    "end": 5.88,
+                    "probability": 0.000307898415485397
+                },
+                {
+                    "word": " businesses.",
+                    "start": 5.88,
+                    "end": 8.68,
+                    "probability": 0.11341331154108047
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

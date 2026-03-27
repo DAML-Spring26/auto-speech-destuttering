@@ -1,0 +1,61 @@
+{
+    "text": " The Committee reached unanimous contentious.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.4,
+            "text": " The Committee reached unanimous contentious.",
+            "tokens": [
+                50364,
+                440,
+                11556,
+                6488,
+                29710,
+                563,
+                2701,
+                851,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45616167241876776,
+            "compression_ratio": 0.88,
+            "no_speech_prob": 0.032728925347328186,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.48,
+                    "probability": 0.6882129311561584
+                },
+                {
+                    "word": " Committee",
+                    "start": 0.48,
+                    "end": 0.78,
+                    "probability": 0.6449058651924133
+                },
+                {
+                    "word": " reached",
+                    "start": 0.78,
+                    "end": 1.1,
+                    "probability": 0.5343177914619446
+                },
+                {
+                    "word": " unanimous",
+                    "start": 1.1,
+                    "end": 1.64,
+                    "probability": 0.9958707690238953
+                },
+                {
+                    "word": " contentious.",
+                    "start": 1.64,
+                    "end": 2.4,
+                    "probability": 0.9254821538925171
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

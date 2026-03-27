@@ -1,0 +1,80 @@
+{
+    "text": " Could you bend the annual report by email?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.04,
+            "text": " Could you bend the annual report by email?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                11229,
+                264,
+                9784,
+                2275,
+                538,
+                3796,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3326590061187744,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.07841919362545013,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.9246214032173157
+                },
+                {
+                    "word": " you",
+                    "start": 0.14,
+                    "end": 0.26,
+                    "probability": 0.9935920834541321
+                },
+                {
+                    "word": " bend",
+                    "start": 0.26,
+                    "end": 0.5,
+                    "probability": 0.9292963147163391
+                },
+                {
+                    "word": " the",
+                    "start": 0.5,
+                    "end": 0.74,
+                    "probability": 0.974765419960022
+                },
+                {
+                    "word": " annual",
+                    "start": 0.74,
+                    "end": 0.98,
+                    "probability": 0.9676717519760132
+                },
+                {
+                    "word": " report",
+                    "start": 0.98,
+                    "end": 1.38,
+                    "probability": 0.9930511713027954
+                },
+                {
+                    "word": " by",
+                    "start": 1.38,
+                    "end": 1.64,
+                    "probability": 0.9801617860794067
+                },
+                {
+                    "word": " email?",
+                    "start": 1.64,
+                    "end": 2.04,
+                    "probability": 0.9575556516647339
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

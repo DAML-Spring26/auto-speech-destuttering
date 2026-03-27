@@ -1,0 +1,94 @@
+{
+    "text": " Have you seen the latest episode of that TV series?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.44,
+            "text": " Have you seen the latest episode of that TV series?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                1612,
+                264,
+                6792,
+                3500,
+                295,
+                300,
+                3558,
+                2638,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34670318875994,
+            "compression_ratio": 0.8947368421052632,
+            "no_speech_prob": 0.02199043706059456,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.9141238927841187
+                },
+                {
+                    "word": " you",
+                    "start": 0.2,
+                    "end": 0.36,
+                    "probability": 0.9926482439041138
+                },
+                {
+                    "word": " seen",
+                    "start": 0.36,
+                    "end": 0.6,
+                    "probability": 0.9974886178970337
+                },
+                {
+                    "word": " the",
+                    "start": 0.6,
+                    "end": 0.86,
+                    "probability": 0.9582763910293579
+                },
+                {
+                    "word": " latest",
+                    "start": 0.86,
+                    "end": 1.58,
+                    "probability": 0.43271857500076294
+                },
+                {
+                    "word": " episode",
+                    "start": 1.58,
+                    "end": 2.16,
+                    "probability": 0.9579703211784363
+                },
+                {
+                    "word": " of",
+                    "start": 2.16,
+                    "end": 2.36,
+                    "probability": 0.9398930072784424
+                },
+                {
+                    "word": " that",
+                    "start": 2.36,
+                    "end": 2.5,
+                    "probability": 0.39193496108055115
+                },
+                {
+                    "word": " TV",
+                    "start": 2.5,
+                    "end": 2.86,
+                    "probability": 0.9123982787132263
+                },
+                {
+                    "word": " series?",
+                    "start": 2.86,
+                    "end": 3.44,
+                    "probability": 0.9684667587280273
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

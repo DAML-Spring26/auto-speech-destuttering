@@ -1,0 +1,81 @@
+{
+    "text": " What's the estimated time for the server upgrade?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.54,
+            "text": " What's the estimated time for the server upgrade?",
+            "tokens": [
+                50364,
+                708,
+                311,
+                264,
+                14109,
+                565,
+                337,
+                264,
+                7154,
+                11484,
+                30,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37540395443256086,
+            "compression_ratio": 0.9423076923076923,
+            "no_speech_prob": 0.05251092091202736,
+            "words": [
+                {
+                    "word": " What's",
+                    "start": 0.0,
+                    "end": 1.02,
+                    "probability": 0.8108192682266235
+                },
+                {
+                    "word": " the",
+                    "start": 1.02,
+                    "end": 1.14,
+                    "probability": 0.9917520880699158
+                },
+                {
+                    "word": " estimated",
+                    "start": 1.14,
+                    "end": 1.68,
+                    "probability": 0.9920136332511902
+                },
+                {
+                    "word": " time",
+                    "start": 1.68,
+                    "end": 2.2,
+                    "probability": 0.9911551475524902
+                },
+                {
+                    "word": " for",
+                    "start": 2.2,
+                    "end": 2.74,
+                    "probability": 0.9884578585624695
+                },
+                {
+                    "word": " the",
+                    "start": 2.74,
+                    "end": 3.08,
+                    "probability": 0.991773784160614
+                },
+                {
+                    "word": " server",
+                    "start": 3.08,
+                    "end": 4.14,
+                    "probability": 0.8017223477363586
+                },
+                {
+                    "word": " upgrade?",
+                    "start": 4.14,
+                    "end": 4.54,
+                    "probability": 0.9893247485160828
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

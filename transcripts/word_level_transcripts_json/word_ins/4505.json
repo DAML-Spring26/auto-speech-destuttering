@@ -1,0 +1,101 @@
+{
+    "text": " The doctor recommends getting more exercise and eating a balanced diet.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.6,
+            "text": " The doctor recommends getting more exercise and eating a balanced diet.",
+            "tokens": [
+                50364,
+                440,
+                4631,
+                34556,
+                1242,
+                544,
+                5380,
+                293,
+                3936,
+                257,
+                13902,
+                6339,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3528086026509603,
+            "compression_ratio": 1.0441176470588236,
+            "no_speech_prob": 0.0792892575263977,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.8,
+                    "probability": 0.7250602841377258
+                },
+                {
+                    "word": " doctor",
+                    "start": 0.8,
+                    "end": 1.18,
+                    "probability": 0.9482563734054565
+                },
+                {
+                    "word": " recommends",
+                    "start": 1.18,
+                    "end": 1.68,
+                    "probability": 0.9973242282867432
+                },
+                {
+                    "word": " getting",
+                    "start": 1.68,
+                    "end": 1.94,
+                    "probability": 0.9850795865058899
+                },
+                {
+                    "word": " more",
+                    "start": 1.94,
+                    "end": 2.2,
+                    "probability": 0.9920001029968262
+                },
+                {
+                    "word": " exercise",
+                    "start": 2.2,
+                    "end": 2.76,
+                    "probability": 0.995267927646637
+                },
+                {
+                    "word": " and",
+                    "start": 2.76,
+                    "end": 3.44,
+                    "probability": 0.9640960097312927
+                },
+                {
+                    "word": " eating",
+                    "start": 3.44,
+                    "end": 5.34,
+                    "probability": 0.9123268127441406
+                },
+                {
+                    "word": " a",
+                    "start": 5.34,
+                    "end": 5.68,
+                    "probability": 0.9947222471237183
+                },
+                {
+                    "word": " balanced",
+                    "start": 5.68,
+                    "end": 6.1,
+                    "probability": 0.9946053624153137
+                },
+                {
+                    "word": " diet.",
+                    "start": 6.1,
+                    "end": 6.6,
+                    "probability": 0.9989675283432007
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

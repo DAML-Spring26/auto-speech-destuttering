@@ -1,0 +1,95 @@
+{
+    "text": " We'll be arriving at our destination in approximately 2 hours.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.02,
+            "text": " We'll be arriving at our destination in approximately 2 hours.",
+            "tokens": [
+                50364,
+                492,
+                603,
+                312,
+                22436,
+                412,
+                527,
+                12236,
+                294,
+                10447,
+                568,
+                2496,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.283735466003418,
+            "compression_ratio": 0.9117647058823529,
+            "no_speech_prob": 0.021869685500860214,
+            "words": [
+                {
+                    "word": " We'll",
+                    "start": 0.0,
+                    "end": 0.56,
+                    "probability": 0.8507714867591858
+                },
+                {
+                    "word": " be",
+                    "start": 0.56,
+                    "end": 0.66,
+                    "probability": 0.9986695051193237
+                },
+                {
+                    "word": " arriving",
+                    "start": 0.66,
+                    "end": 1.06,
+                    "probability": 0.995177149772644
+                },
+                {
+                    "word": " at",
+                    "start": 1.06,
+                    "end": 1.28,
+                    "probability": 0.9989140033721924
+                },
+                {
+                    "word": " our",
+                    "start": 1.28,
+                    "end": 1.42,
+                    "probability": 0.9982213377952576
+                },
+                {
+                    "word": " destination",
+                    "start": 1.42,
+                    "end": 2.1,
+                    "probability": 0.9989136457443237
+                },
+                {
+                    "word": " in",
+                    "start": 2.1,
+                    "end": 2.38,
+                    "probability": 0.9747153520584106
+                },
+                {
+                    "word": " approximately",
+                    "start": 2.38,
+                    "end": 3.08,
+                    "probability": 0.9933152794837952
+                },
+                {
+                    "word": " 2",
+                    "start": 3.08,
+                    "end": 3.62,
+                    "probability": 0.5611122846603394
+                },
+                {
+                    "word": " hours.",
+                    "start": 3.62,
+                    "end": 4.02,
+                    "probability": 0.9717199802398682
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

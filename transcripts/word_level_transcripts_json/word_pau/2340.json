@@ -1,0 +1,94 @@
+{
+    "text": " Can you please clarify the main points of the presentation?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.02,
+            "text": " Can you please clarify the main points of the presentation?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                1767,
+                17594,
+                264,
+                2135,
+                2793,
+                295,
+                264,
+                5860,
+                30,
+                50628
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4035278729030064,
+            "compression_ratio": 0.9365079365079365,
+            "no_speech_prob": 0.028820088133215904,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.22176077961921692
+                },
+                {
+                    "word": " you",
+                    "start": 0.18,
+                    "end": 0.3,
+                    "probability": 0.9904252886772156
+                },
+                {
+                    "word": " please",
+                    "start": 0.3,
+                    "end": 0.62,
+                    "probability": 0.9977145195007324
+                },
+                {
+                    "word": " clarify",
+                    "start": 0.62,
+                    "end": 0.98,
+                    "probability": 0.9936597943305969
+                },
+                {
+                    "word": " the",
+                    "start": 0.98,
+                    "end": 1.36,
+                    "probability": 0.9878687262535095
+                },
+                {
+                    "word": " main",
+                    "start": 1.36,
+                    "end": 1.52,
+                    "probability": 0.9758623242378235
+                },
+                {
+                    "word": " points",
+                    "start": 1.52,
+                    "end": 1.96,
+                    "probability": 0.8608749508857727
+                },
+                {
+                    "word": " of",
+                    "start": 1.96,
+                    "end": 2.2,
+                    "probability": 0.9851216077804565
+                },
+                {
+                    "word": " the",
+                    "start": 2.2,
+                    "end": 4.26,
+                    "probability": 0.6906237006187439
+                },
+                {
+                    "word": " presentation?",
+                    "start": 4.26,
+                    "end": 5.02,
+                    "probability": 0.9752237200737
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

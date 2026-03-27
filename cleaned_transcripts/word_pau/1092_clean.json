@@ -1,48 +1,28 @@
 {
-    "text": " Your order will be ready for... Pick up in 15 minutes.",
+    "text": " Your order will be for pickups.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 2.0,
-            "text": " Your order will be ready for...",
+            "end": 5.0,
+            "text": " Your order will be for pickups.",
             "tokens": [
                 50364,
                 2260,
                 1668,
                 486,
                 312,
-                1919,
                 337,
-                485,
-                50464
-            ],
-            "temperature": 0.0,
-            "avg_logprob": -0.5129663679334853,
-            "compression_ratio": 0.8709677419354839,
-            "no_speech_prob": 0.007605807855725288
-        },
-        {
-            "id": 1,
-            "seek": 0,
-            "start": 3.88,
-            "end": 5.88,
-            "text": " Pick up in 15 minutes.",
-            "tokens": [
-                50558,
-                14129,
-                493,
-                294,
-                2119,
-                2077,
+                1888,
+                7528,
                 13,
-                50658
+                50614
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.5129663679334853,
-            "compression_ratio": 0.8709677419354839,
-            "no_speech_prob": 0.007605807855725288
+            "avg_logprob": -0.5353726040233265,
+            "compression_ratio": 0.7948717948717948,
+            "no_speech_prob": 0.01264409814029932
         }
     ],
     "language": "en"

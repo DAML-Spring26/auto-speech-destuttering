@@ -1,0 +1,66 @@
+{
+    "text": " The research team made significant process.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.34,
+            "text": " The research team made significant process.",
+            "tokens": [
+                50364,
+                440,
+                2132,
+                1469,
+                1027,
+                4776,
+                1399,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35095212459564207,
+            "compression_ratio": 0.8431372549019608,
+            "no_speech_prob": 0.004954558797180653,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6983696222305298
+                },
+                {
+                    "word": " research",
+                    "start": 0.16,
+                    "end": 0.56,
+                    "probability": 0.9754320979118347
+                },
+                {
+                    "word": " team",
+                    "start": 0.56,
+                    "end": 0.96,
+                    "probability": 0.9990973472595215
+                },
+                {
+                    "word": " made",
+                    "start": 0.96,
+                    "end": 1.12,
+                    "probability": 0.9880180358886719
+                },
+                {
+                    "word": " significant",
+                    "start": 1.12,
+                    "end": 1.64,
+                    "probability": 0.9794628024101257
+                },
+                {
+                    "word": " process.",
+                    "start": 1.64,
+                    "end": 2.34,
+                    "probability": 0.889752984046936
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

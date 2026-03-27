@@ -1,0 +1,102 @@
+{
+    "text": " The pharmacy will have your prescription ready in an hour. Well...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.74,
+            "text": " The pharmacy will have your prescription ready in an hour. Well...",
+            "tokens": [
+                50364,
+                440,
+                30639,
+                486,
+                362,
+                428,
+                22456,
+                1919,
+                294,
+                364,
+                1773,
+                13,
+                1042,
+                485,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33744189143180847,
+            "compression_ratio": 0.9705882352941176,
+            "no_speech_prob": 0.14424513280391693,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.8,
+                    "probability": 0.7887711524963379
+                },
+                {
+                    "word": " pharmacy",
+                    "start": 0.8,
+                    "end": 1.4,
+                    "probability": 0.8677811622619629
+                },
+                {
+                    "word": " will",
+                    "start": 1.4,
+                    "end": 1.88,
+                    "probability": 0.928556501865387
+                },
+                {
+                    "word": " have",
+                    "start": 1.88,
+                    "end": 2.1,
+                    "probability": 0.998900294303894
+                },
+                {
+                    "word": " your",
+                    "start": 2.1,
+                    "end": 2.26,
+                    "probability": 0.9940937161445618
+                },
+                {
+                    "word": " prescription",
+                    "start": 2.26,
+                    "end": 2.82,
+                    "probability": 0.9840579628944397
+                },
+                {
+                    "word": " ready",
+                    "start": 2.82,
+                    "end": 3.18,
+                    "probability": 0.9829959273338318
+                },
+                {
+                    "word": " in",
+                    "start": 3.18,
+                    "end": 3.38,
+                    "probability": 0.9905969500541687
+                },
+                {
+                    "word": " an",
+                    "start": 3.38,
+                    "end": 3.46,
+                    "probability": 0.9952569603919983
+                },
+                {
+                    "word": " hour.",
+                    "start": 3.46,
+                    "end": 3.8,
+                    "probability": 0.9997501969337463
+                },
+                {
+                    "word": " Well...",
+                    "start": 4.18,
+                    "end": 4.74,
+                    "probability": 0.7319183647632599
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

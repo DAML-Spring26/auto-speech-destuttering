@@ -1,0 +1,62 @@
+{
+    "text": " Genetic Research Advances Medical Treatment.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.84,
+            "text": " Genetic Research Advances Medical Treatment.",
+            "tokens": [
+                50364,
+                3632,
+                3532,
+                10303,
+                13634,
+                2676,
+                15896,
+                20298,
+                518,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5945555766423544,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.03398742899298668,
+            "words": [
+                {
+                    "word": " Genetic",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.32056039571762085
+                },
+                {
+                    "word": " Research",
+                    "start": 0.36,
+                    "end": 0.84,
+                    "probability": 0.8441270589828491
+                },
+                {
+                    "word": " Advances",
+                    "start": 0.84,
+                    "end": 1.62,
+                    "probability": 0.7251841425895691
+                },
+                {
+                    "word": " Medical",
+                    "start": 1.62,
+                    "end": 2.14,
+                    "probability": 0.935027003288269
+                },
+                {
+                    "word": " Treatment.",
+                    "start": 2.14,
+                    "end": 2.84,
+                    "probability": 0.9851446449756622
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

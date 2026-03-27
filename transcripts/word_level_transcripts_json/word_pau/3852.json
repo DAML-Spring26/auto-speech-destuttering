@@ -1,0 +1,88 @@
+{
+    "text": " If you have any questions, please raise your hand.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.02,
+            "text": " If you have any questions, please raise your hand.",
+            "tokens": [
+                50364,
+                759,
+                291,
+                362,
+                604,
+                1651,
+                11,
+                1767,
+                5300,
+                428,
+                1011,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2933565889086042,
+            "compression_ratio": 0.9259259259259259,
+            "no_speech_prob": 0.006875114981085062,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.8974473476409912
+                },
+                {
+                    "word": " you",
+                    "start": 0.2,
+                    "end": 0.32,
+                    "probability": 0.9990237951278687
+                },
+                {
+                    "word": " have",
+                    "start": 0.32,
+                    "end": 0.54,
+                    "probability": 0.9976416826248169
+                },
+                {
+                    "word": " any",
+                    "start": 0.54,
+                    "end": 0.74,
+                    "probability": 0.9940766096115112
+                },
+                {
+                    "word": " questions,",
+                    "start": 0.74,
+                    "end": 1.32,
+                    "probability": 0.9970325231552124
+                },
+                {
+                    "word": " please",
+                    "start": 1.92,
+                    "end": 4.76,
+                    "probability": 0.952537477016449
+                },
+                {
+                    "word": " raise",
+                    "start": 4.76,
+                    "end": 5.1,
+                    "probability": 0.9979681372642517
+                },
+                {
+                    "word": " your",
+                    "start": 5.1,
+                    "end": 5.44,
+                    "probability": 0.9971375465393066
+                },
+                {
+                    "word": " hand.",
+                    "start": 5.44,
+                    "end": 6.02,
+                    "probability": 0.9968100190162659
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,52 @@
+{
+    "text": " Please check the weight.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.96,
+            "text": " Please check the weight.",
+            "tokens": [
+                50364,
+                2555,
+                1520,
+                264,
+                3364,
+                13,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.609203577041626,
+            "compression_ratio": 0.75,
+            "no_speech_prob": 0.03886878862977028,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.4276449382305145
+                },
+                {
+                    "word": " check",
+                    "start": 0.18,
+                    "end": 0.5,
+                    "probability": 0.9865522980690002
+                },
+                {
+                    "word": " the",
+                    "start": 0.5,
+                    "end": 0.72,
+                    "probability": 0.9749999642372131
+                },
+                {
+                    "word": " weight.",
+                    "start": 0.72,
+                    "end": 0.96,
+                    "probability": 0.7527117133140564
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

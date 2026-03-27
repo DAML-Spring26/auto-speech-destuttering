@@ -1,0 +1,101 @@
+{
+    "text": " Both marketing team and the sales department will present their reports.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.98,
+            "text": " Both marketing team and the sales department will present their reports.",
+            "tokens": [
+                50364,
+                6767,
+                6370,
+                1469,
+                293,
+                264,
+                5763,
+                5882,
+                486,
+                1974,
+                641,
+                7122,
+                13,
+                50636
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3259577751159668,
+            "compression_ratio": 1.0285714285714285,
+            "no_speech_prob": 0.006457078270614147,
+            "words": [
+                {
+                    "word": " Both",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.7559511065483093
+                },
+                {
+                    "word": " marketing",
+                    "start": 0.26,
+                    "end": 0.88,
+                    "probability": 0.8781391978263855
+                },
+                {
+                    "word": " team",
+                    "start": 0.88,
+                    "end": 1.44,
+                    "probability": 0.9429095387458801
+                },
+                {
+                    "word": " and",
+                    "start": 1.44,
+                    "end": 1.9,
+                    "probability": 0.85033118724823
+                },
+                {
+                    "word": " the",
+                    "start": 1.9,
+                    "end": 2.04,
+                    "probability": 0.976143479347229
+                },
+                {
+                    "word": " sales",
+                    "start": 2.04,
+                    "end": 2.4,
+                    "probability": 0.9387421011924744
+                },
+                {
+                    "word": " department",
+                    "start": 2.4,
+                    "end": 2.98,
+                    "probability": 0.9900396466255188
+                },
+                {
+                    "word": " will",
+                    "start": 2.98,
+                    "end": 3.36,
+                    "probability": 0.9957822561264038
+                },
+                {
+                    "word": " present",
+                    "start": 3.36,
+                    "end": 3.9,
+                    "probability": 0.9940580129623413
+                },
+                {
+                    "word": " their",
+                    "start": 3.9,
+                    "end": 4.34,
+                    "probability": 0.9857012033462524
+                },
+                {
+                    "word": " reports.",
+                    "start": 4.34,
+                    "end": 4.98,
+                    "probability": 0.9845002889633179
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

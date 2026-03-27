@@ -1,0 +1,147 @@
+{
+    "text": " The film's stunning visual effects and compelling storyline have like earned it multiple award nominations.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.74,
+            "text": " The film's stunning visual effects and compelling storyline have like",
+            "tokens": [
+                50364,
+                440,
+                2007,
+                311,
+                18550,
+                5056,
+                5065,
+                293,
+                20050,
+                30828,
+                362,
+                411,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24240073290738193,
+            "compression_ratio": 1.1505376344086022,
+            "no_speech_prob": 0.012804161757230759,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.9187580943107605
+                },
+                {
+                    "word": " film's",
+                    "start": 0.44,
+                    "end": 0.92,
+                    "probability": 0.9496204853057861
+                },
+                {
+                    "word": " stunning",
+                    "start": 0.92,
+                    "end": 1.12,
+                    "probability": 0.9984934329986572
+                },
+                {
+                    "word": " visual",
+                    "start": 1.12,
+                    "end": 1.52,
+                    "probability": 0.9970464110374451
+                },
+                {
+                    "word": " effects",
+                    "start": 1.52,
+                    "end": 1.92,
+                    "probability": 0.9927582740783691
+                },
+                {
+                    "word": " and",
+                    "start": 1.92,
+                    "end": 2.22,
+                    "probability": 0.9892176389694214
+                },
+                {
+                    "word": " compelling",
+                    "start": 2.22,
+                    "end": 2.62,
+                    "probability": 0.9940959215164185
+                },
+                {
+                    "word": " storyline",
+                    "start": 2.62,
+                    "end": 3.14,
+                    "probability": 0.9697885513305664
+                },
+                {
+                    "word": " have",
+                    "start": 3.14,
+                    "end": 3.46,
+                    "probability": 0.9983013868331909
+                },
+                {
+                    "word": " like",
+                    "start": 3.46,
+                    "end": 3.74,
+                    "probability": 0.8812839388847351
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.74,
+            "end": 5.9,
+            "text": " earned it multiple award nominations.",
+            "tokens": [
+                50564,
+                12283,
+                309,
+                3866,
+                7130,
+                46331,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24240073290738193,
+            "compression_ratio": 1.1505376344086022,
+            "no_speech_prob": 0.012804161757230759,
+            "words": [
+                {
+                    "word": " earned",
+                    "start": 3.74,
+                    "end": 4.46,
+                    "probability": 0.3053484857082367
+                },
+                {
+                    "word": " it",
+                    "start": 4.46,
+                    "end": 4.62,
+                    "probability": 0.9463503956794739
+                },
+                {
+                    "word": " multiple",
+                    "start": 4.62,
+                    "end": 5.04,
+                    "probability": 0.9603139162063599
+                },
+                {
+                    "word": " award",
+                    "start": 5.04,
+                    "end": 5.44,
+                    "probability": 0.9586270451545715
+                },
+                {
+                    "word": " nominations.",
+                    "start": 5.44,
+                    "end": 5.9,
+                    "probability": 0.9984816908836365
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

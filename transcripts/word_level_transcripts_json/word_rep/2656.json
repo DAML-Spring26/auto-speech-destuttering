@@ -1,0 +1,52 @@
+{
+    "text": " Paint paint the wall.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.3,
+            "text": " Paint paint the wall.",
+            "tokens": [
+                50364,
+                34865,
+                4225,
+                264,
+                2929,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6697663068771362,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.05673493072390556,
+            "words": [
+                {
+                    "word": " Paint",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.5099809765815735
+                },
+                {
+                    "word": " paint",
+                    "start": 0.38,
+                    "end": 0.86,
+                    "probability": 0.7453759908676147
+                },
+                {
+                    "word": " the",
+                    "start": 0.86,
+                    "end": 1.1,
+                    "probability": 0.686957836151123
+                },
+                {
+                    "word": " wall.",
+                    "start": 1.1,
+                    "end": 1.3,
+                    "probability": 0.9918113946914673
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,66 @@
+{
+    "text": " The laboratory results perform our hypothesis.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.58,
+            "text": " The laboratory results perform our hypothesis.",
+            "tokens": [
+                50364,
+                440,
+                16523,
+                3542,
+                2042,
+                527,
+                17291,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39109015464782715,
+            "compression_ratio": 0.8518518518518519,
+            "no_speech_prob": 0.006043354980647564,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6990792155265808
+                },
+                {
+                    "word": " laboratory",
+                    "start": 0.16,
+                    "end": 0.58,
+                    "probability": 0.9416103363037109
+                },
+                {
+                    "word": " results",
+                    "start": 0.58,
+                    "end": 1.1,
+                    "probability": 0.9913467764854431
+                },
+                {
+                    "word": " perform",
+                    "start": 1.1,
+                    "end": 1.64,
+                    "probability": 0.9386992454528809
+                },
+                {
+                    "word": " our",
+                    "start": 1.64,
+                    "end": 1.9,
+                    "probability": 0.7048026323318481
+                },
+                {
+                    "word": " hypothesis.",
+                    "start": 1.9,
+                    "end": 2.58,
+                    "probability": 0.9209206104278564
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

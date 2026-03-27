@@ -1,0 +1,87 @@
+{
+    "text": " The children were excited about their upcoming school trip.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.1,
+            "text": " The children were excited about their upcoming school trip.",
+            "tokens": [
+                50364,
+                440,
+                2227,
+                645,
+                2919,
+                466,
+                641,
+                11500,
+                1395,
+                4931,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3598605669461764,
+            "compression_ratio": 0.9365079365079365,
+            "no_speech_prob": 0.02153826132416725,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.47025126218795776
+                },
+                {
+                    "word": " children",
+                    "start": 0.12,
+                    "end": 0.56,
+                    "probability": 0.9864087104797363
+                },
+                {
+                    "word": " were",
+                    "start": 0.56,
+                    "end": 0.86,
+                    "probability": 0.9737083911895752
+                },
+                {
+                    "word": " excited",
+                    "start": 0.86,
+                    "end": 1.36,
+                    "probability": 0.9677441120147705
+                },
+                {
+                    "word": " about",
+                    "start": 1.36,
+                    "end": 1.74,
+                    "probability": 0.9969155788421631
+                },
+                {
+                    "word": " their",
+                    "start": 1.74,
+                    "end": 2.06,
+                    "probability": 0.8407956957817078
+                },
+                {
+                    "word": " upcoming",
+                    "start": 2.06,
+                    "end": 5.3,
+                    "probability": 0.9661828279495239
+                },
+                {
+                    "word": " school",
+                    "start": 5.3,
+                    "end": 5.76,
+                    "probability": 0.9861721396446228
+                },
+                {
+                    "word": " trip.",
+                    "start": 5.76,
+                    "end": 6.1,
+                    "probability": 0.9963148236274719
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

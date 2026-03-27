@@ -1,0 +1,59 @@
+{
+    "text": " The monitor reviewed performance methods.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.72,
+            "text": " The monitor reviewed performance methods.",
+            "tokens": [
+                50364,
+                440,
+                6002,
+                18429,
+                3389,
+                7150,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6746954917907715,
+            "compression_ratio": 0.8541666666666666,
+            "no_speech_prob": 0.005284592509269714,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.5334534645080566
+                },
+                {
+                    "word": " monitor",
+                    "start": 0.08,
+                    "end": 0.4,
+                    "probability": 0.3355749547481537
+                },
+                {
+                    "word": " reviewed",
+                    "start": 0.4,
+                    "end": 0.76,
+                    "probability": 0.18029461801052094
+                },
+                {
+                    "word": " performance",
+                    "start": 0.76,
+                    "end": 1.3,
+                    "probability": 0.8820669054985046
+                },
+                {
+                    "word": " methods.",
+                    "start": 1.3,
+                    "end": 1.72,
+                    "probability": 0.9963376522064209
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

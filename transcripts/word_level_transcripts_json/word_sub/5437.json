@@ -1,0 +1,81 @@
+{
+    "text": " The company's profit margins exceeded expectations this quarter.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.92,
+            "text": " The company's profit margins exceeded expectations this quarter.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                7475,
+                30317,
+                38026,
+                9843,
+                341,
+                6555,
+                13,
+                50572
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3619742760291466,
+            "compression_ratio": 0.9411764705882353,
+            "no_speech_prob": 0.004025004338473082,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7254744172096252
+                },
+                {
+                    "word": " company's",
+                    "start": 0.12,
+                    "end": 0.74,
+                    "probability": 0.9664740860462189
+                },
+                {
+                    "word": " profit",
+                    "start": 0.74,
+                    "end": 1.08,
+                    "probability": 0.8440239429473877
+                },
+                {
+                    "word": " margins",
+                    "start": 1.08,
+                    "end": 1.5,
+                    "probability": 0.9836564064025879
+                },
+                {
+                    "word": " exceeded",
+                    "start": 1.5,
+                    "end": 2.14,
+                    "probability": 0.989983320236206
+                },
+                {
+                    "word": " expectations",
+                    "start": 2.14,
+                    "end": 3.14,
+                    "probability": 0.981012225151062
+                },
+                {
+                    "word": " this",
+                    "start": 3.14,
+                    "end": 3.46,
+                    "probability": 0.6767076849937439
+                },
+                {
+                    "word": " quarter.",
+                    "start": 3.46,
+                    "end": 3.92,
+                    "probability": 0.9170132279396057
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

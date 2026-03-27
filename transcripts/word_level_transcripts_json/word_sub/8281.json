@@ -1,0 +1,80 @@
+{
+    "text": " the psychologist conducted a study on cognitive buses.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.16,
+            "text": " the psychologist conducted a study on cognitive buses.",
+            "tokens": [
+                50364,
+                264,
+                29514,
+                13809,
+                257,
+                2979,
+                322,
+                15605,
+                20519,
+                13,
+                50540
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42210185527801514,
+            "compression_ratio": 0.9,
+            "no_speech_prob": 0.0033138361759483814,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.4128478765487671
+                },
+                {
+                    "word": " psychologist",
+                    "start": 0.14,
+                    "end": 0.76,
+                    "probability": 0.9185981750488281
+                },
+                {
+                    "word": " conducted",
+                    "start": 0.76,
+                    "end": 1.48,
+                    "probability": 0.9964807629585266
+                },
+                {
+                    "word": " a",
+                    "start": 1.48,
+                    "end": 1.66,
+                    "probability": 0.994379460811615
+                },
+                {
+                    "word": " study",
+                    "start": 1.66,
+                    "end": 2.02,
+                    "probability": 0.9988974332809448
+                },
+                {
+                    "word": " on",
+                    "start": 2.02,
+                    "end": 2.26,
+                    "probability": 0.9964497089385986
+                },
+                {
+                    "word": " cognitive",
+                    "start": 2.26,
+                    "end": 2.68,
+                    "probability": 0.7890763878822327
+                },
+                {
+                    "word": " buses.",
+                    "start": 2.68,
+                    "end": 3.16,
+                    "probability": 0.9232218861579895
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

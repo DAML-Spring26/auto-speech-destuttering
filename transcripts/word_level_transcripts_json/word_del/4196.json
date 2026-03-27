@@ -1,0 +1,94 @@
+{
+    "text": " She asked I had received the invitation to the wedding.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.32,
+            "text": " She asked I had received the invitation to the wedding.",
+            "tokens": [
+                50364,
+                1240,
+                2351,
+                286,
+                632,
+                4613,
+                264,
+                17890,
+                281,
+                264,
+                8523,
+                13,
+                50491
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33925700187683105,
+            "compression_ratio": 0.9649122807017544,
+            "no_speech_prob": 0.00560042355209589,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.6898207664489746
+                },
+                {
+                    "word": " asked",
+                    "start": 0.18,
+                    "end": 0.36,
+                    "probability": 0.836932897567749
+                },
+                {
+                    "word": " I",
+                    "start": 0.36,
+                    "end": 0.58,
+                    "probability": 0.7915528416633606
+                },
+                {
+                    "word": " had",
+                    "start": 0.58,
+                    "end": 0.7,
+                    "probability": 0.9070860147476196
+                },
+                {
+                    "word": " received",
+                    "start": 0.7,
+                    "end": 0.92,
+                    "probability": 0.9892933368682861
+                },
+                {
+                    "word": " the",
+                    "start": 0.92,
+                    "end": 1.14,
+                    "probability": 0.9894519448280334
+                },
+                {
+                    "word": " invitation",
+                    "start": 1.14,
+                    "end": 1.54,
+                    "probability": 0.9843716025352478
+                },
+                {
+                    "word": " to",
+                    "start": 1.54,
+                    "end": 2.02,
+                    "probability": 0.987108051776886
+                },
+                {
+                    "word": " the",
+                    "start": 2.02,
+                    "end": 2.12,
+                    "probability": 0.9940457344055176
+                },
+                {
+                    "word": " wedding.",
+                    "start": 2.12,
+                    "end": 2.32,
+                    "probability": 0.9977391958236694
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

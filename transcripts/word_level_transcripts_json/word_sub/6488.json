@@ -1,0 +1,88 @@
+{
+    "text": " The meteorologist predicted a severe thunderstorm for the evening.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.06,
+            "text": " The meteorologist predicted a severe thunderstorm for the evening.",
+            "tokens": [
+                50364,
+                440,
+                25313,
+                9201,
+                19147,
+                257,
+                8922,
+                39618,
+                337,
+                264,
+                5634,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33655960219247,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.01642138510942459,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.52,
+                    "probability": 0.7302425503730774
+                },
+                {
+                    "word": " meteorologist",
+                    "start": 0.52,
+                    "end": 1.1,
+                    "probability": 0.8760292530059814
+                },
+                {
+                    "word": " predicted",
+                    "start": 1.1,
+                    "end": 1.48,
+                    "probability": 0.995895504951477
+                },
+                {
+                    "word": " a",
+                    "start": 1.48,
+                    "end": 1.72,
+                    "probability": 0.9244841933250427
+                },
+                {
+                    "word": " severe",
+                    "start": 1.72,
+                    "end": 1.96,
+                    "probability": 0.9558423161506653
+                },
+                {
+                    "word": " thunderstorm",
+                    "start": 1.96,
+                    "end": 2.4,
+                    "probability": 0.9957008957862854
+                },
+                {
+                    "word": " for",
+                    "start": 2.4,
+                    "end": 2.7,
+                    "probability": 0.8988112211227417
+                },
+                {
+                    "word": " the",
+                    "start": 2.7,
+                    "end": 2.82,
+                    "probability": 0.9891248941421509
+                },
+                {
+                    "word": " evening.",
+                    "start": 2.82,
+                    "end": 3.06,
+                    "probability": 0.9463655352592468
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

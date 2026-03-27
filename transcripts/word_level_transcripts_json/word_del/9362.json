@@ -1,0 +1,87 @@
+{
+    "text": " the team won the championship as from our city.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.24,
+            "text": " the team won the championship as from our city.",
+            "tokens": [
+                50364,
+                264,
+                1469,
+                1582,
+                264,
+                19070,
+                382,
+                490,
+                527,
+                2307,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4792340351985051,
+            "compression_ratio": 0.8867924528301887,
+            "no_speech_prob": 0.1471993625164032,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.43625038862228394
+                },
+                {
+                    "word": " team",
+                    "start": 0.38,
+                    "end": 0.64,
+                    "probability": 0.9267405271530151
+                },
+                {
+                    "word": " won",
+                    "start": 0.64,
+                    "end": 0.78,
+                    "probability": 0.9422435760498047
+                },
+                {
+                    "word": " the",
+                    "start": 0.78,
+                    "end": 0.9,
+                    "probability": 0.9897893071174622
+                },
+                {
+                    "word": " championship",
+                    "start": 0.9,
+                    "end": 1.4,
+                    "probability": 0.8727567791938782
+                },
+                {
+                    "word": " as",
+                    "start": 1.4,
+                    "end": 1.62,
+                    "probability": 0.6688500642776489
+                },
+                {
+                    "word": " from",
+                    "start": 1.62,
+                    "end": 1.78,
+                    "probability": 0.2409534752368927
+                },
+                {
+                    "word": " our",
+                    "start": 1.78,
+                    "end": 1.92,
+                    "probability": 0.966215193271637
+                },
+                {
+                    "word": " city.",
+                    "start": 1.92,
+                    "end": 2.24,
+                    "probability": 0.972567081451416
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

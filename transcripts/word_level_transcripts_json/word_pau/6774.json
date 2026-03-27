@@ -1,0 +1,87 @@
+{
+    "text": " we should consider the implications before making a decision.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.48,
+            "text": " we should consider the implications before making a decision.",
+            "tokens": [
+                50364,
+                321,
+                820,
+                1949,
+                264,
+                16602,
+                949,
+                1455,
+                257,
+                3537,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37567846591656023,
+            "compression_ratio": 0.9682539682539683,
+            "no_speech_prob": 0.011731755919754505,
+            "words": [
+                {
+                    "word": " we",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.4584880769252777
+                },
+                {
+                    "word": " should",
+                    "start": 0.18,
+                    "end": 0.32,
+                    "probability": 0.9974461793899536
+                },
+                {
+                    "word": " consider",
+                    "start": 0.32,
+                    "end": 0.72,
+                    "probability": 0.9966046810150146
+                },
+                {
+                    "word": " the",
+                    "start": 0.72,
+                    "end": 0.88,
+                    "probability": 0.9954237341880798
+                },
+                {
+                    "word": " implications",
+                    "start": 0.88,
+                    "end": 1.5,
+                    "probability": 0.994590163230896
+                },
+                {
+                    "word": " before",
+                    "start": 1.5,
+                    "end": 1.94,
+                    "probability": 0.9737032055854797
+                },
+                {
+                    "word": " making",
+                    "start": 1.94,
+                    "end": 4.78,
+                    "probability": 0.6639087796211243
+                },
+                {
+                    "word": " a",
+                    "start": 4.78,
+                    "end": 5.02,
+                    "probability": 0.9940136075019836
+                },
+                {
+                    "word": " decision.",
+                    "start": 5.02,
+                    "end": 5.48,
+                    "probability": 0.9981192946434021
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

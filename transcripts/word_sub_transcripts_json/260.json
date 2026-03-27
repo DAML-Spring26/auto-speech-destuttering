@@ -1,0 +1,60 @@
+{
+    "text": " The report retains valuable information.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.64,
+            "text": " The report retains valuable information.",
+            "tokens": [
+                50364,
+                440,
+                2275,
+                1533,
+                2315,
+                8263,
+                1589,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3635749578475952,
+            "compression_ratio": 0.8695652173913043,
+            "no_speech_prob": 0.010230611078441143,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.777535617351532
+                },
+                {
+                    "word": " report",
+                    "start": 0.1,
+                    "end": 0.42,
+                    "probability": 0.9902949333190918
+                },
+                {
+                    "word": " retains",
+                    "start": 0.42,
+                    "end": 1.18,
+                    "probability": 0.9786598086357117
+                },
+                {
+                    "word": " valuable",
+                    "start": 1.18,
+                    "end": 1.64,
+                    "probability": 0.9763210415840149
+                },
+                {
+                    "word": " information.",
+                    "start": 1.64,
+                    "end": 2.64,
+                    "probability": 0.9990906715393066
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

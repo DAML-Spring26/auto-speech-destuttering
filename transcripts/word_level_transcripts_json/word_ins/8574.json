@@ -1,0 +1,83 @@
+{
+    "text": " The results of the experiment were well, inconclusive.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.92,
+            "text": " The results of the experiment were well, inconclusive.",
+            "tokens": [
+                50364,
+                440,
+                3542,
+                295,
+                264,
+                5120,
+                645,
+                731,
+                11,
+                20972,
+                66,
+                7233,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33926092783610023,
+            "compression_ratio": 0.9152542372881356,
+            "no_speech_prob": 0.109969861805439,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 1.24,
+                    "probability": 0.7726655602455139
+                },
+                {
+                    "word": " results",
+                    "start": 1.24,
+                    "end": 1.6,
+                    "probability": 0.9953222870826721
+                },
+                {
+                    "word": " of",
+                    "start": 1.6,
+                    "end": 1.84,
+                    "probability": 0.997735857963562
+                },
+                {
+                    "word": " the",
+                    "start": 1.84,
+                    "end": 1.98,
+                    "probability": 0.9914458990097046
+                },
+                {
+                    "word": " experiment",
+                    "start": 1.98,
+                    "end": 2.58,
+                    "probability": 0.9957209229469299
+                },
+                {
+                    "word": " were",
+                    "start": 2.58,
+                    "end": 2.9,
+                    "probability": 0.9959171414375305
+                },
+                {
+                    "word": " well,",
+                    "start": 2.9,
+                    "end": 3.32,
+                    "probability": 0.9776234030723572
+                },
+                {
+                    "word": " inconclusive.",
+                    "start": 4.06,
+                    "end": 4.92,
+                    "probability": 0.9856198032697042
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

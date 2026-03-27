@@ -1,0 +1,102 @@
+{
+    "text": " The concert was starting in 15 minutes, please take your seats.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.58,
+            "text": " The concert was starting in 15 minutes, please take your seats.",
+            "tokens": [
+                50364,
+                440,
+                8543,
+                390,
+                2891,
+                294,
+                2119,
+                2077,
+                11,
+                1767,
+                747,
+                428,
+                11069,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3390504717826843,
+            "compression_ratio": 0.9264705882352942,
+            "no_speech_prob": 0.002558655571192503,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.747229278087616
+                },
+                {
+                    "word": " concert",
+                    "start": 0.14,
+                    "end": 0.66,
+                    "probability": 0.5236495137214661
+                },
+                {
+                    "word": " was",
+                    "start": 0.66,
+                    "end": 1.08,
+                    "probability": 0.5573394894599915
+                },
+                {
+                    "word": " starting",
+                    "start": 1.08,
+                    "end": 1.7,
+                    "probability": 0.9925825595855713
+                },
+                {
+                    "word": " in",
+                    "start": 1.7,
+                    "end": 2.04,
+                    "probability": 0.9921069145202637
+                },
+                {
+                    "word": " 15",
+                    "start": 2.04,
+                    "end": 2.6,
+                    "probability": 0.9057855606079102
+                },
+                {
+                    "word": " minutes,",
+                    "start": 2.6,
+                    "end": 2.98,
+                    "probability": 0.9784206748008728
+                },
+                {
+                    "word": " please",
+                    "start": 3.3,
+                    "end": 3.48,
+                    "probability": 0.9478181600570679
+                },
+                {
+                    "word": " take",
+                    "start": 3.48,
+                    "end": 3.86,
+                    "probability": 0.9941674470901489
+                },
+                {
+                    "word": " your",
+                    "start": 3.86,
+                    "end": 4.18,
+                    "probability": 0.9750483632087708
+                },
+                {
+                    "word": " seats.",
+                    "start": 4.18,
+                    "end": 4.58,
+                    "probability": 0.997231662273407
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

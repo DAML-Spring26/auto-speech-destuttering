@@ -1,0 +1,101 @@
+{
+    "text": " If you hear the alarm proceed to the home nearest exit.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.1199999999999999,
+            "end": 6.1,
+            "text": " If you hear the alarm proceed to the home nearest exit.",
+            "tokens": [
+                50364,
+                759,
+                291,
+                1568,
+                264,
+                14183,
+                8991,
+                281,
+                264,
+                1280,
+                23831,
+                11043,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4662281354268392,
+            "compression_ratio": 0.9322033898305084,
+            "no_speech_prob": 0.18592511117458344,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 1.1199999999999999,
+                    "end": 1.72,
+                    "probability": 0.7691431045532227
+                },
+                {
+                    "word": " you",
+                    "start": 1.72,
+                    "end": 1.88,
+                    "probability": 0.9978988170623779
+                },
+                {
+                    "word": " hear",
+                    "start": 1.88,
+                    "end": 2.1,
+                    "probability": 0.9851081967353821
+                },
+                {
+                    "word": " the",
+                    "start": 2.1,
+                    "end": 2.3,
+                    "probability": 0.9943540096282959
+                },
+                {
+                    "word": " alarm",
+                    "start": 2.3,
+                    "end": 2.66,
+                    "probability": 0.9882357120513916
+                },
+                {
+                    "word": " proceed",
+                    "start": 2.66,
+                    "end": 3.5,
+                    "probability": 0.5773770809173584
+                },
+                {
+                    "word": " to",
+                    "start": 3.5,
+                    "end": 3.78,
+                    "probability": 0.9947534799575806
+                },
+                {
+                    "word": " the",
+                    "start": 3.78,
+                    "end": 3.96,
+                    "probability": 0.9945334196090698
+                },
+                {
+                    "word": " home",
+                    "start": 3.96,
+                    "end": 4.28,
+                    "probability": 0.161298006772995
+                },
+                {
+                    "word": " nearest",
+                    "start": 4.28,
+                    "end": 5.58,
+                    "probability": 0.7936448454856873
+                },
+                {
+                    "word": " exit.",
+                    "start": 5.58,
+                    "end": 6.1,
+                    "probability": 0.9980250597000122
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

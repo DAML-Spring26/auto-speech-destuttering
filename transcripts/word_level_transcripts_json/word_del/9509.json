@@ -1,0 +1,110 @@
+{
+    "text": " If you're going to store it, could you pick up some milk?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.34,
+            "text": " If you're going to store it, could you pick up some milk?",
+            "tokens": [
+                50364,
+                759,
+                291,
+                434,
+                516,
+                281,
+                3531,
+                309,
+                11,
+                727,
+                291,
+                1888,
+                493,
+                512,
+                5392,
+                30,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.366585201687283,
+            "compression_ratio": 0.9344262295081968,
+            "no_speech_prob": 0.007670806720852852,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.5946741700172424
+                },
+                {
+                    "word": " you're",
+                    "start": 0.2,
+                    "end": 0.38,
+                    "probability": 0.9714885950088501
+                },
+                {
+                    "word": " going",
+                    "start": 0.38,
+                    "end": 0.54,
+                    "probability": 0.9848921298980713
+                },
+                {
+                    "word": " to",
+                    "start": 0.54,
+                    "end": 0.72,
+                    "probability": 0.9886007905006409
+                },
+                {
+                    "word": " store",
+                    "start": 0.72,
+                    "end": 1.0,
+                    "probability": 0.5380043387413025
+                },
+                {
+                    "word": " it,",
+                    "start": 1.0,
+                    "end": 1.18,
+                    "probability": 0.4680808484554291
+                },
+                {
+                    "word": " could",
+                    "start": 1.18,
+                    "end": 1.28,
+                    "probability": 0.9856245517730713
+                },
+                {
+                    "word": " you",
+                    "start": 1.28,
+                    "end": 1.42,
+                    "probability": 0.9967742562294006
+                },
+                {
+                    "word": " pick",
+                    "start": 1.42,
+                    "end": 1.62,
+                    "probability": 0.9919948577880859
+                },
+                {
+                    "word": " up",
+                    "start": 1.62,
+                    "end": 1.82,
+                    "probability": 0.994076132774353
+                },
+                {
+                    "word": " some",
+                    "start": 1.82,
+                    "end": 2.08,
+                    "probability": 0.9880129098892212
+                },
+                {
+                    "word": " milk?",
+                    "start": 2.08,
+                    "end": 2.34,
+                    "probability": 0.4963781535625458
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

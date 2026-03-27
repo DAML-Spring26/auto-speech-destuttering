@@ -1,0 +1,94 @@
+{
+    "text": " They go to the beach if the weather is nice.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.26,
+            "text": " They go to the beach if the weather is nice.",
+            "tokens": [
+                50364,
+                814,
+                352,
+                281,
+                264,
+                7534,
+                498,
+                264,
+                5503,
+                307,
+                1481,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.317014353615897,
+            "compression_ratio": 0.9565217391304348,
+            "no_speech_prob": 0.00771870044991374,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.49999648332595825
+                },
+                {
+                    "word": " go",
+                    "start": 0.16,
+                    "end": 0.4,
+                    "probability": 0.9963682889938354
+                },
+                {
+                    "word": " to",
+                    "start": 0.4,
+                    "end": 0.68,
+                    "probability": 0.9908903241157532
+                },
+                {
+                    "word": " the",
+                    "start": 0.68,
+                    "end": 0.82,
+                    "probability": 0.995681643486023
+                },
+                {
+                    "word": " beach",
+                    "start": 0.82,
+                    "end": 1.18,
+                    "probability": 0.9934688806533813
+                },
+                {
+                    "word": " if",
+                    "start": 1.18,
+                    "end": 1.38,
+                    "probability": 0.7857200503349304
+                },
+                {
+                    "word": " the",
+                    "start": 1.38,
+                    "end": 1.5,
+                    "probability": 0.9956604838371277
+                },
+                {
+                    "word": " weather",
+                    "start": 1.5,
+                    "end": 1.76,
+                    "probability": 0.9978487491607666
+                },
+                {
+                    "word": " is",
+                    "start": 1.76,
+                    "end": 2.0,
+                    "probability": 0.9910571575164795
+                },
+                {
+                    "word": " nice.",
+                    "start": 2.0,
+                    "end": 2.26,
+                    "probability": 0.9958243370056152
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

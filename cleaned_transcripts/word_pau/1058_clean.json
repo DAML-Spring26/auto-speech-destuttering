@@ -1,12 +1,12 @@
 {
-    "text": " Be sure to check the weather forecast before Planning outdoor activities",
+    "text": " Be sure to check the... ...pounding out this.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 2.24,
-            "text": " Be sure to check the weather forecast before",
+            "end": 2.0,
+            "text": " Be sure to check the...",
             "tokens": [
                 50364,
                 879,
@@ -14,33 +14,34 @@
                 281,
                 1520,
                 264,
-                5503,
-                14330,
-                949,
-                50476
+                485,
+                50464
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.5290476083755493,
-            "compression_ratio": 1.0434782608695652,
-            "no_speech_prob": 0.006923486944288015
+            "avg_logprob": -0.7315373701207778,
+            "compression_ratio": 0.9,
+            "no_speech_prob": 0.013700994662940502
         },
         {
             "id": 1,
             "seek": 0,
-            "start": 5.0,
-            "end": 6.5600000000000005,
-            "text": " Planning outdoor activities",
+            "start": 3.84,
+            "end": 5.84,
+            "text": " ...pounding out this.",
             "tokens": [
-                50614,
-                29308,
-                15942,
-                5354,
-                50692
+                50556,
+                1097,
+                79,
+                24625,
+                484,
+                341,
+                13,
+                50656
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.5290476083755493,
-            "compression_ratio": 1.0434782608695652,
-            "no_speech_prob": 0.006923486944288015
+            "avg_logprob": -0.7315373701207778,
+            "compression_ratio": 0.9,
+            "no_speech_prob": 0.013700994662940502
         }
     ],
     "language": "en"

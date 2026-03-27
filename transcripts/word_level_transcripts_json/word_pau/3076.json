@@ -1,0 +1,121 @@
+{
+    "text": " What's the address of that new gym you've been? Going to...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.32,
+            "text": " What's the address of that new gym you've been?",
+            "tokens": [
+                50364,
+                708,
+                311,
+                264,
+                2985,
+                295,
+                300,
+                777,
+                9222,
+                291,
+                600,
+                668,
+                30,
+                50550
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4484919548034668,
+            "compression_ratio": 0.9076923076923077,
+            "no_speech_prob": 0.0028089650440961123,
+            "words": [
+                {
+                    "word": " What's",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.8368044793605804
+                },
+                {
+                    "word": " the",
+                    "start": 0.38,
+                    "end": 0.48,
+                    "probability": 0.9976389408111572
+                },
+                {
+                    "word": " address",
+                    "start": 0.48,
+                    "end": 0.8,
+                    "probability": 0.9914189577102661
+                },
+                {
+                    "word": " of",
+                    "start": 0.8,
+                    "end": 1.06,
+                    "probability": 0.9882488250732422
+                },
+                {
+                    "word": " that",
+                    "start": 1.06,
+                    "end": 1.22,
+                    "probability": 0.9857497215270996
+                },
+                {
+                    "word": " new",
+                    "start": 1.22,
+                    "end": 1.46,
+                    "probability": 0.9872370958328247
+                },
+                {
+                    "word": " gym",
+                    "start": 1.46,
+                    "end": 1.7,
+                    "probability": 0.6769445538520813
+                },
+                {
+                    "word": " you've",
+                    "start": 1.7,
+                    "end": 2.0,
+                    "probability": 0.9839903712272644
+                },
+                {
+                    "word": " been?",
+                    "start": 2.0,
+                    "end": 2.32,
+                    "probability": 0.9992109537124634
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.54,
+            "end": 4.78,
+            "text": " Going to...",
+            "tokens": [
+                50550,
+                10963,
+                281,
+                485,
+                50600
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4484919548034668,
+            "compression_ratio": 0.9076923076923077,
+            "no_speech_prob": 0.0028089650440961123,
+            "words": [
+                {
+                    "word": " Going",
+                    "start": 3.54,
+                    "end": 4.16,
+                    "probability": 0.9288784265518188
+                },
+                {
+                    "word": " to...",
+                    "start": 4.16,
+                    "end": 4.78,
+                    "probability": 0.5922315642237663
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

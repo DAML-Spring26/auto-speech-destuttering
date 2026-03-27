@@ -1,0 +1,101 @@
+{
+    "text": " Either we increase our marketing budget we risk losing market share.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.92,
+            "text": " Either we increase our marketing budget we risk losing market share.",
+            "tokens": [
+                50364,
+                13746,
+                321,
+                3488,
+                527,
+                6370,
+                4706,
+                321,
+                3148,
+                7027,
+                2142,
+                2073,
+                13,
+                50572
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33841737111409503,
+            "compression_ratio": 1.0149253731343284,
+            "no_speech_prob": 0.0023386890534311533,
+            "words": [
+                {
+                    "word": " Either",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.5085142850875854
+                },
+                {
+                    "word": " we",
+                    "start": 0.3,
+                    "end": 0.5,
+                    "probability": 0.9776352643966675
+                },
+                {
+                    "word": " increase",
+                    "start": 0.5,
+                    "end": 0.9,
+                    "probability": 0.9963392019271851
+                },
+                {
+                    "word": " our",
+                    "start": 0.9,
+                    "end": 1.26,
+                    "probability": 0.6635743379592896
+                },
+                {
+                    "word": " marketing",
+                    "start": 1.26,
+                    "end": 1.68,
+                    "probability": 0.9709005355834961
+                },
+                {
+                    "word": " budget",
+                    "start": 1.68,
+                    "end": 2.16,
+                    "probability": 0.9935526847839355
+                },
+                {
+                    "word": " we",
+                    "start": 2.16,
+                    "end": 2.38,
+                    "probability": 0.7381777763366699
+                },
+                {
+                    "word": " risk",
+                    "start": 2.38,
+                    "end": 2.74,
+                    "probability": 0.9961138963699341
+                },
+                {
+                    "word": " losing",
+                    "start": 2.74,
+                    "end": 3.12,
+                    "probability": 0.9880500435829163
+                },
+                {
+                    "word": " market",
+                    "start": 3.12,
+                    "end": 3.56,
+                    "probability": 0.9808072447776794
+                },
+                {
+                    "word": " share.",
+                    "start": 3.56,
+                    "end": 3.92,
+                    "probability": 0.9321915507316589
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

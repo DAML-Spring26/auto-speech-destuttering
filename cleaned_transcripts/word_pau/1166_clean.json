@@ -1,47 +1,46 @@
 {
-    "text": " which genre of books do you enjoy? Reading the most.",
+    "text": " which sharns you enjoy. Reading the most.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 2.0,
-            "text": " which genre of books do you enjoy?",
+            "end": 3.6,
+            "text": " which sharns you enjoy.",
             "tokens": [
                 50364,
                 597,
-                11022,
-                295,
-                3642,
-                360,
+                402,
+                1083,
+                82,
                 291,
                 2103,
-                30,
-                50464
+                13,
+                50544
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.5585370905259076,
-            "compression_ratio": 0.8666666666666667,
-            "no_speech_prob": 0.012833592481911182
+            "avg_logprob": -0.8561530113220215,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.01971321552991867
         },
         {
             "id": 1,
             "seek": 0,
-            "start": 4.0,
-            "end": 5.0,
+            "start": 3.6,
+            "end": 4.6000000000000005,
             "text": " Reading the most.",
             "tokens": [
-                50564,
+                50544,
                 29766,
                 264,
                 881,
                 13,
-                50614
+                50594
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.5585370905259076,
-            "compression_ratio": 0.8666666666666667,
-            "no_speech_prob": 0.012833592481911182
+            "avg_logprob": -0.8561530113220215,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.01971321552991867
         }
     ],
     "language": "en"

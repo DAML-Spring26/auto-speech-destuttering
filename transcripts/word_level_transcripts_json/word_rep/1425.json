@@ -1,0 +1,119 @@
+{
+    "text": " How long have you been in? Been working on this task.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.06,
+            "text": " How long have you been in?",
+            "tokens": [
+                50364,
+                1012,
+                938,
+                362,
+                291,
+                668,
+                294,
+                30,
+                50435
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5150702794392904,
+            "compression_ratio": 0.9298245614035088,
+            "no_speech_prob": 0.010421855375170708,
+            "words": [
+                {
+                    "word": " How",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.7838736176490784
+                },
+                {
+                    "word": " long",
+                    "start": 0.18,
+                    "end": 0.38,
+                    "probability": 0.9815767407417297
+                },
+                {
+                    "word": " have",
+                    "start": 0.38,
+                    "end": 0.62,
+                    "probability": 0.9742677211761475
+                },
+                {
+                    "word": " you",
+                    "start": 0.62,
+                    "end": 0.74,
+                    "probability": 0.9754486680030823
+                },
+                {
+                    "word": " been",
+                    "start": 0.74,
+                    "end": 0.94,
+                    "probability": 0.9980629086494446
+                },
+                {
+                    "word": " in?",
+                    "start": 0.94,
+                    "end": 1.06,
+                    "probability": 0.30738502740859985
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.3,
+            "end": 2.4,
+            "text": " Been working on this task.",
+            "tokens": [
+                50435,
+                32839,
+                1364,
+                322,
+                341,
+                5633,
+                13,
+                50499
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5150702794392904,
+            "compression_ratio": 0.9298245614035088,
+            "no_speech_prob": 0.010421855375170708,
+            "words": [
+                {
+                    "word": " Been",
+                    "start": 1.3,
+                    "end": 1.4,
+                    "probability": 0.7586076855659485
+                },
+                {
+                    "word": " working",
+                    "start": 1.4,
+                    "end": 1.7,
+                    "probability": 0.9964928030967712
+                },
+                {
+                    "word": " on",
+                    "start": 1.7,
+                    "end": 1.86,
+                    "probability": 0.9936181306838989
+                },
+                {
+                    "word": " this",
+                    "start": 1.86,
+                    "end": 2.08,
+                    "probability": 0.9918226599693298
+                },
+                {
+                    "word": " task.",
+                    "start": 2.08,
+                    "end": 2.4,
+                    "probability": 0.9900124073028564
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

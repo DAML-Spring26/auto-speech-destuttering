@@ -1,0 +1,52 @@
+{
+    "text": " She works in finance.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.42,
+            "text": " She works in finance.",
+            "tokens": [
+                50364,
+                1240,
+                1985,
+                294,
+                10719,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47099941968917847,
+            "compression_ratio": 0.7241379310344828,
+            "no_speech_prob": 0.0032131413463503122,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.5343427658081055
+                },
+                {
+                    "word": " works",
+                    "start": 0.22,
+                    "end": 0.52,
+                    "probability": 0.9965561628341675
+                },
+                {
+                    "word": " in",
+                    "start": 0.52,
+                    "end": 0.82,
+                    "probability": 0.9932635426521301
+                },
+                {
+                    "word": " finance.",
+                    "start": 0.82,
+                    "end": 1.42,
+                    "probability": 0.5904216766357422
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

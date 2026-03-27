@@ -1,0 +1,59 @@
+{
+    "text": " The system needs proper mainstream.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.62,
+            "text": " The system needs proper mainstream.",
+            "tokens": [
+                50364,
+                440,
+                1185,
+                2203,
+                2296,
+                15960,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4240216414133708,
+            "compression_ratio": 0.813953488372093,
+            "no_speech_prob": 0.0067070103250443935,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.4996272027492523
+                },
+                {
+                    "word": " system",
+                    "start": 0.1,
+                    "end": 0.46,
+                    "probability": 0.9940047860145569
+                },
+                {
+                    "word": " needs",
+                    "start": 0.46,
+                    "end": 0.8,
+                    "probability": 0.9915623068809509
+                },
+                {
+                    "word": " proper",
+                    "start": 0.8,
+                    "end": 1.14,
+                    "probability": 0.9647009372711182
+                },
+                {
+                    "word": " mainstream.",
+                    "start": 1.14,
+                    "end": 1.62,
+                    "probability": 0.7873059511184692
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

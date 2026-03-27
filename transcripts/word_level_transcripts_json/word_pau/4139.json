@@ -1,0 +1,94 @@
+{
+    "text": " The exhibition highlights the cultural diversity of our global society.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.58,
+            "text": " The exhibition highlights the cultural diversity of our global society.",
+            "tokens": [
+                50364,
+                440,
+                14414,
+                14254,
+                264,
+                6988,
+                8811,
+                295,
+                527,
+                4338,
+                4086,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28654922757829937,
+            "compression_ratio": 0.9861111111111112,
+            "no_speech_prob": 0.010373566299676895,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7727903723716736
+                },
+                {
+                    "word": " exhibition",
+                    "start": 0.12,
+                    "end": 0.56,
+                    "probability": 0.9858568906784058
+                },
+                {
+                    "word": " highlights",
+                    "start": 0.56,
+                    "end": 1.0,
+                    "probability": 0.9947099685668945
+                },
+                {
+                    "word": " the",
+                    "start": 1.0,
+                    "end": 1.24,
+                    "probability": 0.9963392019271851
+                },
+                {
+                    "word": " cultural",
+                    "start": 1.24,
+                    "end": 1.58,
+                    "probability": 0.9948744177818298
+                },
+                {
+                    "word": " diversity",
+                    "start": 1.58,
+                    "end": 2.14,
+                    "probability": 0.9967764019966125
+                },
+                {
+                    "word": " of",
+                    "start": 2.14,
+                    "end": 2.42,
+                    "probability": 0.9962452054023743
+                },
+                {
+                    "word": " our",
+                    "start": 2.42,
+                    "end": 4.66,
+                    "probability": 0.8341294527053833
+                },
+                {
+                    "word": " global",
+                    "start": 4.66,
+                    "end": 4.98,
+                    "probability": 0.6504709720611572
+                },
+                {
+                    "word": " society.",
+                    "start": 4.98,
+                    "end": 5.58,
+                    "probability": 0.9909260272979736
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

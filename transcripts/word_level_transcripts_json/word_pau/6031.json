@@ -1,0 +1,80 @@
+{
+    "text": " Can you please explain the concept more clearly?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.5,
+            "text": " Can you please explain the concept more clearly?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                1767,
+                2903,
+                264,
+                3410,
+                544,
+                4448,
+                30,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31541462739308673,
+            "compression_ratio": 0.9056603773584906,
+            "no_speech_prob": 0.04714721441268921,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.7109032273292542
+                },
+                {
+                    "word": " you",
+                    "start": 0.18,
+                    "end": 0.32,
+                    "probability": 0.9920327663421631
+                },
+                {
+                    "word": " please",
+                    "start": 0.32,
+                    "end": 0.66,
+                    "probability": 0.9979507327079773
+                },
+                {
+                    "word": " explain",
+                    "start": 0.66,
+                    "end": 1.14,
+                    "probability": 0.9932450652122498
+                },
+                {
+                    "word": " the",
+                    "start": 1.14,
+                    "end": 3.28,
+                    "probability": 0.5716668367385864
+                },
+                {
+                    "word": " concept",
+                    "start": 3.28,
+                    "end": 3.74,
+                    "probability": 0.9908229112625122
+                },
+                {
+                    "word": " more",
+                    "start": 3.74,
+                    "end": 4.14,
+                    "probability": 0.9772473573684692
+                },
+                {
+                    "word": " clearly?",
+                    "start": 4.14,
+                    "end": 4.5,
+                    "probability": 0.9980265498161316
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

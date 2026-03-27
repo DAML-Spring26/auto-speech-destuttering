@@ -1,0 +1,89 @@
+{
+    "text": " the chef's signature dish features locally sourced organic ingredients.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.02,
+            "text": " the chef's signature dish features locally sourced organic ingredients.",
+            "tokens": [
+                50364,
+                264,
+                10530,
+                311,
+                13397,
+                5025,
+                4122,
+                16143,
+                11006,
+                1232,
+                10220,
+                6952,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5103053410847982,
+            "compression_ratio": 1.0289855072463767,
+            "no_speech_prob": 0.006069560535252094,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.4145202338695526
+                },
+                {
+                    "word": " chef's",
+                    "start": 0.16,
+                    "end": 0.68,
+                    "probability": 0.6497040092945099
+                },
+                {
+                    "word": " signature",
+                    "start": 0.68,
+                    "end": 1.08,
+                    "probability": 0.9971008896827698
+                },
+                {
+                    "word": " dish",
+                    "start": 1.08,
+                    "end": 1.36,
+                    "probability": 0.988105058670044
+                },
+                {
+                    "word": " features",
+                    "start": 1.36,
+                    "end": 2.14,
+                    "probability": 0.9875418543815613
+                },
+                {
+                    "word": " locally",
+                    "start": 2.14,
+                    "end": 4.98,
+                    "probability": 0.39624688029289246
+                },
+                {
+                    "word": " sourced",
+                    "start": 4.98,
+                    "end": 5.66,
+                    "probability": 0.8583424389362335
+                },
+                {
+                    "word": " organic",
+                    "start": 5.66,
+                    "end": 6.2,
+                    "probability": 0.9771876931190491
+                },
+                {
+                    "word": " ingredients.",
+                    "start": 6.2,
+                    "end": 7.02,
+                    "probability": 0.9886259436607361
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

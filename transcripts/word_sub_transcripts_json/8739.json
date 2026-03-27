@@ -1,0 +1,66 @@
+{
+    "text": " quantum computers have all complex problems.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.26,
+            "text": " quantum computers have all complex problems.",
+            "tokens": [
+                50364,
+                13018,
+                10807,
+                362,
+                439,
+                3997,
+                2740,
+                13,
+                50491
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4466101169586182,
+            "compression_ratio": 0.8979591836734694,
+            "no_speech_prob": 0.013644962571561337,
+            "words": [
+                {
+                    "word": " quantum",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.8406398296356201
+                },
+                {
+                    "word": " computers",
+                    "start": 0.42,
+                    "end": 1.02,
+                    "probability": 0.9860674738883972
+                },
+                {
+                    "word": " have",
+                    "start": 1.02,
+                    "end": 1.24,
+                    "probability": 0.716061532497406
+                },
+                {
+                    "word": " all",
+                    "start": 1.24,
+                    "end": 1.36,
+                    "probability": 0.9399251341819763
+                },
+                {
+                    "word": " complex",
+                    "start": 1.36,
+                    "end": 1.76,
+                    "probability": 0.988455057144165
+                },
+                {
+                    "word": " problems.",
+                    "start": 1.76,
+                    "end": 2.26,
+                    "probability": 0.9962448477745056
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

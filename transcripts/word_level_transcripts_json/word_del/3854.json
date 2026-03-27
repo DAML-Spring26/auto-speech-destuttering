@@ -1,0 +1,102 @@
+{
+    "text": " She's wondering she should pursue a career in medicine or law.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.98,
+            "text": " She's wondering she should pursue a career in medicine or law.",
+            "tokens": [
+                50364,
+                1240,
+                311,
+                6359,
+                750,
+                820,
+                12392,
+                257,
+                3988,
+                294,
+                7195,
+                420,
+                2101,
+                13,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2767268121242523,
+            "compression_ratio": 0.9538461538461539,
+            "no_speech_prob": 0.00495149614289403,
+            "words": [
+                {
+                    "word": " She's",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.8169481158256531
+                },
+                {
+                    "word": " wondering",
+                    "start": 0.26,
+                    "end": 0.6,
+                    "probability": 0.9761493802070618
+                },
+                {
+                    "word": " she",
+                    "start": 0.6,
+                    "end": 0.9,
+                    "probability": 0.8899692296981812
+                },
+                {
+                    "word": " should",
+                    "start": 0.9,
+                    "end": 1.12,
+                    "probability": 0.9943907856941223
+                },
+                {
+                    "word": " pursue",
+                    "start": 1.12,
+                    "end": 1.42,
+                    "probability": 0.9994885921478271
+                },
+                {
+                    "word": " a",
+                    "start": 1.42,
+                    "end": 1.58,
+                    "probability": 0.9825209975242615
+                },
+                {
+                    "word": " career",
+                    "start": 1.58,
+                    "end": 1.84,
+                    "probability": 0.9990543723106384
+                },
+                {
+                    "word": " in",
+                    "start": 1.84,
+                    "end": 2.02,
+                    "probability": 0.9980419874191284
+                },
+                {
+                    "word": " medicine",
+                    "start": 2.02,
+                    "end": 2.38,
+                    "probability": 0.9884705543518066
+                },
+                {
+                    "word": " or",
+                    "start": 2.38,
+                    "end": 2.76,
+                    "probability": 0.8577035069465637
+                },
+                {
+                    "word": " law.",
+                    "start": 2.76,
+                    "end": 2.98,
+                    "probability": 0.6497470736503601
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

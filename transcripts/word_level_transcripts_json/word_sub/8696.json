@@ -1,0 +1,67 @@
+{
+    "text": " Neural networks earn from training data.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.92,
+            "text": " Neural networks earn from training data.",
+            "tokens": [
+                50364,
+                1734,
+                1807,
+                9590,
+                6012,
+                490,
+                3097,
+                1412,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4314294294877486,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.008131996728479862,
+            "words": [
+                {
+                    "word": " Neural",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.829438179731369
+                },
+                {
+                    "word": " networks",
+                    "start": 0.3,
+                    "end": 0.7,
+                    "probability": 0.9042885899543762
+                },
+                {
+                    "word": " earn",
+                    "start": 0.7,
+                    "end": 0.98,
+                    "probability": 0.36377567052841187
+                },
+                {
+                    "word": " from",
+                    "start": 0.98,
+                    "end": 1.16,
+                    "probability": 0.9962000250816345
+                },
+                {
+                    "word": " training",
+                    "start": 1.16,
+                    "end": 1.52,
+                    "probability": 0.986636221408844
+                },
+                {
+                    "word": " data.",
+                    "start": 1.52,
+                    "end": 1.92,
+                    "probability": 0.9974631071090698
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

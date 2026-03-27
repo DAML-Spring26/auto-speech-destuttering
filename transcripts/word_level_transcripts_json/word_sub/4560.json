@@ -1,0 +1,66 @@
+{
+    "text": " the investment portfolio should significant grow.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.04,
+            "text": " the investment portfolio should significant grow.",
+            "tokens": [
+                50364,
+                264,
+                6078,
+                12583,
+                820,
+                4776,
+                1852,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5512485027313232,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.015453452244400978,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.4629695415496826
+                },
+                {
+                    "word": " investment",
+                    "start": 0.16,
+                    "end": 0.5,
+                    "probability": 0.8083957433700562
+                },
+                {
+                    "word": " portfolio",
+                    "start": 0.5,
+                    "end": 0.92,
+                    "probability": 0.9404815435409546
+                },
+                {
+                    "word": " should",
+                    "start": 0.92,
+                    "end": 1.28,
+                    "probability": 0.677730917930603
+                },
+                {
+                    "word": " significant",
+                    "start": 1.28,
+                    "end": 1.74,
+                    "probability": 0.34573686122894287
+                },
+                {
+                    "word": " grow.",
+                    "start": 1.74,
+                    "end": 2.04,
+                    "probability": 0.7886895537376404
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

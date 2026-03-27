@@ -1,0 +1,101 @@
+{
+    "text": " Can you pick up some milk on in your way home?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.4400000000000004,
+            "end": 4.42,
+            "text": " Can you pick up some milk on in your way home?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                1888,
+                493,
+                512,
+                5392,
+                322,
+                294,
+                428,
+                636,
+                1280,
+                30,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2775374412536621,
+            "compression_ratio": 0.9387755102040817,
+            "no_speech_prob": 0.03380712494254112,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 1.4400000000000004,
+                    "end": 1.92,
+                    "probability": 0.8920019268989563
+                },
+                {
+                    "word": " you",
+                    "start": 1.92,
+                    "end": 2.12,
+                    "probability": 0.9978851675987244
+                },
+                {
+                    "word": " pick",
+                    "start": 2.12,
+                    "end": 2.36,
+                    "probability": 0.9934013485908508
+                },
+                {
+                    "word": " up",
+                    "start": 2.36,
+                    "end": 2.56,
+                    "probability": 0.9964430928230286
+                },
+                {
+                    "word": " some",
+                    "start": 2.56,
+                    "end": 2.84,
+                    "probability": 0.9972009658813477
+                },
+                {
+                    "word": " milk",
+                    "start": 2.84,
+                    "end": 3.16,
+                    "probability": 0.9526891708374023
+                },
+                {
+                    "word": " on",
+                    "start": 3.16,
+                    "end": 3.4,
+                    "probability": 0.9863821268081665
+                },
+                {
+                    "word": " in",
+                    "start": 3.4,
+                    "end": 3.64,
+                    "probability": 0.9695418477058411
+                },
+                {
+                    "word": " your",
+                    "start": 3.64,
+                    "end": 3.84,
+                    "probability": 0.9958414435386658
+                },
+                {
+                    "word": " way",
+                    "start": 3.84,
+                    "end": 4.06,
+                    "probability": 0.9912101030349731
+                },
+                {
+                    "word": " home?",
+                    "start": 4.06,
+                    "end": 4.42,
+                    "probability": 0.9952093958854675
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

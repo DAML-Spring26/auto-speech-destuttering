@@ -1,0 +1,101 @@
+{
+    "text": " The new marketing campaign aims to increase brand awareness among millennials.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.28,
+            "text": " The new marketing campaign aims to increase brand awareness among millennials.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                6370,
+                5129,
+                24683,
+                281,
+                3488,
+                3360,
+                8888,
+                3654,
+                45543,
+                13,
+                50700
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25184644063313805,
+            "compression_ratio": 1.0684931506849316,
+            "no_speech_prob": 0.006841843016445637,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7589442729949951
+                },
+                {
+                    "word": " new",
+                    "start": 0.14,
+                    "end": 0.34,
+                    "probability": 0.9764251112937927
+                },
+                {
+                    "word": " marketing",
+                    "start": 0.34,
+                    "end": 0.92,
+                    "probability": 0.8824761509895325
+                },
+                {
+                    "word": " campaign",
+                    "start": 0.92,
+                    "end": 1.6,
+                    "probability": 0.9852505922317505
+                },
+                {
+                    "word": " aims",
+                    "start": 1.6,
+                    "end": 2.24,
+                    "probability": 0.9966096878051758
+                },
+                {
+                    "word": " to",
+                    "start": 2.24,
+                    "end": 2.52,
+                    "probability": 0.998837411403656
+                },
+                {
+                    "word": " increase",
+                    "start": 2.52,
+                    "end": 3.0,
+                    "probability": 0.9826646447181702
+                },
+                {
+                    "word": " brand",
+                    "start": 3.0,
+                    "end": 3.44,
+                    "probability": 0.979213535785675
+                },
+                {
+                    "word": " awareness",
+                    "start": 3.44,
+                    "end": 4.08,
+                    "probability": 0.993705689907074
+                },
+                {
+                    "word": " among",
+                    "start": 4.08,
+                    "end": 4.62,
+                    "probability": 0.9853612780570984
+                },
+                {
+                    "word": " millennials.",
+                    "start": 4.62,
+                    "end": 6.28,
+                    "probability": 0.8892467617988586
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

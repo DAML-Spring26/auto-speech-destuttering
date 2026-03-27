@@ -1,0 +1,102 @@
+{
+    "text": " If you clean your room, you go play with your friends.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.56,
+            "text": " If you clean your room, you go play with your friends.",
+            "tokens": [
+                50364,
+                759,
+                291,
+                2541,
+                428,
+                1808,
+                11,
+                291,
+                352,
+                862,
+                365,
+                428,
+                1855,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.226887509226799,
+            "compression_ratio": 1.0384615384615385,
+            "no_speech_prob": 0.008992025628685951,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.8848551511764526
+                },
+                {
+                    "word": " you",
+                    "start": 0.24,
+                    "end": 0.36,
+                    "probability": 0.9990869760513306
+                },
+                {
+                    "word": " clean",
+                    "start": 0.36,
+                    "end": 0.54,
+                    "probability": 0.9949969053268433
+                },
+                {
+                    "word": " your",
+                    "start": 0.54,
+                    "end": 0.72,
+                    "probability": 0.9953213334083557
+                },
+                {
+                    "word": " room,",
+                    "start": 0.72,
+                    "end": 1.0,
+                    "probability": 0.9983102083206177
+                },
+                {
+                    "word": " you",
+                    "start": 1.26,
+                    "end": 1.32,
+                    "probability": 0.9802958369255066
+                },
+                {
+                    "word": " go",
+                    "start": 1.32,
+                    "end": 1.46,
+                    "probability": 0.9785717725753784
+                },
+                {
+                    "word": " play",
+                    "start": 1.46,
+                    "end": 1.74,
+                    "probability": 0.9979835748672485
+                },
+                {
+                    "word": " with",
+                    "start": 1.74,
+                    "end": 1.92,
+                    "probability": 0.9983433485031128
+                },
+                {
+                    "word": " your",
+                    "start": 1.92,
+                    "end": 2.08,
+                    "probability": 0.9942001104354858
+                },
+                {
+                    "word": " friends.",
+                    "start": 2.08,
+                    "end": 2.56,
+                    "probability": 0.9943501353263855
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

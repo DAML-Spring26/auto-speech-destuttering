@@ -1,0 +1,75 @@
+{
+    "text": " The sculptor's latest work challenges traditional athletics.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.72,
+            "text": " The sculptor's latest work challenges traditional athletics.",
+            "tokens": [
+                50364,
+                440,
+                12613,
+                284,
+                311,
+                6792,
+                589,
+                4759,
+                5164,
+                37964,
+                13,
+                50580
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3457470673781175,
+            "compression_ratio": 0.9523809523809523,
+            "no_speech_prob": 0.003347155172377825,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7793004512786865
+                },
+                {
+                    "word": " sculptor's",
+                    "start": 0.14,
+                    "end": 0.9,
+                    "probability": 0.8311963081359863
+                },
+                {
+                    "word": " latest",
+                    "start": 0.9,
+                    "end": 1.26,
+                    "probability": 0.9719015955924988
+                },
+                {
+                    "word": " work",
+                    "start": 1.26,
+                    "end": 1.62,
+                    "probability": 0.9452766180038452
+                },
+                {
+                    "word": " challenges",
+                    "start": 1.62,
+                    "end": 2.26,
+                    "probability": 0.9645838737487793
+                },
+                {
+                    "word": " traditional",
+                    "start": 2.26,
+                    "end": 3.06,
+                    "probability": 0.9819322824478149
+                },
+                {
+                    "word": " athletics.",
+                    "start": 3.06,
+                    "end": 3.72,
+                    "probability": 0.9373438358306885
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

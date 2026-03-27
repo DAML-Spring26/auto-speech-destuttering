@@ -1,0 +1,73 @@
+{
+    "text": " Could you repeat that question more slowly?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.78,
+            "text": " Could you repeat that question more slowly?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                7149,
+                300,
+                1168,
+                544,
+                5692,
+                30,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3798666867342862,
+            "compression_ratio": 0.8775510204081632,
+            "no_speech_prob": 0.022803613916039467,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.8099855184555054
+                },
+                {
+                    "word": " you",
+                    "start": 0.2,
+                    "end": 0.4,
+                    "probability": 0.997385561466217
+                },
+                {
+                    "word": " repeat",
+                    "start": 0.4,
+                    "end": 0.76,
+                    "probability": 0.998857855796814
+                },
+                {
+                    "word": " that",
+                    "start": 0.76,
+                    "end": 1.04,
+                    "probability": 0.9864322543144226
+                },
+                {
+                    "word": " question",
+                    "start": 1.04,
+                    "end": 1.68,
+                    "probability": 0.9916484355926514
+                },
+                {
+                    "word": " more",
+                    "start": 1.68,
+                    "end": 4.18,
+                    "probability": 0.6226803064346313
+                },
+                {
+                    "word": " slowly?",
+                    "start": 4.18,
+                    "end": 4.78,
+                    "probability": 0.9966655373573303
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

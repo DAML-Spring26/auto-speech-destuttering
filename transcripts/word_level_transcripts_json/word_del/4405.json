@@ -1,0 +1,87 @@
+{
+    "text": " The project manager currently reviewing the latest budget proposals.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.44,
+            "text": " The project manager currently reviewing the latest budget proposals.",
+            "tokens": [
+                50364,
+                440,
+                1716,
+                6598,
+                4362,
+                19576,
+                264,
+                6792,
+                4706,
+                20198,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3128482378446139,
+            "compression_ratio": 0.9714285714285714,
+            "no_speech_prob": 0.0013695047236979008,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.8702707886695862
+                },
+                {
+                    "word": " project",
+                    "start": 0.08,
+                    "end": 0.46,
+                    "probability": 0.9220281839370728
+                },
+                {
+                    "word": " manager",
+                    "start": 0.46,
+                    "end": 0.92,
+                    "probability": 0.9492606520652771
+                },
+                {
+                    "word": " currently",
+                    "start": 0.92,
+                    "end": 1.3,
+                    "probability": 0.985733151435852
+                },
+                {
+                    "word": " reviewing",
+                    "start": 1.3,
+                    "end": 1.84,
+                    "probability": 0.9726348519325256
+                },
+                {
+                    "word": " the",
+                    "start": 1.84,
+                    "end": 2.12,
+                    "probability": 0.9930146932601929
+                },
+                {
+                    "word": " latest",
+                    "start": 2.12,
+                    "end": 2.44,
+                    "probability": 0.9938607215881348
+                },
+                {
+                    "word": " budget",
+                    "start": 2.44,
+                    "end": 2.84,
+                    "probability": 0.9838863611221313
+                },
+                {
+                    "word": " proposals.",
+                    "start": 2.84,
+                    "end": 3.44,
+                    "probability": 0.9844448566436768
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

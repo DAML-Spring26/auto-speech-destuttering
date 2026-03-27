@@ -1,0 +1,102 @@
+{
+    "text": " Firefighters are working tirelessly too. Contain the wildfire.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.94,
+            "text": " Firefighters are working tirelessly too.",
+            "tokens": [
+                50364,
+                7652,
+                14919,
+                433,
+                366,
+                1364,
+                11756,
+                12048,
+                886,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47926516281931025,
+            "compression_ratio": 0.9393939393939394,
+            "no_speech_prob": 0.0022293932270258665,
+            "words": [
+                {
+                    "word": " Firefighters",
+                    "start": 0.0,
+                    "end": 0.88,
+                    "probability": 0.8704462250073751
+                },
+                {
+                    "word": " are",
+                    "start": 0.88,
+                    "end": 1.06,
+                    "probability": 0.9958319067955017
+                },
+                {
+                    "word": " working",
+                    "start": 1.06,
+                    "end": 1.5,
+                    "probability": 0.996056079864502
+                },
+                {
+                    "word": " tirelessly",
+                    "start": 1.5,
+                    "end": 2.32,
+                    "probability": 0.9951392114162445
+                },
+                {
+                    "word": " too.",
+                    "start": 2.32,
+                    "end": 2.94,
+                    "probability": 0.8102625012397766
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.36,
+            "end": 7.84,
+            "text": " Contain the wildfire.",
+            "tokens": [
+                50682,
+                43732,
+                264,
+                4868,
+                12037,
+                13,
+                50832
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47926516281931025,
+            "compression_ratio": 0.9393939393939394,
+            "no_speech_prob": 0.0022293932270258665,
+            "words": [
+                {
+                    "word": " Contain",
+                    "start": 6.119999999999999,
+                    "end": 6.8,
+                    "probability": 0.5344741344451904
+                },
+                {
+                    "word": " the",
+                    "start": 6.8,
+                    "end": 7.08,
+                    "probability": 0.9657929539680481
+                },
+                {
+                    "word": " wildfire.",
+                    "start": 7.08,
+                    "end": 7.84,
+                    "probability": 0.9077253937721252
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

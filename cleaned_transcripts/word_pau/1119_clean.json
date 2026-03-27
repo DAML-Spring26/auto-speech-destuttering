@@ -1,46 +1,41 @@
 {
-    "text": " What time does it up gallery? Close on Sundays.",
+    "text": " What are you? Please.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 2.0,
-            "text": " What time does it up gallery?",
+            "end": 1.0,
+            "text": " What are you?",
             "tokens": [
                 50364,
                 708,
-                565,
-                775,
-                309,
-                493,
-                18378,
+                366,
+                291,
                 30,
-                50464
+                50414
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.5599465370178223,
-            "compression_ratio": 0.8545454545454545,
-            "no_speech_prob": 0.005190797615796328
+            "avg_logprob": -0.7840135747736151,
+            "compression_ratio": 0.7241379310344828,
+            "no_speech_prob": 0.04275994002819061
         },
         {
             "id": 1,
             "seek": 0,
-            "start": 4.1,
-            "end": 6.1000000000000005,
-            "text": " Close on Sundays.",
+            "start": 3.0,
+            "end": 4.0,
+            "text": " Please.",
             "tokens": [
-                50569,
-                16346,
-                322,
-                44857,
+                50514,
+                2555,
                 13,
-                50669
+                50564
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.5599465370178223,
-            "compression_ratio": 0.8545454545454545,
-            "no_speech_prob": 0.005190797615796328
+            "avg_logprob": -0.7840135747736151,
+            "compression_ratio": 0.7241379310344828,
+            "no_speech_prob": 0.04275994002819061
         }
     ],
     "language": "en"

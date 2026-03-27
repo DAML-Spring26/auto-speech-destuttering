@@ -1,0 +1,94 @@
+{
+    "text": " She wondered the new policy would affect her department directly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.78,
+            "text": " She wondered the new policy would affect her department directly.",
+            "tokens": [
+                50364,
+                1240,
+                17055,
+                264,
+                777,
+                3897,
+                576,
+                3345,
+                720,
+                5882,
+                3838,
+                13,
+                50520
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33661368915012907,
+            "compression_ratio": 0.9848484848484849,
+            "no_speech_prob": 0.0034111409913748503,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.7876486778259277
+                },
+                {
+                    "word": " wondered",
+                    "start": 0.22,
+                    "end": 0.54,
+                    "probability": 0.6491633057594299
+                },
+                {
+                    "word": " the",
+                    "start": 0.54,
+                    "end": 0.74,
+                    "probability": 0.9724568128585815
+                },
+                {
+                    "word": " new",
+                    "start": 0.74,
+                    "end": 0.86,
+                    "probability": 0.9826363325119019
+                },
+                {
+                    "word": " policy",
+                    "start": 0.86,
+                    "end": 1.26,
+                    "probability": 0.9979519248008728
+                },
+                {
+                    "word": " would",
+                    "start": 1.26,
+                    "end": 1.48,
+                    "probability": 0.9831690788269043
+                },
+                {
+                    "word": " affect",
+                    "start": 1.48,
+                    "end": 1.72,
+                    "probability": 0.9058414101600647
+                },
+                {
+                    "word": " her",
+                    "start": 1.72,
+                    "end": 1.9,
+                    "probability": 0.8351424932479858
+                },
+                {
+                    "word": " department",
+                    "start": 1.9,
+                    "end": 2.36,
+                    "probability": 0.9526191353797913
+                },
+                {
+                    "word": " directly.",
+                    "start": 2.36,
+                    "end": 2.78,
+                    "probability": 0.9914094805717468
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

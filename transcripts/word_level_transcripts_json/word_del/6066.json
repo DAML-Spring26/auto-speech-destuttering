@@ -1,0 +1,87 @@
+{
+    "text": " The research papers submitted to the journal last month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.66,
+            "text": " The research papers submitted to the journal last month.",
+            "tokens": [
+                50364,
+                440,
+                2132,
+                10577,
+                14405,
+                281,
+                264,
+                6708,
+                1036,
+                1618,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38866769350492036,
+            "compression_ratio": 0.9180327868852459,
+            "no_speech_prob": 0.007267406675964594,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.4810437858104706
+                },
+                {
+                    "word": " research",
+                    "start": 0.1,
+                    "end": 0.5,
+                    "probability": 0.9304884076118469
+                },
+                {
+                    "word": " papers",
+                    "start": 0.5,
+                    "end": 1.0,
+                    "probability": 0.5508803129196167
+                },
+                {
+                    "word": " submitted",
+                    "start": 1.0,
+                    "end": 1.48,
+                    "probability": 0.9980081915855408
+                },
+                {
+                    "word": " to",
+                    "start": 1.48,
+                    "end": 1.74,
+                    "probability": 0.9947458505630493
+                },
+                {
+                    "word": " the",
+                    "start": 1.74,
+                    "end": 1.86,
+                    "probability": 0.9867515563964844
+                },
+                {
+                    "word": " journal",
+                    "start": 1.86,
+                    "end": 2.1,
+                    "probability": 0.8506250977516174
+                },
+                {
+                    "word": " last",
+                    "start": 2.1,
+                    "end": 2.38,
+                    "probability": 0.9800657033920288
+                },
+                {
+                    "word": " month.",
+                    "start": 2.38,
+                    "end": 2.66,
+                    "probability": 0.9941980838775635
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

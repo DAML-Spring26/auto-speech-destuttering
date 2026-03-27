@@ -1,0 +1,94 @@
+{
+    "text": " The sales team exceeded their targets for the third quarter.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.18,
+            "text": " The sales team exceeded their targets for the third quarter.",
+            "tokens": [
+                50364,
+                440,
+                5763,
+                1469,
+                38026,
+                641,
+                12911,
+                337,
+                264,
+                2636,
+                6555,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3381903512137277,
+            "compression_ratio": 0.9523809523809523,
+            "no_speech_prob": 0.01641472615301609,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.628763735294342
+                },
+                {
+                    "word": " sales",
+                    "start": 0.14,
+                    "end": 0.54,
+                    "probability": 0.9001271724700928
+                },
+                {
+                    "word": " team",
+                    "start": 0.54,
+                    "end": 0.86,
+                    "probability": 0.9514950513839722
+                },
+                {
+                    "word": " exceeded",
+                    "start": 0.86,
+                    "end": 1.46,
+                    "probability": 0.9716503024101257
+                },
+                {
+                    "word": " their",
+                    "start": 1.46,
+                    "end": 1.74,
+                    "probability": 0.9924958944320679
+                },
+                {
+                    "word": " targets",
+                    "start": 1.74,
+                    "end": 2.28,
+                    "probability": 0.9396457076072693
+                },
+                {
+                    "word": " for",
+                    "start": 2.28,
+                    "end": 2.72,
+                    "probability": 0.9786173105239868
+                },
+                {
+                    "word": " the",
+                    "start": 2.72,
+                    "end": 3.7,
+                    "probability": 0.6407561302185059
+                },
+                {
+                    "word": " third",
+                    "start": 3.7,
+                    "end": 5.74,
+                    "probability": 0.7782774567604065
+                },
+                {
+                    "word": " quarter.",
+                    "start": 5.74,
+                    "end": 6.18,
+                    "probability": 0.9834439754486084
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

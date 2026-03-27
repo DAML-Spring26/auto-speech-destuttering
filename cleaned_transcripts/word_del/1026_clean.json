@@ -1,19 +1,17 @@
 {
-    "text": " The chef demonstrated how properly prepare and cook the exotic dish during the class.",
+    "text": " the shell you prepare and cook the exotic dish during the class.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 4.16,
-            "text": " The chef demonstrated how properly prepare and cook the exotic dish during the class.",
+            "end": 2.8000000000000003,
+            "text": " the shell you prepare and cook the exotic dish during the class.",
             "tokens": [
                 50364,
-                440,
-                10530,
-                18772,
-                577,
-                6108,
+                264,
+                8720,
+                291,
                 5940,
                 293,
                 2543,
@@ -24,12 +22,12 @@
                 264,
                 1508,
                 13,
-                50572
+                50504
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.29012401898701984,
-            "compression_ratio": 1.0625,
-            "no_speech_prob": 0.0025209051091223955
+            "avg_logprob": -0.41597780585289,
+            "compression_ratio": 0.9846153846153847,
+            "no_speech_prob": 0.014103440567851067
         }
     ],
     "language": "en"

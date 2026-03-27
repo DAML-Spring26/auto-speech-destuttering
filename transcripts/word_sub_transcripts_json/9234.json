@@ -1,0 +1,52 @@
+{
+    "text": " The program shows premise.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.36,
+            "text": " The program shows premise.",
+            "tokens": [
+                50364,
+                440,
+                1461,
+                3110,
+                22045,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4675884544849396,
+            "compression_ratio": 0.8125,
+            "no_speech_prob": 0.011195930652320385,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.726953387260437
+                },
+                {
+                    "word": " program",
+                    "start": 0.14,
+                    "end": 0.5,
+                    "probability": 0.9585357904434204
+                },
+                {
+                    "word": " shows",
+                    "start": 0.5,
+                    "end": 0.94,
+                    "probability": 0.9943113327026367
+                },
+                {
+                    "word": " premise.",
+                    "start": 0.94,
+                    "end": 1.36,
+                    "probability": 0.6561130881309509
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

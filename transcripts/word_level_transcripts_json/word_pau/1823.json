@@ -1,0 +1,108 @@
+{
+    "text": " the marketing team needs to revise the proposal before the client meeting.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.44,
+            "text": " the marketing team needs to revise the proposal before the client meeting.",
+            "tokens": [
+                50364,
+                264,
+                6370,
+                1469,
+                2203,
+                281,
+                44252,
+                264,
+                11494,
+                949,
+                264,
+                6423,
+                3440,
+                13,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3611486554145813,
+            "compression_ratio": 1.088235294117647,
+            "no_speech_prob": 0.009826586581766605,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.41654935479164124
+                },
+                {
+                    "word": " marketing",
+                    "start": 0.12,
+                    "end": 0.42,
+                    "probability": 0.9646012783050537
+                },
+                {
+                    "word": " team",
+                    "start": 0.42,
+                    "end": 0.8,
+                    "probability": 0.9974537491798401
+                },
+                {
+                    "word": " needs",
+                    "start": 0.8,
+                    "end": 1.1,
+                    "probability": 0.9961786270141602
+                },
+                {
+                    "word": " to",
+                    "start": 1.1,
+                    "end": 1.26,
+                    "probability": 0.9565200209617615
+                },
+                {
+                    "word": " revise",
+                    "start": 1.26,
+                    "end": 1.72,
+                    "probability": 0.7275710701942444
+                },
+                {
+                    "word": " the",
+                    "start": 1.72,
+                    "end": 2.82,
+                    "probability": 0.44068318605422974
+                },
+                {
+                    "word": " proposal",
+                    "start": 2.82,
+                    "end": 3.26,
+                    "probability": 0.9984654188156128
+                },
+                {
+                    "word": " before",
+                    "start": 3.26,
+                    "end": 3.68,
+                    "probability": 0.9684840440750122
+                },
+                {
+                    "word": " the",
+                    "start": 3.68,
+                    "end": 3.84,
+                    "probability": 0.9915111660957336
+                },
+                {
+                    "word": " client",
+                    "start": 3.84,
+                    "end": 4.12,
+                    "probability": 0.9815898537635803
+                },
+                {
+                    "word": " meeting.",
+                    "start": 4.12,
+                    "end": 4.44,
+                    "probability": 0.9974974989891052
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

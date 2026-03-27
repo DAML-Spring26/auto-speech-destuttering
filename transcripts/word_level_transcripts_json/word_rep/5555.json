@@ -1,0 +1,101 @@
+{
+    "text": " that the project manager will present the new timeline next week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.96,
+            "text": " that the project manager will present the new timeline next week.",
+            "tokens": [
+                50364,
+                300,
+                264,
+                1716,
+                6598,
+                486,
+                1974,
+                264,
+                777,
+                12933,
+                958,
+                1243,
+                13,
+                50522
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29295469919840494,
+            "compression_ratio": 1.015625,
+            "no_speech_prob": 0.005301673896610737,
+            "words": [
+                {
+                    "word": " that",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.876335620880127
+                },
+                {
+                    "word": " the",
+                    "start": 0.16,
+                    "end": 0.34,
+                    "probability": 0.9748971462249756
+                },
+                {
+                    "word": " project",
+                    "start": 0.34,
+                    "end": 0.7,
+                    "probability": 0.9352562427520752
+                },
+                {
+                    "word": " manager",
+                    "start": 0.7,
+                    "end": 1.16,
+                    "probability": 0.9849676489830017
+                },
+                {
+                    "word": " will",
+                    "start": 1.16,
+                    "end": 1.28,
+                    "probability": 0.9878630638122559
+                },
+                {
+                    "word": " present",
+                    "start": 1.28,
+                    "end": 1.56,
+                    "probability": 0.9940356016159058
+                },
+                {
+                    "word": " the",
+                    "start": 1.56,
+                    "end": 1.76,
+                    "probability": 0.8698058724403381
+                },
+                {
+                    "word": " new",
+                    "start": 1.76,
+                    "end": 1.9,
+                    "probability": 0.9948663711547852
+                },
+                {
+                    "word": " timeline",
+                    "start": 1.9,
+                    "end": 2.3,
+                    "probability": 0.980406641960144
+                },
+                {
+                    "word": " next",
+                    "start": 2.3,
+                    "end": 2.68,
+                    "probability": 0.990797758102417
+                },
+                {
+                    "word": " week.",
+                    "start": 2.68,
+                    "end": 2.96,
+                    "probability": 0.9977461695671082
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

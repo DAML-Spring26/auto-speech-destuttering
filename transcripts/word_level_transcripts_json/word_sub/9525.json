@@ -1,0 +1,59 @@
+{
+    "text": " She completed the mask efficiently.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.96,
+            "text": " She completed the mask efficiently.",
+            "tokens": [
+                50364,
+                1240,
+                7365,
+                264,
+                6094,
+                19621,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4853760401407878,
+            "compression_ratio": 0.8536585365853658,
+            "no_speech_prob": 0.0029638956766575575,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.5647280812263489
+                },
+                {
+                    "word": " completed",
+                    "start": 0.24,
+                    "end": 0.82,
+                    "probability": 0.9890145659446716
+                },
+                {
+                    "word": " the",
+                    "start": 0.82,
+                    "end": 1.0,
+                    "probability": 0.9799571633338928
+                },
+                {
+                    "word": " mask",
+                    "start": 1.0,
+                    "end": 1.38,
+                    "probability": 0.8624216318130493
+                },
+                {
+                    "word": " efficiently.",
+                    "start": 1.38,
+                    "end": 1.96,
+                    "probability": 0.9816267490386963
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

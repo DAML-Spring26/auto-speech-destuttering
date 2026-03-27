@@ -1,0 +1,95 @@
+{
+    "text": " The results of the survey published in next month's report.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.34,
+            "text": " The results of the survey published in next month's report.",
+            "tokens": [
+                50364,
+                440,
+                3542,
+                295,
+                264,
+                8984,
+                6572,
+                294,
+                958,
+                1618,
+                311,
+                2275,
+                13,
+                50550
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3241066614786784,
+            "compression_ratio": 0.921875,
+            "no_speech_prob": 0.0022287957835942507,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6480244398117065
+                },
+                {
+                    "word": " results",
+                    "start": 0.12,
+                    "end": 0.46,
+                    "probability": 0.9897953867912292
+                },
+                {
+                    "word": " of",
+                    "start": 0.46,
+                    "end": 0.8,
+                    "probability": 0.9881051778793335
+                },
+                {
+                    "word": " the",
+                    "start": 0.8,
+                    "end": 0.92,
+                    "probability": 0.9708305597305298
+                },
+                {
+                    "word": " survey",
+                    "start": 0.92,
+                    "end": 1.28,
+                    "probability": 0.8167548179626465
+                },
+                {
+                    "word": " published",
+                    "start": 1.28,
+                    "end": 1.86,
+                    "probability": 0.989274799823761
+                },
+                {
+                    "word": " in",
+                    "start": 1.86,
+                    "end": 2.2,
+                    "probability": 0.959416925907135
+                },
+                {
+                    "word": " next",
+                    "start": 2.2,
+                    "end": 2.48,
+                    "probability": 0.7670559287071228
+                },
+                {
+                    "word": " month's",
+                    "start": 2.48,
+                    "end": 3.02,
+                    "probability": 0.9348689913749695
+                },
+                {
+                    "word": " report.",
+                    "start": 3.02,
+                    "end": 3.34,
+                    "probability": 0.9765641689300537
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

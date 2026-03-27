@@ -1,0 +1,59 @@
+{
+    "text": " the research findings was sufficient.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.24,
+            "text": " the research findings was sufficient.",
+            "tokens": [
+                50364,
+                264,
+                2132,
+                16483,
+                390,
+                11563,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6077999009026421,
+            "compression_ratio": 0.8222222222222222,
+            "no_speech_prob": 0.005519222933799028,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.37654295563697815
+                },
+                {
+                    "word": " research",
+                    "start": 0.14,
+                    "end": 0.66,
+                    "probability": 0.872556209564209
+                },
+                {
+                    "word": " findings",
+                    "start": 0.66,
+                    "end": 1.24,
+                    "probability": 0.9937325119972229
+                },
+                {
+                    "word": " was",
+                    "start": 1.24,
+                    "end": 1.66,
+                    "probability": 0.3478032350540161
+                },
+                {
+                    "word": " sufficient.",
+                    "start": 1.66,
+                    "end": 2.24,
+                    "probability": 0.9949971437454224
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

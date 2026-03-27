@@ -1,0 +1,59 @@
+{
+    "text": " We should implement protective measures.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.84,
+            "text": " We should implement protective measures.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                4445,
+                16314,
+                8000,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4080636501312256,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.010026809759438038,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7237323522567749
+                },
+                {
+                    "word": " should",
+                    "start": 0.12,
+                    "end": 0.32,
+                    "probability": 0.9897395968437195
+                },
+                {
+                    "word": " implement",
+                    "start": 0.32,
+                    "end": 0.7,
+                    "probability": 0.7509695887565613
+                },
+                {
+                    "word": " protective",
+                    "start": 0.7,
+                    "end": 1.3,
+                    "probability": 0.9839518666267395
+                },
+                {
+                    "word": " measures.",
+                    "start": 1.3,
+                    "end": 1.84,
+                    "probability": 0.9752849340438843
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,87 @@
+{
+    "text": " The new regulations will enforce starting from next month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.08,
+            "text": " The new regulations will enforce starting from next month.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                12563,
+                486,
+                24825,
+                2891,
+                490,
+                958,
+                1618,
+                13,
+                50534
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3344429456270658,
+            "compression_ratio": 0.90625,
+            "no_speech_prob": 0.008060194551944733,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6827407479286194
+                },
+                {
+                    "word": " new",
+                    "start": 0.1,
+                    "end": 0.28,
+                    "probability": 0.9959035515785217
+                },
+                {
+                    "word": " regulations",
+                    "start": 0.28,
+                    "end": 0.96,
+                    "probability": 0.9938524961471558
+                },
+                {
+                    "word": " will",
+                    "start": 0.96,
+                    "end": 1.32,
+                    "probability": 0.9922581315040588
+                },
+                {
+                    "word": " enforce",
+                    "start": 1.32,
+                    "end": 1.74,
+                    "probability": 0.9579534530639648
+                },
+                {
+                    "word": " starting",
+                    "start": 1.74,
+                    "end": 2.3,
+                    "probability": 0.9885319471359253
+                },
+                {
+                    "word": " from",
+                    "start": 2.3,
+                    "end": 2.62,
+                    "probability": 0.9815065860748291
+                },
+                {
+                    "word": " next",
+                    "start": 2.62,
+                    "end": 2.88,
+                    "probability": 0.9916442036628723
+                },
+                {
+                    "word": " month.",
+                    "start": 2.88,
+                    "end": 3.08,
+                    "probability": 0.8658396005630493
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

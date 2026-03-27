@@ -1,0 +1,101 @@
+{
+    "text": " The fight at the end of the tunnel gave them hope.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.3,
+            "text": " The fight at the end of the tunnel gave them hope.",
+            "tokens": [
+                50364,
+                440,
+                2092,
+                412,
+                264,
+                917,
+                295,
+                264,
+                13186,
+                2729,
+                552,
+                1454,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31874144872029625,
+            "compression_ratio": 0.9803921568627451,
+            "no_speech_prob": 0.011250575073063374,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5435436367988586
+                },
+                {
+                    "word": " fight",
+                    "start": 0.14,
+                    "end": 0.44,
+                    "probability": 0.5735687613487244
+                },
+                {
+                    "word": " at",
+                    "start": 0.44,
+                    "end": 0.6,
+                    "probability": 0.9644172191619873
+                },
+                {
+                    "word": " the",
+                    "start": 0.6,
+                    "end": 0.78,
+                    "probability": 0.9979103207588196
+                },
+                {
+                    "word": " end",
+                    "start": 0.78,
+                    "end": 1.02,
+                    "probability": 0.9969977140426636
+                },
+                {
+                    "word": " of",
+                    "start": 1.02,
+                    "end": 1.14,
+                    "probability": 0.9967683553695679
+                },
+                {
+                    "word": " the",
+                    "start": 1.14,
+                    "end": 1.24,
+                    "probability": 0.9932981133460999
+                },
+                {
+                    "word": " tunnel",
+                    "start": 1.24,
+                    "end": 1.48,
+                    "probability": 0.9924374222755432
+                },
+                {
+                    "word": " gave",
+                    "start": 1.48,
+                    "end": 1.74,
+                    "probability": 0.9954729676246643
+                },
+                {
+                    "word": " them",
+                    "start": 1.74,
+                    "end": 2.02,
+                    "probability": 0.9960242509841919
+                },
+                {
+                    "word": " hope.",
+                    "start": 2.02,
+                    "end": 2.3,
+                    "probability": 0.9945498108863831
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

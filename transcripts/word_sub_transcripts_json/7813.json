@@ -1,0 +1,74 @@
+{
+    "text": " She's pursuing a degree in environmental silence.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.24,
+            "text": " She's pursuing a degree in environmental silence.",
+            "tokens": [
+                50364,
+                1240,
+                311,
+                20222,
+                257,
+                4314,
+                294,
+                8303,
+                12239,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4043463468551636,
+            "compression_ratio": 0.8596491228070176,
+            "no_speech_prob": 0.0024082311429083347,
+            "words": [
+                {
+                    "word": " She's",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.7163702547550201
+                },
+                {
+                    "word": " pursuing",
+                    "start": 0.26,
+                    "end": 0.64,
+                    "probability": 0.9954344630241394
+                },
+                {
+                    "word": " a",
+                    "start": 0.64,
+                    "end": 0.82,
+                    "probability": 0.988251268863678
+                },
+                {
+                    "word": " degree",
+                    "start": 0.82,
+                    "end": 1.04,
+                    "probability": 0.9819227457046509
+                },
+                {
+                    "word": " in",
+                    "start": 1.04,
+                    "end": 1.16,
+                    "probability": 0.9566537737846375
+                },
+                {
+                    "word": " environmental",
+                    "start": 1.16,
+                    "end": 1.68,
+                    "probability": 0.9532618522644043
+                },
+                {
+                    "word": " silence.",
+                    "start": 1.68,
+                    "end": 2.24,
+                    "probability": 0.9855622053146362
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

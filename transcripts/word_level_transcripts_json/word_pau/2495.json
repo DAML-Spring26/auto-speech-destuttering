@@ -1,0 +1,95 @@
+{
+    "text": " The Board of Directors will review our proposal next week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.74,
+            "text": " The Board of Directors will review our proposal next week.",
+            "tokens": [
+                50364,
+                440,
+                10008,
+                295,
+                5822,
+                5547,
+                486,
+                3131,
+                527,
+                11494,
+                958,
+                1243,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32500092188517254,
+            "compression_ratio": 0.90625,
+            "no_speech_prob": 0.016837522387504578,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6599546670913696
+                },
+                {
+                    "word": " Board",
+                    "start": 0.1,
+                    "end": 0.3,
+                    "probability": 0.7575184106826782
+                },
+                {
+                    "word": " of",
+                    "start": 0.3,
+                    "end": 0.48,
+                    "probability": 0.9966005682945251
+                },
+                {
+                    "word": " Directors",
+                    "start": 0.48,
+                    "end": 1.02,
+                    "probability": 0.9670211672782898
+                },
+                {
+                    "word": " will",
+                    "start": 1.02,
+                    "end": 1.32,
+                    "probability": 0.8940669298171997
+                },
+                {
+                    "word": " review",
+                    "start": 1.32,
+                    "end": 4.6,
+                    "probability": 0.7072694897651672
+                },
+                {
+                    "word": " our",
+                    "start": 4.6,
+                    "end": 4.78,
+                    "probability": 0.9695971012115479
+                },
+                {
+                    "word": " proposal",
+                    "start": 4.78,
+                    "end": 5.06,
+                    "probability": 0.9747817516326904
+                },
+                {
+                    "word": " next",
+                    "start": 5.06,
+                    "end": 5.46,
+                    "probability": 0.9666475653648376
+                },
+                {
+                    "word": " week.",
+                    "start": 5.46,
+                    "end": 5.74,
+                    "probability": 0.9974960684776306
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

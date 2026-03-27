@@ -1,0 +1,130 @@
+{
+    "text": " I'm not sure if I can make it to meeting on time due to traffic.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.66,
+            "text": " I'm not sure if I can make it to meeting on time due to traffic.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                406,
+                988,
+                498,
+                286,
+                393,
+                652,
+                309,
+                281,
+                3440,
+                322,
+                565,
+                3462,
+                281,
+                6419,
+                13,
+                50510
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18643027544021606,
+            "compression_ratio": 0.9846153846153847,
+            "no_speech_prob": 0.007771237753331661,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.938777357339859
+                },
+                {
+                    "word": " not",
+                    "start": 0.22,
+                    "end": 0.3,
+                    "probability": 0.9968516230583191
+                },
+                {
+                    "word": " sure",
+                    "start": 0.3,
+                    "end": 0.48,
+                    "probability": 0.9985830783843994
+                },
+                {
+                    "word": " if",
+                    "start": 0.48,
+                    "end": 0.64,
+                    "probability": 0.9867743253707886
+                },
+                {
+                    "word": " I",
+                    "start": 0.64,
+                    "end": 0.72,
+                    "probability": 0.9706464409828186
+                },
+                {
+                    "word": " can",
+                    "start": 0.72,
+                    "end": 0.86,
+                    "probability": 0.9815829396247864
+                },
+                {
+                    "word": " make",
+                    "start": 0.86,
+                    "end": 1.02,
+                    "probability": 0.995337963104248
+                },
+                {
+                    "word": " it",
+                    "start": 1.02,
+                    "end": 1.14,
+                    "probability": 0.9620739817619324
+                },
+                {
+                    "word": " to",
+                    "start": 1.14,
+                    "end": 1.24,
+                    "probability": 0.9802595376968384
+                },
+                {
+                    "word": " meeting",
+                    "start": 1.24,
+                    "end": 1.52,
+                    "probability": 0.8677451014518738
+                },
+                {
+                    "word": " on",
+                    "start": 1.52,
+                    "end": 1.74,
+                    "probability": 0.9901600480079651
+                },
+                {
+                    "word": " time",
+                    "start": 1.74,
+                    "end": 2.02,
+                    "probability": 0.9897133111953735
+                },
+                {
+                    "word": " due",
+                    "start": 2.02,
+                    "end": 2.24,
+                    "probability": 0.9507689476013184
+                },
+                {
+                    "word": " to",
+                    "start": 2.24,
+                    "end": 2.34,
+                    "probability": 0.9957908391952515
+                },
+                {
+                    "word": " traffic.",
+                    "start": 2.34,
+                    "end": 2.66,
+                    "probability": 0.9889657497406006
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

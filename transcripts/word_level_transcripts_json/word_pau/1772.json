@@ -1,0 +1,87 @@
+{
+    "text": " We need to ensure compliance with the new regulations.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.08,
+            "text": " We need to ensure compliance with the new regulations.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                5586,
+                15882,
+                365,
+                264,
+                777,
+                12563,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24152214710529035,
+            "compression_ratio": 0.9152542372881356,
+            "no_speech_prob": 0.006763378158211708,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6925328969955444
+                },
+                {
+                    "word": " need",
+                    "start": 0.16,
+                    "end": 0.32,
+                    "probability": 0.9975368976593018
+                },
+                {
+                    "word": " to",
+                    "start": 0.32,
+                    "end": 0.54,
+                    "probability": 0.9989307522773743
+                },
+                {
+                    "word": " ensure",
+                    "start": 0.54,
+                    "end": 1.02,
+                    "probability": 0.9105368852615356
+                },
+                {
+                    "word": " compliance",
+                    "start": 1.02,
+                    "end": 1.68,
+                    "probability": 0.9761790037155151
+                },
+                {
+                    "word": " with",
+                    "start": 1.68,
+                    "end": 2.2,
+                    "probability": 0.993039608001709
+                },
+                {
+                    "word": " the",
+                    "start": 2.2,
+                    "end": 5.26,
+                    "probability": 0.8454580903053284
+                },
+                {
+                    "word": " new",
+                    "start": 5.26,
+                    "end": 5.44,
+                    "probability": 0.9817430973052979
+                },
+                {
+                    "word": " regulations.",
+                    "start": 5.44,
+                    "end": 6.08,
+                    "probability": 0.9773269295692444
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,141 @@
+{
+    "text": " The research paper, which was published in a prestigious journal, has received widespread attention.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.38,
+            "text": " The research paper, which was published in a prestigious journal, has received widespread",
+            "tokens": [
+                50364,
+                440,
+                2132,
+                3035,
+                11,
+                597,
+                390,
+                6572,
+                294,
+                257,
+                33510,
+                6708,
+                11,
+                575,
+                4613,
+                22679,
+                50696
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2916312867944891,
+            "compression_ratio": 1.1627906976744187,
+            "no_speech_prob": 0.0047798361629247665,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.8079662919044495
+                },
+                {
+                    "word": " research",
+                    "start": 0.16,
+                    "end": 0.54,
+                    "probability": 0.7896251678466797
+                },
+                {
+                    "word": " paper,",
+                    "start": 0.54,
+                    "end": 1.14,
+                    "probability": 0.9962959885597229
+                },
+                {
+                    "word": " which",
+                    "start": 1.54,
+                    "end": 1.74,
+                    "probability": 0.9939178228378296
+                },
+                {
+                    "word": " was",
+                    "start": 1.74,
+                    "end": 1.92,
+                    "probability": 0.9955452680587769
+                },
+                {
+                    "word": " published",
+                    "start": 1.92,
+                    "end": 2.34,
+                    "probability": 0.9972647428512573
+                },
+                {
+                    "word": " in",
+                    "start": 2.34,
+                    "end": 2.6,
+                    "probability": 0.9957679510116577
+                },
+                {
+                    "word": " a",
+                    "start": 2.6,
+                    "end": 2.7,
+                    "probability": 0.6518651247024536
+                },
+                {
+                    "word": " prestigious",
+                    "start": 2.7,
+                    "end": 3.12,
+                    "probability": 0.9178955554962158
+                },
+                {
+                    "word": " journal,",
+                    "start": 3.12,
+                    "end": 3.86,
+                    "probability": 0.9884769916534424
+                },
+                {
+                    "word": " has",
+                    "start": 4.3,
+                    "end": 4.7,
+                    "probability": 0.8768707513809204
+                },
+                {
+                    "word": " received",
+                    "start": 4.7,
+                    "end": 5.74,
+                    "probability": 0.7277622818946838
+                },
+                {
+                    "word": " widespread",
+                    "start": 5.74,
+                    "end": 6.38,
+                    "probability": 0.9741031527519226
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.38,
+            "end": 7.24,
+            "text": " attention.",
+            "tokens": [
+                50696,
+                3202,
+                13,
+                50736
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2916312867944891,
+            "compression_ratio": 1.1627906976744187,
+            "no_speech_prob": 0.0047798361629247665,
+            "words": [
+                {
+                    "word": " attention.",
+                    "start": 6.38,
+                    "end": 7.24,
+                    "probability": 0.9794241189956665
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

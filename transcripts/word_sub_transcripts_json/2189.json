@@ -1,0 +1,52 @@
+{
+    "text": " their monitored system performance.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.36,
+            "text": " their monitored system performance.",
+            "tokens": [
+                50364,
+                641,
+                36255,
+                1185,
+                3389,
+                13,
+                50446
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8020350933074951,
+            "compression_ratio": 0.813953488372093,
+            "no_speech_prob": 0.013489784672856331,
+            "words": [
+                {
+                    "word": " their",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.2798785865306854
+                },
+                {
+                    "word": " monitored",
+                    "start": 0.14,
+                    "end": 0.42,
+                    "probability": 0.28217118978500366
+                },
+                {
+                    "word": " system",
+                    "start": 0.42,
+                    "end": 0.82,
+                    "probability": 0.9695091247558594
+                },
+                {
+                    "word": " performance.",
+                    "start": 0.82,
+                    "end": 1.36,
+                    "probability": 0.46044301986694336
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

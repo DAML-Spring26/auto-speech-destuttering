@@ -1,12 +1,12 @@
 {
-    "text": " The ancient artifact, which was discovered last year, is being studied by archaeologists.",
+    "text": " The ancient artifact, which was discovered as in studies.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 6.0,
-            "text": " The ancient artifact, which was discovered last year, is being studied by archaeologists.",
+            "end": 3.16,
+            "text": " The ancient artifact, which was discovered as in studies.",
             "tokens": [
                 50364,
                 440,
@@ -16,22 +16,16 @@
                 597,
                 390,
                 6941,
-                1036,
-                1064,
-                11,
-                307,
-                885,
-                9454,
-                538,
-                21894,
-                12256,
+                382,
+                294,
+                5313,
                 13,
-                50664
+                50522
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.2648234128952026,
-            "compression_ratio": 1.0987654320987654,
-            "no_speech_prob": 0.004728714469820261
+            "avg_logprob": -0.5973563875470843,
+            "compression_ratio": 0.9193548387096774,
+            "no_speech_prob": 0.004344389773905277
         }
     ],
     "language": "en"

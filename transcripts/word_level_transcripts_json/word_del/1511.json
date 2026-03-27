@@ -1,0 +1,103 @@
+{
+    "text": " The art exhibition, which features works by local artists, opens weekend.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.46,
+            "text": " The art exhibition, which features works by local artists, opens weekend.",
+            "tokens": [
+                50364,
+                440,
+                1523,
+                14414,
+                11,
+                597,
+                4122,
+                1985,
+                538,
+                2654,
+                6910,
+                11,
+                9870,
+                6711,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29435166190652284,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.0027443745639175177,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.8783998489379883
+                },
+                {
+                    "word": " art",
+                    "start": 0.1,
+                    "end": 0.3,
+                    "probability": 0.6773725748062134
+                },
+                {
+                    "word": " exhibition,",
+                    "start": 0.3,
+                    "end": 0.78,
+                    "probability": 0.9974185228347778
+                },
+                {
+                    "word": " which",
+                    "start": 1.08,
+                    "end": 1.26,
+                    "probability": 0.9952450394630432
+                },
+                {
+                    "word": " features",
+                    "start": 1.26,
+                    "end": 1.58,
+                    "probability": 0.9936044812202454
+                },
+                {
+                    "word": " works",
+                    "start": 1.58,
+                    "end": 1.88,
+                    "probability": 0.9596120715141296
+                },
+                {
+                    "word": " by",
+                    "start": 1.88,
+                    "end": 2.14,
+                    "probability": 0.9960466027259827
+                },
+                {
+                    "word": " local",
+                    "start": 2.14,
+                    "end": 2.36,
+                    "probability": 0.935498833656311
+                },
+                {
+                    "word": " artists,",
+                    "start": 2.36,
+                    "end": 2.68,
+                    "probability": 0.6031136512756348
+                },
+                {
+                    "word": " opens",
+                    "start": 2.88,
+                    "end": 3.06,
+                    "probability": 0.9664363861083984
+                },
+                {
+                    "word": " weekend.",
+                    "start": 3.06,
+                    "end": 3.46,
+                    "probability": 0.8752061128616333
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

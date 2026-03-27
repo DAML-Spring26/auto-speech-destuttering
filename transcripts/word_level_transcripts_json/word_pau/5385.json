@@ -1,0 +1,80 @@
+{
+    "text": " We should review the contract thoroughly before signing.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.88,
+            "text": " We should review the contract thoroughly before signing.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                3131,
+                264,
+                4364,
+                17987,
+                949,
+                13393,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34919174512227374,
+            "compression_ratio": 0.9180327868852459,
+            "no_speech_prob": 0.013360820710659027,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7032509446144104
+                },
+                {
+                    "word": " should",
+                    "start": 0.14,
+                    "end": 0.32,
+                    "probability": 0.9966028928756714
+                },
+                {
+                    "word": " review",
+                    "start": 0.32,
+                    "end": 0.56,
+                    "probability": 0.9817086458206177
+                },
+                {
+                    "word": " the",
+                    "start": 0.56,
+                    "end": 0.76,
+                    "probability": 0.9889535903930664
+                },
+                {
+                    "word": " contract",
+                    "start": 0.76,
+                    "end": 1.16,
+                    "probability": 0.8844107985496521
+                },
+                {
+                    "word": " thoroughly",
+                    "start": 1.16,
+                    "end": 1.64,
+                    "probability": 0.9944496154785156
+                },
+                {
+                    "word": " before",
+                    "start": 1.64,
+                    "end": 2.1,
+                    "probability": 0.9937824606895447
+                },
+                {
+                    "word": " signing.",
+                    "start": 2.1,
+                    "end": 4.88,
+                    "probability": 0.6251881718635559
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,75 @@
+{
+    "text": " I'm wondering we should postpone the meeting.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " I'm wondering we should postpone the meeting.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                6359,
+                321,
+                820,
+                28973,
+                546,
+                264,
+                3440,
+                13,
+                50480
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30524866397564226,
+            "compression_ratio": 0.8653846153846154,
+            "no_speech_prob": 0.005944510921835899,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.9266664683818817
+                },
+                {
+                    "word": " wondering",
+                    "start": 0.26,
+                    "end": 0.56,
+                    "probability": 0.9929333925247192
+                },
+                {
+                    "word": " we",
+                    "start": 0.56,
+                    "end": 0.8,
+                    "probability": 0.8263964056968689
+                },
+                {
+                    "word": " should",
+                    "start": 0.8,
+                    "end": 0.98,
+                    "probability": 0.9989867806434631
+                },
+                {
+                    "word": " postpone",
+                    "start": 0.98,
+                    "end": 1.58,
+                    "probability": 0.9955850541591644
+                },
+                {
+                    "word": " the",
+                    "start": 1.58,
+                    "end": 1.7,
+                    "probability": 0.9971831440925598
+                },
+                {
+                    "word": " meeting.",
+                    "start": 1.7,
+                    "end": 2.0,
+                    "probability": 0.9980383515357971
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,121 @@
+{
+    "text": " the patient's condition has. Noticeably improves since starting the new treatment.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.76,
+            "text": " the patient's condition has.",
+            "tokens": [
+                50364,
+                264,
+                4537,
+                311,
+                4188,
+                575,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5310665130615234,
+            "compression_ratio": 1.0512820512820513,
+            "no_speech_prob": 0.018785975873470306,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5101503729820251
+                },
+                {
+                    "word": " patient's",
+                    "start": 0.12,
+                    "end": 0.82,
+                    "probability": 0.9673404097557068
+                },
+                {
+                    "word": " condition",
+                    "start": 0.82,
+                    "end": 1.26,
+                    "probability": 0.9938257932662964
+                },
+                {
+                    "word": " has.",
+                    "start": 1.26,
+                    "end": 1.76,
+                    "probability": 0.9541450142860413
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.38,
+            "end": 8.66,
+            "text": " Noticeably improves since starting the new treatment.",
+            "tokens": [
+                50636,
+                13428,
+                1188,
+                24771,
+                1670,
+                2891,
+                264,
+                777,
+                5032,
+                13,
+                50813
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5310665130615234,
+            "compression_ratio": 1.0512820512820513,
+            "no_speech_prob": 0.018785975873470306,
+            "words": [
+                {
+                    "word": " Noticeably",
+                    "start": 5.38,
+                    "end": 6.26,
+                    "probability": 0.8743350207805634
+                },
+                {
+                    "word": " improves",
+                    "start": 6.26,
+                    "end": 6.82,
+                    "probability": 0.5072360038757324
+                },
+                {
+                    "word": " since",
+                    "start": 6.82,
+                    "end": 7.16,
+                    "probability": 0.9812012910842896
+                },
+                {
+                    "word": " starting",
+                    "start": 7.16,
+                    "end": 7.76,
+                    "probability": 0.9930440783500671
+                },
+                {
+                    "word": " the",
+                    "start": 7.76,
+                    "end": 8.06,
+                    "probability": 0.9892751574516296
+                },
+                {
+                    "word": " new",
+                    "start": 8.06,
+                    "end": 8.26,
+                    "probability": 0.9880784153938293
+                },
+                {
+                    "word": " treatment.",
+                    "start": 8.26,
+                    "end": 8.66,
+                    "probability": 0.9949736595153809
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

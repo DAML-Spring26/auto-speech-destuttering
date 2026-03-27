@@ -1,0 +1,115 @@
+{
+    "text": " She asked I could help her move to her new apartment next weekend.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.62,
+            "text": " She asked I could help her move to her new apartment next weekend.",
+            "tokens": [
+                50364,
+                1240,
+                2351,
+                286,
+                727,
+                854,
+                720,
+                1286,
+                281,
+                720,
+                777,
+                9587,
+                958,
+                6711,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2474989049574908,
+            "compression_ratio": 0.9705882352941176,
+            "no_speech_prob": 0.0012842091964557767,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6731404066085815
+                },
+                {
+                    "word": " asked",
+                    "start": 0.14,
+                    "end": 0.44,
+                    "probability": 0.9952179193496704
+                },
+                {
+                    "word": " I",
+                    "start": 0.44,
+                    "end": 0.72,
+                    "probability": 0.8016657829284668
+                },
+                {
+                    "word": " could",
+                    "start": 0.72,
+                    "end": 1.1,
+                    "probability": 0.8504059314727783
+                },
+                {
+                    "word": " help",
+                    "start": 1.1,
+                    "end": 1.36,
+                    "probability": 0.9985846281051636
+                },
+                {
+                    "word": " her",
+                    "start": 1.36,
+                    "end": 1.52,
+                    "probability": 0.995893120765686
+                },
+                {
+                    "word": " move",
+                    "start": 1.52,
+                    "end": 1.76,
+                    "probability": 0.9925354719161987
+                },
+                {
+                    "word": " to",
+                    "start": 1.76,
+                    "end": 1.94,
+                    "probability": 0.9965692758560181
+                },
+                {
+                    "word": " her",
+                    "start": 1.94,
+                    "end": 2.16,
+                    "probability": 0.9966638684272766
+                },
+                {
+                    "word": " new",
+                    "start": 2.16,
+                    "end": 2.4,
+                    "probability": 0.9723597764968872
+                },
+                {
+                    "word": " apartment",
+                    "start": 2.4,
+                    "end": 2.86,
+                    "probability": 0.9791877269744873
+                },
+                {
+                    "word": " next",
+                    "start": 2.86,
+                    "end": 3.2,
+                    "probability": 0.994645357131958
+                },
+                {
+                    "word": " weekend.",
+                    "start": 3.2,
+                    "end": 3.62,
+                    "probability": 0.967362105846405
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,73 @@
+{
+    "text": " Students must complete their assignments before headline.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.08,
+            "text": " Students must complete their assignments before headline.",
+            "tokens": [
+                50364,
+                17244,
+                1633,
+                3566,
+                641,
+                22546,
+                949,
+                28380,
+                13,
+                50536
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42722043124112213,
+            "compression_ratio": 0.9193548387096774,
+            "no_speech_prob": 0.0028170314617455006,
+            "words": [
+                {
+                    "word": " Students",
+                    "start": 0.0,
+                    "end": 0.46,
+                    "probability": 0.8731191754341125
+                },
+                {
+                    "word": " must",
+                    "start": 0.46,
+                    "end": 0.78,
+                    "probability": 0.9980239868164062
+                },
+                {
+                    "word": " complete",
+                    "start": 0.78,
+                    "end": 1.3,
+                    "probability": 0.9892165660858154
+                },
+                {
+                    "word": " their",
+                    "start": 1.3,
+                    "end": 1.58,
+                    "probability": 0.9919136762619019
+                },
+                {
+                    "word": " assignments",
+                    "start": 1.58,
+                    "end": 2.1,
+                    "probability": 0.99748694896698
+                },
+                {
+                    "word": " before",
+                    "start": 2.1,
+                    "end": 2.6,
+                    "probability": 0.9766295552253723
+                },
+                {
+                    "word": " headline.",
+                    "start": 2.6,
+                    "end": 3.08,
+                    "probability": 0.5775453448295593
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

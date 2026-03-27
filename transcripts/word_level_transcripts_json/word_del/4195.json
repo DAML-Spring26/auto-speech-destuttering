@@ -1,0 +1,87 @@
+{
+    "text": " The museum currently hosting an exhibition of ancient artifact.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.52,
+            "text": " The museum currently hosting an exhibition of ancient artifact.",
+            "tokens": [
+                50364,
+                440,
+                8441,
+                4362,
+                16058,
+                364,
+                14414,
+                295,
+                7832,
+                34806,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4405047710125263,
+            "compression_ratio": 0.9545454545454546,
+            "no_speech_prob": 0.0032160694245249033,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.6281909346580505
+                },
+                {
+                    "word": " museum",
+                    "start": 0.2,
+                    "end": 0.54,
+                    "probability": 0.8325008153915405
+                },
+                {
+                    "word": " currently",
+                    "start": 0.54,
+                    "end": 1.08,
+                    "probability": 0.9778947234153748
+                },
+                {
+                    "word": " hosting",
+                    "start": 1.08,
+                    "end": 1.58,
+                    "probability": 0.9912140965461731
+                },
+                {
+                    "word": " an",
+                    "start": 1.58,
+                    "end": 1.82,
+                    "probability": 0.9978052973747253
+                },
+                {
+                    "word": " exhibition",
+                    "start": 1.82,
+                    "end": 2.38,
+                    "probability": 0.532217264175415
+                },
+                {
+                    "word": " of",
+                    "start": 2.38,
+                    "end": 2.62,
+                    "probability": 0.9959964752197266
+                },
+                {
+                    "word": " ancient",
+                    "start": 2.62,
+                    "end": 2.96,
+                    "probability": 0.8644906878471375
+                },
+                {
+                    "word": " artifact.",
+                    "start": 2.96,
+                    "end": 3.52,
+                    "probability": 0.3377085328102112
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

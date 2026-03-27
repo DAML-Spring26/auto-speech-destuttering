@@ -1,0 +1,52 @@
+{
+    "text": " She compared detailed notes.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.48,
+            "text": " She compared detailed notes.",
+            "tokens": [
+                50364,
+                1240,
+                5347,
+                9942,
+                5570,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40339982509613037,
+            "compression_ratio": 0.8235294117647058,
+            "no_speech_prob": 0.004044333007186651,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.8099616765975952
+                },
+                {
+                    "word": " compared",
+                    "start": 0.2,
+                    "end": 0.52,
+                    "probability": 0.8346266746520996
+                },
+                {
+                    "word": " detailed",
+                    "start": 0.52,
+                    "end": 1.0,
+                    "probability": 0.992493748664856
+                },
+                {
+                    "word": " notes.",
+                    "start": 1.0,
+                    "end": 1.48,
+                    "probability": 0.9976198077201843
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

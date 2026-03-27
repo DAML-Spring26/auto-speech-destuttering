@@ -1,0 +1,74 @@
+{
+    "text": " The company's annual report published next week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.34,
+            "text": " The company's annual report published next week.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                9784,
+                2275,
+                6572,
+                958,
+                1243,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3087755839029948,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.0037301797419786453,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8081991076469421
+                },
+                {
+                    "word": " company's",
+                    "start": 0.12,
+                    "end": 0.66,
+                    "probability": 0.912527322769165
+                },
+                {
+                    "word": " annual",
+                    "start": 0.66,
+                    "end": 0.88,
+                    "probability": 0.9696733355522156
+                },
+                {
+                    "word": " report",
+                    "start": 0.88,
+                    "end": 1.24,
+                    "probability": 0.9930112957954407
+                },
+                {
+                    "word": " published",
+                    "start": 1.24,
+                    "end": 1.7,
+                    "probability": 0.9621710181236267
+                },
+                {
+                    "word": " next",
+                    "start": 1.7,
+                    "end": 2.1,
+                    "probability": 0.9839402437210083
+                },
+                {
+                    "word": " week.",
+                    "start": 2.1,
+                    "end": 2.34,
+                    "probability": 0.9957860112190247
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

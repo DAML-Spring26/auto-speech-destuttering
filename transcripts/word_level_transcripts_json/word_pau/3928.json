@@ -1,0 +1,98 @@
+{
+    "text": " Can you help me with this? Smart problem.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.04,
+            "text": " Can you help me with this?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                854,
+                385,
+                365,
+                341,
+                30,
+                50532
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48637288411458335,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.015996163710951805,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6950114965438843
+                },
+                {
+                    "word": " you",
+                    "start": 0.14,
+                    "end": 0.3,
+                    "probability": 0.9942988157272339
+                },
+                {
+                    "word": " help",
+                    "start": 0.3,
+                    "end": 0.46,
+                    "probability": 0.9967136383056641
+                },
+                {
+                    "word": " me",
+                    "start": 0.46,
+                    "end": 0.6,
+                    "probability": 0.9805918335914612
+                },
+                {
+                    "word": " with",
+                    "start": 0.6,
+                    "end": 0.78,
+                    "probability": 0.9973987340927124
+                },
+                {
+                    "word": " this?",
+                    "start": 0.78,
+                    "end": 1.04,
+                    "probability": 0.9889208078384399
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.3,
+            "end": 4.18,
+            "text": " Smart problem.",
+            "tokens": [
+                50532,
+                12923,
+                1154,
+                13,
+                50582
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48637288411458335,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.015996163710951805,
+            "words": [
+                {
+                    "word": " Smart",
+                    "start": 3.3,
+                    "end": 3.7399999999999998,
+                    "probability": 0.46325671672821045
+                },
+                {
+                    "word": " problem.",
+                    "start": 3.7399999999999998,
+                    "end": 4.18,
+                    "probability": 0.7522937655448914
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

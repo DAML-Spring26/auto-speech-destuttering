@@ -1,0 +1,66 @@
+{
+    "text": " Students must complete their resignation online.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.52,
+            "text": " Students must complete their resignation online.",
+            "tokens": [
+                50364,
+                17244,
+                1633,
+                3566,
+                641,
+                49494,
+                2950,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36715776920318605,
+            "compression_ratio": 0.8727272727272727,
+            "no_speech_prob": 0.006809860002249479,
+            "words": [
+                {
+                    "word": " Students",
+                    "start": 0.0,
+                    "end": 0.46,
+                    "probability": 0.7859509587287903
+                },
+                {
+                    "word": " must",
+                    "start": 0.46,
+                    "end": 0.78,
+                    "probability": 0.9993265867233276
+                },
+                {
+                    "word": " complete",
+                    "start": 0.78,
+                    "end": 1.16,
+                    "probability": 0.9988594055175781
+                },
+                {
+                    "word": " their",
+                    "start": 1.16,
+                    "end": 1.38,
+                    "probability": 0.8389427065849304
+                },
+                {
+                    "word": " resignation",
+                    "start": 1.38,
+                    "end": 2.04,
+                    "probability": 0.9318626523017883
+                },
+                {
+                    "word": " online.",
+                    "start": 2.04,
+                    "end": 2.52,
+                    "probability": 0.9916028380393982
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

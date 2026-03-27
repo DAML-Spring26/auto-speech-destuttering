@@ -1,0 +1,96 @@
+{
+    "text": " The nutritionists suggest incorporating more leafy greens into your diet.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.52,
+            "text": " The nutritionists suggest incorporating more leafy greens into your diet.",
+            "tokens": [
+                50364,
+                440,
+                14718,
+                1751,
+                3402,
+                33613,
+                544,
+                10871,
+                88,
+                22897,
+                666,
+                428,
+                6339,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31015142798423767,
+            "compression_ratio": 1.042857142857143,
+            "no_speech_prob": 0.004584675654768944,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8508999943733215
+                },
+                {
+                    "word": " nutritionists",
+                    "start": 0.14,
+                    "end": 0.86,
+                    "probability": 0.7845164835453033
+                },
+                {
+                    "word": " suggest",
+                    "start": 0.86,
+                    "end": 1.3,
+                    "probability": 0.9590553641319275
+                },
+                {
+                    "word": " incorporating",
+                    "start": 1.3,
+                    "end": 3.66,
+                    "probability": 0.7362359762191772
+                },
+                {
+                    "word": " more",
+                    "start": 3.66,
+                    "end": 4.14,
+                    "probability": 0.7895932793617249
+                },
+                {
+                    "word": " leafy",
+                    "start": 4.14,
+                    "end": 4.48,
+                    "probability": 0.9595138132572174
+                },
+                {
+                    "word": " greens",
+                    "start": 4.48,
+                    "end": 4.74,
+                    "probability": 0.9826935529708862
+                },
+                {
+                    "word": " into",
+                    "start": 4.74,
+                    "end": 5.04,
+                    "probability": 0.9857122302055359
+                },
+                {
+                    "word": " your",
+                    "start": 5.04,
+                    "end": 5.22,
+                    "probability": 0.9964009523391724
+                },
+                {
+                    "word": " diet.",
+                    "start": 5.22,
+                    "end": 5.52,
+                    "probability": 0.9952303171157837
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

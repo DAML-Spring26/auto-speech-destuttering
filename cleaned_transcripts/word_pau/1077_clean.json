@@ -1,50 +1,44 @@
 {
-    "text": " Make sure to try the local street food well. Exploring the city.",
+    "text": " Make sure to try that well. See.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 2.8000000000000003,
-            "text": " Make sure to try the local street food well.",
+            "end": 2.0,
+            "text": " Make sure to try that well.",
             "tokens": [
                 50364,
                 4387,
                 988,
                 281,
                 853,
-                264,
-                2654,
-                4838,
-                1755,
+                300,
                 731,
                 13,
-                50504
+                50464
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.5081561088562012,
-            "compression_ratio": 0.9411764705882353,
-            "no_speech_prob": 0.0062463474459946156
+            "avg_logprob": -0.7216563905988421,
+            "compression_ratio": 0.8,
+            "no_speech_prob": 0.03451486676931381
         },
         {
             "id": 1,
             "seek": 0,
-            "start": 4.64,
-            "end": 6.28,
-            "text": " Exploring the city.",
+            "start": 3.6,
+            "end": 4.1,
+            "text": " See.",
             "tokens": [
-                50596,
-                12514,
-                3662,
-                264,
-                2307,
+                50544,
+                3008,
                 13,
-                50678
+                50569
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.5081561088562012,
-            "compression_ratio": 0.9411764705882353,
-            "no_speech_prob": 0.0062463474459946156
+            "avg_logprob": -0.7216563905988421,
+            "compression_ratio": 0.8,
+            "no_speech_prob": 0.03451486676931381
         }
     ],
     "language": "en"

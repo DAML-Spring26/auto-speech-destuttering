@@ -1,0 +1,127 @@
+{
+    "text": " Just landed in Paris, can't wait to explore. The City of Love",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.2,
+            "text": " Just landed in Paris, can't wait to explore.",
+            "tokens": [
+                50364,
+                1449,
+                15336,
+                294,
+                8380,
+                11,
+                393,
+                380,
+                1699,
+                281,
+                6839,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4722441673278809,
+            "compression_ratio": 0.8840579710144928,
+            "no_speech_prob": 0.009779748506844044,
+            "words": [
+                {
+                    "word": " Just",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.7922958135604858
+                },
+                {
+                    "word": " landed",
+                    "start": 0.24,
+                    "end": 0.72,
+                    "probability": 0.9981891512870789
+                },
+                {
+                    "word": " in",
+                    "start": 0.72,
+                    "end": 1.02,
+                    "probability": 0.99820876121521
+                },
+                {
+                    "word": " Paris,",
+                    "start": 1.02,
+                    "end": 1.44,
+                    "probability": 0.9971465468406677
+                },
+                {
+                    "word": " can't",
+                    "start": 1.9,
+                    "end": 2.18,
+                    "probability": 0.9454642832279205
+                },
+                {
+                    "word": " wait",
+                    "start": 2.18,
+                    "end": 2.38,
+                    "probability": 0.9989173412322998
+                },
+                {
+                    "word": " to",
+                    "start": 2.38,
+                    "end": 2.64,
+                    "probability": 0.9986808896064758
+                },
+                {
+                    "word": " explore.",
+                    "start": 2.64,
+                    "end": 3.2,
+                    "probability": 0.965183436870575
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.0,
+            "end": 7.84,
+            "text": " The City of Love",
+            "tokens": [
+                50714,
+                440,
+                4392,
+                295,
+                5956,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4722441673278809,
+            "compression_ratio": 0.8840579710144928,
+            "no_speech_prob": 0.009779748506844044,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 6.72,
+                    "end": 7.04,
+                    "probability": 0.9303699135780334
+                },
+                {
+                    "word": " City",
+                    "start": 7.04,
+                    "end": 7.38,
+                    "probability": 0.6459009051322937
+                },
+                {
+                    "word": " of",
+                    "start": 7.38,
+                    "end": 7.62,
+                    "probability": 0.9162894487380981
+                },
+                {
+                    "word": " Love",
+                    "start": 7.62,
+                    "end": 7.84,
+                    "probability": 0.956271231174469
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

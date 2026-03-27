@@ -1,0 +1,74 @@
+{
+    "text": " The students preparing for their final examinations.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.82,
+            "text": " The students preparing for their final examinations.",
+            "tokens": [
+                50364,
+                440,
+                1731,
+                10075,
+                337,
+                641,
+                2572,
+                1139,
+                10325,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3524920145670573,
+            "compression_ratio": 0.896551724137931,
+            "no_speech_prob": 0.004549852106720209,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.4977513253688812
+                },
+                {
+                    "word": " students",
+                    "start": 0.12,
+                    "end": 0.48,
+                    "probability": 0.9606421589851379
+                },
+                {
+                    "word": " preparing",
+                    "start": 0.48,
+                    "end": 1.02,
+                    "probability": 0.9366519451141357
+                },
+                {
+                    "word": " for",
+                    "start": 1.02,
+                    "end": 1.28,
+                    "probability": 0.9985185265541077
+                },
+                {
+                    "word": " their",
+                    "start": 1.28,
+                    "end": 1.48,
+                    "probability": 0.9270546436309814
+                },
+                {
+                    "word": " final",
+                    "start": 1.48,
+                    "end": 1.78,
+                    "probability": 0.9973993301391602
+                },
+                {
+                    "word": " examinations.",
+                    "start": 1.78,
+                    "end": 2.82,
+                    "probability": 0.8451720178127289
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

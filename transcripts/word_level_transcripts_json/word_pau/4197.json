@@ -1,0 +1,133 @@
+{
+    "text": " I need to schedule an urgent appointment with my family. Doctor this week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.92,
+            "text": " I need to schedule an urgent appointment with my family.",
+            "tokens": [
+                50364,
+                286,
+                643,
+                281,
+                7567,
+                364,
+                19022,
+                13653,
+                365,
+                452,
+                1605,
+                13,
+                50636
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4117848873138428,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.008794218301773071,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.9606098532676697
+                },
+                {
+                    "word": " need",
+                    "start": 0.14,
+                    "end": 0.28,
+                    "probability": 0.9972953200340271
+                },
+                {
+                    "word": " to",
+                    "start": 0.28,
+                    "end": 0.46,
+                    "probability": 0.9986681938171387
+                },
+                {
+                    "word": " schedule",
+                    "start": 0.46,
+                    "end": 0.86,
+                    "probability": 0.9851669669151306
+                },
+                {
+                    "word": " an",
+                    "start": 0.86,
+                    "end": 1.08,
+                    "probability": 0.9901776909828186
+                },
+                {
+                    "word": " urgent",
+                    "start": 1.08,
+                    "end": 1.32,
+                    "probability": 0.9914381504058838
+                },
+                {
+                    "word": " appointment",
+                    "start": 1.32,
+                    "end": 1.7,
+                    "probability": 0.999229907989502
+                },
+                {
+                    "word": " with",
+                    "start": 1.7,
+                    "end": 2.02,
+                    "probability": 0.9981243014335632
+                },
+                {
+                    "word": " my",
+                    "start": 2.02,
+                    "end": 2.22,
+                    "probability": 0.9955264925956726
+                },
+                {
+                    "word": " family.",
+                    "start": 2.22,
+                    "end": 2.92,
+                    "probability": 0.9962599277496338
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.28,
+            "end": 6.38,
+            "text": " Doctor this week.",
+            "tokens": [
+                50636,
+                10143,
+                341,
+                1243,
+                13,
+                50686
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4117848873138428,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.008794218301773071,
+            "words": [
+                {
+                    "word": " Doctor",
+                    "start": 5.28,
+                    "end": 5.8,
+                    "probability": 0.7589058876037598
+                },
+                {
+                    "word": " this",
+                    "start": 5.8,
+                    "end": 6.06,
+                    "probability": 0.8473669290542603
+                },
+                {
+                    "word": " week.",
+                    "start": 6.06,
+                    "end": 6.38,
+                    "probability": 0.9933549165725708
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

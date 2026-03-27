@@ -1,0 +1,67 @@
+{
+    "text": " We need to ventilate these findings.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.68,
+            "text": " We need to ventilate these findings.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                27498,
+                473,
+                613,
+                16483,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2915001999248158,
+            "compression_ratio": 0.8181818181818182,
+            "no_speech_prob": 0.0019831559620797634,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6256431937217712
+                },
+                {
+                    "word": " need",
+                    "start": 0.16,
+                    "end": 0.32,
+                    "probability": 0.9983375072479248
+                },
+                {
+                    "word": " to",
+                    "start": 0.32,
+                    "end": 0.5,
+                    "probability": 0.9992998838424683
+                },
+                {
+                    "word": " ventilate",
+                    "start": 0.5,
+                    "end": 1.04,
+                    "probability": 0.9614576101303101
+                },
+                {
+                    "word": " these",
+                    "start": 1.04,
+                    "end": 1.24,
+                    "probability": 0.9173814058303833
+                },
+                {
+                    "word": " findings.",
+                    "start": 1.24,
+                    "end": 1.68,
+                    "probability": 0.9693450927734375
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

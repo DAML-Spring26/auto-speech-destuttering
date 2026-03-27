@@ -1,0 +1,52 @@
+{
+    "text": " We are learning English.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.56,
+            "text": " We are learning English.",
+            "tokens": [
+                50364,
+                492,
+                366,
+                2539,
+                3669,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3130463659763336,
+            "compression_ratio": 0.75,
+            "no_speech_prob": 0.018309958279132843,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.8011607527732849
+                },
+                {
+                    "word": " are",
+                    "start": 0.2,
+                    "end": 0.4,
+                    "probability": 0.9855278134346008
+                },
+                {
+                    "word": " learning",
+                    "start": 0.4,
+                    "end": 1.02,
+                    "probability": 0.8434493541717529
+                },
+                {
+                    "word": " English.",
+                    "start": 1.02,
+                    "end": 1.56,
+                    "probability": 0.979800820350647
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

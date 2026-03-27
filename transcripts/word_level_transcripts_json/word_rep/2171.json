@@ -1,0 +1,45 @@
+{
+    "text": " by the door.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.2,
+            "text": " by the door.",
+            "tokens": [
+                50364,
+                538,
+                264,
+                2853,
+                13,
+                50444
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6296183041163853,
+            "compression_ratio": 0.6,
+            "no_speech_prob": 0.027370935305953026,
+            "words": [
+                {
+                    "word": " by",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.48780056834220886
+                },
+                {
+                    "word": " the",
+                    "start": 0.3,
+                    "end": 0.88,
+                    "probability": 0.916002094745636
+                },
+                {
+                    "word": " door.",
+                    "start": 0.88,
+                    "end": 1.2,
+                    "probability": 0.9961727261543274
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

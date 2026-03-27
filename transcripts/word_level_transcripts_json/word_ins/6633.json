@@ -1,0 +1,74 @@
+{
+    "text": " What's your return policy for online purchases?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.74,
+            "text": " What's your return policy for online purchases?",
+            "tokens": [
+                50364,
+                708,
+                311,
+                428,
+                2736,
+                3897,
+                337,
+                2950,
+                26762,
+                30,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3274167974789937,
+            "compression_ratio": 0.8545454545454545,
+            "no_speech_prob": 0.04863835126161575,
+            "words": [
+                {
+                    "word": " What's",
+                    "start": 0.0,
+                    "end": 1.16,
+                    "probability": 0.8977737426757812
+                },
+                {
+                    "word": " your",
+                    "start": 1.16,
+                    "end": 1.26,
+                    "probability": 0.9736928343772888
+                },
+                {
+                    "word": " return",
+                    "start": 1.26,
+                    "end": 1.66,
+                    "probability": 0.9380493760108948
+                },
+                {
+                    "word": " policy",
+                    "start": 1.66,
+                    "end": 2.24,
+                    "probability": 0.990867018699646
+                },
+                {
+                    "word": " for",
+                    "start": 2.24,
+                    "end": 2.82,
+                    "probability": 0.9933532476425171
+                },
+                {
+                    "word": " online",
+                    "start": 2.82,
+                    "end": 3.96,
+                    "probability": 0.7484955191612244
+                },
+                {
+                    "word": " purchases?",
+                    "start": 3.96,
+                    "end": 4.74,
+                    "probability": 0.9969706535339355
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

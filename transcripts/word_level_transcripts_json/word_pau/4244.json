@@ -1,0 +1,88 @@
+{
+    "text": " She's been working on this challenging project for months.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.58,
+            "text": " She's been working on this challenging project for months.",
+            "tokens": [
+                50364,
+                1240,
+                311,
+                668,
+                1364,
+                322,
+                341,
+                7595,
+                1716,
+                337,
+                2493,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3633341108049665,
+            "compression_ratio": 0.90625,
+            "no_speech_prob": 0.008026921190321445,
+            "words": [
+                {
+                    "word": " She's",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.8282611966133118
+                },
+                {
+                    "word": " been",
+                    "start": 0.36,
+                    "end": 0.48,
+                    "probability": 0.9943404197692871
+                },
+                {
+                    "word": " working",
+                    "start": 0.48,
+                    "end": 0.78,
+                    "probability": 0.9983105659484863
+                },
+                {
+                    "word": " on",
+                    "start": 0.78,
+                    "end": 1.02,
+                    "probability": 0.9980316758155823
+                },
+                {
+                    "word": " this",
+                    "start": 1.02,
+                    "end": 1.2,
+                    "probability": 0.9902513027191162
+                },
+                {
+                    "word": " challenging",
+                    "start": 1.2,
+                    "end": 1.76,
+                    "probability": 0.9516379833221436
+                },
+                {
+                    "word": " project",
+                    "start": 1.76,
+                    "end": 5.0,
+                    "probability": 0.4722530245780945
+                },
+                {
+                    "word": " for",
+                    "start": 5.0,
+                    "end": 5.24,
+                    "probability": 0.8104496598243713
+                },
+                {
+                    "word": " months.",
+                    "start": 5.24,
+                    "end": 5.58,
+                    "probability": 0.9934948086738586
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

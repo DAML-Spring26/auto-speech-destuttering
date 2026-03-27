@@ -1,0 +1,67 @@
+{
+    "text": " This concert was absolutely mind-blowing.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.5,
+            "text": " This concert was absolutely mind-blowing.",
+            "tokens": [
+                50364,
+                639,
+                8543,
+                390,
+                3122,
+                1575,
+                12,
+                43788,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3971085548400879,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.006926523521542549,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.6480659246444702
+                },
+                {
+                    "word": " concert",
+                    "start": 0.22,
+                    "end": 0.66,
+                    "probability": 0.8885196447372437
+                },
+                {
+                    "word": " was",
+                    "start": 0.66,
+                    "end": 0.84,
+                    "probability": 0.9969757795333862
+                },
+                {
+                    "word": " absolutely",
+                    "start": 0.84,
+                    "end": 1.68,
+                    "probability": 0.9856554269790649
+                },
+                {
+                    "word": " mind",
+                    "start": 1.68,
+                    "end": 4.1,
+                    "probability": 0.9281578660011292
+                },
+                {
+                    "word": "-blowing.",
+                    "start": 4.1,
+                    "end": 4.5,
+                    "probability": 0.7611304223537445
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

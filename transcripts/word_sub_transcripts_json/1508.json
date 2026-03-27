@@ -1,0 +1,66 @@
+{
+    "text": " The genetic sequence shows interesting patterns.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.86,
+            "text": " The genetic sequence shows interesting patterns.",
+            "tokens": [
+                50364,
+                440,
+                12462,
+                8310,
+                3110,
+                1880,
+                8294,
+                13,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47103066444396974,
+            "compression_ratio": 0.8888888888888888,
+            "no_speech_prob": 0.0073538715951144695,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8055238723754883
+                },
+                {
+                    "word": " genetic",
+                    "start": 0.12,
+                    "end": 0.54,
+                    "probability": 0.5773415565490723
+                },
+                {
+                    "word": " sequence",
+                    "start": 0.54,
+                    "end": 1.04,
+                    "probability": 0.9276406764984131
+                },
+                {
+                    "word": " shows",
+                    "start": 1.04,
+                    "end": 1.4,
+                    "probability": 0.9961521029472351
+                },
+                {
+                    "word": " interesting",
+                    "start": 1.4,
+                    "end": 2.22,
+                    "probability": 0.9871329069137573
+                },
+                {
+                    "word": " patterns.",
+                    "start": 2.22,
+                    "end": 2.86,
+                    "probability": 0.758913516998291
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

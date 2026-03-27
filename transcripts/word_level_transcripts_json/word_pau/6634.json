@@ -1,0 +1,87 @@
+{
+    "text": " The government announced new measures to combat climate change.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.84,
+            "text": " The government announced new measures to combat climate change.",
+            "tokens": [
+                50364,
+                440,
+                2463,
+                7548,
+                777,
+                8000,
+                281,
+                8361,
+                5659,
+                1319,
+                13,
+                50589
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3364467987647423,
+            "compression_ratio": 0.984375,
+            "no_speech_prob": 0.005320418626070023,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5219871997833252
+                },
+                {
+                    "word": " government",
+                    "start": 0.12,
+                    "end": 0.48,
+                    "probability": 0.8444209098815918
+                },
+                {
+                    "word": " announced",
+                    "start": 0.48,
+                    "end": 0.9,
+                    "probability": 0.8399786353111267
+                },
+                {
+                    "word": " new",
+                    "start": 0.9,
+                    "end": 1.24,
+                    "probability": 0.9983550906181335
+                },
+                {
+                    "word": " measures",
+                    "start": 1.24,
+                    "end": 1.52,
+                    "probability": 0.9967430233955383
+                },
+                {
+                    "word": " to",
+                    "start": 1.52,
+                    "end": 1.82,
+                    "probability": 0.9969800114631653
+                },
+                {
+                    "word": " combat",
+                    "start": 1.82,
+                    "end": 2.18,
+                    "probability": 0.9983665347099304
+                },
+                {
+                    "word": " climate",
+                    "start": 2.18,
+                    "end": 2.68,
+                    "probability": 0.9887934327125549
+                },
+                {
+                    "word": " change.",
+                    "start": 2.68,
+                    "end": 3.84,
+                    "probability": 0.9961960315704346
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

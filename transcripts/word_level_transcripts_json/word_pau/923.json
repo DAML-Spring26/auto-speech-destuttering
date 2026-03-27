@@ -1,0 +1,97 @@
+{
+    "text": " The museum exhibit features artifacts from Intensive civilizations",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.36,
+            "text": " The museum exhibit features artifacts from",
+            "tokens": [
+                50364,
+                440,
+                8441,
+                20487,
+                4122,
+                24617,
+                490,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8606551034109933,
+            "compression_ratio": 0.9850746268656716,
+            "no_speech_prob": 0.006073267664760351,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.6667740345001221
+                },
+                {
+                    "word": " museum",
+                    "start": 0.18,
+                    "end": 0.5,
+                    "probability": 0.8128300905227661
+                },
+                {
+                    "word": " exhibit",
+                    "start": 0.5,
+                    "end": 0.88,
+                    "probability": 0.5122603178024292
+                },
+                {
+                    "word": " features",
+                    "start": 0.88,
+                    "end": 1.38,
+                    "probability": 0.9945699572563171
+                },
+                {
+                    "word": " artifacts",
+                    "start": 1.38,
+                    "end": 2.0,
+                    "probability": 0.7068179845809937
+                },
+                {
+                    "word": " from",
+                    "start": 2.0,
+                    "end": 2.36,
+                    "probability": 0.3636208772659302
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.54,
+            "end": 6.04,
+            "text": " Intensive civilizations",
+            "tokens": [
+                50614,
+                5681,
+                2953,
+                40749,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8606551034109933,
+            "compression_ratio": 0.9850746268656716,
+            "no_speech_prob": 0.006073267664760351,
+            "words": [
+                {
+                    "word": " Intensive",
+                    "start": 4.54,
+                    "end": 5.42,
+                    "probability": 0.31345123797655106
+                },
+                {
+                    "word": " civilizations",
+                    "start": 5.42,
+                    "end": 6.04,
+                    "probability": 0.045105207711458206
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

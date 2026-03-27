@@ -1,0 +1,73 @@
+{
+    "text": " Put the milk in and the fridge.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.62,
+            "text": " Put the milk in and the fridge.",
+            "tokens": [
+                50364,
+                4935,
+                264,
+                5392,
+                294,
+                293,
+                264,
+                13023,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3579678318717263,
+            "compression_ratio": 0.8857142857142857,
+            "no_speech_prob": 0.02414860762655735,
+            "words": [
+                {
+                    "word": " Put",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.4714629352092743
+                },
+                {
+                    "word": " the",
+                    "start": 0.14,
+                    "end": 0.3,
+                    "probability": 0.9926295280456543
+                },
+                {
+                    "word": " milk",
+                    "start": 0.3,
+                    "end": 0.54,
+                    "probability": 0.9453163743019104
+                },
+                {
+                    "word": " in",
+                    "start": 0.54,
+                    "end": 0.86,
+                    "probability": 0.9801110625267029
+                },
+                {
+                    "word": " and",
+                    "start": 0.86,
+                    "end": 1.24,
+                    "probability": 0.8019592761993408
+                },
+                {
+                    "word": " the",
+                    "start": 1.24,
+                    "end": 1.34,
+                    "probability": 0.9138986468315125
+                },
+                {
+                    "word": " fridge.",
+                    "start": 1.34,
+                    "end": 1.62,
+                    "probability": 0.8505218625068665
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

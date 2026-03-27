@@ -1,0 +1,94 @@
+{
+    "text": " We should plan on a family reunion for next summer.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.9,
+            "text": " We should plan on a family reunion for next summer.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                1393,
+                322,
+                257,
+                1605,
+                34720,
+                337,
+                958,
+                4266,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.46752728734697613,
+            "compression_ratio": 0.8793103448275862,
+            "no_speech_prob": 0.015391942113637924,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.72,
+                    "probability": 0.8473939895629883
+                },
+                {
+                    "word": " should",
+                    "start": 0.72,
+                    "end": 0.9,
+                    "probability": 0.9883280396461487
+                },
+                {
+                    "word": " plan",
+                    "start": 0.9,
+                    "end": 1.16,
+                    "probability": 0.9825429916381836
+                },
+                {
+                    "word": " on",
+                    "start": 1.16,
+                    "end": 1.38,
+                    "probability": 0.15914978086948395
+                },
+                {
+                    "word": " a",
+                    "start": 1.38,
+                    "end": 2.28,
+                    "probability": 0.5208700895309448
+                },
+                {
+                    "word": " family",
+                    "start": 2.28,
+                    "end": 2.62,
+                    "probability": 0.7870088219642639
+                },
+                {
+                    "word": " reunion",
+                    "start": 2.62,
+                    "end": 3.04,
+                    "probability": 0.9964356422424316
+                },
+                {
+                    "word": " for",
+                    "start": 3.04,
+                    "end": 3.32,
+                    "probability": 0.9932637214660645
+                },
+                {
+                    "word": " next",
+                    "start": 3.32,
+                    "end": 3.54,
+                    "probability": 0.9543240666389465
+                },
+                {
+                    "word": " summer.",
+                    "start": 3.54,
+                    "end": 3.9,
+                    "probability": 0.9749060273170471
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

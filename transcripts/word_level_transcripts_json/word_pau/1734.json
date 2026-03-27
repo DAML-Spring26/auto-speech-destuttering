@@ -1,0 +1,102 @@
+{
+    "text": " I'll need to consult with my team before making a decision.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.06,
+            "text": " I'll need to consult with my team before making a decision.",
+            "tokens": [
+                50364,
+                286,
+                603,
+                643,
+                281,
+                7189,
+                365,
+                452,
+                1469,
+                949,
+                1455,
+                257,
+                3537,
+                13,
+                50676
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3440535366535187,
+            "compression_ratio": 0.9076923076923077,
+            "no_speech_prob": 0.006672996096313,
+            "words": [
+                {
+                    "word": " I'll",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.9455067813396454
+                },
+                {
+                    "word": " need",
+                    "start": 0.18,
+                    "end": 0.32,
+                    "probability": 0.9960137605667114
+                },
+                {
+                    "word": " to",
+                    "start": 0.32,
+                    "end": 0.46,
+                    "probability": 0.9732881188392639
+                },
+                {
+                    "word": " consult",
+                    "start": 0.46,
+                    "end": 0.76,
+                    "probability": 0.9925494194030762
+                },
+                {
+                    "word": " with",
+                    "start": 0.76,
+                    "end": 0.98,
+                    "probability": 0.9901126623153687
+                },
+                {
+                    "word": " my",
+                    "start": 0.98,
+                    "end": 1.12,
+                    "probability": 0.9954437017440796
+                },
+                {
+                    "word": " team",
+                    "start": 1.12,
+                    "end": 1.38,
+                    "probability": 0.9946021437644958
+                },
+                {
+                    "word": " before",
+                    "start": 1.38,
+                    "end": 1.84,
+                    "probability": 0.9825978875160217
+                },
+                {
+                    "word": " making",
+                    "start": 1.84,
+                    "end": 5.46,
+                    "probability": 0.2991543412208557
+                },
+                {
+                    "word": " a",
+                    "start": 5.46,
+                    "end": 5.66,
+                    "probability": 0.9954766631126404
+                },
+                {
+                    "word": " decision.",
+                    "start": 5.66,
+                    "end": 6.06,
+                    "probability": 0.9942806959152222
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

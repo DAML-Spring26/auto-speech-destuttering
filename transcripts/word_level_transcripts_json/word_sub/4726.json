@@ -1,0 +1,88 @@
+{
+    "text": " The scientists observe the cellular myopia under the microscope.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.38,
+            "text": " The scientists observe the cellular myopia under the microscope.",
+            "tokens": [
+                50364,
+                440,
+                7708,
+                11441,
+                264,
+                29267,
+                452,
+                22376,
+                833,
+                264,
+                29753,
+                13,
+                50494
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.46592399052211214,
+            "compression_ratio": 0.9552238805970149,
+            "no_speech_prob": 0.010854302905499935,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7522673606872559
+                },
+                {
+                    "word": " scientists",
+                    "start": 0.12,
+                    "end": 0.46,
+                    "probability": 0.47657692432403564
+                },
+                {
+                    "word": " observe",
+                    "start": 0.46,
+                    "end": 0.84,
+                    "probability": 0.4834223687648773
+                },
+                {
+                    "word": " the",
+                    "start": 0.84,
+                    "end": 1.02,
+                    "probability": 0.9726725220680237
+                },
+                {
+                    "word": " cellular",
+                    "start": 1.02,
+                    "end": 1.28,
+                    "probability": 0.9620030522346497
+                },
+                {
+                    "word": " myopia",
+                    "start": 1.28,
+                    "end": 1.7,
+                    "probability": 0.7064571380615234
+                },
+                {
+                    "word": " under",
+                    "start": 1.7,
+                    "end": 1.9,
+                    "probability": 0.9711626768112183
+                },
+                {
+                    "word": " the",
+                    "start": 1.9,
+                    "end": 2.02,
+                    "probability": 0.9910340905189514
+                },
+                {
+                    "word": " microscope.",
+                    "start": 2.02,
+                    "end": 2.38,
+                    "probability": 0.9975466132164001
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

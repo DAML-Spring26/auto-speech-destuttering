@@ -1,0 +1,80 @@
+{
+    "text": " Can you spread the cost between all participants?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.94,
+            "text": " Can you spread the cost between all participants?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                3974,
+                264,
+                2063,
+                1296,
+                439,
+                10503,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.44291456540425617,
+            "compression_ratio": 0.8596491228070176,
+            "no_speech_prob": 0.003123293863609433,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.4734814167022705
+                },
+                {
+                    "word": " you",
+                    "start": 0.2,
+                    "end": 0.32,
+                    "probability": 0.8491253852844238
+                },
+                {
+                    "word": " spread",
+                    "start": 0.32,
+                    "end": 0.54,
+                    "probability": 0.9417791962623596
+                },
+                {
+                    "word": " the",
+                    "start": 0.54,
+                    "end": 0.7,
+                    "probability": 0.9950856566429138
+                },
+                {
+                    "word": " cost",
+                    "start": 0.7,
+                    "end": 0.88,
+                    "probability": 0.5421180725097656
+                },
+                {
+                    "word": " between",
+                    "start": 0.88,
+                    "end": 1.24,
+                    "probability": 0.9897608160972595
+                },
+                {
+                    "word": " all",
+                    "start": 1.24,
+                    "end": 1.44,
+                    "probability": 0.9952430129051208
+                },
+                {
+                    "word": " participants?",
+                    "start": 1.44,
+                    "end": 1.94,
+                    "probability": 0.9711459279060364
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,73 @@
+{
+    "text": " The project manager protected the quarterly report.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.72,
+            "text": " The project manager protected the quarterly report.",
+            "tokens": [
+                50364,
+                440,
+                1716,
+                6598,
+                10594,
+                264,
+                38633,
+                2275,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4187376715920188,
+            "compression_ratio": 0.9444444444444444,
+            "no_speech_prob": 0.007352147717028856,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.6162961721420288
+                },
+                {
+                    "word": " project",
+                    "start": 0.08,
+                    "end": 0.4,
+                    "probability": 0.9098924398422241
+                },
+                {
+                    "word": " manager",
+                    "start": 0.4,
+                    "end": 0.76,
+                    "probability": 0.9735425114631653
+                },
+                {
+                    "word": " protected",
+                    "start": 0.76,
+                    "end": 1.42,
+                    "probability": 0.7602673172950745
+                },
+                {
+                    "word": " the",
+                    "start": 1.42,
+                    "end": 1.68,
+                    "probability": 0.9915189146995544
+                },
+                {
+                    "word": " quarterly",
+                    "start": 1.68,
+                    "end": 2.1,
+                    "probability": 0.9747426509857178
+                },
+                {
+                    "word": " report.",
+                    "start": 2.1,
+                    "end": 2.72,
+                    "probability": 0.9948369264602661
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

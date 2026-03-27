@@ -1,0 +1,73 @@
+{
+    "text": " you finish now or miss the deadline.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.48,
+            "text": " you finish now or miss the deadline.",
+            "tokens": [
+                50364,
+                291,
+                2413,
+                586,
+                420,
+                1713,
+                264,
+                20615,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4329126097939231,
+            "compression_ratio": 0.8181818181818182,
+            "no_speech_prob": 0.0020774209406226873,
+            "words": [
+                {
+                    "word": " you",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.42724835872650146
+                },
+                {
+                    "word": " finish",
+                    "start": 0.1,
+                    "end": 0.36,
+                    "probability": 0.8642104864120483
+                },
+                {
+                    "word": " now",
+                    "start": 0.36,
+                    "end": 0.56,
+                    "probability": 0.8241136074066162
+                },
+                {
+                    "word": " or",
+                    "start": 0.56,
+                    "end": 0.76,
+                    "probability": 0.9479572176933289
+                },
+                {
+                    "word": " miss",
+                    "start": 0.76,
+                    "end": 1.0,
+                    "probability": 0.8317559361457825
+                },
+                {
+                    "word": " the",
+                    "start": 1.0,
+                    "end": 1.14,
+                    "probability": 0.9838722348213196
+                },
+                {
+                    "word": " deadline.",
+                    "start": 1.14,
+                    "end": 1.48,
+                    "probability": 0.9836896061897278
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

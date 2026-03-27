@@ -1,0 +1,80 @@
+{
+    "text": " The new update improves system performance and security.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.6,
+            "text": " The new update improves system performance and security.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                5623,
+                24771,
+                1185,
+                3389,
+                293,
+                3825,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3690922260284424,
+            "compression_ratio": 0.9032258064516129,
+            "no_speech_prob": 0.003995936363935471,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6644856333732605
+                },
+                {
+                    "word": " new",
+                    "start": 0.16,
+                    "end": 0.38,
+                    "probability": 0.9752846956253052
+                },
+                {
+                    "word": " update",
+                    "start": 0.38,
+                    "end": 0.74,
+                    "probability": 0.9483967423439026
+                },
+                {
+                    "word": " improves",
+                    "start": 0.74,
+                    "end": 1.42,
+                    "probability": 0.9934420585632324
+                },
+                {
+                    "word": " system",
+                    "start": 1.42,
+                    "end": 3.18,
+                    "probability": 0.5545376539230347
+                },
+                {
+                    "word": " performance",
+                    "start": 3.18,
+                    "end": 3.72,
+                    "probability": 0.9926069974899292
+                },
+                {
+                    "word": " and",
+                    "start": 3.72,
+                    "end": 4.0,
+                    "probability": 0.8843951225280762
+                },
+                {
+                    "word": " security.",
+                    "start": 4.0,
+                    "end": 4.6,
+                    "probability": 0.9944741129875183
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

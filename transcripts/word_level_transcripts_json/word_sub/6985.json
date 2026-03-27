@@ -1,0 +1,73 @@
+{
+    "text": " Could you please turn down the value?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.66,
+            "text": " Could you please turn down the value?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                1261,
+                760,
+                264,
+                2158,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23660508069125089,
+            "compression_ratio": 0.8222222222222222,
+            "no_speech_prob": 0.009326362051069736,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.9180087447166443
+                },
+                {
+                    "word": " you",
+                    "start": 0.2,
+                    "end": 0.34,
+                    "probability": 0.9976539015769958
+                },
+                {
+                    "word": " please",
+                    "start": 0.34,
+                    "end": 0.6,
+                    "probability": 0.9876778721809387
+                },
+                {
+                    "word": " turn",
+                    "start": 0.6,
+                    "end": 0.88,
+                    "probability": 0.8661236763000488
+                },
+                {
+                    "word": " down",
+                    "start": 0.88,
+                    "end": 1.12,
+                    "probability": 0.9956080317497253
+                },
+                {
+                    "word": " the",
+                    "start": 1.12,
+                    "end": 1.3,
+                    "probability": 0.9899742007255554
+                },
+                {
+                    "word": " value?",
+                    "start": 1.3,
+                    "end": 1.66,
+                    "probability": 0.9804025888442993
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

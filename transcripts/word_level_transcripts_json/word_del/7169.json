@@ -1,0 +1,74 @@
+{
+    "text": " The director suggested we postpone the meeting.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.64,
+            "text": " The director suggested we postpone the meeting.",
+            "tokens": [
+                50364,
+                440,
+                5391,
+                10945,
+                321,
+                28973,
+                546,
+                264,
+                3440,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32693501313527423,
+            "compression_ratio": 0.8703703703703703,
+            "no_speech_prob": 0.01278996467590332,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7356029748916626
+                },
+                {
+                    "word": " director",
+                    "start": 0.12,
+                    "end": 0.6,
+                    "probability": 0.73381108045578
+                },
+                {
+                    "word": " suggested",
+                    "start": 0.6,
+                    "end": 1.3,
+                    "probability": 0.9790846109390259
+                },
+                {
+                    "word": " we",
+                    "start": 1.3,
+                    "end": 1.58,
+                    "probability": 0.9760165810585022
+                },
+                {
+                    "word": " postpone",
+                    "start": 1.58,
+                    "end": 2.24,
+                    "probability": 0.9693987369537354
+                },
+                {
+                    "word": " the",
+                    "start": 2.24,
+                    "end": 2.34,
+                    "probability": 0.9967953562736511
+                },
+                {
+                    "word": " meeting.",
+                    "start": 2.34,
+                    "end": 2.64,
+                    "probability": 0.9987215399742126
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

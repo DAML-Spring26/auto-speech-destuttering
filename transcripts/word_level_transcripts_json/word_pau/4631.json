@@ -1,0 +1,73 @@
+{
+    "text": " She always performs exceptionally well under pressure.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.84,
+            "text": " She always performs exceptionally well under pressure.",
+            "tokens": [
+                50364,
+                1240,
+                1009,
+                26213,
+                37807,
+                731,
+                833,
+                3321,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.301644043488936,
+            "compression_ratio": 0.8852459016393442,
+            "no_speech_prob": 0.003970762249082327,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.7597545981407166
+                },
+                {
+                    "word": " always",
+                    "start": 0.18,
+                    "end": 0.52,
+                    "probability": 0.9979925155639648
+                },
+                {
+                    "word": " performs",
+                    "start": 0.52,
+                    "end": 1.28,
+                    "probability": 0.9892403483390808
+                },
+                {
+                    "word": " exceptionally",
+                    "start": 1.28,
+                    "end": 3.78,
+                    "probability": 0.7632630467414856
+                },
+                {
+                    "word": " well",
+                    "start": 3.78,
+                    "end": 4.06,
+                    "probability": 0.9914575219154358
+                },
+                {
+                    "word": " under",
+                    "start": 4.06,
+                    "end": 4.4,
+                    "probability": 0.9918041229248047
+                },
+                {
+                    "word": " pressure.",
+                    "start": 4.4,
+                    "end": 4.84,
+                    "probability": 0.9908439517021179
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

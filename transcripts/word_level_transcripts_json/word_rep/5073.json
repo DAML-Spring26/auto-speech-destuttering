@@ -1,0 +1,116 @@
+{
+    "text": " Although the project was challenging, the team managed to complete it on time.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.58,
+            "text": " Although the project was challenging, the team managed to complete it on time.",
+            "tokens": [
+                50364,
+                5780,
+                264,
+                1716,
+                390,
+                7595,
+                11,
+                264,
+                1469,
+                6453,
+                281,
+                3566,
+                309,
+                322,
+                565,
+                13,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22962689399719238,
+            "compression_ratio": 1.0684931506849316,
+            "no_speech_prob": 0.008636976592242718,
+            "words": [
+                {
+                    "word": " Although",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.8062071800231934
+                },
+                {
+                    "word": " the",
+                    "start": 0.3,
+                    "end": 0.48,
+                    "probability": 0.9763159155845642
+                },
+                {
+                    "word": " project",
+                    "start": 0.48,
+                    "end": 0.88,
+                    "probability": 0.9917814135551453
+                },
+                {
+                    "word": " was",
+                    "start": 0.88,
+                    "end": 1.14,
+                    "probability": 0.9850261807441711
+                },
+                {
+                    "word": " challenging,",
+                    "start": 1.14,
+                    "end": 1.68,
+                    "probability": 0.9963118433952332
+                },
+                {
+                    "word": " the",
+                    "start": 2.1,
+                    "end": 2.18,
+                    "probability": 0.9908225536346436
+                },
+                {
+                    "word": " team",
+                    "start": 2.18,
+                    "end": 2.42,
+                    "probability": 0.9424368739128113
+                },
+                {
+                    "word": " managed",
+                    "start": 2.42,
+                    "end": 2.72,
+                    "probability": 0.995270311832428
+                },
+                {
+                    "word": " to",
+                    "start": 2.72,
+                    "end": 3.08,
+                    "probability": 0.9977364540100098
+                },
+                {
+                    "word": " complete",
+                    "start": 3.08,
+                    "end": 3.82,
+                    "probability": 0.6856415271759033
+                },
+                {
+                    "word": " it",
+                    "start": 3.82,
+                    "end": 4.02,
+                    "probability": 0.9817536473274231
+                },
+                {
+                    "word": " on",
+                    "start": 4.02,
+                    "end": 4.2,
+                    "probability": 0.9877727627754211
+                },
+                {
+                    "word": " time.",
+                    "start": 4.2,
+                    "end": 4.58,
+                    "probability": 0.9918286204338074
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,5 +1,5 @@
 {
-    "text": " for your presentation, remember to it will speak clearly and maintain eye contact.",
+    "text": " for your presentation, remember to it will be clearly and maintain",
     "segments": [
         {
             "id": 0,
@@ -18,33 +18,30 @@
                 50464
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.5149634838104248,
-            "compression_ratio": 1.0789473684210527,
-            "no_speech_prob": 0.010441319085657597
+            "avg_logprob": -0.6980549868415383,
+            "compression_ratio": 1.0153846153846153,
+            "no_speech_prob": 0.015279693529009819
         },
         {
             "id": 1,
             "seek": 0,
             "start": 4.0,
-            "end": 7.0,
-            "text": " it will speak clearly and maintain eye contact.",
+            "end": 6.0,
+            "text": " it will be clearly and maintain",
             "tokens": [
                 50564,
                 309,
                 486,
-                1710,
+                312,
                 4448,
                 293,
                 6909,
-                3313,
-                3385,
-                13,
-                50714
+                50664
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.5149634838104248,
-            "compression_ratio": 1.0789473684210527,
-            "no_speech_prob": 0.010441319085657597
+            "avg_logprob": -0.6980549868415383,
+            "compression_ratio": 1.0153846153846153,
+            "no_speech_prob": 0.015279693529009819
         }
     ],
     "language": "en"

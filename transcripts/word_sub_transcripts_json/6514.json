@@ -1,0 +1,89 @@
+{
+    "text": " During the concert, the guitarist played an impressive solo.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.88,
+            "text": " During the concert, the guitarist played an impressive solo.",
+            "tokens": [
+                50364,
+                6842,
+                264,
+                8543,
+                11,
+                264,
+                7531,
+                468,
+                3737,
+                364,
+                8992,
+                6944,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36160879135131835,
+            "compression_ratio": 0.9375,
+            "no_speech_prob": 0.006057029124349356,
+            "words": [
+                {
+                    "word": " During",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.6535921096801758
+                },
+                {
+                    "word": " the",
+                    "start": 0.22,
+                    "end": 0.38,
+                    "probability": 0.9944207072257996
+                },
+                {
+                    "word": " concert,",
+                    "start": 0.38,
+                    "end": 0.8,
+                    "probability": 0.9833583235740662
+                },
+                {
+                    "word": " the",
+                    "start": 0.98,
+                    "end": 1.04,
+                    "probability": 0.9859922528266907
+                },
+                {
+                    "word": " guitarist",
+                    "start": 1.04,
+                    "end": 1.56,
+                    "probability": 0.875764012336731
+                },
+                {
+                    "word": " played",
+                    "start": 1.56,
+                    "end": 1.78,
+                    "probability": 0.9917352199554443
+                },
+                {
+                    "word": " an",
+                    "start": 1.78,
+                    "end": 1.96,
+                    "probability": 0.9869092106819153
+                },
+                {
+                    "word": " impressive",
+                    "start": 1.96,
+                    "end": 2.4,
+                    "probability": 0.988102376461029
+                },
+                {
+                    "word": " solo.",
+                    "start": 2.4,
+                    "end": 2.88,
+                    "probability": 0.40478214621543884
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

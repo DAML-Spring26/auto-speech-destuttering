@@ -1,0 +1,45 @@
+{
+    "text": " the car stops.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.94,
+            "text": " the car stops.",
+            "tokens": [
+                50364,
+                264,
+                1032,
+                10094,
+                13,
+                50434
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8337939807346889,
+            "compression_ratio": 0.6363636363636364,
+            "no_speech_prob": 0.07402399182319641,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.26630255579948425
+                },
+                {
+                    "word": " car",
+                    "start": 0.16,
+                    "end": 0.64,
+                    "probability": 0.6843510270118713
+                },
+                {
+                    "word": " stops.",
+                    "start": 0.64,
+                    "end": 0.94,
+                    "probability": 0.9773218035697937
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

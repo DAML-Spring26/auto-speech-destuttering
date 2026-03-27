@@ -1,0 +1,66 @@
+{
+    "text": " She has has finished her homework.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.84,
+            "text": " She has has finished her homework.",
+            "tokens": [
+                50364,
+                1240,
+                575,
+                575,
+                4335,
+                720,
+                14578,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.449352502822876,
+            "compression_ratio": 0.8947368421052632,
+            "no_speech_prob": 0.010097687132656574,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.7546581029891968
+                },
+                {
+                    "word": " has",
+                    "start": 0.24,
+                    "end": 0.58,
+                    "probability": 0.9924197793006897
+                },
+                {
+                    "word": " has",
+                    "start": 0.58,
+                    "end": 0.82,
+                    "probability": 0.5793297290802002
+                },
+                {
+                    "word": " finished",
+                    "start": 0.82,
+                    "end": 1.14,
+                    "probability": 0.9956859350204468
+                },
+                {
+                    "word": " her",
+                    "start": 1.14,
+                    "end": 1.5,
+                    "probability": 0.9960261583328247
+                },
+                {
+                    "word": " homework.",
+                    "start": 1.5,
+                    "end": 1.84,
+                    "probability": 0.9962387084960938
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

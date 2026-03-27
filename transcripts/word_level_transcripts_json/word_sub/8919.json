@@ -1,0 +1,52 @@
+{
+    "text": " Please spike the match.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.9,
+            "text": " Please spike the match.",
+            "tokens": [
+                50364,
+                2555,
+                21053,
+                264,
+                2995,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8043258190155029,
+            "compression_ratio": 0.7419354838709677,
+            "no_speech_prob": 0.008136085234582424,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.6958528757095337
+                },
+                {
+                    "word": " spike",
+                    "start": 0.2,
+                    "end": 0.5,
+                    "probability": 0.2370796501636505
+                },
+                {
+                    "word": " the",
+                    "start": 0.5,
+                    "end": 0.68,
+                    "probability": 0.9770551919937134
+                },
+                {
+                    "word": " match.",
+                    "start": 0.68,
+                    "end": 0.9,
+                    "probability": 0.2800532877445221
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

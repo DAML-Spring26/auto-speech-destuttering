@@ -1,0 +1,87 @@
+{
+    "text": " We need to clean the garage arm this weekend.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.66,
+            "text": " We need to clean the garage arm this weekend.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                2541,
+                264,
+                14400,
+                3726,
+                341,
+                6711,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36085917399479794,
+            "compression_ratio": 0.8823529411764706,
+            "no_speech_prob": 0.025785021483898163,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.58,
+                    "probability": 0.7750463485717773
+                },
+                {
+                    "word": " need",
+                    "start": 0.58,
+                    "end": 0.72,
+                    "probability": 0.9948475360870361
+                },
+                {
+                    "word": " to",
+                    "start": 0.72,
+                    "end": 0.88,
+                    "probability": 0.9977960586547852
+                },
+                {
+                    "word": " clean",
+                    "start": 0.88,
+                    "end": 1.06,
+                    "probability": 0.9976848363876343
+                },
+                {
+                    "word": " the",
+                    "start": 1.06,
+                    "end": 1.26,
+                    "probability": 0.9919153451919556
+                },
+                {
+                    "word": " garage",
+                    "start": 1.26,
+                    "end": 1.56,
+                    "probability": 0.9875677824020386
+                },
+                {
+                    "word": " arm",
+                    "start": 1.56,
+                    "end": 1.94,
+                    "probability": 0.45521149039268494
+                },
+                {
+                    "word": " this",
+                    "start": 1.94,
+                    "end": 2.24,
+                    "probability": 0.7677387595176697
+                },
+                {
+                    "word": " weekend.",
+                    "start": 2.24,
+                    "end": 2.66,
+                    "probability": 0.9843859076499939
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

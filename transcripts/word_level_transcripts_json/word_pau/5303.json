@@ -1,0 +1,102 @@
+{
+    "text": " OMG, did you hear about the surprise ending of the show?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.32,
+            "text": " OMG, did you hear about the surprise ending of the show?",
+            "tokens": [
+                50364,
+                23152,
+                11,
+                630,
+                291,
+                1568,
+                466,
+                264,
+                6365,
+                8121,
+                295,
+                264,
+                855,
+                30,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4971804916858673,
+            "compression_ratio": 0.9333333333333333,
+            "no_speech_prob": 0.03087756596505642,
+            "words": [
+                {
+                    "word": " OMG,",
+                    "start": 0.0,
+                    "end": 0.52,
+                    "probability": 0.22573474049568176
+                },
+                {
+                    "word": " did",
+                    "start": 0.94,
+                    "end": 1.06,
+                    "probability": 0.9411763548851013
+                },
+                {
+                    "word": " you",
+                    "start": 1.06,
+                    "end": 1.22,
+                    "probability": 0.9955997467041016
+                },
+                {
+                    "word": " hear",
+                    "start": 1.22,
+                    "end": 1.42,
+                    "probability": 0.9912111163139343
+                },
+                {
+                    "word": " about",
+                    "start": 1.42,
+                    "end": 1.76,
+                    "probability": 0.9925093650817871
+                },
+                {
+                    "word": " the",
+                    "start": 1.76,
+                    "end": 3.82,
+                    "probability": 0.34864088892936707
+                },
+                {
+                    "word": " surprise",
+                    "start": 3.82,
+                    "end": 4.24,
+                    "probability": 0.9551486968994141
+                },
+                {
+                    "word": " ending",
+                    "start": 4.24,
+                    "end": 4.68,
+                    "probability": 0.97598797082901
+                },
+                {
+                    "word": " of",
+                    "start": 4.68,
+                    "end": 4.88,
+                    "probability": 0.9946871995925903
+                },
+                {
+                    "word": " the",
+                    "start": 4.88,
+                    "end": 5.02,
+                    "probability": 0.9745702743530273
+                },
+                {
+                    "word": " show?",
+                    "start": 5.02,
+                    "end": 5.32,
+                    "probability": 0.9959352016448975
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

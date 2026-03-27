@@ -1,0 +1,66 @@
+{
+    "text": " When will my order be delivered?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.2600000000000005,
+            "end": 4.14,
+            "text": " When will my order be delivered?",
+            "tokens": [
+                50364,
+                1133,
+                486,
+                452,
+                1668,
+                312,
+                10144,
+                30,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45725336074829104,
+            "compression_ratio": 0.8,
+            "no_speech_prob": 0.3057139217853546,
+            "words": [
+                {
+                    "word": " When",
+                    "start": 1.2600000000000005,
+                    "end": 1.82,
+                    "probability": 0.6782168745994568
+                },
+                {
+                    "word": " will",
+                    "start": 1.82,
+                    "end": 2.0,
+                    "probability": 0.9931334853172302
+                },
+                {
+                    "word": " my",
+                    "start": 2.0,
+                    "end": 2.2,
+                    "probability": 0.9843870997428894
+                },
+                {
+                    "word": " order",
+                    "start": 2.2,
+                    "end": 2.48,
+                    "probability": 0.9606128334999084
+                },
+                {
+                    "word": " be",
+                    "start": 2.48,
+                    "end": 2.78,
+                    "probability": 0.9957001209259033
+                },
+                {
+                    "word": " delivered?",
+                    "start": 2.78,
+                    "end": 4.14,
+                    "probability": 0.8846467733383179
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

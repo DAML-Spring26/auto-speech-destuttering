@@ -1,0 +1,110 @@
+{
+    "text": " Philosopher argued that freewill is an illusion created by a limited reception.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.2,
+            "text": " Philosopher argued that freewill is an illusion created by a limited reception.",
+            "tokens": [
+                50364,
+                31182,
+                16754,
+                20219,
+                300,
+                1737,
+                17044,
+                307,
+                364,
+                18854,
+                2942,
+                538,
+                257,
+                5567,
+                21682,
+                13,
+                50592
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3964398437076145,
+            "compression_ratio": 1.0533333333333332,
+            "no_speech_prob": 0.002212093211710453,
+            "words": [
+                {
+                    "word": " Philosopher",
+                    "start": 0.0,
+                    "end": 0.68,
+                    "probability": 0.6720080971717834
+                },
+                {
+                    "word": " argued",
+                    "start": 0.68,
+                    "end": 1.02,
+                    "probability": 0.976942777633667
+                },
+                {
+                    "word": " that",
+                    "start": 1.02,
+                    "end": 1.2,
+                    "probability": 0.7580823302268982
+                },
+                {
+                    "word": " freewill",
+                    "start": 1.2,
+                    "end": 1.62,
+                    "probability": 0.4462845176458359
+                },
+                {
+                    "word": " is",
+                    "start": 1.62,
+                    "end": 1.86,
+                    "probability": 0.9864635467529297
+                },
+                {
+                    "word": " an",
+                    "start": 1.86,
+                    "end": 2.04,
+                    "probability": 0.9894456267356873
+                },
+                {
+                    "word": " illusion",
+                    "start": 2.04,
+                    "end": 2.42,
+                    "probability": 0.8378041386604309
+                },
+                {
+                    "word": " created",
+                    "start": 2.42,
+                    "end": 2.9,
+                    "probability": 0.9940556287765503
+                },
+                {
+                    "word": " by",
+                    "start": 2.9,
+                    "end": 3.16,
+                    "probability": 0.9978925585746765
+                },
+                {
+                    "word": " a",
+                    "start": 3.16,
+                    "end": 3.24,
+                    "probability": 0.9904778003692627
+                },
+                {
+                    "word": " limited",
+                    "start": 3.24,
+                    "end": 3.54,
+                    "probability": 0.9317631721496582
+                },
+                {
+                    "word": " reception.",
+                    "start": 3.54,
+                    "end": 4.2,
+                    "probability": 0.9151078462600708
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

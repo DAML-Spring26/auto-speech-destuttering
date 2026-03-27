@@ -1,0 +1,101 @@
+{
+    "text": " We should invite both grandma and grandpa to the graduation ceremony.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.94,
+            "text": " We should invite both grandma and grandpa to the graduation ceremony.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                7980,
+                1293,
+                15766,
+                293,
+                24129,
+                281,
+                264,
+                15652,
+                12813,
+                13,
+                50580
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.462742551167806,
+            "compression_ratio": 1.0147058823529411,
+            "no_speech_prob": 0.002563559217378497,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5936187505722046
+                },
+                {
+                    "word": " should",
+                    "start": 0.12,
+                    "end": 0.32,
+                    "probability": 0.9961804151535034
+                },
+                {
+                    "word": " invite",
+                    "start": 0.32,
+                    "end": 0.72,
+                    "probability": 0.9937847852706909
+                },
+                {
+                    "word": " both",
+                    "start": 0.72,
+                    "end": 1.2,
+                    "probability": 0.9886289834976196
+                },
+                {
+                    "word": " grandma",
+                    "start": 1.2,
+                    "end": 1.64,
+                    "probability": 0.4250146746635437
+                },
+                {
+                    "word": " and",
+                    "start": 1.64,
+                    "end": 1.9,
+                    "probability": 0.27663731575012207
+                },
+                {
+                    "word": " grandpa",
+                    "start": 1.9,
+                    "end": 2.28,
+                    "probability": 0.5320847034454346
+                },
+                {
+                    "word": " to",
+                    "start": 2.28,
+                    "end": 2.5,
+                    "probability": 0.9785370826721191
+                },
+                {
+                    "word": " the",
+                    "start": 2.5,
+                    "end": 2.62,
+                    "probability": 0.9864507913589478
+                },
+                {
+                    "word": " graduation",
+                    "start": 2.62,
+                    "end": 3.14,
+                    "probability": 0.9479384422302246
+                },
+                {
+                    "word": " ceremony.",
+                    "start": 3.14,
+                    "end": 3.94,
+                    "probability": 0.9993591904640198
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

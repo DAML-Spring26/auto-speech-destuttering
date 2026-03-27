@@ -1,0 +1,81 @@
+{
+    "text": " The data breach investigated by our Cybersecurity team.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.78,
+            "text": " The data breach investigated by our Cybersecurity team.",
+            "tokens": [
+                50364,
+                440,
+                1412,
+                31086,
+                30070,
+                538,
+                527,
+                22935,
+                31004,
+                1469,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41726545187143177,
+            "compression_ratio": 0.873015873015873,
+            "no_speech_prob": 0.007685932796448469,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6366274952888489
+                },
+                {
+                    "word": " data",
+                    "start": 0.12,
+                    "end": 0.3,
+                    "probability": 0.404159814119339
+                },
+                {
+                    "word": " breach",
+                    "start": 0.3,
+                    "end": 0.58,
+                    "probability": 0.9399704337120056
+                },
+                {
+                    "word": " investigated",
+                    "start": 0.58,
+                    "end": 1.18,
+                    "probability": 0.9921227097511292
+                },
+                {
+                    "word": " by",
+                    "start": 1.18,
+                    "end": 1.62,
+                    "probability": 0.9928923845291138
+                },
+                {
+                    "word": " our",
+                    "start": 1.62,
+                    "end": 1.72,
+                    "probability": 0.8417935371398926
+                },
+                {
+                    "word": " Cybersecurity",
+                    "start": 1.72,
+                    "end": 2.32,
+                    "probability": 0.6231364756822586
+                },
+                {
+                    "word": " team.",
+                    "start": 2.32,
+                    "end": 2.78,
+                    "probability": 0.8509970307350159
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

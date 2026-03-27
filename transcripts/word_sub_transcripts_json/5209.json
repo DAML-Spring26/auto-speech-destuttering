@@ -1,0 +1,80 @@
+{
+    "text": " Can you clarify the terms of the contact?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.28,
+            "text": " Can you clarify the terms of the contact?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                17594,
+                264,
+                2115,
+                295,
+                264,
+                3385,
+                30,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31174107392628986,
+            "compression_ratio": 0.9111111111111111,
+            "no_speech_prob": 0.013010195456445217,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.7998482584953308
+                },
+                {
+                    "word": " you",
+                    "start": 0.22,
+                    "end": 0.32,
+                    "probability": 0.9880046248435974
+                },
+                {
+                    "word": " clarify",
+                    "start": 0.32,
+                    "end": 0.8,
+                    "probability": 0.9926909804344177
+                },
+                {
+                    "word": " the",
+                    "start": 0.8,
+                    "end": 1.14,
+                    "probability": 0.9875621795654297
+                },
+                {
+                    "word": " terms",
+                    "start": 1.14,
+                    "end": 1.48,
+                    "probability": 0.9971998929977417
+                },
+                {
+                    "word": " of",
+                    "start": 1.48,
+                    "end": 1.66,
+                    "probability": 0.9964450001716614
+                },
+                {
+                    "word": " the",
+                    "start": 1.66,
+                    "end": 1.78,
+                    "probability": 0.9871711134910583
+                },
+                {
+                    "word": " contact?",
+                    "start": 1.78,
+                    "end": 2.28,
+                    "probability": 0.9375591278076172
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

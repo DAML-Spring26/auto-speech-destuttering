@@ -1,0 +1,94 @@
+{
+    "text": " The project deadline has been extended by 2 weeks well.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.4,
+            "text": " The project deadline has been extended by 2 weeks well.",
+            "tokens": [
+                50364,
+                440,
+                1716,
+                20615,
+                575,
+                668,
+                10913,
+                538,
+                568,
+                3259,
+                731,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32716103962489534,
+            "compression_ratio": 0.9016393442622951,
+            "no_speech_prob": 0.1024661511182785,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 1.46,
+                    "probability": 0.8891147971153259
+                },
+                {
+                    "word": " project",
+                    "start": 1.46,
+                    "end": 1.92,
+                    "probability": 0.8638421893119812
+                },
+                {
+                    "word": " deadline",
+                    "start": 1.92,
+                    "end": 2.44,
+                    "probability": 0.9912806153297424
+                },
+                {
+                    "word": " has",
+                    "start": 2.44,
+                    "end": 3.1,
+                    "probability": 0.9392582178115845
+                },
+                {
+                    "word": " been",
+                    "start": 3.1,
+                    "end": 3.34,
+                    "probability": 0.9980682730674744
+                },
+                {
+                    "word": " extended",
+                    "start": 3.34,
+                    "end": 3.88,
+                    "probability": 0.9961863160133362
+                },
+                {
+                    "word": " by",
+                    "start": 3.88,
+                    "end": 4.22,
+                    "probability": 0.9957635402679443
+                },
+                {
+                    "word": " 2",
+                    "start": 4.22,
+                    "end": 4.74,
+                    "probability": 0.48505958914756775
+                },
+                {
+                    "word": " weeks",
+                    "start": 4.74,
+                    "end": 5.1,
+                    "probability": 0.9714979529380798
+                },
+                {
+                    "word": " well.",
+                    "start": 5.1,
+                    "end": 5.4,
+                    "probability": 0.9053241610527039
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

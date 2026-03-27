@@ -1,0 +1,67 @@
+{
+    "text": " I'll look forward to the weekend.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.44,
+            "text": " I'll look forward to the weekend.",
+            "tokens": [
+                50364,
+                286,
+                603,
+                574,
+                2128,
+                281,
+                264,
+                6711,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4824931404807351,
+            "compression_ratio": 0.8048780487804879,
+            "no_speech_prob": 0.04275494068861008,
+            "words": [
+                {
+                    "word": " I'll",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.44829684495925903
+                },
+                {
+                    "word": " look",
+                    "start": 0.42,
+                    "end": 0.52,
+                    "probability": 0.5628101229667664
+                },
+                {
+                    "word": " forward",
+                    "start": 0.52,
+                    "end": 0.84,
+                    "probability": 0.9870045781135559
+                },
+                {
+                    "word": " to",
+                    "start": 0.84,
+                    "end": 1.06,
+                    "probability": 0.9876164793968201
+                },
+                {
+                    "word": " the",
+                    "start": 1.06,
+                    "end": 1.14,
+                    "probability": 0.9738137722015381
+                },
+                {
+                    "word": " weekend.",
+                    "start": 1.14,
+                    "end": 1.44,
+                    "probability": 0.9898045063018799
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

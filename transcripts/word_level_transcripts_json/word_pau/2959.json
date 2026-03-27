@@ -1,0 +1,87 @@
+{
+    "text": " Please submit your application form along with supporting documents.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.26,
+            "text": " Please submit your application form along with supporting documents.",
+            "tokens": [
+                50364,
+                2555,
+                10315,
+                428,
+                3861,
+                1254,
+                2051,
+                365,
+                7231,
+                8512,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37323760986328125,
+            "compression_ratio": 0.9714285714285714,
+            "no_speech_prob": 0.003370651975274086,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.4675280451774597
+                },
+                {
+                    "word": " submit",
+                    "start": 0.14,
+                    "end": 0.5,
+                    "probability": 0.9717308282852173
+                },
+                {
+                    "word": " your",
+                    "start": 0.5,
+                    "end": 0.72,
+                    "probability": 0.9899654388427734
+                },
+                {
+                    "word": " application",
+                    "start": 0.72,
+                    "end": 1.44,
+                    "probability": 0.9875138401985168
+                },
+                {
+                    "word": " form",
+                    "start": 1.44,
+                    "end": 2.04,
+                    "probability": 0.9703226089477539
+                },
+                {
+                    "word": " along",
+                    "start": 2.04,
+                    "end": 3.88,
+                    "probability": 0.8918206691741943
+                },
+                {
+                    "word": " with",
+                    "start": 3.88,
+                    "end": 4.12,
+                    "probability": 0.9942869544029236
+                },
+                {
+                    "word": " supporting",
+                    "start": 4.12,
+                    "end": 4.66,
+                    "probability": 0.9319503307342529
+                },
+                {
+                    "word": " documents.",
+                    "start": 4.66,
+                    "end": 5.26,
+                    "probability": 0.9882529377937317
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

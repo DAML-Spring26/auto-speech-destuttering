@@ -1,0 +1,52 @@
+{
+    "text": " they perform extensive testing.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.3,
+            "text": " they perform extensive testing.",
+            "tokens": [
+                50364,
+                436,
+                2042,
+                13246,
+                4997,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5520510077476501,
+            "compression_ratio": 0.7948717948717948,
+            "no_speech_prob": 0.010894340462982655,
+            "words": [
+                {
+                    "word": " they",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.4045793116092682
+                },
+                {
+                    "word": " perform",
+                    "start": 0.12,
+                    "end": 0.36,
+                    "probability": 0.6904157400131226
+                },
+                {
+                    "word": " extensive",
+                    "start": 0.36,
+                    "end": 0.74,
+                    "probability": 0.937942624092102
+                },
+                {
+                    "word": " testing.",
+                    "start": 0.74,
+                    "end": 1.3,
+                    "probability": 0.9947502017021179
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

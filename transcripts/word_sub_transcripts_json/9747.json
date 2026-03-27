@@ -1,0 +1,53 @@
+{
+    "text": " Please forfeit the document.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.2,
+            "text": " Please forfeit the document.",
+            "tokens": [
+                50364,
+                2555,
+                337,
+                37434,
+                264,
+                4166,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7598328590393066,
+            "compression_ratio": 0.7777777777777778,
+            "no_speech_prob": 0.013251601718366146,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.4764007329940796
+                },
+                {
+                    "word": " forfeit",
+                    "start": 0.2,
+                    "end": 0.74,
+                    "probability": 0.29426828771829605
+                },
+                {
+                    "word": " the",
+                    "start": 0.74,
+                    "end": 0.84,
+                    "probability": 0.9782285094261169
+                },
+                {
+                    "word": " document.",
+                    "start": 0.84,
+                    "end": 1.2,
+                    "probability": 0.9018670320510864
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

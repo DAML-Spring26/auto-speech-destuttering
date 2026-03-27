@@ -1,0 +1,88 @@
+{
+    "text": " She's leading the team for over five years now.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.34,
+            "text": " She's leading the team for over five years now.",
+            "tokens": [
+                50364,
+                1240,
+                311,
+                5775,
+                264,
+                1469,
+                337,
+                670,
+                1732,
+                924,
+                586,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37681429726736887,
+            "compression_ratio": 0.8545454545454545,
+            "no_speech_prob": 0.005355179309844971,
+            "words": [
+                {
+                    "word": " She's",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.8961158394813538
+                },
+                {
+                    "word": " leading",
+                    "start": 0.28,
+                    "end": 0.48,
+                    "probability": 0.9965832829475403
+                },
+                {
+                    "word": " the",
+                    "start": 0.48,
+                    "end": 0.68,
+                    "probability": 0.9930102229118347
+                },
+                {
+                    "word": " team",
+                    "start": 0.68,
+                    "end": 0.84,
+                    "probability": 0.9971753358840942
+                },
+                {
+                    "word": " for",
+                    "start": 0.84,
+                    "end": 1.06,
+                    "probability": 0.9881928563117981
+                },
+                {
+                    "word": " over",
+                    "start": 1.06,
+                    "end": 1.28,
+                    "probability": 0.48836666345596313
+                },
+                {
+                    "word": " five",
+                    "start": 1.28,
+                    "end": 1.7,
+                    "probability": 0.6619728803634644
+                },
+                {
+                    "word": " years",
+                    "start": 1.7,
+                    "end": 2.0,
+                    "probability": 0.9961447715759277
+                },
+                {
+                    "word": " now.",
+                    "start": 2.0,
+                    "end": 2.34,
+                    "probability": 0.9704651832580566
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

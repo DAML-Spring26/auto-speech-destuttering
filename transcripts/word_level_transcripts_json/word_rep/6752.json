@@ -1,0 +1,115 @@
+{
+    "text": " She mentioned that she would be attending the conference in Chicago next week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.42,
+            "text": " She mentioned that she would be attending the conference in Chicago next week.",
+            "tokens": [
+                50364,
+                1240,
+                2835,
+                300,
+                750,
+                576,
+                312,
+                15862,
+                264,
+                7586,
+                294,
+                9525,
+                958,
+                1243,
+                13,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2420783884385053,
+            "compression_ratio": 1.054054054054054,
+            "no_speech_prob": 0.001659609959460795,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.7677982449531555
+                },
+                {
+                    "word": " mentioned",
+                    "start": 0.2,
+                    "end": 0.56,
+                    "probability": 0.9615110754966736
+                },
+                {
+                    "word": " that",
+                    "start": 0.56,
+                    "end": 0.82,
+                    "probability": 0.9559265375137329
+                },
+                {
+                    "word": " she",
+                    "start": 0.82,
+                    "end": 1.02,
+                    "probability": 0.9946601986885071
+                },
+                {
+                    "word": " would",
+                    "start": 1.02,
+                    "end": 1.2,
+                    "probability": 0.9806348085403442
+                },
+                {
+                    "word": " be",
+                    "start": 1.2,
+                    "end": 1.34,
+                    "probability": 0.9911034107208252
+                },
+                {
+                    "word": " attending",
+                    "start": 1.34,
+                    "end": 1.76,
+                    "probability": 0.9975714087486267
+                },
+                {
+                    "word": " the",
+                    "start": 1.76,
+                    "end": 2.02,
+                    "probability": 0.9827445149421692
+                },
+                {
+                    "word": " conference",
+                    "start": 2.02,
+                    "end": 2.38,
+                    "probability": 0.9345170259475708
+                },
+                {
+                    "word": " in",
+                    "start": 2.38,
+                    "end": 2.72,
+                    "probability": 0.9029004573822021
+                },
+                {
+                    "word": " Chicago",
+                    "start": 2.72,
+                    "end": 3.06,
+                    "probability": 0.8648314476013184
+                },
+                {
+                    "word": " next",
+                    "start": 3.06,
+                    "end": 3.54,
+                    "probability": 0.8592215776443481
+                },
+                {
+                    "word": " week.",
+                    "start": 3.54,
+                    "end": 4.42,
+                    "probability": 0.8392322659492493
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

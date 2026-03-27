@@ -1,0 +1,80 @@
+{
+    "text": " She managed to procure funding for the project.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.38,
+            "text": " She managed to procure funding for the project.",
+            "tokens": [
+                50364,
+                1240,
+                6453,
+                281,
+                26846,
+                6137,
+                337,
+                264,
+                1716,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38179389635721844,
+            "compression_ratio": 0.8867924528301887,
+            "no_speech_prob": 0.006216787733137608,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.4717457890510559
+                },
+                {
+                    "word": " managed",
+                    "start": 0.26,
+                    "end": 0.58,
+                    "probability": 0.983376681804657
+                },
+                {
+                    "word": " to",
+                    "start": 0.58,
+                    "end": 0.84,
+                    "probability": 0.9969272017478943
+                },
+                {
+                    "word": " procure",
+                    "start": 0.84,
+                    "end": 1.14,
+                    "probability": 0.9973025321960449
+                },
+                {
+                    "word": " funding",
+                    "start": 1.14,
+                    "end": 1.54,
+                    "probability": 0.9982886910438538
+                },
+                {
+                    "word": " for",
+                    "start": 1.54,
+                    "end": 1.8,
+                    "probability": 0.9892262816429138
+                },
+                {
+                    "word": " the",
+                    "start": 1.8,
+                    "end": 1.94,
+                    "probability": 0.98488450050354
+                },
+                {
+                    "word": " project.",
+                    "start": 1.94,
+                    "end": 2.38,
+                    "probability": 0.992209792137146
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

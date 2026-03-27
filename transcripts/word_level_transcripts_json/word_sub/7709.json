@@ -1,0 +1,59 @@
+{
+    "text": " akin Nic herid a b",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.66,
+            "text": " akin Nic herid a b",
+            "tokens": [
+                50364,
+                47540,
+                14776,
+                720,
+                327,
+                257,
+                272,
+                51791
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -6.046146816677517,
+            "compression_ratio": 0.6923076923076923,
+            "no_speech_prob": 0.004440043121576309,
+            "words": [
+                {
+                    "word": " akin",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 5.822276580147445e-05
+                },
+                {
+                    "word": " Nic",
+                    "start": 0.24,
+                    "end": 0.62,
+                    "probability": 1.7853619283414446e-05
+                },
+                {
+                    "word": " herid",
+                    "start": 0.62,
+                    "end": 0.62,
+                    "probability": 0.006618152896407992
+                },
+                {
+                    "word": " a",
+                    "start": 0.62,
+                    "end": 0.98,
+                    "probability": 0.01372375525534153
+                },
+                {
+                    "word": " b",
+                    "start": 0.98,
+                    "end": 1.66,
+                    "probability": 0.013109234161674976
+                }
+            ]
+        }
+    ],
+    "language": "cy"
+}

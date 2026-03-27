@@ -1,0 +1,88 @@
+{
+    "text": " The conference call is scheduled for 3pm the tomorrow.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.66,
+            "text": " The conference call is scheduled for 3pm the tomorrow.",
+            "tokens": [
+                50364,
+                440,
+                7586,
+                818,
+                307,
+                15678,
+                337,
+                805,
+                14395,
+                264,
+                4153,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3579261984143938,
+            "compression_ratio": 0.9152542372881356,
+            "no_speech_prob": 0.24950440227985382,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.9,
+                    "probability": 0.9010546803474426
+                },
+                {
+                    "word": " conference",
+                    "start": 0.9,
+                    "end": 1.26,
+                    "probability": 0.9720728993415833
+                },
+                {
+                    "word": " call",
+                    "start": 1.26,
+                    "end": 1.62,
+                    "probability": 0.994623064994812
+                },
+                {
+                    "word": " is",
+                    "start": 1.62,
+                    "end": 1.8,
+                    "probability": 0.9903084635734558
+                },
+                {
+                    "word": " scheduled",
+                    "start": 1.8,
+                    "end": 2.2,
+                    "probability": 0.9995067119598389
+                },
+                {
+                    "word": " for",
+                    "start": 2.2,
+                    "end": 2.48,
+                    "probability": 0.9968706965446472
+                },
+                {
+                    "word": " 3pm",
+                    "start": 2.48,
+                    "end": 3.12,
+                    "probability": 0.6289580166339874
+                },
+                {
+                    "word": " the",
+                    "start": 3.12,
+                    "end": 3.32,
+                    "probability": 0.6664925217628479
+                },
+                {
+                    "word": " tomorrow.",
+                    "start": 3.32,
+                    "end": 3.66,
+                    "probability": 0.9137709140777588
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

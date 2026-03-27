@@ -1,0 +1,101 @@
+{
+    "text": " the students required to complete a survey about their learning experiences.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.52,
+            "text": " the students required to complete a survey about their learning experiences.",
+            "tokens": [
+                50364,
+                264,
+                1731,
+                4739,
+                281,
+                3566,
+                257,
+                8984,
+                466,
+                641,
+                2539,
+                5235,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28008028666178386,
+            "compression_ratio": 1.0857142857142856,
+            "no_speech_prob": 0.0051963129080832005,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.47249093651771545
+                },
+                {
+                    "word": " students",
+                    "start": 0.1,
+                    "end": 0.44,
+                    "probability": 0.9863648414611816
+                },
+                {
+                    "word": " required",
+                    "start": 0.44,
+                    "end": 0.88,
+                    "probability": 0.6238451600074768
+                },
+                {
+                    "word": " to",
+                    "start": 0.88,
+                    "end": 1.1,
+                    "probability": 0.9966703057289124
+                },
+                {
+                    "word": " complete",
+                    "start": 1.1,
+                    "end": 1.44,
+                    "probability": 0.9900788068771362
+                },
+                {
+                    "word": " a",
+                    "start": 1.44,
+                    "end": 1.62,
+                    "probability": 0.990449845790863
+                },
+                {
+                    "word": " survey",
+                    "start": 1.62,
+                    "end": 2.0,
+                    "probability": 0.994443953037262
+                },
+                {
+                    "word": " about",
+                    "start": 2.0,
+                    "end": 2.26,
+                    "probability": 0.9931093454360962
+                },
+                {
+                    "word": " their",
+                    "start": 2.26,
+                    "end": 2.44,
+                    "probability": 0.9597060084342957
+                },
+                {
+                    "word": " learning",
+                    "start": 2.44,
+                    "end": 2.7,
+                    "probability": 0.9977644681930542
+                },
+                {
+                    "word": " experiences.",
+                    "start": 2.7,
+                    "end": 3.52,
+                    "probability": 0.9803457856178284
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

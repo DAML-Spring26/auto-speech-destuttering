@@ -1,0 +1,52 @@
+{
+    "text": " they conducted extensive search.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.78,
+            "text": " they conducted extensive search.",
+            "tokens": [
+                50364,
+                436,
+                13809,
+                13246,
+                3164,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4012364447116852,
+            "compression_ratio": 0.8,
+            "no_speech_prob": 0.007321035489439964,
+            "words": [
+                {
+                    "word": " they",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.45702341198921204
+                },
+                {
+                    "word": " conducted",
+                    "start": 0.14,
+                    "end": 0.56,
+                    "probability": 0.992786705493927
+                },
+                {
+                    "word": " extensive",
+                    "start": 0.56,
+                    "end": 1.06,
+                    "probability": 0.9973562955856323
+                },
+                {
+                    "word": " search.",
+                    "start": 1.06,
+                    "end": 1.78,
+                    "probability": 0.9849435091018677
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

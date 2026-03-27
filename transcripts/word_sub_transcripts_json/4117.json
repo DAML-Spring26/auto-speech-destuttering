@@ -1,0 +1,66 @@
+{
+    "text": " The professor explained the thorough clearly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.94,
+            "text": " The professor explained the thorough clearly.",
+            "tokens": [
+                50364,
+                440,
+                8304,
+                8825,
+                264,
+                12934,
+                4448,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3656156063079834,
+            "compression_ratio": 0.8653846153846154,
+            "no_speech_prob": 0.015730369836091995,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6341348886489868
+                },
+                {
+                    "word": " professor",
+                    "start": 0.12,
+                    "end": 0.48,
+                    "probability": 0.8445135354995728
+                },
+                {
+                    "word": " explained",
+                    "start": 0.48,
+                    "end": 1.12,
+                    "probability": 0.875670313835144
+                },
+                {
+                    "word": " the",
+                    "start": 1.12,
+                    "end": 1.28,
+                    "probability": 0.9783635139465332
+                },
+                {
+                    "word": " thorough",
+                    "start": 1.28,
+                    "end": 1.52,
+                    "probability": 0.8075380921363831
+                },
+                {
+                    "word": " clearly.",
+                    "start": 1.52,
+                    "end": 1.94,
+                    "probability": 0.9122734665870667
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,106 @@
+{
+    "text": " The concert would be held at this... ...city park.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " The concert would be held at this...",
+            "tokens": [
+                50364,
+                440,
+                8543,
+                576,
+                312,
+                5167,
+                412,
+                341,
+                485,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7642077838673311,
+            "compression_ratio": 0.9090909090909091,
+            "no_speech_prob": 0.016291603446006775,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7675008773803711
+                },
+                {
+                    "word": " concert",
+                    "start": 0.12,
+                    "end": 0.5,
+                    "probability": 0.9216343760490417
+                },
+                {
+                    "word": " would",
+                    "start": 0.5,
+                    "end": 0.76,
+                    "probability": 0.7179365158081055
+                },
+                {
+                    "word": " be",
+                    "start": 0.76,
+                    "end": 0.9,
+                    "probability": 0.9982298016548157
+                },
+                {
+                    "word": " held",
+                    "start": 0.9,
+                    "end": 1.16,
+                    "probability": 0.9960020184516907
+                },
+                {
+                    "word": " at",
+                    "start": 1.16,
+                    "end": 1.36,
+                    "probability": 0.9932425618171692
+                },
+                {
+                    "word": " this...",
+                    "start": 1.36,
+                    "end": 2.0,
+                    "probability": 0.4734376221895218
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.54,
+            "end": 4.3,
+            "text": " ...city park.",
+            "tokens": [
+                50544,
+                1097,
+                26536,
+                3884,
+                13,
+                50594
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7642077838673311,
+            "compression_ratio": 0.9090909090909091,
+            "no_speech_prob": 0.016291603446006775,
+            "words": [
+                {
+                    "word": " ...city",
+                    "start": 3.54,
+                    "end": 3.94,
+                    "probability": 0.18563462048768997
+                },
+                {
+                    "word": " park.",
+                    "start": 3.94,
+                    "end": 4.3,
+                    "probability": 0.9618816375732422
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

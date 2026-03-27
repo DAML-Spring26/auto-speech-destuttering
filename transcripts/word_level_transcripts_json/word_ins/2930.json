@@ -1,0 +1,87 @@
+{
+    "text": " The new policy will be implemented in next month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.32,
+            "text": " The new policy will be implemented in next month.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                3897,
+                486,
+                312,
+                12270,
+                294,
+                958,
+                1618,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2792203609759991,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.012862678617238998,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.5,
+                    "probability": 0.8859177231788635
+                },
+                {
+                    "word": " new",
+                    "start": 0.5,
+                    "end": 0.62,
+                    "probability": 0.9719324707984924
+                },
+                {
+                    "word": " policy",
+                    "start": 0.62,
+                    "end": 0.98,
+                    "probability": 0.9961135387420654
+                },
+                {
+                    "word": " will",
+                    "start": 0.98,
+                    "end": 1.18,
+                    "probability": 0.9946027398109436
+                },
+                {
+                    "word": " be",
+                    "start": 1.18,
+                    "end": 1.3,
+                    "probability": 0.9989988207817078
+                },
+                {
+                    "word": " implemented",
+                    "start": 1.3,
+                    "end": 1.7,
+                    "probability": 0.9991518259048462
+                },
+                {
+                    "word": " in",
+                    "start": 1.7,
+                    "end": 1.9,
+                    "probability": 0.957457423210144
+                },
+                {
+                    "word": " next",
+                    "start": 1.9,
+                    "end": 2.12,
+                    "probability": 0.9424082636833191
+                },
+                {
+                    "word": " month.",
+                    "start": 2.12,
+                    "end": 2.32,
+                    "probability": 0.9921850562095642
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

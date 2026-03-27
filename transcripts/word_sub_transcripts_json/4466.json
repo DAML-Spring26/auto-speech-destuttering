@@ -1,0 +1,59 @@
+{
+    "text": " They reviewed the safety controls.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.4,
+            "text": " They reviewed the safety controls.",
+            "tokens": [
+                50364,
+                814,
+                18429,
+                264,
+                4514,
+                9003,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40484629737006295,
+            "compression_ratio": 0.8095238095238095,
+            "no_speech_prob": 0.003953943029046059,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6129950881004333
+                },
+                {
+                    "word": " reviewed",
+                    "start": 0.14,
+                    "end": 0.4,
+                    "probability": 0.511272132396698
+                },
+                {
+                    "word": " the",
+                    "start": 0.4,
+                    "end": 0.58,
+                    "probability": 0.9875609278678894
+                },
+                {
+                    "word": " safety",
+                    "start": 0.58,
+                    "end": 0.92,
+                    "probability": 0.9894517064094543
+                },
+                {
+                    "word": " controls.",
+                    "start": 0.92,
+                    "end": 1.4,
+                    "probability": 0.9911373853683472
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,12 +1,12 @@
 {
-    "text": " the new policy aims to promote diversity and inclusion in the workplace.",
+    "text": " the new policy aims to permit inclusion of workplace.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 8.0,
-            "text": " the new policy aims to promote diversity and inclusion in the workplace.",
+            "end": 6.0,
+            "text": " the new policy aims to permit inclusion of workplace.",
             "tokens": [
                 50364,
                 264,
@@ -14,20 +14,17 @@
                 3897,
                 24683,
                 281,
-                9773,
-                8811,
-                293,
+                13423,
                 15874,
-                294,
-                264,
+                295,
                 15328,
                 13,
-                50764
+                50664
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.361086905002594,
-            "compression_ratio": 1.0140845070422535,
-            "no_speech_prob": 0.01905977539718151
+            "avg_logprob": -0.5529447702261118,
+            "compression_ratio": 0.9137931034482759,
+            "no_speech_prob": 0.02202492579817772
         }
     ],
     "language": "en"

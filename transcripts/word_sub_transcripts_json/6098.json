@@ -1,0 +1,96 @@
+{
+    "text": " The geologist studied the sedimentary rock formations in the canon.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.44,
+            "text": " The geologist studied the sedimentary rock formations in the canon.",
+            "tokens": [
+                50364,
+                440,
+                1519,
+                9201,
+                9454,
+                264,
+                32362,
+                822,
+                3727,
+                39652,
+                294,
+                264,
+                21985,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33170798420906067,
+            "compression_ratio": 0.9710144927536232,
+            "no_speech_prob": 0.00558380875736475,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7832779288291931
+                },
+                {
+                    "word": " geologist",
+                    "start": 0.12,
+                    "end": 0.56,
+                    "probability": 0.6612129360437393
+                },
+                {
+                    "word": " studied",
+                    "start": 0.56,
+                    "end": 1.06,
+                    "probability": 0.9512749314308167
+                },
+                {
+                    "word": " the",
+                    "start": 1.06,
+                    "end": 1.24,
+                    "probability": 0.97487473487854
+                },
+                {
+                    "word": " sedimentary",
+                    "start": 1.24,
+                    "end": 1.88,
+                    "probability": 0.9767827689647675
+                },
+                {
+                    "word": " rock",
+                    "start": 1.88,
+                    "end": 2.14,
+                    "probability": 0.9977050423622131
+                },
+                {
+                    "word": " formations",
+                    "start": 2.14,
+                    "end": 2.66,
+                    "probability": 0.9979263544082642
+                },
+                {
+                    "word": " in",
+                    "start": 2.66,
+                    "end": 2.98,
+                    "probability": 0.9890508651733398
+                },
+                {
+                    "word": " the",
+                    "start": 2.98,
+                    "end": 3.1,
+                    "probability": 0.9937639832496643
+                },
+                {
+                    "word": " canon.",
+                    "start": 3.1,
+                    "end": 3.44,
+                    "probability": 0.5063505172729492
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

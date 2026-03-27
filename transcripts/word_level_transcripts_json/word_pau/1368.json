@@ -1,0 +1,112 @@
+{
+    "text": " We need to address the growing concern about. Data privacy.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.18,
+            "text": " We need to address the growing concern about.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                2985,
+                264,
+                4194,
+                3136,
+                466,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5230193979599896,
+            "compression_ratio": 0.921875,
+            "no_speech_prob": 0.002909607021138072,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7546169757843018
+                },
+                {
+                    "word": " need",
+                    "start": 0.14,
+                    "end": 0.26,
+                    "probability": 0.9978539347648621
+                },
+                {
+                    "word": " to",
+                    "start": 0.26,
+                    "end": 0.38,
+                    "probability": 0.9954930543899536
+                },
+                {
+                    "word": " address",
+                    "start": 0.38,
+                    "end": 0.62,
+                    "probability": 0.9872397780418396
+                },
+                {
+                    "word": " the",
+                    "start": 0.62,
+                    "end": 0.8,
+                    "probability": 0.9940316081047058
+                },
+                {
+                    "word": " growing",
+                    "start": 0.8,
+                    "end": 1.1,
+                    "probability": 0.7781464457511902
+                },
+                {
+                    "word": " concern",
+                    "start": 1.1,
+                    "end": 1.54,
+                    "probability": 0.984397828578949
+                },
+                {
+                    "word": " about.",
+                    "start": 1.54,
+                    "end": 2.18,
+                    "probability": 0.9899163842201233
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.6,
+            "end": 6.92,
+            "text": " Data privacy.",
+            "tokens": [
+                50664,
+                11888,
+                11427,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5230193979599896,
+            "compression_ratio": 0.921875,
+            "no_speech_prob": 0.002909607021138072,
+            "words": [
+                {
+                    "word": " Data",
+                    "start": 5.6,
+                    "end": 6.34,
+                    "probability": 0.9296550154685974
+                },
+                {
+                    "word": " privacy.",
+                    "start": 6.34,
+                    "end": 6.92,
+                    "probability": 0.6809297204017639
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,102 @@
+{
+    "text": " The chef's signature dish combines local ingredients with international culinary influences.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.28,
+            "text": " The chef's signature dish combines local ingredients with international culinary influences.",
+            "tokens": [
+                50364,
+                440,
+                10530,
+                311,
+                13397,
+                5025,
+                29520,
+                2654,
+                6952,
+                365,
+                5058,
+                39273,
+                21222,
+                13,
+                50700
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38432741165161133,
+            "compression_ratio": 1.0952380952380953,
+            "no_speech_prob": 0.011244482360780239,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.4834950864315033
+                },
+                {
+                    "word": " chef's",
+                    "start": 0.14,
+                    "end": 0.64,
+                    "probability": 0.5685762912034988
+                },
+                {
+                    "word": " signature",
+                    "start": 0.64,
+                    "end": 1.04,
+                    "probability": 0.9778763055801392
+                },
+                {
+                    "word": " dish",
+                    "start": 1.04,
+                    "end": 1.4,
+                    "probability": 0.9982638955116272
+                },
+                {
+                    "word": " combines",
+                    "start": 1.4,
+                    "end": 1.88,
+                    "probability": 0.9953051805496216
+                },
+                {
+                    "word": " local",
+                    "start": 1.88,
+                    "end": 2.44,
+                    "probability": 0.9474062919616699
+                },
+                {
+                    "word": " ingredients",
+                    "start": 2.44,
+                    "end": 3.04,
+                    "probability": 0.9971051812171936
+                },
+                {
+                    "word": " with",
+                    "start": 3.04,
+                    "end": 3.62,
+                    "probability": 0.9737706780433655
+                },
+                {
+                    "word": " international",
+                    "start": 3.62,
+                    "end": 4.42,
+                    "probability": 0.5146461725234985
+                },
+                {
+                    "word": " culinary",
+                    "start": 4.42,
+                    "end": 5.38,
+                    "probability": 0.9609677195549011
+                },
+                {
+                    "word": " influences.",
+                    "start": 5.38,
+                    "end": 6.28,
+                    "probability": 0.9826813340187073
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

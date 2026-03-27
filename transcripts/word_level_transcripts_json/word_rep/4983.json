@@ -1,0 +1,123 @@
+{
+    "text": " Not only did she win the competition, but she also set a new record.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.8,
+            "text": " Not only did she win the competition, but she also set a new record.",
+            "tokens": [
+                50364,
+                1726,
+                787,
+                630,
+                750,
+                1942,
+                264,
+                6211,
+                11,
+                457,
+                750,
+                611,
+                992,
+                257,
+                777,
+                2136,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20637908734773336,
+            "compression_ratio": 0.9855072463768116,
+            "no_speech_prob": 0.0036765998229384422,
+            "words": [
+                {
+                    "word": " Not",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.7471590042114258
+                },
+                {
+                    "word": " only",
+                    "start": 0.2,
+                    "end": 0.56,
+                    "probability": 0.9731953144073486
+                },
+                {
+                    "word": " did",
+                    "start": 0.56,
+                    "end": 0.8,
+                    "probability": 0.9971718192100525
+                },
+                {
+                    "word": " she",
+                    "start": 0.8,
+                    "end": 1.06,
+                    "probability": 0.9888633489608765
+                },
+                {
+                    "word": " win",
+                    "start": 1.06,
+                    "end": 1.26,
+                    "probability": 0.998405396938324
+                },
+                {
+                    "word": " the",
+                    "start": 1.26,
+                    "end": 1.42,
+                    "probability": 0.9837614893913269
+                },
+                {
+                    "word": " competition,",
+                    "start": 1.42,
+                    "end": 2.12,
+                    "probability": 0.9758822917938232
+                },
+                {
+                    "word": " but",
+                    "start": 2.64,
+                    "end": 2.8,
+                    "probability": 0.9941914677619934
+                },
+                {
+                    "word": " she",
+                    "start": 2.8,
+                    "end": 3.34,
+                    "probability": 0.7649008631706238
+                },
+                {
+                    "word": " also",
+                    "start": 3.34,
+                    "end": 3.68,
+                    "probability": 0.9879357814788818
+                },
+                {
+                    "word": " set",
+                    "start": 3.68,
+                    "end": 3.94,
+                    "probability": 0.8183719515800476
+                },
+                {
+                    "word": " a",
+                    "start": 3.94,
+                    "end": 4.1,
+                    "probability": 0.9943154454231262
+                },
+                {
+                    "word": " new",
+                    "start": 4.1,
+                    "end": 4.28,
+                    "probability": 0.9970257878303528
+                },
+                {
+                    "word": " record.",
+                    "start": 4.28,
+                    "end": 4.8,
+                    "probability": 0.9975026249885559
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

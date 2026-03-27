@@ -1,0 +1,118 @@
+{
+    "text": " If you had arrived earlier, you would have, have seen the CEO's presentation.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.92,
+            "text": " If you had arrived earlier, you would have, have seen the CEO's presentation.",
+            "tokens": [
+                50364,
+                759,
+                291,
+                632,
+                6678,
+                3071,
+                11,
+                291,
+                576,
+                362,
+                11,
+                362,
+                1612,
+                264,
+                9282,
+                311,
+                5860,
+                13,
+                50624
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37671761512756347,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.008343088440597057,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.8000558018684387
+                },
+                {
+                    "word": " you",
+                    "start": 0.2,
+                    "end": 0.34,
+                    "probability": 0.9964185953140259
+                },
+                {
+                    "word": " had",
+                    "start": 0.34,
+                    "end": 0.54,
+                    "probability": 0.9902181029319763
+                },
+                {
+                    "word": " arrived",
+                    "start": 0.54,
+                    "end": 0.88,
+                    "probability": 0.9841534495353699
+                },
+                {
+                    "word": " earlier,",
+                    "start": 0.88,
+                    "end": 1.36,
+                    "probability": 0.9524998664855957
+                },
+                {
+                    "word": " you",
+                    "start": 1.92,
+                    "end": 2.02,
+                    "probability": 0.9826815724372864
+                },
+                {
+                    "word": " would",
+                    "start": 2.02,
+                    "end": 2.24,
+                    "probability": 0.9914611577987671
+                },
+                {
+                    "word": " have,",
+                    "start": 2.24,
+                    "end": 2.56,
+                    "probability": 0.9939100742340088
+                },
+                {
+                    "word": " have",
+                    "start": 3.18,
+                    "end": 3.4,
+                    "probability": 0.6363539099693298
+                },
+                {
+                    "word": " seen",
+                    "start": 3.4,
+                    "end": 3.58,
+                    "probability": 0.9979010820388794
+                },
+                {
+                    "word": " the",
+                    "start": 3.58,
+                    "end": 3.72,
+                    "probability": 0.9651375412940979
+                },
+                {
+                    "word": " CEO's",
+                    "start": 3.72,
+                    "end": 4.16,
+                    "probability": 0.6324228942394257
+                },
+                {
+                    "word": " presentation.",
+                    "start": 4.16,
+                    "end": 4.92,
+                    "probability": 0.9951280355453491
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

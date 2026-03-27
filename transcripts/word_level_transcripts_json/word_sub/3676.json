@@ -1,0 +1,59 @@
+{
+    "text": " regular maintenance present system failures.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.12,
+            "text": " regular maintenance present system failures.",
+            "tokens": [
+                50364,
+                3890,
+                11258,
+                1974,
+                1185,
+                20774,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6505819956461588,
+            "compression_ratio": 0.8627450980392157,
+            "no_speech_prob": 0.005005895160138607,
+            "words": [
+                {
+                    "word": " regular",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.48874589800834656
+                },
+                {
+                    "word": " maintenance",
+                    "start": 0.3,
+                    "end": 0.8,
+                    "probability": 0.9944477081298828
+                },
+                {
+                    "word": " present",
+                    "start": 0.8,
+                    "end": 1.14,
+                    "probability": 0.2851143777370453
+                },
+                {
+                    "word": " system",
+                    "start": 1.14,
+                    "end": 1.64,
+                    "probability": 0.9908157587051392
+                },
+                {
+                    "word": " failures.",
+                    "start": 1.64,
+                    "end": 2.12,
+                    "probability": 0.8677366375923157
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

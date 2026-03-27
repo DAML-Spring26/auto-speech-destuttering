@@ -1,0 +1,119 @@
+{
+    "text": " If you're planning to visit Paris, you should definitely see the Eiffel Tower.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.34,
+            "text": " If you're planning to visit Paris, you should definitely see the Eiffel Tower.",
+            "tokens": [
+                50364,
+                759,
+                291,
+                434,
+                5038,
+                281,
+                3441,
+                8380,
+                11,
+                291,
+                820,
+                2138,
+                536,
+                264,
+                462,
+                3661,
+                338,
+                17877,
+                13,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24436857586815244,
+            "compression_ratio": 0.975,
+            "no_speech_prob": 0.01338032353669405,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.8897207975387573
+                },
+                {
+                    "word": " you're",
+                    "start": 0.22,
+                    "end": 0.36,
+                    "probability": 0.9317214787006378
+                },
+                {
+                    "word": " planning",
+                    "start": 0.36,
+                    "end": 0.7,
+                    "probability": 0.9749816060066223
+                },
+                {
+                    "word": " to",
+                    "start": 0.7,
+                    "end": 0.9,
+                    "probability": 0.9980714917182922
+                },
+                {
+                    "word": " visit",
+                    "start": 0.9,
+                    "end": 1.18,
+                    "probability": 0.9991614818572998
+                },
+                {
+                    "word": " Paris,",
+                    "start": 1.18,
+                    "end": 1.58,
+                    "probability": 0.9424295425415039
+                },
+                {
+                    "word": " you",
+                    "start": 2.08,
+                    "end": 2.24,
+                    "probability": 0.9885683059692383
+                },
+                {
+                    "word": " should",
+                    "start": 2.24,
+                    "end": 2.78,
+                    "probability": 0.5710849761962891
+                },
+                {
+                    "word": " definitely",
+                    "start": 2.78,
+                    "end": 3.16,
+                    "probability": 0.9943548440933228
+                },
+                {
+                    "word": " see",
+                    "start": 3.16,
+                    "end": 3.56,
+                    "probability": 0.9926436543464661
+                },
+                {
+                    "word": " the",
+                    "start": 3.56,
+                    "end": 3.76,
+                    "probability": 0.9354044795036316
+                },
+                {
+                    "word": " Eiffel",
+                    "start": 3.76,
+                    "end": 4.02,
+                    "probability": 0.9231087962786356
+                },
+                {
+                    "word": " Tower.",
+                    "start": 4.02,
+                    "end": 4.34,
+                    "probability": 0.9548445343971252
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

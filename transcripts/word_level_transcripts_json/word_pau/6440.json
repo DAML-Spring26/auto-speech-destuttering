@@ -1,0 +1,135 @@
+{
+    "text": " I'm feeling under the weather today, so... I might take a sick day.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " I'm feeling under the weather today, so...",
+            "tokens": [
+                50364,
+                286,
+                478,
+                2633,
+                833,
+                264,
+                5503,
+                965,
+                11,
+                370,
+                485,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4475893107327548,
+            "compression_ratio": 0.9436619718309859,
+            "no_speech_prob": 0.00816471129655838,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.9369489252567291
+                },
+                {
+                    "word": " feeling",
+                    "start": 0.24,
+                    "end": 0.4,
+                    "probability": 0.69389808177948
+                },
+                {
+                    "word": " under",
+                    "start": 0.4,
+                    "end": 0.64,
+                    "probability": 0.9927167296409607
+                },
+                {
+                    "word": " the",
+                    "start": 0.64,
+                    "end": 0.8,
+                    "probability": 0.9972105622291565
+                },
+                {
+                    "word": " weather",
+                    "start": 0.8,
+                    "end": 0.94,
+                    "probability": 0.9821687340736389
+                },
+                {
+                    "word": " today,",
+                    "start": 0.94,
+                    "end": 1.28,
+                    "probability": 0.9853333830833435
+                },
+                {
+                    "word": " so...",
+                    "start": 1.54,
+                    "end": 2.0,
+                    "probability": 0.7393364012241364
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.1800000000000015,
+            "end": 5.52,
+            "text": " I might take a sick day.",
+            "tokens": [
+                50584,
+                286,
+                1062,
+                747,
+                257,
+                4998,
+                786,
+                13,
+                50652
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4475893107327548,
+            "compression_ratio": 0.9436619718309859,
+            "no_speech_prob": 0.00816471129655838,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 4.1800000000000015,
+                    "end": 4.66,
+                    "probability": 0.9107798933982849
+                },
+                {
+                    "word": " might",
+                    "start": 4.66,
+                    "end": 4.76,
+                    "probability": 0.9674597978591919
+                },
+                {
+                    "word": " take",
+                    "start": 4.76,
+                    "end": 4.96,
+                    "probability": 0.9973984956741333
+                },
+                {
+                    "word": " a",
+                    "start": 4.96,
+                    "end": 5.1,
+                    "probability": 0.9969413876533508
+                },
+                {
+                    "word": " sick",
+                    "start": 5.1,
+                    "end": 5.28,
+                    "probability": 0.9550362825393677
+                },
+                {
+                    "word": " day.",
+                    "start": 5.28,
+                    "end": 5.52,
+                    "probability": 0.9951221346855164
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

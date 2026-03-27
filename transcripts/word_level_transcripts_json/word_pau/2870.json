@@ -1,0 +1,59 @@
+{
+    "text": " The concert was absolutely amazing.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.7,
+            "text": " The concert was absolutely amazing.",
+            "tokens": [
+                50364,
+                440,
+                8543,
+                390,
+                3122,
+                2243,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4690697987874349,
+            "compression_ratio": 0.813953488372093,
+            "no_speech_prob": 0.00911263283342123,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5477057695388794
+                },
+                {
+                    "word": " concert",
+                    "start": 0.1,
+                    "end": 0.46,
+                    "probability": 0.8995683789253235
+                },
+                {
+                    "word": " was",
+                    "start": 0.46,
+                    "end": 0.7,
+                    "probability": 0.9973746538162231
+                },
+                {
+                    "word": " absolutely",
+                    "start": 0.7,
+                    "end": 1.46,
+                    "probability": 0.9863829612731934
+                },
+                {
+                    "word": " amazing.",
+                    "start": 1.46,
+                    "end": 3.7,
+                    "probability": 0.8643751740455627
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

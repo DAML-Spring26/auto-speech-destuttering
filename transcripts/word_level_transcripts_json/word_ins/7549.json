@@ -1,0 +1,102 @@
+{
+    "text": " I'll need to well speak with my manager about that request.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.7,
+            "text": " I'll need to well speak with my manager about that request.",
+            "tokens": [
+                50364,
+                286,
+                603,
+                643,
+                281,
+                731,
+                1710,
+                365,
+                452,
+                6598,
+                466,
+                300,
+                5308,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2974311411380768,
+            "compression_ratio": 0.921875,
+            "no_speech_prob": 0.04076191410422325,
+            "words": [
+                {
+                    "word": " I'll",
+                    "start": 0.0,
+                    "end": 0.68,
+                    "probability": 0.9665300250053406
+                },
+                {
+                    "word": " need",
+                    "start": 0.68,
+                    "end": 0.82,
+                    "probability": 0.988451361656189
+                },
+                {
+                    "word": " to",
+                    "start": 0.82,
+                    "end": 1.04,
+                    "probability": 0.996631920337677
+                },
+                {
+                    "word": " well",
+                    "start": 1.04,
+                    "end": 1.36,
+                    "probability": 0.8108330368995667
+                },
+                {
+                    "word": " speak",
+                    "start": 1.36,
+                    "end": 1.96,
+                    "probability": 0.5549731850624084
+                },
+                {
+                    "word": " with",
+                    "start": 1.96,
+                    "end": 2.22,
+                    "probability": 0.9940584897994995
+                },
+                {
+                    "word": " my",
+                    "start": 2.22,
+                    "end": 2.4,
+                    "probability": 0.9963051080703735
+                },
+                {
+                    "word": " manager",
+                    "start": 2.4,
+                    "end": 2.8,
+                    "probability": 0.9670835137367249
+                },
+                {
+                    "word": " about",
+                    "start": 2.8,
+                    "end": 3.08,
+                    "probability": 0.9968493580818176
+                },
+                {
+                    "word": " that",
+                    "start": 3.08,
+                    "end": 3.3,
+                    "probability": 0.993768572807312
+                },
+                {
+                    "word": " request.",
+                    "start": 3.3,
+                    "end": 3.7,
+                    "probability": 0.9936742782592773
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

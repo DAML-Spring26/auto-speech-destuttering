@@ -1,0 +1,66 @@
+{
+    "text": " The conference preparation received positive feedback.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.38,
+            "text": " The conference preparation received positive feedback.",
+            "tokens": [
+                50364,
+                440,
+                7586,
+                13081,
+                4613,
+                3353,
+                5824,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4206298828125,
+            "compression_ratio": 0.9152542372881356,
+            "no_speech_prob": 0.005570628214627504,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.663885772228241
+                },
+                {
+                    "word": " conference",
+                    "start": 0.12,
+                    "end": 0.5,
+                    "probability": 0.986604630947113
+                },
+                {
+                    "word": " preparation",
+                    "start": 0.5,
+                    "end": 1.18,
+                    "probability": 0.9354235529899597
+                },
+                {
+                    "word": " received",
+                    "start": 1.18,
+                    "end": 1.5,
+                    "probability": 0.8091768026351929
+                },
+                {
+                    "word": " positive",
+                    "start": 1.5,
+                    "end": 1.96,
+                    "probability": 0.9961561560630798
+                },
+                {
+                    "word": " feedback.",
+                    "start": 1.96,
+                    "end": 2.38,
+                    "probability": 0.9987427592277527
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,46 +1,42 @@
 {
-    "text": " Would you like whipped cream on? Or hot chocolate?",
+    "text": " would you like cream? Right.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 2.0,
-            "text": " Would you like whipped cream on?",
+            "end": 1.0,
+            "text": " would you like cream?",
             "tokens": [
                 50364,
-                6068,
+                576,
                 291,
                 411,
-                27918,
                 4689,
-                322,
                 30,
-                50464
+                50414
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.5641693472862244,
-            "compression_ratio": 0.8620689655172413,
-            "no_speech_prob": 0.008329213596880436
+            "avg_logprob": -0.8999712467193604,
+            "compression_ratio": 0.7777777777777778,
+            "no_speech_prob": 0.03908521682024002
         },
         {
             "id": 1,
             "seek": 0,
-            "start": 5.12,
-            "end": 7.12,
-            "text": " Or hot chocolate?",
+            "start": 4.4,
+            "end": 4.9,
+            "text": " Right.",
             "tokens": [
-                50620,
-                1610,
-                2368,
-                6215,
-                30,
-                50720
+                50584,
+                1779,
+                13,
+                50609
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.5641693472862244,
-            "compression_ratio": 0.8620689655172413,
-            "no_speech_prob": 0.008329213596880436
+            "avg_logprob": -0.8999712467193604,
+            "compression_ratio": 0.7777777777777778,
+            "no_speech_prob": 0.03908521682024002
         }
     ],
     "language": "en"

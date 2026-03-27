@@ -1,0 +1,59 @@
+{
+    "text": " The system requires regular upwards.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.12,
+            "text": " The system requires regular upwards.",
+            "tokens": [
+                50364,
+                440,
+                1185,
+                7029,
+                3890,
+                22167,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6321429676479764,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.005890530534088612,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.6346647143363953
+                },
+                {
+                    "word": " system",
+                    "start": 0.18,
+                    "end": 0.58,
+                    "probability": 0.9976856708526611
+                },
+                {
+                    "word": " requires",
+                    "start": 0.58,
+                    "end": 1.08,
+                    "probability": 0.9947027564048767
+                },
+                {
+                    "word": " regular",
+                    "start": 1.08,
+                    "end": 1.66,
+                    "probability": 0.9905869364738464
+                },
+                {
+                    "word": " upwards.",
+                    "start": 1.66,
+                    "end": 2.12,
+                    "probability": 0.30851319432258606
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

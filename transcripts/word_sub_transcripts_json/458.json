@@ -1,0 +1,66 @@
+{
+    "text": " The research team connected valuable data.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.34,
+            "text": " The research team connected valuable data.",
+            "tokens": [
+                50364,
+                440,
+                2132,
+                1469,
+                4582,
+                8263,
+                1412,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.43150815963745115,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.0018278408097103238,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6295113563537598
+                },
+                {
+                    "word": " research",
+                    "start": 0.12,
+                    "end": 0.46,
+                    "probability": 0.7094545960426331
+                },
+                {
+                    "word": " team",
+                    "start": 0.46,
+                    "end": 0.86,
+                    "probability": 0.9980979561805725
+                },
+                {
+                    "word": " connected",
+                    "start": 0.86,
+                    "end": 1.38,
+                    "probability": 0.9904116988182068
+                },
+                {
+                    "word": " valuable",
+                    "start": 1.38,
+                    "end": 1.82,
+                    "probability": 0.9090734720230103
+                },
+                {
+                    "word": " data.",
+                    "start": 1.82,
+                    "end": 2.34,
+                    "probability": 0.9997304081916809
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

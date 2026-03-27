@@ -1,0 +1,91 @@
+{
+    "text": " ac, beth w Psalm et\ud55c\ud14cno..., fel\u5979wdd.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.7,
+            "text": " ac, beth w Psalm et\ud55c\ud14cno...,",
+            "tokens": [
+                50364,
+                696,
+                11,
+                778,
+                71,
+                261,
+                34134,
+                1030,
+                15863,
+                1771,
+                25427,
+                50460
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.251197433471679,
+            "compression_ratio": 0.8235294117647058,
+            "no_speech_prob": 0.004266621544957161,
+            "words": [
+                {
+                    "word": " ac,",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.027573108673095703
+                },
+                {
+                    "word": " beth",
+                    "start": 0.3,
+                    "end": 0.76,
+                    "probability": 0.4325259388424456
+                },
+                {
+                    "word": " w",
+                    "start": 0.76,
+                    "end": 0.86,
+                    "probability": 0.010975319892168045
+                },
+                {
+                    "word": " Psalm",
+                    "start": 0.86,
+                    "end": 0.86,
+                    "probability": 2.6597510441206396e-05
+                },
+                {
+                    "word": " et\ud55c\ud14cno...,",
+                    "start": 0.86,
+                    "end": 1.7,
+                    "probability": 0.0007481251191165939
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.04,
+            "end": 3.7,
+            "text": " fel\u5979wdd.",
+            "tokens": [
+                50460,
+                11094,
+                15555,
+                86,
+                24810,
+                13,
+                50560
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.251197433471679,
+            "compression_ratio": 0.8235294117647058,
+            "no_speech_prob": 0.004266621544957161,
+            "words": [
+                {
+                    "word": " fel\u5979wdd.",
+                    "start": 3.04,
+                    "end": 3.7,
+                    "probability": 0.010180486257240773
+                }
+            ]
+        }
+    ],
+    "language": "cy"
+}

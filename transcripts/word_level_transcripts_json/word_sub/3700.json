@@ -1,0 +1,73 @@
+{
+    "text": " The patient showed significant improvement after theory.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.66,
+            "text": " The patient showed significant improvement after theory.",
+            "tokens": [
+                50364,
+                440,
+                4537,
+                4712,
+                4776,
+                10444,
+                934,
+                5261,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3535081906752153,
+            "compression_ratio": 0.9333333333333333,
+            "no_speech_prob": 0.010214409790933132,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6843985915184021
+                },
+                {
+                    "word": " patient",
+                    "start": 0.12,
+                    "end": 0.42,
+                    "probability": 0.944028377532959
+                },
+                {
+                    "word": " showed",
+                    "start": 0.42,
+                    "end": 0.72,
+                    "probability": 0.5072485208511353
+                },
+                {
+                    "word": " significant",
+                    "start": 0.72,
+                    "end": 1.28,
+                    "probability": 0.9985498785972595
+                },
+                {
+                    "word": " improvement",
+                    "start": 1.28,
+                    "end": 1.86,
+                    "probability": 0.9987624883651733
+                },
+                {
+                    "word": " after",
+                    "start": 1.86,
+                    "end": 2.28,
+                    "probability": 0.9902637004852295
+                },
+                {
+                    "word": " theory.",
+                    "start": 2.28,
+                    "end": 2.66,
+                    "probability": 0.9670121669769287
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

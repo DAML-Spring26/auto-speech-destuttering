@@ -1,0 +1,84 @@
+{
+    "text": " The patient's symptoms indicate a rare autoimmune discorger.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.08,
+            "text": " The patient's symptoms indicate a rare autoimmune discorger.",
+            "tokens": [
+                50364,
+                440,
+                4537,
+                311,
+                8332,
+                13330,
+                257,
+                5892,
+                8399,
+                49031,
+                2983,
+                284,
+                1321,
+                13,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5884792804718018,
+            "compression_ratio": 0.9230769230769231,
+            "no_speech_prob": 0.028038397431373596,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5841734409332275
+                },
+                {
+                    "word": " patient's",
+                    "start": 0.12,
+                    "end": 0.62,
+                    "probability": 0.8388145267963409
+                },
+                {
+                    "word": " symptoms",
+                    "start": 0.62,
+                    "end": 0.9,
+                    "probability": 0.9955937266349792
+                },
+                {
+                    "word": " indicate",
+                    "start": 0.9,
+                    "end": 1.4,
+                    "probability": 0.9959391355514526
+                },
+                {
+                    "word": " a",
+                    "start": 1.4,
+                    "end": 1.56,
+                    "probability": 0.7576966285705566
+                },
+                {
+                    "word": " rare",
+                    "start": 1.56,
+                    "end": 1.78,
+                    "probability": 0.9878883957862854
+                },
+                {
+                    "word": " autoimmune",
+                    "start": 1.78,
+                    "end": 2.38,
+                    "probability": 0.8591453731060028
+                },
+                {
+                    "word": " discorger.",
+                    "start": 2.38,
+                    "end": 3.08,
+                    "probability": 0.2867938031752904
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

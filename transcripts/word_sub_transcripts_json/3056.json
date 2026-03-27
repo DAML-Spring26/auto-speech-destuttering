@@ -1,0 +1,59 @@
+{
+    "text": " Please clarify your account details.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.5,
+            "text": " Please clarify your account details.",
+            "tokens": [
+                50364,
+                2555,
+                17594,
+                428,
+                2696,
+                4365,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3251293765174018,
+            "compression_ratio": 0.8181818181818182,
+            "no_speech_prob": 0.007814068347215652,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7221249938011169
+                },
+                {
+                    "word": " clarify",
+                    "start": 0.14,
+                    "end": 0.6,
+                    "probability": 0.9777523875236511
+                },
+                {
+                    "word": " your",
+                    "start": 0.6,
+                    "end": 0.86,
+                    "probability": 0.9831825494766235
+                },
+                {
+                    "word": " account",
+                    "start": 0.86,
+                    "end": 1.1,
+                    "probability": 0.7269730567932129
+                },
+                {
+                    "word": " details.",
+                    "start": 1.1,
+                    "end": 1.5,
+                    "probability": 0.9983566403388977
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,82 @@
+{
+    "text": " The mitochondria is the powerhouse of the shell.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.18,
+            "text": " The mitochondria is the powerhouse of the shell.",
+            "tokens": [
+                50364,
+                440,
+                41008,
+                4668,
+                307,
+                264,
+                1347,
+                6410,
+                295,
+                264,
+                8720,
+                13,
+                50480
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39212989807128906,
+            "compression_ratio": 0.9411764705882353,
+            "no_speech_prob": 0.007158496882766485,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7825249433517456
+                },
+                {
+                    "word": " mitochondria",
+                    "start": 0.1,
+                    "end": 0.82,
+                    "probability": 0.6172569245100021
+                },
+                {
+                    "word": " is",
+                    "start": 0.82,
+                    "end": 1.1,
+                    "probability": 0.9907426238059998
+                },
+                {
+                    "word": " the",
+                    "start": 1.1,
+                    "end": 1.22,
+                    "probability": 0.9943369030952454
+                },
+                {
+                    "word": " powerhouse",
+                    "start": 1.22,
+                    "end": 1.68,
+                    "probability": 0.9276282787322998
+                },
+                {
+                    "word": " of",
+                    "start": 1.68,
+                    "end": 1.82,
+                    "probability": 0.9965226650238037
+                },
+                {
+                    "word": " the",
+                    "start": 1.82,
+                    "end": 1.92,
+                    "probability": 0.9901891350746155
+                },
+                {
+                    "word": " shell.",
+                    "start": 1.92,
+                    "end": 2.18,
+                    "probability": 0.9882280230522156
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

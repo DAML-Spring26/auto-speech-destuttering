@@ -1,0 +1,88 @@
+{
+    "text": " The professor explained um. The theory in great detail.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.62,
+            "text": " The professor explained um. The theory in great detail.",
+            "tokens": [
+                50364,
+                440,
+                8304,
+                8825,
+                1105,
+                13,
+                440,
+                5261,
+                294,
+                869,
+                2607,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5391444478716169,
+            "compression_ratio": 0.8870967741935484,
+            "no_speech_prob": 0.09967789798974991,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 1.06,
+                    "probability": 0.8280689120292664
+                },
+                {
+                    "word": " professor",
+                    "start": 1.06,
+                    "end": 1.46,
+                    "probability": 0.5575588345527649
+                },
+                {
+                    "word": " explained",
+                    "start": 1.46,
+                    "end": 1.96,
+                    "probability": 0.9816544055938721
+                },
+                {
+                    "word": " um.",
+                    "start": 1.96,
+                    "end": 2.38,
+                    "probability": 0.3554651439189911
+                },
+                {
+                    "word": " The",
+                    "start": 3.06,
+                    "end": 3.46,
+                    "probability": 0.9494756460189819
+                },
+                {
+                    "word": " theory",
+                    "start": 3.46,
+                    "end": 3.86,
+                    "probability": 0.9878508448600769
+                },
+                {
+                    "word": " in",
+                    "start": 3.86,
+                    "end": 4.02,
+                    "probability": 0.992369532585144
+                },
+                {
+                    "word": " great",
+                    "start": 4.02,
+                    "end": 4.2,
+                    "probability": 0.9905755519866943
+                },
+                {
+                    "word": " detail.",
+                    "start": 4.2,
+                    "end": 4.62,
+                    "probability": 0.9975391626358032
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

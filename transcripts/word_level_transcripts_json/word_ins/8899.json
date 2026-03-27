@@ -1,0 +1,94 @@
+{
+    "text": " We value your input well on improving our customer experience.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.64,
+            "text": " We value your input well on improving our customer experience.",
+            "tokens": [
+                50364,
+                492,
+                2158,
+                428,
+                4846,
+                731,
+                322,
+                11470,
+                527,
+                5474,
+                1752,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2389456033706665,
+            "compression_ratio": 0.9538461538461539,
+            "no_speech_prob": 0.059882376343011856,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.88,
+                    "probability": 0.8848040103912354
+                },
+                {
+                    "word": " value",
+                    "start": 0.88,
+                    "end": 1.22,
+                    "probability": 0.9964926838874817
+                },
+                {
+                    "word": " your",
+                    "start": 1.22,
+                    "end": 1.44,
+                    "probability": 0.9970322847366333
+                },
+                {
+                    "word": " input",
+                    "start": 1.44,
+                    "end": 1.74,
+                    "probability": 0.9952093958854675
+                },
+                {
+                    "word": " well",
+                    "start": 1.74,
+                    "end": 2.1,
+                    "probability": 0.9956068396568298
+                },
+                {
+                    "word": " on",
+                    "start": 2.1,
+                    "end": 2.96,
+                    "probability": 0.756376326084137
+                },
+                {
+                    "word": " improving",
+                    "start": 2.96,
+                    "end": 3.42,
+                    "probability": 0.9956952333450317
+                },
+                {
+                    "word": " our",
+                    "start": 3.42,
+                    "end": 3.62,
+                    "probability": 0.996865451335907
+                },
+                {
+                    "word": " customer",
+                    "start": 3.62,
+                    "end": 4.04,
+                    "probability": 0.9905046820640564
+                },
+                {
+                    "word": " experience.",
+                    "start": 4.04,
+                    "end": 4.64,
+                    "probability": 0.9973812699317932
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

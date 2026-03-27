@@ -1,0 +1,47 @@
+{
+    "text": " Implunted security measures.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.74,
+            "text": " Implunted security measures.",
+            "tokens": [
+                50364,
+                4331,
+                564,
+                19015,
+                3825,
+                8000,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.695354249742296,
+            "compression_ratio": 0.7777777777777778,
+            "no_speech_prob": 0.013138551265001297,
+            "words": [
+                {
+                    "word": " Implunted",
+                    "start": 0.0,
+                    "end": 0.64,
+                    "probability": 0.4583222071329753
+                },
+                {
+                    "word": " security",
+                    "start": 0.64,
+                    "end": 1.18,
+                    "probability": 0.7895792126655579
+                },
+                {
+                    "word": " measures.",
+                    "start": 1.18,
+                    "end": 1.74,
+                    "probability": 0.9957879185676575
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

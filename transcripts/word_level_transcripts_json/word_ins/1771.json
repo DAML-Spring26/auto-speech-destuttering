@@ -1,0 +1,87 @@
+{
+    "text": " I need to schedule an appointment with the dentist.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.8999999999999999,
+            "end": 3.76,
+            "text": " I need to schedule an appointment with the dentist.",
+            "tokens": [
+                50364,
+                286,
+                643,
+                281,
+                7567,
+                364,
+                13653,
+                365,
+                264,
+                28666,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31651053061852086,
+            "compression_ratio": 0.8947368421052632,
+            "no_speech_prob": 0.07613453269004822,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.8999999999999999,
+                    "end": 1.56,
+                    "probability": 0.9710458517074585
+                },
+                {
+                    "word": " need",
+                    "start": 1.56,
+                    "end": 1.74,
+                    "probability": 0.9934282898902893
+                },
+                {
+                    "word": " to",
+                    "start": 1.74,
+                    "end": 1.94,
+                    "probability": 0.9986181259155273
+                },
+                {
+                    "word": " schedule",
+                    "start": 1.94,
+                    "end": 2.34,
+                    "probability": 0.9964746832847595
+                },
+                {
+                    "word": " an",
+                    "start": 2.34,
+                    "end": 2.54,
+                    "probability": 0.9942849278450012
+                },
+                {
+                    "word": " appointment",
+                    "start": 2.54,
+                    "end": 2.92,
+                    "probability": 0.9984087347984314
+                },
+                {
+                    "word": " with",
+                    "start": 2.92,
+                    "end": 3.3,
+                    "probability": 0.9979501366615295
+                },
+                {
+                    "word": " the",
+                    "start": 3.3,
+                    "end": 3.42,
+                    "probability": 0.9917958378791809
+                },
+                {
+                    "word": " dentist.",
+                    "start": 3.42,
+                    "end": 3.76,
+                    "probability": 0.9670017957687378
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,47 @@
+{
+    "text": " The psychotherapist helped the patients overcome childhood trauma.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.6400000000000001,
+            "text": " The psychotherapist helped the patients",
+            "tokens": [
+                50364,
+                440,
+                4681,
+                20194,
+                468,
+                4254,
+                264,
+                4209,
+                50446
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.46811655163764954,
+            "compression_ratio": 0.9850746268656716,
+            "no_speech_prob": 0.011837663128972054
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.6400000000000001,
+            "end": 3.0,
+            "text": " overcome childhood trauma.",
+            "tokens": [
+                50446,
+                10473,
+                9278,
+                11407,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.46811655163764954,
+            "compression_ratio": 0.9850746268656716,
+            "no_speech_prob": 0.011837663128972054
+        }
+    ],
+    "language": "en"
+}

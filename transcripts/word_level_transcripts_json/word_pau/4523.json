@@ -1,0 +1,73 @@
+{
+    "text": " Could you please pass me this salt?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.94,
+            "text": " Could you please pass me this salt?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                1320,
+                385,
+                341,
+                5139,
+                30,
+                50534
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5121512846513228,
+            "compression_ratio": 0.813953488372093,
+            "no_speech_prob": 0.04196549206972122,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.8855614066123962
+                },
+                {
+                    "word": " you",
+                    "start": 0.18,
+                    "end": 0.32,
+                    "probability": 0.9970932006835938
+                },
+                {
+                    "word": " please",
+                    "start": 0.32,
+                    "end": 0.6,
+                    "probability": 0.9809369444847107
+                },
+                {
+                    "word": " pass",
+                    "start": 0.6,
+                    "end": 0.96,
+                    "probability": 0.9863165020942688
+                },
+                {
+                    "word": " me",
+                    "start": 0.96,
+                    "end": 1.22,
+                    "probability": 0.9947904348373413
+                },
+                {
+                    "word": " this",
+                    "start": 1.22,
+                    "end": 1.44,
+                    "probability": 0.9361404776573181
+                },
+                {
+                    "word": " salt?",
+                    "start": 1.44,
+                    "end": 2.94,
+                    "probability": 0.3561514616012573
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,66 @@
+{
+    "text": " They analyze the statistical gate carefully.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.04,
+            "text": " They analyze the statistical gate carefully.",
+            "tokens": [
+                50364,
+                814,
+                12477,
+                264,
+                22820,
+                8539,
+                7500,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34880425930023196,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.0018325269920751452,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5722693800926208
+                },
+                {
+                    "word": " analyze",
+                    "start": 0.12,
+                    "end": 0.46,
+                    "probability": 0.783319354057312
+                },
+                {
+                    "word": " the",
+                    "start": 0.46,
+                    "end": 0.7,
+                    "probability": 0.9962506890296936
+                },
+                {
+                    "word": " statistical",
+                    "start": 0.7,
+                    "end": 1.26,
+                    "probability": 0.8993620276451111
+                },
+                {
+                    "word": " gate",
+                    "start": 1.26,
+                    "end": 1.58,
+                    "probability": 0.9216307997703552
+                },
+                {
+                    "word": " carefully.",
+                    "start": 1.58,
+                    "end": 2.04,
+                    "probability": 0.9976436495780945
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

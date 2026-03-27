@@ -1,0 +1,122 @@
+{
+    "text": " I'm sorry, but your reservation has been cancelled due to overbooking.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.0,
+            "text": " I'm sorry, but your reservation has been cancelled due to",
+            "tokens": [
+                50364,
+                286,
+                478,
+                2597,
+                11,
+                457,
+                428,
+                28922,
+                575,
+                668,
+                25103,
+                3462,
+                281,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4092401322864351,
+            "compression_ratio": 0.9859154929577465,
+            "no_speech_prob": 0.013888668268918991,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.8493676781654358
+                },
+                {
+                    "word": " sorry,",
+                    "start": 0.34,
+                    "end": 0.7,
+                    "probability": 0.9976454377174377
+                },
+                {
+                    "word": " but",
+                    "start": 0.96,
+                    "end": 1.02,
+                    "probability": 0.991554319858551
+                },
+                {
+                    "word": " your",
+                    "start": 1.02,
+                    "end": 1.16,
+                    "probability": 0.974459707736969
+                },
+                {
+                    "word": " reservation",
+                    "start": 1.16,
+                    "end": 1.86,
+                    "probability": 0.9804301261901855
+                },
+                {
+                    "word": " has",
+                    "start": 1.86,
+                    "end": 2.18,
+                    "probability": 0.9706493616104126
+                },
+                {
+                    "word": " been",
+                    "start": 2.18,
+                    "end": 2.36,
+                    "probability": 0.9865394234657288
+                },
+                {
+                    "word": " cancelled",
+                    "start": 2.36,
+                    "end": 2.9,
+                    "probability": 0.9167853593826294
+                },
+                {
+                    "word": " due",
+                    "start": 2.9,
+                    "end": 3.4,
+                    "probability": 0.9495224356651306
+                },
+                {
+                    "word": " to",
+                    "start": 3.4,
+                    "end": 4.0,
+                    "probability": 0.9214591979980469
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.48,
+            "end": 8.16,
+            "text": " overbooking.",
+            "tokens": [
+                50732,
+                670,
+                2939,
+                278,
+                13,
+                50932
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4092401322864351,
+            "compression_ratio": 0.9859154929577465,
+            "no_speech_prob": 0.013888668268918991,
+            "words": [
+                {
+                    "word": " overbooking.",
+                    "start": 7.48,
+                    "end": 8.16,
+                    "probability": 0.6338370740413666
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

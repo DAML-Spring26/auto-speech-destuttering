@@ -1,0 +1,74 @@
+{
+    "text": " She specialises in corporate finance and tragedy.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.72,
+            "text": " She specialises in corporate finance and tragedy.",
+            "tokens": [
+                50364,
+                1240,
+                2121,
+                3598,
+                294,
+                10896,
+                10719,
+                293,
+                18563,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3364512125651042,
+            "compression_ratio": 0.8596491228070176,
+            "no_speech_prob": 0.0034062692429870367,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.713413417339325
+                },
+                {
+                    "word": " specialises",
+                    "start": 0.2,
+                    "end": 0.92,
+                    "probability": 0.8312794268131256
+                },
+                {
+                    "word": " in",
+                    "start": 0.92,
+                    "end": 1.12,
+                    "probability": 0.9955610036849976
+                },
+                {
+                    "word": " corporate",
+                    "start": 1.12,
+                    "end": 1.54,
+                    "probability": 0.8664683103561401
+                },
+                {
+                    "word": " finance",
+                    "start": 1.54,
+                    "end": 2.04,
+                    "probability": 0.9353256821632385
+                },
+                {
+                    "word": " and",
+                    "start": 2.04,
+                    "end": 2.28,
+                    "probability": 0.995468258857727
+                },
+                {
+                    "word": " tragedy.",
+                    "start": 2.28,
+                    "end": 2.72,
+                    "probability": 0.9922316074371338
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

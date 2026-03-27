@@ -1,0 +1,59 @@
+{
+    "text": " the pilot announced our decent.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.26,
+            "text": " the pilot announced our decent.",
+            "tokens": [
+                50364,
+                264,
+                9691,
+                7548,
+                527,
+                8681,
+                13,
+                50434
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6711934937371148,
+            "compression_ratio": 0.7948717948717948,
+            "no_speech_prob": 0.012292148545384407,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5159675478935242
+                },
+                {
+                    "word": " pilot",
+                    "start": 0.1,
+                    "end": 0.38,
+                    "probability": 0.9140977263450623
+                },
+                {
+                    "word": " announced",
+                    "start": 0.38,
+                    "end": 0.68,
+                    "probability": 0.5416281819343567
+                },
+                {
+                    "word": " our",
+                    "start": 0.68,
+                    "end": 0.94,
+                    "probability": 0.8119107484817505
+                },
+                {
+                    "word": " decent.",
+                    "start": 0.94,
+                    "end": 1.26,
+                    "probability": 0.420674204826355
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

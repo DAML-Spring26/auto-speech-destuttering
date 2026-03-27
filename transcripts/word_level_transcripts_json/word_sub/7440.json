@@ -1,0 +1,95 @@
+{
+    "text": " We need to finalize the contrast before the dead line.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.36,
+            "text": " We need to finalize the contrast before the dead line.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                2572,
+                1125,
+                264,
+                8712,
+                949,
+                264,
+                3116,
+                1622,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3514252662658691,
+            "compression_ratio": 0.9310344827586207,
+            "no_speech_prob": 0.0032334858551621437,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.731974720954895
+                },
+                {
+                    "word": " need",
+                    "start": 0.16,
+                    "end": 0.28,
+                    "probability": 0.9949546456336975
+                },
+                {
+                    "word": " to",
+                    "start": 0.28,
+                    "end": 0.44,
+                    "probability": 0.9964564442634583
+                },
+                {
+                    "word": " finalize",
+                    "start": 0.44,
+                    "end": 0.92,
+                    "probability": 0.9520121216773987
+                },
+                {
+                    "word": " the",
+                    "start": 0.92,
+                    "end": 1.04,
+                    "probability": 0.9845284819602966
+                },
+                {
+                    "word": " contrast",
+                    "start": 1.04,
+                    "end": 1.4,
+                    "probability": 0.9899354577064514
+                },
+                {
+                    "word": " before",
+                    "start": 1.4,
+                    "end": 1.78,
+                    "probability": 0.9882098436355591
+                },
+                {
+                    "word": " the",
+                    "start": 1.78,
+                    "end": 1.96,
+                    "probability": 0.995358407497406
+                },
+                {
+                    "word": " dead",
+                    "start": 1.96,
+                    "end": 2.14,
+                    "probability": 0.7926000356674194
+                },
+                {
+                    "word": " line.",
+                    "start": 2.14,
+                    "end": 2.36,
+                    "probability": 0.5457322597503662
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

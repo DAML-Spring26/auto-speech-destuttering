@@ -1,0 +1,96 @@
+{
+    "text": " If I like was delay due, it's a bad weather.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.58,
+            "text": " If I like was delay due, it's a bad weather.",
+            "tokens": [
+                50364,
+                759,
+                286,
+                411,
+                390,
+                8577,
+                3462,
+                11,
+                309,
+                311,
+                257,
+                1578,
+                5503,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5837021470069885,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.0033341669477522373,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6752246618270874
+                },
+                {
+                    "word": " I",
+                    "start": 0.16,
+                    "end": 0.24,
+                    "probability": 0.6441234946250916
+                },
+                {
+                    "word": " like",
+                    "start": 0.24,
+                    "end": 0.4,
+                    "probability": 0.9241064786911011
+                },
+                {
+                    "word": " was",
+                    "start": 0.4,
+                    "end": 0.66,
+                    "probability": 0.5773552656173706
+                },
+                {
+                    "word": " delay",
+                    "start": 0.66,
+                    "end": 0.98,
+                    "probability": 0.4144405722618103
+                },
+                {
+                    "word": " due,",
+                    "start": 0.98,
+                    "end": 1.5,
+                    "probability": 0.45842352509498596
+                },
+                {
+                    "word": " it's",
+                    "start": 2.38,
+                    "end": 4.76,
+                    "probability": 0.6023059785366058
+                },
+                {
+                    "word": " a",
+                    "start": 4.76,
+                    "end": 4.86,
+                    "probability": 0.9694485068321228
+                },
+                {
+                    "word": " bad",
+                    "start": 4.86,
+                    "end": 5.12,
+                    "probability": 0.9797694683074951
+                },
+                {
+                    "word": " weather.",
+                    "start": 5.12,
+                    "end": 5.58,
+                    "probability": 0.9991475343704224
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

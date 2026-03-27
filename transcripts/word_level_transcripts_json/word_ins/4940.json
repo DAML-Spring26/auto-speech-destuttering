@@ -1,0 +1,94 @@
+{
+    "text": " We should consider implementing a new customer feedback system well.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.64,
+            "text": " We should consider implementing a new customer feedback system well.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                1949,
+                18114,
+                257,
+                777,
+                5474,
+                5824,
+                1185,
+                731,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3006617682320731,
+            "compression_ratio": 0.9714285714285714,
+            "no_speech_prob": 0.03535493090748787,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 1.38,
+                    "probability": 0.9522975087165833
+                },
+                {
+                    "word": " should",
+                    "start": 1.38,
+                    "end": 1.64,
+                    "probability": 0.997941792011261
+                },
+                {
+                    "word": " consider",
+                    "start": 1.64,
+                    "end": 2.22,
+                    "probability": 0.9982894062995911
+                },
+                {
+                    "word": " implementing",
+                    "start": 2.22,
+                    "end": 2.96,
+                    "probability": 0.9852114915847778
+                },
+                {
+                    "word": " a",
+                    "start": 2.96,
+                    "end": 4.54,
+                    "probability": 0.6385009288787842
+                },
+                {
+                    "word": " new",
+                    "start": 4.54,
+                    "end": 4.74,
+                    "probability": 0.9546100497245789
+                },
+                {
+                    "word": " customer",
+                    "start": 4.74,
+                    "end": 5.24,
+                    "probability": 0.9553003311157227
+                },
+                {
+                    "word": " feedback",
+                    "start": 5.24,
+                    "end": 5.72,
+                    "probability": 0.9857784509658813
+                },
+                {
+                    "word": " system",
+                    "start": 5.72,
+                    "end": 6.36,
+                    "probability": 0.9978524446487427
+                },
+                {
+                    "word": " well.",
+                    "start": 6.36,
+                    "end": 6.64,
+                    "probability": 0.9763147830963135
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,103 @@
+{
+    "text": " Despite the rain, the outdoor event was a great, great success.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.38,
+            "text": " Despite the rain, the outdoor event was a great, great success.",
+            "tokens": [
+                50364,
+                11334,
+                264,
+                4830,
+                11,
+                264,
+                15942,
+                2280,
+                390,
+                257,
+                869,
+                11,
+                869,
+                2245,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3088557299445657,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.01025294791907072,
+            "words": [
+                {
+                    "word": " Despite",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.6988714337348938
+                },
+                {
+                    "word": " the",
+                    "start": 0.44,
+                    "end": 0.72,
+                    "probability": 0.9930331707000732
+                },
+                {
+                    "word": " rain,",
+                    "start": 0.72,
+                    "end": 1.0,
+                    "probability": 0.9920704960823059
+                },
+                {
+                    "word": " the",
+                    "start": 1.2,
+                    "end": 1.26,
+                    "probability": 0.94639652967453
+                },
+                {
+                    "word": " outdoor",
+                    "start": 1.26,
+                    "end": 1.58,
+                    "probability": 0.9275796413421631
+                },
+                {
+                    "word": " event",
+                    "start": 1.58,
+                    "end": 1.88,
+                    "probability": 0.6272073984146118
+                },
+                {
+                    "word": " was",
+                    "start": 1.88,
+                    "end": 2.08,
+                    "probability": 0.9966938495635986
+                },
+                {
+                    "word": " a",
+                    "start": 2.08,
+                    "end": 2.22,
+                    "probability": 0.9916028380393982
+                },
+                {
+                    "word": " great,",
+                    "start": 2.22,
+                    "end": 2.52,
+                    "probability": 0.9980449676513672
+                },
+                {
+                    "word": " great",
+                    "start": 2.7,
+                    "end": 2.86,
+                    "probability": 0.9889616370201111
+                },
+                {
+                    "word": " success.",
+                    "start": 2.86,
+                    "end": 3.38,
+                    "probability": 0.9959056377410889
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

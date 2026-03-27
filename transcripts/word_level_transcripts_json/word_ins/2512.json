@@ -1,0 +1,101 @@
+{
+    "text": " Make sure to follow up with your primary care of physician.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.9000000000000001,
+            "end": 4.62,
+            "text": " Make sure to follow up with your primary care of physician.",
+            "tokens": [
+                50364,
+                4387,
+                988,
+                281,
+                1524,
+                493,
+                365,
+                428,
+                6194,
+                1127,
+                295,
+                16456,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3767378489176432,
+            "compression_ratio": 0.9076923076923077,
+            "no_speech_prob": 0.10789979994297028,
+            "words": [
+                {
+                    "word": " Make",
+                    "start": 0.9000000000000001,
+                    "end": 1.5,
+                    "probability": 0.8646520972251892
+                },
+                {
+                    "word": " sure",
+                    "start": 1.5,
+                    "end": 1.84,
+                    "probability": 0.9990583062171936
+                },
+                {
+                    "word": " to",
+                    "start": 1.84,
+                    "end": 2.06,
+                    "probability": 0.9974551796913147
+                },
+                {
+                    "word": " follow",
+                    "start": 2.06,
+                    "end": 2.32,
+                    "probability": 0.9966630339622498
+                },
+                {
+                    "word": " up",
+                    "start": 2.32,
+                    "end": 2.68,
+                    "probability": 0.9511154294013977
+                },
+                {
+                    "word": " with",
+                    "start": 2.68,
+                    "end": 2.88,
+                    "probability": 0.9983859062194824
+                },
+                {
+                    "word": " your",
+                    "start": 2.88,
+                    "end": 3.02,
+                    "probability": 0.9945099353790283
+                },
+                {
+                    "word": " primary",
+                    "start": 3.02,
+                    "end": 3.54,
+                    "probability": 0.976567804813385
+                },
+                {
+                    "word": " care",
+                    "start": 3.54,
+                    "end": 3.92,
+                    "probability": 0.9486645460128784
+                },
+                {
+                    "word": " of",
+                    "start": 3.92,
+                    "end": 4.18,
+                    "probability": 0.47293367981910706
+                },
+                {
+                    "word": " physician.",
+                    "start": 4.18,
+                    "end": 4.62,
+                    "probability": 0.6644238829612732
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

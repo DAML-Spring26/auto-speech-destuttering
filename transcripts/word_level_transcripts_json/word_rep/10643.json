@@ -1,0 +1,102 @@
+{
+    "text": " After graduating, she plans to travel across Europe for six months.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.5,
+            "text": " After graduating, she plans to travel across Europe for six months.",
+            "tokens": [
+                50364,
+                2381,
+                18843,
+                11,
+                750,
+                5482,
+                281,
+                3147,
+                2108,
+                3315,
+                337,
+                2309,
+                2493,
+                13,
+                50708
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3548192083835602,
+            "compression_ratio": 0.9571428571428572,
+            "no_speech_prob": 0.005293264053761959,
+            "words": [
+                {
+                    "word": " After",
+                    "start": 0.0,
+                    "end": 0.46,
+                    "probability": 0.8609052300453186
+                },
+                {
+                    "word": " graduating,",
+                    "start": 0.46,
+                    "end": 1.12,
+                    "probability": 0.9406203031539917
+                },
+                {
+                    "word": " she",
+                    "start": 2.02,
+                    "end": 2.26,
+                    "probability": 0.9890702962875366
+                },
+                {
+                    "word": " plans",
+                    "start": 2.26,
+                    "end": 2.66,
+                    "probability": 0.9733877778053284
+                },
+                {
+                    "word": " to",
+                    "start": 2.66,
+                    "end": 3.24,
+                    "probability": 0.9952091574668884
+                },
+                {
+                    "word": " travel",
+                    "start": 3.24,
+                    "end": 4.5,
+                    "probability": 0.9661601185798645
+                },
+                {
+                    "word": " across",
+                    "start": 4.5,
+                    "end": 4.9,
+                    "probability": 0.997417688369751
+                },
+                {
+                    "word": " Europe",
+                    "start": 4.9,
+                    "end": 5.38,
+                    "probability": 0.9958012700080872
+                },
+                {
+                    "word": " for",
+                    "start": 5.38,
+                    "end": 5.72,
+                    "probability": 0.9957855343818665
+                },
+                {
+                    "word": " six",
+                    "start": 5.72,
+                    "end": 6.14,
+                    "probability": 0.7539268732070923
+                },
+                {
+                    "word": " months.",
+                    "start": 6.14,
+                    "end": 6.5,
+                    "probability": 0.9961197376251221
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

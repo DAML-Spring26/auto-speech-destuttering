@@ -1,0 +1,103 @@
+{
+    "text": " She wandered her flight, would be delayed due to the storm.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.88,
+            "text": " She wandered her flight, would be delayed due to the storm.",
+            "tokens": [
+                50364,
+                1240,
+                14304,
+                4073,
+                720,
+                7018,
+                11,
+                576,
+                312,
+                20268,
+                3462,
+                281,
+                264,
+                7679,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3054533285253188,
+            "compression_ratio": 0.9076923076923077,
+            "no_speech_prob": 0.002322989050298929,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.7582195401191711
+                },
+                {
+                    "word": " wandered",
+                    "start": 0.22,
+                    "end": 0.72,
+                    "probability": 0.84488844871521
+                },
+                {
+                    "word": " her",
+                    "start": 0.72,
+                    "end": 0.96,
+                    "probability": 0.978797197341919
+                },
+                {
+                    "word": " flight,",
+                    "start": 0.96,
+                    "end": 1.28,
+                    "probability": 0.9936043620109558
+                },
+                {
+                    "word": " would",
+                    "start": 1.42,
+                    "end": 1.52,
+                    "probability": 0.9441118240356445
+                },
+                {
+                    "word": " be",
+                    "start": 1.52,
+                    "end": 1.68,
+                    "probability": 0.994616687297821
+                },
+                {
+                    "word": " delayed",
+                    "start": 1.68,
+                    "end": 1.94,
+                    "probability": 0.9584209322929382
+                },
+                {
+                    "word": " due",
+                    "start": 1.94,
+                    "end": 2.2,
+                    "probability": 0.9956011772155762
+                },
+                {
+                    "word": " to",
+                    "start": 2.2,
+                    "end": 2.38,
+                    "probability": 0.997894823551178
+                },
+                {
+                    "word": " the",
+                    "start": 2.38,
+                    "end": 2.56,
+                    "probability": 0.9901869297027588
+                },
+                {
+                    "word": " storm.",
+                    "start": 2.56,
+                    "end": 2.88,
+                    "probability": 0.993070662021637
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

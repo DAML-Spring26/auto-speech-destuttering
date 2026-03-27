@@ -1,0 +1,67 @@
+{
+    "text": " Professor Publish Research about Positive Development.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.8,
+            "text": " Professor Publish Research about Positive Development.",
+            "tokens": [
+                50364,
+                8419,
+                21808,
+                1933,
+                10303,
+                466,
+                46326,
+                15041,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5986853079362349,
+            "compression_ratio": 0.8709677419354839,
+            "no_speech_prob": 0.00637795589864254,
+            "words": [
+                {
+                    "word": " Professor",
+                    "start": 0.0,
+                    "end": 0.56,
+                    "probability": 0.5142885446548462
+                },
+                {
+                    "word": " Publish",
+                    "start": 0.56,
+                    "end": 0.96,
+                    "probability": 0.6064890623092651
+                },
+                {
+                    "word": " Research",
+                    "start": 0.96,
+                    "end": 1.34,
+                    "probability": 0.4712839424610138
+                },
+                {
+                    "word": " about",
+                    "start": 1.34,
+                    "end": 1.68,
+                    "probability": 0.9070302248001099
+                },
+                {
+                    "word": " Positive",
+                    "start": 1.68,
+                    "end": 2.14,
+                    "probability": 0.7180864810943604
+                },
+                {
+                    "word": " Development.",
+                    "start": 2.14,
+                    "end": 2.8,
+                    "probability": 0.9868406057357788
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

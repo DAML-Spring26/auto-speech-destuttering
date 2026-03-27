@@ -1,0 +1,73 @@
+{
+    "text": " The CEO presented the quarterly financial report.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.62,
+            "text": " The CEO presented the quarterly financial report.",
+            "tokens": [
+                50364,
+                440,
+                9282,
+                8212,
+                264,
+                38633,
+                4669,
+                2275,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5260797847401012,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.004820253700017929,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7963207364082336
+                },
+                {
+                    "word": " CEO",
+                    "start": 0.12,
+                    "end": 0.46,
+                    "probability": 0.3116813004016876
+                },
+                {
+                    "word": " presented",
+                    "start": 0.46,
+                    "end": 1.0,
+                    "probability": 0.9962228536605835
+                },
+                {
+                    "word": " the",
+                    "start": 1.0,
+                    "end": 1.2,
+                    "probability": 0.5933418869972229
+                },
+                {
+                    "word": " quarterly",
+                    "start": 1.2,
+                    "end": 1.5,
+                    "probability": 0.9875816106796265
+                },
+                {
+                    "word": " financial",
+                    "start": 1.5,
+                    "end": 2.16,
+                    "probability": 0.9915600419044495
+                },
+                {
+                    "word": " report.",
+                    "start": 2.16,
+                    "end": 2.62,
+                    "probability": 0.4642167389392853
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

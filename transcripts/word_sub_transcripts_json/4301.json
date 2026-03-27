@@ -1,0 +1,66 @@
+{
+    "text": " The molecular structure shows unique properties.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.52,
+            "text": " The molecular structure shows unique properties.",
+            "tokens": [
+                50364,
+                440,
+                19046,
+                3877,
+                3110,
+                3845,
+                7221,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4463526248931885,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.00785550381988287,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6159521341323853
+                },
+                {
+                    "word": " molecular",
+                    "start": 0.1,
+                    "end": 0.52,
+                    "probability": 0.6455569267272949
+                },
+                {
+                    "word": " structure",
+                    "start": 0.52,
+                    "end": 1.14,
+                    "probability": 0.9848837852478027
+                },
+                {
+                    "word": " shows",
+                    "start": 1.14,
+                    "end": 1.6,
+                    "probability": 0.4793180227279663
+                },
+                {
+                    "word": " unique",
+                    "start": 1.6,
+                    "end": 1.9,
+                    "probability": 0.982719898223877
+                },
+                {
+                    "word": " properties.",
+                    "start": 1.9,
+                    "end": 2.52,
+                    "probability": 0.9922574758529663
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,104 @@
+{
+    "text": " The new security system includes state-of-the-art surveillance cameras.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.0,
+            "text": " The new security system includes state-of-the-art surveillance cameras.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                3825,
+                1185,
+                5974,
+                1785,
+                12,
+                2670,
+                12,
+                3322,
+                12,
+                446,
+                18475,
+                8622,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2827627393934462,
+            "compression_ratio": 1.0142857142857142,
+            "no_speech_prob": 0.00595827866345644,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.8613913655281067
+                },
+                {
+                    "word": " new",
+                    "start": 0.16,
+                    "end": 0.34,
+                    "probability": 0.9858150482177734
+                },
+                {
+                    "word": " security",
+                    "start": 0.34,
+                    "end": 0.82,
+                    "probability": 0.9631772041320801
+                },
+                {
+                    "word": " system",
+                    "start": 0.82,
+                    "end": 1.36,
+                    "probability": 0.9983038902282715
+                },
+                {
+                    "word": " includes",
+                    "start": 1.36,
+                    "end": 1.94,
+                    "probability": 0.9900614023208618
+                },
+                {
+                    "word": " state",
+                    "start": 1.94,
+                    "end": 5.24,
+                    "probability": 0.3734329640865326
+                },
+                {
+                    "word": "-of",
+                    "start": 5.24,
+                    "end": 5.42,
+                    "probability": 0.8813094794750214
+                },
+                {
+                    "word": "-the",
+                    "start": 5.42,
+                    "end": 5.56,
+                    "probability": 0.9987197518348694
+                },
+                {
+                    "word": "-art",
+                    "start": 5.56,
+                    "end": 5.68,
+                    "probability": 0.9950294196605682
+                },
+                {
+                    "word": " surveillance",
+                    "start": 5.68,
+                    "end": 6.3,
+                    "probability": 0.9835177659988403
+                },
+                {
+                    "word": " cameras.",
+                    "start": 6.3,
+                    "end": 7.0,
+                    "probability": 0.9974539875984192
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

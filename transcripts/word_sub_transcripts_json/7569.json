@@ -1,0 +1,73 @@
+{
+    "text": " These ensure all safety protocols are followed.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.3,
+            "text": " These ensure all safety protocols are followed.",
+            "tokens": [
+                50364,
+                1981,
+                5586,
+                439,
+                4514,
+                20618,
+                366,
+                6263,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3396495905789462,
+            "compression_ratio": 0.8703703703703703,
+            "no_speech_prob": 0.007034255191683769,
+            "words": [
+                {
+                    "word": " These",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.7844511866569519
+                },
+                {
+                    "word": " ensure",
+                    "start": 0.2,
+                    "end": 0.46,
+                    "probability": 0.6432216763496399
+                },
+                {
+                    "word": " all",
+                    "start": 0.46,
+                    "end": 0.72,
+                    "probability": 0.9831183552742004
+                },
+                {
+                    "word": " safety",
+                    "start": 0.72,
+                    "end": 1.08,
+                    "probability": 0.9883821606636047
+                },
+                {
+                    "word": " protocols",
+                    "start": 1.08,
+                    "end": 1.66,
+                    "probability": 0.9477513432502747
+                },
+                {
+                    "word": " are",
+                    "start": 1.66,
+                    "end": 1.94,
+                    "probability": 0.9546822905540466
+                },
+                {
+                    "word": " followed.",
+                    "start": 1.94,
+                    "end": 2.3,
+                    "probability": 0.8881411552429199
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

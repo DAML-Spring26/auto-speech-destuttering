@@ -1,0 +1,119 @@
+{
+    "text": " I apologize for inconvenient. How can I help resolve this issue?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.96,
+            "text": " I apologize for inconvenient.",
+            "tokens": [
+                50364,
+                286,
+                12328,
+                337,
+                46196,
+                13,
+                50494
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32914278242323136,
+            "compression_ratio": 0.9411764705882353,
+            "no_speech_prob": 0.00417129835113883,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.9584919810295105
+                },
+                {
+                    "word": " apologize",
+                    "start": 0.16,
+                    "end": 0.8,
+                    "probability": 0.7289993166923523
+                },
+                {
+                    "word": " for",
+                    "start": 0.8,
+                    "end": 1.2,
+                    "probability": 0.9953978657722473
+                },
+                {
+                    "word": " inconvenient.",
+                    "start": 1.2,
+                    "end": 1.96,
+                    "probability": 0.8324582576751709
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.56,
+            "end": 4.52,
+            "text": " How can I help resolve this issue?",
+            "tokens": [
+                50494,
+                1012,
+                393,
+                286,
+                854,
+                14151,
+                341,
+                2734,
+                30,
+                50598
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32914278242323136,
+            "compression_ratio": 0.9411764705882353,
+            "no_speech_prob": 0.00417129835113883,
+            "words": [
+                {
+                    "word": " How",
+                    "start": 2.56,
+                    "end": 2.7,
+                    "probability": 0.9737507104873657
+                },
+                {
+                    "word": " can",
+                    "start": 2.7,
+                    "end": 2.9,
+                    "probability": 0.989470362663269
+                },
+                {
+                    "word": " I",
+                    "start": 2.9,
+                    "end": 3.12,
+                    "probability": 0.9782434701919556
+                },
+                {
+                    "word": " help",
+                    "start": 3.12,
+                    "end": 3.4,
+                    "probability": 0.9972412586212158
+                },
+                {
+                    "word": " resolve",
+                    "start": 3.4,
+                    "end": 3.78,
+                    "probability": 0.9962636828422546
+                },
+                {
+                    "word": " this",
+                    "start": 3.78,
+                    "end": 4.18,
+                    "probability": 0.9899836778640747
+                },
+                {
+                    "word": " issue?",
+                    "start": 4.18,
+                    "end": 4.52,
+                    "probability": 0.9975780844688416
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

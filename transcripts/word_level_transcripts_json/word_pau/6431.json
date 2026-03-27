@@ -1,0 +1,73 @@
+{
+    "text": " Can you explain how their software operates?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.46,
+            "text": " Can you explain how their software operates?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                2903,
+                577,
+                641,
+                4722,
+                22577,
+                30,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48482275009155273,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.012183264829218388,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.8195476531982422
+                },
+                {
+                    "word": " you",
+                    "start": 0.18,
+                    "end": 0.34,
+                    "probability": 0.9959990978240967
+                },
+                {
+                    "word": " explain",
+                    "start": 0.34,
+                    "end": 0.9,
+                    "probability": 0.9964732527732849
+                },
+                {
+                    "word": " how",
+                    "start": 0.9,
+                    "end": 3.96,
+                    "probability": 0.5859056711196899
+                },
+                {
+                    "word": " their",
+                    "start": 3.96,
+                    "end": 4.2,
+                    "probability": 0.663690447807312
+                },
+                {
+                    "word": " software",
+                    "start": 4.2,
+                    "end": 4.74,
+                    "probability": 0.9939326643943787
+                },
+                {
+                    "word": " operates?",
+                    "start": 4.74,
+                    "end": 5.46,
+                    "probability": 0.9984373450279236
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

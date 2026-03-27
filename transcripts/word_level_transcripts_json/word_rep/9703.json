@@ -1,0 +1,101 @@
+{
+    "text": " Can you please forward the quarterly report to the finance team?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.08,
+            "text": " Can you please forward the quarterly report to the finance team?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                1767,
+                2128,
+                264,
+                38633,
+                2275,
+                281,
+                264,
+                10719,
+                1469,
+                30,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34582977294921874,
+            "compression_ratio": 0.9696969696969697,
+            "no_speech_prob": 0.035788144916296005,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.687833845615387
+                },
+                {
+                    "word": " you",
+                    "start": 0.12,
+                    "end": 0.26,
+                    "probability": 0.9968715310096741
+                },
+                {
+                    "word": " please",
+                    "start": 0.26,
+                    "end": 0.74,
+                    "probability": 0.996407687664032
+                },
+                {
+                    "word": " forward",
+                    "start": 0.74,
+                    "end": 1.12,
+                    "probability": 0.9316790699958801
+                },
+                {
+                    "word": " the",
+                    "start": 1.12,
+                    "end": 1.62,
+                    "probability": 0.9869245290756226
+                },
+                {
+                    "word": " quarterly",
+                    "start": 1.62,
+                    "end": 3.04,
+                    "probability": 0.9144864678382874
+                },
+                {
+                    "word": " report",
+                    "start": 3.04,
+                    "end": 3.62,
+                    "probability": 0.9952243566513062
+                },
+                {
+                    "word": " to",
+                    "start": 3.62,
+                    "end": 3.98,
+                    "probability": 0.9966608285903931
+                },
+                {
+                    "word": " the",
+                    "start": 3.98,
+                    "end": 4.12,
+                    "probability": 0.992712140083313
+                },
+                {
+                    "word": " finance",
+                    "start": 4.12,
+                    "end": 4.56,
+                    "probability": 0.6017581820487976
+                },
+                {
+                    "word": " team?",
+                    "start": 4.56,
+                    "end": 5.08,
+                    "probability": 0.9986030459403992
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

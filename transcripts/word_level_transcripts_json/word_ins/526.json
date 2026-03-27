@@ -1,0 +1,94 @@
+{
+    "text": " Could you please forward me the email from the client?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.06,
+            "text": " Could you please forward me the email from the client?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                2128,
+                385,
+                264,
+                3796,
+                490,
+                264,
+                6423,
+                30,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3591301441192627,
+            "compression_ratio": 0.9310344827586207,
+            "no_speech_prob": 0.12547169625759125,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.78,
+                    "probability": 0.9191392660140991
+                },
+                {
+                    "word": " you",
+                    "start": 0.78,
+                    "end": 0.98,
+                    "probability": 0.9983471632003784
+                },
+                {
+                    "word": " please",
+                    "start": 0.98,
+                    "end": 1.44,
+                    "probability": 0.9937752485275269
+                },
+                {
+                    "word": " forward",
+                    "start": 1.44,
+                    "end": 1.86,
+                    "probability": 0.9672995209693909
+                },
+                {
+                    "word": " me",
+                    "start": 1.86,
+                    "end": 2.08,
+                    "probability": 0.982312023639679
+                },
+                {
+                    "word": " the",
+                    "start": 2.08,
+                    "end": 2.24,
+                    "probability": 0.9841023087501526
+                },
+                {
+                    "word": " email",
+                    "start": 2.24,
+                    "end": 2.68,
+                    "probability": 0.9314995408058167
+                },
+                {
+                    "word": " from",
+                    "start": 2.68,
+                    "end": 4.52,
+                    "probability": 0.8989845514297485
+                },
+                {
+                    "word": " the",
+                    "start": 4.52,
+                    "end": 4.68,
+                    "probability": 0.9842303395271301
+                },
+                {
+                    "word": " client?",
+                    "start": 4.68,
+                    "end": 5.06,
+                    "probability": 0.9827582240104675
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,94 @@
+{
+    "text": " We should book our flights and hotel accommodations soon well.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.12,
+            "text": " We should book our flights and hotel accommodations soon well.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                1446,
+                527,
+                21089,
+                293,
+                7622,
+                38907,
+                2321,
+                731,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25906455516815186,
+            "compression_ratio": 0.96875,
+            "no_speech_prob": 0.022437293082475662,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.8945211172103882
+                },
+                {
+                    "word": " should",
+                    "start": 0.34,
+                    "end": 0.52,
+                    "probability": 0.9972457885742188
+                },
+                {
+                    "word": " book",
+                    "start": 0.52,
+                    "end": 0.68,
+                    "probability": 0.9915542006492615
+                },
+                {
+                    "word": " our",
+                    "start": 0.68,
+                    "end": 0.88,
+                    "probability": 0.9935855269432068
+                },
+                {
+                    "word": " flights",
+                    "start": 0.88,
+                    "end": 1.2,
+                    "probability": 0.9940333962440491
+                },
+                {
+                    "word": " and",
+                    "start": 1.2,
+                    "end": 1.42,
+                    "probability": 0.9462672472000122
+                },
+                {
+                    "word": " hotel",
+                    "start": 1.42,
+                    "end": 1.72,
+                    "probability": 0.9825421571731567
+                },
+                {
+                    "word": " accommodations",
+                    "start": 1.72,
+                    "end": 2.3,
+                    "probability": 0.8508263826370239
+                },
+                {
+                    "word": " soon",
+                    "start": 2.3,
+                    "end": 2.86,
+                    "probability": 0.9869318604469299
+                },
+                {
+                    "word": " well.",
+                    "start": 2.86,
+                    "end": 3.12,
+                    "probability": 0.8548835515975952
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

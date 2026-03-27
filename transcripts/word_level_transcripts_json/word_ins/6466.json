@@ -1,0 +1,133 @@
+{
+    "text": " The company's commitment to sustainability has improved its reputation among you know consumers.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.16,
+            "text": " The company's commitment to sustainability has improved its reputation among you",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                8371,
+                281,
+                16360,
+                575,
+                9689,
+                1080,
+                13061,
+                3654,
+                291,
+                50672
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3703426122665405,
+            "compression_ratio": 1.1162790697674418,
+            "no_speech_prob": 0.16359193623065948,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.84,
+                    "probability": 0.8866289854049683
+                },
+                {
+                    "word": " company's",
+                    "start": 0.84,
+                    "end": 1.44,
+                    "probability": 0.9612500071525574
+                },
+                {
+                    "word": " commitment",
+                    "start": 1.44,
+                    "end": 1.84,
+                    "probability": 0.9985275268554688
+                },
+                {
+                    "word": " to",
+                    "start": 1.84,
+                    "end": 2.14,
+                    "probability": 0.9984684586524963
+                },
+                {
+                    "word": " sustainability",
+                    "start": 2.14,
+                    "end": 3.1,
+                    "probability": 0.9915874600410461
+                },
+                {
+                    "word": " has",
+                    "start": 3.1,
+                    "end": 3.88,
+                    "probability": 0.9932212829589844
+                },
+                {
+                    "word": " improved",
+                    "start": 3.88,
+                    "end": 4.38,
+                    "probability": 0.9943278431892395
+                },
+                {
+                    "word": " its",
+                    "start": 4.38,
+                    "end": 4.68,
+                    "probability": 0.9645991921424866
+                },
+                {
+                    "word": " reputation",
+                    "start": 4.68,
+                    "end": 5.48,
+                    "probability": 0.9955428242683411
+                },
+                {
+                    "word": " among",
+                    "start": 5.48,
+                    "end": 5.92,
+                    "probability": 0.9821434617042542
+                },
+                {
+                    "word": " you",
+                    "start": 5.92,
+                    "end": 6.16,
+                    "probability": 0.9210428595542908
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.16,
+            "end": 6.84,
+            "text": " know consumers.",
+            "tokens": [
+                50672,
+                458,
+                11883,
+                13,
+                50802
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3703426122665405,
+            "compression_ratio": 1.1162790697674418,
+            "no_speech_prob": 0.16359193623065948,
+            "words": [
+                {
+                    "word": " know",
+                    "start": 6.16,
+                    "end": 6.34,
+                    "probability": 0.6933559775352478
+                },
+                {
+                    "word": " consumers.",
+                    "start": 6.34,
+                    "end": 6.84,
+                    "probability": 0.9506423473358154
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

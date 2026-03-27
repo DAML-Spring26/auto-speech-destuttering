@@ -1,0 +1,66 @@
+{
+    "text": " quarterly reports show significant revenue growth.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.34,
+            "text": " quarterly reports show significant revenue growth.",
+            "tokens": [
+                50364,
+                38633,
+                7122,
+                855,
+                4776,
+                9324,
+                4599,
+                13,
+                50536
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5498653411865234,
+            "compression_ratio": 0.8771929824561403,
+            "no_speech_prob": 0.03540576249361038,
+            "words": [
+                {
+                    "word": " quarterly",
+                    "start": 0.0,
+                    "end": 0.56,
+                    "probability": 0.35945403575897217
+                },
+                {
+                    "word": " reports",
+                    "start": 0.56,
+                    "end": 1.02,
+                    "probability": 0.613734781742096
+                },
+                {
+                    "word": " show",
+                    "start": 1.02,
+                    "end": 1.42,
+                    "probability": 0.9262961149215698
+                },
+                {
+                    "word": " significant",
+                    "start": 1.42,
+                    "end": 2.22,
+                    "probability": 0.9924083948135376
+                },
+                {
+                    "word": " revenue",
+                    "start": 2.22,
+                    "end": 2.88,
+                    "probability": 0.9812656044960022
+                },
+                {
+                    "word": " growth.",
+                    "start": 2.88,
+                    "end": 3.34,
+                    "probability": 0.8715904355049133
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

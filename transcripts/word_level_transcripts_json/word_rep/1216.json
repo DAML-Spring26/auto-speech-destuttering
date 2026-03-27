@@ -1,0 +1,63 @@
+{
+    "text": " Merry, Merry Cogs Delicious Meals.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.04,
+            "text": " Merry, Merry Cogs Delicious Meals.",
+            "tokens": [
+                50364,
+                26572,
+                11,
+                26572,
+                383,
+                664,
+                82,
+                28518,
+                1923,
+                1124,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6424525334284856,
+            "compression_ratio": 0.8947368421052632,
+            "no_speech_prob": 0.006939002312719822,
+            "words": [
+                {
+                    "word": " Merry,",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.7217026352882385
+                },
+                {
+                    "word": " Merry",
+                    "start": 0.7,
+                    "end": 1.26,
+                    "probability": 0.6968451738357544
+                },
+                {
+                    "word": " Cogs",
+                    "start": 1.26,
+                    "end": 1.86,
+                    "probability": 0.5922083954016367
+                },
+                {
+                    "word": " Delicious",
+                    "start": 1.86,
+                    "end": 2.38,
+                    "probability": 0.3767368495464325
+                },
+                {
+                    "word": " Meals.",
+                    "start": 2.38,
+                    "end": 3.04,
+                    "probability": 0.9163182973861694
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

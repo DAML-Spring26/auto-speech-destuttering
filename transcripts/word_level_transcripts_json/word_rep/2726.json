@@ -1,0 +1,52 @@
+{
+    "text": " but wait for me.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.22,
+            "text": " but wait for me.",
+            "tokens": [
+                50364,
+                457,
+                1699,
+                337,
+                385,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5425547361373901,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.02778288722038269,
+            "words": [
+                {
+                    "word": " but",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.5212862491607666
+                },
+                {
+                    "word": " wait",
+                    "start": 0.2,
+                    "end": 0.62,
+                    "probability": 0.827206552028656
+                },
+                {
+                    "word": " for",
+                    "start": 0.62,
+                    "end": 0.98,
+                    "probability": 0.9263182282447815
+                },
+                {
+                    "word": " me.",
+                    "start": 0.98,
+                    "end": 1.22,
+                    "probability": 0.9906455278396606
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

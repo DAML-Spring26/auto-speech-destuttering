@@ -1,0 +1,66 @@
+{
+    "text": " The engineer fixed the tactical problem.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.22,
+            "text": " The engineer fixed the tactical problem.",
+            "tokens": [
+                50364,
+                440,
+                11403,
+                6806,
+                264,
+                26323,
+                1154,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45417051315307616,
+            "compression_ratio": 0.851063829787234,
+            "no_speech_prob": 0.002903729910030961,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6099491119384766
+                },
+                {
+                    "word": " engineer",
+                    "start": 0.14,
+                    "end": 0.5,
+                    "probability": 0.9726517796516418
+                },
+                {
+                    "word": " fixed",
+                    "start": 0.5,
+                    "end": 0.9,
+                    "probability": 0.7312928438186646
+                },
+                {
+                    "word": " the",
+                    "start": 0.9,
+                    "end": 1.14,
+                    "probability": 0.9940802454948425
+                },
+                {
+                    "word": " tactical",
+                    "start": 1.14,
+                    "end": 1.58,
+                    "probability": 0.9824768900871277
+                },
+                {
+                    "word": " problem.",
+                    "start": 1.58,
+                    "end": 2.22,
+                    "probability": 0.9971137046813965
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

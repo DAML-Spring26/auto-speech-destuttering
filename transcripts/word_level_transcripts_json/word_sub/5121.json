@@ -1,0 +1,80 @@
+{
+    "text": " The pharmaceutical company is developing a new machine.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.98,
+            "text": " The pharmaceutical company is developing a new machine.",
+            "tokens": [
+                50364,
+                440,
+                27130,
+                2237,
+                307,
+                6416,
+                257,
+                777,
+                3479,
+                13,
+                50522
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2313003937403361,
+            "compression_ratio": 0.8870967741935484,
+            "no_speech_prob": 0.0032111427281051874,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.8856058120727539
+                },
+                {
+                    "word": " pharmaceutical",
+                    "start": 0.1,
+                    "end": 0.62,
+                    "probability": 0.9922875165939331
+                },
+                {
+                    "word": " company",
+                    "start": 0.62,
+                    "end": 1.3,
+                    "probability": 0.9967323541641235
+                },
+                {
+                    "word": " is",
+                    "start": 1.3,
+                    "end": 1.7,
+                    "probability": 0.9941516518592834
+                },
+                {
+                    "word": " developing",
+                    "start": 1.7,
+                    "end": 2.14,
+                    "probability": 0.9977450370788574
+                },
+                {
+                    "word": " a",
+                    "start": 2.14,
+                    "end": 2.56,
+                    "probability": 0.9983087778091431
+                },
+                {
+                    "word": " new",
+                    "start": 2.56,
+                    "end": 2.68,
+                    "probability": 0.9915590286254883
+                },
+                {
+                    "word": " machine.",
+                    "start": 2.68,
+                    "end": 2.98,
+                    "probability": 0.9985768795013428
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

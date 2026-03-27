@@ -1,0 +1,73 @@
+{
+    "text": " The movie received mixed reviews from critics.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.08,
+            "text": " The movie received mixed reviews from critics.",
+            "tokens": [
+                50364,
+                440,
+                3169,
+                4613,
+                7467,
+                10229,
+                490,
+                22503,
+                13,
+                50644
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4737975380637429,
+            "compression_ratio": 0.9019607843137255,
+            "no_speech_prob": 0.007945707067847252,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.700133204460144
+                },
+                {
+                    "word": " movie",
+                    "start": 0.14,
+                    "end": 0.48,
+                    "probability": 0.9754496216773987
+                },
+                {
+                    "word": " received",
+                    "start": 0.48,
+                    "end": 1.06,
+                    "probability": 0.7255371809005737
+                },
+                {
+                    "word": " mixed",
+                    "start": 1.06,
+                    "end": 1.46,
+                    "probability": 0.9214234948158264
+                },
+                {
+                    "word": " reviews",
+                    "start": 1.46,
+                    "end": 1.92,
+                    "probability": 0.997140645980835
+                },
+                {
+                    "word": " from",
+                    "start": 1.92,
+                    "end": 2.46,
+                    "probability": 0.9877579212188721
+                },
+                {
+                    "word": " critics.",
+                    "start": 2.46,
+                    "end": 5.08,
+                    "probability": 0.4758163392543793
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

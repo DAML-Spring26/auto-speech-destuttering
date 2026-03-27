@@ -1,0 +1,80 @@
+{
+    "text": " The mechanic replaced the transaction in my car.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.14,
+            "text": " The mechanic replaced the transaction in my car.",
+            "tokens": [
+                50364,
+                440,
+                23860,
+                10772,
+                264,
+                14425,
+                294,
+                452,
+                1032,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4650700092315674,
+            "compression_ratio": 0.8727272727272727,
+            "no_speech_prob": 0.0032384961377829313,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6234199404716492
+                },
+                {
+                    "word": " mechanic",
+                    "start": 0.12,
+                    "end": 0.38,
+                    "probability": 0.42293432354927063
+                },
+                {
+                    "word": " replaced",
+                    "start": 0.38,
+                    "end": 0.76,
+                    "probability": 0.7970529198646545
+                },
+                {
+                    "word": " the",
+                    "start": 0.76,
+                    "end": 0.98,
+                    "probability": 0.9973129630088806
+                },
+                {
+                    "word": " transaction",
+                    "start": 0.98,
+                    "end": 1.4,
+                    "probability": 0.6527979969978333
+                },
+                {
+                    "word": " in",
+                    "start": 1.4,
+                    "end": 1.78,
+                    "probability": 0.9606916904449463
+                },
+                {
+                    "word": " my",
+                    "start": 1.78,
+                    "end": 1.94,
+                    "probability": 0.8819005489349365
+                },
+                {
+                    "word": " car.",
+                    "start": 1.94,
+                    "end": 2.14,
+                    "probability": 0.9670097827911377
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

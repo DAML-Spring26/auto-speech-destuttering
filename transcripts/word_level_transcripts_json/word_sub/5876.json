@@ -1,0 +1,74 @@
+{
+    "text": " What's your favorite groove of all time?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.6,
+            "text": " What's your favorite groove of all time?",
+            "tokens": [
+                50364,
+                708,
+                311,
+                428,
+                2954,
+                26910,
+                295,
+                439,
+                565,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30137646198272705,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.004009715747088194,
+            "words": [
+                {
+                    "word": " What's",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.7980003654956818
+                },
+                {
+                    "word": " your",
+                    "start": 0.28,
+                    "end": 0.36,
+                    "probability": 0.9899511933326721
+                },
+                {
+                    "word": " favorite",
+                    "start": 0.36,
+                    "end": 0.74,
+                    "probability": 0.8630105257034302
+                },
+                {
+                    "word": " groove",
+                    "start": 0.74,
+                    "end": 1.0,
+                    "probability": 0.8969348073005676
+                },
+                {
+                    "word": " of",
+                    "start": 1.0,
+                    "end": 1.18,
+                    "probability": 0.983820915222168
+                },
+                {
+                    "word": " all",
+                    "start": 1.18,
+                    "end": 1.34,
+                    "probability": 0.9940675497055054
+                },
+                {
+                    "word": " time?",
+                    "start": 1.34,
+                    "end": 1.6,
+                    "probability": 0.9262797236442566
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,73 @@
+{
+    "text": " The research paper submitted for peer review.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.48,
+            "text": " The research paper submitted for peer review.",
+            "tokens": [
+                50364,
+                440,
+                2132,
+                3035,
+                14405,
+                337,
+                15108,
+                3131,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45786645195700904,
+            "compression_ratio": 0.8653846153846154,
+            "no_speech_prob": 0.008557750843465328,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6591111421585083
+                },
+                {
+                    "word": " research",
+                    "start": 0.14,
+                    "end": 0.54,
+                    "probability": 0.9148287177085876
+                },
+                {
+                    "word": " paper",
+                    "start": 0.54,
+                    "end": 1.0,
+                    "probability": 0.6017165780067444
+                },
+                {
+                    "word": " submitted",
+                    "start": 1.0,
+                    "end": 1.56,
+                    "probability": 0.9927279949188232
+                },
+                {
+                    "word": " for",
+                    "start": 1.56,
+                    "end": 1.82,
+                    "probability": 0.9765977263450623
+                },
+                {
+                    "word": " peer",
+                    "start": 1.82,
+                    "end": 2.12,
+                    "probability": 0.5998244285583496
+                },
+                {
+                    "word": " review.",
+                    "start": 2.12,
+                    "end": 2.48,
+                    "probability": 0.9969056248664856
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

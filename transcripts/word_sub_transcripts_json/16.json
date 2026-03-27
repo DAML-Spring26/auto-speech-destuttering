@@ -1,0 +1,66 @@
+{
+    "text": " The conference will focus on invitation.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.36,
+            "text": " The conference will focus on invitation.",
+            "tokens": [
+                50364,
+                440,
+                7586,
+                486,
+                1879,
+                322,
+                17890,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32393205165863037,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.005617897491902113,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.8585624694824219
+                },
+                {
+                    "word": " conference",
+                    "start": 0.16,
+                    "end": 0.6,
+                    "probability": 0.9858694076538086
+                },
+                {
+                    "word": " will",
+                    "start": 0.6,
+                    "end": 0.96,
+                    "probability": 0.9955320358276367
+                },
+                {
+                    "word": " focus",
+                    "start": 0.96,
+                    "end": 1.38,
+                    "probability": 0.9951934218406677
+                },
+                {
+                    "word": " on",
+                    "start": 1.38,
+                    "end": 1.76,
+                    "probability": 0.998513400554657
+                },
+                {
+                    "word": " invitation.",
+                    "start": 1.76,
+                    "end": 2.36,
+                    "probability": 0.8586074113845825
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

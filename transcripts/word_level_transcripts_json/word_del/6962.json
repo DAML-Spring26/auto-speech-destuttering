@@ -1,0 +1,73 @@
+{
+    "text": " She wondered the meeting would be cancelled.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.72,
+            "text": " She wondered the meeting would be cancelled.",
+            "tokens": [
+                50364,
+                1240,
+                17055,
+                264,
+                3440,
+                576,
+                312,
+                25103,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2690309611233798,
+            "compression_ratio": 0.8979591836734694,
+            "no_speech_prob": 0.0018757387297227979,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.8748757839202881
+                },
+                {
+                    "word": " wondered",
+                    "start": 0.18,
+                    "end": 0.48,
+                    "probability": 0.971099853515625
+                },
+                {
+                    "word": " the",
+                    "start": 0.48,
+                    "end": 0.68,
+                    "probability": 0.9639082551002502
+                },
+                {
+                    "word": " meeting",
+                    "start": 0.68,
+                    "end": 0.94,
+                    "probability": 0.9980252981185913
+                },
+                {
+                    "word": " would",
+                    "start": 0.94,
+                    "end": 1.18,
+                    "probability": 0.9897107481956482
+                },
+                {
+                    "word": " be",
+                    "start": 1.18,
+                    "end": 1.3,
+                    "probability": 0.9972445964813232
+                },
+                {
+                    "word": " cancelled.",
+                    "start": 1.3,
+                    "end": 1.72,
+                    "probability": 0.5262327790260315
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

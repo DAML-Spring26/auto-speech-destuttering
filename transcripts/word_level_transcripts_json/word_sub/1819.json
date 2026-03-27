@@ -1,0 +1,59 @@
+{
+    "text": " Please review the safety measures.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.28,
+            "text": " Please review the safety measures.",
+            "tokens": [
+                50364,
+                2555,
+                3131,
+                264,
+                4514,
+                8000,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3897055255042182,
+            "compression_ratio": 0.8292682926829268,
+            "no_speech_prob": 0.00801573134958744,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7827342748641968
+                },
+                {
+                    "word": " review",
+                    "start": 0.14,
+                    "end": 0.44,
+                    "probability": 0.9608021378517151
+                },
+                {
+                    "word": " the",
+                    "start": 0.44,
+                    "end": 0.6,
+                    "probability": 0.9923972487449646
+                },
+                {
+                    "word": " safety",
+                    "start": 0.6,
+                    "end": 0.88,
+                    "probability": 0.9721668362617493
+                },
+                {
+                    "word": " measures.",
+                    "start": 0.88,
+                    "end": 1.28,
+                    "probability": 0.9954782128334045
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

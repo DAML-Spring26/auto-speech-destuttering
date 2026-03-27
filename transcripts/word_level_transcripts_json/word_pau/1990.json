@@ -1,0 +1,101 @@
+{
+    "text": " We need to schedule a meeting to review the quarterly results.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.3,
+            "text": " We need to schedule a meeting to review the quarterly results.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                7567,
+                257,
+                3440,
+                281,
+                3131,
+                264,
+                38633,
+                3542,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2660753091176351,
+            "compression_ratio": 0.9538461538461539,
+            "no_speech_prob": 0.004139200784265995,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7850257754325867
+                },
+                {
+                    "word": " need",
+                    "start": 0.12,
+                    "end": 0.24,
+                    "probability": 0.9959089756011963
+                },
+                {
+                    "word": " to",
+                    "start": 0.24,
+                    "end": 0.36,
+                    "probability": 0.9989323019981384
+                },
+                {
+                    "word": " schedule",
+                    "start": 0.36,
+                    "end": 0.74,
+                    "probability": 0.9788720011711121
+                },
+                {
+                    "word": " a",
+                    "start": 0.74,
+                    "end": 0.96,
+                    "probability": 0.9774091243743896
+                },
+                {
+                    "word": " meeting",
+                    "start": 0.96,
+                    "end": 1.24,
+                    "probability": 0.9812823534011841
+                },
+                {
+                    "word": " to",
+                    "start": 1.24,
+                    "end": 1.5,
+                    "probability": 0.99134361743927
+                },
+                {
+                    "word": " review",
+                    "start": 1.5,
+                    "end": 2.12,
+                    "probability": 0.9893723130226135
+                },
+                {
+                    "word": " the",
+                    "start": 2.12,
+                    "end": 5.18,
+                    "probability": 0.6937294602394104
+                },
+                {
+                    "word": " quarterly",
+                    "start": 5.18,
+                    "end": 5.7,
+                    "probability": 0.9508886933326721
+                },
+                {
+                    "word": " results.",
+                    "start": 5.7,
+                    "end": 6.3,
+                    "probability": 0.9932148456573486
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

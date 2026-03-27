@@ -1,0 +1,118 @@
+{
+    "text": " the doctor advises getting a flu shot before the winter season",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.58,
+            "text": " the doctor advises",
+            "tokens": [
+                50364,
+                264,
+                4631,
+                1551,
+                3598,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48312916475183826,
+            "compression_ratio": 1.0163934426229508,
+            "no_speech_prob": 0.0040836455300450325,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.4306410253047943
+                },
+                {
+                    "word": " doctor",
+                    "start": 0.14,
+                    "end": 0.58,
+                    "probability": 0.6466104984283447
+                },
+                {
+                    "word": " advises",
+                    "start": 0.58,
+                    "end": 1.58,
+                    "probability": 0.9323502779006958
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.619999999999999,
+            "end": 6.68,
+            "text": " getting a flu shot before the winter season",
+            "tokens": [
+                50569,
+                1242,
+                257,
+                5029,
+                3347,
+                949,
+                264,
+                6355,
+                3196,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48312916475183826,
+            "compression_ratio": 1.0163934426229508,
+            "no_speech_prob": 0.0040836455300450325,
+            "words": [
+                {
+                    "word": " getting",
+                    "start": 3.619999999999999,
+                    "end": 4.34,
+                    "probability": 0.3024791479110718
+                },
+                {
+                    "word": " a",
+                    "start": 4.34,
+                    "end": 4.54,
+                    "probability": 0.9937025308609009
+                },
+                {
+                    "word": " flu",
+                    "start": 4.54,
+                    "end": 4.8,
+                    "probability": 0.954384982585907
+                },
+                {
+                    "word": " shot",
+                    "start": 4.8,
+                    "end": 5.16,
+                    "probability": 0.9908645749092102
+                },
+                {
+                    "word": " before",
+                    "start": 5.16,
+                    "end": 5.56,
+                    "probability": 0.9952558875083923
+                },
+                {
+                    "word": " the",
+                    "start": 5.56,
+                    "end": 5.8,
+                    "probability": 0.9861572980880737
+                },
+                {
+                    "word": " winter",
+                    "start": 5.8,
+                    "end": 6.1,
+                    "probability": 0.9795727133750916
+                },
+                {
+                    "word": " season",
+                    "start": 6.1,
+                    "end": 6.68,
+                    "probability": 0.9937201738357544
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

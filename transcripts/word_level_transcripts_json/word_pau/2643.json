@@ -1,0 +1,94 @@
+{
+    "text": " I think we should reconsider our approach to this problem.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.56,
+            "text": " I think we should reconsider our approach to this problem.",
+            "tokens": [
+                50364,
+                286,
+                519,
+                321,
+                820,
+                40497,
+                527,
+                3109,
+                281,
+                341,
+                1154,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3231797899518694,
+            "compression_ratio": 0.9354838709677419,
+            "no_speech_prob": 0.031034229323267937,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.8974905610084534
+                },
+                {
+                    "word": " think",
+                    "start": 0.18,
+                    "end": 0.42,
+                    "probability": 0.9946286082267761
+                },
+                {
+                    "word": " we",
+                    "start": 0.42,
+                    "end": 0.7,
+                    "probability": 0.9936715364456177
+                },
+                {
+                    "word": " should",
+                    "start": 0.7,
+                    "end": 0.94,
+                    "probability": 0.9983633160591125
+                },
+                {
+                    "word": " reconsider",
+                    "start": 0.94,
+                    "end": 1.62,
+                    "probability": 0.996519923210144
+                },
+                {
+                    "word": " our",
+                    "start": 1.62,
+                    "end": 1.96,
+                    "probability": 0.9879988431930542
+                },
+                {
+                    "word": " approach",
+                    "start": 1.96,
+                    "end": 2.52,
+                    "probability": 0.9991533756256104
+                },
+                {
+                    "word": " to",
+                    "start": 2.52,
+                    "end": 2.82,
+                    "probability": 0.9629473686218262
+                },
+                {
+                    "word": " this",
+                    "start": 2.82,
+                    "end": 5.88,
+                    "probability": 0.4383750855922699
+                },
+                {
+                    "word": " problem.",
+                    "start": 5.88,
+                    "end": 6.56,
+                    "probability": 0.9750136733055115
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

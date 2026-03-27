@@ -1,0 +1,81 @@
+{
+    "text": " Have you updated your social media profane recently?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.98,
+            "text": " Have you updated your social media profane recently?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                10588,
+                428,
+                2093,
+                3021,
+                1740,
+                1929,
+                3938,
+                30,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3515454805814303,
+            "compression_ratio": 0.9122807017543859,
+            "no_speech_prob": 0.005835881922394037,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.9250413775444031
+                },
+                {
+                    "word": " you",
+                    "start": 0.18,
+                    "end": 0.34,
+                    "probability": 0.9969798922538757
+                },
+                {
+                    "word": " updated",
+                    "start": 0.34,
+                    "end": 0.82,
+                    "probability": 0.9868035912513733
+                },
+                {
+                    "word": " your",
+                    "start": 0.82,
+                    "end": 1.12,
+                    "probability": 0.9930363297462463
+                },
+                {
+                    "word": " social",
+                    "start": 1.12,
+                    "end": 1.52,
+                    "probability": 0.9884361028671265
+                },
+                {
+                    "word": " media",
+                    "start": 1.52,
+                    "end": 1.88,
+                    "probability": 0.9927399754524231
+                },
+                {
+                    "word": " profane",
+                    "start": 1.88,
+                    "end": 2.38,
+                    "probability": 0.6886597573757172
+                },
+                {
+                    "word": " recently?",
+                    "start": 2.38,
+                    "end": 2.98,
+                    "probability": 0.997089684009552
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

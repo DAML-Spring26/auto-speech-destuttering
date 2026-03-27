@@ -1,0 +1,59 @@
+{
+    "text": " Please review the annual result.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.36,
+            "text": " Please review the annual result.",
+            "tokens": [
+                50364,
+                2555,
+                3131,
+                264,
+                9784,
+                1874,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5278085072835287,
+            "compression_ratio": 0.8205128205128205,
+            "no_speech_prob": 0.018454575911164284,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.6346429586410522
+                },
+                {
+                    "word": " review",
+                    "start": 0.18,
+                    "end": 0.52,
+                    "probability": 0.9878944754600525
+                },
+                {
+                    "word": " the",
+                    "start": 0.52,
+                    "end": 0.7,
+                    "probability": 0.9533412456512451
+                },
+                {
+                    "word": " annual",
+                    "start": 0.7,
+                    "end": 0.98,
+                    "probability": 0.82942795753479
+                },
+                {
+                    "word": " result.",
+                    "start": 0.98,
+                    "end": 1.36,
+                    "probability": 0.5884097814559937
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

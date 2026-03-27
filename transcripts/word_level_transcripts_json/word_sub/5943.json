@@ -1,0 +1,83 @@
+{
+    "text": " Renewable energy sources are becoming increasingly cost-effective.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.9,
+            "text": " Renewable energy sources are becoming increasingly cost-effective.",
+            "tokens": [
+                50364,
+                12883,
+                1023,
+                712,
+                2281,
+                7139,
+                366,
+                5617,
+                12980,
+                2063,
+                12,
+                45122,
+                13,
+                50576
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27993618647257484,
+            "compression_ratio": 0.9705882352941176,
+            "no_speech_prob": 0.0028024862986057997,
+            "words": [
+                {
+                    "word": " Renewable",
+                    "start": 0.0,
+                    "end": 0.62,
+                    "probability": 0.9676434397697449
+                },
+                {
+                    "word": " energy",
+                    "start": 0.62,
+                    "end": 0.98,
+                    "probability": 0.9828127026557922
+                },
+                {
+                    "word": " sources",
+                    "start": 0.98,
+                    "end": 1.56,
+                    "probability": 0.997391939163208
+                },
+                {
+                    "word": " are",
+                    "start": 1.56,
+                    "end": 1.86,
+                    "probability": 0.9973467588424683
+                },
+                {
+                    "word": " becoming",
+                    "start": 1.86,
+                    "end": 2.3,
+                    "probability": 0.9973449110984802
+                },
+                {
+                    "word": " increasingly",
+                    "start": 2.3,
+                    "end": 2.9,
+                    "probability": 0.9987272620201111
+                },
+                {
+                    "word": " cost",
+                    "start": 2.9,
+                    "end": 3.36,
+                    "probability": 0.9718831181526184
+                },
+                {
+                    "word": "-effective.",
+                    "start": 3.36,
+                    "end": 3.9,
+                    "probability": 0.7651311159133911
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

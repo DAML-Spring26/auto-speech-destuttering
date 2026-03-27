@@ -1,0 +1,73 @@
+{
+    "text": " The company investing in new software solutions.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.86,
+            "text": " The company investing in new software solutions.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                10978,
+                294,
+                777,
+                4722,
+                6547,
+                13,
+                50536
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48808314583518286,
+            "compression_ratio": 0.9056603773584906,
+            "no_speech_prob": 0.005328333470970392,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.4565638303756714
+                },
+                {
+                    "word": " company",
+                    "start": 0.1,
+                    "end": 0.52,
+                    "probability": 0.9865951538085938
+                },
+                {
+                    "word": " investing",
+                    "start": 0.52,
+                    "end": 1.34,
+                    "probability": 0.8984538912773132
+                },
+                {
+                    "word": " in",
+                    "start": 1.34,
+                    "end": 1.62,
+                    "probability": 0.9540274739265442
+                },
+                {
+                    "word": " new",
+                    "start": 1.62,
+                    "end": 1.78,
+                    "probability": 0.6830942630767822
+                },
+                {
+                    "word": " software",
+                    "start": 1.78,
+                    "end": 2.28,
+                    "probability": 0.9639435410499573
+                },
+                {
+                    "word": " solutions.",
+                    "start": 2.28,
+                    "end": 2.86,
+                    "probability": 0.9947382807731628
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

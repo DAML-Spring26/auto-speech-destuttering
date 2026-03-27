@@ -1,0 +1,68 @@
+{
+    "text": " Have you updated your antivirus hardware?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.82,
+            "text": " Have you updated your antivirus hardware?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                10588,
+                428,
+                2511,
+                592,
+                9619,
+                8837,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2936014731725057,
+            "compression_ratio": 0.8913043478260869,
+            "no_speech_prob": 0.011532404460012913,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7543004155158997
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.24,
+                    "probability": 0.9941474199295044
+                },
+                {
+                    "word": " updated",
+                    "start": 0.24,
+                    "end": 0.6,
+                    "probability": 0.9396505355834961
+                },
+                {
+                    "word": " your",
+                    "start": 0.6,
+                    "end": 0.84,
+                    "probability": 0.9920504689216614
+                },
+                {
+                    "word": " antivirus",
+                    "start": 0.84,
+                    "end": 1.4,
+                    "probability": 0.8708319465319315
+                },
+                {
+                    "word": " hardware?",
+                    "start": 1.4,
+                    "end": 1.82,
+                    "probability": 0.7735350131988525
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

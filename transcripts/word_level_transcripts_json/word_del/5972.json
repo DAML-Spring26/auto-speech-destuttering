@@ -1,0 +1,95 @@
+{
+    "text": " If you arrived earlier, you would have seen the presentation.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.24,
+            "text": " If you arrived earlier, you would have seen the presentation.",
+            "tokens": [
+                50364,
+                759,
+                291,
+                6678,
+                3071,
+                11,
+                291,
+                576,
+                362,
+                1612,
+                264,
+                5860,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26463691393534344,
+            "compression_ratio": 0.9384615384615385,
+            "no_speech_prob": 0.011304544284939766,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.8791724443435669
+                },
+                {
+                    "word": " you",
+                    "start": 0.22,
+                    "end": 0.36,
+                    "probability": 0.9876471757888794
+                },
+                {
+                    "word": " arrived",
+                    "start": 0.36,
+                    "end": 0.7,
+                    "probability": 0.8754451274871826
+                },
+                {
+                    "word": " earlier,",
+                    "start": 0.7,
+                    "end": 1.22,
+                    "probability": 0.9944803714752197
+                },
+                {
+                    "word": " you",
+                    "start": 1.64,
+                    "end": 1.76,
+                    "probability": 0.9949213862419128
+                },
+                {
+                    "word": " would",
+                    "start": 1.76,
+                    "end": 1.92,
+                    "probability": 0.9909029603004456
+                },
+                {
+                    "word": " have",
+                    "start": 1.92,
+                    "end": 2.06,
+                    "probability": 0.9842682480812073
+                },
+                {
+                    "word": " seen",
+                    "start": 2.06,
+                    "end": 2.32,
+                    "probability": 0.9947938323020935
+                },
+                {
+                    "word": " the",
+                    "start": 2.32,
+                    "end": 2.52,
+                    "probability": 0.9906304478645325
+                },
+                {
+                    "word": " presentation.",
+                    "start": 2.52,
+                    "end": 3.24,
+                    "probability": 0.9902048110961914
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

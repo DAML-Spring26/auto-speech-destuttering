@@ -1,0 +1,88 @@
+{
+    "text": " Don't forget to bring your passport for international travel.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.72,
+            "text": " Don't forget to bring your passport for international travel.",
+            "tokens": [
+                50364,
+                1468,
+                380,
+                2870,
+                281,
+                1565,
+                428,
+                24694,
+                337,
+                5058,
+                3147,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24428624766213552,
+            "compression_ratio": 0.9384615384615385,
+            "no_speech_prob": 0.004544973373413086,
+            "words": [
+                {
+                    "word": " Don't",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.8999214172363281
+                },
+                {
+                    "word": " forget",
+                    "start": 0.26,
+                    "end": 0.5,
+                    "probability": 0.994925856590271
+                },
+                {
+                    "word": " to",
+                    "start": 0.5,
+                    "end": 0.74,
+                    "probability": 0.9970158338546753
+                },
+                {
+                    "word": " bring",
+                    "start": 0.74,
+                    "end": 0.9,
+                    "probability": 0.9752122163772583
+                },
+                {
+                    "word": " your",
+                    "start": 0.9,
+                    "end": 1.04,
+                    "probability": 0.9521547555923462
+                },
+                {
+                    "word": " passport",
+                    "start": 1.04,
+                    "end": 1.42,
+                    "probability": 0.9475654363632202
+                },
+                {
+                    "word": " for",
+                    "start": 1.42,
+                    "end": 1.72,
+                    "probability": 0.8888721466064453
+                },
+                {
+                    "word": " international",
+                    "start": 1.72,
+                    "end": 2.04,
+                    "probability": 0.9642851948738098
+                },
+                {
+                    "word": " travel.",
+                    "start": 2.04,
+                    "end": 2.72,
+                    "probability": 0.9859833121299744
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,46 +1,134 @@
 {
-    "text": " in case of a medical emergency, dial 911 immediately.",
+    "text": " In capability underpir corona,current-degree pause and lung pressure and is now playing the drum that would cause labeled breathing",
     "segments": [
         {
             "id": 0,
             "seek": 0,
-            "start": 0.0,
-            "end": 2.32,
-            "text": " in case of a medical emergency,",
+            "start": 0.26,
+            "end": 1.94,
+            "text": " In capability underpir corona,",
             "tokens": [
-                50364,
-                294,
-                1389,
-                295,
-                257,
-                4625,
-                7473,
+                50377,
+                682,
+                13759,
+                833,
+                9501,
+                27103,
                 11,
-                50480
+                50461
             ],
-            "temperature": 0.0,
-            "avg_logprob": -0.5367093086242676,
-            "compression_ratio": 0.9298245614035088,
-            "no_speech_prob": 0.007309748325496912
+            "temperature": 1.0,
+            "avg_logprob": -5.5418659210205075,
+            "compression_ratio": 1.2358490566037736,
+            "no_speech_prob": 0.04396003484725952
         },
         {
             "id": 1,
             "seek": 0,
-            "start": 5.2,
-            "end": 7.44,
-            "text": " dial 911 immediately.",
+            "start": 3.7600000000000002,
+            "end": 6.3,
+            "text": "current-degree pause",
             "tokens": [
-                50624,
-                5502,
-                26901,
-                4258,
-                13,
-                50736
+                50552,
+                49827,
+                12,
+                34368,
+                10465,
+                50679
             ],
-            "temperature": 0.0,
-            "avg_logprob": -0.5367093086242676,
-            "compression_ratio": 0.9298245614035088,
-            "no_speech_prob": 0.007309748325496912
+            "temperature": 1.0,
+            "avg_logprob": -5.5418659210205075,
+            "compression_ratio": 1.2358490566037736,
+            "no_speech_prob": 0.04396003484725952
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 7.44,
+            "end": 9.74,
+            "text": " and lung pressure",
+            "tokens": [
+                50736,
+                293,
+                16730,
+                3321,
+                50851
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.5418659210205075,
+            "compression_ratio": 1.2358490566037736,
+            "no_speech_prob": 0.04396003484725952
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 9.74,
+            "end": 11.34,
+            "text": " and is now playing",
+            "tokens": [
+                50851,
+                293,
+                307,
+                586,
+                2433,
+                50931
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.5418659210205075,
+            "compression_ratio": 1.2358490566037736,
+            "no_speech_prob": 0.04396003484725952
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 11.34,
+            "end": 19.52,
+            "text": " the drum",
+            "tokens": [
+                50931,
+                264,
+                10206,
+                51340
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.5418659210205075,
+            "compression_ratio": 1.2358490566037736,
+            "no_speech_prob": 0.04396003484725952
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 19.52,
+            "end": 23.34,
+            "text": " that would cause labeled",
+            "tokens": [
+                51340,
+                300,
+                576,
+                3082,
+                21335,
+                51531
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.5418659210205075,
+            "compression_ratio": 1.2358490566037736,
+            "no_speech_prob": 0.04396003484725952
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 27.34,
+            "end": 29.78,
+            "text": " breathing",
+            "tokens": [
+                51731,
+                9570,
+                51853
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.5418659210205075,
+            "compression_ratio": 1.2358490566037736,
+            "no_speech_prob": 0.04396003484725952
         }
     ],
     "language": "en"

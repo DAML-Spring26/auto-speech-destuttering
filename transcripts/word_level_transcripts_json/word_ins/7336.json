@@ -1,0 +1,82 @@
+{
+    "text": " What's the plot twist everyone's are talking about?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.72,
+            "text": " What's the plot twist everyone's are talking about?",
+            "tokens": [
+                50364,
+                708,
+                311,
+                264,
+                7542,
+                8203,
+                1518,
+                311,
+                366,
+                1417,
+                466,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30916203771318707,
+            "compression_ratio": 0.8793103448275862,
+            "no_speech_prob": 0.040557000786066055,
+            "words": [
+                {
+                    "word": " What's",
+                    "start": 0.0,
+                    "end": 0.56,
+                    "probability": 0.8281614780426025
+                },
+                {
+                    "word": " the",
+                    "start": 0.56,
+                    "end": 0.66,
+                    "probability": 0.9927540421485901
+                },
+                {
+                    "word": " plot",
+                    "start": 0.66,
+                    "end": 0.86,
+                    "probability": 0.9960896968841553
+                },
+                {
+                    "word": " twist",
+                    "start": 0.86,
+                    "end": 1.18,
+                    "probability": 0.9657865762710571
+                },
+                {
+                    "word": " everyone's",
+                    "start": 1.18,
+                    "end": 1.82,
+                    "probability": 0.6906973421573639
+                },
+                {
+                    "word": " are",
+                    "start": 1.82,
+                    "end": 1.92,
+                    "probability": 0.64842289686203
+                },
+                {
+                    "word": " talking",
+                    "start": 1.92,
+                    "end": 2.34,
+                    "probability": 0.9756916165351868
+                },
+                {
+                    "word": " about?",
+                    "start": 2.34,
+                    "end": 2.72,
+                    "probability": 0.9987665414810181
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

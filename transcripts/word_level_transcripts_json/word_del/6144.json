@@ -1,0 +1,80 @@
+{
+    "text": " she working on this project for several months.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.06,
+            "text": " she working on this project for several months.",
+            "tokens": [
+                50364,
+                750,
+                1364,
+                322,
+                341,
+                1716,
+                337,
+                2940,
+                2493,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35620168844858807,
+            "compression_ratio": 0.8545454545454545,
+            "no_speech_prob": 0.002223364543169737,
+            "words": [
+                {
+                    "word": " she",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.5971041321754456
+                },
+                {
+                    "word": " working",
+                    "start": 0.18,
+                    "end": 0.48,
+                    "probability": 0.8065397143363953
+                },
+                {
+                    "word": " on",
+                    "start": 0.48,
+                    "end": 0.72,
+                    "probability": 0.9957790374755859
+                },
+                {
+                    "word": " this",
+                    "start": 0.72,
+                    "end": 0.88,
+                    "probability": 0.9953075051307678
+                },
+                {
+                    "word": " project",
+                    "start": 0.88,
+                    "end": 1.24,
+                    "probability": 0.9991531372070312
+                },
+                {
+                    "word": " for",
+                    "start": 1.24,
+                    "end": 1.5,
+                    "probability": 0.9952364563941956
+                },
+                {
+                    "word": " several",
+                    "start": 1.5,
+                    "end": 1.74,
+                    "probability": 0.9990624785423279
+                },
+                {
+                    "word": " months.",
+                    "start": 1.74,
+                    "end": 2.06,
+                    "probability": 0.9951053857803345
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

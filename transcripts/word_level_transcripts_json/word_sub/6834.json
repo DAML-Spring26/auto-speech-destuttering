@@ -1,0 +1,89 @@
+{
+    "text": " What's your assessment of the company's current marketing strategy?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.14,
+            "text": " What's your assessment of the company's current marketing strategy?",
+            "tokens": [
+                50364,
+                708,
+                311,
+                428,
+                9687,
+                295,
+                264,
+                2237,
+                311,
+                2190,
+                6370,
+                5206,
+                30,
+                50538
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27713311513264977,
+            "compression_ratio": 0.9710144927536232,
+            "no_speech_prob": 0.002242429181933403,
+            "words": [
+                {
+                    "word": " What's",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.8373563289642334
+                },
+                {
+                    "word": " your",
+                    "start": 0.32,
+                    "end": 0.44,
+                    "probability": 0.9975107908248901
+                },
+                {
+                    "word": " assessment",
+                    "start": 0.44,
+                    "end": 0.96,
+                    "probability": 0.9879898428916931
+                },
+                {
+                    "word": " of",
+                    "start": 0.96,
+                    "end": 1.26,
+                    "probability": 0.9908139109611511
+                },
+                {
+                    "word": " the",
+                    "start": 1.26,
+                    "end": 1.36,
+                    "probability": 0.9806633591651917
+                },
+                {
+                    "word": " company's",
+                    "start": 1.36,
+                    "end": 1.9,
+                    "probability": 0.9778625071048737
+                },
+                {
+                    "word": " current",
+                    "start": 1.9,
+                    "end": 2.12,
+                    "probability": 0.9976552724838257
+                },
+                {
+                    "word": " marketing",
+                    "start": 2.12,
+                    "end": 2.52,
+                    "probability": 0.989733874797821
+                },
+                {
+                    "word": " strategy?",
+                    "start": 2.52,
+                    "end": 3.14,
+                    "probability": 0.956231415271759
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

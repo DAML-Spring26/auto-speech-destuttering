@@ -1,0 +1,106 @@
+{
+    "text": " WAM have you seen my... a blue sweater anywhere?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.38,
+            "text": " WAM have you seen my...",
+            "tokens": [
+                50364,
+                343,
+                2865,
+                362,
+                291,
+                1612,
+                452,
+                485,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9350376129150391,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.023439427837729454,
+            "words": [
+                {
+                    "word": " WAM",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.1976410448551178
+                },
+                {
+                    "word": " have",
+                    "start": 0.32,
+                    "end": 0.62,
+                    "probability": 0.5716416239738464
+                },
+                {
+                    "word": " you",
+                    "start": 0.62,
+                    "end": 0.78,
+                    "probability": 0.9935474991798401
+                },
+                {
+                    "word": " seen",
+                    "start": 0.78,
+                    "end": 0.96,
+                    "probability": 0.9931695461273193
+                },
+                {
+                    "word": " my...",
+                    "start": 0.96,
+                    "end": 2.38,
+                    "probability": 0.38034532964229584
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.38,
+            "end": 3.68,
+            "text": " a blue sweater anywhere?",
+            "tokens": [
+                50494,
+                257,
+                3344,
+                26550,
+                4992,
+                30,
+                50594
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9350376129150391,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.023439427837729454,
+            "words": [
+                {
+                    "word": " a",
+                    "start": 2.38,
+                    "end": 2.74,
+                    "probability": 0.3072739243507385
+                },
+                {
+                    "word": " blue",
+                    "start": 2.74,
+                    "end": 2.94,
+                    "probability": 0.8883869647979736
+                },
+                {
+                    "word": " sweater",
+                    "start": 2.94,
+                    "end": 3.24,
+                    "probability": 0.8989603519439697
+                },
+                {
+                    "word": " anywhere?",
+                    "start": 3.24,
+                    "end": 3.68,
+                    "probability": 0.627489447593689
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

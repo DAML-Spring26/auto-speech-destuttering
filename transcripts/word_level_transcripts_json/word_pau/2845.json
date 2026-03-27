@@ -1,0 +1,74 @@
+{
+    "text": " The latest update includes several performance optimizations.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.48,
+            "text": " The latest update includes several performance optimizations.",
+            "tokens": [
+                50364,
+                440,
+                6792,
+                5623,
+                5974,
+                2940,
+                3389,
+                5028,
+                14455,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28727694352467853,
+            "compression_ratio": 0.9242424242424242,
+            "no_speech_prob": 0.011492269113659859,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.7736398577690125
+                },
+                {
+                    "word": " latest",
+                    "start": 0.18,
+                    "end": 0.4,
+                    "probability": 0.9979546070098877
+                },
+                {
+                    "word": " update",
+                    "start": 0.4,
+                    "end": 0.88,
+                    "probability": 0.9882440567016602
+                },
+                {
+                    "word": " includes",
+                    "start": 0.88,
+                    "end": 1.7,
+                    "probability": 0.9915878176689148
+                },
+                {
+                    "word": " several",
+                    "start": 1.7,
+                    "end": 3.72,
+                    "probability": 0.9664690494537354
+                },
+                {
+                    "word": " performance",
+                    "start": 3.72,
+                    "end": 4.36,
+                    "probability": 0.8932579755783081
+                },
+                {
+                    "word": " optimizations.",
+                    "start": 4.36,
+                    "end": 5.48,
+                    "probability": 0.9717359244823456
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,59 @@
+{
+    "text": " The program includes practical expenses.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.44,
+            "text": " The program includes practical expenses.",
+            "tokens": [
+                50364,
+                440,
+                1461,
+                5974,
+                8496,
+                15506,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.445409615834554,
+            "compression_ratio": 0.851063829787234,
+            "no_speech_prob": 0.005102321971207857,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6942157745361328
+                },
+                {
+                    "word": " program",
+                    "start": 0.1,
+                    "end": 0.54,
+                    "probability": 0.7004538178443909
+                },
+                {
+                    "word": " includes",
+                    "start": 0.54,
+                    "end": 1.08,
+                    "probability": 0.9924926161766052
+                },
+                {
+                    "word": " practical",
+                    "start": 1.08,
+                    "end": 1.62,
+                    "probability": 0.987801730632782
+                },
+                {
+                    "word": " expenses.",
+                    "start": 1.62,
+                    "end": 2.44,
+                    "probability": 0.9924578666687012
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

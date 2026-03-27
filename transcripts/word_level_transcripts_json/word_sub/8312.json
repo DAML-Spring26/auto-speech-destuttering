@@ -1,0 +1,87 @@
+{
+    "text": " The researcher observed a significant increase in stellar activity.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.14,
+            "text": " The researcher observed a significant increase in stellar activity.",
+            "tokens": [
+                50364,
+                440,
+                21751,
+                13095,
+                257,
+                4776,
+                3488,
+                294,
+                42333,
+                5191,
+                13,
+                50584
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4231434602003831,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.0025445662904530764,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8061449527740479
+                },
+                {
+                    "word": " researcher",
+                    "start": 0.12,
+                    "end": 0.74,
+                    "probability": 0.7651646733283997
+                },
+                {
+                    "word": " observed",
+                    "start": 0.74,
+                    "end": 1.28,
+                    "probability": 0.980948805809021
+                },
+                {
+                    "word": " a",
+                    "start": 1.28,
+                    "end": 1.62,
+                    "probability": 0.9495830535888672
+                },
+                {
+                    "word": " significant",
+                    "start": 1.62,
+                    "end": 2.32,
+                    "probability": 0.9787744283676147
+                },
+                {
+                    "word": " increase",
+                    "start": 2.32,
+                    "end": 2.92,
+                    "probability": 0.983238697052002
+                },
+                {
+                    "word": " in",
+                    "start": 2.92,
+                    "end": 3.16,
+                    "probability": 0.9986928105354309
+                },
+                {
+                    "word": " stellar",
+                    "start": 3.16,
+                    "end": 3.48,
+                    "probability": 0.451699435710907
+                },
+                {
+                    "word": " activity.",
+                    "start": 3.48,
+                    "end": 4.14,
+                    "probability": 0.9976502060890198
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

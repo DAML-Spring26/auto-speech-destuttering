@@ -1,0 +1,59 @@
+{
+    "text": " Where is the nearest bank?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.8,
+            "text": " Where is the nearest bank?",
+            "tokens": [
+                50364,
+                2305,
+                307,
+                264,
+                23831,
+                3765,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.513484901852078,
+            "compression_ratio": 0.7647058823529411,
+            "no_speech_prob": 0.02215421386063099,
+            "words": [
+                {
+                    "word": " Where",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.7305033802986145
+                },
+                {
+                    "word": " is",
+                    "start": 0.24,
+                    "end": 0.44,
+                    "probability": 0.9694767594337463
+                },
+                {
+                    "word": " the",
+                    "start": 0.44,
+                    "end": 0.74,
+                    "probability": 0.6187424659729004
+                },
+                {
+                    "word": " nearest",
+                    "start": 0.74,
+                    "end": 1.4,
+                    "probability": 0.39466747641563416
+                },
+                {
+                    "word": " bank?",
+                    "start": 1.4,
+                    "end": 1.8,
+                    "probability": 0.9862254858016968
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

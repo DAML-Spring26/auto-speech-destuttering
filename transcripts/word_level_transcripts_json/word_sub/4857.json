@@ -1,0 +1,94 @@
+{
+    "text": " Could you please forward the quarterly report to the CEO?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.04,
+            "text": " Could you please forward the quarterly report to the CEO?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                2128,
+                264,
+                38633,
+                2275,
+                281,
+                264,
+                9282,
+                30,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32287815638950895,
+            "compression_ratio": 0.9193548387096774,
+            "no_speech_prob": 0.0654878318309784,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.902718186378479
+                },
+                {
+                    "word": " you",
+                    "start": 0.18,
+                    "end": 0.32,
+                    "probability": 0.9984595775604248
+                },
+                {
+                    "word": " please",
+                    "start": 0.32,
+                    "end": 0.62,
+                    "probability": 0.9971094727516174
+                },
+                {
+                    "word": " forward",
+                    "start": 0.62,
+                    "end": 1.04,
+                    "probability": 0.9758384823799133
+                },
+                {
+                    "word": " the",
+                    "start": 1.04,
+                    "end": 1.26,
+                    "probability": 0.9867978692054749
+                },
+                {
+                    "word": " quarterly",
+                    "start": 1.26,
+                    "end": 1.76,
+                    "probability": 0.8183586001396179
+                },
+                {
+                    "word": " report",
+                    "start": 1.76,
+                    "end": 2.22,
+                    "probability": 0.9572049379348755
+                },
+                {
+                    "word": " to",
+                    "start": 2.22,
+                    "end": 2.5,
+                    "probability": 0.8374239206314087
+                },
+                {
+                    "word": " the",
+                    "start": 2.5,
+                    "end": 2.64,
+                    "probability": 0.985781729221344
+                },
+                {
+                    "word": " CEO?",
+                    "start": 2.64,
+                    "end": 3.04,
+                    "probability": 0.9761186242103577
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

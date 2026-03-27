@@ -1,0 +1,66 @@
+{
+    "text": " A rainbow appeared after the rain.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.78,
+            "text": " A rainbow appeared after the rain.",
+            "tokens": [
+                50364,
+                316,
+                18526,
+                8516,
+                934,
+                264,
+                4830,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48272552490234377,
+            "compression_ratio": 0.8717948717948718,
+            "no_speech_prob": 0.003365681506693363,
+            "words": [
+                {
+                    "word": " A",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.3519790470600128
+                },
+                {
+                    "word": " rainbow",
+                    "start": 0.22,
+                    "end": 0.64,
+                    "probability": 0.5794987082481384
+                },
+                {
+                    "word": " appeared",
+                    "start": 0.64,
+                    "end": 1.04,
+                    "probability": 0.9906706809997559
+                },
+                {
+                    "word": " after",
+                    "start": 1.04,
+                    "end": 1.42,
+                    "probability": 0.9748535752296448
+                },
+                {
+                    "word": " the",
+                    "start": 1.42,
+                    "end": 1.54,
+                    "probability": 0.9909785985946655
+                },
+                {
+                    "word": " rain.",
+                    "start": 1.54,
+                    "end": 1.78,
+                    "probability": 0.968512237071991
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

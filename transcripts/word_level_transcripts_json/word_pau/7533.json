@@ -1,0 +1,80 @@
+{
+    "text": " the latest update improves systems stability and performance.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.78,
+            "text": " the latest update improves systems stability and performance.",
+            "tokens": [
+                50364,
+                264,
+                6792,
+                5623,
+                24771,
+                3652,
+                11826,
+                293,
+                3389,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5283361673355103,
+            "compression_ratio": 0.9682539682539683,
+            "no_speech_prob": 0.0017111636698246002,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5187603235244751
+                },
+                {
+                    "word": " latest",
+                    "start": 0.14,
+                    "end": 0.64,
+                    "probability": 0.9966124892234802
+                },
+                {
+                    "word": " update",
+                    "start": 0.64,
+                    "end": 1.2,
+                    "probability": 0.8885957598686218
+                },
+                {
+                    "word": " improves",
+                    "start": 1.2,
+                    "end": 1.76,
+                    "probability": 0.5362758636474609
+                },
+                {
+                    "word": " systems",
+                    "start": 1.76,
+                    "end": 2.44,
+                    "probability": 0.6453669667243958
+                },
+                {
+                    "word": " stability",
+                    "start": 2.44,
+                    "end": 3.08,
+                    "probability": 0.8161969184875488
+                },
+                {
+                    "word": " and",
+                    "start": 3.08,
+                    "end": 5.18,
+                    "probability": 0.8532466888427734
+                },
+                {
+                    "word": " performance.",
+                    "start": 5.18,
+                    "end": 5.78,
+                    "probability": 0.9775821566581726
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

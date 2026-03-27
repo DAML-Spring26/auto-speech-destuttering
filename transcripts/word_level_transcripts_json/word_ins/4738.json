@@ -1,0 +1,108 @@
+{
+    "text": " Please remain calm and um follow the instructions of the flight crew.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.82,
+            "text": " Please remain calm and um follow the instructions of the flight crew.",
+            "tokens": [
+                50364,
+                2555,
+                6222,
+                7151,
+                293,
+                1105,
+                1524,
+                264,
+                9415,
+                295,
+                264,
+                7018,
+                7260,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26296937465667725,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.029961824417114258,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.5,
+                    "probability": 0.7390896081924438
+                },
+                {
+                    "word": " remain",
+                    "start": 0.5,
+                    "end": 0.86,
+                    "probability": 0.9921339750289917
+                },
+                {
+                    "word": " calm",
+                    "start": 0.86,
+                    "end": 1.24,
+                    "probability": 0.9977778792381287
+                },
+                {
+                    "word": " and",
+                    "start": 1.24,
+                    "end": 1.54,
+                    "probability": 0.9834244847297668
+                },
+                {
+                    "word": " um",
+                    "start": 1.54,
+                    "end": 1.68,
+                    "probability": 0.7176961302757263
+                },
+                {
+                    "word": " follow",
+                    "start": 1.68,
+                    "end": 2.06,
+                    "probability": 0.8667479157447815
+                },
+                {
+                    "word": " the",
+                    "start": 2.06,
+                    "end": 2.32,
+                    "probability": 0.9939747452735901
+                },
+                {
+                    "word": " instructions",
+                    "start": 2.32,
+                    "end": 2.84,
+                    "probability": 0.9952020645141602
+                },
+                {
+                    "word": " of",
+                    "start": 2.84,
+                    "end": 3.14,
+                    "probability": 0.996240496635437
+                },
+                {
+                    "word": " the",
+                    "start": 3.14,
+                    "end": 3.24,
+                    "probability": 0.9953041076660156
+                },
+                {
+                    "word": " flight",
+                    "start": 3.24,
+                    "end": 3.48,
+                    "probability": 0.9526631832122803
+                },
+                {
+                    "word": " crew.",
+                    "start": 3.48,
+                    "end": 3.82,
+                    "probability": 0.9979792237281799
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

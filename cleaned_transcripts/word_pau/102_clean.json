@@ -1,12 +1,12 @@
 {
-    "text": " The professor explained the theory in detail.",
+    "text": " The professor explained the theory new.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 6.0,
-            "text": " The professor explained the theory in detail.",
+            "end": 7.0,
+            "text": " The professor explained the theory new.",
             "tokens": [
                 50364,
                 440,
@@ -14,15 +14,14 @@
                 8825,
                 264,
                 5261,
-                294,
-                2607,
+                777,
                 13,
-                50664
+                50714
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.5104924548755992,
-            "compression_ratio": 0.9,
-            "no_speech_prob": 0.017031926661729813
+            "avg_logprob": -0.7625454902648926,
+            "compression_ratio": 0.8863636363636364,
+            "no_speech_prob": 0.016775209456682205
         }
     ],
     "language": "en"

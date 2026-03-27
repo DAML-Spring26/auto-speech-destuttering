@@ -1,0 +1,80 @@
+{
+    "text": " Global warming is causing sea levels to race.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.52,
+            "text": " Global warming is causing sea levels to race.",
+            "tokens": [
+                50364,
+                14465,
+                17983,
+                307,
+                9853,
+                4158,
+                4358,
+                281,
+                4569,
+                13,
+                50556
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34640057881673175,
+            "compression_ratio": 0.9,
+            "no_speech_prob": 0.009855503216385841,
+            "words": [
+                {
+                    "word": " Global",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.47121551632881165
+                },
+                {
+                    "word": " warming",
+                    "start": 0.4,
+                    "end": 1.0,
+                    "probability": 0.9743620157241821
+                },
+                {
+                    "word": " is",
+                    "start": 1.0,
+                    "end": 1.5,
+                    "probability": 0.9620564579963684
+                },
+                {
+                    "word": " causing",
+                    "start": 1.5,
+                    "end": 2.0,
+                    "probability": 0.9980911612510681
+                },
+                {
+                    "word": " sea",
+                    "start": 2.0,
+                    "end": 2.42,
+                    "probability": 0.9869743585586548
+                },
+                {
+                    "word": " levels",
+                    "start": 2.42,
+                    "end": 2.86,
+                    "probability": 0.9888307452201843
+                },
+                {
+                    "word": " to",
+                    "start": 2.86,
+                    "end": 3.22,
+                    "probability": 0.9982534050941467
+                },
+                {
+                    "word": " race.",
+                    "start": 3.22,
+                    "end": 3.52,
+                    "probability": 0.8744208812713623
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

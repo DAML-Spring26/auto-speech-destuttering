@@ -1,0 +1,120 @@
+{
+    "text": " The organization is planning to launch. It's need initiative next quarter.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.34,
+            "text": " The organization is planning to launch.",
+            "tokens": [
+                50364,
+                440,
+                4475,
+                307,
+                5038,
+                281,
+                4025,
+                13,
+                50502
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5733322344328228,
+            "compression_ratio": 0.9866666666666667,
+            "no_speech_prob": 0.005290968809276819,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8619869351387024
+                },
+                {
+                    "word": " organization",
+                    "start": 0.14,
+                    "end": 0.98,
+                    "probability": 0.6727918386459351
+                },
+                {
+                    "word": " is",
+                    "start": 0.98,
+                    "end": 1.22,
+                    "probability": 0.9948809146881104
+                },
+                {
+                    "word": " planning",
+                    "start": 1.22,
+                    "end": 1.56,
+                    "probability": 0.9985141158103943
+                },
+                {
+                    "word": " to",
+                    "start": 1.56,
+                    "end": 1.84,
+                    "probability": 0.9988093376159668
+                },
+                {
+                    "word": " launch.",
+                    "start": 1.84,
+                    "end": 2.34,
+                    "probability": 0.9952113032341003
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.8000000000000003,
+            "end": 6.12,
+            "text": " It's need initiative next quarter.",
+            "tokens": [
+                50554,
+                467,
+                311,
+                643,
+                11552,
+                958,
+                6555,
+                13,
+                50692
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5733322344328228,
+            "compression_ratio": 0.9866666666666667,
+            "no_speech_prob": 0.005290968809276819,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 3.5199999999999996,
+                    "end": 4.02,
+                    "probability": 0.9226797223091125
+                },
+                {
+                    "word": " need",
+                    "start": 4.02,
+                    "end": 4.28,
+                    "probability": 0.23844598233699799
+                },
+                {
+                    "word": " initiative",
+                    "start": 4.28,
+                    "end": 4.98,
+                    "probability": 0.6668611764907837
+                },
+                {
+                    "word": " next",
+                    "start": 4.98,
+                    "end": 5.48,
+                    "probability": 0.9295092225074768
+                },
+                {
+                    "word": " quarter.",
+                    "start": 5.48,
+                    "end": 6.12,
+                    "probability": 0.9767245054244995
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

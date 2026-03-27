@@ -1,0 +1,53 @@
+{
+    "text": " Let's swim in here.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.58,
+            "text": " Let's swim in here.",
+            "tokens": [
+                50364,
+                961,
+                311,
+                7110,
+                294,
+                510,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.49295934041341144,
+            "compression_ratio": 0.7037037037037037,
+            "no_speech_prob": 0.02535426989197731,
+            "words": [
+                {
+                    "word": " Let's",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.8126824200153351
+                },
+                {
+                    "word": " swim",
+                    "start": 0.44,
+                    "end": 0.72,
+                    "probability": 0.6612129807472229
+                },
+                {
+                    "word": " in",
+                    "start": 0.72,
+                    "end": 1.24,
+                    "probability": 0.5861756801605225
+                },
+                {
+                    "word": " here.",
+                    "start": 1.24,
+                    "end": 1.58,
+                    "probability": 0.9855064153671265
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

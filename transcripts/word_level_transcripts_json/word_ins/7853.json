@@ -1,0 +1,75 @@
+{
+    "text": " The firewall prevented the unauthorized access attempt.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.38,
+            "text": " The firewall prevented the unauthorized access attempt.",
+            "tokens": [
+                50364,
+                440,
+                36109,
+                27314,
+                264,
+                517,
+                34224,
+                1602,
+                2105,
+                5217,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3371442648080679,
+            "compression_ratio": 0.9166666666666666,
+            "no_speech_prob": 0.04237712174654007,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.54,
+                    "probability": 0.8699216246604919
+                },
+                {
+                    "word": " firewall",
+                    "start": 0.54,
+                    "end": 1.1,
+                    "probability": 0.6391560435295105
+                },
+                {
+                    "word": " prevented",
+                    "start": 1.1,
+                    "end": 2.44,
+                    "probability": 0.7837262749671936
+                },
+                {
+                    "word": " the",
+                    "start": 2.44,
+                    "end": 2.86,
+                    "probability": 0.9812275767326355
+                },
+                {
+                    "word": " unauthorized",
+                    "start": 2.86,
+                    "end": 3.54,
+                    "probability": 0.9785223801930746
+                },
+                {
+                    "word": " access",
+                    "start": 3.54,
+                    "end": 3.9,
+                    "probability": 0.9944620728492737
+                },
+                {
+                    "word": " attempt.",
+                    "start": 3.9,
+                    "end": 4.38,
+                    "probability": 0.9930961728096008
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

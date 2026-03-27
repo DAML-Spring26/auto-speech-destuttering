@@ -1,0 +1,118 @@
+{
+    "text": " The CEO announced that the company would be you know, restructuring next year.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.52,
+            "text": " The CEO announced that the company would be you know, restructuring next year.",
+            "tokens": [
+                50364,
+                440,
+                9282,
+                7548,
+                300,
+                264,
+                2237,
+                576,
+                312,
+                291,
+                458,
+                11,
+                1472,
+                1757,
+                1345,
+                958,
+                1064,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20901994705200194,
+            "compression_ratio": 0.9873417721518988,
+            "no_speech_prob": 0.040308691561222076,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.8,
+                    "probability": 0.9537070393562317
+                },
+                {
+                    "word": " CEO",
+                    "start": 0.8,
+                    "end": 1.28,
+                    "probability": 0.9130059480667114
+                },
+                {
+                    "word": " announced",
+                    "start": 1.28,
+                    "end": 1.84,
+                    "probability": 0.9981337189674377
+                },
+                {
+                    "word": " that",
+                    "start": 1.84,
+                    "end": 2.22,
+                    "probability": 0.9836983680725098
+                },
+                {
+                    "word": " the",
+                    "start": 2.22,
+                    "end": 2.36,
+                    "probability": 0.9914423823356628
+                },
+                {
+                    "word": " company",
+                    "start": 2.36,
+                    "end": 2.78,
+                    "probability": 0.9959712624549866
+                },
+                {
+                    "word": " would",
+                    "start": 2.78,
+                    "end": 3.04,
+                    "probability": 0.9889278411865234
+                },
+                {
+                    "word": " be",
+                    "start": 3.04,
+                    "end": 3.24,
+                    "probability": 0.983596682548523
+                },
+                {
+                    "word": " you",
+                    "start": 3.24,
+                    "end": 3.44,
+                    "probability": 0.713029682636261
+                },
+                {
+                    "word": " know,",
+                    "start": 3.44,
+                    "end": 3.68,
+                    "probability": 0.930838942527771
+                },
+                {
+                    "word": " restructuring",
+                    "start": 4.26,
+                    "end": 4.88,
+                    "probability": 0.9835386474927267
+                },
+                {
+                    "word": " next",
+                    "start": 4.88,
+                    "end": 5.24,
+                    "probability": 0.9934511184692383
+                },
+                {
+                    "word": " year.",
+                    "start": 5.24,
+                    "end": 5.52,
+                    "probability": 0.9957291483879089
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

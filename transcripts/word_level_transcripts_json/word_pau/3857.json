@@ -1,0 +1,112 @@
+{
+    "text": " Did you catch the game last night? It was intense.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.72,
+            "text": " Did you catch the game last night?",
+            "tokens": [
+                50364,
+                2589,
+                291,
+                3745,
+                264,
+                1216,
+                1036,
+                1818,
+                30,
+                50506
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3512590352226706,
+            "compression_ratio": 0.8620689655172413,
+            "no_speech_prob": 0.02496158704161644,
+            "words": [
+                {
+                    "word": " Did",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7453906536102295
+                },
+                {
+                    "word": " you",
+                    "start": 0.12,
+                    "end": 0.28,
+                    "probability": 0.9969320297241211
+                },
+                {
+                    "word": " catch",
+                    "start": 0.28,
+                    "end": 0.76,
+                    "probability": 0.9959338307380676
+                },
+                {
+                    "word": " the",
+                    "start": 0.76,
+                    "end": 1.94,
+                    "probability": 0.768669605255127
+                },
+                {
+                    "word": " game",
+                    "start": 1.94,
+                    "end": 2.12,
+                    "probability": 0.9611561894416809
+                },
+                {
+                    "word": " last",
+                    "start": 2.12,
+                    "end": 2.4,
+                    "probability": 0.9937385320663452
+                },
+                {
+                    "word": " night?",
+                    "start": 2.4,
+                    "end": 2.72,
+                    "probability": 0.9994198083877563
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.86,
+            "end": 3.54,
+            "text": " It was intense.",
+            "tokens": [
+                50506,
+                467,
+                390,
+                9447,
+                13,
+                50572
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3512590352226706,
+            "compression_ratio": 0.8620689655172413,
+            "no_speech_prob": 0.02496158704161644,
+            "words": [
+                {
+                    "word": " It",
+                    "start": 2.86,
+                    "end": 2.92,
+                    "probability": 0.9806880950927734
+                },
+                {
+                    "word": " was",
+                    "start": 2.92,
+                    "end": 3.06,
+                    "probability": 0.9991876482963562
+                },
+                {
+                    "word": " intense.",
+                    "start": 3.06,
+                    "end": 3.54,
+                    "probability": 0.9961613416671753
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

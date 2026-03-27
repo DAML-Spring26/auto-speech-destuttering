@@ -1,0 +1,89 @@
+{
+    "text": " The hotel check-in time is like after 3pm.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.14,
+            "text": " The hotel check-in time is like after 3pm.",
+            "tokens": [
+                50364,
+                440,
+                7622,
+                1520,
+                12,
+                259,
+                565,
+                307,
+                411,
+                934,
+                805,
+                14395,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28647613525390625,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.017387764528393745,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.8511667251586914
+                },
+                {
+                    "word": " hotel",
+                    "start": 0.28,
+                    "end": 0.46,
+                    "probability": 0.9735605120658875
+                },
+                {
+                    "word": " check",
+                    "start": 0.46,
+                    "end": 0.72,
+                    "probability": 0.9210425019264221
+                },
+                {
+                    "word": "-in",
+                    "start": 0.72,
+                    "end": 0.86,
+                    "probability": 0.8386581242084503
+                },
+                {
+                    "word": " time",
+                    "start": 0.86,
+                    "end": 1.02,
+                    "probability": 0.9828681945800781
+                },
+                {
+                    "word": " is",
+                    "start": 1.02,
+                    "end": 1.2,
+                    "probability": 0.9970301389694214
+                },
+                {
+                    "word": " like",
+                    "start": 1.2,
+                    "end": 1.32,
+                    "probability": 0.9753426313400269
+                },
+                {
+                    "word": " after",
+                    "start": 1.32,
+                    "end": 1.62,
+                    "probability": 0.9730451703071594
+                },
+                {
+                    "word": " 3pm.",
+                    "start": 1.62,
+                    "end": 2.14,
+                    "probability": 0.8214035034179688
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

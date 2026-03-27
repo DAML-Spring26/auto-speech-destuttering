@@ -1,12 +1,12 @@
 {
-    "text": " The new product has become very popular to its innovative design and affordability.",
+    "text": " The new product has become a popular innovative design and affordability.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 4.32,
-            "text": " The new product has become very popular to its innovative design and affordability.",
+            "end": 4.0,
+            "text": " The new product has become a popular innovative design and affordability.",
             "tokens": [
                 50364,
                 440,
@@ -14,22 +14,20 @@
                 1674,
                 575,
                 1813,
-                588,
+                257,
                 3743,
-                281,
-                1080,
                 12999,
                 1715,
                 293,
                 6157,
                 2310,
                 13,
-                50580
+                50564
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.21402598751915825,
-            "compression_ratio": 1.077922077922078,
-            "no_speech_prob": 0.004840517416596413
+            "avg_logprob": -0.3222576379776001,
+            "compression_ratio": 1.0138888888888888,
+            "no_speech_prob": 0.004475885536521673
         }
     ],
     "language": "en"

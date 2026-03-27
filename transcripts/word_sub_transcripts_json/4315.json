@@ -1,0 +1,59 @@
+{
+    "text": " We should project sensitive information.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.82,
+            "text": " We should project sensitive information.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                1716,
+                9477,
+                1589,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47103749381171334,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.010335395112633705,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6103482246398926
+                },
+                {
+                    "word": " should",
+                    "start": 0.14,
+                    "end": 0.26,
+                    "probability": 0.981799304485321
+                },
+                {
+                    "word": " project",
+                    "start": 0.26,
+                    "end": 0.56,
+                    "probability": 0.9861627221107483
+                },
+                {
+                    "word": " sensitive",
+                    "start": 0.56,
+                    "end": 1.1,
+                    "probability": 0.4520803689956665
+                },
+                {
+                    "word": " information.",
+                    "start": 1.1,
+                    "end": 1.82,
+                    "probability": 0.9983898401260376
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

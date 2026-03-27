@@ -1,0 +1,90 @@
+{
+    "text": " How does co-operative distance affect the session faking?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.54,
+            "text": " How does co-operative distance affect the session faking?",
+            "tokens": [
+                50364,
+                1012,
+                775,
+                598,
+                12,
+                7192,
+                1166,
+                4560,
+                3345,
+                264,
+                5481,
+                283,
+                2456,
+                30,
+                50498
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6951385140419006,
+            "compression_ratio": 0.9193548387096774,
+            "no_speech_prob": 0.0065316068939864635,
+            "words": [
+                {
+                    "word": " How",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6114105582237244
+                },
+                {
+                    "word": " does",
+                    "start": 0.14,
+                    "end": 0.3,
+                    "probability": 0.9785159826278687
+                },
+                {
+                    "word": " co",
+                    "start": 0.3,
+                    "end": 0.48,
+                    "probability": 0.17575202882289886
+                },
+                {
+                    "word": "-operative",
+                    "start": 0.48,
+                    "end": 0.74,
+                    "probability": 0.5292946596940359
+                },
+                {
+                    "word": " distance",
+                    "start": 0.74,
+                    "end": 1.16,
+                    "probability": 0.2487328201532364
+                },
+                {
+                    "word": " affect",
+                    "start": 1.16,
+                    "end": 1.64,
+                    "probability": 0.7742584347724915
+                },
+                {
+                    "word": " the",
+                    "start": 1.64,
+                    "end": 1.88,
+                    "probability": 0.6514157652854919
+                },
+                {
+                    "word": " session",
+                    "start": 1.88,
+                    "end": 2.16,
+                    "probability": 0.8384721875190735
+                },
+                {
+                    "word": " faking?",
+                    "start": 2.16,
+                    "end": 2.54,
+                    "probability": 0.7995187342166901
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

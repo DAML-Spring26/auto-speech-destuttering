@@ -1,0 +1,88 @@
+{
+    "text": " The museum currently showcasing an exhibition on ancient civilizations.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.5,
+            "text": " The museum currently showcasing an exhibition on ancient civilizations.",
+            "tokens": [
+                50364,
+                440,
+                8441,
+                4362,
+                29794,
+                3349,
+                364,
+                14414,
+                322,
+                7832,
+                40749,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30638630049569265,
+            "compression_ratio": 0.9861111111111112,
+            "no_speech_prob": 0.004807520192116499,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5092860460281372
+                },
+                {
+                    "word": " museum",
+                    "start": 0.1,
+                    "end": 0.36,
+                    "probability": 0.8234739303588867
+                },
+                {
+                    "word": " currently",
+                    "start": 0.36,
+                    "end": 0.78,
+                    "probability": 0.9879507422447205
+                },
+                {
+                    "word": " showcasing",
+                    "start": 0.78,
+                    "end": 1.56,
+                    "probability": 0.994997650384903
+                },
+                {
+                    "word": " an",
+                    "start": 1.56,
+                    "end": 1.7,
+                    "probability": 0.9780105948448181
+                },
+                {
+                    "word": " exhibition",
+                    "start": 1.7,
+                    "end": 2.14,
+                    "probability": 0.9989998936653137
+                },
+                {
+                    "word": " on",
+                    "start": 2.14,
+                    "end": 2.36,
+                    "probability": 0.9888258576393127
+                },
+                {
+                    "word": " ancient",
+                    "start": 2.36,
+                    "end": 2.7,
+                    "probability": 0.9498993754386902
+                },
+                {
+                    "word": " civilizations.",
+                    "start": 2.7,
+                    "end": 3.5,
+                    "probability": 0.8457074761390686
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

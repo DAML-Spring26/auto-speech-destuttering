@@ -1,0 +1,108 @@
+{
+    "text": " The concert was so loud that my ears were ringing after it.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.34,
+            "text": " The concert was so loud that my ears were ringing after it.",
+            "tokens": [
+                50364,
+                440,
+                8543,
+                390,
+                370,
+                6588,
+                300,
+                452,
+                8798,
+                645,
+                18423,
+                934,
+                309,
+                13,
+                50584
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3134233355522156,
+            "compression_ratio": 0.9516129032258065,
+            "no_speech_prob": 0.01046307384967804,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.713700532913208
+                },
+                {
+                    "word": " concert",
+                    "start": 0.12,
+                    "end": 0.5,
+                    "probability": 0.8340712189674377
+                },
+                {
+                    "word": " was",
+                    "start": 0.5,
+                    "end": 0.7,
+                    "probability": 0.9792073369026184
+                },
+                {
+                    "word": " so",
+                    "start": 0.7,
+                    "end": 0.88,
+                    "probability": 0.9922749400138855
+                },
+                {
+                    "word": " loud",
+                    "start": 0.88,
+                    "end": 1.06,
+                    "probability": 0.9858177304267883
+                },
+                {
+                    "word": " that",
+                    "start": 1.06,
+                    "end": 1.3,
+                    "probability": 0.962641716003418
+                },
+                {
+                    "word": " my",
+                    "start": 1.3,
+                    "end": 3.04,
+                    "probability": 0.6181517243385315
+                },
+                {
+                    "word": " ears",
+                    "start": 3.04,
+                    "end": 3.22,
+                    "probability": 0.9879996180534363
+                },
+                {
+                    "word": " were",
+                    "start": 3.22,
+                    "end": 3.4,
+                    "probability": 0.9972332119941711
+                },
+                {
+                    "word": " ringing",
+                    "start": 3.4,
+                    "end": 3.62,
+                    "probability": 0.9979119896888733
+                },
+                {
+                    "word": " after",
+                    "start": 3.62,
+                    "end": 4.1,
+                    "probability": 0.7924388647079468
+                },
+                {
+                    "word": " it.",
+                    "start": 4.1,
+                    "end": 4.34,
+                    "probability": 0.983914852142334
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

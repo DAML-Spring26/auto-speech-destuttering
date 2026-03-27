@@ -1,0 +1,73 @@
+{
+    "text": " children should project their eyes while reading.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.5,
+            "text": " children should project their eyes while reading.",
+            "tokens": [
+                50364,
+                2227,
+                820,
+                1716,
+                641,
+                2575,
+                1339,
+                3760,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4273579337380149,
+            "compression_ratio": 0.8909090909090909,
+            "no_speech_prob": 0.00628655357286334,
+            "words": [
+                {
+                    "word": " children",
+                    "start": 0.0,
+                    "end": 0.48,
+                    "probability": 0.5825567245483398
+                },
+                {
+                    "word": " should",
+                    "start": 0.48,
+                    "end": 0.76,
+                    "probability": 0.9951476454734802
+                },
+                {
+                    "word": " project",
+                    "start": 0.76,
+                    "end": 1.18,
+                    "probability": 0.9677607417106628
+                },
+                {
+                    "word": " their",
+                    "start": 1.18,
+                    "end": 1.4,
+                    "probability": 0.8488776683807373
+                },
+                {
+                    "word": " eyes",
+                    "start": 1.4,
+                    "end": 1.76,
+                    "probability": 0.9894393086433411
+                },
+                {
+                    "word": " while",
+                    "start": 1.76,
+                    "end": 2.06,
+                    "probability": 0.9791715741157532
+                },
+                {
+                    "word": " reading.",
+                    "start": 2.06,
+                    "end": 2.5,
+                    "probability": 0.9980244636535645
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

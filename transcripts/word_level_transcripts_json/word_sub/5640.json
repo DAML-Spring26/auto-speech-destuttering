@@ -1,0 +1,67 @@
+{
+    "text": " Artificial intelligence requires massive computing powder.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.56,
+            "text": " Artificial intelligence requires massive computing powder.",
+            "tokens": [
+                50364,
+                5735,
+                10371,
+                7599,
+                7029,
+                5994,
+                15866,
+                6341,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3067126924341375,
+            "compression_ratio": 0.9354838709677419,
+            "no_speech_prob": 0.002444351324811578,
+            "words": [
+                {
+                    "word": " Artificial",
+                    "start": 0.0,
+                    "end": 0.72,
+                    "probability": 0.9603853821754456
+                },
+                {
+                    "word": " intelligence",
+                    "start": 0.72,
+                    "end": 1.4,
+                    "probability": 0.9761381149291992
+                },
+                {
+                    "word": " requires",
+                    "start": 1.4,
+                    "end": 1.9,
+                    "probability": 0.9932128190994263
+                },
+                {
+                    "word": " massive",
+                    "start": 1.9,
+                    "end": 2.44,
+                    "probability": 0.957159698009491
+                },
+                {
+                    "word": " computing",
+                    "start": 2.44,
+                    "end": 3.04,
+                    "probability": 0.9862441420555115
+                },
+                {
+                    "word": " powder.",
+                    "start": 3.04,
+                    "end": 3.56,
+                    "probability": 0.9177660942077637
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

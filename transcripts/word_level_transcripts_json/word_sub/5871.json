@@ -1,0 +1,81 @@
+{
+    "text": " What's the estimated completion date for the prospect?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.38,
+            "text": " What's the estimated completion date for the prospect?",
+            "tokens": [
+                50364,
+                708,
+                311,
+                264,
+                14109,
+                19372,
+                4002,
+                337,
+                264,
+                15005,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2594917554121751,
+            "compression_ratio": 0.9310344827586207,
+            "no_speech_prob": 0.00358356861397624,
+            "words": [
+                {
+                    "word": " What's",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.8574244379997253
+                },
+                {
+                    "word": " the",
+                    "start": 0.38,
+                    "end": 0.52,
+                    "probability": 0.9650399684906006
+                },
+                {
+                    "word": " estimated",
+                    "start": 0.52,
+                    "end": 1.18,
+                    "probability": 0.9802789688110352
+                },
+                {
+                    "word": " completion",
+                    "start": 1.18,
+                    "end": 2.04,
+                    "probability": 0.9931463599205017
+                },
+                {
+                    "word": " date",
+                    "start": 2.04,
+                    "end": 2.4,
+                    "probability": 0.9991921782493591
+                },
+                {
+                    "word": " for",
+                    "start": 2.4,
+                    "end": 2.7,
+                    "probability": 0.9714870452880859
+                },
+                {
+                    "word": " the",
+                    "start": 2.7,
+                    "end": 2.86,
+                    "probability": 0.987682044506073
+                },
+                {
+                    "word": " prospect?",
+                    "start": 2.86,
+                    "end": 3.38,
+                    "probability": 0.9857555031776428
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

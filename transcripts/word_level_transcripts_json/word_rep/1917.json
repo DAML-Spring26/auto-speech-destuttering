@@ -1,0 +1,87 @@
+{
+    "text": " we decided to order take out instead of cooking.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.44,
+            "text": " we decided to order take out instead of cooking.",
+            "tokens": [
+                50364,
+                321,
+                3047,
+                281,
+                1668,
+                747,
+                484,
+                2602,
+                295,
+                6361,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.49573337114774263,
+            "compression_ratio": 0.9230769230769231,
+            "no_speech_prob": 0.019876407459378242,
+            "words": [
+                {
+                    "word": " we",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.5405048727989197
+                },
+                {
+                    "word": " decided",
+                    "start": 0.26,
+                    "end": 0.8,
+                    "probability": 0.8947643041610718
+                },
+                {
+                    "word": " to",
+                    "start": 0.8,
+                    "end": 1.06,
+                    "probability": 0.9894211292266846
+                },
+                {
+                    "word": " order",
+                    "start": 1.06,
+                    "end": 1.26,
+                    "probability": 0.9027308821678162
+                },
+                {
+                    "word": " take",
+                    "start": 1.26,
+                    "end": 1.46,
+                    "probability": 0.789315402507782
+                },
+                {
+                    "word": " out",
+                    "start": 1.46,
+                    "end": 1.64,
+                    "probability": 0.36398541927337646
+                },
+                {
+                    "word": " instead",
+                    "start": 1.64,
+                    "end": 1.94,
+                    "probability": 0.9573063254356384
+                },
+                {
+                    "word": " of",
+                    "start": 1.94,
+                    "end": 2.16,
+                    "probability": 0.9981151819229126
+                },
+                {
+                    "word": " cooking.",
+                    "start": 2.16,
+                    "end": 2.44,
+                    "probability": 0.5829817056655884
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

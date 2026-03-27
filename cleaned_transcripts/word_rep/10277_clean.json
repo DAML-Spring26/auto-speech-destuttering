@@ -1,12 +1,12 @@
 {
-    "text": " Could you recommend a good, good local restaurant?",
+    "text": " Could you recommend a good, good restaurant?",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 4.5,
-            "text": " Could you recommend a good, good local restaurant?",
+            "end": 4.0,
+            "text": " Could you recommend a good, good restaurant?",
             "tokens": [
                 50364,
                 7497,
@@ -16,15 +16,14 @@
                 665,
                 11,
                 665,
-                2654,
                 6383,
                 30,
-                50589
+                50564
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.3492708206176758,
-            "compression_ratio": 0.9433962264150944,
-            "no_speech_prob": 0.015896230936050415
+            "avg_logprob": -0.3224133253097534,
+            "compression_ratio": 0.9361702127659575,
+            "no_speech_prob": 0.023085076361894608
         }
     ],
     "language": "en"

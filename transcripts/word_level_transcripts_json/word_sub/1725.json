@@ -1,0 +1,111 @@
+{
+    "text": " The chef prepared a go-am-a-deal for the wedding reception.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.24,
+            "text": " The chef prepared a go-am-a-deal for the wedding reception.",
+            "tokens": [
+                50364,
+                440,
+                10530,
+                4927,
+                257,
+                352,
+                12,
+                335,
+                12,
+                64,
+                12,
+                46394,
+                337,
+                264,
+                8523,
+                21682,
+                13,
+                50539
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.46023624821713094,
+            "compression_ratio": 0.921875,
+            "no_speech_prob": 0.0066697546280920506,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6923347115516663
+                },
+                {
+                    "word": " chef",
+                    "start": 0.12,
+                    "end": 0.38,
+                    "probability": 0.607729971408844
+                },
+                {
+                    "word": " prepared",
+                    "start": 0.38,
+                    "end": 0.92,
+                    "probability": 0.919860303401947
+                },
+                {
+                    "word": " a",
+                    "start": 0.92,
+                    "end": 1.16,
+                    "probability": 0.9812749028205872
+                },
+                {
+                    "word": " go",
+                    "start": 1.16,
+                    "end": 1.38,
+                    "probability": 0.5648126602172852
+                },
+                {
+                    "word": "-am",
+                    "start": 1.38,
+                    "end": 1.54,
+                    "probability": 0.3965292423963547
+                },
+                {
+                    "word": "-a",
+                    "start": 1.54,
+                    "end": 1.62,
+                    "probability": 0.4290277361869812
+                },
+                {
+                    "word": "-deal",
+                    "start": 1.62,
+                    "end": 1.88,
+                    "probability": 0.9121366143226624
+                },
+                {
+                    "word": " for",
+                    "start": 1.88,
+                    "end": 2.14,
+                    "probability": 0.9873550534248352
+                },
+                {
+                    "word": " the",
+                    "start": 2.14,
+                    "end": 2.28,
+                    "probability": 0.9912848472595215
+                },
+                {
+                    "word": " wedding",
+                    "start": 2.28,
+                    "end": 2.58,
+                    "probability": 0.8394431471824646
+                },
+                {
+                    "word": " reception.",
+                    "start": 2.58,
+                    "end": 3.24,
+                    "probability": 0.9984128475189209
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

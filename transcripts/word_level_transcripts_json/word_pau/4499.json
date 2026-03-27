@@ -1,0 +1,88 @@
+{
+    "text": " I'm not sure if I can attend the party.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.98,
+            "text": " I'm not sure if I can attend the party.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                406,
+                988,
+                498,
+                286,
+                393,
+                6888,
+                264,
+                3595,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35973341124398367,
+            "compression_ratio": 0.8297872340425532,
+            "no_speech_prob": 0.0064711179584264755,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.8909709751605988
+                },
+                {
+                    "word": " not",
+                    "start": 0.26,
+                    "end": 0.4,
+                    "probability": 0.9941111207008362
+                },
+                {
+                    "word": " sure",
+                    "start": 0.4,
+                    "end": 0.68,
+                    "probability": 0.9844244122505188
+                },
+                {
+                    "word": " if",
+                    "start": 0.68,
+                    "end": 1.06,
+                    "probability": 0.9415277242660522
+                },
+                {
+                    "word": " I",
+                    "start": 1.06,
+                    "end": 3.58,
+                    "probability": 0.4508688449859619
+                },
+                {
+                    "word": " can",
+                    "start": 3.58,
+                    "end": 3.76,
+                    "probability": 0.9973719120025635
+                },
+                {
+                    "word": " attend",
+                    "start": 3.76,
+                    "end": 4.2,
+                    "probability": 0.9961258769035339
+                },
+                {
+                    "word": " the",
+                    "start": 4.2,
+                    "end": 4.42,
+                    "probability": 0.9787616729736328
+                },
+                {
+                    "word": " party.",
+                    "start": 4.42,
+                    "end": 4.98,
+                    "probability": 0.9932405948638916
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

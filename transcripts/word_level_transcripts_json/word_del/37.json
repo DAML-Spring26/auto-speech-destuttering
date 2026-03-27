@@ -1,0 +1,87 @@
+{
+    "text": " Have you checked in your luggage the designated counter?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.54,
+            "text": " Have you checked in your luggage the designated counter?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                10033,
+                294,
+                428,
+                27744,
+                264,
+                21688,
+                5682,
+                30,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3300006206219013,
+            "compression_ratio": 0.9333333333333333,
+            "no_speech_prob": 0.003910914994776249,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.7665277719497681
+                },
+                {
+                    "word": " you",
+                    "start": 0.18,
+                    "end": 0.26,
+                    "probability": 0.990888237953186
+                },
+                {
+                    "word": " checked",
+                    "start": 0.26,
+                    "end": 0.6,
+                    "probability": 0.9818277955055237
+                },
+                {
+                    "word": " in",
+                    "start": 0.6,
+                    "end": 0.78,
+                    "probability": 0.8700019717216492
+                },
+                {
+                    "word": " your",
+                    "start": 0.78,
+                    "end": 0.94,
+                    "probability": 0.9900432825088501
+                },
+                {
+                    "word": " luggage",
+                    "start": 0.94,
+                    "end": 1.26,
+                    "probability": 0.9247888326644897
+                },
+                {
+                    "word": " the",
+                    "start": 1.26,
+                    "end": 1.48,
+                    "probability": 0.8450601696968079
+                },
+                {
+                    "word": " designated",
+                    "start": 1.48,
+                    "end": 1.94,
+                    "probability": 0.9674839377403259
+                },
+                {
+                    "word": " counter?",
+                    "start": 1.94,
+                    "end": 2.54,
+                    "probability": 0.978177547454834
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

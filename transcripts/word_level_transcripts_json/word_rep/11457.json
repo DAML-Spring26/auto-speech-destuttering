@@ -1,0 +1,116 @@
+{
+    "text": " What's the most efficient route from the hotel do to the conference centre?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.7,
+            "text": " What's the most efficient route from the hotel do to the conference centre?",
+            "tokens": [
+                50364,
+                708,
+                311,
+                264,
+                881,
+                7148,
+                7955,
+                490,
+                264,
+                7622,
+                360,
+                281,
+                264,
+                7586,
+                10093,
+                30,
+                50556
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3142937554253472,
+            "compression_ratio": 1.0869565217391304,
+            "no_speech_prob": 0.0042124297469854355,
+            "words": [
+                {
+                    "word": " What's",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.7981646955013275
+                },
+                {
+                    "word": " the",
+                    "start": 0.28,
+                    "end": 0.4,
+                    "probability": 0.9907622933387756
+                },
+                {
+                    "word": " most",
+                    "start": 0.4,
+                    "end": 0.62,
+                    "probability": 0.9963217973709106
+                },
+                {
+                    "word": " efficient",
+                    "start": 0.62,
+                    "end": 1.06,
+                    "probability": 0.9936801195144653
+                },
+                {
+                    "word": " route",
+                    "start": 1.06,
+                    "end": 1.32,
+                    "probability": 0.9739916324615479
+                },
+                {
+                    "word": " from",
+                    "start": 1.32,
+                    "end": 1.58,
+                    "probability": 0.9743732213973999
+                },
+                {
+                    "word": " the",
+                    "start": 1.58,
+                    "end": 1.72,
+                    "probability": 0.9819761514663696
+                },
+                {
+                    "word": " hotel",
+                    "start": 1.72,
+                    "end": 2.0,
+                    "probability": 0.7165948152542114
+                },
+                {
+                    "word": " do",
+                    "start": 2.0,
+                    "end": 2.38,
+                    "probability": 0.5558868050575256
+                },
+                {
+                    "word": " to",
+                    "start": 2.38,
+                    "end": 2.8,
+                    "probability": 0.933181643486023
+                },
+                {
+                    "word": " the",
+                    "start": 2.8,
+                    "end": 2.92,
+                    "probability": 0.9853090643882751
+                },
+                {
+                    "word": " conference",
+                    "start": 2.92,
+                    "end": 3.26,
+                    "probability": 0.9679579138755798
+                },
+                {
+                    "word": " centre?",
+                    "start": 3.26,
+                    "end": 3.7,
+                    "probability": 0.8293066620826721
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

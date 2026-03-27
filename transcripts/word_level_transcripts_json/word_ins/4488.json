@@ -1,0 +1,101 @@
+{
+    "text": " The nurse will be here shortly to take your blood pressure.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.48,
+            "end": 6.9,
+            "text": " The nurse will be here shortly to take your blood pressure.",
+            "tokens": [
+                50364,
+                440,
+                14012,
+                486,
+                312,
+                510,
+                13392,
+                281,
+                747,
+                428,
+                3390,
+                3321,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34496097564697265,
+            "compression_ratio": 0.9516129032258065,
+            "no_speech_prob": 0.0313410721719265,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 1.48,
+                    "end": 2.0,
+                    "probability": 0.9292245507240295
+                },
+                {
+                    "word": " nurse",
+                    "start": 2.0,
+                    "end": 2.22,
+                    "probability": 0.9795857071876526
+                },
+                {
+                    "word": " will",
+                    "start": 2.22,
+                    "end": 2.44,
+                    "probability": 0.9989846348762512
+                },
+                {
+                    "word": " be",
+                    "start": 2.44,
+                    "end": 2.6,
+                    "probability": 0.9990279674530029
+                },
+                {
+                    "word": " here",
+                    "start": 2.6,
+                    "end": 2.84,
+                    "probability": 0.9989317059516907
+                },
+                {
+                    "word": " shortly",
+                    "start": 2.84,
+                    "end": 3.34,
+                    "probability": 0.9985775947570801
+                },
+                {
+                    "word": " to",
+                    "start": 3.34,
+                    "end": 5.64,
+                    "probability": 0.48916006088256836
+                },
+                {
+                    "word": " take",
+                    "start": 5.64,
+                    "end": 5.92,
+                    "probability": 0.9974684715270996
+                },
+                {
+                    "word": " your",
+                    "start": 5.92,
+                    "end": 6.12,
+                    "probability": 0.9942595958709717
+                },
+                {
+                    "word": " blood",
+                    "start": 6.12,
+                    "end": 6.4,
+                    "probability": 0.9971991777420044
+                },
+                {
+                    "word": " pressure.",
+                    "start": 6.4,
+                    "end": 6.9,
+                    "probability": 0.9987983703613281
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

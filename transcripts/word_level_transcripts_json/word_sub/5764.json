@@ -1,0 +1,88 @@
+{
+    "text": " The nutritionist emphasized the importance of a balanced diet.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.56,
+            "text": " The nutritionist emphasized the importance of a balanced diet.",
+            "tokens": [
+                50364,
+                440,
+                14718,
+                468,
+                34068,
+                264,
+                7379,
+                295,
+                257,
+                13902,
+                6339,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40904198374067036,
+            "compression_ratio": 0.9393939393939394,
+            "no_speech_prob": 0.004012038465589285,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6265901327133179
+                },
+                {
+                    "word": " nutritionist",
+                    "start": 0.1,
+                    "end": 0.78,
+                    "probability": 0.939310610294342
+                },
+                {
+                    "word": " emphasized",
+                    "start": 0.78,
+                    "end": 1.32,
+                    "probability": 0.7277417778968811
+                },
+                {
+                    "word": " the",
+                    "start": 1.32,
+                    "end": 1.76,
+                    "probability": 0.9877063632011414
+                },
+                {
+                    "word": " importance",
+                    "start": 1.76,
+                    "end": 2.3,
+                    "probability": 0.9978371262550354
+                },
+                {
+                    "word": " of",
+                    "start": 2.3,
+                    "end": 2.6,
+                    "probability": 0.9979312419891357
+                },
+                {
+                    "word": " a",
+                    "start": 2.6,
+                    "end": 2.7,
+                    "probability": 0.9909302592277527
+                },
+                {
+                    "word": " balanced",
+                    "start": 2.7,
+                    "end": 3.08,
+                    "probability": 0.6800698637962341
+                },
+                {
+                    "word": " diet.",
+                    "start": 3.08,
+                    "end": 3.56,
+                    "probability": 0.8337910175323486
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

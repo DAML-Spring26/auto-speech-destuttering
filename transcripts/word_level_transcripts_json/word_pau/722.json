@@ -1,0 +1,128 @@
+{
+    "text": " Which character's story arc did you find most? Compelling in the series.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.12,
+            "text": " Which character's story arc did you find most?",
+            "tokens": [
+                50364,
+                3013,
+                2517,
+                311,
+                1657,
+                10346,
+                630,
+                291,
+                915,
+                881,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42889476957775297,
+            "compression_ratio": 0.972972972972973,
+            "no_speech_prob": 0.01290611457079649,
+            "words": [
+                {
+                    "word": " Which",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.6504001021385193
+                },
+                {
+                    "word": " character's",
+                    "start": 0.28,
+                    "end": 1.22,
+                    "probability": 0.6936999261379242
+                },
+                {
+                    "word": " story",
+                    "start": 1.22,
+                    "end": 1.5,
+                    "probability": 0.9697567224502563
+                },
+                {
+                    "word": " arc",
+                    "start": 1.5,
+                    "end": 1.92,
+                    "probability": 0.9475255012512207
+                },
+                {
+                    "word": " did",
+                    "start": 1.92,
+                    "end": 2.14,
+                    "probability": 0.9946017265319824
+                },
+                {
+                    "word": " you",
+                    "start": 2.14,
+                    "end": 2.28,
+                    "probability": 0.9885087609291077
+                },
+                {
+                    "word": " find",
+                    "start": 2.28,
+                    "end": 2.62,
+                    "probability": 0.9974172115325928
+                },
+                {
+                    "word": " most?",
+                    "start": 2.62,
+                    "end": 3.12,
+                    "probability": 0.893182098865509
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.78,
+            "end": 6.4,
+            "text": " Compelling in the series.",
+            "tokens": [
+                50614,
+                6620,
+                11073,
+                294,
+                264,
+                2638,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42889476957775297,
+            "compression_ratio": 0.972972972972973,
+            "no_speech_prob": 0.01290611457079649,
+            "words": [
+                {
+                    "word": " Compelling",
+                    "start": 4.78,
+                    "end": 5.54,
+                    "probability": 0.5808874219655991
+                },
+                {
+                    "word": " in",
+                    "start": 5.54,
+                    "end": 5.74,
+                    "probability": 0.9770245552062988
+                },
+                {
+                    "word": " the",
+                    "start": 5.74,
+                    "end": 5.9,
+                    "probability": 0.9506619572639465
+                },
+                {
+                    "word": " series.",
+                    "start": 5.9,
+                    "end": 6.4,
+                    "probability": 0.9833499193191528
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

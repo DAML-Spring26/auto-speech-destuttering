@@ -1,0 +1,67 @@
+{
+    "text": " The anthropologist studied cultural evolution patterns.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.76,
+            "text": " The anthropologist studied cultural evolution patterns.",
+            "tokens": [
+                50364,
+                440,
+                22727,
+                9201,
+                9454,
+                6988,
+                9303,
+                8294,
+                13,
+                50572
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4755591479214755,
+            "compression_ratio": 0.9322033898305084,
+            "no_speech_prob": 0.002809299388900399,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6002994775772095
+                },
+                {
+                    "word": " anthropologist",
+                    "start": 0.12,
+                    "end": 1.04,
+                    "probability": 0.6244542896747589
+                },
+                {
+                    "word": " studied",
+                    "start": 1.04,
+                    "end": 1.58,
+                    "probability": 0.9765108227729797
+                },
+                {
+                    "word": " cultural",
+                    "start": 1.58,
+                    "end": 2.34,
+                    "probability": 0.9654555916786194
+                },
+                {
+                    "word": " evolution",
+                    "start": 2.34,
+                    "end": 3.18,
+                    "probability": 0.9740558862686157
+                },
+                {
+                    "word": " patterns.",
+                    "start": 3.18,
+                    "end": 3.76,
+                    "probability": 0.8959179520606995
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

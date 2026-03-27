@@ -1,0 +1,95 @@
+{
+    "text": " I'm looking forward to seeing you on at the concert.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.82,
+            "text": " I'm looking forward to seeing you on at the concert.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                1237,
+                2128,
+                281,
+                2577,
+                291,
+                322,
+                412,
+                264,
+                8543,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2330397129058838,
+            "compression_ratio": 0.896551724137931,
+            "no_speech_prob": 0.025845225900411606,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.8,
+                    "probability": 0.9072060883045197
+                },
+                {
+                    "word": " looking",
+                    "start": 0.8,
+                    "end": 1.02,
+                    "probability": 0.9965038299560547
+                },
+                {
+                    "word": " forward",
+                    "start": 1.02,
+                    "end": 1.36,
+                    "probability": 0.9979761242866516
+                },
+                {
+                    "word": " to",
+                    "start": 1.36,
+                    "end": 1.58,
+                    "probability": 0.9986984729766846
+                },
+                {
+                    "word": " seeing",
+                    "start": 1.58,
+                    "end": 1.84,
+                    "probability": 0.9985957741737366
+                },
+                {
+                    "word": " you",
+                    "start": 1.84,
+                    "end": 2.08,
+                    "probability": 0.9985449314117432
+                },
+                {
+                    "word": " on",
+                    "start": 2.08,
+                    "end": 2.22,
+                    "probability": 0.9852944612503052
+                },
+                {
+                    "word": " at",
+                    "start": 2.22,
+                    "end": 2.34,
+                    "probability": 0.9355378746986389
+                },
+                {
+                    "word": " the",
+                    "start": 2.34,
+                    "end": 2.42,
+                    "probability": 0.984674334526062
+                },
+                {
+                    "word": " concert.",
+                    "start": 2.42,
+                    "end": 2.82,
+                    "probability": 0.9743472933769226
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

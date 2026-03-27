@@ -1,0 +1,122 @@
+{
+    "text": " can't believe how fast this this week flew by. Teajif everyone.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.56,
+            "text": " can't believe how fast this this week flew by.",
+            "tokens": [
+                50364,
+                393,
+                380,
+                1697,
+                577,
+                2370,
+                341,
+                341,
+                1243,
+                15728,
+                538,
+                13,
+                50502
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5447100684756324,
+            "compression_ratio": 0.9692307692307692,
+            "no_speech_prob": 0.00772206811234355,
+            "words": [
+                {
+                    "word": " can't",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.6100268959999084
+                },
+                {
+                    "word": " believe",
+                    "start": 0.36,
+                    "end": 0.62,
+                    "probability": 0.9930417537689209
+                },
+                {
+                    "word": " how",
+                    "start": 0.62,
+                    "end": 0.86,
+                    "probability": 0.9946849346160889
+                },
+                {
+                    "word": " fast",
+                    "start": 0.86,
+                    "end": 1.18,
+                    "probability": 0.9986610412597656
+                },
+                {
+                    "word": " this",
+                    "start": 1.18,
+                    "end": 1.46,
+                    "probability": 0.9898425936698914
+                },
+                {
+                    "word": " this",
+                    "start": 1.46,
+                    "end": 1.74,
+                    "probability": 0.5623205304145813
+                },
+                {
+                    "word": " week",
+                    "start": 1.74,
+                    "end": 1.9,
+                    "probability": 0.9611923098564148
+                },
+                {
+                    "word": " flew",
+                    "start": 1.9,
+                    "end": 2.14,
+                    "probability": 0.9972649812698364
+                },
+                {
+                    "word": " by.",
+                    "start": 2.14,
+                    "end": 2.56,
+                    "probability": 0.9968390464782715
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.76,
+            "end": 3.52,
+            "text": " Teajif everyone.",
+            "tokens": [
+                50502,
+                1989,
+                1805,
+                351,
+                1518,
+                13,
+                50560
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5447100684756324,
+            "compression_ratio": 0.9692307692307692,
+            "no_speech_prob": 0.00772206811234355,
+            "words": [
+                {
+                    "word": " Teajif",
+                    "start": 2.76,
+                    "end": 3.12,
+                    "probability": 0.40089476605256397
+                },
+                {
+                    "word": " everyone.",
+                    "start": 3.12,
+                    "end": 3.52,
+                    "probability": 0.8194251656532288
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

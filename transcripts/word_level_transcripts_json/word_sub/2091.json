@@ -1,0 +1,60 @@
+{
+    "text": " They installed modem security systems.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.58,
+            "text": " They installed modem security systems.",
+            "tokens": [
+                50364,
+                814,
+                8899,
+                1072,
+                443,
+                3825,
+                3652,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4114349365234375,
+            "compression_ratio": 0.8260869565217391,
+            "no_speech_prob": 0.012551205232739449,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6492425203323364
+                },
+                {
+                    "word": " installed",
+                    "start": 0.14,
+                    "end": 0.7,
+                    "probability": 0.9924088716506958
+                },
+                {
+                    "word": " modem",
+                    "start": 0.7,
+                    "end": 1.18,
+                    "probability": 0.9307147860527039
+                },
+                {
+                    "word": " security",
+                    "start": 1.18,
+                    "end": 1.78,
+                    "probability": 0.9756389260292053
+                },
+                {
+                    "word": " systems.",
+                    "start": 1.78,
+                    "end": 2.58,
+                    "probability": 0.9902493357658386
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

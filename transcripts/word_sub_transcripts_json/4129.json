@@ -1,0 +1,67 @@
+{
+    "text": " the Brina Rose at Platform 3.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.68,
+            "text": " the Brina Rose at Platform 3.",
+            "tokens": [
+                50364,
+                264,
+                1603,
+                1426,
+                12765,
+                412,
+                28707,
+                805,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8315036947076971,
+            "compression_ratio": 0.7837837837837838,
+            "no_speech_prob": 0.005302021279931068,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5635170936584473
+                },
+                {
+                    "word": " Brina",
+                    "start": 0.1,
+                    "end": 0.4,
+                    "probability": 0.30870191007852554
+                },
+                {
+                    "word": " Rose",
+                    "start": 0.4,
+                    "end": 0.66,
+                    "probability": 0.2769637107849121
+                },
+                {
+                    "word": " at",
+                    "start": 0.66,
+                    "end": 0.82,
+                    "probability": 0.42276814579963684
+                },
+                {
+                    "word": " Platform",
+                    "start": 0.82,
+                    "end": 1.16,
+                    "probability": 0.35469576716423035
+                },
+                {
+                    "word": " 3.",
+                    "start": 1.16,
+                    "end": 1.68,
+                    "probability": 0.9078840613365173
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

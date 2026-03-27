@@ -1,0 +1,160 @@
+{
+    "text": " The company's new policy aims to promote work. Life balance among you know. Employees.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.38,
+            "text": " The company's new policy aims to promote work.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                777,
+                3897,
+                24683,
+                281,
+                9773,
+                589,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23585913731501654,
+            "compression_ratio": 1.048780487804878,
+            "no_speech_prob": 0.10739100724458694,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.56,
+                    "probability": 0.819345235824585
+                },
+                {
+                    "word": " company's",
+                    "start": 0.56,
+                    "end": 1.14,
+                    "probability": 0.9771910309791565
+                },
+                {
+                    "word": " new",
+                    "start": 1.14,
+                    "end": 1.28,
+                    "probability": 0.9974059462547302
+                },
+                {
+                    "word": " policy",
+                    "start": 1.28,
+                    "end": 1.8,
+                    "probability": 0.9907366633415222
+                },
+                {
+                    "word": " aims",
+                    "start": 1.8,
+                    "end": 2.16,
+                    "probability": 0.9995760321617126
+                },
+                {
+                    "word": " to",
+                    "start": 2.16,
+                    "end": 2.4,
+                    "probability": 0.9990623593330383
+                },
+                {
+                    "word": " promote",
+                    "start": 2.4,
+                    "end": 2.72,
+                    "probability": 0.9972276091575623
+                },
+                {
+                    "word": " work.",
+                    "start": 2.72,
+                    "end": 3.38,
+                    "probability": 0.9960825443267822
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.94,
+            "end": 5.42,
+            "text": " Life balance among you know.",
+            "tokens": [
+                50564,
+                7720,
+                4772,
+                3654,
+                291,
+                458,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23585913731501654,
+            "compression_ratio": 1.048780487804878,
+            "no_speech_prob": 0.10739100724458694,
+            "words": [
+                {
+                    "word": " Life",
+                    "start": 3.94,
+                    "end": 4.16,
+                    "probability": 0.9269847869873047
+                },
+                {
+                    "word": " balance",
+                    "start": 4.16,
+                    "end": 4.58,
+                    "probability": 0.9599164128303528
+                },
+                {
+                    "word": " among",
+                    "start": 4.58,
+                    "end": 4.92,
+                    "probability": 0.9841863512992859
+                },
+                {
+                    "word": " you",
+                    "start": 4.92,
+                    "end": 5.18,
+                    "probability": 0.9740501046180725
+                },
+                {
+                    "word": " know.",
+                    "start": 5.18,
+                    "end": 5.42,
+                    "probability": 0.8966814279556274
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.08,
+            "end": 6.8,
+            "text": " Employees.",
+            "tokens": [
+                50664,
+                26878,
+                4031,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23585913731501654,
+            "compression_ratio": 1.048780487804878,
+            "no_speech_prob": 0.10739100724458694,
+            "words": [
+                {
+                    "word": " Employees.",
+                    "start": 6.08,
+                    "end": 6.8,
+                    "probability": 0.972296804189682
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

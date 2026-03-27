@@ -1,0 +1,67 @@
+{
+    "text": " The company's market spare is declining.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.12,
+            "text": " The company's market spare is declining.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                2142,
+                13798,
+                307,
+                34298,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34957398067821155,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.005375405307859182,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7540633678436279
+                },
+                {
+                    "word": " company's",
+                    "start": 0.1,
+                    "end": 0.62,
+                    "probability": 0.9638506770133972
+                },
+                {
+                    "word": " market",
+                    "start": 0.62,
+                    "end": 0.92,
+                    "probability": 0.9352099895477295
+                },
+                {
+                    "word": " spare",
+                    "start": 0.92,
+                    "end": 1.36,
+                    "probability": 0.6031771898269653
+                },
+                {
+                    "word": " is",
+                    "start": 1.36,
+                    "end": 1.68,
+                    "probability": 0.9944052696228027
+                },
+                {
+                    "word": " declining.",
+                    "start": 1.68,
+                    "end": 2.12,
+                    "probability": 0.9991726279258728
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

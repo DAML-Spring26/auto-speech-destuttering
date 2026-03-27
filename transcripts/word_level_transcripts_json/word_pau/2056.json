@@ -1,0 +1,94 @@
+{
+    "text": " We need to debug the code before the next release.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.72,
+            "text": " We need to debug the code before the next release.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                24083,
+                264,
+                3089,
+                949,
+                264,
+                958,
+                4374,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2881596769605364,
+            "compression_ratio": 0.9259259259259259,
+            "no_speech_prob": 0.004554265178740025,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7722621560096741
+                },
+                {
+                    "word": " need",
+                    "start": 0.16,
+                    "end": 0.26,
+                    "probability": 0.9939759373664856
+                },
+                {
+                    "word": " to",
+                    "start": 0.26,
+                    "end": 0.42,
+                    "probability": 0.9967405200004578
+                },
+                {
+                    "word": " debug",
+                    "start": 0.42,
+                    "end": 0.58,
+                    "probability": 0.8835788369178772
+                },
+                {
+                    "word": " the",
+                    "start": 0.58,
+                    "end": 0.78,
+                    "probability": 0.9899071455001831
+                },
+                {
+                    "word": " code",
+                    "start": 0.78,
+                    "end": 0.98,
+                    "probability": 0.9618828296661377
+                },
+                {
+                    "word": " before",
+                    "start": 0.98,
+                    "end": 1.42,
+                    "probability": 0.9880456328392029
+                },
+                {
+                    "word": " the",
+                    "start": 1.42,
+                    "end": 3.18,
+                    "probability": 0.4439017176628113
+                },
+                {
+                    "word": " next",
+                    "start": 3.18,
+                    "end": 3.36,
+                    "probability": 0.9638329148292542
+                },
+                {
+                    "word": " release.",
+                    "start": 3.36,
+                    "end": 3.72,
+                    "probability": 0.9915158748626709
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

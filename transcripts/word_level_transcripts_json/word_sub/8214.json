@@ -1,0 +1,105 @@
+{
+    "text": " The archaeologist discovered ancient pottery shards at the ex-covation site.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.06,
+            "text": " The archaeologist discovered ancient pottery shards at the ex-covation site.",
+            "tokens": [
+                50364,
+                440,
+                21894,
+                9201,
+                6941,
+                7832,
+                45272,
+                402,
+                2287,
+                412,
+                264,
+                454,
+                12,
+                1291,
+                11116,
+                3621,
+                13,
+                50572
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4294111352217825,
+            "compression_ratio": 1.0410958904109588,
+            "no_speech_prob": 0.0033305154647678137,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7691648602485657
+                },
+                {
+                    "word": " archaeologist",
+                    "start": 0.12,
+                    "end": 0.72,
+                    "probability": 0.8907415866851807
+                },
+                {
+                    "word": " discovered",
+                    "start": 0.72,
+                    "end": 1.2,
+                    "probability": 0.9868762493133545
+                },
+                {
+                    "word": " ancient",
+                    "start": 1.2,
+                    "end": 1.64,
+                    "probability": 0.9855803847312927
+                },
+                {
+                    "word": " pottery",
+                    "start": 1.64,
+                    "end": 2.1,
+                    "probability": 0.9813191890716553
+                },
+                {
+                    "word": " shards",
+                    "start": 2.1,
+                    "end": 2.6,
+                    "probability": 0.6749756336212158
+                },
+                {
+                    "word": " at",
+                    "start": 2.6,
+                    "end": 2.72,
+                    "probability": 0.8404263257980347
+                },
+                {
+                    "word": " the",
+                    "start": 2.72,
+                    "end": 2.88,
+                    "probability": 0.9752377271652222
+                },
+                {
+                    "word": " ex",
+                    "start": 2.88,
+                    "end": 3.12,
+                    "probability": 0.42826157808303833
+                },
+                {
+                    "word": "-covation",
+                    "start": 3.12,
+                    "end": 3.58,
+                    "probability": 0.5665625135103861
+                },
+                {
+                    "word": " site.",
+                    "start": 3.58,
+                    "end": 4.06,
+                    "probability": 0.9924898743629456
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

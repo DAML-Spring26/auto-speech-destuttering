@@ -1,0 +1,87 @@
+{
+    "text": " We must address both the immediate long term issues.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.12,
+            "text": " We must address both the immediate long term issues.",
+            "tokens": [
+                50364,
+                492,
+                1633,
+                2985,
+                1293,
+                264,
+                11629,
+                938,
+                1433,
+                2663,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3724819330068735,
+            "compression_ratio": 0.9285714285714286,
+            "no_speech_prob": 0.0022933336440473795,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.8181520104408264
+                },
+                {
+                    "word": " must",
+                    "start": 0.16,
+                    "end": 0.48,
+                    "probability": 0.9937513470649719
+                },
+                {
+                    "word": " address",
+                    "start": 0.48,
+                    "end": 0.82,
+                    "probability": 0.9968172311782837
+                },
+                {
+                    "word": " both",
+                    "start": 0.82,
+                    "end": 1.2,
+                    "probability": 0.9871691465377808
+                },
+                {
+                    "word": " the",
+                    "start": 1.2,
+                    "end": 1.34,
+                    "probability": 0.9873676300048828
+                },
+                {
+                    "word": " immediate",
+                    "start": 1.34,
+                    "end": 1.72,
+                    "probability": 0.9933614730834961
+                },
+                {
+                    "word": " long",
+                    "start": 1.72,
+                    "end": 2.12,
+                    "probability": 0.5834928750991821
+                },
+                {
+                    "word": " term",
+                    "start": 2.12,
+                    "end": 2.52,
+                    "probability": 0.6259944438934326
+                },
+                {
+                    "word": " issues.",
+                    "start": 2.52,
+                    "end": 3.12,
+                    "probability": 0.9923885464668274
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

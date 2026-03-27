@@ -1,0 +1,94 @@
+{
+    "text": " We should discuss the proposal in our next team meeting.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.2,
+            "text": " We should discuss the proposal in our next team meeting.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                2248,
+                264,
+                11494,
+                294,
+                527,
+                958,
+                1469,
+                3440,
+                13,
+                50636
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29377654620579313,
+            "compression_ratio": 0.9180327868852459,
+            "no_speech_prob": 0.006608325056731701,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6280734539031982
+                },
+                {
+                    "word": " should",
+                    "start": 0.12,
+                    "end": 0.24,
+                    "probability": 0.9954472184181213
+                },
+                {
+                    "word": " discuss",
+                    "start": 0.24,
+                    "end": 0.58,
+                    "probability": 0.9978724718093872
+                },
+                {
+                    "word": " the",
+                    "start": 0.58,
+                    "end": 0.86,
+                    "probability": 0.9955638647079468
+                },
+                {
+                    "word": " proposal",
+                    "start": 0.86,
+                    "end": 1.38,
+                    "probability": 0.9975308775901794
+                },
+                {
+                    "word": " in",
+                    "start": 1.38,
+                    "end": 1.9,
+                    "probability": 0.737949788570404
+                },
+                {
+                    "word": " our",
+                    "start": 1.9,
+                    "end": 4.3,
+                    "probability": 0.9271681904792786
+                },
+                {
+                    "word": " next",
+                    "start": 4.3,
+                    "end": 4.56,
+                    "probability": 0.9761117696762085
+                },
+                {
+                    "word": " team",
+                    "start": 4.56,
+                    "end": 4.88,
+                    "probability": 0.9584991335868835
+                },
+                {
+                    "word": " meeting.",
+                    "start": 4.88,
+                    "end": 5.2,
+                    "probability": 0.9959418177604675
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

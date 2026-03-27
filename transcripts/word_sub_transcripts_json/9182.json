@@ -1,0 +1,59 @@
+{
+    "text": " She completed the alignment early.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.84,
+            "text": " She completed the alignment early.",
+            "tokens": [
+                50364,
+                1240,
+                7365,
+                264,
+                18515,
+                2440,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35110296143425834,
+            "compression_ratio": 0.85,
+            "no_speech_prob": 0.006621088366955519,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.6991775631904602
+                },
+                {
+                    "word": " completed",
+                    "start": 0.22,
+                    "end": 0.8,
+                    "probability": 0.9824938178062439
+                },
+                {
+                    "word": " the",
+                    "start": 0.8,
+                    "end": 1.0,
+                    "probability": 0.996684730052948
+                },
+                {
+                    "word": " alignment",
+                    "start": 1.0,
+                    "end": 1.36,
+                    "probability": 0.9800047278404236
+                },
+                {
+                    "word": " early.",
+                    "start": 1.36,
+                    "end": 1.84,
+                    "probability": 0.8156359791755676
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

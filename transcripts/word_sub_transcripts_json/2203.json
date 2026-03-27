@@ -1,0 +1,73 @@
+{
+    "text": " They implemented new security products last month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.56,
+            "text": " They implemented new security products last month.",
+            "tokens": [
+                50364,
+                814,
+                12270,
+                777,
+                3825,
+                3383,
+                1036,
+                1618,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3930117000233043,
+            "compression_ratio": 0.8620689655172413,
+            "no_speech_prob": 0.0063217454589903355,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6187803149223328
+                },
+                {
+                    "word": " implemented",
+                    "start": 0.12,
+                    "end": 0.5,
+                    "probability": 0.7693436741828918
+                },
+                {
+                    "word": " new",
+                    "start": 0.5,
+                    "end": 0.82,
+                    "probability": 0.9362884759902954
+                },
+                {
+                    "word": " security",
+                    "start": 0.82,
+                    "end": 1.3,
+                    "probability": 0.9630459547042847
+                },
+                {
+                    "word": " products",
+                    "start": 1.3,
+                    "end": 1.86,
+                    "probability": 0.9902850985527039
+                },
+                {
+                    "word": " last",
+                    "start": 1.86,
+                    "end": 2.2,
+                    "probability": 0.9919723272323608
+                },
+                {
+                    "word": " month.",
+                    "start": 2.2,
+                    "end": 2.56,
+                    "probability": 0.992537796497345
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

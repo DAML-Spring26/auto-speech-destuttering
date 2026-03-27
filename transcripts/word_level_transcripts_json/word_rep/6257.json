@@ -1,0 +1,80 @@
+{
+    "text": " What symptoms have you been been experiencing lately?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.94,
+            "text": " What symptoms have you been been experiencing lately?",
+            "tokens": [
+                50364,
+                708,
+                8332,
+                362,
+                291,
+                668,
+                668,
+                11139,
+                12881,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41495005289713544,
+            "compression_ratio": 0.9464285714285714,
+            "no_speech_prob": 0.005073306150734425,
+            "words": [
+                {
+                    "word": " What",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.7585095763206482
+                },
+                {
+                    "word": " symptoms",
+                    "start": 0.2,
+                    "end": 0.64,
+                    "probability": 0.9926007390022278
+                },
+                {
+                    "word": " have",
+                    "start": 0.64,
+                    "end": 0.88,
+                    "probability": 0.9938686490058899
+                },
+                {
+                    "word": " you",
+                    "start": 0.88,
+                    "end": 1.04,
+                    "probability": 0.9800886511802673
+                },
+                {
+                    "word": " been",
+                    "start": 1.04,
+                    "end": 1.22,
+                    "probability": 0.9973243474960327
+                },
+                {
+                    "word": " been",
+                    "start": 1.22,
+                    "end": 1.92,
+                    "probability": 0.2486499547958374
+                },
+                {
+                    "word": " experiencing",
+                    "start": 1.92,
+                    "end": 2.5,
+                    "probability": 0.9801401495933533
+                },
+                {
+                    "word": " lately?",
+                    "start": 2.5,
+                    "end": 2.94,
+                    "probability": 0.999446451663971
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

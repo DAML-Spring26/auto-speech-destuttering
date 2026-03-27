@@ -1,0 +1,95 @@
+{
+    "text": " Don't forget to pack sunscreen well for your beach vacation.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.92,
+            "text": " Don't forget to pack sunscreen well for your beach vacation.",
+            "tokens": [
+                50364,
+                1468,
+                380,
+                2870,
+                281,
+                2844,
+                30304,
+                731,
+                337,
+                428,
+                7534,
+                12830,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2915441830952962,
+            "compression_ratio": 0.9090909090909091,
+            "no_speech_prob": 0.013649177737534046,
+            "words": [
+                {
+                    "word": " Don't",
+                    "start": 0.0,
+                    "end": 0.7,
+                    "probability": 0.8994770050048828
+                },
+                {
+                    "word": " forget",
+                    "start": 0.7,
+                    "end": 0.92,
+                    "probability": 0.9973340034484863
+                },
+                {
+                    "word": " to",
+                    "start": 0.92,
+                    "end": 1.1,
+                    "probability": 0.9990749359130859
+                },
+                {
+                    "word": " pack",
+                    "start": 1.1,
+                    "end": 1.28,
+                    "probability": 0.9707539081573486
+                },
+                {
+                    "word": " sunscreen",
+                    "start": 1.28,
+                    "end": 1.96,
+                    "probability": 0.9584635496139526
+                },
+                {
+                    "word": " well",
+                    "start": 1.96,
+                    "end": 2.36,
+                    "probability": 0.9922756552696228
+                },
+                {
+                    "word": " for",
+                    "start": 2.36,
+                    "end": 2.96,
+                    "probability": 0.9170133471488953
+                },
+                {
+                    "word": " your",
+                    "start": 2.96,
+                    "end": 3.1,
+                    "probability": 0.9742253422737122
+                },
+                {
+                    "word": " beach",
+                    "start": 3.1,
+                    "end": 3.34,
+                    "probability": 0.957268476486206
+                },
+                {
+                    "word": " vacation.",
+                    "start": 3.34,
+                    "end": 3.92,
+                    "probability": 0.9548878073692322
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

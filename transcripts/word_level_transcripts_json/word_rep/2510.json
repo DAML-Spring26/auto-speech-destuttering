@@ -1,0 +1,52 @@
+{
+    "text": " on the desk please.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.34,
+            "text": " on the desk please.",
+            "tokens": [
+                50364,
+                322,
+                264,
+                10026,
+                1767,
+                13,
+                50444
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6105535626411438,
+            "compression_ratio": 0.7037037037037037,
+            "no_speech_prob": 0.01737109199166298,
+            "words": [
+                {
+                    "word": " on",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.7670189738273621
+                },
+                {
+                    "word": " the",
+                    "start": 0.34,
+                    "end": 0.64,
+                    "probability": 0.7533541917800903
+                },
+                {
+                    "word": " desk",
+                    "start": 0.64,
+                    "end": 0.96,
+                    "probability": 0.9879822134971619
+                },
+                {
+                    "word": " please.",
+                    "start": 0.96,
+                    "end": 1.34,
+                    "probability": 0.7938666343688965
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

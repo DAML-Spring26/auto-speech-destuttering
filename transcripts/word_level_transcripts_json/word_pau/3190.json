@@ -1,0 +1,96 @@
+{
+    "text": " The museum's latest exhibit showcases artwork from emerging local artists.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.24,
+            "text": " The museum's latest exhibit showcases artwork from emerging local artists.",
+            "tokens": [
+                50364,
+                440,
+                8441,
+                311,
+                6792,
+                20487,
+                29794,
+                1957,
+                15829,
+                490,
+                14989,
+                2654,
+                6910,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34173867106437683,
+            "compression_ratio": 1.0136986301369864,
+            "no_speech_prob": 0.00296749547123909,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7849805355072021
+                },
+                {
+                    "word": " museum's",
+                    "start": 0.1,
+                    "end": 0.72,
+                    "probability": 0.9285370707511902
+                },
+                {
+                    "word": " latest",
+                    "start": 0.72,
+                    "end": 0.94,
+                    "probability": 0.8431189060211182
+                },
+                {
+                    "word": " exhibit",
+                    "start": 0.94,
+                    "end": 1.44,
+                    "probability": 0.9581506252288818
+                },
+                {
+                    "word": " showcases",
+                    "start": 1.44,
+                    "end": 2.16,
+                    "probability": 0.989745706319809
+                },
+                {
+                    "word": " artwork",
+                    "start": 2.16,
+                    "end": 2.56,
+                    "probability": 0.8572182059288025
+                },
+                {
+                    "word": " from",
+                    "start": 2.56,
+                    "end": 2.94,
+                    "probability": 0.9707268476486206
+                },
+                {
+                    "word": " emerging",
+                    "start": 2.94,
+                    "end": 5.14,
+                    "probability": 0.5735390782356262
+                },
+                {
+                    "word": " local",
+                    "start": 5.14,
+                    "end": 5.7,
+                    "probability": 0.9951745867729187
+                },
+                {
+                    "word": " artists.",
+                    "start": 5.7,
+                    "end": 6.24,
+                    "probability": 0.9892486333847046
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

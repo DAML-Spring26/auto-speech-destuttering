@@ -1,0 +1,94 @@
+{
+    "text": " Can you recommend a good book I might enjoy reading?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.44,
+            "text": " Can you recommend a good book I might enjoy reading?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                2748,
+                257,
+                665,
+                1446,
+                286,
+                1062,
+                2103,
+                3760,
+                30,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2690450293677194,
+            "compression_ratio": 0.8813559322033898,
+            "no_speech_prob": 0.006724648177623749,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.8136316537857056
+                },
+                {
+                    "word": " you",
+                    "start": 0.18,
+                    "end": 0.32,
+                    "probability": 0.9939992427825928
+                },
+                {
+                    "word": " recommend",
+                    "start": 0.32,
+                    "end": 0.76,
+                    "probability": 0.9968854784965515
+                },
+                {
+                    "word": " a",
+                    "start": 0.76,
+                    "end": 0.94,
+                    "probability": 0.9985613226890564
+                },
+                {
+                    "word": " good",
+                    "start": 0.94,
+                    "end": 1.08,
+                    "probability": 0.9937782287597656
+                },
+                {
+                    "word": " book",
+                    "start": 1.08,
+                    "end": 1.36,
+                    "probability": 0.9541782140731812
+                },
+                {
+                    "word": " I",
+                    "start": 1.36,
+                    "end": 1.56,
+                    "probability": 0.7028225064277649
+                },
+                {
+                    "word": " might",
+                    "start": 1.56,
+                    "end": 1.74,
+                    "probability": 0.972740650177002
+                },
+                {
+                    "word": " enjoy",
+                    "start": 1.74,
+                    "end": 2.04,
+                    "probability": 0.9928718209266663
+                },
+                {
+                    "word": " reading?",
+                    "start": 2.04,
+                    "end": 2.44,
+                    "probability": 0.9984334111213684
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

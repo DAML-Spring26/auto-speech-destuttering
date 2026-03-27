@@ -1,0 +1,80 @@
+{
+    "text": " Can you explain how this new technology works?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.18,
+            "text": " Can you explain how this new technology works?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                2903,
+                577,
+                341,
+                777,
+                2899,
+                1985,
+                30,
+                50584
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45312849680582684,
+            "compression_ratio": 0.8846153846153846,
+            "no_speech_prob": 0.011818927712738514,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.46180039644241333
+                },
+                {
+                    "word": " you",
+                    "start": 0.22,
+                    "end": 0.32,
+                    "probability": 0.9707509875297546
+                },
+                {
+                    "word": " explain",
+                    "start": 0.32,
+                    "end": 0.72,
+                    "probability": 0.9975484013557434
+                },
+                {
+                    "word": " how",
+                    "start": 0.72,
+                    "end": 1.02,
+                    "probability": 0.9924060702323914
+                },
+                {
+                    "word": " this",
+                    "start": 1.02,
+                    "end": 1.22,
+                    "probability": 0.9927359819412231
+                },
+                {
+                    "word": " new",
+                    "start": 1.22,
+                    "end": 1.54,
+                    "probability": 0.9678405523300171
+                },
+                {
+                    "word": " technology",
+                    "start": 1.54,
+                    "end": 3.48,
+                    "probability": 0.45164477825164795
+                },
+                {
+                    "word": " works?",
+                    "start": 3.48,
+                    "end": 4.18,
+                    "probability": 0.994175910949707
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

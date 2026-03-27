@@ -1,0 +1,88 @@
+{
+    "text": " Please provide a detailed report on the project's process.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.54,
+            "text": " Please provide a detailed report on the project's process.",
+            "tokens": [
+                50364,
+                2555,
+                2893,
+                257,
+                9942,
+                2275,
+                322,
+                264,
+                1716,
+                311,
+                1399,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2629815340042114,
+            "compression_ratio": 0.9666666666666667,
+            "no_speech_prob": 0.007745328824967146,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.8638565540313721
+                },
+                {
+                    "word": " provide",
+                    "start": 0.22,
+                    "end": 0.74,
+                    "probability": 0.9950672388076782
+                },
+                {
+                    "word": " a",
+                    "start": 0.74,
+                    "end": 1.06,
+                    "probability": 0.7773441076278687
+                },
+                {
+                    "word": " detailed",
+                    "start": 1.06,
+                    "end": 1.38,
+                    "probability": 0.9968407154083252
+                },
+                {
+                    "word": " report",
+                    "start": 1.38,
+                    "end": 1.9,
+                    "probability": 0.9970525503158569
+                },
+                {
+                    "word": " on",
+                    "start": 1.9,
+                    "end": 2.3,
+                    "probability": 0.99406498670578
+                },
+                {
+                    "word": " the",
+                    "start": 2.3,
+                    "end": 2.42,
+                    "probability": 0.9808586239814758
+                },
+                {
+                    "word": " project's",
+                    "start": 2.42,
+                    "end": 3.04,
+                    "probability": 0.8235213756561279
+                },
+                {
+                    "word": " process.",
+                    "start": 3.04,
+                    "end": 3.54,
+                    "probability": 0.9905952215194702
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

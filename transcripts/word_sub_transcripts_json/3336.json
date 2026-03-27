@@ -1,0 +1,59 @@
+{
+    "text": " they discuss potential market friends.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.14,
+            "text": " they discuss potential market friends.",
+            "tokens": [
+                50364,
+                436,
+                2248,
+                3995,
+                2142,
+                1855,
+                13,
+                50491
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5348114967346191,
+            "compression_ratio": 0.8260869565217391,
+            "no_speech_prob": 0.009643040597438812,
+            "words": [
+                {
+                    "word": " they",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.4787028729915619
+                },
+                {
+                    "word": " discuss",
+                    "start": 0.16,
+                    "end": 0.5,
+                    "probability": 0.9258430004119873
+                },
+                {
+                    "word": " potential",
+                    "start": 0.5,
+                    "end": 1.28,
+                    "probability": 0.9882400035858154
+                },
+                {
+                    "word": " market",
+                    "start": 1.28,
+                    "end": 1.7,
+                    "probability": 0.9886899590492249
+                },
+                {
+                    "word": " friends.",
+                    "start": 1.7,
+                    "end": 2.14,
+                    "probability": 0.892496645450592
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

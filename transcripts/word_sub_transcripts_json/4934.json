@@ -1,0 +1,75 @@
+{
+    "text": " She's optimizing the algorithm for better conformance.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.78,
+            "text": " She's optimizing the algorithm for better conformance.",
+            "tokens": [
+                50364,
+                1240,
+                311,
+                40425,
+                264,
+                9284,
+                337,
+                1101,
+                18975,
+                719,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30408134827247035,
+            "compression_ratio": 0.9,
+            "no_speech_prob": 0.006680182181298733,
+            "words": [
+                {
+                    "word": " She's",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.7442433536052704
+                },
+                {
+                    "word": " optimizing",
+                    "start": 0.3,
+                    "end": 0.88,
+                    "probability": 0.9440768361091614
+                },
+                {
+                    "word": " the",
+                    "start": 0.88,
+                    "end": 1.08,
+                    "probability": 0.9915791749954224
+                },
+                {
+                    "word": " algorithm",
+                    "start": 1.08,
+                    "end": 1.5,
+                    "probability": 0.9826337695121765
+                },
+                {
+                    "word": " for",
+                    "start": 1.5,
+                    "end": 1.78,
+                    "probability": 0.9931176900863647
+                },
+                {
+                    "word": " better",
+                    "start": 1.78,
+                    "end": 2.04,
+                    "probability": 0.9969673752784729
+                },
+                {
+                    "word": " conformance.",
+                    "start": 2.04,
+                    "end": 2.78,
+                    "probability": 0.9846678376197815
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

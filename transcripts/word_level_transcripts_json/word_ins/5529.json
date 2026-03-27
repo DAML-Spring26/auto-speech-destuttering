@@ -1,0 +1,108 @@
+{
+    "text": " The quarterly financial report will be presented to the board next week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.14,
+            "text": " The quarterly financial report will be presented to the board next week.",
+            "tokens": [
+                50364,
+                440,
+                38633,
+                4669,
+                2275,
+                486,
+                312,
+                8212,
+                281,
+                264,
+                3150,
+                958,
+                1243,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28056174516677856,
+            "compression_ratio": 1.0140845070422535,
+            "no_speech_prob": 0.06872349977493286,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.56,
+                    "probability": 0.8171359896659851
+                },
+                {
+                    "word": " quarterly",
+                    "start": 0.56,
+                    "end": 0.9,
+                    "probability": 0.8661694526672363
+                },
+                {
+                    "word": " financial",
+                    "start": 0.9,
+                    "end": 1.38,
+                    "probability": 0.9740111827850342
+                },
+                {
+                    "word": " report",
+                    "start": 1.38,
+                    "end": 1.88,
+                    "probability": 0.9979541301727295
+                },
+                {
+                    "word": " will",
+                    "start": 1.88,
+                    "end": 2.26,
+                    "probability": 0.9923409223556519
+                },
+                {
+                    "word": " be",
+                    "start": 2.26,
+                    "end": 2.48,
+                    "probability": 0.9986862540245056
+                },
+                {
+                    "word": " presented",
+                    "start": 2.48,
+                    "end": 3.06,
+                    "probability": 0.9969897270202637
+                },
+                {
+                    "word": " to",
+                    "start": 3.06,
+                    "end": 3.46,
+                    "probability": 0.9951382875442505
+                },
+                {
+                    "word": " the",
+                    "start": 3.46,
+                    "end": 3.72,
+                    "probability": 0.9940085411071777
+                },
+                {
+                    "word": " board",
+                    "start": 3.72,
+                    "end": 3.94,
+                    "probability": 0.6975027322769165
+                },
+                {
+                    "word": " next",
+                    "start": 3.94,
+                    "end": 4.6,
+                    "probability": 0.9812849760055542
+                },
+                {
+                    "word": " week.",
+                    "start": 4.6,
+                    "end": 6.14,
+                    "probability": 0.9381211400032043
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

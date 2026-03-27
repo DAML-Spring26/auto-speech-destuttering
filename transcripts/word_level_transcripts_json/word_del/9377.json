@@ -1,0 +1,87 @@
+{
+    "text": " He asked me I had finished the report yet.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.74,
+            "text": " He asked me I had finished the report yet.",
+            "tokens": [
+                50364,
+                634,
+                2351,
+                385,
+                286,
+                632,
+                4335,
+                264,
+                2275,
+                1939,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26157307624816895,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.006008195225149393,
+            "words": [
+                {
+                    "word": " He",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8689040541648865
+                },
+                {
+                    "word": " asked",
+                    "start": 0.12,
+                    "end": 0.32,
+                    "probability": 0.9602620005607605
+                },
+                {
+                    "word": " me",
+                    "start": 0.32,
+                    "end": 0.44,
+                    "probability": 0.9963220357894897
+                },
+                {
+                    "word": " I",
+                    "start": 0.44,
+                    "end": 0.54,
+                    "probability": 0.8546789288520813
+                },
+                {
+                    "word": " had",
+                    "start": 0.54,
+                    "end": 0.68,
+                    "probability": 0.9744945764541626
+                },
+                {
+                    "word": " finished",
+                    "start": 0.68,
+                    "end": 0.94,
+                    "probability": 0.9879570603370667
+                },
+                {
+                    "word": " the",
+                    "start": 0.94,
+                    "end": 1.16,
+                    "probability": 0.9508793354034424
+                },
+                {
+                    "word": " report",
+                    "start": 1.16,
+                    "end": 1.44,
+                    "probability": 0.912699282169342
+                },
+                {
+                    "word": " yet.",
+                    "start": 1.44,
+                    "end": 1.74,
+                    "probability": 0.9695730209350586
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

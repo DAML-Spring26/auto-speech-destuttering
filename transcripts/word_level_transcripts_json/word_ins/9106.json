@@ -1,0 +1,87 @@
+{
+    "text": " The MRI scan will well take about 30 minutes.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.88,
+            "text": " The MRI scan will well take about 30 minutes.",
+            "tokens": [
+                50364,
+                440,
+                32812,
+                11049,
+                486,
+                731,
+                747,
+                466,
+                2217,
+                2077,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3884774354787973,
+            "compression_ratio": 0.8823529411764706,
+            "no_speech_prob": 0.05247084051370621,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.62,
+                    "probability": 0.8657560348510742
+                },
+                {
+                    "word": " MRI",
+                    "start": 0.62,
+                    "end": 1.1,
+                    "probability": 0.9786843657493591
+                },
+                {
+                    "word": " scan",
+                    "start": 1.1,
+                    "end": 1.58,
+                    "probability": 0.9971078038215637
+                },
+                {
+                    "word": " will",
+                    "start": 1.58,
+                    "end": 1.84,
+                    "probability": 0.9953266382217407
+                },
+                {
+                    "word": " well",
+                    "start": 1.84,
+                    "end": 2.12,
+                    "probability": 0.9476195573806763
+                },
+                {
+                    "word": " take",
+                    "start": 2.12,
+                    "end": 2.94,
+                    "probability": 0.43143072724342346
+                },
+                {
+                    "word": " about",
+                    "start": 2.94,
+                    "end": 3.24,
+                    "probability": 0.9968116879463196
+                },
+                {
+                    "word": " 30",
+                    "start": 3.24,
+                    "end": 3.62,
+                    "probability": 0.8898097276687622
+                },
+                {
+                    "word": " minutes.",
+                    "start": 3.62,
+                    "end": 3.88,
+                    "probability": 0.9950159192085266
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

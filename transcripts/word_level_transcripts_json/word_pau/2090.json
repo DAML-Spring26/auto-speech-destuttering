@@ -1,0 +1,81 @@
+{
+    "text": " I'm sorry but your warranty has already expired.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.42,
+            "text": " I'm sorry but your warranty has already expired.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                2597,
+                457,
+                428,
+                26852,
+                575,
+                1217,
+                36587,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.618190545302171,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.01654716022312641,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.9284213185310364
+                },
+                {
+                    "word": " sorry",
+                    "start": 0.24,
+                    "end": 0.54,
+                    "probability": 0.9886959791183472
+                },
+                {
+                    "word": " but",
+                    "start": 0.54,
+                    "end": 0.74,
+                    "probability": 0.4656819701194763
+                },
+                {
+                    "word": " your",
+                    "start": 0.74,
+                    "end": 4.16,
+                    "probability": 0.2542959749698639
+                },
+                {
+                    "word": " warranty",
+                    "start": 4.16,
+                    "end": 4.48,
+                    "probability": 0.33195143938064575
+                },
+                {
+                    "word": " has",
+                    "start": 4.48,
+                    "end": 4.7,
+                    "probability": 0.9879294633865356
+                },
+                {
+                    "word": " already",
+                    "start": 4.7,
+                    "end": 4.92,
+                    "probability": 0.9839577674865723
+                },
+                {
+                    "word": " expired.",
+                    "start": 4.92,
+                    "end": 5.42,
+                    "probability": 0.9793248772621155
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

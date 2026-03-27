@@ -1,0 +1,59 @@
+{
+    "text": " They regarded all customer complaints.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.96,
+            "text": " They regarded all customer complaints.",
+            "tokens": [
+                50364,
+                814,
+                26047,
+                439,
+                5474,
+                19585,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4708055390252007,
+            "compression_ratio": 0.8260869565217391,
+            "no_speech_prob": 0.008746708743274212,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.5479180812835693
+                },
+                {
+                    "word": " regarded",
+                    "start": 0.2,
+                    "end": 0.64,
+                    "probability": 0.6614565253257751
+                },
+                {
+                    "word": " all",
+                    "start": 0.64,
+                    "end": 0.96,
+                    "probability": 0.9557340741157532
+                },
+                {
+                    "word": " customer",
+                    "start": 0.96,
+                    "end": 1.48,
+                    "probability": 0.9588570594787598
+                },
+                {
+                    "word": " complaints.",
+                    "start": 1.48,
+                    "end": 1.96,
+                    "probability": 0.9674955010414124
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

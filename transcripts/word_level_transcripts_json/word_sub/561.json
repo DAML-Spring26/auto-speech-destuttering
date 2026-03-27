@@ -1,0 +1,66 @@
+{
+    "text": " The conference will feature keynote seekers.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.7,
+            "text": " The conference will feature keynote seekers.",
+            "tokens": [
+                50364,
+                440,
+                7586,
+                486,
+                4111,
+                33896,
+                47915,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3399338245391846,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.005577543284744024,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7809180617332458
+                },
+                {
+                    "word": " conference",
+                    "start": 0.1,
+                    "end": 0.42,
+                    "probability": 0.9616490602493286
+                },
+                {
+                    "word": " will",
+                    "start": 0.42,
+                    "end": 0.64,
+                    "probability": 0.9963034391403198
+                },
+                {
+                    "word": " feature",
+                    "start": 0.64,
+                    "end": 0.92,
+                    "probability": 0.9978093504905701
+                },
+                {
+                    "word": " keynote",
+                    "start": 0.92,
+                    "end": 1.28,
+                    "probability": 0.665819525718689
+                },
+                {
+                    "word": " seekers.",
+                    "start": 1.28,
+                    "end": 1.7,
+                    "probability": 0.6786444187164307
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

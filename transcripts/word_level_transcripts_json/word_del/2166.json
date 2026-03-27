@@ -1,0 +1,116 @@
+{
+    "text": " I'm not sure I can attend the meeting due to a scheduling conflict.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.28,
+            "text": " I'm not sure I can attend the meeting due to a scheduling conflict.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                406,
+                988,
+                286,
+                393,
+                6888,
+                264,
+                3440,
+                3462,
+                281,
+                257,
+                29055,
+                6596,
+                13,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2433831426832411,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.0029565917793661356,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.8741082847118378
+                },
+                {
+                    "word": " not",
+                    "start": 0.3,
+                    "end": 0.46,
+                    "probability": 0.9972086548805237
+                },
+                {
+                    "word": " sure",
+                    "start": 0.46,
+                    "end": 0.78,
+                    "probability": 0.9988791346549988
+                },
+                {
+                    "word": " I",
+                    "start": 0.78,
+                    "end": 1.1,
+                    "probability": 0.9810448288917542
+                },
+                {
+                    "word": " can",
+                    "start": 1.1,
+                    "end": 1.34,
+                    "probability": 0.9980554580688477
+                },
+                {
+                    "word": " attend",
+                    "start": 1.34,
+                    "end": 1.76,
+                    "probability": 0.9971922039985657
+                },
+                {
+                    "word": " the",
+                    "start": 1.76,
+                    "end": 2.1,
+                    "probability": 0.9663956761360168
+                },
+                {
+                    "word": " meeting",
+                    "start": 2.1,
+                    "end": 2.38,
+                    "probability": 0.943613588809967
+                },
+                {
+                    "word": " due",
+                    "start": 2.38,
+                    "end": 2.72,
+                    "probability": 0.9950894713401794
+                },
+                {
+                    "word": " to",
+                    "start": 2.72,
+                    "end": 2.96,
+                    "probability": 0.9986711740493774
+                },
+                {
+                    "word": " a",
+                    "start": 2.96,
+                    "end": 3.1,
+                    "probability": 0.9604654312133789
+                },
+                {
+                    "word": " scheduling",
+                    "start": 3.1,
+                    "end": 3.66,
+                    "probability": 0.5693684816360474
+                },
+                {
+                    "word": " conflict.",
+                    "start": 3.66,
+                    "end": 4.28,
+                    "probability": 0.97879958152771
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

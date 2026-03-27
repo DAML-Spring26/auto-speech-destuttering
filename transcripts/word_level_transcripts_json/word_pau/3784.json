@@ -1,0 +1,73 @@
+{
+    "text": " Can you explain how the algorithm works?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.62,
+            "text": " Can you explain how the algorithm works?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                2903,
+                577,
+                264,
+                9284,
+                1985,
+                30,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36505009911277075,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.013907531276345253,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.8558444976806641
+                },
+                {
+                    "word": " you",
+                    "start": 0.24,
+                    "end": 0.46,
+                    "probability": 0.9940542578697205
+                },
+                {
+                    "word": " explain",
+                    "start": 0.46,
+                    "end": 0.96,
+                    "probability": 0.997736930847168
+                },
+                {
+                    "word": " how",
+                    "start": 0.96,
+                    "end": 1.6,
+                    "probability": 0.9718658924102783
+                },
+                {
+                    "word": " the",
+                    "start": 1.6,
+                    "end": 3.52,
+                    "probability": 0.5811190605163574
+                },
+                {
+                    "word": " algorithm",
+                    "start": 3.52,
+                    "end": 4.06,
+                    "probability": 0.9264383316040039
+                },
+                {
+                    "word": " works?",
+                    "start": 4.06,
+                    "end": 4.62,
+                    "probability": 0.9972206354141235
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

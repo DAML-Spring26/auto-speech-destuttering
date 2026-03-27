@@ -1,12 +1,12 @@
 {
-    "text": " Your appointment has been rescheduled for next Tuesday.",
+    "text": " Your appointment has been rescheduled for next day.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 5.44,
-            "text": " Your appointment has been rescheduled for next Tuesday.",
+            "end": 3.12,
+            "text": " Your appointment has been rescheduled for next day.",
             "tokens": [
                 50364,
                 2260,
@@ -18,14 +18,14 @@
                 45893,
                 337,
                 958,
-                10017,
+                786,
                 13,
-                50636
+                50520
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.3546108177730015,
-            "compression_ratio": 0.8870967741935484,
-            "no_speech_prob": 0.009741568006575108
+            "avg_logprob": -0.29830428532191683,
+            "compression_ratio": 0.864406779661017,
+            "no_speech_prob": 0.006215815432369709
         }
     ],
     "language": "en"

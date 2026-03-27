@@ -1,0 +1,80 @@
+{
+    "text": " Regular exercise can significantly improve your overall health.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.02,
+            "text": " Regular exercise can significantly improve your overall health.",
+            "tokens": [
+                50364,
+                45659,
+                5380,
+                393,
+                10591,
+                3470,
+                428,
+                4787,
+                1585,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30155227581659955,
+            "compression_ratio": 0.9545454545454546,
+            "no_speech_prob": 0.0032004753593355417,
+            "words": [
+                {
+                    "word": " Regular",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.8584924340248108
+                },
+                {
+                    "word": " exercise",
+                    "start": 0.34,
+                    "end": 1.04,
+                    "probability": 0.976716160774231
+                },
+                {
+                    "word": " can",
+                    "start": 1.04,
+                    "end": 1.36,
+                    "probability": 0.9587135314941406
+                },
+                {
+                    "word": " significantly",
+                    "start": 1.36,
+                    "end": 2.02,
+                    "probability": 0.9938563704490662
+                },
+                {
+                    "word": " improve",
+                    "start": 2.02,
+                    "end": 3.84,
+                    "probability": 0.6609435677528381
+                },
+                {
+                    "word": " your",
+                    "start": 3.84,
+                    "end": 4.18,
+                    "probability": 0.9585490822792053
+                },
+                {
+                    "word": " overall",
+                    "start": 4.18,
+                    "end": 4.6,
+                    "probability": 0.9772555232048035
+                },
+                {
+                    "word": " health.",
+                    "start": 4.6,
+                    "end": 5.02,
+                    "probability": 0.9965620636940002
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

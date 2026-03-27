@@ -1,0 +1,60 @@
+{
+    "text": " the police retarded suspicious activity.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.72,
+            "text": " the police retarded suspicious activity.",
+            "tokens": [
+                50364,
+                264,
+                3804,
+                1533,
+                22803,
+                17931,
+                5191,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36700408458709716,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.00721011171117425,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.41281431913375854
+                },
+                {
+                    "word": " police",
+                    "start": 0.1,
+                    "end": 0.36,
+                    "probability": 0.9138145446777344
+                },
+                {
+                    "word": " retarded",
+                    "start": 0.36,
+                    "end": 0.78,
+                    "probability": 0.783773809671402
+                },
+                {
+                    "word": " suspicious",
+                    "start": 0.78,
+                    "end": 1.18,
+                    "probability": 0.9694711565971375
+                },
+                {
+                    "word": " activity.",
+                    "start": 1.18,
+                    "end": 1.72,
+                    "probability": 0.9970821738243103
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,66 @@
+{
+    "text": " The product was lunch was successful.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.64,
+            "text": " The product was lunch was successful.",
+            "tokens": [
+                50364,
+                440,
+                1674,
+                390,
+                6349,
+                390,
+                4406,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7410050392150879,
+            "compression_ratio": 0.9024390243902439,
+            "no_speech_prob": 0.0047303433530032635,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8410990238189697
+                },
+                {
+                    "word": " product",
+                    "start": 0.12,
+                    "end": 0.44,
+                    "probability": 0.9813830256462097
+                },
+                {
+                    "word": " was",
+                    "start": 0.44,
+                    "end": 0.68,
+                    "probability": 0.18255844712257385
+                },
+                {
+                    "word": " lunch",
+                    "start": 0.68,
+                    "end": 0.94,
+                    "probability": 0.0803583636879921
+                },
+                {
+                    "word": " was",
+                    "start": 0.94,
+                    "end": 1.06,
+                    "probability": 0.35978183150291443
+                },
+                {
+                    "word": " successful.",
+                    "start": 1.06,
+                    "end": 1.64,
+                    "probability": 0.9639027118682861
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,80 @@
+{
+    "text": " the physicist explained the theory of root activity.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.36,
+            "text": " the physicist explained the theory of root activity.",
+            "tokens": [
+                50364,
+                264,
+                42466,
+                8825,
+                264,
+                5261,
+                295,
+                5593,
+                5191,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6095681587855021,
+            "compression_ratio": 0.9122807017543859,
+            "no_speech_prob": 0.0019976284820586443,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.4471951425075531
+                },
+                {
+                    "word": " physicist",
+                    "start": 0.1,
+                    "end": 0.56,
+                    "probability": 0.67014479637146
+                },
+                {
+                    "word": " explained",
+                    "start": 0.56,
+                    "end": 1.2,
+                    "probability": 0.5795858502388
+                },
+                {
+                    "word": " the",
+                    "start": 1.2,
+                    "end": 1.42,
+                    "probability": 0.9859011769294739
+                },
+                {
+                    "word": " theory",
+                    "start": 1.42,
+                    "end": 1.7,
+                    "probability": 0.9874178171157837
+                },
+                {
+                    "word": " of",
+                    "start": 1.7,
+                    "end": 1.86,
+                    "probability": 0.9987961053848267
+                },
+                {
+                    "word": " root",
+                    "start": 1.86,
+                    "end": 1.98,
+                    "probability": 0.3816859722137451
+                },
+                {
+                    "word": " activity.",
+                    "start": 1.98,
+                    "end": 2.36,
+                    "probability": 0.4441896975040436
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

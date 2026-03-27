@@ -1,0 +1,104 @@
+{
+    "text": " The linguist is studying the evolution of dialects in different legions.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.0,
+            "text": " The linguist is studying the evolution of dialects in different legions.",
+            "tokens": [
+                50364,
+                440,
+                21766,
+                468,
+                307,
+                7601,
+                264,
+                9303,
+                295,
+                24652,
+                82,
+                294,
+                819,
+                1676,
+                626,
+                13,
+                50572
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25984488593207467,
+            "compression_ratio": 1.0285714285714285,
+            "no_speech_prob": 0.0026897545903921127,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6367565989494324
+                },
+                {
+                    "word": " linguist",
+                    "start": 0.12,
+                    "end": 0.62,
+                    "probability": 0.9439148902893066
+                },
+                {
+                    "word": " is",
+                    "start": 0.62,
+                    "end": 0.78,
+                    "probability": 0.9935721158981323
+                },
+                {
+                    "word": " studying",
+                    "start": 0.78,
+                    "end": 1.22,
+                    "probability": 0.9919363260269165
+                },
+                {
+                    "word": " the",
+                    "start": 1.22,
+                    "end": 1.48,
+                    "probability": 0.9945839047431946
+                },
+                {
+                    "word": " evolution",
+                    "start": 1.48,
+                    "end": 2.04,
+                    "probability": 0.987520694732666
+                },
+                {
+                    "word": " of",
+                    "start": 2.04,
+                    "end": 2.32,
+                    "probability": 0.9969931840896606
+                },
+                {
+                    "word": " dialects",
+                    "start": 2.32,
+                    "end": 2.94,
+                    "probability": 0.9660425782203674
+                },
+                {
+                    "word": " in",
+                    "start": 2.94,
+                    "end": 3.02,
+                    "probability": 0.9918391108512878
+                },
+                {
+                    "word": " different",
+                    "start": 3.02,
+                    "end": 3.36,
+                    "probability": 0.9968587160110474
+                },
+                {
+                    "word": " legions.",
+                    "start": 3.36,
+                    "end": 4.0,
+                    "probability": 0.8262765407562256
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

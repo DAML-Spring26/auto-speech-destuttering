@@ -1,0 +1,88 @@
+{
+    "text": " I'm really looking forward the music festival next weekend.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.94,
+            "text": " I'm really looking forward the music festival next weekend.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                534,
+                1237,
+                2128,
+                264,
+                1318,
+                12091,
+                958,
+                6711,
+                13,
+                50531
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3305285658155169,
+            "compression_ratio": 0.8939393939393939,
+            "no_speech_prob": 0.004602007567882538,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.9384560585021973
+                },
+                {
+                    "word": " really",
+                    "start": 0.24,
+                    "end": 0.44,
+                    "probability": 0.9659363031387329
+                },
+                {
+                    "word": " looking",
+                    "start": 0.44,
+                    "end": 0.8,
+                    "probability": 0.9989392161369324
+                },
+                {
+                    "word": " forward",
+                    "start": 0.8,
+                    "end": 1.14,
+                    "probability": 0.9839036464691162
+                },
+                {
+                    "word": " the",
+                    "start": 1.14,
+                    "end": 1.36,
+                    "probability": 0.7241060137748718
+                },
+                {
+                    "word": " music",
+                    "start": 1.36,
+                    "end": 1.62,
+                    "probability": 0.6819289326667786
+                },
+                {
+                    "word": " festival",
+                    "start": 1.62,
+                    "end": 2.2,
+                    "probability": 0.9827588200569153
+                },
+                {
+                    "word": " next",
+                    "start": 2.2,
+                    "end": 2.54,
+                    "probability": 0.9932847023010254
+                },
+                {
+                    "word": " weekend.",
+                    "start": 2.54,
+                    "end": 2.94,
+                    "probability": 0.928964376449585
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

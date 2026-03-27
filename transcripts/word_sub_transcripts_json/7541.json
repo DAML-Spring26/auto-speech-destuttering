@@ -1,0 +1,74 @@
+{
+    "text": " The symposium focused on quantum competing advances.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.78,
+            "text": " The symposium focused on quantum competing advances.",
+            "tokens": [
+                50364,
+                440,
+                13240,
+                42161,
+                5178,
+                322,
+                13018,
+                15439,
+                25297,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4026622374852498,
+            "compression_ratio": 0.8813559322033898,
+            "no_speech_prob": 0.02564983069896698,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.548718273639679
+                },
+                {
+                    "word": " symposium",
+                    "start": 0.1,
+                    "end": 0.66,
+                    "probability": 0.863499104976654
+                },
+                {
+                    "word": " focused",
+                    "start": 0.66,
+                    "end": 0.96,
+                    "probability": 0.9792974591255188
+                },
+                {
+                    "word": " on",
+                    "start": 0.96,
+                    "end": 1.26,
+                    "probability": 0.9980748891830444
+                },
+                {
+                    "word": " quantum",
+                    "start": 1.26,
+                    "end": 1.62,
+                    "probability": 0.9789110422134399
+                },
+                {
+                    "word": " competing",
+                    "start": 1.62,
+                    "end": 2.08,
+                    "probability": 0.7456127405166626
+                },
+                {
+                    "word": " advances.",
+                    "start": 2.08,
+                    "end": 2.78,
+                    "probability": 0.8568982481956482
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

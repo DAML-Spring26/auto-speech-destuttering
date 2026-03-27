@@ -1,0 +1,87 @@
+{
+    "text": " The architect designed is sustainable and energy efficient bidding.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.5,
+            "text": " The architect designed is sustainable and energy efficient bidding.",
+            "tokens": [
+                50364,
+                440,
+                6331,
+                4761,
+                307,
+                11235,
+                293,
+                2281,
+                7148,
+                39702,
+                13,
+                50552
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33327253048236555,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.00436227535828948,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.689851701259613
+                },
+                {
+                    "word": " architect",
+                    "start": 0.16,
+                    "end": 0.62,
+                    "probability": 0.8410121202468872
+                },
+                {
+                    "word": " designed",
+                    "start": 0.62,
+                    "end": 1.16,
+                    "probability": 0.9075808525085449
+                },
+                {
+                    "word": " is",
+                    "start": 1.16,
+                    "end": 1.48,
+                    "probability": 0.8005023002624512
+                },
+                {
+                    "word": " sustainable",
+                    "start": 1.48,
+                    "end": 2.08,
+                    "probability": 0.901278555393219
+                },
+                {
+                    "word": " and",
+                    "start": 2.08,
+                    "end": 2.38,
+                    "probability": 0.9716305136680603
+                },
+                {
+                    "word": " energy",
+                    "start": 2.38,
+                    "end": 2.72,
+                    "probability": 0.9929537177085876
+                },
+                {
+                    "word": " efficient",
+                    "start": 2.72,
+                    "end": 3.16,
+                    "probability": 0.696628212928772
+                },
+                {
+                    "word": " bidding.",
+                    "start": 3.16,
+                    "end": 3.5,
+                    "probability": 0.983014702796936
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

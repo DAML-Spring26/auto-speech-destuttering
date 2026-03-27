@@ -1,0 +1,52 @@
+{
+    "text": " please decide detail feedback.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.36,
+            "text": " please decide detail feedback.",
+            "tokens": [
+                50364,
+                1767,
+                4536,
+                2607,
+                5824,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6366296410560608,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.0076466635800898075,
+            "words": [
+                {
+                    "word": " please",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.5596789121627808
+                },
+                {
+                    "word": " decide",
+                    "start": 0.18,
+                    "end": 0.54,
+                    "probability": 0.25995779037475586
+                },
+                {
+                    "word": " detail",
+                    "start": 0.54,
+                    "end": 0.96,
+                    "probability": 0.6890807747840881
+                },
+                {
+                    "word": " feedback.",
+                    "start": 0.96,
+                    "end": 1.36,
+                    "probability": 0.9811597466468811
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

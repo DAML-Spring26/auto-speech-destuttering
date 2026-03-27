@@ -1,0 +1,87 @@
+{
+    "text": " Please remain calm and follow the emergency evacuation procedures.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.8,
+            "text": " Please remain calm and follow the emergency evacuation procedures.",
+            "tokens": [
+                50364,
+                2555,
+                6222,
+                7151,
+                293,
+                1524,
+                264,
+                7473,
+                42740,
+                13846,
+                13,
+                50676
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3490456801194411,
+            "compression_ratio": 0.9850746268656716,
+            "no_speech_prob": 0.01402865257114172,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.5773324370384216
+                },
+                {
+                    "word": " remain",
+                    "start": 0.28,
+                    "end": 0.66,
+                    "probability": 0.995392918586731
+                },
+                {
+                    "word": " calm",
+                    "start": 0.66,
+                    "end": 1.06,
+                    "probability": 0.9524036049842834
+                },
+                {
+                    "word": " and",
+                    "start": 1.06,
+                    "end": 1.3,
+                    "probability": 0.985900342464447
+                },
+                {
+                    "word": " follow",
+                    "start": 1.3,
+                    "end": 1.68,
+                    "probability": 0.9428204298019409
+                },
+                {
+                    "word": " the",
+                    "start": 1.68,
+                    "end": 3.54,
+                    "probability": 0.9419173002243042
+                },
+                {
+                    "word": " emergency",
+                    "start": 3.54,
+                    "end": 4.22,
+                    "probability": 0.7781003713607788
+                },
+                {
+                    "word": " evacuation",
+                    "start": 4.22,
+                    "end": 4.9,
+                    "probability": 0.9943037033081055
+                },
+                {
+                    "word": " procedures.",
+                    "start": 4.9,
+                    "end": 5.8,
+                    "probability": 0.9964237809181213
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,59 @@
+{
+    "text": " I love love this song.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.32,
+            "text": " I love love this song.",
+            "tokens": [
+                50364,
+                286,
+                959,
+                959,
+                341,
+                2153,
+                13,
+                50436
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.49389881557888454,
+            "compression_ratio": 0.88,
+            "no_speech_prob": 0.014569396153092384,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.8701820373535156
+                },
+                {
+                    "word": " love",
+                    "start": 0.22,
+                    "end": 0.44,
+                    "probability": 0.9371445775032043
+                },
+                {
+                    "word": " love",
+                    "start": 0.44,
+                    "end": 0.82,
+                    "probability": 0.6686298847198486
+                },
+                {
+                    "word": " this",
+                    "start": 0.82,
+                    "end": 1.04,
+                    "probability": 0.4875326156616211
+                },
+                {
+                    "word": " song.",
+                    "start": 1.04,
+                    "end": 1.32,
+                    "probability": 0.998365581035614
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

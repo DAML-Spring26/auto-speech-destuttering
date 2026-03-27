@@ -1,0 +1,74 @@
+{
+    "text": " we're going to need a bigger boat.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.02,
+            "text": " we're going to need a bigger boat.",
+            "tokens": [
+                50364,
+                321,
+                434,
+                516,
+                281,
+                643,
+                257,
+                3801,
+                6582,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4221639235814412,
+            "compression_ratio": 0.8095238095238095,
+            "no_speech_prob": 0.01191596407443285,
+            "words": [
+                {
+                    "word": " we're",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.640361949801445
+                },
+                {
+                    "word": " going",
+                    "start": 0.18,
+                    "end": 0.36,
+                    "probability": 0.993923008441925
+                },
+                {
+                    "word": " to",
+                    "start": 0.36,
+                    "end": 0.62,
+                    "probability": 0.9971990585327148
+                },
+                {
+                    "word": " need",
+                    "start": 0.62,
+                    "end": 1.04,
+                    "probability": 0.9664250612258911
+                },
+                {
+                    "word": " a",
+                    "start": 1.04,
+                    "end": 2.4,
+                    "probability": 0.8639148473739624
+                },
+                {
+                    "word": " bigger",
+                    "start": 2.4,
+                    "end": 2.68,
+                    "probability": 0.9952837824821472
+                },
+                {
+                    "word": " boat.",
+                    "start": 2.68,
+                    "end": 3.02,
+                    "probability": 0.9927098751068115
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

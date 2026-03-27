@@ -1,0 +1,66 @@
+{
+    "text": " the algorithm progresses big data efficiently.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.32,
+            "text": " the algorithm progresses big data efficiently.",
+            "tokens": [
+                50364,
+                264,
+                9284,
+                41929,
+                955,
+                1412,
+                19621,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4326284885406494,
+            "compression_ratio": 0.8518518518518519,
+            "no_speech_prob": 0.003169464413076639,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.4742933213710785
+                },
+                {
+                    "word": " algorithm",
+                    "start": 0.12,
+                    "end": 0.54,
+                    "probability": 0.9866064786911011
+                },
+                {
+                    "word": " progresses",
+                    "start": 0.54,
+                    "end": 1.12,
+                    "probability": 0.9854909181594849
+                },
+                {
+                    "word": " big",
+                    "start": 1.12,
+                    "end": 1.48,
+                    "probability": 0.9528061151504517
+                },
+                {
+                    "word": " data",
+                    "start": 1.48,
+                    "end": 1.78,
+                    "probability": 0.9931321740150452
+                },
+                {
+                    "word": " efficiently.",
+                    "start": 1.78,
+                    "end": 2.32,
+                    "probability": 0.9964720010757446
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

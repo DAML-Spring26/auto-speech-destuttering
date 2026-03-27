@@ -1,0 +1,109 @@
+{
+    "text": " Have you heard about the plot twist in the latest blockbuster movie?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.24,
+            "text": " Have you heard about the plot twist in the latest blockbuster movie?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                2198,
+                466,
+                264,
+                7542,
+                8203,
+                294,
+                264,
+                6792,
+                3461,
+                41148,
+                3169,
+                30,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2835689432480756,
+            "compression_ratio": 0.9855072463768116,
+            "no_speech_prob": 0.035116132348775864,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.8386024236679077
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.32,
+                    "probability": 0.9970206618309021
+                },
+                {
+                    "word": " heard",
+                    "start": 0.32,
+                    "end": 0.52,
+                    "probability": 0.9948604702949524
+                },
+                {
+                    "word": " about",
+                    "start": 0.52,
+                    "end": 0.76,
+                    "probability": 0.9823541641235352
+                },
+                {
+                    "word": " the",
+                    "start": 0.76,
+                    "end": 0.96,
+                    "probability": 0.8803676962852478
+                },
+                {
+                    "word": " plot",
+                    "start": 0.96,
+                    "end": 1.16,
+                    "probability": 0.9675920605659485
+                },
+                {
+                    "word": " twist",
+                    "start": 1.16,
+                    "end": 1.5,
+                    "probability": 0.9544816613197327
+                },
+                {
+                    "word": " in",
+                    "start": 1.5,
+                    "end": 1.8,
+                    "probability": 0.8765077590942383
+                },
+                {
+                    "word": " the",
+                    "start": 1.8,
+                    "end": 1.94,
+                    "probability": 0.9252069592475891
+                },
+                {
+                    "word": " latest",
+                    "start": 1.94,
+                    "end": 2.3,
+                    "probability": 0.9953979849815369
+                },
+                {
+                    "word": " blockbuster",
+                    "start": 2.3,
+                    "end": 3.1,
+                    "probability": 0.676207035779953
+                },
+                {
+                    "word": " movie?",
+                    "start": 3.1,
+                    "end": 4.24,
+                    "probability": 0.8735960125923157
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

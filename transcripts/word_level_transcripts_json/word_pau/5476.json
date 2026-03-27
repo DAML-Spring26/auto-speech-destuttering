@@ -1,0 +1,129 @@
+{
+    "text": " Don't forget to bring your boarding pass and... ...identification to the gate.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.48,
+            "text": " Don't forget to bring your boarding pass and...",
+            "tokens": [
+                50364,
+                1468,
+                380,
+                2870,
+                281,
+                1565,
+                428,
+                30528,
+                1320,
+                293,
+                485,
+                50488
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4913242079994895,
+            "compression_ratio": 1.04,
+            "no_speech_prob": 0.01031259074807167,
+            "words": [
+                {
+                    "word": " Don't",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.9282788932323456
+                },
+                {
+                    "word": " forget",
+                    "start": 0.3,
+                    "end": 0.64,
+                    "probability": 0.9979627132415771
+                },
+                {
+                    "word": " to",
+                    "start": 0.64,
+                    "end": 0.88,
+                    "probability": 0.9981563687324524
+                },
+                {
+                    "word": " bring",
+                    "start": 0.88,
+                    "end": 1.06,
+                    "probability": 0.989195704460144
+                },
+                {
+                    "word": " your",
+                    "start": 1.06,
+                    "end": 1.26,
+                    "probability": 0.9517436027526855
+                },
+                {
+                    "word": " boarding",
+                    "start": 1.26,
+                    "end": 1.6,
+                    "probability": 0.9896150827407837
+                },
+                {
+                    "word": " pass",
+                    "start": 1.6,
+                    "end": 2.0,
+                    "probability": 0.9906238913536072
+                },
+                {
+                    "word": " and...",
+                    "start": 2.0,
+                    "end": 2.48,
+                    "probability": 0.6130072921514511
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.08,
+            "end": 7.4,
+            "text": " ...identification to the gate.",
+            "tokens": [
+                50636,
+                1097,
+                1078,
+                3774,
+                281,
+                264,
+                8539,
+                13,
+                50748
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4913242079994895,
+            "compression_ratio": 1.04,
+            "no_speech_prob": 0.01031259074807167,
+            "words": [
+                {
+                    "word": " ...identification",
+                    "start": 6.08,
+                    "end": 6.68,
+                    "probability": 0.7523933947086334
+                },
+                {
+                    "word": " to",
+                    "start": 6.68,
+                    "end": 6.98,
+                    "probability": 0.9961594343185425
+                },
+                {
+                    "word": " the",
+                    "start": 6.98,
+                    "end": 7.14,
+                    "probability": 0.995415449142456
+                },
+                {
+                    "word": " gate.",
+                    "start": 7.14,
+                    "end": 7.4,
+                    "probability": 0.9787408709526062
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

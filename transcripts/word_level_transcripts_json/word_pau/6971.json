@@ -1,0 +1,116 @@
+{
+    "text": " In case of an emergency, please follow the instructions of the flight crew.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.0,
+            "text": " In case of an emergency, please follow the instructions of the flight crew.",
+            "tokens": [
+                50364,
+                682,
+                1389,
+                295,
+                364,
+                7473,
+                11,
+                1767,
+                1524,
+                264,
+                9415,
+                295,
+                264,
+                7018,
+                7260,
+                13,
+                50684
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26822151078118217,
+            "compression_ratio": 1.0416666666666667,
+            "no_speech_prob": 0.03199044242501259,
+            "words": [
+                {
+                    "word": " In",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7580773234367371
+                },
+                {
+                    "word": " case",
+                    "start": 0.16,
+                    "end": 0.4,
+                    "probability": 0.9855849146842957
+                },
+                {
+                    "word": " of",
+                    "start": 0.4,
+                    "end": 0.66,
+                    "probability": 0.9963745474815369
+                },
+                {
+                    "word": " an",
+                    "start": 0.66,
+                    "end": 0.76,
+                    "probability": 0.996171772480011
+                },
+                {
+                    "word": " emergency,",
+                    "start": 0.76,
+                    "end": 1.16,
+                    "probability": 0.997005045413971
+                },
+                {
+                    "word": " please",
+                    "start": 1.56,
+                    "end": 1.78,
+                    "probability": 0.9879046082496643
+                },
+                {
+                    "word": " follow",
+                    "start": 1.78,
+                    "end": 2.18,
+                    "probability": 0.9948775768280029
+                },
+                {
+                    "word": " the",
+                    "start": 2.18,
+                    "end": 2.46,
+                    "probability": 0.9897910952568054
+                },
+                {
+                    "word": " instructions",
+                    "start": 2.46,
+                    "end": 3.02,
+                    "probability": 0.9952412843704224
+                },
+                {
+                    "word": " of",
+                    "start": 3.02,
+                    "end": 3.42,
+                    "probability": 0.9919335246086121
+                },
+                {
+                    "word": " the",
+                    "start": 3.42,
+                    "end": 3.66,
+                    "probability": 0.9359474778175354
+                },
+                {
+                    "word": " flight",
+                    "start": 3.66,
+                    "end": 3.98,
+                    "probability": 0.9466105699539185
+                },
+                {
+                    "word": " crew.",
+                    "start": 3.98,
+                    "end": 6.0,
+                    "probability": 0.6456632614135742
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

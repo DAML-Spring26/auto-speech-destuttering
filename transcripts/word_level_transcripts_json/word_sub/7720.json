@@ -1,0 +1,88 @@
+{
+    "text": " The company's innovative approach led to significant market growth.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.28,
+            "text": " The company's innovative approach led to significant market growth.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                12999,
+                3109,
+                4684,
+                281,
+                4776,
+                2142,
+                4599,
+                13,
+                50538
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35065746307373047,
+            "compression_ratio": 0.9710144927536232,
+            "no_speech_prob": 0.0030624426435679197,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.6507120132446289
+                },
+                {
+                    "word": " company's",
+                    "start": 0.08,
+                    "end": 0.66,
+                    "probability": 0.7179970145225525
+                },
+                {
+                    "word": " innovative",
+                    "start": 0.66,
+                    "end": 1.1,
+                    "probability": 0.9887732863426208
+                },
+                {
+                    "word": " approach",
+                    "start": 1.1,
+                    "end": 1.56,
+                    "probability": 0.999739944934845
+                },
+                {
+                    "word": " led",
+                    "start": 1.56,
+                    "end": 1.8,
+                    "probability": 0.9672228693962097
+                },
+                {
+                    "word": " to",
+                    "start": 1.8,
+                    "end": 1.98,
+                    "probability": 0.9990218877792358
+                },
+                {
+                    "word": " significant",
+                    "start": 1.98,
+                    "end": 2.48,
+                    "probability": 0.9909502863883972
+                },
+                {
+                    "word": " market",
+                    "start": 2.48,
+                    "end": 2.96,
+                    "probability": 0.9956055283546448
+                },
+                {
+                    "word": " growth.",
+                    "start": 2.96,
+                    "end": 3.28,
+                    "probability": 0.9997997879981995
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

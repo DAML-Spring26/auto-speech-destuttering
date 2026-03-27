@@ -1,0 +1,93 @@
+{
+    "text": " The meeting starts at 2pm. A. Sharp.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.6,
+            "text": " The meeting starts at 2pm.",
+            "tokens": [
+                50364,
+                440,
+                3440,
+                3719,
+                412,
+                568,
+                14395,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6909005045890808,
+            "compression_ratio": 0.8181818181818182,
+            "no_speech_prob": 0.01878190226852894,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.62,
+                    "probability": 0.767354428768158
+                },
+                {
+                    "word": " meeting",
+                    "start": 0.62,
+                    "end": 0.96,
+                    "probability": 0.9818005561828613
+                },
+                {
+                    "word": " starts",
+                    "start": 0.96,
+                    "end": 1.4,
+                    "probability": 0.9943782687187195
+                },
+                {
+                    "word": " at",
+                    "start": 1.4,
+                    "end": 1.84,
+                    "probability": 0.9963079690933228
+                },
+                {
+                    "word": " 2pm.",
+                    "start": 1.84,
+                    "end": 2.6,
+                    "probability": 0.7287062704563141
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.7,
+            "end": 4.62,
+            "text": " A. Sharp.",
+            "tokens": [
+                50514,
+                316,
+                13,
+                31654,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6909005045890808,
+            "compression_ratio": 0.8181818181818182,
+            "no_speech_prob": 0.01878190226852894,
+            "words": [
+                {
+                    "word": " A.",
+                    "start": 3.7,
+                    "end": 3.84,
+                    "probability": 0.33060914278030396
+                },
+                {
+                    "word": " Sharp.",
+                    "start": 4.28,
+                    "end": 4.62,
+                    "probability": 0.3940274119377136
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

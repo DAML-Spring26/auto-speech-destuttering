@@ -1,0 +1,80 @@
+{
+    "text": " the board of directors approved the new intuitive.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.2,
+            "text": " the board of directors approved the new intuitive.",
+            "tokens": [
+                50364,
+                264,
+                3150,
+                295,
+                17307,
+                10826,
+                264,
+                777,
+                21769,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5109127362569174,
+            "compression_ratio": 0.8928571428571429,
+            "no_speech_prob": 0.010466965846717358,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.4947149455547333
+                },
+                {
+                    "word": " board",
+                    "start": 0.12,
+                    "end": 0.34,
+                    "probability": 0.41888803243637085
+                },
+                {
+                    "word": " of",
+                    "start": 0.34,
+                    "end": 0.46,
+                    "probability": 0.6949782967567444
+                },
+                {
+                    "word": " directors",
+                    "start": 0.46,
+                    "end": 0.94,
+                    "probability": 0.99623042345047
+                },
+                {
+                    "word": " approved",
+                    "start": 0.94,
+                    "end": 1.36,
+                    "probability": 0.7811464667320251
+                },
+                {
+                    "word": " the",
+                    "start": 1.36,
+                    "end": 1.56,
+                    "probability": 0.9625018835067749
+                },
+                {
+                    "word": " new",
+                    "start": 1.56,
+                    "end": 1.74,
+                    "probability": 0.9918850660324097
+                },
+                {
+                    "word": " intuitive.",
+                    "start": 1.74,
+                    "end": 2.2,
+                    "probability": 0.971977949142456
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

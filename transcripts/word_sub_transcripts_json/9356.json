@@ -1,0 +1,59 @@
+{
+    "text": " We must ensure proper procedures.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.9,
+            "text": " We must ensure proper procedures.",
+            "tokens": [
+                50364,
+                492,
+                1633,
+                5586,
+                2296,
+                13846,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3895266320970323,
+            "compression_ratio": 0.8918918918918919,
+            "no_speech_prob": 0.0034756152890622616,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5912269949913025
+                },
+                {
+                    "word": " must",
+                    "start": 0.1,
+                    "end": 0.32,
+                    "probability": 0.992220938205719
+                },
+                {
+                    "word": " ensure",
+                    "start": 0.32,
+                    "end": 0.7,
+                    "probability": 0.9636326432228088
+                },
+                {
+                    "word": " proper",
+                    "start": 0.7,
+                    "end": 1.2,
+                    "probability": 0.9886066317558289
+                },
+                {
+                    "word": " procedures.",
+                    "start": 1.2,
+                    "end": 1.9,
+                    "probability": 0.988530695438385
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

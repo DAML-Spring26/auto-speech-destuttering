@@ -1,0 +1,94 @@
+{
+    "text": " Could you please forward the email to the marketing apartment?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.26,
+            "text": " Could you please forward the email to the marketing apartment?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                2128,
+                264,
+                3796,
+                281,
+                264,
+                6370,
+                9587,
+                30,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3938194683619908,
+            "compression_ratio": 0.9538461538461539,
+            "no_speech_prob": 0.012603641487658024,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.9702329635620117
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.3,
+                    "probability": 0.998982846736908
+                },
+                {
+                    "word": " please",
+                    "start": 0.3,
+                    "end": 0.56,
+                    "probability": 0.9950704574584961
+                },
+                {
+                    "word": " forward",
+                    "start": 0.56,
+                    "end": 0.9,
+                    "probability": 0.947526216506958
+                },
+                {
+                    "word": " the",
+                    "start": 0.9,
+                    "end": 1.1,
+                    "probability": 0.98848956823349
+                },
+                {
+                    "word": " email",
+                    "start": 1.1,
+                    "end": 1.34,
+                    "probability": 0.9351610541343689
+                },
+                {
+                    "word": " to",
+                    "start": 1.34,
+                    "end": 1.48,
+                    "probability": 0.9909842014312744
+                },
+                {
+                    "word": " the",
+                    "start": 1.48,
+                    "end": 1.58,
+                    "probability": 0.9837725758552551
+                },
+                {
+                    "word": " marketing",
+                    "start": 1.58,
+                    "end": 1.82,
+                    "probability": 0.6270343065261841
+                },
+                {
+                    "word": " apartment?",
+                    "start": 1.82,
+                    "end": 2.26,
+                    "probability": 0.5862271189689636
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

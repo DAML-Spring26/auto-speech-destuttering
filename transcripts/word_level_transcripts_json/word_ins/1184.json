@@ -1,0 +1,89 @@
+{
+    "text": " Let's plan a weekend get away soon, you know.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.38,
+            "text": " Let's plan a weekend get away soon, you know.",
+            "tokens": [
+                50364,
+                961,
+                311,
+                1393,
+                257,
+                6711,
+                483,
+                1314,
+                2321,
+                11,
+                291,
+                458,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34817066192626955,
+            "compression_ratio": 0.8490566037735849,
+            "no_speech_prob": 0.01958620361983776,
+            "words": [
+                {
+                    "word": " Let's",
+                    "start": 0.0,
+                    "end": 0.66,
+                    "probability": 0.8857411444187164
+                },
+                {
+                    "word": " plan",
+                    "start": 0.66,
+                    "end": 0.84,
+                    "probability": 0.9877874255180359
+                },
+                {
+                    "word": " a",
+                    "start": 0.84,
+                    "end": 0.96,
+                    "probability": 0.9787312746047974
+                },
+                {
+                    "word": " weekend",
+                    "start": 0.96,
+                    "end": 1.16,
+                    "probability": 0.860941469669342
+                },
+                {
+                    "word": " get",
+                    "start": 1.16,
+                    "end": 1.42,
+                    "probability": 0.9709314703941345
+                },
+                {
+                    "word": " away",
+                    "start": 1.42,
+                    "end": 1.62,
+                    "probability": 0.45825082063674927
+                },
+                {
+                    "word": " soon,",
+                    "start": 1.62,
+                    "end": 1.92,
+                    "probability": 0.9934659600257874
+                },
+                {
+                    "word": " you",
+                    "start": 2.16,
+                    "end": 2.26,
+                    "probability": 0.851959228515625
+                },
+                {
+                    "word": " know.",
+                    "start": 2.26,
+                    "end": 2.38,
+                    "probability": 0.9965141415596008
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,103 @@
+{
+    "text": " She asked him here at Fenny Street in the Asign Book.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.48,
+            "text": " She asked him here at Fenny Street in the Asign Book.",
+            "tokens": [
+                50364,
+                1240,
+                2351,
+                796,
+                510,
+                412,
+                30993,
+                1634,
+                7638,
+                294,
+                264,
+                1018,
+                788,
+                9476,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6295722512637868,
+            "compression_ratio": 0.9137931034482759,
+            "no_speech_prob": 0.004485802259296179,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.7841750979423523
+                },
+                {
+                    "word": " asked",
+                    "start": 0.22,
+                    "end": 0.5,
+                    "probability": 0.9926978945732117
+                },
+                {
+                    "word": " him",
+                    "start": 0.5,
+                    "end": 0.66,
+                    "probability": 0.9750065207481384
+                },
+                {
+                    "word": " here",
+                    "start": 0.66,
+                    "end": 0.86,
+                    "probability": 0.6711976528167725
+                },
+                {
+                    "word": " at",
+                    "start": 0.86,
+                    "end": 1.0,
+                    "probability": 0.780331552028656
+                },
+                {
+                    "word": " Fenny",
+                    "start": 1.0,
+                    "end": 1.32,
+                    "probability": 0.32871729880571365
+                },
+                {
+                    "word": " Street",
+                    "start": 1.32,
+                    "end": 1.54,
+                    "probability": 0.7900372743606567
+                },
+                {
+                    "word": " in",
+                    "start": 1.54,
+                    "end": 1.74,
+                    "probability": 0.9834919571876526
+                },
+                {
+                    "word": " the",
+                    "start": 1.74,
+                    "end": 1.84,
+                    "probability": 0.593087911605835
+                },
+                {
+                    "word": " Asign",
+                    "start": 1.84,
+                    "end": 2.2,
+                    "probability": 0.339640311896801
+                },
+                {
+                    "word": " Book.",
+                    "start": 2.2,
+                    "end": 2.48,
+                    "probability": 0.6516140103340149
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

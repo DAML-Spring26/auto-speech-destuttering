@@ -1,0 +1,87 @@
+{
+    "text": " The library is open until midnight during finals week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.56,
+            "text": " The library is open until midnight during finals week.",
+            "tokens": [
+                50364,
+                440,
+                6405,
+                307,
+                1269,
+                1826,
+                19006,
+                1830,
+                25526,
+                1243,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2994584303635817,
+            "compression_ratio": 0.8852459016393442,
+            "no_speech_prob": 0.0053270719945430756,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8384767174720764
+                },
+                {
+                    "word": " library",
+                    "start": 0.12,
+                    "end": 0.46,
+                    "probability": 0.971493124961853
+                },
+                {
+                    "word": " is",
+                    "start": 0.46,
+                    "end": 0.68,
+                    "probability": 0.9977390766143799
+                },
+                {
+                    "word": " open",
+                    "start": 0.68,
+                    "end": 0.94,
+                    "probability": 0.9748973846435547
+                },
+                {
+                    "word": " until",
+                    "start": 0.94,
+                    "end": 1.38,
+                    "probability": 0.9845505356788635
+                },
+                {
+                    "word": " midnight",
+                    "start": 1.38,
+                    "end": 4.52,
+                    "probability": 0.8816225528717041
+                },
+                {
+                    "word": " during",
+                    "start": 4.52,
+                    "end": 4.8,
+                    "probability": 0.9333518743515015
+                },
+                {
+                    "word": " finals",
+                    "start": 4.8,
+                    "end": 5.22,
+                    "probability": 0.7879770398139954
+                },
+                {
+                    "word": " week.",
+                    "start": 5.22,
+                    "end": 5.56,
+                    "probability": 0.9678996205329895
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

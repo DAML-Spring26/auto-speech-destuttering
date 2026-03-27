@@ -1,0 +1,45 @@
+{
+    "text": " We send mail.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.86,
+            "text": " We send mail.",
+            "tokens": [
+                50364,
+                492,
+                2845,
+                10071,
+                13,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6483851160321917,
+            "compression_ratio": 0.6190476190476191,
+            "no_speech_prob": 0.050739437341690063,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6219772100448608
+                },
+                {
+                    "word": " send",
+                    "start": 0.16,
+                    "end": 0.5,
+                    "probability": 0.28748849034309387
+                },
+                {
+                    "word": " mail.",
+                    "start": 0.5,
+                    "end": 0.86,
+                    "probability": 0.9700788259506226
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

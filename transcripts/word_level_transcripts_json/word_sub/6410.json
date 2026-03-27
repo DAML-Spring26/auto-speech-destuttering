@@ -1,0 +1,88 @@
+{
+    "text": " Quarterly reports indicate a significant increase in market hair.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.58,
+            "text": " Quarterly reports indicate a significant increase in market hair.",
+            "tokens": [
+                50364,
+                43794,
+                356,
+                7122,
+                13330,
+                257,
+                4776,
+                3488,
+                294,
+                2142,
+                2578,
+                13,
+                50550
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30378964969090055,
+            "compression_ratio": 0.9848484848484849,
+            "no_speech_prob": 0.015235960483551025,
+            "words": [
+                {
+                    "word": " Quarterly",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.7694298326969147
+                },
+                {
+                    "word": " reports",
+                    "start": 0.44,
+                    "end": 0.76,
+                    "probability": 0.9717506170272827
+                },
+                {
+                    "word": " indicate",
+                    "start": 0.76,
+                    "end": 1.28,
+                    "probability": 0.8811339139938354
+                },
+                {
+                    "word": " a",
+                    "start": 1.28,
+                    "end": 1.5,
+                    "probability": 0.9979339838027954
+                },
+                {
+                    "word": " significant",
+                    "start": 1.5,
+                    "end": 2.1,
+                    "probability": 0.9953957200050354
+                },
+                {
+                    "word": " increase",
+                    "start": 2.1,
+                    "end": 2.64,
+                    "probability": 0.9975394010543823
+                },
+                {
+                    "word": " in",
+                    "start": 2.64,
+                    "end": 2.88,
+                    "probability": 0.9992581009864807
+                },
+                {
+                    "word": " market",
+                    "start": 2.88,
+                    "end": 3.2,
+                    "probability": 0.9932065010070801
+                },
+                {
+                    "word": " hair.",
+                    "start": 3.2,
+                    "end": 3.58,
+                    "probability": 0.7817997932434082
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,123 @@
+{
+    "text": " She's been studying Japanese for three years and plans to visit Tokyo next summer.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.12,
+            "text": " She's been studying Japanese for three years and plans to visit Tokyo next summer.",
+            "tokens": [
+                50364,
+                1240,
+                311,
+                668,
+                7601,
+                5433,
+                337,
+                1045,
+                924,
+                293,
+                5482,
+                281,
+                3441,
+                15147,
+                958,
+                4266,
+                13,
+                50688
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33981739847283615,
+            "compression_ratio": 1.0379746835443038,
+            "no_speech_prob": 0.009674737229943275,
+            "words": [
+                {
+                    "word": " She's",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.8814737498760223
+                },
+                {
+                    "word": " been",
+                    "start": 0.4,
+                    "end": 0.56,
+                    "probability": 0.9950522780418396
+                },
+                {
+                    "word": " studying",
+                    "start": 0.56,
+                    "end": 1.02,
+                    "probability": 0.9991286396980286
+                },
+                {
+                    "word": " Japanese",
+                    "start": 1.02,
+                    "end": 1.68,
+                    "probability": 0.9853430986404419
+                },
+                {
+                    "word": " for",
+                    "start": 1.68,
+                    "end": 2.08,
+                    "probability": 0.9984982013702393
+                },
+                {
+                    "word": " three",
+                    "start": 2.08,
+                    "end": 2.46,
+                    "probability": 0.7130041122436523
+                },
+                {
+                    "word": " years",
+                    "start": 2.46,
+                    "end": 2.74,
+                    "probability": 0.9980668425559998
+                },
+                {
+                    "word": " and",
+                    "start": 2.74,
+                    "end": 3.18,
+                    "probability": 0.780271589756012
+                },
+                {
+                    "word": " plans",
+                    "start": 3.18,
+                    "end": 3.78,
+                    "probability": 0.16235390305519104
+                },
+                {
+                    "word": " to",
+                    "start": 3.78,
+                    "end": 4.24,
+                    "probability": 0.9988045692443848
+                },
+                {
+                    "word": " visit",
+                    "start": 4.24,
+                    "end": 4.62,
+                    "probability": 0.998497724533081
+                },
+                {
+                    "word": " Tokyo",
+                    "start": 4.62,
+                    "end": 5.16,
+                    "probability": 0.9703608155250549
+                },
+                {
+                    "word": " next",
+                    "start": 5.16,
+                    "end": 5.62,
+                    "probability": 0.9162045121192932
+                },
+                {
+                    "word": " summer.",
+                    "start": 5.62,
+                    "end": 6.12,
+                    "probability": 0.8007948398590088
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,66 @@
+{
+    "text": " they should submit their reports yesterday.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.82,
+            "text": " they should submit their reports yesterday.",
+            "tokens": [
+                50364,
+                436,
+                820,
+                10315,
+                641,
+                7122,
+                5186,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.446227502822876,
+            "compression_ratio": 0.8431372549019608,
+            "no_speech_prob": 0.014519601128995419,
+            "words": [
+                {
+                    "word": " they",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.5315389633178711
+                },
+                {
+                    "word": " should",
+                    "start": 0.16,
+                    "end": 0.36,
+                    "probability": 0.9926357865333557
+                },
+                {
+                    "word": " submit",
+                    "start": 0.36,
+                    "end": 0.64,
+                    "probability": 0.6478099226951599
+                },
+                {
+                    "word": " their",
+                    "start": 0.64,
+                    "end": 0.92,
+                    "probability": 0.5697001814842224
+                },
+                {
+                    "word": " reports",
+                    "start": 0.92,
+                    "end": 1.26,
+                    "probability": 0.7435497641563416
+                },
+                {
+                    "word": " yesterday.",
+                    "start": 1.26,
+                    "end": 1.82,
+                    "probability": 0.9635191559791565
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

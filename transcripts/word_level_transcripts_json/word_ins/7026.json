@@ -1,0 +1,105 @@
+{
+    "text": " The X-ray reveals a like, hairline fracture in your wrist.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.1800000000000004,
+            "end": 5.64,
+            "text": " The X-ray reveals a like, hairline fracture in your wrist.",
+            "tokens": [
+                50364,
+                440,
+                1783,
+                12,
+                3458,
+                20893,
+                257,
+                411,
+                11,
+                324,
+                1648,
+                533,
+                36877,
+                294,
+                428,
+                15043,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4134180671290347,
+            "compression_ratio": 0.90625,
+            "no_speech_prob": 0.08023962378501892,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 1.1800000000000004,
+                    "end": 1.74,
+                    "probability": 0.816257655620575
+                },
+                {
+                    "word": " X",
+                    "start": 1.74,
+                    "end": 2.1,
+                    "probability": 0.7396299839019775
+                },
+                {
+                    "word": "-ray",
+                    "start": 2.1,
+                    "end": 2.3,
+                    "probability": 0.8462816178798676
+                },
+                {
+                    "word": " reveals",
+                    "start": 2.3,
+                    "end": 2.6,
+                    "probability": 0.9898825287818909
+                },
+                {
+                    "word": " a",
+                    "start": 2.6,
+                    "end": 2.88,
+                    "probability": 0.8949569463729858
+                },
+                {
+                    "word": " like,",
+                    "start": 2.88,
+                    "end": 3.14,
+                    "probability": 0.573989987373352
+                },
+                {
+                    "word": " hairline",
+                    "start": 4.08,
+                    "end": 4.52,
+                    "probability": 0.9696826338768005
+                },
+                {
+                    "word": " fracture",
+                    "start": 4.52,
+                    "end": 4.98,
+                    "probability": 0.9835597276687622
+                },
+                {
+                    "word": " in",
+                    "start": 4.98,
+                    "end": 5.24,
+                    "probability": 0.9977028965950012
+                },
+                {
+                    "word": " your",
+                    "start": 5.24,
+                    "end": 5.36,
+                    "probability": 0.9969692826271057
+                },
+                {
+                    "word": " wrist.",
+                    "start": 5.36,
+                    "end": 5.64,
+                    "probability": 0.9980397820472717
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,66 @@
+{
+    "text": " you will he must take responsibility.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.42,
+            "text": " you will he must take responsibility.",
+            "tokens": [
+                50364,
+                291,
+                486,
+                415,
+                1633,
+                747,
+                6357,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.648920726776123,
+            "compression_ratio": 0.8222222222222222,
+            "no_speech_prob": 0.020574260503053665,
+            "words": [
+                {
+                    "word": " you",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.3992803990840912
+                },
+                {
+                    "word": " will",
+                    "start": 0.12,
+                    "end": 0.16,
+                    "probability": 0.19751553237438202
+                },
+                {
+                    "word": " he",
+                    "start": 0.16,
+                    "end": 0.26,
+                    "probability": 0.2821599841117859
+                },
+                {
+                    "word": " must",
+                    "start": 0.26,
+                    "end": 0.48,
+                    "probability": 0.9914507269859314
+                },
+                {
+                    "word": " take",
+                    "start": 0.48,
+                    "end": 0.72,
+                    "probability": 0.9291771054267883
+                },
+                {
+                    "word": " responsibility.",
+                    "start": 0.72,
+                    "end": 1.42,
+                    "probability": 0.9667210578918457
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

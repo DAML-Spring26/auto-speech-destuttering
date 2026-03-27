@@ -1,0 +1,66 @@
+{
+    "text": " The police will control the area.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.62,
+            "text": " The police will control the area.",
+            "tokens": [
+                50364,
+                440,
+                3804,
+                486,
+                1969,
+                264,
+                1859,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3761319160461426,
+            "compression_ratio": 0.825,
+            "no_speech_prob": 0.028745140880346298,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.4941655695438385
+                },
+                {
+                    "word": " police",
+                    "start": 0.12,
+                    "end": 0.42,
+                    "probability": 0.9797614812850952
+                },
+                {
+                    "word": " will",
+                    "start": 0.42,
+                    "end": 0.64,
+                    "probability": 0.9872209429740906
+                },
+                {
+                    "word": " control",
+                    "start": 0.64,
+                    "end": 1.0,
+                    "probability": 0.9863627552986145
+                },
+                {
+                    "word": " the",
+                    "start": 1.0,
+                    "end": 1.24,
+                    "probability": 0.9965646862983704
+                },
+                {
+                    "word": " area.",
+                    "start": 1.24,
+                    "end": 1.62,
+                    "probability": 0.9735042452812195
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

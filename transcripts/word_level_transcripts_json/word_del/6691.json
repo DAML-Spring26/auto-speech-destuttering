@@ -1,0 +1,94 @@
+{
+    "text": " the new software update has causing issues for some users.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.9,
+            "text": " the new software update has causing issues for some users.",
+            "tokens": [
+                50364,
+                264,
+                777,
+                4722,
+                5623,
+                575,
+                9853,
+                2663,
+                337,
+                512,
+                5022,
+                13,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3440194470541818,
+            "compression_ratio": 0.9666666666666667,
+            "no_speech_prob": 0.0036835067439824343,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.49136990308761597
+                },
+                {
+                    "word": " new",
+                    "start": 0.12,
+                    "end": 0.32,
+                    "probability": 0.6584970951080322
+                },
+                {
+                    "word": " software",
+                    "start": 0.32,
+                    "end": 0.72,
+                    "probability": 0.9475339651107788
+                },
+                {
+                    "word": " update",
+                    "start": 0.72,
+                    "end": 1.08,
+                    "probability": 0.9038527011871338
+                },
+                {
+                    "word": " has",
+                    "start": 1.08,
+                    "end": 1.36,
+                    "probability": 0.9629277586936951
+                },
+                {
+                    "word": " causing",
+                    "start": 1.36,
+                    "end": 1.66,
+                    "probability": 0.9246575832366943
+                },
+                {
+                    "word": " issues",
+                    "start": 1.66,
+                    "end": 2.08,
+                    "probability": 0.9920159578323364
+                },
+                {
+                    "word": " for",
+                    "start": 2.08,
+                    "end": 2.38,
+                    "probability": 0.9341873526573181
+                },
+                {
+                    "word": " some",
+                    "start": 2.38,
+                    "end": 2.56,
+                    "probability": 0.9969053864479065
+                },
+                {
+                    "word": " users.",
+                    "start": 2.56,
+                    "end": 2.9,
+                    "probability": 0.6224864721298218
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

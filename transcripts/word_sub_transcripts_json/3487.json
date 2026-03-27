@@ -1,0 +1,52 @@
+{
+    "text": " They improved production deficiency.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.76,
+            "text": " They improved production deficiency.",
+            "tokens": [
+                50364,
+                814,
+                9689,
+                4265,
+                37500,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5037878155708313,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.012890535406768322,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.4899015724658966
+                },
+                {
+                    "word": " improved",
+                    "start": 0.12,
+                    "end": 0.48,
+                    "probability": 0.49260857701301575
+                },
+                {
+                    "word": " production",
+                    "start": 0.48,
+                    "end": 1.06,
+                    "probability": 0.9948086738586426
+                },
+                {
+                    "word": " deficiency.",
+                    "start": 1.06,
+                    "end": 1.76,
+                    "probability": 0.853939414024353
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

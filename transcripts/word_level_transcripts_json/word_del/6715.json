@@ -1,0 +1,81 @@
+{
+    "text": " I've been watching this new series all weekend.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.6,
+            "text": " I've been watching this new series all weekend.",
+            "tokens": [
+                50364,
+                286,
+                600,
+                668,
+                1976,
+                341,
+                777,
+                2638,
+                439,
+                6711,
+                13,
+                50510
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30314889320960414,
+            "compression_ratio": 0.8545454545454545,
+            "no_speech_prob": 0.005932414438575506,
+            "words": [
+                {
+                    "word": " I've",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.9462895095348358
+                },
+                {
+                    "word": " been",
+                    "start": 0.26,
+                    "end": 0.4,
+                    "probability": 0.998305082321167
+                },
+                {
+                    "word": " watching",
+                    "start": 0.4,
+                    "end": 0.86,
+                    "probability": 0.9942770600318909
+                },
+                {
+                    "word": " this",
+                    "start": 0.86,
+                    "end": 1.12,
+                    "probability": 0.7499722838401794
+                },
+                {
+                    "word": " new",
+                    "start": 1.12,
+                    "end": 1.4,
+                    "probability": 0.9810405373573303
+                },
+                {
+                    "word": " series",
+                    "start": 1.4,
+                    "end": 1.86,
+                    "probability": 0.9908565282821655
+                },
+                {
+                    "word": " all",
+                    "start": 1.86,
+                    "end": 2.2,
+                    "probability": 0.8655381798744202
+                },
+                {
+                    "word": " weekend.",
+                    "start": 2.2,
+                    "end": 2.6,
+                    "probability": 0.9922587275505066
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

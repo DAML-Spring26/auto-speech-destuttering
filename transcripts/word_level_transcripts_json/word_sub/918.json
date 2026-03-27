@@ -1,0 +1,60 @@
+{
+    "text": " We must maintain quality standouts.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.96,
+            "text": " We must maintain quality standouts.",
+            "tokens": [
+                50364,
+                492,
+                1633,
+                6909,
+                3125,
+                1463,
+                7711,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4860574245452881,
+            "compression_ratio": 0.8536585365853658,
+            "no_speech_prob": 0.0032314371783286333,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5856078863143921
+                },
+                {
+                    "word": " must",
+                    "start": 0.1,
+                    "end": 0.26,
+                    "probability": 0.9510193467140198
+                },
+                {
+                    "word": " maintain",
+                    "start": 0.26,
+                    "end": 0.7,
+                    "probability": 0.9935948252677917
+                },
+                {
+                    "word": " quality",
+                    "start": 0.7,
+                    "end": 1.16,
+                    "probability": 0.7029154300689697
+                },
+                {
+                    "word": " standouts.",
+                    "start": 1.16,
+                    "end": 1.96,
+                    "probability": 0.6280904412269592
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,88 @@
+{
+    "text": " the patient's condition improves significantly since the last treatment.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.22,
+            "text": " the patient's condition improves significantly since the last treatment.",
+            "tokens": [
+                50364,
+                264,
+                4537,
+                311,
+                4188,
+                24771,
+                10591,
+                1670,
+                264,
+                1036,
+                5032,
+                13,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.434699501310076,
+            "compression_ratio": 1.0285714285714285,
+            "no_speech_prob": 0.012794828973710537,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.3710535764694214
+                },
+                {
+                    "word": " patient's",
+                    "start": 0.12,
+                    "end": 0.78,
+                    "probability": 0.9620960056781769
+                },
+                {
+                    "word": " condition",
+                    "start": 0.78,
+                    "end": 1.28,
+                    "probability": 0.9919473528862
+                },
+                {
+                    "word": " improves",
+                    "start": 1.28,
+                    "end": 1.8,
+                    "probability": 0.3748117685317993
+                },
+                {
+                    "word": " significantly",
+                    "start": 1.8,
+                    "end": 2.5,
+                    "probability": 0.9976660013198853
+                },
+                {
+                    "word": " since",
+                    "start": 2.5,
+                    "end": 3.06,
+                    "probability": 0.9776672720909119
+                },
+                {
+                    "word": " the",
+                    "start": 3.06,
+                    "end": 3.4,
+                    "probability": 0.9884390234947205
+                },
+                {
+                    "word": " last",
+                    "start": 3.4,
+                    "end": 3.7,
+                    "probability": 0.9982886910438538
+                },
+                {
+                    "word": " treatment.",
+                    "start": 3.7,
+                    "end": 4.22,
+                    "probability": 0.9975764155387878
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

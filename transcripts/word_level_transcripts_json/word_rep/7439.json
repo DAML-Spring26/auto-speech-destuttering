@@ -1,0 +1,94 @@
+{
+    "text": " The conference will be attended by experts from various fields.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.82,
+            "text": " The conference will be attended by experts from various fields.",
+            "tokens": [
+                50364,
+                440,
+                7586,
+                486,
+                312,
+                15990,
+                538,
+                8572,
+                490,
+                3683,
+                7909,
+                13,
+                50572
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25183306421552387,
+            "compression_ratio": 0.9402985074626866,
+            "no_speech_prob": 0.004016401711851358,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7216705679893494
+                },
+                {
+                    "word": " conference",
+                    "start": 0.14,
+                    "end": 0.56,
+                    "probability": 0.9521878361701965
+                },
+                {
+                    "word": " will",
+                    "start": 0.56,
+                    "end": 0.84,
+                    "probability": 0.9953094124794006
+                },
+                {
+                    "word": " be",
+                    "start": 0.84,
+                    "end": 0.96,
+                    "probability": 0.9976898431777954
+                },
+                {
+                    "word": " attended",
+                    "start": 0.96,
+                    "end": 1.3,
+                    "probability": 0.9963272213935852
+                },
+                {
+                    "word": " by",
+                    "start": 1.3,
+                    "end": 1.56,
+                    "probability": 0.9994602799415588
+                },
+                {
+                    "word": " experts",
+                    "start": 1.56,
+                    "end": 2.18,
+                    "probability": 0.9896473288536072
+                },
+                {
+                    "word": " from",
+                    "start": 2.18,
+                    "end": 2.58,
+                    "probability": 0.9870342016220093
+                },
+                {
+                    "word": " various",
+                    "start": 2.58,
+                    "end": 3.2,
+                    "probability": 0.9173542261123657
+                },
+                {
+                    "word": " fields.",
+                    "start": 3.2,
+                    "end": 3.82,
+                    "probability": 0.9922969937324524
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

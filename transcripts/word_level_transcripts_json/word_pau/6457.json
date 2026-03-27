@@ -1,0 +1,108 @@
+{
+    "text": " Could you please submit the proposal by the end of the week?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.88,
+            "text": " Could you please submit the proposal by the end of the week?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                10315,
+                264,
+                11494,
+                538,
+                264,
+                917,
+                295,
+                264,
+                1243,
+                30,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3196544349193573,
+            "compression_ratio": 0.9836065573770492,
+            "no_speech_prob": 0.026971980929374695,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.8038407564163208
+                },
+                {
+                    "word": " you",
+                    "start": 0.2,
+                    "end": 0.34,
+                    "probability": 0.9939876794815063
+                },
+                {
+                    "word": " please",
+                    "start": 0.34,
+                    "end": 0.6,
+                    "probability": 0.9885525703430176
+                },
+                {
+                    "word": " submit",
+                    "start": 0.6,
+                    "end": 1.02,
+                    "probability": 0.9973624348640442
+                },
+                {
+                    "word": " the",
+                    "start": 1.02,
+                    "end": 1.2,
+                    "probability": 0.8433020710945129
+                },
+                {
+                    "word": " proposal",
+                    "start": 1.2,
+                    "end": 1.68,
+                    "probability": 0.9945648908615112
+                },
+                {
+                    "word": " by",
+                    "start": 1.68,
+                    "end": 2.02,
+                    "probability": 0.9511203765869141
+                },
+                {
+                    "word": " the",
+                    "start": 2.02,
+                    "end": 3.04,
+                    "probability": 0.3917030096054077
+                },
+                {
+                    "word": " end",
+                    "start": 3.04,
+                    "end": 5.38,
+                    "probability": 0.9975873231887817
+                },
+                {
+                    "word": " of",
+                    "start": 5.38,
+                    "end": 5.48,
+                    "probability": 0.9971901774406433
+                },
+                {
+                    "word": " the",
+                    "start": 5.48,
+                    "end": 5.62,
+                    "probability": 0.9956389665603638
+                },
+                {
+                    "word": " week?",
+                    "start": 5.62,
+                    "end": 5.88,
+                    "probability": 0.9983609318733215
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

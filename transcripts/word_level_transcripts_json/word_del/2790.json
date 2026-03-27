@@ -1,0 +1,103 @@
+{
+    "text": " we need to follow up the outstanding invoices from last month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.78,
+            "text": " we need to follow up the outstanding invoices from last month.",
+            "tokens": [
+                50364,
+                321,
+                643,
+                281,
+                1524,
+                493,
+                264,
+                14485,
+                1048,
+                78,
+                1473,
+                490,
+                1036,
+                1618,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.326387461493997,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.009934719651937485,
+            "words": [
+                {
+                    "word": " we",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.47234418988227844
+                },
+                {
+                    "word": " need",
+                    "start": 0.16,
+                    "end": 0.32,
+                    "probability": 0.9945803284645081
+                },
+                {
+                    "word": " to",
+                    "start": 0.32,
+                    "end": 0.5,
+                    "probability": 0.9970544576644897
+                },
+                {
+                    "word": " follow",
+                    "start": 0.5,
+                    "end": 0.84,
+                    "probability": 0.9955458641052246
+                },
+                {
+                    "word": " up",
+                    "start": 0.84,
+                    "end": 1.2,
+                    "probability": 0.9458045363426208
+                },
+                {
+                    "word": " the",
+                    "start": 1.2,
+                    "end": 1.38,
+                    "probability": 0.948987603187561
+                },
+                {
+                    "word": " outstanding",
+                    "start": 1.38,
+                    "end": 2.04,
+                    "probability": 0.9525954723358154
+                },
+                {
+                    "word": " invoices",
+                    "start": 2.04,
+                    "end": 2.8,
+                    "probability": 0.7678949733575186
+                },
+                {
+                    "word": " from",
+                    "start": 2.8,
+                    "end": 3.08,
+                    "probability": 0.9745094776153564
+                },
+                {
+                    "word": " last",
+                    "start": 3.08,
+                    "end": 3.4,
+                    "probability": 0.6392561793327332
+                },
+                {
+                    "word": " month.",
+                    "start": 3.4,
+                    "end": 3.78,
+                    "probability": 0.9727539420127869
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

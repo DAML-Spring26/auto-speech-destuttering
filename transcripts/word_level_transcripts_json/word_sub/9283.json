@@ -1,0 +1,66 @@
+{
+    "text": " The committee reviewed the disposal details.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.98,
+            "text": " The committee reviewed the disposal details.",
+            "tokens": [
+                50364,
+                440,
+                7482,
+                18429,
+                264,
+                26400,
+                4365,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48760080337524414,
+            "compression_ratio": 0.8627450980392157,
+            "no_speech_prob": 0.009077961556613445,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.5568901300430298
+                },
+                {
+                    "word": " committee",
+                    "start": 0.16,
+                    "end": 0.5,
+                    "probability": 0.7609798312187195
+                },
+                {
+                    "word": " reviewed",
+                    "start": 0.5,
+                    "end": 0.96,
+                    "probability": 0.6719273924827576
+                },
+                {
+                    "word": " the",
+                    "start": 0.96,
+                    "end": 1.14,
+                    "probability": 0.9931353330612183
+                },
+                {
+                    "word": " disposal",
+                    "start": 1.14,
+                    "end": 1.52,
+                    "probability": 0.9489325284957886
+                },
+                {
+                    "word": " details.",
+                    "start": 1.52,
+                    "end": 1.98,
+                    "probability": 0.9971643090248108
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

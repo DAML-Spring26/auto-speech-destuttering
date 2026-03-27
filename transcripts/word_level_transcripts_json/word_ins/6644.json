@@ -1,0 +1,127 @@
+{
+    "text": " Have you listened to the latest album? By that, you know Band.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.0400000000000003,
+            "end": 3.32,
+            "text": " Have you listened to the latest album?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                13207,
+                281,
+                264,
+                6792,
+                6030,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41504716873168945,
+            "compression_ratio": 0.9393939393939394,
+            "no_speech_prob": 0.08275759965181351,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 1.0400000000000003,
+                    "end": 1.64,
+                    "probability": 0.835626482963562
+                },
+                {
+                    "word": " you",
+                    "start": 1.64,
+                    "end": 1.84,
+                    "probability": 0.9940478801727295
+                },
+                {
+                    "word": " listened",
+                    "start": 1.84,
+                    "end": 2.14,
+                    "probability": 0.9465524554252625
+                },
+                {
+                    "word": " to",
+                    "start": 2.14,
+                    "end": 2.44,
+                    "probability": 0.9978711605072021
+                },
+                {
+                    "word": " the",
+                    "start": 2.44,
+                    "end": 2.56,
+                    "probability": 0.9698174595832825
+                },
+                {
+                    "word": " latest",
+                    "start": 2.56,
+                    "end": 2.86,
+                    "probability": 0.9967182278633118
+                },
+                {
+                    "word": " album?",
+                    "start": 2.86,
+                    "end": 3.32,
+                    "probability": 0.9964535236358643
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.02,
+            "end": 6.28,
+            "text": " By that, you know Band.",
+            "tokens": [
+                50564,
+                3146,
+                300,
+                11,
+                291,
+                458,
+                15462,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41504716873168945,
+            "compression_ratio": 0.9393939393939394,
+            "no_speech_prob": 0.08275759965181351,
+            "words": [
+                {
+                    "word": " By",
+                    "start": 4.02,
+                    "end": 4.44,
+                    "probability": 0.4222845137119293
+                },
+                {
+                    "word": " that,",
+                    "start": 4.44,
+                    "end": 4.7,
+                    "probability": 0.9842101335525513
+                },
+                {
+                    "word": " you",
+                    "start": 5.1,
+                    "end": 5.2,
+                    "probability": 0.9856916069984436
+                },
+                {
+                    "word": " know",
+                    "start": 5.2,
+                    "end": 5.44,
+                    "probability": 0.9943991303443909
+                },
+                {
+                    "word": " Band.",
+                    "start": 5.44,
+                    "end": 6.28,
+                    "probability": 0.3013278543949127
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

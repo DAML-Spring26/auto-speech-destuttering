@@ -1,0 +1,66 @@
+{
+    "text": " The patient discovered completely after treatment.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.96,
+            "text": " The patient discovered completely after treatment.",
+            "tokens": [
+                50364,
+                440,
+                4537,
+                6941,
+                2584,
+                934,
+                5032,
+                13,
+                50480
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38293273448944093,
+            "compression_ratio": 0.8771929824561403,
+            "no_speech_prob": 0.004148396663367748,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7002077102661133
+                },
+                {
+                    "word": " patient",
+                    "start": 0.1,
+                    "end": 0.42,
+                    "probability": 0.9965571165084839
+                },
+                {
+                    "word": " discovered",
+                    "start": 0.42,
+                    "end": 0.82,
+                    "probability": 0.9814257621765137
+                },
+                {
+                    "word": " completely",
+                    "start": 0.82,
+                    "end": 1.34,
+                    "probability": 0.9825034737586975
+                },
+                {
+                    "word": " after",
+                    "start": 1.34,
+                    "end": 1.6,
+                    "probability": 0.9961326122283936
+                },
+                {
+                    "word": " treatment.",
+                    "start": 1.6,
+                    "end": 1.96,
+                    "probability": 0.9913183450698853
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

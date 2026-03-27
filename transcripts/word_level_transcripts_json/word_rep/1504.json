@@ -1,0 +1,60 @@
+{
+    "text": " though the dog barks loudly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.02,
+            "text": " though the dog barks loudly.",
+            "tokens": [
+                50364,
+                1673,
+                264,
+                3000,
+                16202,
+                82,
+                22958,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6947487354278564,
+            "compression_ratio": 0.7777777777777778,
+            "no_speech_prob": 0.030767254531383514,
+            "words": [
+                {
+                    "word": " though",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.4664321541786194
+                },
+                {
+                    "word": " the",
+                    "start": 0.3,
+                    "end": 0.74,
+                    "probability": 0.6155304312705994
+                },
+                {
+                    "word": " dog",
+                    "start": 0.74,
+                    "end": 0.98,
+                    "probability": 0.6751649379730225
+                },
+                {
+                    "word": " barks",
+                    "start": 0.98,
+                    "end": 1.66,
+                    "probability": 0.9314665496349335
+                },
+                {
+                    "word": " loudly.",
+                    "start": 1.66,
+                    "end": 2.02,
+                    "probability": 0.3555694818496704
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

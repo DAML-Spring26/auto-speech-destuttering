@@ -1,0 +1,68 @@
+{
+    "text": " The Diplomatic Core prevents new proposals.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.14,
+            "text": " The Diplomatic Core prevents new proposals.",
+            "tokens": [
+                50364,
+                440,
+                8789,
+                564,
+                13143,
+                14798,
+                22367,
+                777,
+                20198,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.464788277943929,
+            "compression_ratio": 0.8775510204081632,
+            "no_speech_prob": 0.007307852152734995,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.6937182545661926
+                },
+                {
+                    "word": " Diplomatic",
+                    "start": 0.08,
+                    "end": 0.56,
+                    "probability": 0.6957341432571411
+                },
+                {
+                    "word": " Core",
+                    "start": 0.56,
+                    "end": 0.86,
+                    "probability": 0.7883222699165344
+                },
+                {
+                    "word": " prevents",
+                    "start": 0.86,
+                    "end": 1.2,
+                    "probability": 0.9587938189506531
+                },
+                {
+                    "word": " new",
+                    "start": 1.2,
+                    "end": 1.58,
+                    "probability": 0.9766978621482849
+                },
+                {
+                    "word": " proposals.",
+                    "start": 1.58,
+                    "end": 2.14,
+                    "probability": 0.8252854943275452
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

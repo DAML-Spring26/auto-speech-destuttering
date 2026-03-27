@@ -1,0 +1,74 @@
+{
+    "text": " Let's watch the movie together this weekend.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.5799999999999996,
+            "end": 4.94,
+            "text": " Let's watch the movie together this weekend.",
+            "tokens": [
+                50364,
+                961,
+                311,
+                1159,
+                264,
+                3169,
+                1214,
+                341,
+                6711,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5142428080240885,
+            "compression_ratio": 0.9166666666666666,
+            "no_speech_prob": 0.018637899309396744,
+            "words": [
+                {
+                    "word": " Let's",
+                    "start": 1.5799999999999996,
+                    "end": 2.44,
+                    "probability": 0.9112137854099274
+                },
+                {
+                    "word": " watch",
+                    "start": 2.44,
+                    "end": 2.76,
+                    "probability": 0.9854726195335388
+                },
+                {
+                    "word": " the",
+                    "start": 2.76,
+                    "end": 3.0,
+                    "probability": 0.39431527256965637
+                },
+                {
+                    "word": " movie",
+                    "start": 3.0,
+                    "end": 3.46,
+                    "probability": 0.9899055361747742
+                },
+                {
+                    "word": " together",
+                    "start": 3.46,
+                    "end": 4.08,
+                    "probability": 0.5192234516143799
+                },
+                {
+                    "word": " this",
+                    "start": 4.08,
+                    "end": 4.5,
+                    "probability": 0.9900211691856384
+                },
+                {
+                    "word": " weekend.",
+                    "start": 4.5,
+                    "end": 4.94,
+                    "probability": 0.9947904348373413
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

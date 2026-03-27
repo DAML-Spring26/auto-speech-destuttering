@@ -1,0 +1,66 @@
+{
+    "text": " We need to progress this request.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.6,
+            "text": " We need to progress this request.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                4205,
+                341,
+                5308,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2612069845199585,
+            "compression_ratio": 0.8048780487804879,
+            "no_speech_prob": 0.007813667878508568,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6650616526603699
+                },
+                {
+                    "word": " need",
+                    "start": 0.14,
+                    "end": 0.26,
+                    "probability": 0.9925657510757446
+                },
+                {
+                    "word": " to",
+                    "start": 0.26,
+                    "end": 0.4,
+                    "probability": 0.9987033605575562
+                },
+                {
+                    "word": " progress",
+                    "start": 0.4,
+                    "end": 0.74,
+                    "probability": 0.9258228540420532
+                },
+                {
+                    "word": " this",
+                    "start": 0.74,
+                    "end": 1.12,
+                    "probability": 0.9597076773643494
+                },
+                {
+                    "word": " request.",
+                    "start": 1.12,
+                    "end": 1.6,
+                    "probability": 0.9865983724594116
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

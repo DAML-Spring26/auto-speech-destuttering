@@ -1,0 +1,59 @@
+{
+    "text": " the manager requested immediate traction.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.04,
+            "text": " the manager requested immediate traction.",
+            "tokens": [
+                50364,
+                264,
+                6598,
+                16436,
+                11629,
+                23558,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4972473250495063,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.004212048836052418,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.46345147490501404
+                },
+                {
+                    "word": " manager",
+                    "start": 0.1,
+                    "end": 0.44,
+                    "probability": 0.8594673871994019
+                },
+                {
+                    "word": " requested",
+                    "start": 0.44,
+                    "end": 1.08,
+                    "probability": 0.9816113114356995
+                },
+                {
+                    "word": " immediate",
+                    "start": 1.08,
+                    "end": 1.5,
+                    "probability": 0.9544867277145386
+                },
+                {
+                    "word": " traction.",
+                    "start": 1.5,
+                    "end": 2.04,
+                    "probability": 0.9002686738967896
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

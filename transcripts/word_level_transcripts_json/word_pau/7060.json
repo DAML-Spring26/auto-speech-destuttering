@@ -1,0 +1,87 @@
+{
+    "text": " We should discuss this matter with the legal department.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.26,
+            "text": " We should discuss this matter with the legal department.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                2248,
+                341,
+                1871,
+                365,
+                264,
+                5089,
+                5882,
+                13,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40220003861647385,
+            "compression_ratio": 0.9180327868852459,
+            "no_speech_prob": 0.017695162445306778,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.6217546463012695
+                },
+                {
+                    "word": " should",
+                    "start": 0.18,
+                    "end": 0.36,
+                    "probability": 0.9906713962554932
+                },
+                {
+                    "word": " discuss",
+                    "start": 0.36,
+                    "end": 0.76,
+                    "probability": 0.9972766041755676
+                },
+                {
+                    "word": " this",
+                    "start": 0.76,
+                    "end": 1.1,
+                    "probability": 0.9426981806755066
+                },
+                {
+                    "word": " matter",
+                    "start": 1.1,
+                    "end": 1.54,
+                    "probability": 0.9966779947280884
+                },
+                {
+                    "word": " with",
+                    "start": 1.54,
+                    "end": 1.92,
+                    "probability": 0.9873703718185425
+                },
+                {
+                    "word": " the",
+                    "start": 1.92,
+                    "end": 3.32,
+                    "probability": 0.7060648798942566
+                },
+                {
+                    "word": " legal",
+                    "start": 3.32,
+                    "end": 3.68,
+                    "probability": 0.43928804993629456
+                },
+                {
+                    "word": " department.",
+                    "start": 3.68,
+                    "end": 4.26,
+                    "probability": 0.8813208341598511
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

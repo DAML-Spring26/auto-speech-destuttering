@@ -1,0 +1,80 @@
+{
+    "text": " the new policy aims to improve workplace safety.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.38,
+            "text": " the new policy aims to improve workplace safety.",
+            "tokens": [
+                50364,
+                264,
+                777,
+                3897,
+                24683,
+                281,
+                3470,
+                15328,
+                4514,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3636895815531413,
+            "compression_ratio": 0.8727272727272727,
+            "no_speech_prob": 0.01266978494822979,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.39499351382255554
+                },
+                {
+                    "word": " new",
+                    "start": 0.14,
+                    "end": 0.38,
+                    "probability": 0.9692150950431824
+                },
+                {
+                    "word": " policy",
+                    "start": 0.38,
+                    "end": 0.96,
+                    "probability": 0.9269502758979797
+                },
+                {
+                    "word": " aims",
+                    "start": 0.96,
+                    "end": 1.4,
+                    "probability": 0.9795213341712952
+                },
+                {
+                    "word": " to",
+                    "start": 1.4,
+                    "end": 1.8,
+                    "probability": 0.9924435019493103
+                },
+                {
+                    "word": " improve",
+                    "start": 1.8,
+                    "end": 4.14,
+                    "probability": 0.9513458609580994
+                },
+                {
+                    "word": " workplace",
+                    "start": 4.14,
+                    "end": 4.7,
+                    "probability": 0.8407123684883118
+                },
+                {
+                    "word": " safety.",
+                    "start": 4.7,
+                    "end": 5.38,
+                    "probability": 0.9977020621299744
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

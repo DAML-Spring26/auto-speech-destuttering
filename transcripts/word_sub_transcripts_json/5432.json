@@ -1,0 +1,94 @@
+{
+    "text": " The economist analyzed the impact of inflation on consumer pending.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.94,
+            "text": " The economist analyzed the impact of inflation on consumer pending.",
+            "tokens": [
+                50364,
+                440,
+                36696,
+                28181,
+                264,
+                2712,
+                295,
+                15860,
+                322,
+                9711,
+                32110,
+                13,
+                50518
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3927757058824812,
+            "compression_ratio": 0.9571428571428572,
+            "no_speech_prob": 0.0028391850646585226,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.6401042342185974
+                },
+                {
+                    "word": " economist",
+                    "start": 0.08,
+                    "end": 0.42,
+                    "probability": 0.5287060737609863
+                },
+                {
+                    "word": " analyzed",
+                    "start": 0.42,
+                    "end": 0.9,
+                    "probability": 0.3865949511528015
+                },
+                {
+                    "word": " the",
+                    "start": 0.9,
+                    "end": 1.16,
+                    "probability": 0.9965299963951111
+                },
+                {
+                    "word": " impact",
+                    "start": 1.16,
+                    "end": 1.36,
+                    "probability": 0.9887050986289978
+                },
+                {
+                    "word": " of",
+                    "start": 1.36,
+                    "end": 1.56,
+                    "probability": 0.9856746792793274
+                },
+                {
+                    "word": " inflation",
+                    "start": 1.56,
+                    "end": 2.0,
+                    "probability": 0.99076908826828
+                },
+                {
+                    "word": " on",
+                    "start": 2.0,
+                    "end": 2.14,
+                    "probability": 0.8610819578170776
+                },
+                {
+                    "word": " consumer",
+                    "start": 2.14,
+                    "end": 2.52,
+                    "probability": 0.9799318909645081
+                },
+                {
+                    "word": " pending.",
+                    "start": 2.52,
+                    "end": 2.94,
+                    "probability": 0.7330752015113831
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

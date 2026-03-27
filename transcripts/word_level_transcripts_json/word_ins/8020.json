@@ -1,0 +1,161 @@
+{
+    "text": " Hatter, please call, I'm sorry, I'm Stella. But that item is like, currently out of stock.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.7799999999999996,
+            "end": 4.38,
+            "text": " Hatter, please call, I'm sorry, I'm Stella.",
+            "tokens": [
+                50364,
+                389,
+                1161,
+                11,
+                1767,
+                818,
+                11,
+                286,
+                478,
+                2597,
+                11,
+                286,
+                478,
+                45073,
+                13,
+                50662
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4850104014078776,
+            "compression_ratio": 1.0588235294117647,
+            "no_speech_prob": 0.3255535960197449,
+            "words": [
+                {
+                    "word": " Hatter,",
+                    "start": 0.7799999999999996,
+                    "end": 1.26,
+                    "probability": 0.6598907262086868
+                },
+                {
+                    "word": " please",
+                    "start": 1.88,
+                    "end": 2.26,
+                    "probability": 0.9793617129325867
+                },
+                {
+                    "word": " call,",
+                    "start": 2.26,
+                    "end": 2.56,
+                    "probability": 0.914183497428894
+                },
+                {
+                    "word": " I'm",
+                    "start": 2.82,
+                    "end": 3.04,
+                    "probability": 0.9550794661045074
+                },
+                {
+                    "word": " sorry,",
+                    "start": 3.04,
+                    "end": 3.2,
+                    "probability": 0.3997418284416199
+                },
+                {
+                    "word": " I'm",
+                    "start": 3.36,
+                    "end": 4.04,
+                    "probability": 0.9548923373222351
+                },
+                {
+                    "word": " Stella.",
+                    "start": 4.04,
+                    "end": 4.38,
+                    "probability": 0.9437084197998047
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.46,
+            "end": 7.62,
+            "text": " But that item is like, currently out of stock.",
+            "tokens": [
+                50662,
+                583,
+                300,
+                3174,
+                307,
+                411,
+                11,
+                4362,
+                484,
+                295,
+                4127,
+                13,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4850104014078776,
+            "compression_ratio": 1.0588235294117647,
+            "no_speech_prob": 0.3255535960197449,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 5.46,
+                    "end": 5.94,
+                    "probability": 0.9660250544548035
+                },
+                {
+                    "word": " that",
+                    "start": 5.94,
+                    "end": 6.1,
+                    "probability": 0.9743194580078125
+                },
+                {
+                    "word": " item",
+                    "start": 6.1,
+                    "end": 6.34,
+                    "probability": 0.9930583238601685
+                },
+                {
+                    "word": " is",
+                    "start": 6.34,
+                    "end": 6.54,
+                    "probability": 0.989953875541687
+                },
+                {
+                    "word": " like,",
+                    "start": 6.54,
+                    "end": 6.72,
+                    "probability": 0.7928375601768494
+                },
+                {
+                    "word": " currently",
+                    "start": 7.0,
+                    "end": 7.16,
+                    "probability": 0.9541096091270447
+                },
+                {
+                    "word": " out",
+                    "start": 7.16,
+                    "end": 7.34,
+                    "probability": 0.934960126876831
+                },
+                {
+                    "word": " of",
+                    "start": 7.34,
+                    "end": 7.38,
+                    "probability": 0.9671168327331543
+                },
+                {
+                    "word": " stock.",
+                    "start": 7.38,
+                    "end": 7.62,
+                    "probability": 0.9971412420272827
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

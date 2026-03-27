@@ -1,0 +1,59 @@
+{
+    "text": " She preferred the analysis carefully.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.82,
+            "text": " She preferred the analysis carefully.",
+            "tokens": [
+                50364,
+                1240,
+                16494,
+                264,
+                5215,
+                7500,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34956566492716473,
+            "compression_ratio": 0.8809523809523809,
+            "no_speech_prob": 0.005029326770454645,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.6409714818000793
+                },
+                {
+                    "word": " preferred",
+                    "start": 0.22,
+                    "end": 0.58,
+                    "probability": 0.9788920879364014
+                },
+                {
+                    "word": " the",
+                    "start": 0.58,
+                    "end": 0.84,
+                    "probability": 0.9879059791564941
+                },
+                {
+                    "word": " analysis",
+                    "start": 0.84,
+                    "end": 1.24,
+                    "probability": 0.9233013391494751
+                },
+                {
+                    "word": " carefully.",
+                    "start": 1.24,
+                    "end": 1.82,
+                    "probability": 0.9987022876739502
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

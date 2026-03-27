@@ -1,0 +1,60 @@
+{
+    "text": " Mary, Mary reads fast now.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.02,
+            "text": " Mary, Mary reads fast now.",
+            "tokens": [
+                50364,
+                6059,
+                11,
+                6059,
+                15700,
+                2370,
+                586,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5354541778564453,
+            "compression_ratio": 0.8125,
+            "no_speech_prob": 0.008702810853719711,
+            "words": [
+                {
+                    "word": " Mary,",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.54527348279953
+                },
+                {
+                    "word": " Mary",
+                    "start": 0.66,
+                    "end": 0.98,
+                    "probability": 0.9806007742881775
+                },
+                {
+                    "word": " reads",
+                    "start": 0.98,
+                    "end": 1.32,
+                    "probability": 0.8116352558135986
+                },
+                {
+                    "word": " fast",
+                    "start": 1.32,
+                    "end": 1.66,
+                    "probability": 0.9857397675514221
+                },
+                {
+                    "word": " now.",
+                    "start": 1.66,
+                    "end": 2.02,
+                    "probability": 0.990355372428894
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

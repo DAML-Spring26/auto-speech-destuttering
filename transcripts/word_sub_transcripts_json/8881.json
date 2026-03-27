@@ -1,0 +1,52 @@
+{
+    "text": " The contact was binding.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.36,
+            "text": " The contact was binding.",
+            "tokens": [
+                50364,
+                440,
+                3385,
+                390,
+                17359,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45290428400039673,
+            "compression_ratio": 0.75,
+            "no_speech_prob": 0.002976325573399663,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6425614953041077
+                },
+                {
+                    "word": " contact",
+                    "start": 0.14,
+                    "end": 0.58,
+                    "probability": 0.9677752256393433
+                },
+                {
+                    "word": " was",
+                    "start": 0.58,
+                    "end": 1.0,
+                    "probability": 0.9967161417007446
+                },
+                {
+                    "word": " binding.",
+                    "start": 1.0,
+                    "end": 1.36,
+                    "probability": 0.9941574335098267
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

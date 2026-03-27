@@ -1,0 +1,87 @@
+{
+    "text": " She said that she had already competed the assignment.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.06,
+            "text": " She said that she had already competed the assignment.",
+            "tokens": [
+                50364,
+                1240,
+                848,
+                300,
+                750,
+                632,
+                1217,
+                43619,
+                264,
+                15187,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3482554509089543,
+            "compression_ratio": 0.9310344827586207,
+            "no_speech_prob": 0.0023932848125696182,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.75082927942276
+                },
+                {
+                    "word": " said",
+                    "start": 0.2,
+                    "end": 0.5,
+                    "probability": 0.9872755408287048
+                },
+                {
+                    "word": " that",
+                    "start": 0.5,
+                    "end": 0.7,
+                    "probability": 0.8284288048744202
+                },
+                {
+                    "word": " she",
+                    "start": 0.7,
+                    "end": 0.92,
+                    "probability": 0.9953586459159851
+                },
+                {
+                    "word": " had",
+                    "start": 0.92,
+                    "end": 1.2,
+                    "probability": 0.9631713628768921
+                },
+                {
+                    "word": " already",
+                    "start": 1.2,
+                    "end": 1.6,
+                    "probability": 0.9944762587547302
+                },
+                {
+                    "word": " competed",
+                    "start": 1.6,
+                    "end": 2.28,
+                    "probability": 0.8103815317153931
+                },
+                {
+                    "word": " the",
+                    "start": 2.28,
+                    "end": 2.54,
+                    "probability": 0.9652912616729736
+                },
+                {
+                    "word": " assignment.",
+                    "start": 2.54,
+                    "end": 3.06,
+                    "probability": 0.9823246002197266
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,73 @@
+{
+    "text": " The marketing team launched the latest campaign.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.2,
+            "text": " The marketing team launched the latest campaign.",
+            "tokens": [
+                50364,
+                440,
+                6370,
+                1469,
+                8730,
+                264,
+                6792,
+                5129,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.43589622324163263,
+            "compression_ratio": 0.8727272727272727,
+            "no_speech_prob": 0.0017658332362771034,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6323853135108948
+                },
+                {
+                    "word": " marketing",
+                    "start": 0.1,
+                    "end": 0.4,
+                    "probability": 0.7518038749694824
+                },
+                {
+                    "word": " team",
+                    "start": 0.4,
+                    "end": 0.8,
+                    "probability": 0.9969007968902588
+                },
+                {
+                    "word": " launched",
+                    "start": 0.8,
+                    "end": 1.06,
+                    "probability": 0.9156847596168518
+                },
+                {
+                    "word": " the",
+                    "start": 1.06,
+                    "end": 1.26,
+                    "probability": 0.7132847309112549
+                },
+                {
+                    "word": " latest",
+                    "start": 1.26,
+                    "end": 1.54,
+                    "probability": 0.9709067344665527
+                },
+                {
+                    "word": " campaign.",
+                    "start": 1.54,
+                    "end": 2.2,
+                    "probability": 0.9914516806602478
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

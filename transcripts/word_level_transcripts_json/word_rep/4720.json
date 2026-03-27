@@ -1,0 +1,101 @@
+{
+    "text": " She wondered if her presentation had effectively communicated the main ideas.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.32,
+            "text": " She wondered if her presentation had effectively communicated the main ideas.",
+            "tokens": [
+                50364,
+                1240,
+                17055,
+                498,
+                720,
+                5860,
+                632,
+                8659,
+                34989,
+                264,
+                2135,
+                3487,
+                13,
+                50600
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2894331932067871,
+            "compression_ratio": 1.0405405405405406,
+            "no_speech_prob": 0.005118584260344505,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7385714650154114
+                },
+                {
+                    "word": " wondered",
+                    "start": 0.16,
+                    "end": 0.46,
+                    "probability": 0.9807149171829224
+                },
+                {
+                    "word": " if",
+                    "start": 0.46,
+                    "end": 0.66,
+                    "probability": 0.9943854808807373
+                },
+                {
+                    "word": " her",
+                    "start": 0.66,
+                    "end": 0.76,
+                    "probability": 0.9933702945709229
+                },
+                {
+                    "word": " presentation",
+                    "start": 0.76,
+                    "end": 1.24,
+                    "probability": 0.9969929456710815
+                },
+                {
+                    "word": " had",
+                    "start": 1.24,
+                    "end": 1.9,
+                    "probability": 0.9867269396781921
+                },
+                {
+                    "word": " effectively",
+                    "start": 1.9,
+                    "end": 2.66,
+                    "probability": 0.5822158455848694
+                },
+                {
+                    "word": " communicated",
+                    "start": 2.66,
+                    "end": 3.5,
+                    "probability": 0.9928734302520752
+                },
+                {
+                    "word": " the",
+                    "start": 3.5,
+                    "end": 3.74,
+                    "probability": 0.9924867153167725
+                },
+                {
+                    "word": " main",
+                    "start": 3.74,
+                    "end": 3.92,
+                    "probability": 0.9979079961776733
+                },
+                {
+                    "word": " ideas.",
+                    "start": 3.92,
+                    "end": 4.32,
+                    "probability": 0.9825727939605713
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

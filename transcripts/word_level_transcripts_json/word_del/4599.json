@@ -1,0 +1,87 @@
+{
+    "text": " The committee is debating to approve the new policy.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.58,
+            "text": " The committee is debating to approve the new policy.",
+            "tokens": [
+                50364,
+                440,
+                7482,
+                307,
+                40647,
+                281,
+                18827,
+                264,
+                777,
+                3897,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2988581657409668,
+            "compression_ratio": 0.8813559322033898,
+            "no_speech_prob": 0.017400972545146942,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.693608283996582
+                },
+                {
+                    "word": " committee",
+                    "start": 0.12,
+                    "end": 0.5,
+                    "probability": 0.7911454439163208
+                },
+                {
+                    "word": " is",
+                    "start": 0.5,
+                    "end": 0.9,
+                    "probability": 0.9976344108581543
+                },
+                {
+                    "word": " debating",
+                    "start": 0.9,
+                    "end": 1.34,
+                    "probability": 0.9950630068778992
+                },
+                {
+                    "word": " to",
+                    "start": 1.34,
+                    "end": 1.58,
+                    "probability": 0.9984990358352661
+                },
+                {
+                    "word": " approve",
+                    "start": 1.58,
+                    "end": 1.8,
+                    "probability": 0.9938656687736511
+                },
+                {
+                    "word": " the",
+                    "start": 1.8,
+                    "end": 2.0,
+                    "probability": 0.9842764139175415
+                },
+                {
+                    "word": " new",
+                    "start": 2.0,
+                    "end": 2.14,
+                    "probability": 0.9910775423049927
+                },
+                {
+                    "word": " policy.",
+                    "start": 2.14,
+                    "end": 2.58,
+                    "probability": 0.9945542812347412
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,59 @@
+{
+    "text": " We should determine the evidence.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.48,
+            "text": " We should determine the evidence.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                6997,
+                264,
+                4467,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3554433451758491,
+            "compression_ratio": 0.8048780487804879,
+            "no_speech_prob": 0.012840905226767063,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5623438358306885
+                },
+                {
+                    "word": " should",
+                    "start": 0.12,
+                    "end": 0.28,
+                    "probability": 0.9969902038574219
+                },
+                {
+                    "word": " determine",
+                    "start": 0.28,
+                    "end": 0.78,
+                    "probability": 0.9963802695274353
+                },
+                {
+                    "word": " the",
+                    "start": 0.78,
+                    "end": 1.04,
+                    "probability": 0.9977121353149414
+                },
+                {
+                    "word": " evidence.",
+                    "start": 1.04,
+                    "end": 1.48,
+                    "probability": 0.996945321559906
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

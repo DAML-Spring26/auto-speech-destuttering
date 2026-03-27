@@ -1,0 +1,67 @@
+{
+    "text": " students, stem and stray critical drinking.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.12,
+            "text": " students, stem and stray critical drinking.",
+            "tokens": [
+                50364,
+                1731,
+                11,
+                12312,
+                293,
+                36219,
+                4924,
+                7583,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8608265790072355,
+            "compression_ratio": 0.8775510204081632,
+            "no_speech_prob": 0.013052016496658325,
+            "words": [
+                {
+                    "word": " students,",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.25348520278930664
+                },
+                {
+                    "word": " stem",
+                    "start": 0.64,
+                    "end": 0.84,
+                    "probability": 0.18495729565620422
+                },
+                {
+                    "word": " and",
+                    "start": 0.84,
+                    "end": 0.98,
+                    "probability": 0.521538496017456
+                },
+                {
+                    "word": " stray",
+                    "start": 0.98,
+                    "end": 1.24,
+                    "probability": 0.9481749534606934
+                },
+                {
+                    "word": " critical",
+                    "start": 1.24,
+                    "end": 1.74,
+                    "probability": 0.6950487494468689
+                },
+                {
+                    "word": " drinking.",
+                    "start": 1.74,
+                    "end": 2.12,
+                    "probability": 0.9896182417869568
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

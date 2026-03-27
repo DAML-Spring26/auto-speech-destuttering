@@ -1,0 +1,90 @@
+{
+    "text": " The volcanologist monitored seismic activity around the active cradle.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.7,
+            "text": " The volcanologist monitored seismic activity around the active cradle.",
+            "tokens": [
+                50364,
+                440,
+                1996,
+                7035,
+                9201,
+                36255,
+                40159,
+                299,
+                5191,
+                926,
+                264,
+                4967,
+                48081,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3575407862663269,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.006031431257724762,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.673145592212677
+                },
+                {
+                    "word": " volcanologist",
+                    "start": 0.12,
+                    "end": 1.0,
+                    "probability": 0.5976618528366089
+                },
+                {
+                    "word": " monitored",
+                    "start": 1.0,
+                    "end": 1.62,
+                    "probability": 0.86592698097229
+                },
+                {
+                    "word": " seismic",
+                    "start": 1.62,
+                    "end": 2.48,
+                    "probability": 0.9979365766048431
+                },
+                {
+                    "word": " activity",
+                    "start": 2.48,
+                    "end": 3.02,
+                    "probability": 0.998547375202179
+                },
+                {
+                    "word": " around",
+                    "start": 3.02,
+                    "end": 3.58,
+                    "probability": 0.8950252532958984
+                },
+                {
+                    "word": " the",
+                    "start": 3.58,
+                    "end": 3.84,
+                    "probability": 0.9773244261741638
+                },
+                {
+                    "word": " active",
+                    "start": 3.84,
+                    "end": 4.22,
+                    "probability": 0.9676423072814941
+                },
+                {
+                    "word": " cradle.",
+                    "start": 4.22,
+                    "end": 4.7,
+                    "probability": 0.9841861128807068
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

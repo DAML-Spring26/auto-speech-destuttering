@@ -1,0 +1,96 @@
+{
+    "text": " If the weather permits, we'll have the picnic on Saturday.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.9,
+            "text": " If the weather permits, we'll have the picnic on Saturday.",
+            "tokens": [
+                50364,
+                759,
+                264,
+                5503,
+                30990,
+                11,
+                321,
+                603,
+                362,
+                264,
+                32137,
+                322,
+                8803,
+                13,
+                50724
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41326647996902466,
+            "compression_ratio": 0.9666666666666667,
+            "no_speech_prob": 0.009301948361098766,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.5914274454116821
+                },
+                {
+                    "word": " the",
+                    "start": 0.28,
+                    "end": 0.42,
+                    "probability": 0.9958028197288513
+                },
+                {
+                    "word": " weather",
+                    "start": 0.42,
+                    "end": 0.72,
+                    "probability": 0.9985149502754211
+                },
+                {
+                    "word": " permits,",
+                    "start": 0.72,
+                    "end": 4.48,
+                    "probability": 0.876591145992279
+                },
+                {
+                    "word": " we'll",
+                    "start": 5.06,
+                    "end": 5.4,
+                    "probability": 0.9430343806743622
+                },
+                {
+                    "word": " have",
+                    "start": 5.4,
+                    "end": 5.58,
+                    "probability": 0.9983507394790649
+                },
+                {
+                    "word": " the",
+                    "start": 5.58,
+                    "end": 5.78,
+                    "probability": 0.9871461391448975
+                },
+                {
+                    "word": " picnic",
+                    "start": 5.78,
+                    "end": 6.06,
+                    "probability": 0.6806419491767883
+                },
+                {
+                    "word": " on",
+                    "start": 6.06,
+                    "end": 6.4,
+                    "probability": 0.9614468216896057
+                },
+                {
+                    "word": " Saturday.",
+                    "start": 6.4,
+                    "end": 6.9,
+                    "probability": 0.9840375185012817
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

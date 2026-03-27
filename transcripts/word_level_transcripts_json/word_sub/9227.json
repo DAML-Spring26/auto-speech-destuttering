@@ -1,0 +1,54 @@
+{
+    "text": " the Disgust Production roles.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.44,
+            "text": " the Disgust Production roles.",
+            "tokens": [
+                50364,
+                264,
+                4208,
+                70,
+                381,
+                30088,
+                9604,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6249374389648438,
+            "compression_ratio": 0.7837837837837838,
+            "no_speech_prob": 0.016350265592336655,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.3561367094516754
+                },
+                {
+                    "word": " Disgust",
+                    "start": 0.12,
+                    "end": 0.52,
+                    "probability": 0.6693898439407349
+                },
+                {
+                    "word": " Production",
+                    "start": 0.52,
+                    "end": 1.04,
+                    "probability": 0.7466680407524109
+                },
+                {
+                    "word": " roles.",
+                    "start": 1.04,
+                    "end": 1.44,
+                    "probability": 0.4106276035308838
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

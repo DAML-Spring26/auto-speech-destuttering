@@ -1,0 +1,105 @@
+{
+    "text": " The company is planning to expand. Its operations overseas.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.2,
+            "text": " The company is planning to expand.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                307,
+                5038,
+                281,
+                5268,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5711970925331116,
+            "compression_ratio": 0.921875,
+            "no_speech_prob": 0.007892956025898457,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8862682580947876
+                },
+                {
+                    "word": " company",
+                    "start": 0.12,
+                    "end": 0.56,
+                    "probability": 0.9891849756240845
+                },
+                {
+                    "word": " is",
+                    "start": 0.56,
+                    "end": 0.96,
+                    "probability": 0.9970754384994507
+                },
+                {
+                    "word": " planning",
+                    "start": 0.96,
+                    "end": 1.32,
+                    "probability": 0.9977521300315857
+                },
+                {
+                    "word": " to",
+                    "start": 1.32,
+                    "end": 1.54,
+                    "probability": 0.9994704127311707
+                },
+                {
+                    "word": " expand.",
+                    "start": 1.54,
+                    "end": 2.2,
+                    "probability": 0.997731626033783
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.68,
+            "end": 7.14,
+            "text": " Its operations overseas.",
+            "tokens": [
+                50648,
+                6953,
+                7705,
+                16274,
+                13,
+                50748
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5711970925331116,
+            "compression_ratio": 0.921875,
+            "no_speech_prob": 0.007892956025898457,
+            "words": [
+                {
+                    "word": " Its",
+                    "start": 5.3,
+                    "end": 5.84,
+                    "probability": 0.656907856464386
+                },
+                {
+                    "word": " operations",
+                    "start": 5.84,
+                    "end": 6.42,
+                    "probability": 0.9703801274299622
+                },
+                {
+                    "word": " overseas.",
+                    "start": 6.42,
+                    "end": 7.14,
+                    "probability": 0.9743168354034424
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

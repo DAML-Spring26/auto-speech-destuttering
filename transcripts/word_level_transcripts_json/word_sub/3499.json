@@ -1,0 +1,73 @@
+{
+    "text": " She regarded all the meeting minutes digitally.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.12,
+            "text": " She regarded all the meeting minutes digitally.",
+            "tokens": [
+                50364,
+                1240,
+                26047,
+                439,
+                264,
+                3440,
+                2077,
+                36938,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3853268189863725,
+            "compression_ratio": 0.9038461538461539,
+            "no_speech_prob": 0.0028907537925988436,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5638293027877808
+                },
+                {
+                    "word": " regarded",
+                    "start": 0.14,
+                    "end": 0.5,
+                    "probability": 0.929676353931427
+                },
+                {
+                    "word": " all",
+                    "start": 0.5,
+                    "end": 0.72,
+                    "probability": 0.9871182441711426
+                },
+                {
+                    "word": " the",
+                    "start": 0.72,
+                    "end": 0.86,
+                    "probability": 0.9728204011917114
+                },
+                {
+                    "word": " meeting",
+                    "start": 0.86,
+                    "end": 1.16,
+                    "probability": 0.9787598252296448
+                },
+                {
+                    "word": " minutes",
+                    "start": 1.16,
+                    "end": 1.56,
+                    "probability": 0.9867922067642212
+                },
+                {
+                    "word": " digitally.",
+                    "start": 1.56,
+                    "end": 2.12,
+                    "probability": 0.9937288761138916
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

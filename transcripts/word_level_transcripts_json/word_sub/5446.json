@@ -1,0 +1,84 @@
+{
+    "text": " Renewable energy sources are becoming increasingly cost-respective.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.2,
+            "text": " Renewable energy sources are becoming increasingly cost-respective.",
+            "tokens": [
+                50364,
+                12883,
+                1023,
+                712,
+                2281,
+                7139,
+                366,
+                5617,
+                12980,
+                2063,
+                12,
+                19575,
+                488,
+                13,
+                50580
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29399457573890686,
+            "compression_ratio": 0.9852941176470589,
+            "no_speech_prob": 0.005259220022708178,
+            "words": [
+                {
+                    "word": " Renewable",
+                    "start": 0.0,
+                    "end": 0.56,
+                    "probability": 0.9738408525784811
+                },
+                {
+                    "word": " energy",
+                    "start": 0.56,
+                    "end": 0.92,
+                    "probability": 0.9925211071968079
+                },
+                {
+                    "word": " sources",
+                    "start": 0.92,
+                    "end": 1.52,
+                    "probability": 0.9964225888252258
+                },
+                {
+                    "word": " are",
+                    "start": 1.52,
+                    "end": 1.76,
+                    "probability": 0.9951784610748291
+                },
+                {
+                    "word": " becoming",
+                    "start": 1.76,
+                    "end": 2.14,
+                    "probability": 0.9976918697357178
+                },
+                {
+                    "word": " increasingly",
+                    "start": 2.14,
+                    "end": 2.8,
+                    "probability": 0.9873695969581604
+                },
+                {
+                    "word": " cost",
+                    "start": 2.8,
+                    "end": 3.24,
+                    "probability": 0.9324466586112976
+                },
+                {
+                    "word": "-respective.",
+                    "start": 3.24,
+                    "end": 4.2,
+                    "probability": 0.6657878657182058
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

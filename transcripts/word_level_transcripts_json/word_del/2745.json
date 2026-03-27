@@ -1,0 +1,87 @@
+{
+    "text": " Our team working on this project for three months.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.34,
+            "text": " Our team working on this project for three months.",
+            "tokens": [
+                50364,
+                2621,
+                1469,
+                1364,
+                322,
+                341,
+                1716,
+                337,
+                1045,
+                2493,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4265549366290753,
+            "compression_ratio": 0.8771929824561403,
+            "no_speech_prob": 0.0028489648830145597,
+            "words": [
+                {
+                    "word": " Our",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.3324659764766693
+                },
+                {
+                    "word": " team",
+                    "start": 0.14,
+                    "end": 0.36,
+                    "probability": 0.9927427768707275
+                },
+                {
+                    "word": " working",
+                    "start": 0.36,
+                    "end": 0.74,
+                    "probability": 0.7495960593223572
+                },
+                {
+                    "word": " on",
+                    "start": 0.74,
+                    "end": 0.92,
+                    "probability": 0.9929543137550354
+                },
+                {
+                    "word": " this",
+                    "start": 0.92,
+                    "end": 1.1,
+                    "probability": 0.9907359480857849
+                },
+                {
+                    "word": " project",
+                    "start": 1.1,
+                    "end": 1.44,
+                    "probability": 0.9965118765830994
+                },
+                {
+                    "word": " for",
+                    "start": 1.44,
+                    "end": 1.72,
+                    "probability": 0.9884137511253357
+                },
+                {
+                    "word": " three",
+                    "start": 1.72,
+                    "end": 2.0,
+                    "probability": 0.6897616982460022
+                },
+                {
+                    "word": " months.",
+                    "start": 2.0,
+                    "end": 2.34,
+                    "probability": 0.9953852295875549
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

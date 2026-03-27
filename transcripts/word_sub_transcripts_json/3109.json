@@ -1,0 +1,66 @@
+{
+    "text": " The flight attendant demonstrated safety precautions.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.74,
+            "text": " The flight attendant demonstrated safety precautions.",
+            "tokens": [
+                50364,
+                440,
+                7018,
+                39339,
+                18772,
+                4514,
+                34684,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41098856925964355,
+            "compression_ratio": 0.8833333333333333,
+            "no_speech_prob": 0.004434399772435427,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7826863527297974
+                },
+                {
+                    "word": " flight",
+                    "start": 0.1,
+                    "end": 0.34,
+                    "probability": 0.8831843733787537
+                },
+                {
+                    "word": " attendant",
+                    "start": 0.34,
+                    "end": 0.82,
+                    "probability": 0.9915598034858704
+                },
+                {
+                    "word": " demonstrated",
+                    "start": 0.82,
+                    "end": 1.54,
+                    "probability": 0.751479983329773
+                },
+                {
+                    "word": " safety",
+                    "start": 1.54,
+                    "end": 2.18,
+                    "probability": 0.9958145022392273
+                },
+                {
+                    "word": " precautions.",
+                    "start": 2.18,
+                    "end": 2.74,
+                    "probability": 0.9923654198646545
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,59 @@
+{
+    "text": " She sings in the shower.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.64,
+            "text": " She sings in the shower.",
+            "tokens": [
+                50364,
+                1240,
+                23250,
+                294,
+                264,
+                10128,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.44849496417575413,
+            "compression_ratio": 0.8275862068965517,
+            "no_speech_prob": 0.01094317901879549,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.555650532245636
+                },
+                {
+                    "word": " sings",
+                    "start": 0.22,
+                    "end": 0.52,
+                    "probability": 0.9956314563751221
+                },
+                {
+                    "word": " in",
+                    "start": 0.52,
+                    "end": 0.88,
+                    "probability": 0.9601471424102783
+                },
+                {
+                    "word": " the",
+                    "start": 0.88,
+                    "end": 1.26,
+                    "probability": 0.6039025187492371
+                },
+                {
+                    "word": " shower.",
+                    "start": 1.26,
+                    "end": 1.64,
+                    "probability": 0.9890857338905334
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

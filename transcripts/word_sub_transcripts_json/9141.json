@@ -1,0 +1,52 @@
+{
+    "text": " The waiter needs testing.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.98,
+            "text": " The waiter needs testing.",
+            "tokens": [
+                50364,
+                440,
+                45389,
+                2203,
+                4997,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4970657229423523,
+            "compression_ratio": 0.7575757575757576,
+            "no_speech_prob": 0.00737531716004014,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5445475578308105
+                },
+                {
+                    "word": " waiter",
+                    "start": 0.14,
+                    "end": 0.32,
+                    "probability": 0.8660407066345215
+                },
+                {
+                    "word": " needs",
+                    "start": 0.32,
+                    "end": 0.5,
+                    "probability": 0.993910551071167
+                },
+                {
+                    "word": " testing.",
+                    "start": 0.5,
+                    "end": 0.98,
+                    "probability": 0.9941173791885376
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

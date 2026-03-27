@@ -1,0 +1,94 @@
+{
+    "text": " which concert are you most excited to see this summer.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.78,
+            "text": " which concert are you most excited to see this summer.",
+            "tokens": [
+                50364,
+                597,
+                8543,
+                366,
+                291,
+                881,
+                2919,
+                281,
+                536,
+                341,
+                4266,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.43063184193202425,
+            "compression_ratio": 0.9310344827586207,
+            "no_speech_prob": 0.007802140899002552,
+            "words": [
+                {
+                    "word": " which",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.8394738435745239
+                },
+                {
+                    "word": " concert",
+                    "start": 0.2,
+                    "end": 0.6,
+                    "probability": 0.5324952006340027
+                },
+                {
+                    "word": " are",
+                    "start": 0.6,
+                    "end": 0.78,
+                    "probability": 0.8494320511817932
+                },
+                {
+                    "word": " you",
+                    "start": 0.78,
+                    "end": 0.92,
+                    "probability": 0.8982462882995605
+                },
+                {
+                    "word": " most",
+                    "start": 0.92,
+                    "end": 1.1,
+                    "probability": 0.9952502250671387
+                },
+                {
+                    "word": " excited",
+                    "start": 1.1,
+                    "end": 1.6,
+                    "probability": 0.998173713684082
+                },
+                {
+                    "word": " to",
+                    "start": 1.6,
+                    "end": 3.66,
+                    "probability": 0.6307510137557983
+                },
+                {
+                    "word": " see",
+                    "start": 3.66,
+                    "end": 5.32,
+                    "probability": 0.9971696734428406
+                },
+                {
+                    "word": " this",
+                    "start": 5.32,
+                    "end": 5.52,
+                    "probability": 0.7776484489440918
+                },
+                {
+                    "word": " summer.",
+                    "start": 5.52,
+                    "end": 5.78,
+                    "probability": 0.9781520962715149
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

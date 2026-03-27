@@ -1,0 +1,80 @@
+{
+    "text": " Your blood pressure is slightly elevated on today.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.4399999999999995,
+            "end": 4.12,
+            "text": " Your blood pressure is slightly elevated on today.",
+            "tokens": [
+                50364,
+                2260,
+                3390,
+                3321,
+                307,
+                4748,
+                23457,
+                322,
+                965,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4292820692062378,
+            "compression_ratio": 0.8620689655172413,
+            "no_speech_prob": 0.051530830562114716,
+            "words": [
+                {
+                    "word": " Your",
+                    "start": 1.4399999999999995,
+                    "end": 2.0,
+                    "probability": 0.8189809322357178
+                },
+                {
+                    "word": " blood",
+                    "start": 2.0,
+                    "end": 2.2,
+                    "probability": 0.9963822364807129
+                },
+                {
+                    "word": " pressure",
+                    "start": 2.2,
+                    "end": 2.56,
+                    "probability": 0.9997828602790833
+                },
+                {
+                    "word": " is",
+                    "start": 2.56,
+                    "end": 2.78,
+                    "probability": 0.9979731440544128
+                },
+                {
+                    "word": " slightly",
+                    "start": 2.78,
+                    "end": 3.06,
+                    "probability": 0.9977052807807922
+                },
+                {
+                    "word": " elevated",
+                    "start": 3.06,
+                    "end": 3.66,
+                    "probability": 0.9993473887443542
+                },
+                {
+                    "word": " on",
+                    "start": 3.66,
+                    "end": 3.86,
+                    "probability": 0.9440858960151672
+                },
+                {
+                    "word": " today.",
+                    "start": 3.86,
+                    "end": 4.12,
+                    "probability": 0.9873213768005371
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

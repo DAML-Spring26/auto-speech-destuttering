@@ -1,0 +1,59 @@
+{
+    "text": " the committee discussed the proposal.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.8,
+            "text": " the committee discussed the proposal.",
+            "tokens": [
+                50364,
+                264,
+                7482,
+                7152,
+                264,
+                11494,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4709862603081597,
+            "compression_ratio": 0.8409090909090909,
+            "no_speech_prob": 0.02164972387254238,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.41069430112838745
+                },
+                {
+                    "word": " committee",
+                    "start": 0.14,
+                    "end": 0.46,
+                    "probability": 0.7628543376922607
+                },
+                {
+                    "word": " discussed",
+                    "start": 0.46,
+                    "end": 0.92,
+                    "probability": 0.7544512748718262
+                },
+                {
+                    "word": " the",
+                    "start": 0.92,
+                    "end": 1.22,
+                    "probability": 0.9884169697761536
+                },
+                {
+                    "word": " proposal.",
+                    "start": 1.22,
+                    "end": 1.8,
+                    "probability": 0.9937553405761719
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

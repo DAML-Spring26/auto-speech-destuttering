@@ -1,0 +1,74 @@
+{
+    "text": " The patient's symptoms indicate a vital infection.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.26,
+            "text": " The patient's symptoms indicate a vital infection.",
+            "tokens": [
+                50364,
+                440,
+                4537,
+                311,
+                8332,
+                13330,
+                257,
+                11707,
+                11764,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3551861842473348,
+            "compression_ratio": 0.8771929824561403,
+            "no_speech_prob": 0.008825340308248997,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6540713310241699
+                },
+                {
+                    "word": " patient's",
+                    "start": 0.14,
+                    "end": 0.8,
+                    "probability": 0.8523315787315369
+                },
+                {
+                    "word": " symptoms",
+                    "start": 0.8,
+                    "end": 1.24,
+                    "probability": 0.995806097984314
+                },
+                {
+                    "word": " indicate",
+                    "start": 1.24,
+                    "end": 1.88,
+                    "probability": 0.9972870349884033
+                },
+                {
+                    "word": " a",
+                    "start": 1.88,
+                    "end": 2.2,
+                    "probability": 0.978619396686554
+                },
+                {
+                    "word": " vital",
+                    "start": 2.2,
+                    "end": 2.62,
+                    "probability": 0.9845983982086182
+                },
+                {
+                    "word": " infection.",
+                    "start": 2.62,
+                    "end": 3.26,
+                    "probability": 0.9942086935043335
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

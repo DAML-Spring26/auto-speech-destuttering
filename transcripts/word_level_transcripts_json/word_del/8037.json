@@ -1,0 +1,102 @@
+{
+    "text": " The office opened from Monday to Friday, but closed on weekends.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.9,
+            "text": " The office opened from Monday to Friday, but closed on weekends.",
+            "tokens": [
+                50364,
+                440,
+                3398,
+                5625,
+                490,
+                8138,
+                281,
+                6984,
+                11,
+                457,
+                5395,
+                322,
+                23595,
+                13,
+                50580
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27303653955459595,
+            "compression_ratio": 0.9411764705882353,
+            "no_speech_prob": 0.005758318118751049,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5173715353012085
+                },
+                {
+                    "word": " office",
+                    "start": 0.1,
+                    "end": 0.36,
+                    "probability": 0.987721860408783
+                },
+                {
+                    "word": " opened",
+                    "start": 0.36,
+                    "end": 0.88,
+                    "probability": 0.9617345929145813
+                },
+                {
+                    "word": " from",
+                    "start": 0.88,
+                    "end": 1.18,
+                    "probability": 0.9693153500556946
+                },
+                {
+                    "word": " Monday",
+                    "start": 1.18,
+                    "end": 1.52,
+                    "probability": 0.9986498951911926
+                },
+                {
+                    "word": " to",
+                    "start": 1.52,
+                    "end": 1.76,
+                    "probability": 0.9922540187835693
+                },
+                {
+                    "word": " Friday,",
+                    "start": 1.76,
+                    "end": 2.22,
+                    "probability": 0.9955637454986572
+                },
+                {
+                    "word": " but",
+                    "start": 2.78,
+                    "end": 2.88,
+                    "probability": 0.9957564473152161
+                },
+                {
+                    "word": " closed",
+                    "start": 2.88,
+                    "end": 3.28,
+                    "probability": 0.9660371541976929
+                },
+                {
+                    "word": " on",
+                    "start": 3.28,
+                    "end": 3.54,
+                    "probability": 0.9144874215126038
+                },
+                {
+                    "word": " weekends.",
+                    "start": 3.54,
+                    "end": 3.9,
+                    "probability": 0.9841118454933167
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

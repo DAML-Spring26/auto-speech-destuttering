@@ -1,0 +1,53 @@
+{
+    "text": " They can't get money.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.84,
+            "text": " They can't get money.",
+            "tokens": [
+                50364,
+                814,
+                393,
+                380,
+                483,
+                1460,
+                13,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6063613361782498,
+            "compression_ratio": 0.7241379310344828,
+            "no_speech_prob": 0.009075721725821495,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5859360694885254
+                },
+                {
+                    "word": " can't",
+                    "start": 0.12,
+                    "end": 0.38,
+                    "probability": 0.7067853063344955
+                },
+                {
+                    "word": " get",
+                    "start": 0.38,
+                    "end": 0.48,
+                    "probability": 0.32544878125190735
+                },
+                {
+                    "word": " money.",
+                    "start": 0.48,
+                    "end": 0.84,
+                    "probability": 0.9409982562065125
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

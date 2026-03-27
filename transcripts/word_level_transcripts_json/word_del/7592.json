@@ -1,0 +1,94 @@
+{
+    "text": " The results of study were published in a scientific journal.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.3,
+            "text": " The results of study were published in a scientific journal.",
+            "tokens": [
+                50364,
+                440,
+                3542,
+                295,
+                2979,
+                645,
+                6572,
+                294,
+                257,
+                8134,
+                6708,
+                13,
+                50538
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31697375433785574,
+            "compression_ratio": 0.9375,
+            "no_speech_prob": 0.005371129605919123,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5062499642372131
+                },
+                {
+                    "word": " results",
+                    "start": 0.1,
+                    "end": 0.42,
+                    "probability": 0.9936875700950623
+                },
+                {
+                    "word": " of",
+                    "start": 0.42,
+                    "end": 0.72,
+                    "probability": 0.9952985644340515
+                },
+                {
+                    "word": " study",
+                    "start": 0.72,
+                    "end": 1.1,
+                    "probability": 0.9757393598556519
+                },
+                {
+                    "word": " were",
+                    "start": 1.1,
+                    "end": 1.3,
+                    "probability": 0.9968685507774353
+                },
+                {
+                    "word": " published",
+                    "start": 1.3,
+                    "end": 1.72,
+                    "probability": 0.9951981902122498
+                },
+                {
+                    "word": " in",
+                    "start": 1.72,
+                    "end": 2.08,
+                    "probability": 0.9960489869117737
+                },
+                {
+                    "word": " a",
+                    "start": 2.08,
+                    "end": 2.18,
+                    "probability": 0.8775866031646729
+                },
+                {
+                    "word": " scientific",
+                    "start": 2.18,
+                    "end": 2.82,
+                    "probability": 0.9551474452018738
+                },
+                {
+                    "word": " journal.",
+                    "start": 2.82,
+                    "end": 3.3,
+                    "probability": 0.9972330927848816
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

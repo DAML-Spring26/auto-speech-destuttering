@@ -1,0 +1,87 @@
+{
+    "text": " The company is planning to expand into new markets.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.34,
+            "text": " The company is planning to expand into new markets.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                307,
+                5038,
+                281,
+                5268,
+                666,
+                777,
+                8383,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2745504195873554,
+            "compression_ratio": 0.9107142857142857,
+            "no_speech_prob": 0.005471306387335062,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7905101180076599
+                },
+                {
+                    "word": " company",
+                    "start": 0.14,
+                    "end": 0.56,
+                    "probability": 0.9928529858589172
+                },
+                {
+                    "word": " is",
+                    "start": 0.56,
+                    "end": 0.82,
+                    "probability": 0.9940776824951172
+                },
+                {
+                    "word": " planning",
+                    "start": 0.82,
+                    "end": 1.12,
+                    "probability": 0.996826171875
+                },
+                {
+                    "word": " to",
+                    "start": 1.12,
+                    "end": 1.36,
+                    "probability": 0.9984539747238159
+                },
+                {
+                    "word": " expand",
+                    "start": 1.36,
+                    "end": 1.76,
+                    "probability": 0.9518063068389893
+                },
+                {
+                    "word": " into",
+                    "start": 1.76,
+                    "end": 2.18,
+                    "probability": 0.980283796787262
+                },
+                {
+                    "word": " new",
+                    "start": 2.18,
+                    "end": 3.82,
+                    "probability": 0.7021346688270569
+                },
+                {
+                    "word": " markets.",
+                    "start": 3.82,
+                    "end": 4.34,
+                    "probability": 0.951469361782074
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

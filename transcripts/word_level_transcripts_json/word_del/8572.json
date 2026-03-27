@@ -1,0 +1,102 @@
+{
+    "text": " We're planning to visit the Paris room for our summer vacation.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.42,
+            "text": " We're planning to visit the Paris room for our summer vacation.",
+            "tokens": [
+                50364,
+                492,
+                434,
+                5038,
+                281,
+                3441,
+                264,
+                8380,
+                1808,
+                337,
+                527,
+                4266,
+                12830,
+                13,
+                50494
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4103813171386719,
+            "compression_ratio": 0.9692307692307692,
+            "no_speech_prob": 0.005344340577721596,
+            "words": [
+                {
+                    "word": " We're",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6366109699010849
+                },
+                {
+                    "word": " planning",
+                    "start": 0.1,
+                    "end": 0.28,
+                    "probability": 0.9971537590026855
+                },
+                {
+                    "word": " to",
+                    "start": 0.28,
+                    "end": 0.46,
+                    "probability": 0.9990772008895874
+                },
+                {
+                    "word": " visit",
+                    "start": 0.46,
+                    "end": 0.66,
+                    "probability": 0.9953501224517822
+                },
+                {
+                    "word": " the",
+                    "start": 0.66,
+                    "end": 0.92,
+                    "probability": 0.7104291319847107
+                },
+                {
+                    "word": " Paris",
+                    "start": 0.92,
+                    "end": 1.22,
+                    "probability": 0.9301397800445557
+                },
+                {
+                    "word": " room",
+                    "start": 1.22,
+                    "end": 1.48,
+                    "probability": 0.5453747510910034
+                },
+                {
+                    "word": " for",
+                    "start": 1.48,
+                    "end": 1.64,
+                    "probability": 0.9943628311157227
+                },
+                {
+                    "word": " our",
+                    "start": 1.64,
+                    "end": 1.76,
+                    "probability": 0.3422430157661438
+                },
+                {
+                    "word": " summer",
+                    "start": 1.76,
+                    "end": 1.94,
+                    "probability": 0.9808669686317444
+                },
+                {
+                    "word": " vacation.",
+                    "start": 1.94,
+                    "end": 2.42,
+                    "probability": 0.9956984519958496
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

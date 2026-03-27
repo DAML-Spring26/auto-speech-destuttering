@@ -1,0 +1,102 @@
+{
+    "text": " The microbiologist isolated a new strain of bacteria in the laboratory.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.5,
+            "text": " The microbiologist isolated a new strain of bacteria in the laboratory.",
+            "tokens": [
+                50364,
+                440,
+                33234,
+                9201,
+                14621,
+                257,
+                777,
+                14249,
+                295,
+                11763,
+                294,
+                264,
+                16523,
+                13,
+                50556
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29663223028182983,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.0055040959268808365,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5703929662704468
+                },
+                {
+                    "word": " microbiologist",
+                    "start": 0.12,
+                    "end": 0.9,
+                    "probability": 0.784769207239151
+                },
+                {
+                    "word": " isolated",
+                    "start": 0.9,
+                    "end": 1.46,
+                    "probability": 0.9797229170799255
+                },
+                {
+                    "word": " a",
+                    "start": 1.46,
+                    "end": 1.74,
+                    "probability": 0.9866987466812134
+                },
+                {
+                    "word": " new",
+                    "start": 1.74,
+                    "end": 1.88,
+                    "probability": 0.9907754063606262
+                },
+                {
+                    "word": " strain",
+                    "start": 1.88,
+                    "end": 2.24,
+                    "probability": 0.8883532881736755
+                },
+                {
+                    "word": " of",
+                    "start": 2.24,
+                    "end": 2.44,
+                    "probability": 0.9888349175453186
+                },
+                {
+                    "word": " bacteria",
+                    "start": 2.44,
+                    "end": 2.86,
+                    "probability": 0.9948891401290894
+                },
+                {
+                    "word": " in",
+                    "start": 2.86,
+                    "end": 3.12,
+                    "probability": 0.990565299987793
+                },
+                {
+                    "word": " the",
+                    "start": 3.12,
+                    "end": 3.2,
+                    "probability": 0.9944685697555542
+                },
+                {
+                    "word": " laboratory.",
+                    "start": 3.2,
+                    "end": 3.5,
+                    "probability": 0.8067600727081299
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

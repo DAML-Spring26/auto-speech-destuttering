@@ -1,0 +1,78 @@
+audio_id,transcript,true_label,pred_label,confidence,classify_reason,cleaned,explanation
+4706,Have you checked and free your plate yet?,SUB,REP,0.8,The word 'and' is repeated in the transcript.,Have you checked your plate yet?,"A great example of a common speech error!
+
+1. The specific dysfluency detected is Repetition (REP), which occurred at the word ""free"" in the original transcript. This means that the speaker repeated the sound or syllable unnecessarily, resulting in an awkward pause.
+2. The likely correction is to remove the unnecessary repetition and replace it with the correct word ""your"". This correction is based on the typical pronunciation of the phrase, where ""your"" is the possessive adjective indicating ownership of the plate."
+8869,The late of growth increased.,SUB,REP,0.8,The repeated use of 'of' instead of a more typical phrase or word suggests word repetition.,The rate of growth increased.,"A great example!
+
+1. The specific dysfluency detected is Repetition (REP), which occurred at the beginning of the sentence, replacing ""rate"" with ""late"".
+2. The likely correction is to replace ""late"" with ""rate"", as the speaker intended to convey the idea of growth rate increasing, rather than referring to a late occurrence. This correction addresses the repetition error and restores the original meaning."
+5828,The Psychology Professor explained cognitive buses.,SUB,DEL,0.8,The word 'the' is missing from the expected phrase 'the cognitive buses',The Psychology Professor explained cognitive processes.,"A great example of a common dysfluency!
+
+1. The specific dysfluency detected is a Delayed Echo (DEL), which occurred at the beginning of the sentence (""The Psychology Professor...""). This type of dysfluency is characterized by a brief pause or hesitation before articulating the first sound or syllable.
+2. The likely correction is replacing ""cognitive buses"" with ""cognitive processes"". This change addresses the DEL by providing a more accurate and meaningful phrase that aligns with the context of a psychology professor's explanation."
+1111,The CEO will announce the company's expansion plans tomorrow.,PAU,NONE,1.0,No dysfluency detected in the given transcript.,The CEO will announce the company's expansion plans tomorrow afternoon.,"A routine assessment!
+
+To the clinician: I detected no dysfluency in the original transcript. However, upon further analysis, I recommend a minor modification to enhance clarity and naturalness. Specifically, adding ""afternoon"" to specify the time of the announcement (tomorrow afternoon) can help prevent potential listener confusion about the timing."
+3320,Students must complete their research prospects by December.,SUB,NONE,1.0,No dysfluency detected in the given transcript.,Students must complete their research projects by December.,"A quick analysis!
+
+1. The specific dysfluency detected is an omission error, specifically a missing word (""projects"" instead of ""prospects""). This occurs at the beginning of the sentence.
+2. The likely correction is to replace ""prospects"" with ""projects"", as it is the correct term in this context. This correction is based on linguistic accuracy and semantic coherence, ensuring that the student's instruction is clear and understandable."
+10287,We should analyze that the data before making any conclusions.,REP,REP,0.8,The word 'that' is repeated in the transcript.,We should analyze the data before drawing any conclusions.,"A great example of a common dysfluency!
+
+1. The specific dysfluency detected is Repetition (REP), which occurred at the word ""that"" in the original transcript.
+2. The likely correction is to remove the redundant word ""that"", resulting in the corrected sentence: ""We should analyze the data before drawing any conclusions."" This correction is based on the assumption that the speaker intended to convey a more concise and efficient message, rather than emphasizing the object of the verb ""analyze""."
+1737,the Committee approved the proposed budget agreement.,SUB,NONE,1.0,No dysfluency detected in the given transcript.,The committee approved the proposed budget agreement.,"No dysfluency was detected in this original transcript. The sentence ""the Committee approved the proposed budget agreement"" appears to be grammatically correct, with no observable speech errors or disruptions. Therefore, there is no need for correction."
+1005,which genre of music do you prefer for relaxation?,PAU,PAU,0.8,The short pause before 'do' is an unnatural filler word.,What kind of music do you like to unwind to?,"A great example!
+
+1. The specific dysfluency detected is a pause (PAU) at the beginning of the sentence, specifically after the word ""which"". This indicates that the individual may be experiencing difficulty initiating their response or may be hesitant to start speaking.
+2. The likely correction is to rephrase the question to ""What kind of music do you like to unwind to?"" which eliminates the pause-inducing word ""which"" and replaces it with a more natural and conversational phrase. This change helps to reduce the hesitation and makes the sentence flow more smoothly."
+6271,Effective communication skills are essential for a successful readership.,SUB,REP,0.8,The word 'the' is repeated in the phrase 'Effective communication skills are essential for a successful readership.',Effective communication skills are essential for success in reading and leading.,"A dysfluency detection!
+
+1. The specific dysfluency detected is Repetition (REP), occurring at the phrase ""for a successful readership"". The speaker repeats the word ""for"" unnecessarily, disrupting the natural flow of speech.
+2. The likely correction is to rephrase the sentence to ""Effective communication skills are essential for success in reading and leading."" This correction addresses the REP by removing the unnecessary repetition and providing a more concise and clear expression of the intended meaning."
+6307,The philosopher debated the nature of conscientiousness.,SUB,NONE,1.0,"The transcript appears to be a normal, fluent utterance with no signs of dysfluency.",The philosopher debated the nature of consciousness.,"A straightforward one!
+
+1. No dysfluency was detected; however, I identified an error in articulation. The original transcript ""conscientiousness"" contains a phonological error, specifically a substitution of /k/ for /s/, resulting in an incorrect pronunciation.
+2. The likely correction is replacing ""conscientiousness"" with ""consciousness"". This change corrects the phonological error and restores the intended meaning, as ""consciousness"" is a more relevant term in the context of philosophical debate."
+1050,We need to find a solution to this problem before it escalates into a major crisis.,DEL,PAU,0.8,The short utterance 'before it escalates into a major crisis' is an unnatural pause or filler word.,We need to find a solution to this problem before it gets out of hand.,"A PAU (Prolonged Audible Unvoiced) dysfluency was detected at the beginning of the original transcript, specifically on the word ""need"". This indicates that the speaker prolonged the initial consonant sound (/n/) before articulating the rest of the word. The likely correction is to replace the prolonged /n/ with a normal, brief /n/, resulting in the corrected phrase ""We need...""."
+3686,the system deflects a potential threat.,SUB,NONE,1.0,No dysfluency detected in the given transcript.,The system deflects potential threats.,"A great example of a minor linguistic adjustment!
+
+1. No dysfluency was detected, which means there were no disruptions or abnormalities in the original sentence's articulation or rhythm.
+2. The corrected version ""The system deflects potential threats"" likely reflects the intended meaning of the speaker, which is to convey that the system can handle multiple potential threats rather than a single one. This correction simply removes the unnecessary article (""a"") and makes the phrase more concise and idiomatic."
+1114,The professor explained the experiment results were inconclusive.,DEL,DEL,0.8,The word 'the' is missing from the original phrase 'the experiment results'.,The professor explained that the experiment results were inconclusive.,"A dysfluency detection!
+
+For this original transcript: ""The professor explained the experiment results were inconclusive.""
+
+1. The specific dysfluency detected is a deletion (DEL) of the word ""that"" at the beginning of the sentence.
+2. The likely correction is to add the word ""that"" before ""the experiment results"", making it ""The professor explained that the experiment results were inconclusive."" This correction addresses the omission, ensuring proper grammatical structure and clarity in communication."
+3453,need to progress the application quickly.,SUB,NONE,1.0,No dysfluency detected in the transcript.,Need to progress the application quickly.,"No dysfluency was detected in the original transcript. The text appears to be fluent and natural-sounding. Therefore, no correction is necessary, and the original transcript remains unchanged: ""need to progress the application quickly."""
+10075,The conference will feature keynote speakers from various fields of scientific research.,REP,NONE,1.0,No dysfluency detected in the provided transcript.,The conference will feature keynote speakers from diverse fields of scientific research.,"To the clinician:
+
+A minor dysfluency was detected in the original transcript: the phrase ""various fields"" lacks precision and clarity, potentially causing a momentary pause or hesitation for listeners.
+
+The likely correction is to replace ""various"" with ""diverse"", which provides more specific and nuanced language, enhancing overall communication effectiveness."
+10291,"By the time we arrived, the meeting hat had already started.",REP,DEL,0.8,"The word 'started' is missing the expected preposition 'was', indicating a deletion of the word 'was'.","By the time we arrived, the meeting had already started.","A great example of a common dysfluency!
+
+1. The specific dysfluency detected is a deletion error (DEL), specifically a missing word (""had"" in this case). This occurs at the beginning of the sentence, where ""the meeting"" should be followed by ""had"".
+2. The likely correction is to insert the correct word ""had"" after ""meeting"", resulting in the corrected sentence: ""By the time we arrived, the meeting had already started."" This correction addresses the deletion error and restores the original intended meaning of the speaker's message."
+4506,she compared the financial statement.,SUB,DEL,0.8,The word 'the' is missing from the original phrase.,She compared the financial statements.,"A great example of a common dysfluency!
+
+1. The specific dysfluency detected is a deletion (DEL), which occurred at the end of the sentence, specifically with the plural noun ""statements"".
+2. The likely correction is to add the plural suffix ""-s"" to ""financial"", changing it from ""She compared the financial statement"" to ""She compared the financial statements"". This correction is necessary because the speaker intended to refer to multiple financial reports or documents, and the singular form ""statement"" doesn't accurately convey that meaning."
+7421,How does co-operative distance affect the session faking?,SUB,REP,0.8,The repeated use of 'co-operative' instead of a single instance suggests word repetition.,How does cooperative distance affect the session?,"A great example of a common speech error!
+
+1. The specific dysfluency detected is a repetition (REP) error, occurring at the word ""co-operative"" in the original transcript.
+2. The likely correction is to simplify the phrase to ""cooperative"", removing the unnecessary repetition and making the sentence more natural-sounding. This correction is based on linguistic principles, as the speaker is likely attempting to emphasize the cooperative aspect but inadvertently repeats the prefix, resulting in a less fluent utterance."
+4934,She's optimizing the algorithm for better conformance.,SUB,REP,0.8,The word 'the' is repeated in the phrase 'optimizing the algorithm'.,She's optimizing the algorithm to improve its performance.,"A great example of a common speech disorder!
+
+For your reference:
+
+1. The specific dysfluency detected is Repetition (REP), which occurs when an individual repeats part of a word or phrase, in this case, ""for better conformance"". This repetition is likely due to the speaker's struggle to find the most effective way to convey their intended meaning.
+2. The likely correction is replacing ""for better conformance"" with ""to improve its performance"", which simplifies and clarifies the sentence structure. This change helps eliminate the unnecessary repetition, making the message more concise and easier to understand."
+121,The committee evaluating the proposals and will announce the winners next month.,DEL,NONE,1.0,No dysfluency detected in the given transcript.,The committee will evaluate the proposals and announce the winners next month.,"A great example of a minor revision!
+
+To the clinician:
+
+1. No dysfluency was detected in this original transcript, indicating that the speaker's utterance was fluent.
+2. Since no dysfluency was present, there is no correction needed. The original sentence is already grammatically correct and easy to understand."

@@ -1,0 +1,127 @@
+{
+    "text": " In case of fire, use the stairs instead of well. The elevator.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.84,
+            "text": " In case of fire, use the stairs instead of well.",
+            "tokens": [
+                50364,
+                682,
+                1389,
+                295,
+                2610,
+                11,
+                764,
+                264,
+                13471,
+                2602,
+                295,
+                731,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35349867343902586,
+            "compression_ratio": 0.9538461538461539,
+            "no_speech_prob": 0.09990246593952179,
+            "words": [
+                {
+                    "word": " In",
+                    "start": 0.0,
+                    "end": 1.34,
+                    "probability": 0.8776945471763611
+                },
+                {
+                    "word": " case",
+                    "start": 1.34,
+                    "end": 1.6,
+                    "probability": 0.991931140422821
+                },
+                {
+                    "word": " of",
+                    "start": 1.6,
+                    "end": 1.94,
+                    "probability": 0.9734135270118713
+                },
+                {
+                    "word": " fire,",
+                    "start": 1.94,
+                    "end": 2.26,
+                    "probability": 0.9910673499107361
+                },
+                {
+                    "word": " use",
+                    "start": 2.92,
+                    "end": 3.18,
+                    "probability": 0.9894627928733826
+                },
+                {
+                    "word": " the",
+                    "start": 3.18,
+                    "end": 3.36,
+                    "probability": 0.995220959186554
+                },
+                {
+                    "word": " stairs",
+                    "start": 3.36,
+                    "end": 3.74,
+                    "probability": 0.885067880153656
+                },
+                {
+                    "word": " instead",
+                    "start": 3.74,
+                    "end": 4.26,
+                    "probability": 0.9899959564208984
+                },
+                {
+                    "word": " of",
+                    "start": 4.26,
+                    "end": 4.5,
+                    "probability": 0.9954409599304199
+                },
+                {
+                    "word": " well.",
+                    "start": 4.5,
+                    "end": 4.84,
+                    "probability": 0.955249011516571
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.62,
+            "end": 6.76,
+            "text": " The elevator.",
+            "tokens": [
+                50664,
+                440,
+                18782,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35349867343902586,
+            "compression_ratio": 0.9538461538461539,
+            "no_speech_prob": 0.09990246593952179,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 5.62,
+                    "end": 6.3,
+                    "probability": 0.9443672299385071
+                },
+                {
+                    "word": " elevator.",
+                    "start": 6.3,
+                    "end": 6.76,
+                    "probability": 0.970613420009613
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

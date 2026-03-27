@@ -1,0 +1,102 @@
+{
+    "text": " She's been working at the company for over on 10 years.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.9399999999999997,
+            "end": 5.58,
+            "text": " She's been working at the company for over on 10 years.",
+            "tokens": [
+                50364,
+                1240,
+                311,
+                668,
+                1364,
+                412,
+                264,
+                2237,
+                337,
+                670,
+                322,
+                1266,
+                924,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34818533062934875,
+            "compression_ratio": 0.9016393442622951,
+            "no_speech_prob": 0.25982964038848877,
+            "words": [
+                {
+                    "word": " She's",
+                    "start": 0.9399999999999997,
+                    "end": 1.76,
+                    "probability": 0.9092175960540771
+                },
+                {
+                    "word": " been",
+                    "start": 1.76,
+                    "end": 1.96,
+                    "probability": 0.9966944456100464
+                },
+                {
+                    "word": " working",
+                    "start": 1.96,
+                    "end": 2.42,
+                    "probability": 0.998766303062439
+                },
+                {
+                    "word": " at",
+                    "start": 2.42,
+                    "end": 3.0,
+                    "probability": 0.9884291291236877
+                },
+                {
+                    "word": " the",
+                    "start": 3.0,
+                    "end": 3.18,
+                    "probability": 0.9653123617172241
+                },
+                {
+                    "word": " company",
+                    "start": 3.18,
+                    "end": 3.64,
+                    "probability": 0.9887529611587524
+                },
+                {
+                    "word": " for",
+                    "start": 3.64,
+                    "end": 4.1,
+                    "probability": 0.9815582633018494
+                },
+                {
+                    "word": " over",
+                    "start": 4.1,
+                    "end": 4.52,
+                    "probability": 0.9970470070838928
+                },
+                {
+                    "word": " on",
+                    "start": 4.52,
+                    "end": 4.82,
+                    "probability": 0.66790372133255
+                },
+                {
+                    "word": " 10",
+                    "start": 4.82,
+                    "end": 5.18,
+                    "probability": 0.6091071963310242
+                },
+                {
+                    "word": " years.",
+                    "start": 5.18,
+                    "end": 5.58,
+                    "probability": 0.9971429705619812
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

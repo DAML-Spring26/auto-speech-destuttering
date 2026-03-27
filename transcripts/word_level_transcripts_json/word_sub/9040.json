@@ -1,0 +1,59 @@
+{
+    "text": " the system informs regular checks.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.8,
+            "text": " the system informs regular checks.",
+            "tokens": [
+                50364,
+                264,
+                1185,
+                45320,
+                3890,
+                13834,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39241822560628253,
+            "compression_ratio": 0.8095238095238095,
+            "no_speech_prob": 0.0044279941357672215,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5333815217018127
+                },
+                {
+                    "word": " system",
+                    "start": 0.12,
+                    "end": 0.54,
+                    "probability": 0.9830313920974731
+                },
+                {
+                    "word": " informs",
+                    "start": 0.54,
+                    "end": 0.98,
+                    "probability": 0.8889521956443787
+                },
+                {
+                    "word": " regular",
+                    "start": 0.98,
+                    "end": 1.32,
+                    "probability": 0.9776288866996765
+                },
+                {
+                    "word": " checks.",
+                    "start": 1.32,
+                    "end": 1.8,
+                    "probability": 0.9921913743019104
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

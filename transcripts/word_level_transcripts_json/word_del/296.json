@@ -1,0 +1,95 @@
+{
+    "text": " Dad, you helped me with my math homework after dinner.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.48,
+            "text": " Dad, you helped me with my math homework after dinner.",
+            "tokens": [
+                50364,
+                5639,
+                11,
+                291,
+                4254,
+                385,
+                365,
+                452,
+                5221,
+                14578,
+                934,
+                6148,
+                13,
+                50496
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27714621225992836,
+            "compression_ratio": 0.9,
+            "no_speech_prob": 0.01648724265396595,
+            "words": [
+                {
+                    "word": " Dad,",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.8304926156997681
+                },
+                {
+                    "word": " you",
+                    "start": 0.48,
+                    "end": 0.56,
+                    "probability": 0.975962221622467
+                },
+                {
+                    "word": " helped",
+                    "start": 0.56,
+                    "end": 0.74,
+                    "probability": 0.769904613494873
+                },
+                {
+                    "word": " me",
+                    "start": 0.74,
+                    "end": 0.9,
+                    "probability": 0.9545806050300598
+                },
+                {
+                    "word": " with",
+                    "start": 0.9,
+                    "end": 1.1,
+                    "probability": 0.9957408905029297
+                },
+                {
+                    "word": " my",
+                    "start": 1.1,
+                    "end": 1.26,
+                    "probability": 0.9836030006408691
+                },
+                {
+                    "word": " math",
+                    "start": 1.26,
+                    "end": 1.5,
+                    "probability": 0.8556148409843445
+                },
+                {
+                    "word": " homework",
+                    "start": 1.5,
+                    "end": 1.84,
+                    "probability": 0.9996840953826904
+                },
+                {
+                    "word": " after",
+                    "start": 1.84,
+                    "end": 2.16,
+                    "probability": 0.9820410013198853
+                },
+                {
+                    "word": " dinner.",
+                    "start": 2.16,
+                    "end": 2.48,
+                    "probability": 0.9963322281837463
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

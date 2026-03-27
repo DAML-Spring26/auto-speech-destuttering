@@ -1,0 +1,80 @@
+{
+    "text": " Dad is cooking dinner for to us tonight.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.44,
+            "text": " Dad is cooking dinner for to us tonight.",
+            "tokens": [
+                50364,
+                5639,
+                307,
+                6361,
+                6148,
+                337,
+                281,
+                505,
+                4440,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3620724280675252,
+            "compression_ratio": 0.8695652173913043,
+            "no_speech_prob": 0.024058960378170013,
+            "words": [
+                {
+                    "word": " Dad",
+                    "start": 0.0,
+                    "end": 0.76,
+                    "probability": 0.9197818040847778
+                },
+                {
+                    "word": " is",
+                    "start": 0.76,
+                    "end": 0.96,
+                    "probability": 0.9928451180458069
+                },
+                {
+                    "word": " cooking",
+                    "start": 0.96,
+                    "end": 1.24,
+                    "probability": 0.9933319687843323
+                },
+                {
+                    "word": " dinner",
+                    "start": 1.24,
+                    "end": 1.56,
+                    "probability": 0.9947180151939392
+                },
+                {
+                    "word": " for",
+                    "start": 1.56,
+                    "end": 1.78,
+                    "probability": 0.9971516728401184
+                },
+                {
+                    "word": " to",
+                    "start": 1.78,
+                    "end": 1.92,
+                    "probability": 0.5823783874511719
+                },
+                {
+                    "word": " us",
+                    "start": 1.92,
+                    "end": 2.1,
+                    "probability": 0.994186282157898
+                },
+                {
+                    "word": " tonight.",
+                    "start": 2.1,
+                    "end": 2.44,
+                    "probability": 0.9872592091560364
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,98 @@
+{
+    "text": " Can I speak to the manager please? Like...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.48,
+            "text": " Can I speak to the manager please?",
+            "tokens": [
+                50364,
+                1664,
+                286,
+                1710,
+                281,
+                264,
+                6598,
+                1767,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5009788195292155,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.32521021366119385,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 1.12,
+                    "probability": 0.8073599338531494
+                },
+                {
+                    "word": " I",
+                    "start": 1.12,
+                    "end": 1.22,
+                    "probability": 0.9592199921607971
+                },
+                {
+                    "word": " speak",
+                    "start": 1.22,
+                    "end": 1.42,
+                    "probability": 0.988819420337677
+                },
+                {
+                    "word": " to",
+                    "start": 1.42,
+                    "end": 1.6,
+                    "probability": 0.9969338178634644
+                },
+                {
+                    "word": " the",
+                    "start": 1.6,
+                    "end": 1.68,
+                    "probability": 0.9936740398406982
+                },
+                {
+                    "word": " manager",
+                    "start": 1.68,
+                    "end": 2.06,
+                    "probability": 0.8715988397598267
+                },
+                {
+                    "word": " please?",
+                    "start": 2.06,
+                    "end": 2.48,
+                    "probability": 0.3723995089530945
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.04,
+            "end": 3.34,
+            "text": " Like...",
+            "tokens": [
+                50514,
+                1743,
+                485,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5009788195292155,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.32521021366119385,
+            "words": [
+                {
+                    "word": " Like...",
+                    "start": 3.04,
+                    "end": 3.34,
+                    "probability": 0.5842301547527313
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

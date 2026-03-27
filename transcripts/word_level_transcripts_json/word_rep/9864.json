@@ -1,0 +1,108 @@
+{
+    "text": " The committee will review the proposals and make a decision next week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.92,
+            "text": " The committee will review the proposals and make a decision next week.",
+            "tokens": [
+                50364,
+                440,
+                7482,
+                486,
+                3131,
+                264,
+                20198,
+                293,
+                652,
+                257,
+                3537,
+                958,
+                1243,
+                13,
+                50572
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24452415108680725,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.010897256433963776,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6728813052177429
+                },
+                {
+                    "word": " committee",
+                    "start": 0.14,
+                    "end": 0.52,
+                    "probability": 0.8634585738182068
+                },
+                {
+                    "word": " will",
+                    "start": 0.52,
+                    "end": 0.84,
+                    "probability": 0.9977657794952393
+                },
+                {
+                    "word": " review",
+                    "start": 0.84,
+                    "end": 1.22,
+                    "probability": 0.993506669998169
+                },
+                {
+                    "word": " the",
+                    "start": 1.22,
+                    "end": 1.52,
+                    "probability": 0.9652081727981567
+                },
+                {
+                    "word": " proposals",
+                    "start": 1.52,
+                    "end": 2.14,
+                    "probability": 0.9313934445381165
+                },
+                {
+                    "word": " and",
+                    "start": 2.14,
+                    "end": 2.56,
+                    "probability": 0.9425793886184692
+                },
+                {
+                    "word": " make",
+                    "start": 2.56,
+                    "end": 2.74,
+                    "probability": 0.9964157342910767
+                },
+                {
+                    "word": " a",
+                    "start": 2.74,
+                    "end": 2.88,
+                    "probability": 0.994611382484436
+                },
+                {
+                    "word": " decision",
+                    "start": 2.88,
+                    "end": 3.28,
+                    "probability": 0.9961014986038208
+                },
+                {
+                    "word": " next",
+                    "start": 3.28,
+                    "end": 3.66,
+                    "probability": 0.9931707382202148
+                },
+                {
+                    "word": " week.",
+                    "start": 3.66,
+                    "end": 3.92,
+                    "probability": 0.9990102052688599
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

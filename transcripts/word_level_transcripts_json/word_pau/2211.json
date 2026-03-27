@@ -1,0 +1,94 @@
+{
+    "text": " The latest software update includes improved performance and bug fixes.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.38,
+            "text": " The latest software update includes improved performance and bug fixes.",
+            "tokens": [
+                50364,
+                440,
+                6792,
+                4722,
+                5623,
+                5974,
+                9689,
+                3389,
+                293,
+                7426,
+                32539,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2873622349330357,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.0015994999557733536,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.890106737613678
+                },
+                {
+                    "word": " latest",
+                    "start": 0.1,
+                    "end": 0.44,
+                    "probability": 0.9139917492866516
+                },
+                {
+                    "word": " software",
+                    "start": 0.44,
+                    "end": 0.94,
+                    "probability": 0.9966603517532349
+                },
+                {
+                    "word": " update",
+                    "start": 0.94,
+                    "end": 1.36,
+                    "probability": 0.7963791489601135
+                },
+                {
+                    "word": " includes",
+                    "start": 1.36,
+                    "end": 1.94,
+                    "probability": 0.9876680970191956
+                },
+                {
+                    "word": " improved",
+                    "start": 1.94,
+                    "end": 2.34,
+                    "probability": 0.7756714224815369
+                },
+                {
+                    "word": " performance",
+                    "start": 2.34,
+                    "end": 3.1,
+                    "probability": 0.9931219220161438
+                },
+                {
+                    "word": " and",
+                    "start": 3.1,
+                    "end": 3.56,
+                    "probability": 0.9103128910064697
+                },
+                {
+                    "word": " bug",
+                    "start": 3.56,
+                    "end": 5.8,
+                    "probability": 0.9663310647010803
+                },
+                {
+                    "word": " fixes.",
+                    "start": 5.8,
+                    "end": 6.38,
+                    "probability": 0.9580792188644409
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

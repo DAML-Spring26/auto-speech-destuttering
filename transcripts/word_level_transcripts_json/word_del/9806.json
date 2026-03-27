@@ -1,0 +1,87 @@
+{
+    "text": " the marketing team developing and you campaign for months.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.7,
+            "text": " the marketing team developing and you campaign for months.",
+            "tokens": [
+                50364,
+                264,
+                6370,
+                1469,
+                6416,
+                293,
+                291,
+                5129,
+                337,
+                2493,
+                13,
+                50510
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3848295211791992,
+            "compression_ratio": 0.9354838709677419,
+            "no_speech_prob": 0.006860396359115839,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5483871698379517
+                },
+                {
+                    "word": " marketing",
+                    "start": 0.12,
+                    "end": 0.5,
+                    "probability": 0.933047354221344
+                },
+                {
+                    "word": " team",
+                    "start": 0.5,
+                    "end": 0.88,
+                    "probability": 0.9974918365478516
+                },
+                {
+                    "word": " developing",
+                    "start": 0.88,
+                    "end": 1.44,
+                    "probability": 0.9814751148223877
+                },
+                {
+                    "word": " and",
+                    "start": 1.44,
+                    "end": 1.66,
+                    "probability": 0.8034626245498657
+                },
+                {
+                    "word": " you",
+                    "start": 1.66,
+                    "end": 1.76,
+                    "probability": 0.986707329750061
+                },
+                {
+                    "word": " campaign",
+                    "start": 1.76,
+                    "end": 2.12,
+                    "probability": 0.6087394952774048
+                },
+                {
+                    "word": " for",
+                    "start": 2.12,
+                    "end": 2.38,
+                    "probability": 0.9863052368164062
+                },
+                {
+                    "word": " months.",
+                    "start": 2.38,
+                    "end": 2.7,
+                    "probability": 0.9905643463134766
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,141 @@
+{
+    "text": " If you experience any side effects, from the medication, please contact your doctor immediately.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.14,
+            "text": " If you experience any side effects,",
+            "tokens": [
+                50364,
+                759,
+                291,
+                1752,
+                604,
+                1252,
+                5065,
+                11,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40197025645862927,
+            "compression_ratio": 1.1428571428571428,
+            "no_speech_prob": 0.003863818943500519,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.8241743445396423
+                },
+                {
+                    "word": " you",
+                    "start": 0.18,
+                    "end": 0.32,
+                    "probability": 0.99605393409729
+                },
+                {
+                    "word": " experience",
+                    "start": 0.32,
+                    "end": 0.86,
+                    "probability": 0.9072996973991394
+                },
+                {
+                    "word": " any",
+                    "start": 0.86,
+                    "end": 1.22,
+                    "probability": 0.9970682263374329
+                },
+                {
+                    "word": " side",
+                    "start": 1.22,
+                    "end": 1.52,
+                    "probability": 0.9768425226211548
+                },
+                {
+                    "word": " effects,",
+                    "start": 1.52,
+                    "end": 2.14,
+                    "probability": 0.9841768741607666
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.0,
+            "end": 8.1,
+            "text": " from the medication, please contact your doctor immediately.",
+            "tokens": [
+                50614,
+                490,
+                264,
+                13851,
+                11,
+                1767,
+                3385,
+                428,
+                4631,
+                4258,
+                13,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40197025645862927,
+            "compression_ratio": 1.1428571428571428,
+            "no_speech_prob": 0.003863818943500519,
+            "words": [
+                {
+                    "word": " from",
+                    "start": 4.86,
+                    "end": 5.24,
+                    "probability": 0.860998272895813
+                },
+                {
+                    "word": " the",
+                    "start": 5.24,
+                    "end": 5.38,
+                    "probability": 0.9811734557151794
+                },
+                {
+                    "word": " medication,",
+                    "start": 5.38,
+                    "end": 5.76,
+                    "probability": 0.9968497157096863
+                },
+                {
+                    "word": " please",
+                    "start": 6.22,
+                    "end": 6.44,
+                    "probability": 0.979739248752594
+                },
+                {
+                    "word": " contact",
+                    "start": 6.44,
+                    "end": 6.88,
+                    "probability": 0.9979654550552368
+                },
+                {
+                    "word": " your",
+                    "start": 6.88,
+                    "end": 7.14,
+                    "probability": 0.9897357225418091
+                },
+                {
+                    "word": " doctor",
+                    "start": 7.14,
+                    "end": 7.52,
+                    "probability": 0.9831558465957642
+                },
+                {
+                    "word": " immediately.",
+                    "start": 7.52,
+                    "end": 8.1,
+                    "probability": 0.9967830181121826
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

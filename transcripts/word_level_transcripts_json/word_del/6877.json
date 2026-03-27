@@ -1,0 +1,94 @@
+{
+    "text": " We should focus on both short time long time goals.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.16,
+            "text": " We should focus on both short time long time goals.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                1879,
+                322,
+                1293,
+                2099,
+                565,
+                938,
+                565,
+                5493,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41741653851100374,
+            "compression_ratio": 0.9807692307692307,
+            "no_speech_prob": 0.005064444150775671,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7258856892585754
+                },
+                {
+                    "word": " should",
+                    "start": 0.14,
+                    "end": 0.3,
+                    "probability": 0.9975034594535828
+                },
+                {
+                    "word": " focus",
+                    "start": 0.3,
+                    "end": 0.68,
+                    "probability": 0.9976046085357666
+                },
+                {
+                    "word": " on",
+                    "start": 0.68,
+                    "end": 0.92,
+                    "probability": 0.9887906312942505
+                },
+                {
+                    "word": " both",
+                    "start": 0.92,
+                    "end": 1.22,
+                    "probability": 0.9969581365585327
+                },
+                {
+                    "word": " short",
+                    "start": 1.22,
+                    "end": 1.64,
+                    "probability": 0.9277775883674622
+                },
+                {
+                    "word": " time",
+                    "start": 1.64,
+                    "end": 2.02,
+                    "probability": 0.36195263266563416
+                },
+                {
+                    "word": " long",
+                    "start": 2.02,
+                    "end": 2.32,
+                    "probability": 0.8321929574012756
+                },
+                {
+                    "word": " time",
+                    "start": 2.32,
+                    "end": 2.7,
+                    "probability": 0.30565357208251953
+                },
+                {
+                    "word": " goals.",
+                    "start": 2.7,
+                    "end": 3.16,
+                    "probability": 0.9675455093383789
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

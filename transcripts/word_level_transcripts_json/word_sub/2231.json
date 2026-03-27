@@ -1,0 +1,66 @@
+{
+    "text": " Students should contain proper laboratory safety.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.66,
+            "text": " Students should contain proper laboratory safety.",
+            "tokens": [
+                50364,
+                17244,
+                820,
+                5304,
+                2296,
+                16523,
+                4514,
+                13,
+                50516
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45380091667175293,
+            "compression_ratio": 0.8596491228070176,
+            "no_speech_prob": 0.005070374812930822,
+            "words": [
+                {
+                    "word": " Students",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.5171676874160767
+                },
+                {
+                    "word": " should",
+                    "start": 0.4,
+                    "end": 0.62,
+                    "probability": 0.9963515996932983
+                },
+                {
+                    "word": " contain",
+                    "start": 0.62,
+                    "end": 1.12,
+                    "probability": 0.8966751098632812
+                },
+                {
+                    "word": " proper",
+                    "start": 1.12,
+                    "end": 1.5,
+                    "probability": 0.9900397658348083
+                },
+                {
+                    "word": " laboratory",
+                    "start": 1.5,
+                    "end": 1.94,
+                    "probability": 0.9697312712669373
+                },
+                {
+                    "word": " safety.",
+                    "start": 1.94,
+                    "end": 2.66,
+                    "probability": 0.9959761500358582
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

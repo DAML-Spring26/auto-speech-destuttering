@@ -1,0 +1,87 @@
+{
+    "text": " The CEO announced a murder with our biggest competitor.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.9,
+            "text": " The CEO announced a murder with our biggest competitor.",
+            "tokens": [
+                50364,
+                440,
+                9282,
+                7548,
+                257,
+                6568,
+                365,
+                527,
+                3880,
+                27266,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3263097176185021,
+            "compression_ratio": 0.873015873015873,
+            "no_speech_prob": 0.009216788224875927,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7340351939201355
+                },
+                {
+                    "word": " CEO",
+                    "start": 0.16,
+                    "end": 0.6,
+                    "probability": 0.8722820281982422
+                },
+                {
+                    "word": " announced",
+                    "start": 0.6,
+                    "end": 1.06,
+                    "probability": 0.9823609590530396
+                },
+                {
+                    "word": " a",
+                    "start": 1.06,
+                    "end": 1.26,
+                    "probability": 0.859713077545166
+                },
+                {
+                    "word": " murder",
+                    "start": 1.26,
+                    "end": 1.5,
+                    "probability": 0.9943458437919617
+                },
+                {
+                    "word": " with",
+                    "start": 1.5,
+                    "end": 1.74,
+                    "probability": 0.9952096343040466
+                },
+                {
+                    "word": " our",
+                    "start": 1.74,
+                    "end": 1.92,
+                    "probability": 0.9149875044822693
+                },
+                {
+                    "word": " biggest",
+                    "start": 1.92,
+                    "end": 2.18,
+                    "probability": 0.9905097484588623
+                },
+                {
+                    "word": " competitor.",
+                    "start": 2.18,
+                    "end": 2.9,
+                    "probability": 0.9847503900527954
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

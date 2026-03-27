@@ -1,0 +1,116 @@
+{
+    "text": " The hotel staff efficiently addressed all guest concerns and ensured a pleasant stay.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.84,
+            "text": " The hotel staff efficiently addressed all guest concerns and ensured a pleasant stay.",
+            "tokens": [
+                50364,
+                440,
+                7622,
+                3525,
+                19621,
+                13847,
+                439,
+                8341,
+                7389,
+                293,
+                3489,
+                3831,
+                257,
+                16232,
+                1754,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2973315715789795,
+            "compression_ratio": 1.103896103896104,
+            "no_speech_prob": 0.07539572566747665,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.62,
+                    "probability": 0.8902038335800171
+                },
+                {
+                    "word": " hotel",
+                    "start": 0.62,
+                    "end": 0.92,
+                    "probability": 0.9635040163993835
+                },
+                {
+                    "word": " staff",
+                    "start": 0.92,
+                    "end": 1.42,
+                    "probability": 0.9894484281539917
+                },
+                {
+                    "word": " efficiently",
+                    "start": 1.42,
+                    "end": 1.86,
+                    "probability": 0.7482925653457642
+                },
+                {
+                    "word": " addressed",
+                    "start": 1.86,
+                    "end": 2.16,
+                    "probability": 0.9590527415275574
+                },
+                {
+                    "word": " all",
+                    "start": 2.16,
+                    "end": 2.56,
+                    "probability": 0.9961565136909485
+                },
+                {
+                    "word": " guest",
+                    "start": 2.56,
+                    "end": 2.78,
+                    "probability": 0.9595784544944763
+                },
+                {
+                    "word": " concerns",
+                    "start": 2.78,
+                    "end": 3.3,
+                    "probability": 0.9960361123085022
+                },
+                {
+                    "word": " and",
+                    "start": 3.3,
+                    "end": 3.86,
+                    "probability": 0.8548650741577148
+                },
+                {
+                    "word": " ensured",
+                    "start": 3.86,
+                    "end": 5.08,
+                    "probability": 0.5816417559981346
+                },
+                {
+                    "word": " a",
+                    "start": 5.08,
+                    "end": 5.22,
+                    "probability": 0.9914942979812622
+                },
+                {
+                    "word": " pleasant",
+                    "start": 5.22,
+                    "end": 5.5,
+                    "probability": 0.989183783531189
+                },
+                {
+                    "word": " stay.",
+                    "start": 5.5,
+                    "end": 5.84,
+                    "probability": 0.9688987135887146
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,115 @@
+{
+    "text": " The marketing team has developed a new strategy for the upcoming product launch.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.86,
+            "text": " The marketing team has developed a new strategy for the upcoming product launch.",
+            "tokens": [
+                50364,
+                440,
+                6370,
+                1469,
+                575,
+                4743,
+                257,
+                777,
+                5206,
+                337,
+                264,
+                11500,
+                1674,
+                4025,
+                13,
+                50570
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23019978579352884,
+            "compression_ratio": 1.0526315789473684,
+            "no_speech_prob": 0.005700774025171995,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.4683699607849121
+                },
+                {
+                    "word": " marketing",
+                    "start": 0.14,
+                    "end": 0.68,
+                    "probability": 0.9219422936439514
+                },
+                {
+                    "word": " team",
+                    "start": 0.68,
+                    "end": 1.02,
+                    "probability": 0.9984898567199707
+                },
+                {
+                    "word": " has",
+                    "start": 1.02,
+                    "end": 1.2,
+                    "probability": 0.9884753227233887
+                },
+                {
+                    "word": " developed",
+                    "start": 1.2,
+                    "end": 1.56,
+                    "probability": 0.9949030876159668
+                },
+                {
+                    "word": " a",
+                    "start": 1.56,
+                    "end": 1.78,
+                    "probability": 0.9898137450218201
+                },
+                {
+                    "word": " new",
+                    "start": 1.78,
+                    "end": 1.92,
+                    "probability": 0.9986668825149536
+                },
+                {
+                    "word": " strategy",
+                    "start": 1.92,
+                    "end": 2.38,
+                    "probability": 0.9983978867530823
+                },
+                {
+                    "word": " for",
+                    "start": 2.38,
+                    "end": 2.66,
+                    "probability": 0.99101722240448
+                },
+                {
+                    "word": " the",
+                    "start": 2.66,
+                    "end": 2.76,
+                    "probability": 0.9928434491157532
+                },
+                {
+                    "word": " upcoming",
+                    "start": 2.76,
+                    "end": 3.02,
+                    "probability": 0.9874098896980286
+                },
+                {
+                    "word": " product",
+                    "start": 3.02,
+                    "end": 3.46,
+                    "probability": 0.9647456407546997
+                },
+                {
+                    "word": " launch.",
+                    "start": 3.46,
+                    "end": 3.86,
+                    "probability": 0.9978741407394409
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

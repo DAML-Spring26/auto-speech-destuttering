@@ -1,0 +1,84 @@
+{
+    "text": " The chef's signature dish features locally-sauced ingredients.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.5,
+            "text": " The chef's signature dish features locally-sauced ingredients.",
+            "tokens": [
+                50364,
+                440,
+                10530,
+                311,
+                13397,
+                5025,
+                4122,
+                16143,
+                12,
+                82,
+                1459,
+                1232,
+                6952,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36319491267204285,
+            "compression_ratio": 0.9393939393939394,
+            "no_speech_prob": 0.003630312392488122,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.48420020937919617
+                },
+                {
+                    "word": " chef's",
+                    "start": 0.18,
+                    "end": 0.62,
+                    "probability": 0.7876850664615631
+                },
+                {
+                    "word": " signature",
+                    "start": 0.62,
+                    "end": 1.04,
+                    "probability": 0.9964154958724976
+                },
+                {
+                    "word": " dish",
+                    "start": 1.04,
+                    "end": 1.32,
+                    "probability": 0.9655951857566833
+                },
+                {
+                    "word": " features",
+                    "start": 1.32,
+                    "end": 1.72,
+                    "probability": 0.992828905582428
+                },
+                {
+                    "word": " locally",
+                    "start": 1.72,
+                    "end": 2.24,
+                    "probability": 0.9830270409584045
+                },
+                {
+                    "word": "-sauced",
+                    "start": 2.24,
+                    "end": 3.04,
+                    "probability": 0.7080330103635788
+                },
+                {
+                    "word": " ingredients.",
+                    "start": 3.04,
+                    "end": 3.5,
+                    "probability": 0.9891195297241211
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,94 @@
+{
+    "text": " Are you planning to attend the concert next Friday well?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.7,
+            "text": " Are you planning to attend the concert next Friday well?",
+            "tokens": [
+                50364,
+                2014,
+                291,
+                5038,
+                281,
+                6888,
+                264,
+                8543,
+                958,
+                6984,
+                731,
+                30,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3821772507258824,
+            "compression_ratio": 0.9180327868852459,
+            "no_speech_prob": 0.058014243841171265,
+            "words": [
+                {
+                    "word": " Are",
+                    "start": 0.0,
+                    "end": 1.28,
+                    "probability": 0.9256711602210999
+                },
+                {
+                    "word": " you",
+                    "start": 1.28,
+                    "end": 1.44,
+                    "probability": 0.9964781403541565
+                },
+                {
+                    "word": " planning",
+                    "start": 1.44,
+                    "end": 1.78,
+                    "probability": 0.9981846213340759
+                },
+                {
+                    "word": " to",
+                    "start": 1.78,
+                    "end": 2.14,
+                    "probability": 0.9988642930984497
+                },
+                {
+                    "word": " attend",
+                    "start": 2.14,
+                    "end": 2.5,
+                    "probability": 0.9988954067230225
+                },
+                {
+                    "word": " the",
+                    "start": 2.5,
+                    "end": 2.72,
+                    "probability": 0.9898377656936646
+                },
+                {
+                    "word": " concert",
+                    "start": 2.72,
+                    "end": 3.14,
+                    "probability": 0.96312016248703
+                },
+                {
+                    "word": " next",
+                    "start": 3.14,
+                    "end": 4.06,
+                    "probability": 0.8091888427734375
+                },
+                {
+                    "word": " Friday",
+                    "start": 4.06,
+                    "end": 4.46,
+                    "probability": 0.9905146360397339
+                },
+                {
+                    "word": " well?",
+                    "start": 4.46,
+                    "end": 4.7,
+                    "probability": 0.3606720566749573
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

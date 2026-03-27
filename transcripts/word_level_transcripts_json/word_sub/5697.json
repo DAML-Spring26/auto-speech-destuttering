@@ -1,0 +1,103 @@
+{
+    "text": " The microbeologist isolated a new strain of bacteria in the lap.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.24,
+            "text": " The microbeologist isolated a new strain of bacteria in the lap.",
+            "tokens": [
+                50364,
+                440,
+                4532,
+                650,
+                9201,
+                14621,
+                257,
+                777,
+                14249,
+                295,
+                11763,
+                294,
+                264,
+                13214,
+                13,
+                50539
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.43285395117367015,
+            "compression_ratio": 0.9552238805970149,
+            "no_speech_prob": 0.0029580718837678432,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7489054799079895
+                },
+                {
+                    "word": " microbeologist",
+                    "start": 0.1,
+                    "end": 0.78,
+                    "probability": 0.5127922693888346
+                },
+                {
+                    "word": " isolated",
+                    "start": 0.78,
+                    "end": 1.42,
+                    "probability": 0.8145560026168823
+                },
+                {
+                    "word": " a",
+                    "start": 1.42,
+                    "end": 1.68,
+                    "probability": 0.9355277419090271
+                },
+                {
+                    "word": " new",
+                    "start": 1.68,
+                    "end": 1.82,
+                    "probability": 0.9931713342666626
+                },
+                {
+                    "word": " strain",
+                    "start": 1.82,
+                    "end": 2.12,
+                    "probability": 0.906644344329834
+                },
+                {
+                    "word": " of",
+                    "start": 2.12,
+                    "end": 2.28,
+                    "probability": 0.9872058629989624
+                },
+                {
+                    "word": " bacteria",
+                    "start": 2.28,
+                    "end": 2.66,
+                    "probability": 0.6802412271499634
+                },
+                {
+                    "word": " in",
+                    "start": 2.66,
+                    "end": 2.96,
+                    "probability": 0.9919165968894958
+                },
+                {
+                    "word": " the",
+                    "start": 2.96,
+                    "end": 3.08,
+                    "probability": 0.9957068562507629
+                },
+                {
+                    "word": " lap.",
+                    "start": 3.08,
+                    "end": 3.24,
+                    "probability": 0.5725584030151367
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

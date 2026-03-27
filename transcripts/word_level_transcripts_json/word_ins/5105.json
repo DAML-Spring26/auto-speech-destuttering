@@ -1,0 +1,102 @@
+{
+    "text": " We'll need to run some additional tests to confirm the diagnosis.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.06,
+            "text": " We'll need to run some additional tests to confirm the diagnosis.",
+            "tokens": [
+                50364,
+                492,
+                603,
+                643,
+                281,
+                1190,
+                512,
+                4497,
+                6921,
+                281,
+                9064,
+                264,
+                15217,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26913249492645264,
+            "compression_ratio": 0.9848484848484849,
+            "no_speech_prob": 0.02055802196264267,
+            "words": [
+                {
+                    "word": " We'll",
+                    "start": 0.0,
+                    "end": 0.76,
+                    "probability": 0.9223859906196594
+                },
+                {
+                    "word": " need",
+                    "start": 0.76,
+                    "end": 0.88,
+                    "probability": 0.9981400966644287
+                },
+                {
+                    "word": " to",
+                    "start": 0.88,
+                    "end": 1.08,
+                    "probability": 0.9980126619338989
+                },
+                {
+                    "word": " run",
+                    "start": 1.08,
+                    "end": 1.26,
+                    "probability": 0.9939555525779724
+                },
+                {
+                    "word": " some",
+                    "start": 1.26,
+                    "end": 1.62,
+                    "probability": 0.9939938187599182
+                },
+                {
+                    "word": " additional",
+                    "start": 1.62,
+                    "end": 2.06,
+                    "probability": 0.9863502383232117
+                },
+                {
+                    "word": " tests",
+                    "start": 2.06,
+                    "end": 2.44,
+                    "probability": 0.9958428740501404
+                },
+                {
+                    "word": " to",
+                    "start": 2.44,
+                    "end": 2.72,
+                    "probability": 0.9976734519004822
+                },
+                {
+                    "word": " confirm",
+                    "start": 2.72,
+                    "end": 3.2,
+                    "probability": 0.9965671300888062
+                },
+                {
+                    "word": " the",
+                    "start": 3.2,
+                    "end": 3.46,
+                    "probability": 0.7737041115760803
+                },
+                {
+                    "word": " diagnosis.",
+                    "start": 3.46,
+                    "end": 4.06,
+                    "probability": 0.9817535281181335
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

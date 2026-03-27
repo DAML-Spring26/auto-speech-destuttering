@@ -1,0 +1,94 @@
+{
+    "text": " The latest episode of the TV show was really exiting.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.02,
+            "text": " The latest episode of the TV show was really exiting.",
+            "tokens": [
+                50364,
+                440,
+                6792,
+                3500,
+                295,
+                264,
+                3558,
+                855,
+                390,
+                534,
+                48868,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2763529505048479,
+            "compression_ratio": 0.8833333333333333,
+            "no_speech_prob": 0.007852031849324703,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7917566895484924
+                },
+                {
+                    "word": " latest",
+                    "start": 0.12,
+                    "end": 0.42,
+                    "probability": 0.9929224252700806
+                },
+                {
+                    "word": " episode",
+                    "start": 0.42,
+                    "end": 1.0,
+                    "probability": 0.9529574513435364
+                },
+                {
+                    "word": " of",
+                    "start": 1.0,
+                    "end": 1.26,
+                    "probability": 0.9924898743629456
+                },
+                {
+                    "word": " the",
+                    "start": 1.26,
+                    "end": 1.36,
+                    "probability": 0.8636707663536072
+                },
+                {
+                    "word": " TV",
+                    "start": 1.36,
+                    "end": 1.64,
+                    "probability": 0.8601710796356201
+                },
+                {
+                    "word": " show",
+                    "start": 1.64,
+                    "end": 2.0,
+                    "probability": 0.9356105327606201
+                },
+                {
+                    "word": " was",
+                    "start": 2.0,
+                    "end": 2.22,
+                    "probability": 0.9828670620918274
+                },
+                {
+                    "word": " really",
+                    "start": 2.22,
+                    "end": 2.52,
+                    "probability": 0.9946368336677551
+                },
+                {
+                    "word": " exiting.",
+                    "start": 2.52,
+                    "end": 3.02,
+                    "probability": 0.9327041506767273
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

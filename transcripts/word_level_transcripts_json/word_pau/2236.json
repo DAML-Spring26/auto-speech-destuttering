@@ -1,0 +1,87 @@
+{
+    "text": " Students are required to submit their essays by Friday.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.16,
+            "text": " Students are required to submit their essays by Friday.",
+            "tokens": [
+                50364,
+                17244,
+                366,
+                4739,
+                281,
+                10315,
+                641,
+                35123,
+                538,
+                6984,
+                13,
+                50636
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.303511014351478,
+            "compression_ratio": 0.9016393442622951,
+            "no_speech_prob": 0.006755542010068893,
+            "words": [
+                {
+                    "word": " Students",
+                    "start": 0.0,
+                    "end": 0.46,
+                    "probability": 0.7831681370735168
+                },
+                {
+                    "word": " are",
+                    "start": 0.46,
+                    "end": 0.74,
+                    "probability": 0.9986743927001953
+                },
+                {
+                    "word": " required",
+                    "start": 0.74,
+                    "end": 1.14,
+                    "probability": 0.9990361928939819
+                },
+                {
+                    "word": " to",
+                    "start": 1.14,
+                    "end": 1.52,
+                    "probability": 0.9982057809829712
+                },
+                {
+                    "word": " submit",
+                    "start": 1.52,
+                    "end": 3.66,
+                    "probability": 0.8843990564346313
+                },
+                {
+                    "word": " their",
+                    "start": 3.66,
+                    "end": 3.96,
+                    "probability": 0.995229959487915
+                },
+                {
+                    "word": " essays",
+                    "start": 3.96,
+                    "end": 4.36,
+                    "probability": 0.9714180827140808
+                },
+                {
+                    "word": " by",
+                    "start": 4.36,
+                    "end": 4.66,
+                    "probability": 0.993914783000946
+                },
+                {
+                    "word": " Friday.",
+                    "start": 4.66,
+                    "end": 5.16,
+                    "probability": 0.9928708672523499
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

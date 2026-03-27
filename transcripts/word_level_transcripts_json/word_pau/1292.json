@@ -1,0 +1,109 @@
+{
+    "text": " The company's stock prices have been steadily increasing over the past quarter.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.94,
+            "text": " The company's stock prices have been steadily increasing over the past quarter.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                4127,
+                7901,
+                362,
+                668,
+                36129,
+                5662,
+                670,
+                264,
+                1791,
+                6555,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2928389380959904,
+            "compression_ratio": 1.025974025974026,
+            "no_speech_prob": 0.00463536661118269,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7985483407974243
+                },
+                {
+                    "word": " company's",
+                    "start": 0.12,
+                    "end": 0.78,
+                    "probability": 0.8877657949924469
+                },
+                {
+                    "word": " stock",
+                    "start": 0.78,
+                    "end": 1.0,
+                    "probability": 0.997115969657898
+                },
+                {
+                    "word": " prices",
+                    "start": 1.0,
+                    "end": 1.5,
+                    "probability": 0.9892296195030212
+                },
+                {
+                    "word": " have",
+                    "start": 1.5,
+                    "end": 1.78,
+                    "probability": 0.9945918917655945
+                },
+                {
+                    "word": " been",
+                    "start": 1.78,
+                    "end": 1.96,
+                    "probability": 0.9150944948196411
+                },
+                {
+                    "word": " steadily",
+                    "start": 1.96,
+                    "end": 2.4,
+                    "probability": 0.998084306716919
+                },
+                {
+                    "word": " increasing",
+                    "start": 2.4,
+                    "end": 3.08,
+                    "probability": 0.9958875775337219
+                },
+                {
+                    "word": " over",
+                    "start": 3.08,
+                    "end": 3.5,
+                    "probability": 0.9835289716720581
+                },
+                {
+                    "word": " the",
+                    "start": 3.5,
+                    "end": 3.78,
+                    "probability": 0.870983362197876
+                },
+                {
+                    "word": " past",
+                    "start": 3.78,
+                    "end": 4.62,
+                    "probability": 0.6366938948631287
+                },
+                {
+                    "word": " quarter.",
+                    "start": 4.62,
+                    "end": 6.94,
+                    "probability": 0.9903230667114258
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

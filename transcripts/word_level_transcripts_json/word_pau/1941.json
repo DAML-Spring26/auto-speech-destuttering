@@ -1,0 +1,105 @@
+{
+    "text": " Could you clarify, the main objectives of this project?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.98,
+            "text": " Could you clarify,",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                17594,
+                11,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5605972409248352,
+            "compression_ratio": 0.9322033898305084,
+            "no_speech_prob": 0.005076082888990641,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.6093408465385437
+                },
+                {
+                    "word": " you",
+                    "start": 0.2,
+                    "end": 0.34,
+                    "probability": 0.9979700446128845
+                },
+                {
+                    "word": " clarify,",
+                    "start": 0.34,
+                    "end": 0.98,
+                    "probability": 0.9862186312675476
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.9000000000000004,
+            "end": 4.5,
+            "text": " the main objectives of this project?",
+            "tokens": [
+                50464,
+                264,
+                2135,
+                15961,
+                295,
+                341,
+                1716,
+                30,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5605972409248352,
+            "compression_ratio": 0.9322033898305084,
+            "no_speech_prob": 0.005076082888990641,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 1.9000000000000004,
+                    "end": 2.58,
+                    "probability": 0.384439617395401
+                },
+                {
+                    "word": " main",
+                    "start": 2.58,
+                    "end": 2.84,
+                    "probability": 0.9972338080406189
+                },
+                {
+                    "word": " objectives",
+                    "start": 2.84,
+                    "end": 3.48,
+                    "probability": 0.9905481934547424
+                },
+                {
+                    "word": " of",
+                    "start": 3.48,
+                    "end": 3.74,
+                    "probability": 0.9954808950424194
+                },
+                {
+                    "word": " this",
+                    "start": 3.74,
+                    "end": 3.9,
+                    "probability": 0.9961655139923096
+                },
+                {
+                    "word": " project?",
+                    "start": 3.9,
+                    "end": 4.5,
+                    "probability": 0.9952493906021118
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

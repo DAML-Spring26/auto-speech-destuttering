@@ -1,0 +1,94 @@
+{
+    "text": " Please regard the minutes of the meeting for future reference.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.86,
+            "text": " Please regard the minutes of the meeting for future reference.",
+            "tokens": [
+                50364,
+                2555,
+                3843,
+                264,
+                2077,
+                295,
+                264,
+                3440,
+                337,
+                2027,
+                6408,
+                13,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29852826254708426,
+            "compression_ratio": 0.9841269841269841,
+            "no_speech_prob": 0.009405918419361115,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.7804281711578369
+                },
+                {
+                    "word": " regard",
+                    "start": 0.18,
+                    "end": 0.64,
+                    "probability": 0.9654577970504761
+                },
+                {
+                    "word": " the",
+                    "start": 0.64,
+                    "end": 0.88,
+                    "probability": 0.9926538467407227
+                },
+                {
+                    "word": " minutes",
+                    "start": 0.88,
+                    "end": 1.14,
+                    "probability": 0.9452075958251953
+                },
+                {
+                    "word": " of",
+                    "start": 1.14,
+                    "end": 1.4,
+                    "probability": 0.9931176900863647
+                },
+                {
+                    "word": " the",
+                    "start": 1.4,
+                    "end": 1.5,
+                    "probability": 0.9815558791160583
+                },
+                {
+                    "word": " meeting",
+                    "start": 1.5,
+                    "end": 1.8,
+                    "probability": 0.867201566696167
+                },
+                {
+                    "word": " for",
+                    "start": 1.8,
+                    "end": 2.04,
+                    "probability": 0.9959084987640381
+                },
+                {
+                    "word": " future",
+                    "start": 2.04,
+                    "end": 2.4,
+                    "probability": 0.9786638021469116
+                },
+                {
+                    "word": " reference.",
+                    "start": 2.4,
+                    "end": 2.86,
+                    "probability": 0.9582246541976929
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

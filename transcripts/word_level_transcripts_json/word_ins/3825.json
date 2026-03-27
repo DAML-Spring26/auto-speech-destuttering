@@ -1,0 +1,66 @@
+{
+    "text": " Please review the contract before signing.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.28,
+            "text": " Please review the contract before signing.",
+            "tokens": [
+                50364,
+                2555,
+                3131,
+                264,
+                4364,
+                949,
+                13393,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5096660137176514,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.02414063923060894,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 1.2,
+                    "probability": 0.8512952327728271
+                },
+                {
+                    "word": " review",
+                    "start": 1.2,
+                    "end": 1.54,
+                    "probability": 0.9819896221160889
+                },
+                {
+                    "word": " the",
+                    "start": 1.54,
+                    "end": 1.76,
+                    "probability": 0.9933164119720459
+                },
+                {
+                    "word": " contract",
+                    "start": 1.76,
+                    "end": 2.2,
+                    "probability": 0.9539236426353455
+                },
+                {
+                    "word": " before",
+                    "start": 2.2,
+                    "end": 2.7,
+                    "probability": 0.8888257145881653
+                },
+                {
+                    "word": " signing.",
+                    "start": 2.7,
+                    "end": 3.28,
+                    "probability": 0.2775997519493103
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

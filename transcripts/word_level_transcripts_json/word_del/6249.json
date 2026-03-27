@@ -1,0 +1,81 @@
+{
+    "text": " The Experiment Results published in a Scientific Journal.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.52,
+            "text": " The Experiment Results published in a Scientific Journal.",
+            "tokens": [
+                50364,
+                440,
+                37933,
+                5015,
+                33361,
+                6572,
+                294,
+                257,
+                47437,
+                16936,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5092257719773513,
+            "compression_ratio": 0.890625,
+            "no_speech_prob": 0.008961748331785202,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.8037610650062561
+                },
+                {
+                    "word": " Experiment",
+                    "start": 0.1,
+                    "end": 0.52,
+                    "probability": 0.4981481730937958
+                },
+                {
+                    "word": " Results",
+                    "start": 0.52,
+                    "end": 0.86,
+                    "probability": 0.6640071719884872
+                },
+                {
+                    "word": " published",
+                    "start": 0.86,
+                    "end": 1.22,
+                    "probability": 0.8940554261207581
+                },
+                {
+                    "word": " in",
+                    "start": 1.22,
+                    "end": 1.52,
+                    "probability": 0.9696922898292542
+                },
+                {
+                    "word": " a",
+                    "start": 1.52,
+                    "end": 1.6,
+                    "probability": 0.8911140561103821
+                },
+                {
+                    "word": " Scientific",
+                    "start": 1.6,
+                    "end": 2.06,
+                    "probability": 0.6732957363128662
+                },
+                {
+                    "word": " Journal.",
+                    "start": 2.06,
+                    "end": 2.52,
+                    "probability": 0.9359976053237915
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

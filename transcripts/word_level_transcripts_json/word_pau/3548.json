@@ -1,0 +1,95 @@
+{
+    "text": " Your appointment has been confirmed for next Monday at 10am.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.92,
+            "text": " Your appointment has been confirmed for next Monday at 10am.",
+            "tokens": [
+                50364,
+                2260,
+                13653,
+                575,
+                668,
+                11341,
+                337,
+                958,
+                8138,
+                412,
+                1266,
+                335,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3364930470784505,
+            "compression_ratio": 0.8955223880597015,
+            "no_speech_prob": 0.021897075697779655,
+            "words": [
+                {
+                    "word": " Your",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.5561023950576782
+                },
+                {
+                    "word": " appointment",
+                    "start": 0.18,
+                    "end": 0.56,
+                    "probability": 0.9968891739845276
+                },
+                {
+                    "word": " has",
+                    "start": 0.56,
+                    "end": 0.92,
+                    "probability": 0.9920539855957031
+                },
+                {
+                    "word": " been",
+                    "start": 0.92,
+                    "end": 1.16,
+                    "probability": 0.9923700094223022
+                },
+                {
+                    "word": " confirmed",
+                    "start": 1.16,
+                    "end": 1.9,
+                    "probability": 0.9909102320671082
+                },
+                {
+                    "word": " for",
+                    "start": 1.9,
+                    "end": 2.26,
+                    "probability": 0.7421063184738159
+                },
+                {
+                    "word": " next",
+                    "start": 2.26,
+                    "end": 3.2,
+                    "probability": 0.8100566267967224
+                },
+                {
+                    "word": " Monday",
+                    "start": 3.2,
+                    "end": 6.06,
+                    "probability": 0.974388599395752
+                },
+                {
+                    "word": " at",
+                    "start": 6.06,
+                    "end": 6.36,
+                    "probability": 0.9886695742607117
+                },
+                {
+                    "word": " 10am.",
+                    "start": 6.36,
+                    "end": 6.92,
+                    "probability": 0.6656504422426224
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

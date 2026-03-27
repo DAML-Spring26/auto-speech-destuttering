@@ -1,0 +1,73 @@
+{
+    "text": " We should review contract before signing it.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.36,
+            "text": " We should review contract before signing it.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                3131,
+                4364,
+                949,
+                13393,
+                309,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3586424914273349,
+            "compression_ratio": 0.8627450980392157,
+            "no_speech_prob": 0.007782779633998871,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.717449963092804
+                },
+                {
+                    "word": " should",
+                    "start": 0.12,
+                    "end": 0.32,
+                    "probability": 0.9980134963989258
+                },
+                {
+                    "word": " review",
+                    "start": 0.32,
+                    "end": 0.54,
+                    "probability": 0.9833030104637146
+                },
+                {
+                    "word": " contract",
+                    "start": 0.54,
+                    "end": 1.04,
+                    "probability": 0.913273274898529
+                },
+                {
+                    "word": " before",
+                    "start": 1.04,
+                    "end": 1.46,
+                    "probability": 0.9887296557426453
+                },
+                {
+                    "word": " signing",
+                    "start": 1.46,
+                    "end": 2.04,
+                    "probability": 0.9657052159309387
+                },
+                {
+                    "word": " it.",
+                    "start": 2.04,
+                    "end": 2.36,
+                    "probability": 0.9490225911140442
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

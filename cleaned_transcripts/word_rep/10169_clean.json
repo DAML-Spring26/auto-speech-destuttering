@@ -1,12 +1,12 @@
 {
-    "text": " Despite the economic uncertainties, our company has maintained a strong, strong market position.",
+    "text": " Despite the economic uncertainties, our company hended strong.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 5.6000000000000005,
-            "text": " Despite the economic uncertainties, our company has maintained a strong, strong market position.",
+            "end": 3.84,
+            "text": " Despite the economic uncertainties, our company hended strong.",
             "tokens": [
                 50364,
                 11334,
@@ -17,21 +17,16 @@
                 11,
                 527,
                 2237,
-                575,
-                17578,
-                257,
+                276,
+                3502,
                 2068,
-                11,
-                2068,
-                2142,
-                2535,
                 13,
-                50644
+                50556
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.26185030937194825,
-            "compression_ratio": 1.1428571428571428,
-            "no_speech_prob": 0.011362685821950436
+            "avg_logprob": -0.5487423578898112,
+            "compression_ratio": 0.9538461538461539,
+            "no_speech_prob": 0.010717911645770073
         }
     ],
     "language": "en"

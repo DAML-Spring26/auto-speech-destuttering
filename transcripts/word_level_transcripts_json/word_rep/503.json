@@ -1,0 +1,94 @@
+{
+    "text": " The new advertising campaign was launched by the marketing department.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.16,
+            "text": " The new advertising campaign was launched by the marketing department.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                13097,
+                5129,
+                390,
+                8730,
+                538,
+                264,
+                6370,
+                5882,
+                13,
+                50584
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30048939159938265,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.0049046981148421764,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8967683911323547
+                },
+                {
+                    "word": " new",
+                    "start": 0.14,
+                    "end": 0.32,
+                    "probability": 0.9589657783508301
+                },
+                {
+                    "word": " advertising",
+                    "start": 0.32,
+                    "end": 0.94,
+                    "probability": 0.8749226331710815
+                },
+                {
+                    "word": " campaign",
+                    "start": 0.94,
+                    "end": 1.42,
+                    "probability": 0.9974662065505981
+                },
+                {
+                    "word": " was",
+                    "start": 1.42,
+                    "end": 1.64,
+                    "probability": 0.9964779019355774
+                },
+                {
+                    "word": " launched",
+                    "start": 1.64,
+                    "end": 1.92,
+                    "probability": 0.9964119791984558
+                },
+                {
+                    "word": " by",
+                    "start": 1.92,
+                    "end": 2.08,
+                    "probability": 0.9857062101364136
+                },
+                {
+                    "word": " the",
+                    "start": 2.08,
+                    "end": 2.16,
+                    "probability": 0.882256269454956
+                },
+                {
+                    "word": " marketing",
+                    "start": 2.16,
+                    "end": 2.64,
+                    "probability": 0.4255845546722412
+                },
+                {
+                    "word": " department.",
+                    "start": 2.64,
+                    "end": 4.16,
+                    "probability": 0.7079858779907227
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

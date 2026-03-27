@@ -1,0 +1,73 @@
+{
+    "text": " We need to address these tactical issues.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.94,
+            "text": " We need to address these tactical issues.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                2985,
+                613,
+                26323,
+                2663,
+                13,
+                50539
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37027094580910425,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.0017031766474246979,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7031129002571106
+                },
+                {
+                    "word": " need",
+                    "start": 0.12,
+                    "end": 0.28,
+                    "probability": 0.9979286193847656
+                },
+                {
+                    "word": " to",
+                    "start": 0.28,
+                    "end": 0.52,
+                    "probability": 0.9986730813980103
+                },
+                {
+                    "word": " address",
+                    "start": 0.52,
+                    "end": 1.02,
+                    "probability": 0.9962120056152344
+                },
+                {
+                    "word": " these",
+                    "start": 1.02,
+                    "end": 1.52,
+                    "probability": 0.9872172474861145
+                },
+                {
+                    "word": " tactical",
+                    "start": 1.52,
+                    "end": 2.14,
+                    "probability": 0.9887076616287231
+                },
+                {
+                    "word": " issues.",
+                    "start": 2.14,
+                    "end": 2.94,
+                    "probability": 0.9987181425094604
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

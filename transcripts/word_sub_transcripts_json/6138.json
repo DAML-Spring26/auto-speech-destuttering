@@ -1,0 +1,73 @@
+{
+    "text": " She inspires to become a renowned scientist.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.04,
+            "text": " She inspires to become a renowned scientist.",
+            "tokens": [
+                50364,
+                1240,
+                32566,
+                281,
+                1813,
+                257,
+                34065,
+                12662,
+                13,
+                50480
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40488338470458984,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.00717207184061408,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.5601451396942139
+                },
+                {
+                    "word": " inspires",
+                    "start": 0.2,
+                    "end": 0.66,
+                    "probability": 0.9522266983985901
+                },
+                {
+                    "word": " to",
+                    "start": 0.66,
+                    "end": 0.92,
+                    "probability": 0.994679868221283
+                },
+                {
+                    "word": " become",
+                    "start": 0.92,
+                    "end": 1.16,
+                    "probability": 0.9940748810768127
+                },
+                {
+                    "word": " a",
+                    "start": 1.16,
+                    "end": 1.3,
+                    "probability": 0.9919183850288391
+                },
+                {
+                    "word": " renowned",
+                    "start": 1.3,
+                    "end": 1.54,
+                    "probability": 0.8483806252479553
+                },
+                {
+                    "word": " scientist.",
+                    "start": 1.54,
+                    "end": 2.04,
+                    "probability": 0.9286837577819824
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

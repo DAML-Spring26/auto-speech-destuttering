@@ -1,0 +1,73 @@
+{
+    "text": " The doctor recommends getting more regular exercise.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.52,
+            "text": " The doctor recommends getting more regular exercise.",
+            "tokens": [
+                50364,
+                440,
+                4631,
+                34556,
+                1242,
+                544,
+                3890,
+                5380,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3716676885431463,
+            "compression_ratio": 0.8813559322033898,
+            "no_speech_prob": 0.0031377971172332764,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7746755480766296
+                },
+                {
+                    "word": " doctor",
+                    "start": 0.14,
+                    "end": 0.56,
+                    "probability": 0.4827582836151123
+                },
+                {
+                    "word": " recommends",
+                    "start": 0.56,
+                    "end": 1.38,
+                    "probability": 0.9860077500343323
+                },
+                {
+                    "word": " getting",
+                    "start": 1.38,
+                    "end": 2.02,
+                    "probability": 0.9836668968200684
+                },
+                {
+                    "word": " more",
+                    "start": 2.02,
+                    "end": 2.7,
+                    "probability": 0.9701073169708252
+                },
+                {
+                    "word": " regular",
+                    "start": 2.7,
+                    "end": 5.68,
+                    "probability": 0.8206830620765686
+                },
+                {
+                    "word": " exercise.",
+                    "start": 5.68,
+                    "end": 6.52,
+                    "probability": 0.7898831367492676
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

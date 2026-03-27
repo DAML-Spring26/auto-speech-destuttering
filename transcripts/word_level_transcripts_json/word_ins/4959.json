@@ -1,0 +1,103 @@
+{
+    "text": " I'd like to return this item I purchased last week. Well...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.58,
+            "text": " I'd like to return this item I purchased last week. Well...",
+            "tokens": [
+                50364,
+                286,
+                1116,
+                411,
+                281,
+                2736,
+                341,
+                3174,
+                286,
+                14734,
+                1036,
+                1243,
+                13,
+                1042,
+                485,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37795695136575136,
+            "compression_ratio": 0.8939393939393939,
+            "no_speech_prob": 0.07973119616508484,
+            "words": [
+                {
+                    "word": " I'd",
+                    "start": 0.0,
+                    "end": 0.92,
+                    "probability": 0.952324241399765
+                },
+                {
+                    "word": " like",
+                    "start": 0.92,
+                    "end": 1.04,
+                    "probability": 0.9982650876045227
+                },
+                {
+                    "word": " to",
+                    "start": 1.04,
+                    "end": 1.26,
+                    "probability": 0.998251736164093
+                },
+                {
+                    "word": " return",
+                    "start": 1.26,
+                    "end": 1.58,
+                    "probability": 0.9878003597259521
+                },
+                {
+                    "word": " this",
+                    "start": 1.58,
+                    "end": 1.9,
+                    "probability": 0.9779167771339417
+                },
+                {
+                    "word": " item",
+                    "start": 1.9,
+                    "end": 2.16,
+                    "probability": 0.9974330067634583
+                },
+                {
+                    "word": " I",
+                    "start": 2.16,
+                    "end": 2.5,
+                    "probability": 0.6440593004226685
+                },
+                {
+                    "word": " purchased",
+                    "start": 2.5,
+                    "end": 2.88,
+                    "probability": 0.9972680807113647
+                },
+                {
+                    "word": " last",
+                    "start": 2.88,
+                    "end": 3.24,
+                    "probability": 0.992093026638031
+                },
+                {
+                    "word": " week.",
+                    "start": 3.24,
+                    "end": 3.66,
+                    "probability": 0.9980248212814331
+                },
+                {
+                    "word": " Well...",
+                    "start": 4.02,
+                    "end": 4.58,
+                    "probability": 0.7149651944637299
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

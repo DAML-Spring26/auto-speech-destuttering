@@ -1,0 +1,66 @@
+{
+    "text": " We should review the financial placement.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.74,
+            "text": " We should review the financial placement.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                3131,
+                264,
+                4669,
+                17257,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2695499897003174,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.003947601653635502,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6996936202049255
+                },
+                {
+                    "word": " should",
+                    "start": 0.12,
+                    "end": 0.3,
+                    "probability": 0.9978887438774109
+                },
+                {
+                    "word": " review",
+                    "start": 0.3,
+                    "end": 0.58,
+                    "probability": 0.9895355105400085
+                },
+                {
+                    "word": " the",
+                    "start": 0.58,
+                    "end": 0.76,
+                    "probability": 0.9898444414138794
+                },
+                {
+                    "word": " financial",
+                    "start": 0.76,
+                    "end": 1.26,
+                    "probability": 0.9748905897140503
+                },
+                {
+                    "word": " placement.",
+                    "start": 1.26,
+                    "end": 1.74,
+                    "probability": 0.9876689314842224
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

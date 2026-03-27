@@ -1,0 +1,88 @@
+{
+    "text": " The marketing campaign has significantly increased, increased brown awareness.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.52,
+            "text": " The marketing campaign has significantly increased, increased brown awareness.",
+            "tokens": [
+                50364,
+                440,
+                6370,
+                5129,
+                575,
+                10591,
+                6505,
+                11,
+                6505,
+                6292,
+                8888,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3854658944266183,
+            "compression_ratio": 1.0684931506849316,
+            "no_speech_prob": 0.007149091921746731,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.8494069576263428
+                },
+                {
+                    "word": " marketing",
+                    "start": 0.1,
+                    "end": 0.52,
+                    "probability": 0.5847345590591431
+                },
+                {
+                    "word": " campaign",
+                    "start": 0.52,
+                    "end": 1.26,
+                    "probability": 0.9964767098426819
+                },
+                {
+                    "word": " has",
+                    "start": 1.26,
+                    "end": 1.54,
+                    "probability": 0.9962509274482727
+                },
+                {
+                    "word": " significantly",
+                    "start": 1.54,
+                    "end": 2.26,
+                    "probability": 0.9977697134017944
+                },
+                {
+                    "word": " increased,",
+                    "start": 2.26,
+                    "end": 3.28,
+                    "probability": 0.9984629154205322
+                },
+                {
+                    "word": " increased",
+                    "start": 3.5,
+                    "end": 4.58,
+                    "probability": 0.9832785725593567
+                },
+                {
+                    "word": " brown",
+                    "start": 4.58,
+                    "end": 4.98,
+                    "probability": 0.672624945640564
+                },
+                {
+                    "word": " awareness.",
+                    "start": 4.98,
+                    "end": 5.52,
+                    "probability": 0.995840311050415
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

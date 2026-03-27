@@ -1,0 +1,66 @@
+{
+    "text": " The conference room has modern requirement.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.04,
+            "text": " The conference room has modern requirement.",
+            "tokens": [
+                50364,
+                440,
+                7586,
+                1808,
+                575,
+                4363,
+                11695,
+                13,
+                50480
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41803798675537107,
+            "compression_ratio": 0.8431372549019608,
+            "no_speech_prob": 0.025297731161117554,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7853316068649292
+                },
+                {
+                    "word": " conference",
+                    "start": 0.12,
+                    "end": 0.5,
+                    "probability": 0.9719915986061096
+                },
+                {
+                    "word": " room",
+                    "start": 0.5,
+                    "end": 0.92,
+                    "probability": 0.9896747469902039
+                },
+                {
+                    "word": " has",
+                    "start": 0.92,
+                    "end": 1.12,
+                    "probability": 0.9888561367988586
+                },
+                {
+                    "word": " modern",
+                    "start": 1.12,
+                    "end": 1.44,
+                    "probability": 0.6461459398269653
+                },
+                {
+                    "word": " requirement.",
+                    "start": 1.44,
+                    "end": 2.04,
+                    "probability": 0.6454126834869385
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

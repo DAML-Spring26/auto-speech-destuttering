@@ -1,0 +1,111 @@
+{
+    "text": " We should co plumber to fix the leaky faucet in the kitchen.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.88,
+            "text": " We should co plumber to fix the leaky faucet in the kitchen.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                598,
+                499,
+                4182,
+                281,
+                3191,
+                264,
+                476,
+                15681,
+                49567,
+                302,
+                294,
+                264,
+                6525,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.43606371628610713,
+            "compression_ratio": 0.9230769230769231,
+            "no_speech_prob": 0.0056553371250629425,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.5220367908477783
+                },
+                {
+                    "word": " should",
+                    "start": 0.16,
+                    "end": 0.36,
+                    "probability": 0.9951949715614319
+                },
+                {
+                    "word": " co",
+                    "start": 0.36,
+                    "end": 0.5,
+                    "probability": 0.3899335563182831
+                },
+                {
+                    "word": " plumber",
+                    "start": 0.5,
+                    "end": 0.84,
+                    "probability": 0.6001138389110565
+                },
+                {
+                    "word": " to",
+                    "start": 0.84,
+                    "end": 0.96,
+                    "probability": 0.5324894785881042
+                },
+                {
+                    "word": " fix",
+                    "start": 0.96,
+                    "end": 1.2,
+                    "probability": 0.9651522040367126
+                },
+                {
+                    "word": " the",
+                    "start": 1.2,
+                    "end": 1.44,
+                    "probability": 0.987490713596344
+                },
+                {
+                    "word": " leaky",
+                    "start": 1.44,
+                    "end": 1.68,
+                    "probability": 0.6878069639205933
+                },
+                {
+                    "word": " faucet",
+                    "start": 1.68,
+                    "end": 2.3,
+                    "probability": 0.7691654562950134
+                },
+                {
+                    "word": " in",
+                    "start": 2.3,
+                    "end": 2.44,
+                    "probability": 0.9602823853492737
+                },
+                {
+                    "word": " the",
+                    "start": 2.44,
+                    "end": 2.58,
+                    "probability": 0.9930422306060791
+                },
+                {
+                    "word": " kitchen.",
+                    "start": 2.58,
+                    "end": 2.88,
+                    "probability": 0.9332345128059387
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

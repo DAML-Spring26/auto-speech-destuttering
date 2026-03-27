@@ -1,0 +1,80 @@
+{
+    "text": " Please check your passport expiration date before traveling.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.2,
+            "text": " Please check your passport expiration date before traveling.",
+            "tokens": [
+                50364,
+                2555,
+                1520,
+                428,
+                24694,
+                39657,
+                4002,
+                949,
+                9712,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5627090930938721,
+            "compression_ratio": 0.9375,
+            "no_speech_prob": 0.012426230125129223,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.6006835699081421
+                },
+                {
+                    "word": " check",
+                    "start": 0.18,
+                    "end": 0.48,
+                    "probability": 0.9775276780128479
+                },
+                {
+                    "word": " your",
+                    "start": 0.48,
+                    "end": 0.66,
+                    "probability": 0.9851890802383423
+                },
+                {
+                    "word": " passport",
+                    "start": 0.66,
+                    "end": 1.12,
+                    "probability": 0.8673285841941833
+                },
+                {
+                    "word": " expiration",
+                    "start": 1.12,
+                    "end": 1.88,
+                    "probability": 0.5342493057250977
+                },
+                {
+                    "word": " date",
+                    "start": 1.88,
+                    "end": 2.26,
+                    "probability": 0.9964709281921387
+                },
+                {
+                    "word": " before",
+                    "start": 2.26,
+                    "end": 2.66,
+                    "probability": 0.9857504367828369
+                },
+                {
+                    "word": " traveling.",
+                    "start": 2.66,
+                    "end": 3.2,
+                    "probability": 0.1969931274652481
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,75 @@
+{
+    "text": " Cloud Computing revolutionizes data storage and access.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.32,
+            "text": " Cloud Computing revolutionizes data storage and access.",
+            "tokens": [
+                50364,
+                8061,
+                37804,
+                278,
+                8894,
+                5660,
+                1412,
+                6725,
+                293,
+                2105,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41008982291588414,
+            "compression_ratio": 0.9016393442622951,
+            "no_speech_prob": 0.008149277418851852,
+            "words": [
+                {
+                    "word": " Cloud",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.6003068685531616
+                },
+                {
+                    "word": " Computing",
+                    "start": 0.3,
+                    "end": 1.06,
+                    "probability": 0.8045429587364197
+                },
+                {
+                    "word": " revolutionizes",
+                    "start": 1.06,
+                    "end": 1.9,
+                    "probability": 0.9159376621246338
+                },
+                {
+                    "word": " data",
+                    "start": 1.9,
+                    "end": 2.26,
+                    "probability": 0.9499085545539856
+                },
+                {
+                    "word": " storage",
+                    "start": 2.26,
+                    "end": 2.76,
+                    "probability": 0.9979636669158936
+                },
+                {
+                    "word": " and",
+                    "start": 2.76,
+                    "end": 3.0,
+                    "probability": 0.9703307151794434
+                },
+                {
+                    "word": " access.",
+                    "start": 3.0,
+                    "end": 3.32,
+                    "probability": 0.7036765813827515
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

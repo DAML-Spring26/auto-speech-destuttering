@@ -1,0 +1,74 @@
+{
+    "text": " the experiment yielding unexpected but interesting results.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.0,
+            "text": " the experiment yielding unexpected but interesting results.",
+            "tokens": [
+                50364,
+                264,
+                5120,
+                11257,
+                278,
+                13106,
+                457,
+                1880,
+                3542,
+                13,
+                50538
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3937774896621704,
+            "compression_ratio": 0.9672131147540983,
+            "no_speech_prob": 0.007961182855069637,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.46006256341934204
+                },
+                {
+                    "word": " experiment",
+                    "start": 0.12,
+                    "end": 0.58,
+                    "probability": 0.9799290299415588
+                },
+                {
+                    "word": " yielding",
+                    "start": 0.58,
+                    "end": 1.08,
+                    "probability": 0.9468738436698914
+                },
+                {
+                    "word": " unexpected",
+                    "start": 1.08,
+                    "end": 1.7,
+                    "probability": 0.9758265614509583
+                },
+                {
+                    "word": " but",
+                    "start": 1.7,
+                    "end": 1.98,
+                    "probability": 0.8775642514228821
+                },
+                {
+                    "word": " interesting",
+                    "start": 1.98,
+                    "end": 2.52,
+                    "probability": 0.9937335848808289
+                },
+                {
+                    "word": " results.",
+                    "start": 2.52,
+                    "end": 3.0,
+                    "probability": 0.9566834568977356
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

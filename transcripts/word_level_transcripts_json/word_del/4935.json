@@ -1,0 +1,80 @@
+{
+    "text": " She attending workshops to improve her leadership skills.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.96,
+            "text": " She attending workshops to improve her leadership skills.",
+            "tokens": [
+                50364,
+                1240,
+                15862,
+                19162,
+                281,
+                3470,
+                720,
+                5848,
+                3942,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39167388280232746,
+            "compression_ratio": 0.9344262295081968,
+            "no_speech_prob": 0.004877358675003052,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.5590808987617493
+                },
+                {
+                    "word": " attending",
+                    "start": 0.18,
+                    "end": 0.46,
+                    "probability": 0.5159673094749451
+                },
+                {
+                    "word": " workshops",
+                    "start": 0.46,
+                    "end": 0.9,
+                    "probability": 0.9845735430717468
+                },
+                {
+                    "word": " to",
+                    "start": 0.9,
+                    "end": 1.24,
+                    "probability": 0.9955238103866577
+                },
+                {
+                    "word": " improve",
+                    "start": 1.24,
+                    "end": 1.6,
+                    "probability": 0.9960553646087646
+                },
+                {
+                    "word": " her",
+                    "start": 1.6,
+                    "end": 1.9,
+                    "probability": 0.9559175968170166
+                },
+                {
+                    "word": " leadership",
+                    "start": 1.9,
+                    "end": 2.22,
+                    "probability": 0.9971231818199158
+                },
+                {
+                    "word": " skills.",
+                    "start": 2.22,
+                    "end": 2.96,
+                    "probability": 0.9881083369255066
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

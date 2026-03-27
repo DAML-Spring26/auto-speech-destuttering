@@ -1,0 +1,121 @@
+{
+    "text": " We'll need to run some additional tests too. Confirm the diagnosis.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.92,
+            "text": " We'll need to run some additional tests too.",
+            "tokens": [
+                50364,
+                492,
+                603,
+                643,
+                281,
+                1190,
+                512,
+                4497,
+                6921,
+                886,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5702395915985108,
+            "compression_ratio": 0.9710144927536232,
+            "no_speech_prob": 0.0036925822496414185,
+            "words": [
+                {
+                    "word": " We'll",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.8280799090862274
+                },
+                {
+                    "word": " need",
+                    "start": 0.18,
+                    "end": 0.44,
+                    "probability": 0.9974603652954102
+                },
+                {
+                    "word": " to",
+                    "start": 0.44,
+                    "end": 0.7,
+                    "probability": 0.9990346431732178
+                },
+                {
+                    "word": " run",
+                    "start": 0.7,
+                    "end": 0.9,
+                    "probability": 0.9145691990852356
+                },
+                {
+                    "word": " some",
+                    "start": 0.9,
+                    "end": 1.32,
+                    "probability": 0.9964169263839722
+                },
+                {
+                    "word": " additional",
+                    "start": 1.32,
+                    "end": 1.92,
+                    "probability": 0.9959989786148071
+                },
+                {
+                    "word": " tests",
+                    "start": 1.92,
+                    "end": 2.48,
+                    "probability": 0.970064103603363
+                },
+                {
+                    "word": " too.",
+                    "start": 2.48,
+                    "end": 2.92,
+                    "probability": 0.5185135006904602
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.22,
+            "end": 8.06,
+            "text": " Confirm the diagnosis.",
+            "tokens": [
+                50692,
+                11701,
+                3692,
+                264,
+                15217,
+                13,
+                50842
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5702395915985108,
+            "compression_ratio": 0.9710144927536232,
+            "no_speech_prob": 0.0036925822496414185,
+            "words": [
+                {
+                    "word": " Confirm",
+                    "start": 6.22,
+                    "end": 7.1,
+                    "probability": 0.9328827857971191
+                },
+                {
+                    "word": " the",
+                    "start": 7.1,
+                    "end": 7.32,
+                    "probability": 0.9965665340423584
+                },
+                {
+                    "word": " diagnosis.",
+                    "start": 7.32,
+                    "end": 8.06,
+                    "probability": 0.13984771072864532
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

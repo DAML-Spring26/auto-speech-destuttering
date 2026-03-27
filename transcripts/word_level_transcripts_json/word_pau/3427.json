@@ -1,0 +1,126 @@
+{
+    "text": " Make sure to keep your passport in. The safe place while travelling.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.08,
+            "text": " Make sure to keep your passport in.",
+            "tokens": [
+                50364,
+                4387,
+                988,
+                281,
+                1066,
+                428,
+                24694,
+                294,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5690502869455438,
+            "compression_ratio": 0.9577464788732394,
+            "no_speech_prob": 0.0025452221743762493,
+            "words": [
+                {
+                    "word": " Make",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.7017032504081726
+                },
+                {
+                    "word": " sure",
+                    "start": 0.2,
+                    "end": 0.5,
+                    "probability": 0.9993324875831604
+                },
+                {
+                    "word": " to",
+                    "start": 0.5,
+                    "end": 0.76,
+                    "probability": 0.9919388890266418
+                },
+                {
+                    "word": " keep",
+                    "start": 0.76,
+                    "end": 1.04,
+                    "probability": 0.993411123752594
+                },
+                {
+                    "word": " your",
+                    "start": 1.04,
+                    "end": 1.26,
+                    "probability": 0.9845974445343018
+                },
+                {
+                    "word": " passport",
+                    "start": 1.26,
+                    "end": 1.6,
+                    "probability": 0.8480802774429321
+                },
+                {
+                    "word": " in.",
+                    "start": 1.6,
+                    "end": 2.08,
+                    "probability": 0.9660159349441528
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.68,
+            "end": 6.6,
+            "text": " The safe place while travelling.",
+            "tokens": [
+                50608,
+                440,
+                3273,
+                1081,
+                1339,
+                20515,
+                13,
+                50708
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5690502869455438,
+            "compression_ratio": 0.9577464788732394,
+            "no_speech_prob": 0.0025452221743762493,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 4.68,
+                    "end": 5.04,
+                    "probability": 0.6707145571708679
+                },
+                {
+                    "word": " safe",
+                    "start": 5.04,
+                    "end": 5.36,
+                    "probability": 0.8887988328933716
+                },
+                {
+                    "word": " place",
+                    "start": 5.36,
+                    "end": 5.72,
+                    "probability": 0.9231323599815369
+                },
+                {
+                    "word": " while",
+                    "start": 5.72,
+                    "end": 5.96,
+                    "probability": 0.9737813472747803
+                },
+                {
+                    "word": " travelling.",
+                    "start": 5.96,
+                    "end": 6.6,
+                    "probability": 0.4782344102859497
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,95 @@
+{
+    "text": " The surgeon performed a delicate operation on the patient's part.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.48,
+            "text": " The surgeon performed a delicate operation on the patient's part.",
+            "tokens": [
+                50364,
+                440,
+                22913,
+                10332,
+                257,
+                21417,
+                6916,
+                322,
+                264,
+                4537,
+                311,
+                644,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2594289302825928,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.006069994531571865,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7699766159057617
+                },
+                {
+                    "word": " surgeon",
+                    "start": 0.12,
+                    "end": 0.5,
+                    "probability": 0.9909772872924805
+                },
+                {
+                    "word": " performed",
+                    "start": 0.5,
+                    "end": 1.04,
+                    "probability": 0.9768690466880798
+                },
+                {
+                    "word": " a",
+                    "start": 1.04,
+                    "end": 1.3,
+                    "probability": 0.9912979602813721
+                },
+                {
+                    "word": " delicate",
+                    "start": 1.3,
+                    "end": 1.7,
+                    "probability": 0.9893478155136108
+                },
+                {
+                    "word": " operation",
+                    "start": 1.7,
+                    "end": 2.34,
+                    "probability": 0.9934280514717102
+                },
+                {
+                    "word": " on",
+                    "start": 2.34,
+                    "end": 2.56,
+                    "probability": 0.9958418011665344
+                },
+                {
+                    "word": " the",
+                    "start": 2.56,
+                    "end": 2.66,
+                    "probability": 0.9914712309837341
+                },
+                {
+                    "word": " patient's",
+                    "start": 2.66,
+                    "end": 3.24,
+                    "probability": 0.9511529803276062
+                },
+                {
+                    "word": " part.",
+                    "start": 3.24,
+                    "end": 3.48,
+                    "probability": 0.9590835571289062
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

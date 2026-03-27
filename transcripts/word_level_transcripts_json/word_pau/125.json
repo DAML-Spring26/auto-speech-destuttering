@@ -1,0 +1,74 @@
+{
+    "text": " the patient's condition has to improve significantly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.24,
+            "text": " the patient's condition has to improve significantly.",
+            "tokens": [
+                50364,
+                264,
+                4537,
+                311,
+                4188,
+                575,
+                281,
+                3470,
+                10591,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4368293285369873,
+            "compression_ratio": 0.8983050847457628,
+            "no_speech_prob": 0.010253898799419403,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5432944893836975
+                },
+                {
+                    "word": " patient's",
+                    "start": 0.14,
+                    "end": 0.74,
+                    "probability": 0.9801583290100098
+                },
+                {
+                    "word": " condition",
+                    "start": 0.74,
+                    "end": 1.18,
+                    "probability": 0.9902682900428772
+                },
+                {
+                    "word": " has",
+                    "start": 1.18,
+                    "end": 1.6,
+                    "probability": 0.9629976749420166
+                },
+                {
+                    "word": " to",
+                    "start": 1.6,
+                    "end": 2.56,
+                    "probability": 0.453408420085907
+                },
+                {
+                    "word": " improve",
+                    "start": 2.56,
+                    "end": 4.38,
+                    "probability": 0.9759724140167236
+                },
+                {
+                    "word": " significantly.",
+                    "start": 4.38,
+                    "end": 5.24,
+                    "probability": 0.9988797307014465
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

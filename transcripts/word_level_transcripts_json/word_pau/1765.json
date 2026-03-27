@@ -1,0 +1,87 @@
+{
+    "text": " we should discuss this matter in private if possible.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.72,
+            "text": " we should discuss this matter in private if possible.",
+            "tokens": [
+                50364,
+                321,
+                820,
+                2248,
+                341,
+                1871,
+                294,
+                4551,
+                498,
+                1944,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33167105454664964,
+            "compression_ratio": 0.9298245614035088,
+            "no_speech_prob": 0.012170283123850822,
+            "words": [
+                {
+                    "word": " we",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.4646608531475067
+                },
+                {
+                    "word": " should",
+                    "start": 0.14,
+                    "end": 0.3,
+                    "probability": 0.9922493696212769
+                },
+                {
+                    "word": " discuss",
+                    "start": 0.3,
+                    "end": 0.64,
+                    "probability": 0.9851242899894714
+                },
+                {
+                    "word": " this",
+                    "start": 0.64,
+                    "end": 0.96,
+                    "probability": 0.9854936003684998
+                },
+                {
+                    "word": " matter",
+                    "start": 0.96,
+                    "end": 1.32,
+                    "probability": 0.9833998084068298
+                },
+                {
+                    "word": " in",
+                    "start": 1.32,
+                    "end": 1.68,
+                    "probability": 0.962347149848938
+                },
+                {
+                    "word": " private",
+                    "start": 1.68,
+                    "end": 3.76,
+                    "probability": 0.6979529857635498
+                },
+                {
+                    "word": " if",
+                    "start": 3.76,
+                    "end": 4.22,
+                    "probability": 0.5922914743423462
+                },
+                {
+                    "word": " possible.",
+                    "start": 4.22,
+                    "end": 4.72,
+                    "probability": 0.999066174030304
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

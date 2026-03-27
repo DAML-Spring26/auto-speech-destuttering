@@ -1,0 +1,67 @@
+{
+    "text": " the museum curator energised special exhibitions.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.44,
+            "text": " the museum curator energised special exhibitions.",
+            "tokens": [
+                50364,
+                264,
+                8441,
+                38519,
+                10575,
+                2640,
+                2121,
+                41522,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4355076009576971,
+            "compression_ratio": 0.8909090909090909,
+            "no_speech_prob": 0.004859535489231348,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5997565984725952
+                },
+                {
+                    "word": " museum",
+                    "start": 0.12,
+                    "end": 0.54,
+                    "probability": 0.6197369694709778
+                },
+                {
+                    "word": " curator",
+                    "start": 0.54,
+                    "end": 1.02,
+                    "probability": 0.9468809962272644
+                },
+                {
+                    "word": " energised",
+                    "start": 1.02,
+                    "end": 2.08,
+                    "probability": 0.8400783836841583
+                },
+                {
+                    "word": " special",
+                    "start": 2.08,
+                    "end": 2.68,
+                    "probability": 0.9378877878189087
+                },
+                {
+                    "word": " exhibitions.",
+                    "start": 2.68,
+                    "end": 3.44,
+                    "probability": 0.9786227941513062
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

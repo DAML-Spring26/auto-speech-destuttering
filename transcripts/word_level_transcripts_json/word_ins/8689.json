@@ -1,0 +1,101 @@
+{
+    "text": " Just updated my LinkedIn profile with like my new job title.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.94,
+            "text": " Just updated my LinkedIn profile with like my new job title.",
+            "tokens": [
+                50364,
+                1449,
+                10588,
+                452,
+                20657,
+                7964,
+                365,
+                411,
+                452,
+                777,
+                1691,
+                4876,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2964710553487142,
+            "compression_ratio": 0.9090909090909091,
+            "no_speech_prob": 0.05474691838026047,
+            "words": [
+                {
+                    "word": " Just",
+                    "start": 0.0,
+                    "end": 0.6,
+                    "probability": 0.7853423953056335
+                },
+                {
+                    "word": " updated",
+                    "start": 0.6,
+                    "end": 1.12,
+                    "probability": 0.9382646083831787
+                },
+                {
+                    "word": " my",
+                    "start": 1.12,
+                    "end": 1.36,
+                    "probability": 0.9945290684700012
+                },
+                {
+                    "word": " LinkedIn",
+                    "start": 1.36,
+                    "end": 1.72,
+                    "probability": 0.8704047203063965
+                },
+                {
+                    "word": " profile",
+                    "start": 1.72,
+                    "end": 2.38,
+                    "probability": 0.9863635897636414
+                },
+                {
+                    "word": " with",
+                    "start": 2.38,
+                    "end": 2.62,
+                    "probability": 0.9830480813980103
+                },
+                {
+                    "word": " like",
+                    "start": 2.62,
+                    "end": 2.78,
+                    "probability": 0.5786507725715637
+                },
+                {
+                    "word": " my",
+                    "start": 2.78,
+                    "end": 3.0,
+                    "probability": 0.9762845635414124
+                },
+                {
+                    "word": " new",
+                    "start": 3.0,
+                    "end": 3.18,
+                    "probability": 0.9894658327102661
+                },
+                {
+                    "word": " job",
+                    "start": 3.18,
+                    "end": 3.52,
+                    "probability": 0.9315943121910095
+                },
+                {
+                    "word": " title.",
+                    "start": 3.52,
+                    "end": 3.94,
+                    "probability": 0.9906253814697266
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

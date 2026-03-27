@@ -1,0 +1,91 @@
+{
+    "text": " The attorney objected to the prosecutor's line of quenching.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.94,
+            "text": " The attorney objected to the prosecutor's line of quenching.",
+            "tokens": [
+                50364,
+                440,
+                13469,
+                2657,
+                292,
+                281,
+                264,
+                32836,
+                311,
+                1622,
+                295,
+                421,
+                268,
+                17354,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2664964058819939,
+            "compression_ratio": 0.9230769230769231,
+            "no_speech_prob": 0.004865871276706457,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5401649475097656
+                },
+                {
+                    "word": " attorney",
+                    "start": 0.12,
+                    "end": 0.54,
+                    "probability": 0.7709683179855347
+                },
+                {
+                    "word": " objected",
+                    "start": 0.54,
+                    "end": 1.18,
+                    "probability": 0.9394407570362091
+                },
+                {
+                    "word": " to",
+                    "start": 1.18,
+                    "end": 1.28,
+                    "probability": 0.9936493039131165
+                },
+                {
+                    "word": " the",
+                    "start": 1.28,
+                    "end": 1.38,
+                    "probability": 0.9884264469146729
+                },
+                {
+                    "word": " prosecutor's",
+                    "start": 1.38,
+                    "end": 2.12,
+                    "probability": 0.9550515711307526
+                },
+                {
+                    "word": " line",
+                    "start": 2.12,
+                    "end": 2.3,
+                    "probability": 0.9802215099334717
+                },
+                {
+                    "word": " of",
+                    "start": 2.3,
+                    "end": 2.46,
+                    "probability": 0.9983745813369751
+                },
+                {
+                    "word": " quenching.",
+                    "start": 2.46,
+                    "end": 2.94,
+                    "probability": 0.9799493153889974
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

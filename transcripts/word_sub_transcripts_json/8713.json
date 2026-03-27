@@ -1,0 +1,59 @@
+{
+    "text": " quantum computers evolve complex equations.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.36,
+            "text": " quantum computers evolve complex equations.",
+            "tokens": [
+                50364,
+                13018,
+                10807,
+                16693,
+                3997,
+                11787,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4845268991258409,
+            "compression_ratio": 0.8958333333333334,
+            "no_speech_prob": 0.06055917218327522,
+            "words": [
+                {
+                    "word": " quantum",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.43316322565078735
+                },
+                {
+                    "word": " computers",
+                    "start": 0.32,
+                    "end": 0.9,
+                    "probability": 0.9845982789993286
+                },
+                {
+                    "word": " evolve",
+                    "start": 0.9,
+                    "end": 1.22,
+                    "probability": 0.8673256635665894
+                },
+                {
+                    "word": " complex",
+                    "start": 1.22,
+                    "end": 1.76,
+                    "probability": 0.9934252500534058
+                },
+                {
+                    "word": " equations.",
+                    "start": 1.76,
+                    "end": 2.36,
+                    "probability": 0.9965392351150513
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

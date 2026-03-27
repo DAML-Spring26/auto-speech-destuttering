@@ -1,0 +1,88 @@
+{
+    "text": " We must consider the ergonomic impact of this decision.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.42,
+            "text": " We must consider the ergonomic impact of this decision.",
+            "tokens": [
+                50364,
+                492,
+                1633,
+                1949,
+                264,
+                42735,
+                21401,
+                2712,
+                295,
+                341,
+                3537,
+                13,
+                50548
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2788341726575579,
+            "compression_ratio": 0.9322033898305084,
+            "no_speech_prob": 0.009559793397784233,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5516799688339233
+                },
+                {
+                    "word": " must",
+                    "start": 0.14,
+                    "end": 0.34,
+                    "probability": 0.9990597367286682
+                },
+                {
+                    "word": " consider",
+                    "start": 0.34,
+                    "end": 0.9,
+                    "probability": 0.9859226942062378
+                },
+                {
+                    "word": " the",
+                    "start": 0.9,
+                    "end": 1.16,
+                    "probability": 0.9948225021362305
+                },
+                {
+                    "word": " ergonomic",
+                    "start": 1.16,
+                    "end": 1.8,
+                    "probability": 0.9182860553264618
+                },
+                {
+                    "word": " impact",
+                    "start": 1.8,
+                    "end": 2.26,
+                    "probability": 0.9986140727996826
+                },
+                {
+                    "word": " of",
+                    "start": 2.26,
+                    "end": 2.6,
+                    "probability": 0.9977074861526489
+                },
+                {
+                    "word": " this",
+                    "start": 2.6,
+                    "end": 2.86,
+                    "probability": 0.994886577129364
+                },
+                {
+                    "word": " decision.",
+                    "start": 2.86,
+                    "end": 3.42,
+                    "probability": 0.9977291226387024
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

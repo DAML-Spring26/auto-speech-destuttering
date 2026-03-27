@@ -1,0 +1,96 @@
+{
+    "text": " The company's revenue grew, but the expenses also increased significantly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.24,
+            "text": " The company's revenue grew, but the expenses also increased significantly.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                9324,
+                6109,
+                11,
+                457,
+                264,
+                15506,
+                611,
+                6505,
+                10591,
+                13,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40692442655563354,
+            "compression_ratio": 0.9866666666666667,
+            "no_speech_prob": 0.0076223984360694885,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6946849226951599
+                },
+                {
+                    "word": " company's",
+                    "start": 0.12,
+                    "end": 0.66,
+                    "probability": 0.6797166764736176
+                },
+                {
+                    "word": " revenue",
+                    "start": 0.66,
+                    "end": 0.92,
+                    "probability": 0.9862465858459473
+                },
+                {
+                    "word": " grew,",
+                    "start": 0.92,
+                    "end": 1.24,
+                    "probability": 0.9911474585533142
+                },
+                {
+                    "word": " but",
+                    "start": 1.68,
+                    "end": 1.84,
+                    "probability": 0.9977898597717285
+                },
+                {
+                    "word": " the",
+                    "start": 1.84,
+                    "end": 2.24,
+                    "probability": 0.2660137712955475
+                },
+                {
+                    "word": " expenses",
+                    "start": 2.24,
+                    "end": 2.7,
+                    "probability": 0.9052674174308777
+                },
+                {
+                    "word": " also",
+                    "start": 2.7,
+                    "end": 3.16,
+                    "probability": 0.983746349811554
+                },
+                {
+                    "word": " increased",
+                    "start": 3.16,
+                    "end": 3.52,
+                    "probability": 0.9527539610862732
+                },
+                {
+                    "word": " significantly.",
+                    "start": 3.52,
+                    "end": 4.24,
+                    "probability": 0.9989743232727051
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

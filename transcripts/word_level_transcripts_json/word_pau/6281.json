@@ -1,0 +1,80 @@
+{
+    "text": " The team were tired to meet the deadline.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.06,
+            "text": " The team were tired to meet the deadline.",
+            "tokens": [
+                50364,
+                440,
+                1469,
+                645,
+                5868,
+                281,
+                1677,
+                264,
+                20615,
+                13,
+                50636
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6084523995717367,
+            "compression_ratio": 0.8913043478260869,
+            "no_speech_prob": 0.015704866498708725,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5981714725494385
+                },
+                {
+                    "word": " team",
+                    "start": 0.12,
+                    "end": 0.4,
+                    "probability": 0.849839985370636
+                },
+                {
+                    "word": " were",
+                    "start": 0.4,
+                    "end": 0.62,
+                    "probability": 0.4642331302165985
+                },
+                {
+                    "word": " tired",
+                    "start": 0.62,
+                    "end": 0.94,
+                    "probability": 0.45593342185020447
+                },
+                {
+                    "word": " to",
+                    "start": 0.94,
+                    "end": 1.28,
+                    "probability": 0.7824377417564392
+                },
+                {
+                    "word": " meet",
+                    "start": 1.28,
+                    "end": 4.46,
+                    "probability": 0.699507474899292
+                },
+                {
+                    "word": " the",
+                    "start": 4.46,
+                    "end": 4.68,
+                    "probability": 0.9861656427383423
+                },
+                {
+                    "word": " deadline.",
+                    "start": 4.68,
+                    "end": 5.06,
+                    "probability": 0.7891764640808105
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

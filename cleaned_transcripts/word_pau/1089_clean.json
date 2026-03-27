@@ -1,46 +1,43 @@
 {
-    "text": " the project manager outline. The next steps are implementation.",
+    "text": " through outline. Next steps for implementation.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 5.24,
-            "text": " the project manager outline.",
+            "end": 3.92,
+            "text": " through outline.",
             "tokens": [
                 50364,
-                264,
-                1716,
-                6598,
+                807,
                 16387,
                 13,
-                50626
+                50560
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.6442171931266785,
-            "compression_ratio": 0.9692307692307692,
-            "no_speech_prob": 0.0022463675122708082
+            "avg_logprob": -0.6957211861243615,
+            "compression_ratio": 0.8545454545454545,
+            "no_speech_prob": 0.014142414554953575
         },
         {
             "id": 1,
             "seek": 0,
-            "start": 5.24,
-            "end": 7.24,
-            "text": " The next steps are implementation.",
+            "start": 3.92,
+            "end": 5.92,
+            "text": " Next steps for implementation.",
             "tokens": [
-                50626,
-                440,
-                958,
+                50560,
+                3087,
                 4439,
-                366,
+                337,
                 11420,
                 13,
-                50726
+                50660
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.6442171931266785,
-            "compression_ratio": 0.9692307692307692,
-            "no_speech_prob": 0.0022463675122708082
+            "avg_logprob": -0.6957211861243615,
+            "compression_ratio": 0.8545454545454545,
+            "no_speech_prob": 0.014142414554953575
         }
     ],
     "language": "en"

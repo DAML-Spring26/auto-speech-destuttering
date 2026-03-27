@@ -1,45 +1,145 @@
 {
-    "text": " The latest software update includes enhanced. Security features.",
+    "text": " stops t\u00e4ning Can you tell how they are pass and The veterinary protection in recent weeks Once the",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 2.5,
-            "text": " The latest software update includes enhanced.",
+            "end": 3.0,
+            "text": " stops t\u00e4ning",
             "tokens": [
                 50364,
-                440,
-                6792,
-                4722,
-                5623,
-                5974,
-                21191,
-                13,
-                50489
+                10094,
+                19790,
+                278,
+                50514
             ],
-            "temperature": 0.0,
-            "avg_logprob": -0.6372419357299804,
-            "compression_ratio": 0.9552238805970149,
-            "no_speech_prob": 0.002327854046598077
+            "temperature": 1.0,
+            "avg_logprob": -4.533071016010485,
+            "compression_ratio": 1.0879120879120878,
+            "no_speech_prob": 0.18451926112174988
         },
         {
             "id": 1,
             "seek": 0,
-            "start": 6.3,
-            "end": 7.6000000000000005,
-            "text": " Security features.",
+            "start": 3.0,
+            "end": 4.54,
+            "text": " Can you tell how they",
             "tokens": [
-                50679,
-                11164,
-                4122,
-                13,
-                50744
+                50514,
+                1664,
+                291,
+                980,
+                577,
+                436,
+                50591
             ],
-            "temperature": 0.0,
-            "avg_logprob": -0.6372419357299804,
-            "compression_ratio": 0.9552238805970149,
-            "no_speech_prob": 0.002327854046598077
+            "temperature": 1.0,
+            "avg_logprob": -4.533071016010485,
+            "compression_ratio": 1.0879120879120878,
+            "no_speech_prob": 0.18451926112174988
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.54,
+            "end": 10.42,
+            "text": " are pass and",
+            "tokens": [
+                50591,
+                366,
+                1320,
+                293,
+                50885
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.533071016010485,
+            "compression_ratio": 1.0879120879120878,
+            "no_speech_prob": 0.18451926112174988
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 10.42,
+            "end": 13.16,
+            "text": " The",
+            "tokens": [
+                50885,
+                440,
+                51022
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.533071016010485,
+            "compression_ratio": 1.0879120879120878,
+            "no_speech_prob": 0.18451926112174988
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 13.16,
+            "end": 16.94,
+            "text": " veterinary",
+            "tokens": [
+                51022,
+                8901,
+                4066,
+                51211
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.533071016010485,
+            "compression_ratio": 1.0879120879120878,
+            "no_speech_prob": 0.18451926112174988
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 16.94,
+            "end": 19.6,
+            "text": " protection",
+            "tokens": [
+                51211,
+                6334,
+                51344
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.533071016010485,
+            "compression_ratio": 1.0879120879120878,
+            "no_speech_prob": 0.18451926112174988
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 19.6,
+            "end": 26.36,
+            "text": " in recent weeks",
+            "tokens": [
+                51344,
+                294,
+                5162,
+                3259,
+                51682
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.533071016010485,
+            "compression_ratio": 1.0879120879120878,
+            "no_speech_prob": 0.18451926112174988
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 26.36,
+            "end": 26.740000000000002,
+            "text": " Once the",
+            "tokens": [
+                51682,
+                3443,
+                264,
+                51701
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.533071016010485,
+            "compression_ratio": 1.0879120879120878,
+            "no_speech_prob": 0.18451926112174988
         }
     ],
     "language": "en"

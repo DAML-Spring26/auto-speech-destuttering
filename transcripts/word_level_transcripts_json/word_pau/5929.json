@@ -1,0 +1,100 @@
+{
+    "text": " We're playing a surprise party for... Dad's birthday.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.1,
+            "text": " We're playing a surprise party for...",
+            "tokens": [
+                50364,
+                492,
+                434,
+                2433,
+                257,
+                6365,
+                3595,
+                337,
+                485,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5864410961375517,
+            "compression_ratio": 0.8833333333333333,
+            "no_speech_prob": 0.012411599047482014,
+            "words": [
+                {
+                    "word": " We're",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.8478221297264099
+                },
+                {
+                    "word": " playing",
+                    "start": 0.18,
+                    "end": 0.46,
+                    "probability": 0.9893006682395935
+                },
+                {
+                    "word": " a",
+                    "start": 0.46,
+                    "end": 0.58,
+                    "probability": 0.9871953725814819
+                },
+                {
+                    "word": " surprise",
+                    "start": 0.58,
+                    "end": 0.96,
+                    "probability": 0.9447721242904663
+                },
+                {
+                    "word": " party",
+                    "start": 0.96,
+                    "end": 1.48,
+                    "probability": 0.9215177297592163
+                },
+                {
+                    "word": " for...",
+                    "start": 1.48,
+                    "end": 2.1,
+                    "probability": 0.5312124416232109
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.58,
+            "end": 4.7,
+            "text": " Dad's birthday.",
+            "tokens": [
+                50560,
+                5639,
+                311,
+                6154,
+                13,
+                50620
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5864410961375517,
+            "compression_ratio": 0.8833333333333333,
+            "no_speech_prob": 0.012411599047482014,
+            "words": [
+                {
+                    "word": " Dad's",
+                    "start": 3.58,
+                    "end": 4.34,
+                    "probability": 0.8195638954639435
+                },
+                {
+                    "word": " birthday.",
+                    "start": 4.34,
+                    "end": 4.7,
+                    "probability": 0.9618293046951294
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

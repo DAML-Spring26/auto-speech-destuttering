@@ -1,0 +1,87 @@
+{
+    "text": " Is there anything else I can help you today?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.18,
+            "text": " Is there anything else I can help you today?",
+            "tokens": [
+                50364,
+                1119,
+                456,
+                1340,
+                1646,
+                286,
+                393,
+                854,
+                291,
+                965,
+                30,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2903552788954515,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.009376400150358677,
+            "words": [
+                {
+                    "word": " Is",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.7533533573150635
+                },
+                {
+                    "word": " there",
+                    "start": 0.22,
+                    "end": 0.4,
+                    "probability": 0.9990484118461609
+                },
+                {
+                    "word": " anything",
+                    "start": 0.4,
+                    "end": 0.88,
+                    "probability": 0.9959277510643005
+                },
+                {
+                    "word": " else",
+                    "start": 0.88,
+                    "end": 1.14,
+                    "probability": 0.9959037899971008
+                },
+                {
+                    "word": " I",
+                    "start": 1.14,
+                    "end": 1.36,
+                    "probability": 0.909949541091919
+                },
+                {
+                    "word": " can",
+                    "start": 1.36,
+                    "end": 1.52,
+                    "probability": 0.9917565584182739
+                },
+                {
+                    "word": " help",
+                    "start": 1.52,
+                    "end": 1.74,
+                    "probability": 0.9951636791229248
+                },
+                {
+                    "word": " you",
+                    "start": 1.74,
+                    "end": 1.88,
+                    "probability": 0.9890614748001099
+                },
+                {
+                    "word": " today?",
+                    "start": 1.88,
+                    "end": 2.18,
+                    "probability": 0.9898221492767334
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

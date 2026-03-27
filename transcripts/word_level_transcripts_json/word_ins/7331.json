@@ -1,0 +1,81 @@
+{
+    "text": " Just uploaded my vacation photosome to the cloud.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.9200000000000004,
+            "end": 4.1,
+            "text": " Just uploaded my vacation photosome to the cloud.",
+            "tokens": [
+                50364,
+                1449,
+                17135,
+                452,
+                12830,
+                5787,
+                423,
+                281,
+                264,
+                4588,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48186195813692534,
+            "compression_ratio": 0.8596491228070176,
+            "no_speech_prob": 0.07144057750701904,
+            "words": [
+                {
+                    "word": " Just",
+                    "start": 0.9200000000000004,
+                    "end": 1.6,
+                    "probability": 0.655239999294281
+                },
+                {
+                    "word": " uploaded",
+                    "start": 1.6,
+                    "end": 2.02,
+                    "probability": 0.8334971070289612
+                },
+                {
+                    "word": " my",
+                    "start": 2.02,
+                    "end": 2.22,
+                    "probability": 0.9906596541404724
+                },
+                {
+                    "word": " vacation",
+                    "start": 2.22,
+                    "end": 2.62,
+                    "probability": 0.8786516189575195
+                },
+                {
+                    "word": " photosome",
+                    "start": 2.62,
+                    "end": 3.34,
+                    "probability": 0.7712306380271912
+                },
+                {
+                    "word": " to",
+                    "start": 3.34,
+                    "end": 3.64,
+                    "probability": 0.8348006010055542
+                },
+                {
+                    "word": " the",
+                    "start": 3.64,
+                    "end": 3.76,
+                    "probability": 0.9863461852073669
+                },
+                {
+                    "word": " cloud.",
+                    "start": 3.76,
+                    "end": 4.1,
+                    "probability": 0.9199832677841187
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

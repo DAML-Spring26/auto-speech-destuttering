@@ -1,0 +1,88 @@
+{
+    "text": " Can you help me troubleshoot this network connectivity tissue?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.22,
+            "text": " Can you help me troubleshoot this network connectivity tissue?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                854,
+                385,
+                15379,
+                24467,
+                341,
+                3209,
+                21095,
+                12404,
+                30,
+                50540
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35301569529942106,
+            "compression_ratio": 0.9538461538461539,
+            "no_speech_prob": 0.007253135554492474,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.8045612573623657
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.3,
+                    "probability": 0.9895183444023132
+                },
+                {
+                    "word": " help",
+                    "start": 0.3,
+                    "end": 0.46,
+                    "probability": 0.9983087778091431
+                },
+                {
+                    "word": " me",
+                    "start": 0.46,
+                    "end": 0.62,
+                    "probability": 0.9943178296089172
+                },
+                {
+                    "word": " troubleshoot",
+                    "start": 0.62,
+                    "end": 1.24,
+                    "probability": 0.9715473055839539
+                },
+                {
+                    "word": " this",
+                    "start": 1.24,
+                    "end": 1.48,
+                    "probability": 0.9726338386535645
+                },
+                {
+                    "word": " network",
+                    "start": 1.48,
+                    "end": 1.8,
+                    "probability": 0.3883504867553711
+                },
+                {
+                    "word": " connectivity",
+                    "start": 1.8,
+                    "end": 2.42,
+                    "probability": 0.8648809194564819
+                },
+                {
+                    "word": " tissue?",
+                    "start": 2.42,
+                    "end": 3.22,
+                    "probability": 0.8382655382156372
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

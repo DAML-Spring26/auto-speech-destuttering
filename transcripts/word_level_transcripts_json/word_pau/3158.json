@@ -1,0 +1,101 @@
+{
+    "text": " The physician recommends increasing your daily intake of fruits and vegetables.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.18,
+            "text": " The physician recommends increasing your daily intake of fruits and vegetables.",
+            "tokens": [
+                50364,
+                440,
+                16456,
+                34556,
+                5662,
+                428,
+                5212,
+                18060,
+                295,
+                12148,
+                293,
+                9320,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41249367396036785,
+            "compression_ratio": 1.0394736842105263,
+            "no_speech_prob": 0.09442587196826935,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.72,
+                    "probability": 0.6423091292381287
+                },
+                {
+                    "word": " physician",
+                    "start": 0.72,
+                    "end": 1.16,
+                    "probability": 0.8142266273498535
+                },
+                {
+                    "word": " recommends",
+                    "start": 1.16,
+                    "end": 1.66,
+                    "probability": 0.9976048469543457
+                },
+                {
+                    "word": " increasing",
+                    "start": 1.66,
+                    "end": 2.22,
+                    "probability": 0.9932743310928345
+                },
+                {
+                    "word": " your",
+                    "start": 2.22,
+                    "end": 2.42,
+                    "probability": 0.9938616752624512
+                },
+                {
+                    "word": " daily",
+                    "start": 2.42,
+                    "end": 2.74,
+                    "probability": 0.9776973128318787
+                },
+                {
+                    "word": " intake",
+                    "start": 2.74,
+                    "end": 3.22,
+                    "probability": 0.9778968095779419
+                },
+                {
+                    "word": " of",
+                    "start": 3.22,
+                    "end": 3.54,
+                    "probability": 0.9746110439300537
+                },
+                {
+                    "word": " fruits",
+                    "start": 3.54,
+                    "end": 6.4,
+                    "probability": 0.5402332544326782
+                },
+                {
+                    "word": " and",
+                    "start": 6.4,
+                    "end": 6.72,
+                    "probability": 0.9816531538963318
+                },
+                {
+                    "word": " vegetables.",
+                    "start": 6.72,
+                    "end": 7.18,
+                    "probability": 0.5749601125717163
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

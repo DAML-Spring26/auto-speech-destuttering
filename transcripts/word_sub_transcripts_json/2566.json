@@ -1,0 +1,66 @@
+{
+    "text": " The patient received immediate medical retention.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.1,
+            "text": " The patient received immediate medical retention.",
+            "tokens": [
+                50364,
+                440,
+                4537,
+                4613,
+                11629,
+                4625,
+                22871,
+                13,
+                50529
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4473243236541748,
+            "compression_ratio": 0.9423076923076923,
+            "no_speech_prob": 0.007437537424266338,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5426491498947144
+                },
+                {
+                    "word": " patient",
+                    "start": 0.12,
+                    "end": 0.56,
+                    "probability": 0.9953430891036987
+                },
+                {
+                    "word": " received",
+                    "start": 0.56,
+                    "end": 1.18,
+                    "probability": 0.9848589301109314
+                },
+                {
+                    "word": " immediate",
+                    "start": 1.18,
+                    "end": 1.82,
+                    "probability": 0.9835799336433411
+                },
+                {
+                    "word": " medical",
+                    "start": 1.82,
+                    "end": 2.44,
+                    "probability": 0.9940728545188904
+                },
+                {
+                    "word": " retention.",
+                    "start": 2.44,
+                    "end": 3.1,
+                    "probability": 0.8186820149421692
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

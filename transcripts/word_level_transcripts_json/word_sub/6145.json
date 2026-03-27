@@ -1,0 +1,83 @@
+{
+    "text": " The CEO present the quarterly results to StarColders.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.38,
+            "text": " The CEO present the quarterly results to StarColders.",
+            "tokens": [
+                50364,
+                440,
+                9282,
+                1974,
+                264,
+                38633,
+                3542,
+                281,
+                5705,
+                34,
+                2641,
+                433,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45553274154663087,
+            "compression_ratio": 0.9137931034482759,
+            "no_speech_prob": 0.010474787093698978,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7763203978538513
+                },
+                {
+                    "word": " CEO",
+                    "start": 0.14,
+                    "end": 0.56,
+                    "probability": 0.739798903465271
+                },
+                {
+                    "word": " present",
+                    "start": 0.56,
+                    "end": 1.06,
+                    "probability": 0.755062997341156
+                },
+                {
+                    "word": " the",
+                    "start": 1.06,
+                    "end": 1.32,
+                    "probability": 0.9603056907653809
+                },
+                {
+                    "word": " quarterly",
+                    "start": 1.32,
+                    "end": 1.74,
+                    "probability": 0.9844586849212646
+                },
+                {
+                    "word": " results",
+                    "start": 1.74,
+                    "end": 2.16,
+                    "probability": 0.9880335330963135
+                },
+                {
+                    "word": " to",
+                    "start": 2.16,
+                    "end": 2.46,
+                    "probability": 0.9843526482582092
+                },
+                {
+                    "word": " StarColders.",
+                    "start": 2.46,
+                    "end": 3.38,
+                    "probability": 0.6391454413533211
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

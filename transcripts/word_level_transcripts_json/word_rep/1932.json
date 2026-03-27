@@ -1,0 +1,45 @@
+{
+    "text": " We love music.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.4,
+            "text": " We love music.",
+            "tokens": [
+                50364,
+                492,
+                959,
+                1318,
+                13,
+                50454
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5397698538643974,
+            "compression_ratio": 0.6363636363636364,
+            "no_speech_prob": 0.01910587213933468,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.6468826532363892
+                },
+                {
+                    "word": " love",
+                    "start": 0.22,
+                    "end": 0.94,
+                    "probability": 0.7519933581352234
+                },
+                {
+                    "word": " music.",
+                    "start": 0.94,
+                    "end": 1.4,
+                    "probability": 0.996641993522644
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

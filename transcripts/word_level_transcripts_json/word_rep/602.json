@@ -1,0 +1,80 @@
+{
+    "text": " The book which I borrowed is over to.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.06,
+            "text": " The book which I borrowed is over to.",
+            "tokens": [
+                50364,
+                440,
+                1446,
+                597,
+                286,
+                26805,
+                307,
+                670,
+                281,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5485165119171143,
+            "compression_ratio": 0.8604651162790697,
+            "no_speech_prob": 0.004187354817986488,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5043025612831116
+                },
+                {
+                    "word": " book",
+                    "start": 0.12,
+                    "end": 0.32,
+                    "probability": 0.8869688510894775
+                },
+                {
+                    "word": " which",
+                    "start": 0.32,
+                    "end": 0.66,
+                    "probability": 0.3777560591697693
+                },
+                {
+                    "word": " I",
+                    "start": 0.66,
+                    "end": 1.1,
+                    "probability": 0.9040256142616272
+                },
+                {
+                    "word": " borrowed",
+                    "start": 1.1,
+                    "end": 1.4,
+                    "probability": 0.9214215278625488
+                },
+                {
+                    "word": " is",
+                    "start": 1.4,
+                    "end": 1.62,
+                    "probability": 0.9763403534889221
+                },
+                {
+                    "word": " over",
+                    "start": 1.62,
+                    "end": 1.84,
+                    "probability": 0.9597644209861755
+                },
+                {
+                    "word": " to.",
+                    "start": 1.84,
+                    "end": 2.06,
+                    "probability": 0.4408852458000183
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

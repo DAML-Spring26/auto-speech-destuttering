@@ -1,0 +1,66 @@
+{
+    "text": " the engineering team organized system performance.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.48,
+            "text": " the engineering team organized system performance.",
+            "tokens": [
+                50364,
+                264,
+                7043,
+                1469,
+                9983,
+                1185,
+                3389,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4317607879638672,
+            "compression_ratio": 0.8928571428571429,
+            "no_speech_prob": 0.00977737084031105,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5346795320510864
+                },
+                {
+                    "word": " engineering",
+                    "start": 0.12,
+                    "end": 0.66,
+                    "probability": 0.6697033047676086
+                },
+                {
+                    "word": " team",
+                    "start": 0.66,
+                    "end": 0.96,
+                    "probability": 0.9944074153900146
+                },
+                {
+                    "word": " organized",
+                    "start": 0.96,
+                    "end": 1.36,
+                    "probability": 0.5960103273391724
+                },
+                {
+                    "word": " system",
+                    "start": 1.36,
+                    "end": 1.88,
+                    "probability": 0.9834260940551758
+                },
+                {
+                    "word": " performance.",
+                    "start": 1.88,
+                    "end": 2.48,
+                    "probability": 0.9938389658927917
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

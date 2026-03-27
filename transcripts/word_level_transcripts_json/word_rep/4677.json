@@ -1,0 +1,109 @@
+{
+    "text": " After reviewing your application, we are pleased to offer you the position.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.98,
+            "text": " After reviewing your application, we are pleased to offer you the position.",
+            "tokens": [
+                50364,
+                2381,
+                19576,
+                428,
+                3861,
+                11,
+                321,
+                366,
+                10587,
+                281,
+                2626,
+                291,
+                264,
+                2535,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2503674451042624,
+            "compression_ratio": 1.0135135135135136,
+            "no_speech_prob": 0.0034184539690613747,
+            "words": [
+                {
+                    "word": " After",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.9149128198623657
+                },
+                {
+                    "word": " reviewing",
+                    "start": 0.32,
+                    "end": 0.64,
+                    "probability": 0.9851506352424622
+                },
+                {
+                    "word": " your",
+                    "start": 0.64,
+                    "end": 0.82,
+                    "probability": 0.972934901714325
+                },
+                {
+                    "word": " application,",
+                    "start": 0.82,
+                    "end": 1.4,
+                    "probability": 0.9904959201812744
+                },
+                {
+                    "word": " we",
+                    "start": 1.62,
+                    "end": 1.76,
+                    "probability": 0.9895856976509094
+                },
+                {
+                    "word": " are",
+                    "start": 1.76,
+                    "end": 1.84,
+                    "probability": 0.8378710150718689
+                },
+                {
+                    "word": " pleased",
+                    "start": 1.84,
+                    "end": 2.06,
+                    "probability": 0.9986016154289246
+                },
+                {
+                    "word": " to",
+                    "start": 2.06,
+                    "end": 2.26,
+                    "probability": 0.9933744072914124
+                },
+                {
+                    "word": " offer",
+                    "start": 2.26,
+                    "end": 2.42,
+                    "probability": 0.9997621178627014
+                },
+                {
+                    "word": " you",
+                    "start": 2.42,
+                    "end": 2.54,
+                    "probability": 0.9831640124320984
+                },
+                {
+                    "word": " the",
+                    "start": 2.54,
+                    "end": 2.64,
+                    "probability": 0.9885635375976562
+                },
+                {
+                    "word": " position.",
+                    "start": 2.64,
+                    "end": 2.98,
+                    "probability": 0.9925453066825867
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

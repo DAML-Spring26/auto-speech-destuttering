@@ -1,0 +1,94 @@
+{
+    "text": " We should review our marketing strategy for the upcoming quarter.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.28,
+            "text": " We should review our marketing strategy for the upcoming quarter.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                3131,
+                527,
+                6370,
+                5206,
+                337,
+                264,
+                11500,
+                6555,
+                13,
+                50639
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3430680547441755,
+            "compression_ratio": 0.9701492537313433,
+            "no_speech_prob": 0.003047318197786808,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.8398842811584473
+                },
+                {
+                    "word": " should",
+                    "start": 0.1,
+                    "end": 0.26,
+                    "probability": 0.9979764819145203
+                },
+                {
+                    "word": " review",
+                    "start": 0.26,
+                    "end": 0.54,
+                    "probability": 0.9935740828514099
+                },
+                {
+                    "word": " our",
+                    "start": 0.54,
+                    "end": 0.78,
+                    "probability": 0.964004397392273
+                },
+                {
+                    "word": " marketing",
+                    "start": 0.78,
+                    "end": 1.14,
+                    "probability": 0.8681138157844543
+                },
+                {
+                    "word": " strategy",
+                    "start": 1.14,
+                    "end": 1.84,
+                    "probability": 0.9985682964324951
+                },
+                {
+                    "word": " for",
+                    "start": 1.84,
+                    "end": 2.28,
+                    "probability": 0.9821679592132568
+                },
+                {
+                    "word": " the",
+                    "start": 2.28,
+                    "end": 4.42,
+                    "probability": 0.7531085014343262
+                },
+                {
+                    "word": " upcoming",
+                    "start": 4.42,
+                    "end": 4.82,
+                    "probability": 0.8026484251022339
+                },
+                {
+                    "word": " quarter.",
+                    "start": 4.82,
+                    "end": 5.28,
+                    "probability": 0.9760180711746216
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

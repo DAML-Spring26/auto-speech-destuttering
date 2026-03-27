@@ -1,0 +1,60 @@
+{
+    "text": " Sustainable practices permit future generations.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.36,
+            "text": " Sustainable practices permit future generations.",
+            "tokens": [
+                50364,
+                34407,
+                712,
+                7525,
+                13423,
+                2027,
+                10593,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4231237888336182,
+            "compression_ratio": 0.8727272727272727,
+            "no_speech_prob": 0.005143256857991219,
+            "words": [
+                {
+                    "word": " Sustainable",
+                    "start": 0.0,
+                    "end": 0.76,
+                    "probability": 0.8268551826477051
+                },
+                {
+                    "word": " practices",
+                    "start": 0.76,
+                    "end": 1.52,
+                    "probability": 0.6463606357574463
+                },
+                {
+                    "word": " permit",
+                    "start": 1.52,
+                    "end": 2.12,
+                    "probability": 0.995830237865448
+                },
+                {
+                    "word": " future",
+                    "start": 2.12,
+                    "end": 2.6,
+                    "probability": 0.9951226115226746
+                },
+                {
+                    "word": " generations.",
+                    "start": 2.6,
+                    "end": 3.36,
+                    "probability": 0.9975191354751587
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

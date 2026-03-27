@@ -1,0 +1,94 @@
+{
+    "text": " The City Council voted unanimously to approve the new project.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.02,
+            "text": " The City Council voted unanimously to approve the new project.",
+            "tokens": [
+                50364,
+                440,
+                4392,
+                7076,
+                13415,
+                48733,
+                281,
+                18827,
+                264,
+                777,
+                1716,
+                13,
+                50636
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39210459164210726,
+            "compression_ratio": 0.9253731343283582,
+            "no_speech_prob": 0.02079727314412594,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.43978264927864075
+                },
+                {
+                    "word": " City",
+                    "start": 0.1,
+                    "end": 0.34,
+                    "probability": 0.7181745171546936
+                },
+                {
+                    "word": " Council",
+                    "start": 0.34,
+                    "end": 0.76,
+                    "probability": 0.9749466776847839
+                },
+                {
+                    "word": " voted",
+                    "start": 0.76,
+                    "end": 1.22,
+                    "probability": 0.9824258089065552
+                },
+                {
+                    "word": " unanimously",
+                    "start": 1.22,
+                    "end": 1.84,
+                    "probability": 0.8915196657180786
+                },
+                {
+                    "word": " to",
+                    "start": 1.84,
+                    "end": 2.42,
+                    "probability": 0.8008702397346497
+                },
+                {
+                    "word": " approve",
+                    "start": 2.42,
+                    "end": 4.18,
+                    "probability": 0.977290153503418
+                },
+                {
+                    "word": " the",
+                    "start": 4.18,
+                    "end": 4.42,
+                    "probability": 0.9886813163757324
+                },
+                {
+                    "word": " new",
+                    "start": 4.42,
+                    "end": 4.58,
+                    "probability": 0.9730090498924255
+                },
+                {
+                    "word": " project.",
+                    "start": 4.58,
+                    "end": 5.02,
+                    "probability": 0.9847507476806641
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

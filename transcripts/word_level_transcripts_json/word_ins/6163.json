@@ -1,0 +1,131 @@
+{
+    "text": " The concert was amazing, but the acoustics in the venue could have been better honestly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.96,
+            "text": " The concert was amazing, but the acoustics in the venue could have been better honestly.",
+            "tokens": [
+                50364,
+                440,
+                8543,
+                390,
+                2243,
+                11,
+                457,
+                264,
+                22740,
+                1167,
+                294,
+                264,
+                21645,
+                727,
+                362,
+                668,
+                1101,
+                6095,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22228091103690012,
+            "compression_ratio": 1.0731707317073171,
+            "no_speech_prob": 0.027109134942293167,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 1.12,
+                    "probability": 0.8960044980049133
+                },
+                {
+                    "word": " concert",
+                    "start": 1.12,
+                    "end": 1.6,
+                    "probability": 0.9797205328941345
+                },
+                {
+                    "word": " was",
+                    "start": 1.6,
+                    "end": 1.92,
+                    "probability": 0.9995922446250916
+                },
+                {
+                    "word": " amazing,",
+                    "start": 1.92,
+                    "end": 2.46,
+                    "probability": 0.9952312111854553
+                },
+                {
+                    "word": " but",
+                    "start": 3.06,
+                    "end": 3.72,
+                    "probability": 0.9839672446250916
+                },
+                {
+                    "word": " the",
+                    "start": 3.72,
+                    "end": 3.9,
+                    "probability": 0.9945409893989563
+                },
+                {
+                    "word": " acoustics",
+                    "start": 3.9,
+                    "end": 4.66,
+                    "probability": 0.991502195596695
+                },
+                {
+                    "word": " in",
+                    "start": 4.66,
+                    "end": 4.86,
+                    "probability": 0.996243953704834
+                },
+                {
+                    "word": " the",
+                    "start": 4.86,
+                    "end": 4.98,
+                    "probability": 0.993720531463623
+                },
+                {
+                    "word": " venue",
+                    "start": 4.98,
+                    "end": 5.34,
+                    "probability": 0.9975577592849731
+                },
+                {
+                    "word": " could",
+                    "start": 5.34,
+                    "end": 5.86,
+                    "probability": 0.9798683524131775
+                },
+                {
+                    "word": " have",
+                    "start": 5.86,
+                    "end": 6.02,
+                    "probability": 0.9613322019577026
+                },
+                {
+                    "word": " been",
+                    "start": 6.02,
+                    "end": 6.18,
+                    "probability": 0.9983410835266113
+                },
+                {
+                    "word": " better",
+                    "start": 6.18,
+                    "end": 6.5,
+                    "probability": 0.9976654052734375
+                },
+                {
+                    "word": " honestly.",
+                    "start": 6.5,
+                    "end": 6.96,
+                    "probability": 0.9071432948112488
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

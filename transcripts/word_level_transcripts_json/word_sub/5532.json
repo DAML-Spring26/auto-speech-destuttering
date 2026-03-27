@@ -1,0 +1,66 @@
+{
+    "text": " Have you considered the ethical implication?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.08,
+            "text": " Have you considered the ethical implication?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                4888,
+                264,
+                18890,
+                37814,
+                30,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36244471073150636,
+            "compression_ratio": 0.88,
+            "no_speech_prob": 0.011433839797973633,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.894252598285675
+                },
+                {
+                    "word": " you",
+                    "start": 0.18,
+                    "end": 0.32,
+                    "probability": 0.9983372688293457
+                },
+                {
+                    "word": " considered",
+                    "start": 0.32,
+                    "end": 0.78,
+                    "probability": 0.9955529570579529
+                },
+                {
+                    "word": " the",
+                    "start": 0.78,
+                    "end": 1.0,
+                    "probability": 0.9570515155792236
+                },
+                {
+                    "word": " ethical",
+                    "start": 1.0,
+                    "end": 1.32,
+                    "probability": 0.9719946384429932
+                },
+                {
+                    "word": " implication?",
+                    "start": 1.32,
+                    "end": 2.08,
+                    "probability": 0.981500506401062
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

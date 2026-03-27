@@ -1,0 +1,52 @@
+{
+    "text": " the software needs uploading.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.24,
+            "text": " the software needs uploading.",
+            "tokens": [
+                50364,
+                264,
+                4722,
+                2203,
+                27301,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5103153586387634,
+            "compression_ratio": 0.7837837837837838,
+            "no_speech_prob": 0.0025602139066904783,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.47220203280448914
+                },
+                {
+                    "word": " software",
+                    "start": 0.12,
+                    "end": 0.52,
+                    "probability": 0.9512313008308411
+                },
+                {
+                    "word": " needs",
+                    "start": 0.52,
+                    "end": 0.78,
+                    "probability": 0.9960716962814331
+                },
+                {
+                    "word": " uploading.",
+                    "start": 0.78,
+                    "end": 1.24,
+                    "probability": 0.9742432832717896
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

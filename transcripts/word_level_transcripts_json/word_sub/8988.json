@@ -1,0 +1,59 @@
+{
+    "text": " The program provides useful creatures.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.66,
+            "text": " The program provides useful creatures.",
+            "tokens": [
+                50364,
+                440,
+                1461,
+                6417,
+                4420,
+                12281,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3060274124145508,
+            "compression_ratio": 0.8837209302325582,
+            "no_speech_prob": 0.004908598028123379,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.8277005553245544
+                },
+                {
+                    "word": " program",
+                    "start": 0.08,
+                    "end": 0.36,
+                    "probability": 0.735063910484314
+                },
+                {
+                    "word": " provides",
+                    "start": 0.36,
+                    "end": 0.8,
+                    "probability": 0.9845614433288574
+                },
+                {
+                    "word": " useful",
+                    "start": 0.8,
+                    "end": 1.26,
+                    "probability": 0.9956087470054626
+                },
+                {
+                    "word": " creatures.",
+                    "start": 1.26,
+                    "end": 1.66,
+                    "probability": 0.9922645092010498
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

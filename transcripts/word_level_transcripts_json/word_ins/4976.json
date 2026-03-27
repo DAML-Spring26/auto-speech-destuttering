@@ -1,0 +1,73 @@
+{
+    "text": " Please take this prescription to the pharmacy.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.84,
+            "text": " Please take this prescription to the pharmacy.",
+            "tokens": [
+                50364,
+                2555,
+                747,
+                341,
+                22456,
+                281,
+                264,
+                30639,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42046538266268646,
+            "compression_ratio": 0.9019607843137255,
+            "no_speech_prob": 0.07659453898668289,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.94,
+                    "probability": 0.7005082964897156
+                },
+                {
+                    "word": " take",
+                    "start": 0.94,
+                    "end": 1.44,
+                    "probability": 0.9261858463287354
+                },
+                {
+                    "word": " this",
+                    "start": 1.44,
+                    "end": 1.68,
+                    "probability": 0.9689344167709351
+                },
+                {
+                    "word": " prescription",
+                    "start": 1.68,
+                    "end": 2.24,
+                    "probability": 0.8231822848320007
+                },
+                {
+                    "word": " to",
+                    "start": 2.24,
+                    "end": 3.24,
+                    "probability": 0.9716116189956665
+                },
+                {
+                    "word": " the",
+                    "start": 3.24,
+                    "end": 3.38,
+                    "probability": 0.9965167045593262
+                },
+                {
+                    "word": " pharmacy.",
+                    "start": 3.38,
+                    "end": 3.84,
+                    "probability": 0.9697813987731934
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

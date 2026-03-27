@@ -1,0 +1,87 @@
+{
+    "text": " Did you remember to feed the dog this morning?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.08,
+            "text": " Did you remember to feed the dog this morning?",
+            "tokens": [
+                50364,
+                2589,
+                291,
+                1604,
+                281,
+                3154,
+                264,
+                3000,
+                341,
+                2446,
+                30,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3372509662921612,
+            "compression_ratio": 0.8846153846153846,
+            "no_speech_prob": 0.05119365081191063,
+            "words": [
+                {
+                    "word": " Did",
+                    "start": 0.0,
+                    "end": 0.74,
+                    "probability": 0.7583855986595154
+                },
+                {
+                    "word": " you",
+                    "start": 0.74,
+                    "end": 0.88,
+                    "probability": 0.997634768486023
+                },
+                {
+                    "word": " remember",
+                    "start": 0.88,
+                    "end": 1.4,
+                    "probability": 0.9948988556861877
+                },
+                {
+                    "word": " to",
+                    "start": 1.4,
+                    "end": 1.72,
+                    "probability": 0.9916279315948486
+                },
+                {
+                    "word": " feed",
+                    "start": 1.72,
+                    "end": 2.02,
+                    "probability": 0.9980335831642151
+                },
+                {
+                    "word": " the",
+                    "start": 2.02,
+                    "end": 2.32,
+                    "probability": 0.9934413433074951
+                },
+                {
+                    "word": " dog",
+                    "start": 2.32,
+                    "end": 2.76,
+                    "probability": 0.9935334920883179
+                },
+                {
+                    "word": " this",
+                    "start": 2.76,
+                    "end": 3.64,
+                    "probability": 0.9730509519577026
+                },
+                {
+                    "word": " morning?",
+                    "start": 3.64,
+                    "end": 4.08,
+                    "probability": 0.9985456466674805
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

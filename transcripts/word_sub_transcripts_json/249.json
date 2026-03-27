@@ -1,0 +1,59 @@
+{
+    "text": " their conference attracted intentional delegates.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.18,
+            "text": " their conference attracted intentional delegates.",
+            "tokens": [
+                50364,
+                641,
+                7586,
+                15912,
+                21935,
+                45756,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5084314876132541,
+            "compression_ratio": 0.9245283018867925,
+            "no_speech_prob": 0.0024983673356473446,
+            "words": [
+                {
+                    "word": " their",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.3046158254146576
+                },
+                {
+                    "word": " conference",
+                    "start": 0.14,
+                    "end": 0.46,
+                    "probability": 0.8259115815162659
+                },
+                {
+                    "word": " attracted",
+                    "start": 0.46,
+                    "end": 1.0,
+                    "probability": 0.9839649200439453
+                },
+                {
+                    "word": " intentional",
+                    "start": 1.0,
+                    "end": 1.64,
+                    "probability": 0.9264332056045532
+                },
+                {
+                    "word": " delegates.",
+                    "start": 1.64,
+                    "end": 2.18,
+                    "probability": 0.7715830206871033
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

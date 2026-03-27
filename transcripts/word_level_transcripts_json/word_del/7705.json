@@ -1,0 +1,94 @@
+{
+    "text": " a new policy announced at the company meeting next month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.84,
+            "text": " a new policy announced at the company meeting next month.",
+            "tokens": [
+                50364,
+                257,
+                777,
+                3897,
+                7548,
+                412,
+                264,
+                2237,
+                3440,
+                958,
+                1618,
+                13,
+                50516
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38514838899884907,
+            "compression_ratio": 0.9344262295081968,
+            "no_speech_prob": 0.008471286855638027,
+            "words": [
+                {
+                    "word": " a",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.33128735423088074
+                },
+                {
+                    "word": " new",
+                    "start": 0.16,
+                    "end": 0.3,
+                    "probability": 0.9865732192993164
+                },
+                {
+                    "word": " policy",
+                    "start": 0.3,
+                    "end": 0.8,
+                    "probability": 0.8262484669685364
+                },
+                {
+                    "word": " announced",
+                    "start": 0.8,
+                    "end": 1.16,
+                    "probability": 0.9479535818099976
+                },
+                {
+                    "word": " at",
+                    "start": 1.16,
+                    "end": 1.46,
+                    "probability": 0.7566565275192261
+                },
+                {
+                    "word": " the",
+                    "start": 1.46,
+                    "end": 1.56,
+                    "probability": 0.9390888214111328
+                },
+                {
+                    "word": " company",
+                    "start": 1.56,
+                    "end": 1.86,
+                    "probability": 0.9341287612915039
+                },
+                {
+                    "word": " meeting",
+                    "start": 1.86,
+                    "end": 2.22,
+                    "probability": 0.945155143737793
+                },
+                {
+                    "word": " next",
+                    "start": 2.22,
+                    "end": 2.56,
+                    "probability": 0.9917914867401123
+                },
+                {
+                    "word": " month.",
+                    "start": 2.56,
+                    "end": 2.84,
+                    "probability": 0.9964943528175354
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

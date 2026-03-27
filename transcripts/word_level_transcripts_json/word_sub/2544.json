@@ -1,0 +1,59 @@
+{
+    "text": " The doctor will prescribe medication.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.78,
+            "text": " The doctor will prescribe medication.",
+            "tokens": [
+                50364,
+                440,
+                4631,
+                486,
+                49292,
+                13851,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3470647070142958,
+            "compression_ratio": 0.8222222222222222,
+            "no_speech_prob": 0.007753264624625444,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.722610354423523
+                },
+                {
+                    "word": " doctor",
+                    "start": 0.1,
+                    "end": 0.42,
+                    "probability": 0.9544366002082825
+                },
+                {
+                    "word": " will",
+                    "start": 0.42,
+                    "end": 0.64,
+                    "probability": 0.9982798099517822
+                },
+                {
+                    "word": " prescribe",
+                    "start": 0.64,
+                    "end": 1.04,
+                    "probability": 0.9925398230552673
+                },
+                {
+                    "word": " medication.",
+                    "start": 1.04,
+                    "end": 1.78,
+                    "probability": 0.9874764084815979
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

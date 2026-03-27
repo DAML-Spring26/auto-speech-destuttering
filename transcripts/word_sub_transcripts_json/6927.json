@@ -1,0 +1,73 @@
+{
+    "text": " We need to implement robust security protocols.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.34,
+            "text": " We need to implement robust security protocols.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                4445,
+                13956,
+                3825,
+                20618,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31165456771850586,
+            "compression_ratio": 0.8545454545454545,
+            "no_speech_prob": 0.005588696803897619,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7138595581054688
+                },
+                {
+                    "word": " need",
+                    "start": 0.14,
+                    "end": 0.32,
+                    "probability": 0.9929478168487549
+                },
+                {
+                    "word": " to",
+                    "start": 0.32,
+                    "end": 0.48,
+                    "probability": 0.9964402318000793
+                },
+                {
+                    "word": " implement",
+                    "start": 0.48,
+                    "end": 0.84,
+                    "probability": 0.9819324016571045
+                },
+                {
+                    "word": " robust",
+                    "start": 0.84,
+                    "end": 1.24,
+                    "probability": 0.7054280638694763
+                },
+                {
+                    "word": " security",
+                    "start": 1.24,
+                    "end": 1.8,
+                    "probability": 0.9903132915496826
+                },
+                {
+                    "word": " protocols.",
+                    "start": 1.8,
+                    "end": 2.34,
+                    "probability": 0.9634082913398743
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

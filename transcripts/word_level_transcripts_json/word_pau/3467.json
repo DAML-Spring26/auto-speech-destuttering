@@ -1,0 +1,101 @@
+{
+    "text": " The lab result should be available within 48 to 72 hours.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.68,
+            "text": " The lab result should be available within 48 to 72 hours.",
+            "tokens": [
+                50364,
+                440,
+                2715,
+                1874,
+                820,
+                312,
+                2435,
+                1951,
+                11174,
+                281,
+                18731,
+                2496,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37703771591186525,
+            "compression_ratio": 0.9047619047619048,
+            "no_speech_prob": 0.018903015181422234,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5896188020706177
+                },
+                {
+                    "word": " lab",
+                    "start": 0.1,
+                    "end": 0.28,
+                    "probability": 0.8911359906196594
+                },
+                {
+                    "word": " result",
+                    "start": 0.28,
+                    "end": 0.64,
+                    "probability": 0.5983311533927917
+                },
+                {
+                    "word": " should",
+                    "start": 0.64,
+                    "end": 0.96,
+                    "probability": 0.9937919974327087
+                },
+                {
+                    "word": " be",
+                    "start": 0.96,
+                    "end": 1.1,
+                    "probability": 0.9932277798652649
+                },
+                {
+                    "word": " available",
+                    "start": 1.1,
+                    "end": 1.7,
+                    "probability": 0.9957013726234436
+                },
+                {
+                    "word": " within",
+                    "start": 1.7,
+                    "end": 2.1,
+                    "probability": 0.6763324737548828
+                },
+                {
+                    "word": " 48",
+                    "start": 2.1,
+                    "end": 2.72,
+                    "probability": 0.9323304891586304
+                },
+                {
+                    "word": " to",
+                    "start": 2.72,
+                    "end": 4.34,
+                    "probability": 0.41525933146476746
+                },
+                {
+                    "word": " 72",
+                    "start": 4.34,
+                    "end": 7.12,
+                    "probability": 0.9952002763748169
+                },
+                {
+                    "word": " hours.",
+                    "start": 7.12,
+                    "end": 7.68,
+                    "probability": 0.9880593419075012
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

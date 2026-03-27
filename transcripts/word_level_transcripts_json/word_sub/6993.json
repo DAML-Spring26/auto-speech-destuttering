@@ -1,0 +1,84 @@
+{
+    "text": " Can you recalibrate the spectometer for the experiment?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.02,
+            "text": " Can you recalibrate the spectometer for the experiment?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                850,
+                304,
+                897,
+                4404,
+                264,
+                6177,
+                13606,
+                337,
+                264,
+                5120,
+                30,
+                50532
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3142651617527008,
+            "compression_ratio": 0.9166666666666666,
+            "no_speech_prob": 0.007022780831903219,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.8131785988807678
+                },
+                {
+                    "word": " you",
+                    "start": 0.2,
+                    "end": 0.32,
+                    "probability": 0.9896417260169983
+                },
+                {
+                    "word": " recalibrate",
+                    "start": 0.32,
+                    "end": 0.98,
+                    "probability": 0.9537314623594284
+                },
+                {
+                    "word": " the",
+                    "start": 0.98,
+                    "end": 1.2,
+                    "probability": 0.5069032907485962
+                },
+                {
+                    "word": " spectometer",
+                    "start": 1.2,
+                    "end": 1.96,
+                    "probability": 0.807521790266037
+                },
+                {
+                    "word": " for",
+                    "start": 1.96,
+                    "end": 2.24,
+                    "probability": 0.9874216318130493
+                },
+                {
+                    "word": " the",
+                    "start": 2.24,
+                    "end": 2.44,
+                    "probability": 0.9822121262550354
+                },
+                {
+                    "word": " experiment?",
+                    "start": 2.44,
+                    "end": 3.02,
+                    "probability": 0.9804583787918091
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

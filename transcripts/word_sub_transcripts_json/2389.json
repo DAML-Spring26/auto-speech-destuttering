@@ -1,0 +1,73 @@
+{
+    "text": " Emergency services responded to the incident properly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.56,
+            "text": " Emergency services responded to the incident properly.",
+            "tokens": [
+                50364,
+                30524,
+                3328,
+                15806,
+                281,
+                264,
+                9348,
+                6108,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38862302086570044,
+            "compression_ratio": 0.9152542372881356,
+            "no_speech_prob": 0.003278439398854971,
+            "words": [
+                {
+                    "word": " Emergency",
+                    "start": 0.0,
+                    "end": 0.62,
+                    "probability": 0.7238694429397583
+                },
+                {
+                    "word": " services",
+                    "start": 0.62,
+                    "end": 1.38,
+                    "probability": 0.9572784304618835
+                },
+                {
+                    "word": " responded",
+                    "start": 1.38,
+                    "end": 2.12,
+                    "probability": 0.9724025130271912
+                },
+                {
+                    "word": " to",
+                    "start": 2.12,
+                    "end": 2.42,
+                    "probability": 0.996512234210968
+                },
+                {
+                    "word": " the",
+                    "start": 2.42,
+                    "end": 2.54,
+                    "probability": 0.9943158030509949
+                },
+                {
+                    "word": " incident",
+                    "start": 2.54,
+                    "end": 2.92,
+                    "probability": 0.9795637726783752
+                },
+                {
+                    "word": " properly.",
+                    "start": 2.92,
+                    "end": 3.56,
+                    "probability": 0.9962472319602966
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,94 @@
+{
+    "text": " I wonder she will accept our invitation to the party.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.22,
+            "text": " I wonder she will accept our invitation to the party.",
+            "tokens": [
+                50364,
+                286,
+                2441,
+                750,
+                486,
+                3241,
+                527,
+                17890,
+                281,
+                264,
+                3595,
+                13,
+                50538
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2575837714331491,
+            "compression_ratio": 0.8833333333333333,
+            "no_speech_prob": 0.004384533502161503,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.9711987972259521
+                },
+                {
+                    "word": " wonder",
+                    "start": 0.18,
+                    "end": 0.56,
+                    "probability": 0.9921084046363831
+                },
+                {
+                    "word": " she",
+                    "start": 0.56,
+                    "end": 0.84,
+                    "probability": 0.8698105812072754
+                },
+                {
+                    "word": " will",
+                    "start": 0.84,
+                    "end": 1.02,
+                    "probability": 0.9791615009307861
+                },
+                {
+                    "word": " accept",
+                    "start": 1.02,
+                    "end": 1.36,
+                    "probability": 0.9961601495742798
+                },
+                {
+                    "word": " our",
+                    "start": 1.36,
+                    "end": 1.68,
+                    "probability": 0.858736515045166
+                },
+                {
+                    "word": " invitation",
+                    "start": 1.68,
+                    "end": 2.32,
+                    "probability": 0.9800700545310974
+                },
+                {
+                    "word": " to",
+                    "start": 2.32,
+                    "end": 2.74,
+                    "probability": 0.9843389987945557
+                },
+                {
+                    "word": " the",
+                    "start": 2.74,
+                    "end": 2.84,
+                    "probability": 0.9915955662727356
+                },
+                {
+                    "word": " party.",
+                    "start": 2.84,
+                    "end": 3.22,
+                    "probability": 0.9811984300613403
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,68 @@
+{
+    "text": " The research paper discusses quantum semantics.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.62,
+            "text": " The research paper discusses quantum semantics.",
+            "tokens": [
+                50364,
+                440,
+                2132,
+                3035,
+                2248,
+                279,
+                13018,
+                4361,
+                45298,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3500059445699056,
+            "compression_ratio": 0.8867924528301887,
+            "no_speech_prob": 0.005237021017819643,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5275431275367737
+                },
+                {
+                    "word": " research",
+                    "start": 0.12,
+                    "end": 0.52,
+                    "probability": 0.9211117625236511
+                },
+                {
+                    "word": " paper",
+                    "start": 0.52,
+                    "end": 0.94,
+                    "probability": 0.963329553604126
+                },
+                {
+                    "word": " discusses",
+                    "start": 0.94,
+                    "end": 1.7,
+                    "probability": 0.9829950332641602
+                },
+                {
+                    "word": " quantum",
+                    "start": 1.7,
+                    "end": 2.04,
+                    "probability": 0.9487431049346924
+                },
+                {
+                    "word": " semantics.",
+                    "start": 2.04,
+                    "end": 2.62,
+                    "probability": 0.981434166431427
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

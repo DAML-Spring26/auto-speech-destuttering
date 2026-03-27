@@ -1,0 +1,94 @@
+{
+    "text": " Mom asked if we had finished our homework before dinner.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.62,
+            "text": " Mom asked if we had finished our homework before dinner.",
+            "tokens": [
+                50364,
+                5576,
+                2351,
+                498,
+                321,
+                632,
+                4335,
+                527,
+                14578,
+                949,
+                6148,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.43426690782819477,
+            "compression_ratio": 0.9180327868852459,
+            "no_speech_prob": 0.002542623784393072,
+            "words": [
+                {
+                    "word": " Mom",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.16565251350402832
+                },
+                {
+                    "word": " asked",
+                    "start": 0.18,
+                    "end": 0.46,
+                    "probability": 0.8416345119476318
+                },
+                {
+                    "word": " if",
+                    "start": 0.46,
+                    "end": 0.74,
+                    "probability": 0.9775573015213013
+                },
+                {
+                    "word": " we",
+                    "start": 0.74,
+                    "end": 1.16,
+                    "probability": 0.4485586881637573
+                },
+                {
+                    "word": " had",
+                    "start": 1.16,
+                    "end": 1.26,
+                    "probability": 0.8921993374824524
+                },
+                {
+                    "word": " finished",
+                    "start": 1.26,
+                    "end": 1.56,
+                    "probability": 0.9804384708404541
+                },
+                {
+                    "word": " our",
+                    "start": 1.56,
+                    "end": 1.76,
+                    "probability": 0.8957854509353638
+                },
+                {
+                    "word": " homework",
+                    "start": 1.76,
+                    "end": 2.0,
+                    "probability": 0.996692419052124
+                },
+                {
+                    "word": " before",
+                    "start": 2.0,
+                    "end": 2.34,
+                    "probability": 0.9730471968650818
+                },
+                {
+                    "word": " dinner.",
+                    "start": 2.34,
+                    "end": 2.62,
+                    "probability": 0.9963147044181824
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

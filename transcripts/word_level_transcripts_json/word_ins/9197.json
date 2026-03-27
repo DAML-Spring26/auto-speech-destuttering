@@ -1,0 +1,82 @@
+{
+    "text": " What's your arm? Favorite book from this author?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.3,
+            "end": 4.78,
+            "text": " What's your arm? Favorite book from this author?",
+            "tokens": [
+                50364,
+                708,
+                311,
+                428,
+                3726,
+                30,
+                43697,
+                1446,
+                490,
+                341,
+                3793,
+                30,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.439335754939488,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.16934643685817719,
+            "words": [
+                {
+                    "word": " What's",
+                    "start": 1.3,
+                    "end": 1.86,
+                    "probability": 0.917048841714859
+                },
+                {
+                    "word": " your",
+                    "start": 1.86,
+                    "end": 1.96,
+                    "probability": 0.9560810327529907
+                },
+                {
+                    "word": " arm?",
+                    "start": 1.96,
+                    "end": 2.2,
+                    "probability": 0.48248574137687683
+                },
+                {
+                    "word": " Favorite",
+                    "start": 3.34,
+                    "end": 3.6,
+                    "probability": 0.9161521792411804
+                },
+                {
+                    "word": " book",
+                    "start": 3.6,
+                    "end": 3.88,
+                    "probability": 0.9808781147003174
+                },
+                {
+                    "word": " from",
+                    "start": 3.88,
+                    "end": 4.16,
+                    "probability": 0.9894872903823853
+                },
+                {
+                    "word": " this",
+                    "start": 4.16,
+                    "end": 4.46,
+                    "probability": 0.9858420491218567
+                },
+                {
+                    "word": " author?",
+                    "start": 4.46,
+                    "end": 4.78,
+                    "probability": 0.9934064149856567
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

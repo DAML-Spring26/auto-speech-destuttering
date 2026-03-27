@@ -1,0 +1,87 @@
+{
+    "text": " Anyone have recommendations for a good movie to watch?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.6,
+            "text": " Anyone have recommendations for a good movie to watch?",
+            "tokens": [
+                50364,
+                14643,
+                362,
+                10434,
+                337,
+                257,
+                665,
+                3169,
+                281,
+                1159,
+                30,
+                50584
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42732924681443435,
+            "compression_ratio": 0.9152542372881356,
+            "no_speech_prob": 0.05165872350335121,
+            "words": [
+                {
+                    "word": " Anyone",
+                    "start": 0.0,
+                    "end": 0.8,
+                    "probability": 0.7131907343864441
+                },
+                {
+                    "word": " have",
+                    "start": 0.8,
+                    "end": 1.22,
+                    "probability": 0.9572477340698242
+                },
+                {
+                    "word": " recommendations",
+                    "start": 1.22,
+                    "end": 2.32,
+                    "probability": 0.9657861590385437
+                },
+                {
+                    "word": " for",
+                    "start": 2.32,
+                    "end": 3.24,
+                    "probability": 0.9825909733772278
+                },
+                {
+                    "word": " a",
+                    "start": 3.24,
+                    "end": 3.42,
+                    "probability": 0.9923267960548401
+                },
+                {
+                    "word": " good",
+                    "start": 3.42,
+                    "end": 3.56,
+                    "probability": 0.996374785900116
+                },
+                {
+                    "word": " movie",
+                    "start": 3.56,
+                    "end": 3.94,
+                    "probability": 0.9908368587493896
+                },
+                {
+                    "word": " to",
+                    "start": 3.94,
+                    "end": 4.14,
+                    "probability": 0.9954646229743958
+                },
+                {
+                    "word": " watch?",
+                    "start": 4.14,
+                    "end": 4.6,
+                    "probability": 0.9985223412513733
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

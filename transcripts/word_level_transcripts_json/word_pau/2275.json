@@ -1,0 +1,101 @@
+{
+    "text": " We regret to inform you that your application has been unsuccessful.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.14,
+            "text": " We regret to inform you that your application has been unsuccessful.",
+            "tokens": [
+                50364,
+                492,
+                10879,
+                281,
+                1356,
+                291,
+                300,
+                428,
+                3861,
+                575,
+                668,
+                46258,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3068511962890625,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.004003077279776335,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6890321373939514
+                },
+                {
+                    "word": " regret",
+                    "start": 0.12,
+                    "end": 0.48,
+                    "probability": 0.9990134239196777
+                },
+                {
+                    "word": " to",
+                    "start": 0.48,
+                    "end": 0.78,
+                    "probability": 0.9977043271064758
+                },
+                {
+                    "word": " inform",
+                    "start": 0.78,
+                    "end": 1.14,
+                    "probability": 0.9973658919334412
+                },
+                {
+                    "word": " you",
+                    "start": 1.14,
+                    "end": 1.4,
+                    "probability": 0.9859535098075867
+                },
+                {
+                    "word": " that",
+                    "start": 1.4,
+                    "end": 1.56,
+                    "probability": 0.9963823556900024
+                },
+                {
+                    "word": " your",
+                    "start": 1.56,
+                    "end": 1.8,
+                    "probability": 0.9949517250061035
+                },
+                {
+                    "word": " application",
+                    "start": 1.8,
+                    "end": 2.48,
+                    "probability": 0.9959607720375061
+                },
+                {
+                    "word": " has",
+                    "start": 2.48,
+                    "end": 3.2,
+                    "probability": 0.9823551774024963
+                },
+                {
+                    "word": " been",
+                    "start": 3.2,
+                    "end": 6.54,
+                    "probability": 0.9113718271255493
+                },
+                {
+                    "word": " unsuccessful.",
+                    "start": 6.54,
+                    "end": 7.14,
+                    "probability": 0.9915856122970581
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

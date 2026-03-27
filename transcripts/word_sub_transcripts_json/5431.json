@@ -1,0 +1,67 @@
+{
+    "text": " journalist interviewed the prominent political vega.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.8,
+            "text": " journalist interviewed the prominent political vega.",
+            "tokens": [
+                50364,
+                17277,
+                19770,
+                264,
+                17034,
+                3905,
+                1241,
+                3680,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6828476732427423,
+            "compression_ratio": 0.9122807017543859,
+            "no_speech_prob": 0.009021470323204994,
+            "words": [
+                {
+                    "word": " journalist",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.32580849528312683
+                },
+                {
+                    "word": " interviewed",
+                    "start": 0.42,
+                    "end": 1.1,
+                    "probability": 0.8899732232093811
+                },
+                {
+                    "word": " the",
+                    "start": 1.1,
+                    "end": 1.34,
+                    "probability": 0.9692733287811279
+                },
+                {
+                    "word": " prominent",
+                    "start": 1.34,
+                    "end": 1.74,
+                    "probability": 0.9877814054489136
+                },
+                {
+                    "word": " political",
+                    "start": 1.74,
+                    "end": 2.4,
+                    "probability": 0.9692656993865967
+                },
+                {
+                    "word": " vega.",
+                    "start": 2.4,
+                    "end": 2.8,
+                    "probability": 0.49573859572410583
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

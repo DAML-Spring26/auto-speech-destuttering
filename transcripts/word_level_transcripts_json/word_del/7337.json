@@ -1,0 +1,59 @@
+{
+    "text": " important message arrived this morning.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.94,
+            "text": " important message arrived this morning.",
+            "tokens": [
+                50364,
+                1021,
+                3636,
+                6678,
+                341,
+                2446,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.445737361907959,
+            "compression_ratio": 0.8297872340425532,
+            "no_speech_prob": 0.005667862482368946,
+            "words": [
+                {
+                    "word": " important",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.579107940196991
+                },
+                {
+                    "word": " message",
+                    "start": 0.44,
+                    "end": 0.76,
+                    "probability": 0.9782584309577942
+                },
+                {
+                    "word": " arrived",
+                    "start": 0.76,
+                    "end": 1.2,
+                    "probability": 0.9596885442733765
+                },
+                {
+                    "word": " this",
+                    "start": 1.2,
+                    "end": 1.5,
+                    "probability": 0.9847502708435059
+                },
+                {
+                    "word": " morning.",
+                    "start": 1.5,
+                    "end": 1.94,
+                    "probability": 0.998566210269928
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,95 @@
+{
+    "text": " The chef prepared a gourmet meal for the food clinics.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.7,
+            "text": " The chef prepared a gourmet meal for the food clinics.",
+            "tokens": [
+                50364,
+                440,
+                10530,
+                4927,
+                257,
+                46651,
+                5537,
+                6791,
+                337,
+                264,
+                1755,
+                27252,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26490281422932943,
+            "compression_ratio": 0.9,
+            "no_speech_prob": 0.004111079964786768,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8886218667030334
+                },
+                {
+                    "word": " chef",
+                    "start": 0.14,
+                    "end": 0.34,
+                    "probability": 0.9270102977752686
+                },
+                {
+                    "word": " prepared",
+                    "start": 0.34,
+                    "end": 0.82,
+                    "probability": 0.933792769908905
+                },
+                {
+                    "word": " a",
+                    "start": 0.82,
+                    "end": 1.0,
+                    "probability": 0.9792734384536743
+                },
+                {
+                    "word": " gourmet",
+                    "start": 1.0,
+                    "end": 1.38,
+                    "probability": 0.8717229068279266
+                },
+                {
+                    "word": " meal",
+                    "start": 1.38,
+                    "end": 1.68,
+                    "probability": 0.9966244697570801
+                },
+                {
+                    "word": " for",
+                    "start": 1.68,
+                    "end": 1.96,
+                    "probability": 0.9953268766403198
+                },
+                {
+                    "word": " the",
+                    "start": 1.96,
+                    "end": 2.14,
+                    "probability": 0.9877140522003174
+                },
+                {
+                    "word": " food",
+                    "start": 2.14,
+                    "end": 2.34,
+                    "probability": 0.9454666972160339
+                },
+                {
+                    "word": " clinics.",
+                    "start": 2.34,
+                    "end": 2.7,
+                    "probability": 0.8901156187057495
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,52 @@
+{
+    "text": " The device needs celebration.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.5,
+            "text": " The device needs celebration.",
+            "tokens": [
+                50364,
+                440,
+                4302,
+                2203,
+                14184,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3613240718841553,
+            "compression_ratio": 0.7837837837837838,
+            "no_speech_prob": 0.015234633348882198,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.5318898558616638
+                },
+                {
+                    "word": " device",
+                    "start": 0.24,
+                    "end": 0.58,
+                    "probability": 0.9656330943107605
+                },
+                {
+                    "word": " needs",
+                    "start": 0.58,
+                    "end": 0.88,
+                    "probability": 0.9659247398376465
+                },
+                {
+                    "word": " celebration.",
+                    "start": 0.88,
+                    "end": 1.5,
+                    "probability": 0.8802782297134399
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

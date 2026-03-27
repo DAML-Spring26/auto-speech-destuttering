@@ -1,0 +1,81 @@
+{
+    "text": " We're going to like visit grandma this weekend.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.1,
+            "text": " We're going to like visit grandma this weekend.",
+            "tokens": [
+                50364,
+                492,
+                434,
+                516,
+                281,
+                411,
+                3441,
+                15766,
+                341,
+                6711,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5040417084327111,
+            "compression_ratio": 0.8545454545454545,
+            "no_speech_prob": 0.06376541405916214,
+            "words": [
+                {
+                    "word": " We're",
+                    "start": 0.0,
+                    "end": 0.88,
+                    "probability": 0.87824946641922
+                },
+                {
+                    "word": " going",
+                    "start": 0.88,
+                    "end": 1.08,
+                    "probability": 0.9973787069320679
+                },
+                {
+                    "word": " to",
+                    "start": 1.08,
+                    "end": 1.26,
+                    "probability": 0.9908536672592163
+                },
+                {
+                    "word": " like",
+                    "start": 1.26,
+                    "end": 1.48,
+                    "probability": 0.5608232617378235
+                },
+                {
+                    "word": " visit",
+                    "start": 1.48,
+                    "end": 2.02,
+                    "probability": 0.9215806722640991
+                },
+                {
+                    "word": " grandma",
+                    "start": 2.02,
+                    "end": 2.44,
+                    "probability": 0.54668790102005
+                },
+                {
+                    "word": " this",
+                    "start": 2.44,
+                    "end": 2.72,
+                    "probability": 0.9964718818664551
+                },
+                {
+                    "word": " weekend.",
+                    "start": 2.72,
+                    "end": 3.1,
+                    "probability": 0.9975273013114929
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

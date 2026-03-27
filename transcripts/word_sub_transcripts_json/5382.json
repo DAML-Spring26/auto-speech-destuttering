@@ -1,0 +1,80 @@
+{
+    "text": " The merger will significantly impact our market share.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.54,
+            "text": " The merger will significantly impact our market share.",
+            "tokens": [
+                50364,
+                440,
+                48002,
+                486,
+                10591,
+                2712,
+                527,
+                2142,
+                2073,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4395683209101359,
+            "compression_ratio": 0.8852459016393442,
+            "no_speech_prob": 0.0015966828214004636,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7209630608558655
+                },
+                {
+                    "word": " merger",
+                    "start": 0.12,
+                    "end": 0.42,
+                    "probability": 0.5382411479949951
+                },
+                {
+                    "word": " will",
+                    "start": 0.42,
+                    "end": 0.6,
+                    "probability": 0.994446873664856
+                },
+                {
+                    "word": " significantly",
+                    "start": 0.6,
+                    "end": 1.06,
+                    "probability": 0.9970558881759644
+                },
+                {
+                    "word": " impact",
+                    "start": 1.06,
+                    "end": 1.7,
+                    "probability": 0.9946539402008057
+                },
+                {
+                    "word": " our",
+                    "start": 1.7,
+                    "end": 1.96,
+                    "probability": 0.9289891719818115
+                },
+                {
+                    "word": " market",
+                    "start": 1.96,
+                    "end": 2.22,
+                    "probability": 0.9653301239013672
+                },
+                {
+                    "word": " share.",
+                    "start": 2.22,
+                    "end": 2.54,
+                    "probability": 0.3970152735710144
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

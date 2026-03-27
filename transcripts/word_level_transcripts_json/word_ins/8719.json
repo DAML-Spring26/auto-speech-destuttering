@@ -1,0 +1,102 @@
+{
+    "text": " The company's profits have them increased by 20% this quarter.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.44,
+            "text": " The company's profits have them increased by 20% this quarter.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                17982,
+                362,
+                552,
+                6505,
+                538,
+                945,
+                4,
+                341,
+                6555,
+                13,
+                50488
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3573652505874634,
+            "compression_ratio": 0.8985507246376812,
+            "no_speech_prob": 0.13900615274906158,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.7851240038871765
+                },
+                {
+                    "word": " company's",
+                    "start": 0.26,
+                    "end": 0.6,
+                    "probability": 0.9169720113277435
+                },
+                {
+                    "word": " profits",
+                    "start": 0.6,
+                    "end": 0.84,
+                    "probability": 0.9901406168937683
+                },
+                {
+                    "word": " have",
+                    "start": 0.84,
+                    "end": 1.04,
+                    "probability": 0.9789342284202576
+                },
+                {
+                    "word": " them",
+                    "start": 1.04,
+                    "end": 1.2,
+                    "probability": 0.5605378150939941
+                },
+                {
+                    "word": " increased",
+                    "start": 1.2,
+                    "end": 1.42,
+                    "probability": 0.9221866130828857
+                },
+                {
+                    "word": " by",
+                    "start": 1.42,
+                    "end": 1.62,
+                    "probability": 0.9933412671089172
+                },
+                {
+                    "word": " 20",
+                    "start": 1.62,
+                    "end": 1.84,
+                    "probability": 0.9650080800056458
+                },
+                {
+                    "word": "%",
+                    "start": 1.84,
+                    "end": 2.04,
+                    "probability": 0.8751283884048462
+                },
+                {
+                    "word": " this",
+                    "start": 2.04,
+                    "end": 2.22,
+                    "probability": 0.8381279706954956
+                },
+                {
+                    "word": " quarter.",
+                    "start": 2.22,
+                    "end": 2.44,
+                    "probability": 0.9896758198738098
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

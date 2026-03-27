@@ -1,12 +1,12 @@
 {
-    "text": " Honey, did you remember to buy milk at the grocery store?",
+    "text": " Honey, did you remember to buy milk? Th-",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 5.0,
-            "text": " Honey, did you remember to buy milk at the grocery store?",
+            "end": 2.0,
+            "text": " Honey, did you remember to buy milk?",
             "tokens": [
                 50364,
                 16187,
@@ -17,17 +17,30 @@
                 281,
                 2256,
                 5392,
-                412,
-                264,
-                14410,
-                3531,
                 30,
-                50614
+                50464
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.3323071002960205,
-            "compression_ratio": 0.9047619047619048,
-            "no_speech_prob": 0.013999903574585915
+            "avg_logprob": -0.6301377415657043,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.09941312670707703
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.5,
+            "end": 4.0,
+            "text": " Th-",
+            "tokens": [
+                50539,
+                334,
+                12,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6301377415657043,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.09941312670707703
         }
     ],
     "language": "en"

@@ -1,0 +1,94 @@
+{
+    "text": " The new operating system is compatible with most existing hardware.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.6,
+            "text": " The new operating system is compatible with most existing hardware.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                7447,
+                1185,
+                307,
+                18218,
+                365,
+                881,
+                6741,
+                8837,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22416014330727713,
+            "compression_ratio": 0.9852941176470589,
+            "no_speech_prob": 0.009425777941942215,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.9542197585105896
+                },
+                {
+                    "word": " new",
+                    "start": 0.32,
+                    "end": 0.48,
+                    "probability": 0.9937611222267151
+                },
+                {
+                    "word": " operating",
+                    "start": 0.48,
+                    "end": 0.88,
+                    "probability": 0.9953582882881165
+                },
+                {
+                    "word": " system",
+                    "start": 0.88,
+                    "end": 1.3,
+                    "probability": 0.9984032511711121
+                },
+                {
+                    "word": " is",
+                    "start": 1.3,
+                    "end": 1.44,
+                    "probability": 0.9983789920806885
+                },
+                {
+                    "word": " compatible",
+                    "start": 1.44,
+                    "end": 1.88,
+                    "probability": 0.9977032542228699
+                },
+                {
+                    "word": " with",
+                    "start": 1.88,
+                    "end": 2.32,
+                    "probability": 0.9970300197601318
+                },
+                {
+                    "word": " most",
+                    "start": 2.32,
+                    "end": 2.72,
+                    "probability": 0.916436493396759
+                },
+                {
+                    "word": " existing",
+                    "start": 2.72,
+                    "end": 3.2,
+                    "probability": 0.9928011894226074
+                },
+                {
+                    "word": " hardware.",
+                    "start": 3.2,
+                    "end": 3.6,
+                    "probability": 0.9926429390907288
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

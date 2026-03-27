@@ -1,0 +1,113 @@
+{
+    "text": " Just posted a new selfie. How's my hair like looking?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.5800000000000001,
+            "end": 2.14,
+            "text": " Just posted a new selfie.",
+            "tokens": [
+                50364,
+                1449,
+                9437,
+                257,
+                777,
+                22147,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34913574324713814,
+            "compression_ratio": 0.8688524590163934,
+            "no_speech_prob": 0.07386543601751328,
+            "words": [
+                {
+                    "word": " Just",
+                    "start": 0.5800000000000001,
+                    "end": 1.12,
+                    "probability": 0.7431467175483704
+                },
+                {
+                    "word": " posted",
+                    "start": 1.12,
+                    "end": 1.48,
+                    "probability": 0.9762380123138428
+                },
+                {
+                    "word": " a",
+                    "start": 1.48,
+                    "end": 1.62,
+                    "probability": 0.9965819716453552
+                },
+                {
+                    "word": " new",
+                    "start": 1.62,
+                    "end": 1.74,
+                    "probability": 0.9861873388290405
+                },
+                {
+                    "word": " selfie.",
+                    "start": 1.74,
+                    "end": 2.14,
+                    "probability": 0.9735699892044067
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.2,
+            "end": 4.56,
+            "text": " How's my hair like looking?",
+            "tokens": [
+                50514,
+                1012,
+                311,
+                452,
+                2578,
+                411,
+                1237,
+                30,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34913574324713814,
+            "compression_ratio": 0.8688524590163934,
+            "no_speech_prob": 0.07386543601751328,
+            "words": [
+                {
+                    "word": " How's",
+                    "start": 3.2,
+                    "end": 3.74,
+                    "probability": 0.9206623435020447
+                },
+                {
+                    "word": " my",
+                    "start": 3.74,
+                    "end": 3.88,
+                    "probability": 0.9975797533988953
+                },
+                {
+                    "word": " hair",
+                    "start": 3.88,
+                    "end": 4.06,
+                    "probability": 0.9859020709991455
+                },
+                {
+                    "word": " like",
+                    "start": 4.06,
+                    "end": 4.24,
+                    "probability": 0.9527702927589417
+                },
+                {
+                    "word": " looking?",
+                    "start": 4.24,
+                    "end": 4.56,
+                    "probability": 0.9843323230743408
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,73 @@
+{
+    "text": " We need to upgrade our security systems.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.2,
+            "text": " We need to upgrade our security systems.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                11484,
+                527,
+                3825,
+                3652,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3944517048922452,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.005008738022297621,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.6943126320838928
+                },
+                {
+                    "word": " need",
+                    "start": 0.18,
+                    "end": 0.34,
+                    "probability": 0.9952840209007263
+                },
+                {
+                    "word": " to",
+                    "start": 0.34,
+                    "end": 0.56,
+                    "probability": 0.9982960820198059
+                },
+                {
+                    "word": " upgrade",
+                    "start": 0.56,
+                    "end": 0.84,
+                    "probability": 0.995868444442749
+                },
+                {
+                    "word": " our",
+                    "start": 0.84,
+                    "end": 1.08,
+                    "probability": 0.9941070079803467
+                },
+                {
+                    "word": " security",
+                    "start": 1.08,
+                    "end": 1.54,
+                    "probability": 0.9750729203224182
+                },
+                {
+                    "word": " systems.",
+                    "start": 1.54,
+                    "end": 2.2,
+                    "probability": 0.7563343048095703
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

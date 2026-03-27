@@ -1,0 +1,87 @@
+{
+    "text": " Can you please send me the quarterly report well?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.92,
+            "text": " Can you please send me the quarterly report well?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                1767,
+                2845,
+                385,
+                264,
+                38633,
+                2275,
+                731,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4487722103412335,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.16020986437797546,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.94,
+                    "probability": 0.8034281134605408
+                },
+                {
+                    "word": " you",
+                    "start": 0.94,
+                    "end": 1.04,
+                    "probability": 0.9976044297218323
+                },
+                {
+                    "word": " please",
+                    "start": 1.04,
+                    "end": 1.34,
+                    "probability": 0.9832540154457092
+                },
+                {
+                    "word": " send",
+                    "start": 1.34,
+                    "end": 1.54,
+                    "probability": 0.9976357221603394
+                },
+                {
+                    "word": " me",
+                    "start": 1.54,
+                    "end": 1.72,
+                    "probability": 0.9950990080833435
+                },
+                {
+                    "word": " the",
+                    "start": 1.72,
+                    "end": 1.84,
+                    "probability": 0.9907453060150146
+                },
+                {
+                    "word": " quarterly",
+                    "start": 1.84,
+                    "end": 2.2,
+                    "probability": 0.9819881319999695
+                },
+                {
+                    "word": " report",
+                    "start": 2.2,
+                    "end": 2.58,
+                    "probability": 0.9872598648071289
+                },
+                {
+                    "word": " well?",
+                    "start": 2.58,
+                    "end": 2.92,
+                    "probability": 0.687308669090271
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

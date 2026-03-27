@@ -1,0 +1,110 @@
+{
+    "text": " Mum, have you seen my biology textbook I need for tomorrow's exam?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.2,
+            "text": " Mum, have you seen my biology textbook I need for tomorrow's exam?",
+            "tokens": [
+                50364,
+                24279,
+                11,
+                362,
+                291,
+                1612,
+                452,
+                14956,
+                25591,
+                286,
+                643,
+                337,
+                4153,
+                311,
+                1139,
+                30,
+                50536
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34855718082851833,
+            "compression_ratio": 0.9295774647887324,
+            "no_speech_prob": 0.01287785917520523,
+            "words": [
+                {
+                    "word": " Mum,",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.47911882400512695
+                },
+                {
+                    "word": " have",
+                    "start": 0.44,
+                    "end": 0.5,
+                    "probability": 0.9574648141860962
+                },
+                {
+                    "word": " you",
+                    "start": 0.5,
+                    "end": 0.62,
+                    "probability": 0.9971234202384949
+                },
+                {
+                    "word": " seen",
+                    "start": 0.62,
+                    "end": 0.76,
+                    "probability": 0.9704861044883728
+                },
+                {
+                    "word": " my",
+                    "start": 0.76,
+                    "end": 0.94,
+                    "probability": 0.9977529644966125
+                },
+                {
+                    "word": " biology",
+                    "start": 0.94,
+                    "end": 1.3,
+                    "probability": 0.6812570691108704
+                },
+                {
+                    "word": " textbook",
+                    "start": 1.3,
+                    "end": 1.78,
+                    "probability": 0.9676380157470703
+                },
+                {
+                    "word": " I",
+                    "start": 1.78,
+                    "end": 2.16,
+                    "probability": 0.26530975103378296
+                },
+                {
+                    "word": " need",
+                    "start": 2.16,
+                    "end": 2.36,
+                    "probability": 0.45412003993988037
+                },
+                {
+                    "word": " for",
+                    "start": 2.36,
+                    "end": 2.54,
+                    "probability": 0.9926308393478394
+                },
+                {
+                    "word": " tomorrow's",
+                    "start": 2.54,
+                    "end": 2.94,
+                    "probability": 0.968922346830368
+                },
+                {
+                    "word": " exam?",
+                    "start": 2.94,
+                    "end": 3.2,
+                    "probability": 0.9982908368110657
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,94 @@
+{
+    "text": " I wonder if she revealed the latest customer feedback survey.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.1,
+            "text": " I wonder if she revealed the latest customer feedback survey.",
+            "tokens": [
+                50364,
+                286,
+                2441,
+                498,
+                750,
+                9599,
+                264,
+                6792,
+                5474,
+                5824,
+                8984,
+                13,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3468423230307443,
+            "compression_ratio": 0.9242424242424242,
+            "no_speech_prob": 0.0040861996822059155,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.9701613783836365
+                },
+                {
+                    "word": " wonder",
+                    "start": 0.14,
+                    "end": 0.54,
+                    "probability": 0.9867929220199585
+                },
+                {
+                    "word": " if",
+                    "start": 0.54,
+                    "end": 0.7,
+                    "probability": 0.9901673793792725
+                },
+                {
+                    "word": " she",
+                    "start": 0.7,
+                    "end": 0.84,
+                    "probability": 0.9876284599304199
+                },
+                {
+                    "word": " revealed",
+                    "start": 0.84,
+                    "end": 1.2,
+                    "probability": 0.28681790828704834
+                },
+                {
+                    "word": " the",
+                    "start": 1.2,
+                    "end": 1.4,
+                    "probability": 0.9747884273529053
+                },
+                {
+                    "word": " latest",
+                    "start": 1.4,
+                    "end": 1.64,
+                    "probability": 0.9873720407485962
+                },
+                {
+                    "word": " customer",
+                    "start": 1.64,
+                    "end": 2.14,
+                    "probability": 0.8749712109565735
+                },
+                {
+                    "word": " feedback",
+                    "start": 2.14,
+                    "end": 2.56,
+                    "probability": 0.9979206919670105
+                },
+                {
+                    "word": " survey.",
+                    "start": 2.56,
+                    "end": 3.1,
+                    "probability": 0.9888849258422852
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

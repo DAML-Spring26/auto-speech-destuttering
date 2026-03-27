@@ -1,0 +1,66 @@
+{
+    "text": " She permitted the final report yesterday.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " She permitted the final report yesterday.",
+            "tokens": [
+                50364,
+                1240,
+                28658,
+                264,
+                2572,
+                2275,
+                5186,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3828195333480835,
+            "compression_ratio": 0.8723404255319149,
+            "no_speech_prob": 0.0050262329168617725,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.6752215027809143
+                },
+                {
+                    "word": " permitted",
+                    "start": 0.2,
+                    "end": 0.66,
+                    "probability": 0.9878519773483276
+                },
+                {
+                    "word": " the",
+                    "start": 0.66,
+                    "end": 0.84,
+                    "probability": 0.9956841468811035
+                },
+                {
+                    "word": " final",
+                    "start": 0.84,
+                    "end": 1.18,
+                    "probability": 0.9921644926071167
+                },
+                {
+                    "word": " report",
+                    "start": 1.18,
+                    "end": 1.5,
+                    "probability": 0.9935950636863708
+                },
+                {
+                    "word": " yesterday.",
+                    "start": 1.5,
+                    "end": 2.0,
+                    "probability": 0.9862720966339111
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

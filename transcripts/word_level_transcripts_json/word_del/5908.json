@@ -1,0 +1,101 @@
+{
+    "text": " The new superhero movie breaking all box office records this weekend.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.56,
+            "text": " The new superhero movie breaking all box office records this weekend.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                19428,
+                3169,
+                7697,
+                439,
+                2424,
+                3398,
+                7724,
+                341,
+                6711,
+                13,
+                50556
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3702454884847005,
+            "compression_ratio": 1.0147058823529411,
+            "no_speech_prob": 0.005032630171626806,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6938220262527466
+                },
+                {
+                    "word": " new",
+                    "start": 0.1,
+                    "end": 0.28,
+                    "probability": 0.9324771165847778
+                },
+                {
+                    "word": " superhero",
+                    "start": 0.28,
+                    "end": 0.72,
+                    "probability": 0.8690224885940552
+                },
+                {
+                    "word": " movie",
+                    "start": 0.72,
+                    "end": 1.1,
+                    "probability": 0.9942193031311035
+                },
+                {
+                    "word": " breaking",
+                    "start": 1.1,
+                    "end": 1.5,
+                    "probability": 0.7460476756095886
+                },
+                {
+                    "word": " all",
+                    "start": 1.5,
+                    "end": 1.78,
+                    "probability": 0.5846167802810669
+                },
+                {
+                    "word": " box",
+                    "start": 1.78,
+                    "end": 2.0,
+                    "probability": 0.7082836031913757
+                },
+                {
+                    "word": " office",
+                    "start": 2.0,
+                    "end": 2.42,
+                    "probability": 0.9644664525985718
+                },
+                {
+                    "word": " records",
+                    "start": 2.42,
+                    "end": 2.88,
+                    "probability": 0.947882354259491
+                },
+                {
+                    "word": " this",
+                    "start": 2.88,
+                    "end": 3.18,
+                    "probability": 0.9164376854896545
+                },
+                {
+                    "word": " weekend.",
+                    "start": 3.18,
+                    "end": 3.56,
+                    "probability": 0.9900425672531128
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

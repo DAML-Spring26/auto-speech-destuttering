@@ -1,17 +1,16 @@
 {
-    "text": " I'm afraid we don't offer that service at this location.",
+    "text": " I mean we don't offer that service at this location.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 3.92,
-            "text": " I'm afraid we don't offer that service at this location.",
+            "end": 3.6,
+            "text": " I mean we don't offer that service at this location.",
             "tokens": [
                 50364,
                 286,
-                478,
-                4638,
+                914,
                 321,
                 500,
                 380,
@@ -22,12 +21,12 @@
                 341,
                 4914,
                 13,
-                50560
+                50544
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.3491866886615753,
-            "compression_ratio": 0.9032258064516129,
-            "no_speech_prob": 0.007881591096520424
+            "avg_logprob": -0.448775577545166,
+            "compression_ratio": 0.896551724137931,
+            "no_speech_prob": 0.01126127690076828
         }
     ],
     "language": "en"

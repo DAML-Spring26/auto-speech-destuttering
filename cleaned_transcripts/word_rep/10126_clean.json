@@ -1,5 +1,5 @@
 {
-    "text": " The new employee orientation program will be conducted virtually due to current circumstances.",
+    "text": " The new employee orientation program will be conducted for each of your circumstances.",
     "segments": [
         {
             "id": 0,
@@ -20,30 +20,30 @@
                 50524
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.4550412830553557,
-            "compression_ratio": 1.119047619047619,
-            "no_speech_prob": 0.00230599706992507
+            "avg_logprob": -0.5990279348273027,
+            "compression_ratio": 1.1025641025641026,
+            "no_speech_prob": 0.0018574834102764726
         },
         {
             "id": 1,
             "seek": 0,
             "start": 3.2,
-            "end": 6.36,
-            "text": " virtually due to current circumstances.",
+            "end": 5.2,
+            "text": " for each of your circumstances.",
             "tokens": [
                 50524,
-                14103,
-                3462,
-                281,
-                2190,
+                337,
+                1184,
+                295,
+                428,
                 9121,
                 13,
-                50682
+                50624
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.4550412830553557,
-            "compression_ratio": 1.119047619047619,
-            "no_speech_prob": 0.00230599706992507
+            "avg_logprob": -0.5990279348273027,
+            "compression_ratio": 1.1025641025641026,
+            "no_speech_prob": 0.0018574834102764726
         }
     ],
     "language": "en"

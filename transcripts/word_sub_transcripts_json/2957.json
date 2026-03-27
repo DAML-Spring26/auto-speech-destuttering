@@ -1,0 +1,59 @@
+{
+    "text": " to team achieve their objectives.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.42,
+            "text": " to team achieve their objectives.",
+            "tokens": [
+                50364,
+                281,
+                1469,
+                4584,
+                641,
+                15961,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.44878625869750977,
+            "compression_ratio": 0.8048780487804879,
+            "no_speech_prob": 0.01345243863761425,
+            "words": [
+                {
+                    "word": " to",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.4546441435813904
+                },
+                {
+                    "word": " team",
+                    "start": 0.12,
+                    "end": 0.3,
+                    "probability": 0.9598459005355835
+                },
+                {
+                    "word": " achieve",
+                    "start": 0.3,
+                    "end": 0.62,
+                    "probability": 0.8042009472846985
+                },
+                {
+                    "word": " their",
+                    "start": 0.62,
+                    "end": 0.82,
+                    "probability": 0.9961081147193909
+                },
+                {
+                    "word": " objectives.",
+                    "start": 0.82,
+                    "end": 1.42,
+                    "probability": 0.8153106570243835
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

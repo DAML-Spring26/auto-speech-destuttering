@@ -1,0 +1,66 @@
+{
+    "text": " They need to progress the forms.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.66,
+            "text": " They need to progress the forms.",
+            "tokens": [
+                50364,
+                814,
+                643,
+                281,
+                4205,
+                264,
+                6422,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2902125358581543,
+            "compression_ratio": 0.8,
+            "no_speech_prob": 0.008315866813063622,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.578326404094696
+                },
+                {
+                    "word": " need",
+                    "start": 0.16,
+                    "end": 0.32,
+                    "probability": 0.9870330095291138
+                },
+                {
+                    "word": " to",
+                    "start": 0.32,
+                    "end": 0.5,
+                    "probability": 0.9974580407142639
+                },
+                {
+                    "word": " progress",
+                    "start": 0.5,
+                    "end": 0.86,
+                    "probability": 0.9748249053955078
+                },
+                {
+                    "word": " the",
+                    "start": 0.86,
+                    "end": 1.16,
+                    "probability": 0.9847778081893921
+                },
+                {
+                    "word": " forms.",
+                    "start": 1.16,
+                    "end": 1.66,
+                    "probability": 0.9563695192337036
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

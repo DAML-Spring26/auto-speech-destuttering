@@ -1,0 +1,52 @@
+{
+    "text": " Scientists recovered remarkable phenomena.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " Scientists recovered remarkable phenomena.",
+            "tokens": [
+                50364,
+                32958,
+                19542,
+                12802,
+                22004,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5612185597419739,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.00840925145894289,
+            "words": [
+                {
+                    "word": " Scientists",
+                    "start": 0.0,
+                    "end": 0.46,
+                    "probability": 0.6049979329109192
+                },
+                {
+                    "word": " recovered",
+                    "start": 0.46,
+                    "end": 0.94,
+                    "probability": 0.8724110126495361
+                },
+                {
+                    "word": " remarkable",
+                    "start": 0.94,
+                    "end": 1.42,
+                    "probability": 0.9808969497680664
+                },
+                {
+                    "word": " phenomena.",
+                    "start": 1.42,
+                    "end": 2.0,
+                    "probability": 0.9658146500587463
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

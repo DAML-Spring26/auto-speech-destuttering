@@ -1,0 +1,94 @@
+{
+    "text": " The library extended its opening hours during the exam period.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.14,
+            "text": " The library extended its opening hours during the exam period.",
+            "tokens": [
+                50364,
+                440,
+                6405,
+                10913,
+                1080,
+                5193,
+                2496,
+                1830,
+                264,
+                1139,
+                2896,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.342538731438773,
+            "compression_ratio": 0.9393939393939394,
+            "no_speech_prob": 0.0014152127550914884,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8057505488395691
+                },
+                {
+                    "word": " library",
+                    "start": 0.12,
+                    "end": 0.42,
+                    "probability": 0.8379859328269958
+                },
+                {
+                    "word": " extended",
+                    "start": 0.42,
+                    "end": 0.96,
+                    "probability": 0.9240257740020752
+                },
+                {
+                    "word": " its",
+                    "start": 0.96,
+                    "end": 1.3,
+                    "probability": 0.8042678833007812
+                },
+                {
+                    "word": " opening",
+                    "start": 1.3,
+                    "end": 1.72,
+                    "probability": 0.979358971118927
+                },
+                {
+                    "word": " hours",
+                    "start": 1.72,
+                    "end": 2.02,
+                    "probability": 0.90984046459198
+                },
+                {
+                    "word": " during",
+                    "start": 2.02,
+                    "end": 2.32,
+                    "probability": 0.9960151314735413
+                },
+                {
+                    "word": " the",
+                    "start": 2.32,
+                    "end": 2.48,
+                    "probability": 0.9144409894943237
+                },
+                {
+                    "word": " exam",
+                    "start": 2.48,
+                    "end": 2.68,
+                    "probability": 0.9856552481651306
+                },
+                {
+                    "word": " period.",
+                    "start": 2.68,
+                    "end": 3.14,
+                    "probability": 0.9944257736206055
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,87 @@
+{
+    "text": " We should carefully consider the potential risks before proceeding.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.98,
+            "text": " We should carefully consider the potential risks before proceeding.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                7500,
+                1949,
+                264,
+                3995,
+                10888,
+                949,
+                41163,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36533825214092547,
+            "compression_ratio": 0.9710144927536232,
+            "no_speech_prob": 0.008086913265287876,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.6104345917701721
+                },
+                {
+                    "word": " should",
+                    "start": 0.18,
+                    "end": 0.42,
+                    "probability": 0.9980354905128479
+                },
+                {
+                    "word": " carefully",
+                    "start": 0.42,
+                    "end": 1.02,
+                    "probability": 0.9947927594184875
+                },
+                {
+                    "word": " consider",
+                    "start": 1.02,
+                    "end": 1.72,
+                    "probability": 0.9967746138572693
+                },
+                {
+                    "word": " the",
+                    "start": 1.72,
+                    "end": 1.96,
+                    "probability": 0.9847704768180847
+                },
+                {
+                    "word": " potential",
+                    "start": 1.96,
+                    "end": 2.58,
+                    "probability": 0.9991463422775269
+                },
+                {
+                    "word": " risks",
+                    "start": 2.58,
+                    "end": 3.08,
+                    "probability": 0.9858083724975586
+                },
+                {
+                    "word": " before",
+                    "start": 3.08,
+                    "end": 3.78,
+                    "probability": 0.9848198890686035
+                },
+                {
+                    "word": " proceeding.",
+                    "start": 3.78,
+                    "end": 5.98,
+                    "probability": 0.5787848830223083
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,66 @@
+{
+    "text": " We need to focus improving efficiency.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.92,
+            "text": " We need to focus improving efficiency.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                1879,
+                11470,
+                10493,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3916828155517578,
+            "compression_ratio": 0.8260869565217391,
+            "no_speech_prob": 0.003845891682431102,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6519197225570679
+                },
+                {
+                    "word": " need",
+                    "start": 0.16,
+                    "end": 0.28,
+                    "probability": 0.9971086382865906
+                },
+                {
+                    "word": " to",
+                    "start": 0.28,
+                    "end": 0.44,
+                    "probability": 0.9966028928756714
+                },
+                {
+                    "word": " focus",
+                    "start": 0.44,
+                    "end": 0.74,
+                    "probability": 0.9969685673713684
+                },
+                {
+                    "word": " improving",
+                    "start": 0.74,
+                    "end": 1.24,
+                    "probability": 0.4180324673652649
+                },
+                {
+                    "word": " efficiency.",
+                    "start": 1.24,
+                    "end": 1.92,
+                    "probability": 0.9911705255508423
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

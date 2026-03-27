@@ -1,0 +1,134 @@
+{
+    "text": " the research paper, which was published in a leading journal, challenges existing theories.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.48,
+            "text": " the research paper, which was published in a leading journal,",
+            "tokens": [
+                50364,
+                264,
+                2132,
+                3035,
+                11,
+                597,
+                390,
+                6572,
+                294,
+                257,
+                5775,
+                6708,
+                11,
+                50548
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45705500103178476,
+            "compression_ratio": 1.1375,
+            "no_speech_prob": 0.0063010393641889095,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.29744353890419006
+                },
+                {
+                    "word": " research",
+                    "start": 0.14,
+                    "end": 0.56,
+                    "probability": 0.8341038227081299
+                },
+                {
+                    "word": " paper,",
+                    "start": 0.56,
+                    "end": 1.12,
+                    "probability": 0.9969666600227356
+                },
+                {
+                    "word": " which",
+                    "start": 1.38,
+                    "end": 1.5,
+                    "probability": 0.9947927594184875
+                },
+                {
+                    "word": " was",
+                    "start": 1.5,
+                    "end": 1.64,
+                    "probability": 0.9835448861122131
+                },
+                {
+                    "word": " published",
+                    "start": 1.64,
+                    "end": 2.0,
+                    "probability": 0.9982969164848328
+                },
+                {
+                    "word": " in",
+                    "start": 2.0,
+                    "end": 2.34,
+                    "probability": 0.9890176057815552
+                },
+                {
+                    "word": " a",
+                    "start": 2.34,
+                    "end": 2.58,
+                    "probability": 0.923243522644043
+                },
+                {
+                    "word": " leading",
+                    "start": 2.58,
+                    "end": 2.98,
+                    "probability": 0.4423648416996002
+                },
+                {
+                    "word": " journal,",
+                    "start": 2.98,
+                    "end": 3.48,
+                    "probability": 0.9857286810874939
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.74,
+            "end": 5.38,
+            "text": " challenges existing theories.",
+            "tokens": [
+                50548,
+                4759,
+                6741,
+                13667,
+                13,
+                50648
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45705500103178476,
+            "compression_ratio": 1.1375,
+            "no_speech_prob": 0.0063010393641889095,
+            "words": [
+                {
+                    "word": " challenges",
+                    "start": 3.74,
+                    "end": 4.22,
+                    "probability": 0.14998525381088257
+                },
+                {
+                    "word": " existing",
+                    "start": 4.22,
+                    "end": 4.84,
+                    "probability": 0.9273368716239929
+                },
+                {
+                    "word": " theories.",
+                    "start": 4.84,
+                    "end": 5.38,
+                    "probability": 0.9923496842384338
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

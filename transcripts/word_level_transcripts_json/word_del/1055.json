@@ -1,0 +1,130 @@
+{
+    "text": " I'm not sure whether I should take bus or walk to the office tomorrow morning.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.04,
+            "text": " I'm not sure whether I should take bus or walk to the office tomorrow morning.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                406,
+                988,
+                1968,
+                286,
+                820,
+                747,
+                1255,
+                420,
+                1792,
+                281,
+                264,
+                3398,
+                4153,
+                2446,
+                13,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23412368297576905,
+            "compression_ratio": 1.0263157894736843,
+            "no_speech_prob": 0.0044235242530703545,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.9360125958919525
+                },
+                {
+                    "word": " not",
+                    "start": 0.22,
+                    "end": 0.28,
+                    "probability": 0.9973726272583008
+                },
+                {
+                    "word": " sure",
+                    "start": 0.28,
+                    "end": 0.5,
+                    "probability": 0.9986338019371033
+                },
+                {
+                    "word": " whether",
+                    "start": 0.5,
+                    "end": 0.84,
+                    "probability": 0.9743245244026184
+                },
+                {
+                    "word": " I",
+                    "start": 0.84,
+                    "end": 0.98,
+                    "probability": 0.9766840934753418
+                },
+                {
+                    "word": " should",
+                    "start": 0.98,
+                    "end": 1.1,
+                    "probability": 0.9976346492767334
+                },
+                {
+                    "word": " take",
+                    "start": 1.1,
+                    "end": 1.32,
+                    "probability": 0.9956342577934265
+                },
+                {
+                    "word": " bus",
+                    "start": 1.32,
+                    "end": 1.46,
+                    "probability": 0.38609829545021057
+                },
+                {
+                    "word": " or",
+                    "start": 1.46,
+                    "end": 1.6,
+                    "probability": 0.9758707284927368
+                },
+                {
+                    "word": " walk",
+                    "start": 1.6,
+                    "end": 1.82,
+                    "probability": 0.9978779554367065
+                },
+                {
+                    "word": " to",
+                    "start": 1.82,
+                    "end": 2.04,
+                    "probability": 0.9879218935966492
+                },
+                {
+                    "word": " the",
+                    "start": 2.04,
+                    "end": 2.14,
+                    "probability": 0.9375134706497192
+                },
+                {
+                    "word": " office",
+                    "start": 2.14,
+                    "end": 2.4,
+                    "probability": 0.9939528107643127
+                },
+                {
+                    "word": " tomorrow",
+                    "start": 2.4,
+                    "end": 2.66,
+                    "probability": 0.9819369912147522
+                },
+                {
+                    "word": " morning.",
+                    "start": 2.66,
+                    "end": 3.04,
+                    "probability": 0.9964838027954102
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

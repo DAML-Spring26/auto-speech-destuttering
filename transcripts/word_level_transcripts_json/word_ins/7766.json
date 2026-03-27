@@ -1,0 +1,103 @@
+{
+    "text": " If we increase production, we'll like need to hire more staff.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.74,
+            "text": " If we increase production, we'll like need to hire more staff.",
+            "tokens": [
+                50364,
+                759,
+                321,
+                3488,
+                4265,
+                11,
+                321,
+                603,
+                411,
+                643,
+                281,
+                11158,
+                544,
+                3525,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29708486444809856,
+            "compression_ratio": 0.9253731343283582,
+            "no_speech_prob": 0.07761140167713165,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 0.0,
+                    "end": 0.98,
+                    "probability": 0.8353808522224426
+                },
+                {
+                    "word": " we",
+                    "start": 0.98,
+                    "end": 1.14,
+                    "probability": 0.9953510761260986
+                },
+                {
+                    "word": " increase",
+                    "start": 1.14,
+                    "end": 1.6,
+                    "probability": 0.9771628379821777
+                },
+                {
+                    "word": " production,",
+                    "start": 1.6,
+                    "end": 2.34,
+                    "probability": 0.9975268244743347
+                },
+                {
+                    "word": " we'll",
+                    "start": 2.9,
+                    "end": 3.28,
+                    "probability": 0.8884439170360565
+                },
+                {
+                    "word": " like",
+                    "start": 3.28,
+                    "end": 3.62,
+                    "probability": 0.7869247794151306
+                },
+                {
+                    "word": " need",
+                    "start": 3.62,
+                    "end": 4.38,
+                    "probability": 0.6720066666603088
+                },
+                {
+                    "word": " to",
+                    "start": 4.38,
+                    "end": 4.62,
+                    "probability": 0.9966172575950623
+                },
+                {
+                    "word": " hire",
+                    "start": 4.62,
+                    "end": 4.92,
+                    "probability": 0.945928692817688
+                },
+                {
+                    "word": " more",
+                    "start": 4.92,
+                    "end": 5.26,
+                    "probability": 0.9983440637588501
+                },
+                {
+                    "word": " staff.",
+                    "start": 5.26,
+                    "end": 5.74,
+                    "probability": 0.9981830716133118
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

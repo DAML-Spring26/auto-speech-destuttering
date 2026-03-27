@@ -1,0 +1,134 @@
+{
+    "text": " The architects' innovative design not only maximizes space but also incorporates sustainable materials.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.76,
+            "text": " The architects' innovative design not only maximizes space but also incorporates sustainable",
+            "tokens": [
+                50364,
+                440,
+                30491,
+                6,
+                12999,
+                1715,
+                406,
+                787,
+                5138,
+                5660,
+                1901,
+                457,
+                611,
+                50193,
+                11235,
+                50710
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30987714585803805,
+            "compression_ratio": 1.1444444444444444,
+            "no_speech_prob": 0.005337061360478401,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8497462868690491
+                },
+                {
+                    "word": " architects'",
+                    "start": 0.12,
+                    "end": 0.58,
+                    "probability": 0.6490812301635742
+                },
+                {
+                    "word": " innovative",
+                    "start": 0.84,
+                    "end": 1.12,
+                    "probability": 0.9804023504257202
+                },
+                {
+                    "word": " design",
+                    "start": 1.12,
+                    "end": 1.84,
+                    "probability": 0.994001567363739
+                },
+                {
+                    "word": " not",
+                    "start": 1.84,
+                    "end": 2.18,
+                    "probability": 0.8800063729286194
+                },
+                {
+                    "word": " only",
+                    "start": 2.18,
+                    "end": 2.54,
+                    "probability": 0.9982535243034363
+                },
+                {
+                    "word": " maximizes",
+                    "start": 2.54,
+                    "end": 3.42,
+                    "probability": 0.9113786816596985
+                },
+                {
+                    "word": " space",
+                    "start": 3.42,
+                    "end": 3.82,
+                    "probability": 0.9969666600227356
+                },
+                {
+                    "word": " but",
+                    "start": 3.82,
+                    "end": 4.26,
+                    "probability": 0.6269715428352356
+                },
+                {
+                    "word": " also",
+                    "start": 4.26,
+                    "end": 5.32,
+                    "probability": 0.7622175216674805
+                },
+                {
+                    "word": " incorporates",
+                    "start": 5.32,
+                    "end": 6.08,
+                    "probability": 0.9736775755882263
+                },
+                {
+                    "word": " sustainable",
+                    "start": 6.08,
+                    "end": 6.76,
+                    "probability": 0.988858699798584
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.76,
+            "end": 7.52,
+            "text": " materials.",
+            "tokens": [
+                50710,
+                5319,
+                13,
+                50756
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30987714585803805,
+            "compression_ratio": 1.1444444444444444,
+            "no_speech_prob": 0.005337061360478401,
+            "words": [
+                {
+                    "word": " materials.",
+                    "start": 6.76,
+                    "end": 7.52,
+                    "probability": 0.9933664202690125
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

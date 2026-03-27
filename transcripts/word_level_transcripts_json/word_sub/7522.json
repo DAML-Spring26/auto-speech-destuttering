@@ -1,0 +1,74 @@
+{
+    "text": " We need to schedule follow-up appointment.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.62,
+            "text": " We need to schedule follow-up appointment.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                7567,
+                1524,
+                12,
+                1010,
+                13653,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3179665207862854,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.01683737151324749,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6765283346176147
+                },
+                {
+                    "word": " need",
+                    "start": 0.16,
+                    "end": 0.28,
+                    "probability": 0.9946672916412354
+                },
+                {
+                    "word": " to",
+                    "start": 0.28,
+                    "end": 0.4,
+                    "probability": 0.9802079796791077
+                },
+                {
+                    "word": " schedule",
+                    "start": 0.4,
+                    "end": 0.68,
+                    "probability": 0.9904672503471375
+                },
+                {
+                    "word": " follow",
+                    "start": 0.68,
+                    "end": 1.04,
+                    "probability": 0.5226781964302063
+                },
+                {
+                    "word": "-up",
+                    "start": 1.04,
+                    "end": 1.24,
+                    "probability": 0.7595960795879364
+                },
+                {
+                    "word": " appointment.",
+                    "start": 1.24,
+                    "end": 1.62,
+                    "probability": 0.9327312707901001
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

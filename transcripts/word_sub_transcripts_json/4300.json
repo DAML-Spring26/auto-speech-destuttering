@@ -1,0 +1,60 @@
+{
+    "text": " We should contender all options.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.6,
+            "text": " We should contender all options.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                660,
+                3216,
+                439,
+                3956,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.361559534072876,
+            "compression_ratio": 0.8,
+            "no_speech_prob": 0.0275584664195776,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.682531476020813
+                },
+                {
+                    "word": " should",
+                    "start": 0.12,
+                    "end": 0.28,
+                    "probability": 0.993361234664917
+                },
+                {
+                    "word": " contender",
+                    "start": 0.28,
+                    "end": 0.88,
+                    "probability": 0.7818553149700165
+                },
+                {
+                    "word": " all",
+                    "start": 0.88,
+                    "end": 1.14,
+                    "probability": 0.9917974472045898
+                },
+                {
+                    "word": " options.",
+                    "start": 1.14,
+                    "end": 1.6,
+                    "probability": 0.9879912734031677
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

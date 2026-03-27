@@ -1,0 +1,115 @@
+{
+    "text": " The professor asked whether the students had completed their assignments before the deadline.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.16,
+            "text": " The professor asked whether the students had completed their assignments before the deadline.",
+            "tokens": [
+                50364,
+                440,
+                8304,
+                2351,
+                1968,
+                264,
+                1731,
+                632,
+                7365,
+                641,
+                22546,
+                949,
+                264,
+                20615,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26480310103472543,
+            "compression_ratio": 1.1625,
+            "no_speech_prob": 0.0034218926448374987,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7768406271934509
+                },
+                {
+                    "word": " professor",
+                    "start": 0.12,
+                    "end": 0.74,
+                    "probability": 0.9036446213722229
+                },
+                {
+                    "word": " asked",
+                    "start": 0.74,
+                    "end": 1.46,
+                    "probability": 0.8504810333251953
+                },
+                {
+                    "word": " whether",
+                    "start": 1.46,
+                    "end": 1.8,
+                    "probability": 0.9801793098449707
+                },
+                {
+                    "word": " the",
+                    "start": 1.8,
+                    "end": 1.96,
+                    "probability": 0.9751772284507751
+                },
+                {
+                    "word": " students",
+                    "start": 1.96,
+                    "end": 2.36,
+                    "probability": 0.9788667559623718
+                },
+                {
+                    "word": " had",
+                    "start": 2.36,
+                    "end": 2.86,
+                    "probability": 0.9940229058265686
+                },
+                {
+                    "word": " completed",
+                    "start": 2.86,
+                    "end": 3.78,
+                    "probability": 0.8530524373054504
+                },
+                {
+                    "word": " their",
+                    "start": 3.78,
+                    "end": 4.26,
+                    "probability": 0.9948981404304504
+                },
+                {
+                    "word": " assignments",
+                    "start": 4.26,
+                    "end": 4.94,
+                    "probability": 0.9804548621177673
+                },
+                {
+                    "word": " before",
+                    "start": 4.94,
+                    "end": 5.42,
+                    "probability": 0.9799230694770813
+                },
+                {
+                    "word": " the",
+                    "start": 5.42,
+                    "end": 5.7,
+                    "probability": 0.9852001667022705
+                },
+                {
+                    "word": " deadline.",
+                    "start": 5.7,
+                    "end": 6.16,
+                    "probability": 0.9974648952484131
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,108 @@
+{
+    "text": " Could you please take out the trash before you leave for work?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.08,
+            "text": " Could you please take out the trash before you leave for work?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                747,
+                484,
+                264,
+                11321,
+                949,
+                291,
+                1856,
+                337,
+                589,
+                30,
+                50576
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26383113861083984,
+            "compression_ratio": 0.9841269841269841,
+            "no_speech_prob": 0.015492160804569721,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.8587135672569275
+                },
+                {
+                    "word": " you",
+                    "start": 0.2,
+                    "end": 0.36,
+                    "probability": 0.9971957206726074
+                },
+                {
+                    "word": " please",
+                    "start": 0.36,
+                    "end": 0.64,
+                    "probability": 0.9965856075286865
+                },
+                {
+                    "word": " take",
+                    "start": 0.64,
+                    "end": 0.9,
+                    "probability": 0.9913894534111023
+                },
+                {
+                    "word": " out",
+                    "start": 0.9,
+                    "end": 1.16,
+                    "probability": 0.9887337684631348
+                },
+                {
+                    "word": " the",
+                    "start": 1.16,
+                    "end": 2.44,
+                    "probability": 0.7903097867965698
+                },
+                {
+                    "word": " trash",
+                    "start": 2.44,
+                    "end": 2.7,
+                    "probability": 0.9717626571655273
+                },
+                {
+                    "word": " before",
+                    "start": 2.7,
+                    "end": 3.1,
+                    "probability": 0.9798407554626465
+                },
+                {
+                    "word": " you",
+                    "start": 3.1,
+                    "end": 3.32,
+                    "probability": 0.9912815093994141
+                },
+                {
+                    "word": " leave",
+                    "start": 3.32,
+                    "end": 3.48,
+                    "probability": 0.9944300055503845
+                },
+                {
+                    "word": " for",
+                    "start": 3.48,
+                    "end": 3.7,
+                    "probability": 0.9979631900787354
+                },
+                {
+                    "word": " work?",
+                    "start": 3.7,
+                    "end": 4.08,
+                    "probability": 0.9991604089736938
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,88 @@
+{
+    "text": " Have you registered for next semester's classes yet were?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.16,
+            "text": " Have you registered for next semester's classes yet were?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                13968,
+                337,
+                958,
+                11894,
+                311,
+                5359,
+                1939,
+                645,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30139269147600445,
+            "compression_ratio": 0.9193548387096774,
+            "no_speech_prob": 0.021024206653237343,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 0.64,
+                    "probability": 0.9350996613502502
+                },
+                {
+                    "word": " you",
+                    "start": 0.64,
+                    "end": 0.78,
+                    "probability": 0.9965709447860718
+                },
+                {
+                    "word": " registered",
+                    "start": 0.78,
+                    "end": 1.18,
+                    "probability": 0.9924174547195435
+                },
+                {
+                    "word": " for",
+                    "start": 1.18,
+                    "end": 1.42,
+                    "probability": 0.9985987544059753
+                },
+                {
+                    "word": " next",
+                    "start": 1.42,
+                    "end": 1.64,
+                    "probability": 0.8783124089241028
+                },
+                {
+                    "word": " semester's",
+                    "start": 1.64,
+                    "end": 2.34,
+                    "probability": 0.9607416093349457
+                },
+                {
+                    "word": " classes",
+                    "start": 2.34,
+                    "end": 2.68,
+                    "probability": 0.8973923921585083
+                },
+                {
+                    "word": " yet",
+                    "start": 2.68,
+                    "end": 2.94,
+                    "probability": 0.9946687817573547
+                },
+                {
+                    "word": " were?",
+                    "start": 2.94,
+                    "end": 3.16,
+                    "probability": 0.6056311726570129
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

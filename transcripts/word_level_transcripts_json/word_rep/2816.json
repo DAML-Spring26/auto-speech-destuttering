@@ -1,0 +1,52 @@
+{
+    "text": " but but time heals.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.48,
+            "text": " but but time heals.",
+            "tokens": [
+                50364,
+                457,
+                457,
+                565,
+                45653,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4426228106021881,
+            "compression_ratio": 0.76,
+            "no_speech_prob": 0.009686154313385487,
+            "words": [
+                {
+                    "word": " but",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.6472288370132446
+                },
+                {
+                    "word": " but",
+                    "start": 0.36,
+                    "end": 0.74,
+                    "probability": 0.35772714018821716
+                },
+                {
+                    "word": " time",
+                    "start": 0.74,
+                    "end": 1.08,
+                    "probability": 0.9114605188369751
+                },
+                {
+                    "word": " heals.",
+                    "start": 1.08,
+                    "end": 1.48,
+                    "probability": 0.975907027721405
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

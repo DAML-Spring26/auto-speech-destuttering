@@ -1,0 +1,73 @@
+{
+    "text": " to bank manager and prove the loan.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.56,
+            "text": " to bank manager and prove the loan.",
+            "tokens": [
+                50364,
+                281,
+                3765,
+                6598,
+                293,
+                7081,
+                264,
+                10529,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4108122478831898,
+            "compression_ratio": 0.813953488372093,
+            "no_speech_prob": 0.009739808738231659,
+            "words": [
+                {
+                    "word": " to",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5084883570671082
+                },
+                {
+                    "word": " bank",
+                    "start": 0.12,
+                    "end": 0.36,
+                    "probability": 0.9692980647087097
+                },
+                {
+                    "word": " manager",
+                    "start": 0.36,
+                    "end": 0.76,
+                    "probability": 0.98183673620224
+                },
+                {
+                    "word": " and",
+                    "start": 0.76,
+                    "end": 0.92,
+                    "probability": 0.619070291519165
+                },
+                {
+                    "word": " prove",
+                    "start": 0.92,
+                    "end": 1.14,
+                    "probability": 0.5516854524612427
+                },
+                {
+                    "word": " the",
+                    "start": 1.14,
+                    "end": 1.36,
+                    "probability": 0.9287791848182678
+                },
+                {
+                    "word": " loan.",
+                    "start": 1.36,
+                    "end": 1.56,
+                    "probability": 0.9729001522064209
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

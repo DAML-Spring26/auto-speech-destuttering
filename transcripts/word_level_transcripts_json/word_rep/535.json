@@ -1,0 +1,54 @@
+{
+    "text": " I'm really, really hungry.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.56,
+            "text": " I'm really, really hungry.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                534,
+                11,
+                534,
+                8067,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3058566331863403,
+            "compression_ratio": 0.9285714285714286,
+            "no_speech_prob": 0.015636587515473366,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.924453854560852
+                },
+                {
+                    "word": " really,",
+                    "start": 0.22,
+                    "end": 0.56,
+                    "probability": 0.9904257655143738
+                },
+                {
+                    "word": " really",
+                    "start": 0.74,
+                    "end": 1.04,
+                    "probability": 0.9870688915252686
+                },
+                {
+                    "word": " hungry.",
+                    "start": 1.04,
+                    "end": 1.56,
+                    "probability": 0.9838491678237915
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

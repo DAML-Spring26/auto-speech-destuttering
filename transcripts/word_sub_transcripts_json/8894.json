@@ -1,0 +1,52 @@
+{
+    "text": " The pet needs food.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.84,
+            "text": " The pet needs food.",
+            "tokens": [
+                50364,
+                440,
+                3817,
+                2203,
+                1755,
+                13,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.437603622674942,
+            "compression_ratio": 0.7037037037037037,
+            "no_speech_prob": 0.007040549069643021,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.618475079536438
+                },
+                {
+                    "word": " pet",
+                    "start": 0.1,
+                    "end": 0.28,
+                    "probability": 0.875056803226471
+                },
+                {
+                    "word": " needs",
+                    "start": 0.28,
+                    "end": 0.46,
+                    "probability": 0.9964613318443298
+                },
+                {
+                    "word": " food.",
+                    "start": 0.46,
+                    "end": 0.84,
+                    "probability": 0.9931079149246216
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

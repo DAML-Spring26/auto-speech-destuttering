@@ -1,0 +1,88 @@
+{
+    "text": " the new policy aims to improve work life malice.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.12,
+            "text": " the new policy aims to improve work life malice.",
+            "tokens": [
+                50364,
+                264,
+                777,
+                3897,
+                24683,
+                281,
+                3470,
+                589,
+                993,
+                2806,
+                573,
+                13,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4143857274736677,
+            "compression_ratio": 0.8727272727272727,
+            "no_speech_prob": 0.006550175603479147,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.45653823018074036
+                },
+                {
+                    "word": " new",
+                    "start": 0.14,
+                    "end": 0.34,
+                    "probability": 0.9843041300773621
+                },
+                {
+                    "word": " policy",
+                    "start": 0.34,
+                    "end": 0.84,
+                    "probability": 0.7942262291908264
+                },
+                {
+                    "word": " aims",
+                    "start": 0.84,
+                    "end": 1.24,
+                    "probability": 0.9984378218650818
+                },
+                {
+                    "word": " to",
+                    "start": 1.24,
+                    "end": 1.5,
+                    "probability": 0.9959767460823059
+                },
+                {
+                    "word": " improve",
+                    "start": 1.5,
+                    "end": 1.78,
+                    "probability": 0.9967358708381653
+                },
+                {
+                    "word": " work",
+                    "start": 1.78,
+                    "end": 2.16,
+                    "probability": 0.7521212100982666
+                },
+                {
+                    "word": " life",
+                    "start": 2.16,
+                    "end": 2.48,
+                    "probability": 0.8909981846809387
+                },
+                {
+                    "word": " malice.",
+                    "start": 2.48,
+                    "end": 3.12,
+                    "probability": 0.7972059547901154
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,59 @@
+{
+    "text": " the project desires careful planning.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.6,
+            "text": " the project desires careful planning.",
+            "tokens": [
+                50364,
+                264,
+                1716,
+                18005,
+                5026,
+                5038,
+                13,
+                50448
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.466045167711046,
+            "compression_ratio": 0.8222222222222222,
+            "no_speech_prob": 0.004111476242542267,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5054260492324829
+                },
+                {
+                    "word": " project",
+                    "start": 0.1,
+                    "end": 0.4,
+                    "probability": 0.9328975081443787
+                },
+                {
+                    "word": " desires",
+                    "start": 0.4,
+                    "end": 0.74,
+                    "probability": 0.9562281370162964
+                },
+                {
+                    "word": " careful",
+                    "start": 0.74,
+                    "end": 1.16,
+                    "probability": 0.9328573942184448
+                },
+                {
+                    "word": " planning.",
+                    "start": 1.16,
+                    "end": 1.6,
+                    "probability": 0.9822631478309631
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

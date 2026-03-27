@@ -1,0 +1,94 @@
+{
+    "text": " Can we rescue the conference call for next week like?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.0,
+            "text": " Can we rescue the conference call for next week like?",
+            "tokens": [
+                50364,
+                1664,
+                321,
+                13283,
+                264,
+                7586,
+                818,
+                337,
+                958,
+                1243,
+                411,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3874852316720145,
+            "compression_ratio": 0.9137931034482759,
+            "no_speech_prob": 0.035032179206609726,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.66,
+                    "probability": 0.8441788554191589
+                },
+                {
+                    "word": " we",
+                    "start": 0.66,
+                    "end": 0.8,
+                    "probability": 0.9943646192550659
+                },
+                {
+                    "word": " rescue",
+                    "start": 0.8,
+                    "end": 1.1,
+                    "probability": 0.45648208260536194
+                },
+                {
+                    "word": " the",
+                    "start": 1.1,
+                    "end": 1.46,
+                    "probability": 0.8653316497802734
+                },
+                {
+                    "word": " conference",
+                    "start": 1.46,
+                    "end": 1.84,
+                    "probability": 0.9591019749641418
+                },
+                {
+                    "word": " call",
+                    "start": 1.84,
+                    "end": 2.14,
+                    "probability": 0.9807446599006653
+                },
+                {
+                    "word": " for",
+                    "start": 2.14,
+                    "end": 2.34,
+                    "probability": 0.9667684435844421
+                },
+                {
+                    "word": " next",
+                    "start": 2.34,
+                    "end": 2.54,
+                    "probability": 0.9706177711486816
+                },
+                {
+                    "word": " week",
+                    "start": 2.54,
+                    "end": 2.78,
+                    "probability": 0.9834989905357361
+                },
+                {
+                    "word": " like?",
+                    "start": 2.78,
+                    "end": 3.0,
+                    "probability": 0.5900472402572632
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

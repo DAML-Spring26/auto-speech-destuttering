@@ -1,0 +1,123 @@
+{
+    "text": " The doctor recommends taking the medication with you know. Food to reduce side effects.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.62,
+            "text": " The doctor recommends taking the medication with you know. Food to reduce side effects.",
+            "tokens": [
+                50364,
+                440,
+                4631,
+                34556,
+                1940,
+                264,
+                13851,
+                365,
+                291,
+                458,
+                13,
+                11675,
+                281,
+                5407,
+                1252,
+                5065,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29558658599853516,
+            "compression_ratio": 1.0740740740740742,
+            "no_speech_prob": 0.029486125335097313,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.76,
+                    "probability": 0.8726589679718018
+                },
+                {
+                    "word": " doctor",
+                    "start": 0.76,
+                    "end": 1.08,
+                    "probability": 0.935941219329834
+                },
+                {
+                    "word": " recommends",
+                    "start": 1.08,
+                    "end": 1.62,
+                    "probability": 0.9963904023170471
+                },
+                {
+                    "word": " taking",
+                    "start": 1.62,
+                    "end": 2.04,
+                    "probability": 0.9955607652664185
+                },
+                {
+                    "word": " the",
+                    "start": 2.04,
+                    "end": 2.22,
+                    "probability": 0.9895217418670654
+                },
+                {
+                    "word": " medication",
+                    "start": 2.22,
+                    "end": 2.74,
+                    "probability": 0.9971122741699219
+                },
+                {
+                    "word": " with",
+                    "start": 2.74,
+                    "end": 3.02,
+                    "probability": 0.9908945560455322
+                },
+                {
+                    "word": " you",
+                    "start": 3.02,
+                    "end": 3.2,
+                    "probability": 0.995110809803009
+                },
+                {
+                    "word": " know.",
+                    "start": 3.2,
+                    "end": 3.44,
+                    "probability": 0.6572177410125732
+                },
+                {
+                    "word": " Food",
+                    "start": 4.02,
+                    "end": 4.4,
+                    "probability": 0.9633833765983582
+                },
+                {
+                    "word": " to",
+                    "start": 4.4,
+                    "end": 4.62,
+                    "probability": 0.9808778762817383
+                },
+                {
+                    "word": " reduce",
+                    "start": 4.62,
+                    "end": 4.92,
+                    "probability": 0.9966549873352051
+                },
+                {
+                    "word": " side",
+                    "start": 4.92,
+                    "end": 5.32,
+                    "probability": 0.972979724407196
+                },
+                {
+                    "word": " effects.",
+                    "start": 5.32,
+                    "end": 5.62,
+                    "probability": 0.9638586044311523
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

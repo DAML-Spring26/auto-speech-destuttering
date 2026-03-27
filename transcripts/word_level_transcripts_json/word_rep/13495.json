@@ -1,0 +1,109 @@
+{
+    "text": " The company's financial report indicates a strong performance in the last quarter.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.12,
+            "text": " The company's financial report indicates a strong performance in the last quarter.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                4669,
+                2275,
+                16203,
+                257,
+                2068,
+                3389,
+                294,
+                264,
+                1036,
+                6555,
+                13,
+                50580
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.230956891003777,
+            "compression_ratio": 1.0512820512820513,
+            "no_speech_prob": 0.002059895545244217,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.9359994530677795
+                },
+                {
+                    "word": " company's",
+                    "start": 0.1,
+                    "end": 0.64,
+                    "probability": 0.9284563660621643
+                },
+                {
+                    "word": " financial",
+                    "start": 0.64,
+                    "end": 0.94,
+                    "probability": 0.8675623536109924
+                },
+                {
+                    "word": " report",
+                    "start": 0.94,
+                    "end": 1.38,
+                    "probability": 0.9979276657104492
+                },
+                {
+                    "word": " indicates",
+                    "start": 1.38,
+                    "end": 1.82,
+                    "probability": 0.9859609603881836
+                },
+                {
+                    "word": " a",
+                    "start": 1.82,
+                    "end": 2.06,
+                    "probability": 0.9313285946846008
+                },
+                {
+                    "word": " strong",
+                    "start": 2.06,
+                    "end": 2.26,
+                    "probability": 0.9531785249710083
+                },
+                {
+                    "word": " performance",
+                    "start": 2.26,
+                    "end": 2.8,
+                    "probability": 0.9962379932403564
+                },
+                {
+                    "word": " in",
+                    "start": 2.8,
+                    "end": 3.02,
+                    "probability": 0.9890792965888977
+                },
+                {
+                    "word": " the",
+                    "start": 3.02,
+                    "end": 3.1,
+                    "probability": 0.993787944316864
+                },
+                {
+                    "word": " last",
+                    "start": 3.1,
+                    "end": 3.38,
+                    "probability": 0.9835488200187683
+                },
+                {
+                    "word": " quarter.",
+                    "start": 3.38,
+                    "end": 4.12,
+                    "probability": 0.9346832036972046
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

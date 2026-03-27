@@ -1,0 +1,141 @@
+{
+    "text": " Can you ask your sister if she like? Wants to join us for dinner?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.68,
+            "text": " Can you ask your sister if she like?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                1029,
+                428,
+                4892,
+                498,
+                750,
+                411,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3121254227378152,
+            "compression_ratio": 0.9701492537313433,
+            "no_speech_prob": 0.09966078400611877,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.92,
+                    "probability": 0.7281864285469055
+                },
+                {
+                    "word": " you",
+                    "start": 0.92,
+                    "end": 1.1,
+                    "probability": 0.9957655668258667
+                },
+                {
+                    "word": " ask",
+                    "start": 1.1,
+                    "end": 1.4,
+                    "probability": 0.9970207810401917
+                },
+                {
+                    "word": " your",
+                    "start": 1.4,
+                    "end": 1.54,
+                    "probability": 0.994754433631897
+                },
+                {
+                    "word": " sister",
+                    "start": 1.54,
+                    "end": 1.92,
+                    "probability": 0.9939007759094238
+                },
+                {
+                    "word": " if",
+                    "start": 1.92,
+                    "end": 2.18,
+                    "probability": 0.9834281802177429
+                },
+                {
+                    "word": " she",
+                    "start": 2.18,
+                    "end": 2.36,
+                    "probability": 0.9982457160949707
+                },
+                {
+                    "word": " like?",
+                    "start": 2.36,
+                    "end": 2.68,
+                    "probability": 0.7590265870094299
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.32,
+            "end": 4.7,
+            "text": " Wants to join us for dinner?",
+            "tokens": [
+                50514,
+                343,
+                1719,
+                281,
+                3917,
+                505,
+                337,
+                6148,
+                30,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3121254227378152,
+            "compression_ratio": 0.9701492537313433,
+            "no_speech_prob": 0.09966078400611877,
+            "words": [
+                {
+                    "word": " Wants",
+                    "start": 3.32,
+                    "end": 3.64,
+                    "probability": 0.8070806562900543
+                },
+                {
+                    "word": " to",
+                    "start": 3.64,
+                    "end": 3.84,
+                    "probability": 0.997456967830658
+                },
+                {
+                    "word": " join",
+                    "start": 3.84,
+                    "end": 4.06,
+                    "probability": 0.9880067110061646
+                },
+                {
+                    "word": " us",
+                    "start": 4.06,
+                    "end": 4.26,
+                    "probability": 0.9968683123588562
+                },
+                {
+                    "word": " for",
+                    "start": 4.26,
+                    "end": 4.42,
+                    "probability": 0.9982497096061707
+                },
+                {
+                    "word": " dinner?",
+                    "start": 4.42,
+                    "end": 4.7,
+                    "probability": 0.9954843521118164
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

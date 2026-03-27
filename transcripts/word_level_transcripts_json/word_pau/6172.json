@@ -1,0 +1,80 @@
+{
+    "text": " How often does the museum rotate its exhibitions?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.32,
+            "text": " How often does the museum rotate its exhibitions?",
+            "tokens": [
+                50364,
+                1012,
+                2049,
+                775,
+                264,
+                8441,
+                13121,
+                1080,
+                41522,
+                30,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3509738842646281,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.003906398080289364,
+            "words": [
+                {
+                    "word": " How",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.5825917720794678
+                },
+                {
+                    "word": " often",
+                    "start": 0.18,
+                    "end": 0.54,
+                    "probability": 0.9990103244781494
+                },
+                {
+                    "word": " does",
+                    "start": 0.54,
+                    "end": 0.78,
+                    "probability": 0.9713403582572937
+                },
+                {
+                    "word": " the",
+                    "start": 0.78,
+                    "end": 0.98,
+                    "probability": 0.9867521524429321
+                },
+                {
+                    "word": " museum",
+                    "start": 0.98,
+                    "end": 1.4,
+                    "probability": 0.9675208330154419
+                },
+                {
+                    "word": " rotate",
+                    "start": 1.4,
+                    "end": 3.48,
+                    "probability": 0.9263376593589783
+                },
+                {
+                    "word": " its",
+                    "start": 3.48,
+                    "end": 3.76,
+                    "probability": 0.9466254115104675
+                },
+                {
+                    "word": " exhibitions?",
+                    "start": 3.76,
+                    "end": 4.32,
+                    "probability": 0.8825221657752991
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

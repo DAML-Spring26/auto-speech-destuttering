@@ -1,0 +1,59 @@
+{
+    "text": " They found a lost pile.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.02,
+            "text": " They found a lost pile.",
+            "tokens": [
+                50364,
+                814,
+                1352,
+                257,
+                2731,
+                14375,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5054735607571073,
+            "compression_ratio": 0.7419354838709677,
+            "no_speech_prob": 0.005459630396217108,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8007849454879761
+                },
+                {
+                    "word": " found",
+                    "start": 0.14,
+                    "end": 0.34,
+                    "probability": 0.9878329038619995
+                },
+                {
+                    "word": " a",
+                    "start": 0.34,
+                    "end": 0.46,
+                    "probability": 0.7473875284194946
+                },
+                {
+                    "word": " lost",
+                    "start": 0.46,
+                    "end": 0.64,
+                    "probability": 0.6669405102729797
+                },
+                {
+                    "word": " pile.",
+                    "start": 0.64,
+                    "end": 1.02,
+                    "probability": 0.9711262583732605
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

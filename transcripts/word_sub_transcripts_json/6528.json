@@ -1,0 +1,80 @@
+{
+    "text": " The psychology professor conducted research on cognitive bases.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.6,
+            "text": " The psychology professor conducted research on cognitive bases.",
+            "tokens": [
+                50364,
+                440,
+                15105,
+                8304,
+                13809,
+                2132,
+                322,
+                15605,
+                17949,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39093780517578125,
+            "compression_ratio": 0.9402985074626866,
+            "no_speech_prob": 0.006221910007297993,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.803090512752533
+                },
+                {
+                    "word": " psychology",
+                    "start": 0.14,
+                    "end": 0.7,
+                    "probability": 0.2121303528547287
+                },
+                {
+                    "word": " professor",
+                    "start": 0.7,
+                    "end": 1.34,
+                    "probability": 0.9794146418571472
+                },
+                {
+                    "word": " conducted",
+                    "start": 1.34,
+                    "end": 1.74,
+                    "probability": 0.9969791173934937
+                },
+                {
+                    "word": " research",
+                    "start": 1.74,
+                    "end": 2.38,
+                    "probability": 0.9952225089073181
+                },
+                {
+                    "word": " on",
+                    "start": 2.38,
+                    "end": 2.68,
+                    "probability": 0.9986141920089722
+                },
+                {
+                    "word": " cognitive",
+                    "start": 2.68,
+                    "end": 3.06,
+                    "probability": 0.9559706449508667
+                },
+                {
+                    "word": " bases.",
+                    "start": 3.06,
+                    "end": 3.6,
+                    "probability": 0.5734751224517822
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

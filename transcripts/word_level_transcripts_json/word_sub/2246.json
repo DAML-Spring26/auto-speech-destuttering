@@ -1,0 +1,80 @@
+{
+    "text": " She needs to trade these papers before Monday.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.6,
+            "text": " She needs to trade these papers before Monday.",
+            "tokens": [
+                50364,
+                1240,
+                2203,
+                281,
+                4923,
+                613,
+                10577,
+                949,
+                8138,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3599059184392293,
+            "compression_ratio": 0.8518518518518519,
+            "no_speech_prob": 0.0056284512393176556,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7269295454025269
+                },
+                {
+                    "word": " needs",
+                    "start": 0.16,
+                    "end": 0.32,
+                    "probability": 0.9928817749023438
+                },
+                {
+                    "word": " to",
+                    "start": 0.32,
+                    "end": 0.52,
+                    "probability": 0.999040424823761
+                },
+                {
+                    "word": " trade",
+                    "start": 0.52,
+                    "end": 0.86,
+                    "probability": 0.5137180089950562
+                },
+                {
+                    "word": " these",
+                    "start": 0.86,
+                    "end": 1.16,
+                    "probability": 0.9744968414306641
+                },
+                {
+                    "word": " papers",
+                    "start": 1.16,
+                    "end": 1.58,
+                    "probability": 0.8505905270576477
+                },
+                {
+                    "word": " before",
+                    "start": 1.58,
+                    "end": 2.12,
+                    "probability": 0.9833515286445618
+                },
+                {
+                    "word": " Monday.",
+                    "start": 2.12,
+                    "end": 2.6,
+                    "probability": 0.9812496304512024
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,100 @@
+{
+    "text": " The company will announce its annual financial results uh next week",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.54,
+            "text": " The company will announce its annual financial results uh next week",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                486,
+                7478,
+                1080,
+                9784,
+                4669,
+                3542,
+                2232,
+                958,
+                1243,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5065654005323138,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.26331108808517456,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 1.18,
+                    "probability": 0.8404302000999451
+                },
+                {
+                    "word": " company",
+                    "start": 1.18,
+                    "end": 1.56,
+                    "probability": 0.9869535565376282
+                },
+                {
+                    "word": " will",
+                    "start": 1.56,
+                    "end": 1.82,
+                    "probability": 0.9966247081756592
+                },
+                {
+                    "word": " announce",
+                    "start": 1.82,
+                    "end": 2.22,
+                    "probability": 0.9963896870613098
+                },
+                {
+                    "word": " its",
+                    "start": 2.22,
+                    "end": 2.54,
+                    "probability": 0.9405421614646912
+                },
+                {
+                    "word": " annual",
+                    "start": 2.54,
+                    "end": 2.96,
+                    "probability": 0.9334880113601685
+                },
+                {
+                    "word": " financial",
+                    "start": 2.96,
+                    "end": 3.66,
+                    "probability": 0.9756642580032349
+                },
+                {
+                    "word": " results",
+                    "start": 3.66,
+                    "end": 5.2,
+                    "probability": 0.7996309995651245
+                },
+                {
+                    "word": " uh",
+                    "start": 5.2,
+                    "end": 5.48,
+                    "probability": 0.2670392692089081
+                },
+                {
+                    "word": " next",
+                    "start": 5.48,
+                    "end": 7.26,
+                    "probability": 0.3229597806930542
+                },
+                {
+                    "word": " week",
+                    "start": 7.26,
+                    "end": 7.54,
+                    "probability": 0.9956396818161011
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

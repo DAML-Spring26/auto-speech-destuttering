@@ -1,0 +1,52 @@
+{
+    "text": " We watch the onset.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.92,
+            "text": " We watch the onset.",
+            "tokens": [
+                50364,
+                492,
+                1159,
+                264,
+                34948,
+                13,
+                50424
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4945668876171112,
+            "compression_ratio": 0.7037037037037037,
+            "no_speech_prob": 0.007084222510457039,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.661376416683197
+                },
+                {
+                    "word": " watch",
+                    "start": 0.14,
+                    "end": 0.36,
+                    "probability": 0.8990119099617004
+                },
+                {
+                    "word": " the",
+                    "start": 0.36,
+                    "end": 0.52,
+                    "probability": 0.9945099353790283
+                },
+                {
+                    "word": " onset.",
+                    "start": 0.52,
+                    "end": 0.92,
+                    "probability": 0.8171555399894714
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

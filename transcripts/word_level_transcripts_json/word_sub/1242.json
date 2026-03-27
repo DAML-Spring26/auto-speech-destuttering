@@ -1,0 +1,53 @@
+{
+    "text": " Emergency services responded intermediately.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.38,
+            "text": " Emergency services responded intermediately.",
+            "tokens": [
+                50364,
+                30524,
+                3328,
+                15806,
+                15184,
+                1592,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6242707570393881,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.004042038228362799,
+            "words": [
+                {
+                    "word": " Emergency",
+                    "start": 0.0,
+                    "end": 0.66,
+                    "probability": 0.6125642657279968
+                },
+                {
+                    "word": " services",
+                    "start": 0.66,
+                    "end": 1.5,
+                    "probability": 0.9129505753517151
+                },
+                {
+                    "word": " responded",
+                    "start": 1.5,
+                    "end": 2.2,
+                    "probability": 0.9913881421089172
+                },
+                {
+                    "word": " intermediately.",
+                    "start": 2.2,
+                    "end": 3.38,
+                    "probability": 0.6367735862731934
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

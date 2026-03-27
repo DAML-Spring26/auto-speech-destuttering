@@ -1,0 +1,88 @@
+{
+    "text": " Please remain calm and I'm follow the evacuation instructions.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.98,
+            "text": " Please remain calm and I'm follow the evacuation instructions.",
+            "tokens": [
+                50364,
+                2555,
+                6222,
+                7151,
+                293,
+                286,
+                478,
+                1524,
+                264,
+                42740,
+                9415,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38267370632716585,
+            "compression_ratio": 0.9253731343283582,
+            "no_speech_prob": 0.04603210464119911,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.6718924045562744
+                },
+                {
+                    "word": " remain",
+                    "start": 0.42,
+                    "end": 0.76,
+                    "probability": 0.9885762333869934
+                },
+                {
+                    "word": " calm",
+                    "start": 0.76,
+                    "end": 1.1,
+                    "probability": 0.9962478280067444
+                },
+                {
+                    "word": " and",
+                    "start": 1.1,
+                    "end": 1.32,
+                    "probability": 0.8789777755737305
+                },
+                {
+                    "word": " I'm",
+                    "start": 1.32,
+                    "end": 1.46,
+                    "probability": 0.6485149264335632
+                },
+                {
+                    "word": " follow",
+                    "start": 1.46,
+                    "end": 1.74,
+                    "probability": 0.6870313286781311
+                },
+                {
+                    "word": " the",
+                    "start": 1.74,
+                    "end": 1.94,
+                    "probability": 0.993171215057373
+                },
+                {
+                    "word": " evacuation",
+                    "start": 1.94,
+                    "end": 2.34,
+                    "probability": 0.974247395992279
+                },
+                {
+                    "word": " instructions.",
+                    "start": 2.34,
+                    "end": 2.98,
+                    "probability": 0.9949548840522766
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

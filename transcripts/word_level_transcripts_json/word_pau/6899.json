@@ -1,0 +1,80 @@
+{
+    "text": " Could you please send the report by Friday?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.3,
+            "text": " Could you please send the report by Friday?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                2845,
+                264,
+                2275,
+                538,
+                6984,
+                30,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39728371302286786,
+            "compression_ratio": 0.8431372549019608,
+            "no_speech_prob": 0.021401455625891685,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.9016392230987549
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.36,
+                    "probability": 0.997683048248291
+                },
+                {
+                    "word": " please",
+                    "start": 0.36,
+                    "end": 0.64,
+                    "probability": 0.9819921255111694
+                },
+                {
+                    "word": " send",
+                    "start": 0.64,
+                    "end": 1.18,
+                    "probability": 0.9555528163909912
+                },
+                {
+                    "word": " the",
+                    "start": 1.18,
+                    "end": 3.2,
+                    "probability": 0.8523436188697815
+                },
+                {
+                    "word": " report",
+                    "start": 3.2,
+                    "end": 3.56,
+                    "probability": 0.9799458384513855
+                },
+                {
+                    "word": " by",
+                    "start": 3.56,
+                    "end": 3.88,
+                    "probability": 0.9902316927909851
+                },
+                {
+                    "word": " Friday?",
+                    "start": 3.88,
+                    "end": 4.3,
+                    "probability": 0.9791106581687927
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

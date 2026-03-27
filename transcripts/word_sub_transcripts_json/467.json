@@ -1,0 +1,60 @@
+{
+    "text": " the program calibrate risk factors.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.24,
+            "text": " the program calibrate risk factors.",
+            "tokens": [
+                50364,
+                264,
+                1461,
+                21583,
+                4404,
+                3148,
+                6771,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6760727882385253,
+            "compression_ratio": 0.813953488372093,
+            "no_speech_prob": 0.0052481843158602715,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.46294403076171875
+                },
+                {
+                    "word": " program",
+                    "start": 0.14,
+                    "end": 0.62,
+                    "probability": 0.644116222858429
+                },
+                {
+                    "word": " calibrate",
+                    "start": 0.62,
+                    "end": 1.26,
+                    "probability": 0.5505140572786331
+                },
+                {
+                    "word": " risk",
+                    "start": 1.26,
+                    "end": 1.64,
+                    "probability": 0.9772436618804932
+                },
+                {
+                    "word": " factors.",
+                    "start": 1.64,
+                    "end": 2.24,
+                    "probability": 0.9705232381820679
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

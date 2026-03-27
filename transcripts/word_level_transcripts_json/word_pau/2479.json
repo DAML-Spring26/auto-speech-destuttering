@@ -1,0 +1,94 @@
+{
+    "text": " the new update should fix the bug in the code.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.86,
+            "text": " the new update should fix the bug in the code.",
+            "tokens": [
+                50364,
+                264,
+                777,
+                5623,
+                820,
+                3191,
+                264,
+                7426,
+                294,
+                264,
+                3089,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37287395341055735,
+            "compression_ratio": 0.9387755102040817,
+            "no_speech_prob": 0.004917644429951906,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.42669254541397095
+                },
+                {
+                    "word": " new",
+                    "start": 0.14,
+                    "end": 0.32,
+                    "probability": 0.959155261516571
+                },
+                {
+                    "word": " update",
+                    "start": 0.32,
+                    "end": 0.6,
+                    "probability": 0.9602512717247009
+                },
+                {
+                    "word": " should",
+                    "start": 0.6,
+                    "end": 0.88,
+                    "probability": 0.9840197563171387
+                },
+                {
+                    "word": " fix",
+                    "start": 0.88,
+                    "end": 1.16,
+                    "probability": 0.7061238884925842
+                },
+                {
+                    "word": " the",
+                    "start": 1.16,
+                    "end": 1.36,
+                    "probability": 0.7609261870384216
+                },
+                {
+                    "word": " bug",
+                    "start": 1.36,
+                    "end": 4.28,
+                    "probability": 0.8797102570533752
+                },
+                {
+                    "word": " in",
+                    "start": 4.28,
+                    "end": 4.46,
+                    "probability": 0.7368935346603394
+                },
+                {
+                    "word": " the",
+                    "start": 4.46,
+                    "end": 4.58,
+                    "probability": 0.9661191701889038
+                },
+                {
+                    "word": " code.",
+                    "start": 4.58,
+                    "end": 4.86,
+                    "probability": 0.9614183902740479
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

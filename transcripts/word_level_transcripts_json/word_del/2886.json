@@ -1,0 +1,80 @@
+{
+    "text": " Could you please explain the new system works?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.02,
+            "text": " Could you please explain the new system works?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                2903,
+                264,
+                777,
+                1185,
+                1985,
+                30,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29217668374379474,
+            "compression_ratio": 0.8518518518518519,
+            "no_speech_prob": 0.02591528370976448,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.9111419916152954
+                },
+                {
+                    "word": " you",
+                    "start": 0.18,
+                    "end": 0.3,
+                    "probability": 0.9977524876594543
+                },
+                {
+                    "word": " please",
+                    "start": 0.3,
+                    "end": 0.6,
+                    "probability": 0.9922945499420166
+                },
+                {
+                    "word": " explain",
+                    "start": 0.6,
+                    "end": 0.98,
+                    "probability": 0.9937593936920166
+                },
+                {
+                    "word": " the",
+                    "start": 0.98,
+                    "end": 1.2,
+                    "probability": 0.8596886396408081
+                },
+                {
+                    "word": " new",
+                    "start": 1.2,
+                    "end": 1.34,
+                    "probability": 0.9802191853523254
+                },
+                {
+                    "word": " system",
+                    "start": 1.34,
+                    "end": 1.7,
+                    "probability": 0.9618328809738159
+                },
+                {
+                    "word": " works?",
+                    "start": 1.7,
+                    "end": 2.02,
+                    "probability": 0.9740278124809265
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

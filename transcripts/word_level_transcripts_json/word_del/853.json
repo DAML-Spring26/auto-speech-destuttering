@@ -1,0 +1,108 @@
+{
+    "text": " We should probably leave a little earlier account for possible traffic delays.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.64,
+            "text": " We should probably leave a little earlier account for possible traffic delays.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                1391,
+                1856,
+                257,
+                707,
+                3071,
+                2696,
+                337,
+                1944,
+                6419,
+                28610,
+                13,
+                50572
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24615930020809174,
+            "compression_ratio": 1.054054054054054,
+            "no_speech_prob": 0.0031217585783451796,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.5585377812385559
+                },
+                {
+                    "word": " should",
+                    "start": 0.16,
+                    "end": 0.3,
+                    "probability": 0.9946722388267517
+                },
+                {
+                    "word": " probably",
+                    "start": 0.3,
+                    "end": 0.64,
+                    "probability": 0.9932699799537659
+                },
+                {
+                    "word": " leave",
+                    "start": 0.64,
+                    "end": 0.98,
+                    "probability": 0.9974223375320435
+                },
+                {
+                    "word": " a",
+                    "start": 0.98,
+                    "end": 1.16,
+                    "probability": 0.9954942464828491
+                },
+                {
+                    "word": " little",
+                    "start": 1.16,
+                    "end": 1.38,
+                    "probability": 0.9970830082893372
+                },
+                {
+                    "word": " earlier",
+                    "start": 1.38,
+                    "end": 1.74,
+                    "probability": 0.9260236024856567
+                },
+                {
+                    "word": " account",
+                    "start": 1.74,
+                    "end": 2.1,
+                    "probability": 0.9840630292892456
+                },
+                {
+                    "word": " for",
+                    "start": 2.1,
+                    "end": 2.3,
+                    "probability": 0.9929393529891968
+                },
+                {
+                    "word": " possible",
+                    "start": 2.3,
+                    "end": 2.76,
+                    "probability": 0.9913309812545776
+                },
+                {
+                    "word": " traffic",
+                    "start": 2.76,
+                    "end": 3.18,
+                    "probability": 0.9493016004562378
+                },
+                {
+                    "word": " delays.",
+                    "start": 3.18,
+                    "end": 3.64,
+                    "probability": 0.9959315657615662
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

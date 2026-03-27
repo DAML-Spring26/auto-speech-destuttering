@@ -1,0 +1,102 @@
+{
+    "text": " I'm not sure we should invest in new equipment this year.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.18,
+            "text": " I'm not sure we should invest in new equipment this year.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                406,
+                988,
+                321,
+                820,
+                1963,
+                294,
+                777,
+                5927,
+                341,
+                1064,
+                13,
+                50480
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2881224751472473,
+            "compression_ratio": 0.9047619047619048,
+            "no_speech_prob": 0.00332826585508883,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.6823836117982864
+                },
+                {
+                    "word": " not",
+                    "start": 0.2,
+                    "end": 0.28,
+                    "probability": 0.9978786706924438
+                },
+                {
+                    "word": " sure",
+                    "start": 0.28,
+                    "end": 0.48,
+                    "probability": 0.9991884827613831
+                },
+                {
+                    "word": " we",
+                    "start": 0.48,
+                    "end": 0.6,
+                    "probability": 0.9951967597007751
+                },
+                {
+                    "word": " should",
+                    "start": 0.6,
+                    "end": 0.74,
+                    "probability": 0.9991999268531799
+                },
+                {
+                    "word": " invest",
+                    "start": 0.74,
+                    "end": 1.04,
+                    "probability": 0.9985438585281372
+                },
+                {
+                    "word": " in",
+                    "start": 1.04,
+                    "end": 1.24,
+                    "probability": 0.9245482087135315
+                },
+                {
+                    "word": " new",
+                    "start": 1.24,
+                    "end": 1.36,
+                    "probability": 0.4872964024543762
+                },
+                {
+                    "word": " equipment",
+                    "start": 1.36,
+                    "end": 1.66,
+                    "probability": 0.9977286458015442
+                },
+                {
+                    "word": " this",
+                    "start": 1.66,
+                    "end": 1.92,
+                    "probability": 0.9929210543632507
+                },
+                {
+                    "word": " year.",
+                    "start": 1.92,
+                    "end": 2.18,
+                    "probability": 0.9982286095619202
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

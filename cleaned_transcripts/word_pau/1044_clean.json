@@ -1,12 +1,12 @@
 {
-    "text": " We need to review the budget before finalising the project plan.",
+    "text": " We need to review the booger. Finalizing.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 6.0,
-            "text": " We need to review the budget before finalising the project plan.",
+            "end": 2.0,
+            "text": " We need to review the booger.",
             "tokens": [
                 50364,
                 492,
@@ -14,20 +14,33 @@
                 281,
                 3131,
                 264,
-                4706,
-                949,
-                2572,
-                3436,
-                264,
-                1716,
-                1393,
+                748,
+                42719,
                 13,
-                50664
+                50464
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.310186505317688,
-            "compression_ratio": 0.9696969696969697,
-            "no_speech_prob": 0.001851656474173069
+            "avg_logprob": -0.7585355043411255,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.002912233117967844
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.64,
+            "end": 3.64,
+            "text": " Finalizing.",
+            "tokens": [
+                50496,
+                13443,
+                3319,
+                13,
+                50546
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7585355043411255,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.002912233117967844
         }
     ],
     "language": "en"

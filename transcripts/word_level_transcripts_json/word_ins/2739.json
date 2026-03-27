@@ -1,0 +1,87 @@
+{
+    "text": " The meeting has been postponed until further with notice.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.0,
+            "text": " The meeting has been postponed until further with notice.",
+            "tokens": [
+                50364,
+                440,
+                3440,
+                575,
+                668,
+                49023,
+                1826,
+                3052,
+                365,
+                3449,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25459524301382214,
+            "compression_ratio": 0.9344262295081968,
+            "no_speech_prob": 0.04349662736058235,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.64,
+                    "probability": 0.9055486917495728
+                },
+                {
+                    "word": " meeting",
+                    "start": 0.64,
+                    "end": 0.86,
+                    "probability": 0.9852988719940186
+                },
+                {
+                    "word": " has",
+                    "start": 0.86,
+                    "end": 1.08,
+                    "probability": 0.9978590607643127
+                },
+                {
+                    "word": " been",
+                    "start": 1.08,
+                    "end": 1.24,
+                    "probability": 0.9990032315254211
+                },
+                {
+                    "word": " postponed",
+                    "start": 1.24,
+                    "end": 1.68,
+                    "probability": 0.9796648025512695
+                },
+                {
+                    "word": " until",
+                    "start": 1.68,
+                    "end": 2.1,
+                    "probability": 0.9962548017501831
+                },
+                {
+                    "word": " further",
+                    "start": 2.1,
+                    "end": 2.48,
+                    "probability": 0.9950494170188904
+                },
+                {
+                    "word": " with",
+                    "start": 2.48,
+                    "end": 2.72,
+                    "probability": 0.9936754107475281
+                },
+                {
+                    "word": " notice.",
+                    "start": 2.72,
+                    "end": 3.0,
+                    "probability": 0.9476466774940491
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

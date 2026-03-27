@@ -1,0 +1,66 @@
+{
+    "text": " the patient shows signs of movement.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.16,
+            "text": " the patient shows signs of movement.",
+            "tokens": [
+                50364,
+                264,
+                4537,
+                3110,
+                7880,
+                295,
+                3963,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5494429111480713,
+            "compression_ratio": 0.8372093023255814,
+            "no_speech_prob": 0.004097576718777418,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5260883569717407
+                },
+                {
+                    "word": " patient",
+                    "start": 0.1,
+                    "end": 0.54,
+                    "probability": 0.9792320728302002
+                },
+                {
+                    "word": " shows",
+                    "start": 0.54,
+                    "end": 0.9,
+                    "probability": 0.44513043761253357
+                },
+                {
+                    "word": " signs",
+                    "start": 0.9,
+                    "end": 1.38,
+                    "probability": 0.9990279674530029
+                },
+                {
+                    "word": " of",
+                    "start": 1.38,
+                    "end": 1.72,
+                    "probability": 0.9988183379173279
+                },
+                {
+                    "word": " movement.",
+                    "start": 1.72,
+                    "end": 2.16,
+                    "probability": 0.9915691018104553
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

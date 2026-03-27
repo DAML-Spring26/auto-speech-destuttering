@@ -1,0 +1,59 @@
+{
+    "text": " Please review the attached segment.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.02,
+            "text": " Please review the attached segment.",
+            "tokens": [
+                50364,
+                2555,
+                3131,
+                264,
+                8570,
+                9469,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5159784422980415,
+            "compression_ratio": 0.813953488372093,
+            "no_speech_prob": 0.004452289082109928,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.6795721650123596
+                },
+                {
+                    "word": " review",
+                    "start": 0.34,
+                    "end": 0.84,
+                    "probability": 0.9844846725463867
+                },
+                {
+                    "word": " the",
+                    "start": 0.84,
+                    "end": 1.08,
+                    "probability": 0.9875530004501343
+                },
+                {
+                    "word": " attached",
+                    "start": 1.08,
+                    "end": 1.5,
+                    "probability": 0.6407686471939087
+                },
+                {
+                    "word": " segment.",
+                    "start": 1.5,
+                    "end": 2.02,
+                    "probability": 0.6384100914001465
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

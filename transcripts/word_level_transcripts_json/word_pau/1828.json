@@ -1,0 +1,108 @@
+{
+    "text": " We need to book our flights and hotel for the conference soon.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.56,
+            "text": " We need to book our flights and hotel for the conference soon.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                1446,
+                527,
+                21089,
+                293,
+                7622,
+                337,
+                264,
+                7586,
+                2321,
+                13,
+                50652
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3518849015235901,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.009716763161122799,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8085456490516663
+                },
+                {
+                    "word": " need",
+                    "start": 0.14,
+                    "end": 0.32,
+                    "probability": 0.9930879473686218
+                },
+                {
+                    "word": " to",
+                    "start": 0.32,
+                    "end": 0.56,
+                    "probability": 0.9940012097358704
+                },
+                {
+                    "word": " book",
+                    "start": 0.56,
+                    "end": 0.92,
+                    "probability": 0.9892317652702332
+                },
+                {
+                    "word": " our",
+                    "start": 0.92,
+                    "end": 3.34,
+                    "probability": 0.43285635113716125
+                },
+                {
+                    "word": " flights",
+                    "start": 3.34,
+                    "end": 3.64,
+                    "probability": 0.9792211055755615
+                },
+                {
+                    "word": " and",
+                    "start": 3.64,
+                    "end": 3.94,
+                    "probability": 0.9259123802185059
+                },
+                {
+                    "word": " hotel",
+                    "start": 3.94,
+                    "end": 4.26,
+                    "probability": 0.9908949136734009
+                },
+                {
+                    "word": " for",
+                    "start": 4.26,
+                    "end": 4.58,
+                    "probability": 0.9896843433380127
+                },
+                {
+                    "word": " the",
+                    "start": 4.58,
+                    "end": 4.72,
+                    "probability": 0.9928810596466064
+                },
+                {
+                    "word": " conference",
+                    "start": 4.72,
+                    "end": 5.12,
+                    "probability": 0.9768496155738831
+                },
+                {
+                    "word": " soon.",
+                    "start": 5.12,
+                    "end": 5.56,
+                    "probability": 0.995364785194397
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

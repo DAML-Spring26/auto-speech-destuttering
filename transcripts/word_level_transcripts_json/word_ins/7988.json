@@ -1,0 +1,66 @@
+{
+    "text": " What symptoms are you experiencing today?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.36,
+            "text": " What symptoms are you experiencing today?",
+            "tokens": [
+                50364,
+                708,
+                8332,
+                366,
+                291,
+                11139,
+                965,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3351914644241333,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.014357665553689003,
+            "words": [
+                {
+                    "word": " What",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.9168667197227478
+                },
+                {
+                    "word": " symptoms",
+                    "start": 0.4,
+                    "end": 0.74,
+                    "probability": 0.9824025630950928
+                },
+                {
+                    "word": " are",
+                    "start": 0.74,
+                    "end": 0.96,
+                    "probability": 0.9888159036636353
+                },
+                {
+                    "word": " you",
+                    "start": 0.96,
+                    "end": 1.12,
+                    "probability": 0.9963359832763672
+                },
+                {
+                    "word": " experiencing",
+                    "start": 1.12,
+                    "end": 1.9,
+                    "probability": 0.9154165387153625
+                },
+                {
+                    "word": " today?",
+                    "start": 1.9,
+                    "end": 2.36,
+                    "probability": 0.9960911870002747
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,88 @@
+{
+    "text": " I'll pick up some groceries on my way home.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.22,
+            "text": " I'll pick up some groceries on my way home.",
+            "tokens": [
+                50364,
+                286,
+                603,
+                1888,
+                493,
+                512,
+                31391,
+                322,
+                452,
+                636,
+                1280,
+                13,
+                50580
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3146473339625767,
+            "compression_ratio": 0.86,
+            "no_speech_prob": 0.015213615261018276,
+            "words": [
+                {
+                    "word": " I'll",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.9293957650661469
+                },
+                {
+                    "word": " pick",
+                    "start": 0.2,
+                    "end": 0.42,
+                    "probability": 0.986944317817688
+                },
+                {
+                    "word": " up",
+                    "start": 0.42,
+                    "end": 0.72,
+                    "probability": 0.9913090467453003
+                },
+                {
+                    "word": " some",
+                    "start": 0.72,
+                    "end": 2.26,
+                    "probability": 0.9467198252677917
+                },
+                {
+                    "word": " groceries",
+                    "start": 2.26,
+                    "end": 2.84,
+                    "probability": 0.9853090643882751
+                },
+                {
+                    "word": " on",
+                    "start": 2.84,
+                    "end": 3.36,
+                    "probability": 0.9476829767227173
+                },
+                {
+                    "word": " my",
+                    "start": 3.36,
+                    "end": 3.58,
+                    "probability": 0.996900200843811
+                },
+                {
+                    "word": " way",
+                    "start": 3.58,
+                    "end": 3.8,
+                    "probability": 0.9977418184280396
+                },
+                {
+                    "word": " home.",
+                    "start": 3.8,
+                    "end": 4.22,
+                    "probability": 0.9980894923210144
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,60 @@
+{
+    "text": " The company implemented new polishes.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.58,
+            "text": " The company implemented new polishes.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                12270,
+                777,
+                1180,
+                16423,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4967613220214844,
+            "compression_ratio": 0.8222222222222222,
+            "no_speech_prob": 0.007551945745944977,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.3138483464717865
+                },
+                {
+                    "word": " company",
+                    "start": 0.1,
+                    "end": 0.42,
+                    "probability": 0.9599923491477966
+                },
+                {
+                    "word": " implemented",
+                    "start": 0.42,
+                    "end": 0.84,
+                    "probability": 0.5920801162719727
+                },
+                {
+                    "word": " new",
+                    "start": 0.84,
+                    "end": 1.1,
+                    "probability": 0.9978017210960388
+                },
+                {
+                    "word": " polishes.",
+                    "start": 1.1,
+                    "end": 1.58,
+                    "probability": 0.7846720814704895
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

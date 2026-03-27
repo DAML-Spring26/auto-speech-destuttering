@@ -1,0 +1,80 @@
+{
+    "text": " Can you check the status of my occupation?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.18,
+            "text": " Can you check the status of my occupation?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                1520,
+                264,
+                6558,
+                295,
+                452,
+                24482,
+                30,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3125647306442261,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.0048472038470208645,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.6764451861381531
+                },
+                {
+                    "word": " you",
+                    "start": 0.18,
+                    "end": 0.28,
+                    "probability": 0.9962880611419678
+                },
+                {
+                    "word": " check",
+                    "start": 0.28,
+                    "end": 0.52,
+                    "probability": 0.9971615076065063
+                },
+                {
+                    "word": " the",
+                    "start": 0.52,
+                    "end": 0.74,
+                    "probability": 0.9814903736114502
+                },
+                {
+                    "word": " status",
+                    "start": 0.74,
+                    "end": 1.1,
+                    "probability": 0.9899187088012695
+                },
+                {
+                    "word": " of",
+                    "start": 1.1,
+                    "end": 1.32,
+                    "probability": 0.982528030872345
+                },
+                {
+                    "word": " my",
+                    "start": 1.32,
+                    "end": 1.5,
+                    "probability": 0.9961537718772888
+                },
+                {
+                    "word": " occupation?",
+                    "start": 1.5,
+                    "end": 2.18,
+                    "probability": 0.9741712212562561
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

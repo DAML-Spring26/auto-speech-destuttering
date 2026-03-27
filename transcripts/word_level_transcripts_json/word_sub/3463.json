@@ -1,0 +1,73 @@
+{
+    "text": " They need to progress these forms quickly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.04,
+            "text": " They need to progress these forms quickly.",
+            "tokens": [
+                50364,
+                814,
+                643,
+                281,
+                4205,
+                613,
+                6422,
+                2661,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3608772104436701,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.0027420702390372753,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5455135107040405
+                },
+                {
+                    "word": " need",
+                    "start": 0.12,
+                    "end": 0.32,
+                    "probability": 0.9939939379692078
+                },
+                {
+                    "word": " to",
+                    "start": 0.32,
+                    "end": 0.5,
+                    "probability": 0.9986428618431091
+                },
+                {
+                    "word": " progress",
+                    "start": 0.5,
+                    "end": 0.84,
+                    "probability": 0.9816185832023621
+                },
+                {
+                    "word": " these",
+                    "start": 0.84,
+                    "end": 1.26,
+                    "probability": 0.9657740592956543
+                },
+                {
+                    "word": " forms",
+                    "start": 1.26,
+                    "end": 1.64,
+                    "probability": 0.9625405073165894
+                },
+                {
+                    "word": " quickly.",
+                    "start": 1.64,
+                    "end": 2.04,
+                    "probability": 0.9948810338973999
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

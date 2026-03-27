@@ -1,0 +1,73 @@
+{
+    "text": " He should attend at the training session.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.88,
+            "text": " He should attend at the training session.",
+            "tokens": [
+                50364,
+                634,
+                820,
+                6888,
+                412,
+                264,
+                3097,
+                5481,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3931338570334695,
+            "compression_ratio": 0.8913043478260869,
+            "no_speech_prob": 0.010820849798619747,
+            "words": [
+                {
+                    "word": " He",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6681258082389832
+                },
+                {
+                    "word": " should",
+                    "start": 0.1,
+                    "end": 0.26,
+                    "probability": 0.9984588623046875
+                },
+                {
+                    "word": " attend",
+                    "start": 0.26,
+                    "end": 0.58,
+                    "probability": 0.9389402866363525
+                },
+                {
+                    "word": " at",
+                    "start": 0.58,
+                    "end": 0.8,
+                    "probability": 0.7231531739234924
+                },
+                {
+                    "word": " the",
+                    "start": 0.8,
+                    "end": 0.92,
+                    "probability": 0.98322993516922
+                },
+                {
+                    "word": " training",
+                    "start": 0.92,
+                    "end": 1.3,
+                    "probability": 0.9556189179420471
+                },
+                {
+                    "word": " session.",
+                    "start": 1.3,
+                    "end": 1.88,
+                    "probability": 0.9970439076423645
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

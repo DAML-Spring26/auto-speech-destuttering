@@ -1,0 +1,73 @@
+{
+    "text": " Have you um finished your homework yet?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.66,
+            "text": " Have you um finished your homework yet?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                1105,
+                4335,
+                428,
+                14578,
+                1939,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5858237526633523,
+            "compression_ratio": 0.8863636363636364,
+            "no_speech_prob": 0.221138596534729,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 0.74,
+                    "probability": 0.7336089611053467
+                },
+                {
+                    "word": " you",
+                    "start": 0.74,
+                    "end": 0.96,
+                    "probability": 0.9788836240768433
+                },
+                {
+                    "word": " um",
+                    "start": 0.96,
+                    "end": 1.16,
+                    "probability": 0.5594128370285034
+                },
+                {
+                    "word": " finished",
+                    "start": 1.16,
+                    "end": 1.68,
+                    "probability": 0.7643117308616638
+                },
+                {
+                    "word": " your",
+                    "start": 1.68,
+                    "end": 1.96,
+                    "probability": 0.9939906597137451
+                },
+                {
+                    "word": " homework",
+                    "start": 1.96,
+                    "end": 2.28,
+                    "probability": 0.9828473329544067
+                },
+                {
+                    "word": " yet?",
+                    "start": 2.28,
+                    "end": 2.66,
+                    "probability": 0.9704371094703674
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

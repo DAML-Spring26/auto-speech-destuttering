@@ -1,0 +1,88 @@
+{
+    "text": " Please review the updated employee handbook before the signing.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.46,
+            "text": " Please review the updated employee handbook before the signing.",
+            "tokens": [
+                50364,
+                2555,
+                3131,
+                264,
+                10588,
+                10738,
+                1011,
+                2939,
+                949,
+                264,
+                13393,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2519287552152361,
+            "compression_ratio": 0.9402985074626866,
+            "no_speech_prob": 0.023652169853448868,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.82,
+                    "probability": 0.8915305733680725
+                },
+                {
+                    "word": " review",
+                    "start": 0.82,
+                    "end": 1.3,
+                    "probability": 0.9838316440582275
+                },
+                {
+                    "word": " the",
+                    "start": 1.3,
+                    "end": 1.58,
+                    "probability": 0.995762050151825
+                },
+                {
+                    "word": " updated",
+                    "start": 1.58,
+                    "end": 2.08,
+                    "probability": 0.9844368696212769
+                },
+                {
+                    "word": " employee",
+                    "start": 2.08,
+                    "end": 2.72,
+                    "probability": 0.7630229592323303
+                },
+                {
+                    "word": " handbook",
+                    "start": 2.72,
+                    "end": 3.42,
+                    "probability": 0.9613020122051239
+                },
+                {
+                    "word": " before",
+                    "start": 3.42,
+                    "end": 3.84,
+                    "probability": 0.9842356443405151
+                },
+                {
+                    "word": " the",
+                    "start": 3.84,
+                    "end": 4.06,
+                    "probability": 0.9371050000190735
+                },
+                {
+                    "word": " signing.",
+                    "start": 4.06,
+                    "end": 4.46,
+                    "probability": 0.9954625964164734
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

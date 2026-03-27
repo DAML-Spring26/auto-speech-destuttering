@@ -1,0 +1,94 @@
+{
+    "text": " The new policy implemented last month has improved workplace efficiency.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.56,
+            "text": " The new policy implemented last month has improved workplace efficiency.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                3897,
+                12270,
+                1036,
+                1618,
+                575,
+                9689,
+                15328,
+                10493,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29265778405325754,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.018265394493937492,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.64,
+                    "probability": 0.94195556640625
+                },
+                {
+                    "word": " new",
+                    "start": 0.64,
+                    "end": 0.82,
+                    "probability": 0.9469079375267029
+                },
+                {
+                    "word": " policy",
+                    "start": 0.82,
+                    "end": 1.34,
+                    "probability": 0.983123779296875
+                },
+                {
+                    "word": " implemented",
+                    "start": 1.34,
+                    "end": 1.92,
+                    "probability": 0.9768500328063965
+                },
+                {
+                    "word": " last",
+                    "start": 1.92,
+                    "end": 2.32,
+                    "probability": 0.9979040622711182
+                },
+                {
+                    "word": " month",
+                    "start": 2.32,
+                    "end": 2.7,
+                    "probability": 0.9962395429611206
+                },
+                {
+                    "word": " has",
+                    "start": 2.7,
+                    "end": 3.06,
+                    "probability": 0.9869310259819031
+                },
+                {
+                    "word": " improved",
+                    "start": 3.06,
+                    "end": 3.4,
+                    "probability": 0.982203483581543
+                },
+                {
+                    "word": " workplace",
+                    "start": 3.4,
+                    "end": 3.82,
+                    "probability": 0.6967573165893555
+                },
+                {
+                    "word": " efficiency.",
+                    "start": 3.82,
+                    "end": 4.56,
+                    "probability": 0.9842706322669983
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

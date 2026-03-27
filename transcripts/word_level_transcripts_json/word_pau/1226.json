@@ -1,0 +1,81 @@
+{
+    "text": " The new software update includes several performance enhancements.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.72,
+            "text": " The new software update includes several performance enhancements.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                4722,
+                5623,
+                5974,
+                2940,
+                3389,
+                11985,
+                1117,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4251504677992601,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.004112842958420515,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.9242461919784546
+                },
+                {
+                    "word": " new",
+                    "start": 0.12,
+                    "end": 0.3,
+                    "probability": 0.9713077545166016
+                },
+                {
+                    "word": " software",
+                    "start": 0.3,
+                    "end": 0.74,
+                    "probability": 0.9705810546875
+                },
+                {
+                    "word": " update",
+                    "start": 0.74,
+                    "end": 1.06,
+                    "probability": 0.7385132908821106
+                },
+                {
+                    "word": " includes",
+                    "start": 1.06,
+                    "end": 1.58,
+                    "probability": 0.9823945164680481
+                },
+                {
+                    "word": " several",
+                    "start": 1.58,
+                    "end": 2.22,
+                    "probability": 0.9901680946350098
+                },
+                {
+                    "word": " performance",
+                    "start": 2.22,
+                    "end": 6.74,
+                    "probability": 0.2462274730205536
+                },
+                {
+                    "word": " enhancements.",
+                    "start": 6.74,
+                    "end": 7.72,
+                    "probability": 0.803011566400528
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

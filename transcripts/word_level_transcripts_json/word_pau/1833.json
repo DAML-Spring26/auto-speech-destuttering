@@ -1,0 +1,101 @@
+{
+    "text": " Students are required to submit their essays by midnight and Friday.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.46,
+            "text": " Students are required to submit their essays by midnight and Friday.",
+            "tokens": [
+                50364,
+                17244,
+                366,
+                4739,
+                281,
+                10315,
+                641,
+                35123,
+                538,
+                19006,
+                293,
+                6984,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.323193613688151,
+            "compression_ratio": 0.9855072463768116,
+            "no_speech_prob": 0.0063169896602630615,
+            "words": [
+                {
+                    "word": " Students",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.8204991817474365
+                },
+                {
+                    "word": " are",
+                    "start": 0.42,
+                    "end": 0.64,
+                    "probability": 0.9990021586418152
+                },
+                {
+                    "word": " required",
+                    "start": 0.64,
+                    "end": 0.98,
+                    "probability": 0.9983898401260376
+                },
+                {
+                    "word": " to",
+                    "start": 0.98,
+                    "end": 1.22,
+                    "probability": 0.9993215799331665
+                },
+                {
+                    "word": " submit",
+                    "start": 1.22,
+                    "end": 1.64,
+                    "probability": 0.9989697933197021
+                },
+                {
+                    "word": " their",
+                    "start": 1.64,
+                    "end": 4.9,
+                    "probability": 0.9897251129150391
+                },
+                {
+                    "word": " essays",
+                    "start": 4.9,
+                    "end": 5.26,
+                    "probability": 0.963507890701294
+                },
+                {
+                    "word": " by",
+                    "start": 5.26,
+                    "end": 5.56,
+                    "probability": 0.9926780462265015
+                },
+                {
+                    "word": " midnight",
+                    "start": 5.56,
+                    "end": 5.94,
+                    "probability": 0.8329864740371704
+                },
+                {
+                    "word": " and",
+                    "start": 5.94,
+                    "end": 6.1,
+                    "probability": 0.3198705315589905
+                },
+                {
+                    "word": " Friday.",
+                    "start": 6.1,
+                    "end": 6.46,
+                    "probability": 0.9683961868286133
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

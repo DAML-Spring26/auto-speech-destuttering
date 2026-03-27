@@ -62,12 +62,11 @@ for label in LABELS:
 
 df = pd.DataFrame(rows)
 
-# Save CSV
+# save csv
 df.to_csv("wer_results.csv", index=False)
 
 print("\nSaved wer_results.csv")
 
-# ===== Stats =====
 print("\n=== OVERALL WER ===")
 print("Baseline:", df["WER_baseline"].mean())
 print("Cleaned :", df["WER_clean"].mean())

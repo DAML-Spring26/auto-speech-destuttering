@@ -1,0 +1,101 @@
+{
+    "text": " The marketing campaign aims to increase brand awareness among younger consumers.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.72,
+            "text": " The marketing campaign aims to increase brand awareness among younger consumers.",
+            "tokens": [
+                50364,
+                440,
+                6370,
+                5129,
+                24683,
+                281,
+                3488,
+                3360,
+                8888,
+                3654,
+                7037,
+                11883,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30553194681803386,
+            "compression_ratio": 1.0666666666666667,
+            "no_speech_prob": 0.011972482316195965,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5665439367294312
+                },
+                {
+                    "word": " marketing",
+                    "start": 0.1,
+                    "end": 0.66,
+                    "probability": 0.9427974224090576
+                },
+                {
+                    "word": " campaign",
+                    "start": 0.66,
+                    "end": 1.4,
+                    "probability": 0.9928935170173645
+                },
+                {
+                    "word": " aims",
+                    "start": 1.4,
+                    "end": 1.98,
+                    "probability": 0.9983038902282715
+                },
+                {
+                    "word": " to",
+                    "start": 1.98,
+                    "end": 2.28,
+                    "probability": 0.9986369013786316
+                },
+                {
+                    "word": " increase",
+                    "start": 2.28,
+                    "end": 2.86,
+                    "probability": 0.9904108047485352
+                },
+                {
+                    "word": " brand",
+                    "start": 2.86,
+                    "end": 3.26,
+                    "probability": 0.9113301634788513
+                },
+                {
+                    "word": " awareness",
+                    "start": 3.26,
+                    "end": 4.04,
+                    "probability": 0.9978981018066406
+                },
+                {
+                    "word": " among",
+                    "start": 4.04,
+                    "end": 4.62,
+                    "probability": 0.9917750358581543
+                },
+                {
+                    "word": " younger",
+                    "start": 4.62,
+                    "end": 5.68,
+                    "probability": 0.7936366200447083
+                },
+                {
+                    "word": " consumers.",
+                    "start": 5.68,
+                    "end": 6.72,
+                    "probability": 0.9982203841209412
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

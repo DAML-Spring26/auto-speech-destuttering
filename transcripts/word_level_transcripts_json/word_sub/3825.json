@@ -1,0 +1,66 @@
+{
+    "text": " the manager renewed the quarterly reports.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.9,
+            "text": " the manager renewed the quarterly reports.",
+            "tokens": [
+                50364,
+                264,
+                6598,
+                30228,
+                264,
+                38633,
+                7122,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4495824337005615,
+            "compression_ratio": 0.8936170212765957,
+            "no_speech_prob": 0.013733058236539364,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5377771854400635
+                },
+                {
+                    "word": " manager",
+                    "start": 0.1,
+                    "end": 0.5,
+                    "probability": 0.9491329789161682
+                },
+                {
+                    "word": " renewed",
+                    "start": 0.5,
+                    "end": 0.82,
+                    "probability": 0.8782155513763428
+                },
+                {
+                    "word": " the",
+                    "start": 0.82,
+                    "end": 1.04,
+                    "probability": 0.9915781021118164
+                },
+                {
+                    "word": " quarterly",
+                    "start": 1.04,
+                    "end": 1.38,
+                    "probability": 0.9010461568832397
+                },
+                {
+                    "word": " reports.",
+                    "start": 1.38,
+                    "end": 1.9,
+                    "probability": 0.9371327757835388
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

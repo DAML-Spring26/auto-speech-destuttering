@@ -1,0 +1,88 @@
+{
+    "text": " She's an expert in quantum mechanics and particle physics.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.68,
+            "text": " She's an expert in quantum mechanics and particle physics.",
+            "tokens": [
+                50364,
+                1240,
+                311,
+                364,
+                5844,
+                294,
+                13018,
+                12939,
+                293,
+                12359,
+                10649,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33650384630475727,
+            "compression_ratio": 0.9354838709677419,
+            "no_speech_prob": 0.004815634340047836,
+            "words": [
+                {
+                    "word": " She's",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.8689055144786835
+                },
+                {
+                    "word": " an",
+                    "start": 0.22,
+                    "end": 0.32,
+                    "probability": 0.9964295029640198
+                },
+                {
+                    "word": " expert",
+                    "start": 0.32,
+                    "end": 0.7,
+                    "probability": 0.9953780174255371
+                },
+                {
+                    "word": " in",
+                    "start": 0.7,
+                    "end": 0.94,
+                    "probability": 0.967025101184845
+                },
+                {
+                    "word": " quantum",
+                    "start": 0.94,
+                    "end": 1.22,
+                    "probability": 0.9786569476127625
+                },
+                {
+                    "word": " mechanics",
+                    "start": 1.22,
+                    "end": 1.74,
+                    "probability": 0.996229350566864
+                },
+                {
+                    "word": " and",
+                    "start": 1.74,
+                    "end": 1.96,
+                    "probability": 0.9083914160728455
+                },
+                {
+                    "word": " particle",
+                    "start": 1.96,
+                    "end": 2.28,
+                    "probability": 0.9706947207450867
+                },
+                {
+                    "word": " physics.",
+                    "start": 2.28,
+                    "end": 2.68,
+                    "probability": 0.6877390146255493
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

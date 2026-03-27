@@ -1,0 +1,101 @@
+{
+    "text": " Can you pick up some fruits and vegetables at the market?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.74,
+            "text": " Can you pick up some fruits and vegetables at the market?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                1888,
+                493,
+                512,
+                12148,
+                293,
+                9320,
+                412,
+                264,
+                2142,
+                30,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23942131996154786,
+            "compression_ratio": 0.9047619047619048,
+            "no_speech_prob": 0.007870536297559738,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7723864316940308
+                },
+                {
+                    "word": " you",
+                    "start": 0.14,
+                    "end": 0.28,
+                    "probability": 0.9969314336776733
+                },
+                {
+                    "word": " pick",
+                    "start": 0.28,
+                    "end": 0.48,
+                    "probability": 0.9926095604896545
+                },
+                {
+                    "word": " up",
+                    "start": 0.48,
+                    "end": 0.72,
+                    "probability": 0.9975886344909668
+                },
+                {
+                    "word": " some",
+                    "start": 0.72,
+                    "end": 1.06,
+                    "probability": 0.9961355924606323
+                },
+                {
+                    "word": " fruits",
+                    "start": 1.06,
+                    "end": 1.48,
+                    "probability": 0.9760782718658447
+                },
+                {
+                    "word": " and",
+                    "start": 1.48,
+                    "end": 2.14,
+                    "probability": 0.9462957382202148
+                },
+                {
+                    "word": " vegetables",
+                    "start": 2.14,
+                    "end": 4.84,
+                    "probability": 0.84124755859375
+                },
+                {
+                    "word": " at",
+                    "start": 4.84,
+                    "end": 5.26,
+                    "probability": 0.9948607087135315
+                },
+                {
+                    "word": " the",
+                    "start": 5.26,
+                    "end": 5.38,
+                    "probability": 0.9980066418647766
+                },
+                {
+                    "word": " market?",
+                    "start": 5.38,
+                    "end": 5.74,
+                    "probability": 0.9957547187805176
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

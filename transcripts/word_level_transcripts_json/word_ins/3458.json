@@ -1,0 +1,88 @@
+{
+    "text": " Students are encouraged to participate in on-class discussions.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.3,
+            "text": " Students are encouraged to participate in on-class discussions.",
+            "tokens": [
+                50364,
+                17244,
+                366,
+                14658,
+                281,
+                8197,
+                294,
+                322,
+                12,
+                11665,
+                11088,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27299225330352783,
+            "compression_ratio": 1.0161290322580645,
+            "no_speech_prob": 0.024084938690066338,
+            "words": [
+                {
+                    "word": " Students",
+                    "start": 0.0,
+                    "end": 0.72,
+                    "probability": 0.8867295384407043
+                },
+                {
+                    "word": " are",
+                    "start": 0.72,
+                    "end": 0.96,
+                    "probability": 0.9989601373672485
+                },
+                {
+                    "word": " encouraged",
+                    "start": 0.96,
+                    "end": 1.36,
+                    "probability": 0.9994803071022034
+                },
+                {
+                    "word": " to",
+                    "start": 1.36,
+                    "end": 1.58,
+                    "probability": 0.9994291663169861
+                },
+                {
+                    "word": " participate",
+                    "start": 1.58,
+                    "end": 2.06,
+                    "probability": 0.9963055849075317
+                },
+                {
+                    "word": " in",
+                    "start": 2.06,
+                    "end": 2.32,
+                    "probability": 0.9994262456893921
+                },
+                {
+                    "word": " on",
+                    "start": 2.32,
+                    "end": 2.44,
+                    "probability": 0.7106093168258667
+                },
+                {
+                    "word": "-class",
+                    "start": 2.44,
+                    "end": 2.72,
+                    "probability": 0.9644505083560944
+                },
+                {
+                    "word": " discussions.",
+                    "start": 2.72,
+                    "end": 3.3,
+                    "probability": 0.9922868013381958
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

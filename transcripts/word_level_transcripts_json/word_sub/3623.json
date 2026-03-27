@@ -1,0 +1,81 @@
+{
+    "text": " The molecular structure shows distinct patterns of bounding.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.62,
+            "text": " The molecular structure shows distinct patterns of bounding.",
+            "tokens": [
+                50364,
+                440,
+                19046,
+                3877,
+                3110,
+                10644,
+                8294,
+                295,
+                5472,
+                278,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2901148062485915,
+            "compression_ratio": 0.9523809523809523,
+            "no_speech_prob": 0.00407251063734293,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6972874402999878
+                },
+                {
+                    "word": " molecular",
+                    "start": 0.14,
+                    "end": 0.52,
+                    "probability": 0.9586029648780823
+                },
+                {
+                    "word": " structure",
+                    "start": 0.52,
+                    "end": 1.16,
+                    "probability": 0.9852555990219116
+                },
+                {
+                    "word": " shows",
+                    "start": 1.16,
+                    "end": 1.58,
+                    "probability": 0.9918766021728516
+                },
+                {
+                    "word": " distinct",
+                    "start": 1.58,
+                    "end": 2.12,
+                    "probability": 0.9965033531188965
+                },
+                {
+                    "word": " patterns",
+                    "start": 2.12,
+                    "end": 2.7,
+                    "probability": 0.9902535080909729
+                },
+                {
+                    "word": " of",
+                    "start": 2.7,
+                    "end": 3.0,
+                    "probability": 0.9977673292160034
+                },
+                {
+                    "word": " bounding.",
+                    "start": 3.0,
+                    "end": 3.62,
+                    "probability": 0.972975492477417
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

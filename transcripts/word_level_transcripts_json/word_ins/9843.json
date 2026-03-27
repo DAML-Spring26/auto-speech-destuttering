@@ -1,0 +1,89 @@
+{
+    "text": " Let's have a game night you know. This Friday.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.37999999999999967,
+            "end": 2.86,
+            "text": " Let's have a game night you know. This Friday.",
+            "tokens": [
+                50364,
+                961,
+                311,
+                362,
+                257,
+                1216,
+                1818,
+                291,
+                458,
+                13,
+                639,
+                6984,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.386546262105306,
+            "compression_ratio": 0.8518518518518519,
+            "no_speech_prob": 0.021522577852010727,
+            "words": [
+                {
+                    "word": " Let's",
+                    "start": 0.37999999999999967,
+                    "end": 0.74,
+                    "probability": 0.9292367100715637
+                },
+                {
+                    "word": " have",
+                    "start": 0.74,
+                    "end": 0.82,
+                    "probability": 0.98897784948349
+                },
+                {
+                    "word": " a",
+                    "start": 0.82,
+                    "end": 0.96,
+                    "probability": 0.9965384006500244
+                },
+                {
+                    "word": " game",
+                    "start": 0.96,
+                    "end": 1.14,
+                    "probability": 0.945086658000946
+                },
+                {
+                    "word": " night",
+                    "start": 1.14,
+                    "end": 1.32,
+                    "probability": 0.8304211497306824
+                },
+                {
+                    "word": " you",
+                    "start": 1.32,
+                    "end": 1.52,
+                    "probability": 0.6784695386886597
+                },
+                {
+                    "word": " know.",
+                    "start": 1.52,
+                    "end": 1.7,
+                    "probability": 0.9947323799133301
+                },
+                {
+                    "word": " This",
+                    "start": 2.26,
+                    "end": 2.54,
+                    "probability": 0.9272359609603882
+                },
+                {
+                    "word": " Friday.",
+                    "start": 2.54,
+                    "end": 2.86,
+                    "probability": 0.9979414343833923
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

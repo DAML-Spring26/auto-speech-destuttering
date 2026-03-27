@@ -1,0 +1,80 @@
+{
+    "text": " Can you clarify the terms of the assessment?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.54,
+            "text": " Can you clarify the terms of the assessment?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                17594,
+                264,
+                2115,
+                295,
+                264,
+                9687,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2289798061052958,
+            "compression_ratio": 0.9166666666666666,
+            "no_speech_prob": 0.021395109593868256,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.8449696898460388
+                },
+                {
+                    "word": " you",
+                    "start": 0.18,
+                    "end": 0.36,
+                    "probability": 0.9970888495445251
+                },
+                {
+                    "word": " clarify",
+                    "start": 0.36,
+                    "end": 0.92,
+                    "probability": 0.9934762120246887
+                },
+                {
+                    "word": " the",
+                    "start": 0.92,
+                    "end": 1.18,
+                    "probability": 0.9914894104003906
+                },
+                {
+                    "word": " terms",
+                    "start": 1.18,
+                    "end": 1.54,
+                    "probability": 0.9977230429649353
+                },
+                {
+                    "word": " of",
+                    "start": 1.54,
+                    "end": 1.72,
+                    "probability": 0.9980498552322388
+                },
+                {
+                    "word": " the",
+                    "start": 1.72,
+                    "end": 1.92,
+                    "probability": 0.9896270036697388
+                },
+                {
+                    "word": " assessment?",
+                    "start": 1.92,
+                    "end": 2.54,
+                    "probability": 0.9824594259262085
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

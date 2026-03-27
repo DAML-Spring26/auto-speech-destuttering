@@ -1,0 +1,108 @@
+{
+    "text": " Could you please provide me with your flight details and arrival time?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.46,
+            "text": " Could you please provide me with your flight details and arrival time?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                2893,
+                385,
+                365,
+                428,
+                7018,
+                4365,
+                293,
+                18365,
+                565,
+                30,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22592736780643463,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.01639525219798088,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.9469409584999084
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.34,
+                    "probability": 0.9965633749961853
+                },
+                {
+                    "word": " please",
+                    "start": 0.34,
+                    "end": 0.66,
+                    "probability": 0.9775377511978149
+                },
+                {
+                    "word": " provide",
+                    "start": 0.66,
+                    "end": 1.06,
+                    "probability": 0.9893023371696472
+                },
+                {
+                    "word": " me",
+                    "start": 1.06,
+                    "end": 1.36,
+                    "probability": 0.9609440565109253
+                },
+                {
+                    "word": " with",
+                    "start": 1.36,
+                    "end": 1.62,
+                    "probability": 0.9957068562507629
+                },
+                {
+                    "word": " your",
+                    "start": 1.62,
+                    "end": 1.76,
+                    "probability": 0.9588822722434998
+                },
+                {
+                    "word": " flight",
+                    "start": 1.76,
+                    "end": 2.04,
+                    "probability": 0.9900071620941162
+                },
+                {
+                    "word": " details",
+                    "start": 2.04,
+                    "end": 2.52,
+                    "probability": 0.9929471015930176
+                },
+                {
+                    "word": " and",
+                    "start": 2.52,
+                    "end": 3.0,
+                    "probability": 0.6208460330963135
+                },
+                {
+                    "word": " arrival",
+                    "start": 3.0,
+                    "end": 4.0,
+                    "probability": 0.46287521719932556
+                },
+                {
+                    "word": " time?",
+                    "start": 4.0,
+                    "end": 4.46,
+                    "probability": 0.9888779520988464
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

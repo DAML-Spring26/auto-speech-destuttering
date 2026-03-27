@@ -1,0 +1,75 @@
+{
+    "text": " The philosopher debated the nature of conscientiousness.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.86,
+            "text": " The philosopher debated the nature of conscientiousness.",
+            "tokens": [
+                50364,
+                440,
+                29805,
+                42212,
+                264,
+                3687,
+                295,
+                44507,
+                851,
+                1287,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4295753332284781,
+            "compression_ratio": 0.9180327868852459,
+            "no_speech_prob": 0.004225568380206823,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.623700737953186
+                },
+                {
+                    "word": " philosopher",
+                    "start": 0.12,
+                    "end": 0.52,
+                    "probability": 0.9098723530769348
+                },
+                {
+                    "word": " debated",
+                    "start": 0.52,
+                    "end": 0.94,
+                    "probability": 0.3864555060863495
+                },
+                {
+                    "word": " the",
+                    "start": 0.94,
+                    "end": 1.26,
+                    "probability": 0.9926652312278748
+                },
+                {
+                    "word": " nature",
+                    "start": 1.26,
+                    "end": 1.56,
+                    "probability": 0.9904423356056213
+                },
+                {
+                    "word": " of",
+                    "start": 1.56,
+                    "end": 1.78,
+                    "probability": 0.9985718727111816
+                },
+                {
+                    "word": " conscientiousness.",
+                    "start": 1.78,
+                    "end": 2.86,
+                    "probability": 0.7496856153011322
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

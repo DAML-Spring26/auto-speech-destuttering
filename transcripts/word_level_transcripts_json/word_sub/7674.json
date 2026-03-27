@@ -1,0 +1,87 @@
+{
+    "text": " The Psychology Department is conducting a study on perception.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.54,
+            "text": " The Psychology Department is conducting a study on perception.",
+            "tokens": [
+                50364,
+                440,
+                42827,
+                5982,
+                307,
+                21749,
+                257,
+                2979,
+                322,
+                12860,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26925019117502064,
+            "compression_ratio": 0.9117647058823529,
+            "no_speech_prob": 0.004764399491250515,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7562556862831116
+                },
+                {
+                    "word": " Psychology",
+                    "start": 0.12,
+                    "end": 0.68,
+                    "probability": 0.6931618452072144
+                },
+                {
+                    "word": " Department",
+                    "start": 0.68,
+                    "end": 1.28,
+                    "probability": 0.8444193601608276
+                },
+                {
+                    "word": " is",
+                    "start": 1.28,
+                    "end": 1.64,
+                    "probability": 0.9926483035087585
+                },
+                {
+                    "word": " conducting",
+                    "start": 1.64,
+                    "end": 2.1,
+                    "probability": 0.9970173835754395
+                },
+                {
+                    "word": " a",
+                    "start": 2.1,
+                    "end": 2.44,
+                    "probability": 0.9958920478820801
+                },
+                {
+                    "word": " study",
+                    "start": 2.44,
+                    "end": 2.78,
+                    "probability": 0.9157528281211853
+                },
+                {
+                    "word": " on",
+                    "start": 2.78,
+                    "end": 2.98,
+                    "probability": 0.9932410717010498
+                },
+                {
+                    "word": " perception.",
+                    "start": 2.98,
+                    "end": 3.54,
+                    "probability": 0.9504768252372742
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

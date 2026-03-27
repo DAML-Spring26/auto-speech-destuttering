@@ -1,0 +1,59 @@
+{
+    "text": " she developed innovative teaching sectors.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.3,
+            "text": " she developed innovative teaching sectors.",
+            "tokens": [
+                50364,
+                750,
+                4743,
+                12999,
+                4571,
+                18373,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.481884585486518,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.010834341868758202,
+            "words": [
+                {
+                    "word": " she",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.5135726928710938
+                },
+                {
+                    "word": " developed",
+                    "start": 0.24,
+                    "end": 0.68,
+                    "probability": 0.9872457981109619
+                },
+                {
+                    "word": " innovative",
+                    "start": 0.68,
+                    "end": 1.14,
+                    "probability": 0.9674399495124817
+                },
+                {
+                    "word": " teaching",
+                    "start": 1.14,
+                    "end": 1.68,
+                    "probability": 0.9922498464584351
+                },
+                {
+                    "word": " sectors.",
+                    "start": 1.68,
+                    "end": 2.3,
+                    "probability": 0.8826410174369812
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

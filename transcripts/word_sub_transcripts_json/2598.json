@@ -1,0 +1,73 @@
+{
+    "text": " We should determine the test results carefully.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.2,
+            "text": " We should determine the test results carefully.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                6997,
+                264,
+                1500,
+                3542,
+                7500,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31910774924538354,
+            "compression_ratio": 0.8867924528301887,
+            "no_speech_prob": 0.003017716109752655,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7074971199035645
+                },
+                {
+                    "word": " should",
+                    "start": 0.12,
+                    "end": 0.3,
+                    "probability": 0.9988196492195129
+                },
+                {
+                    "word": " determine",
+                    "start": 0.3,
+                    "end": 0.76,
+                    "probability": 0.9977889060974121
+                },
+                {
+                    "word": " the",
+                    "start": 0.76,
+                    "end": 0.96,
+                    "probability": 0.9924456477165222
+                },
+                {
+                    "word": " test",
+                    "start": 0.96,
+                    "end": 1.22,
+                    "probability": 0.968559741973877
+                },
+                {
+                    "word": " results",
+                    "start": 1.22,
+                    "end": 1.62,
+                    "probability": 0.9933816194534302
+                },
+                {
+                    "word": " carefully.",
+                    "start": 1.62,
+                    "end": 2.2,
+                    "probability": 0.9984499216079712
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,59 @@
+{
+    "text": " we should remote sustainable development.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.1,
+            "text": " we should remote sustainable development.",
+            "tokens": [
+                50364,
+                321,
+                820,
+                8607,
+                11235,
+                3250,
+                13,
+                50491
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5312345292833116,
+            "compression_ratio": 0.8723404255319149,
+            "no_speech_prob": 0.003102747490629554,
+            "words": [
+                {
+                    "word": " we",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.47960829734802246
+                },
+                {
+                    "word": " should",
+                    "start": 0.12,
+                    "end": 0.28,
+                    "probability": 0.9941412806510925
+                },
+                {
+                    "word": " remote",
+                    "start": 0.28,
+                    "end": 0.6,
+                    "probability": 0.6045498251914978
+                },
+                {
+                    "word": " sustainable",
+                    "start": 0.6,
+                    "end": 1.34,
+                    "probability": 0.8429253697395325
+                },
+                {
+                    "word": " development.",
+                    "start": 1.34,
+                    "end": 2.1,
+                    "probability": 0.9980162382125854
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

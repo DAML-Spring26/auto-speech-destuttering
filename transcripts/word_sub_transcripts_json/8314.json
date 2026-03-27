@@ -1,0 +1,74 @@
+{
+    "text": " the patient exhibited symptoms of acute appendices.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.56,
+            "text": " the patient exhibited symptoms of acute appendices.",
+            "tokens": [
+                50364,
+                264,
+                4537,
+                49446,
+                8332,
+                295,
+                24390,
+                34116,
+                1473,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41048137346903485,
+            "compression_ratio": 0.8947368421052632,
+            "no_speech_prob": 0.004763362463563681,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5657874345779419
+                },
+                {
+                    "word": " patient",
+                    "start": 0.12,
+                    "end": 0.54,
+                    "probability": 0.9832941293716431
+                },
+                {
+                    "word": " exhibited",
+                    "start": 0.54,
+                    "end": 1.3,
+                    "probability": 0.9901266098022461
+                },
+                {
+                    "word": " symptoms",
+                    "start": 1.3,
+                    "end": 2.04,
+                    "probability": 0.9952605366706848
+                },
+                {
+                    "word": " of",
+                    "start": 2.04,
+                    "end": 2.38,
+                    "probability": 0.9965456128120422
+                },
+                {
+                    "word": " acute",
+                    "start": 2.38,
+                    "end": 2.76,
+                    "probability": 0.9756390452384949
+                },
+                {
+                    "word": " appendices.",
+                    "start": 2.76,
+                    "end": 3.56,
+                    "probability": 0.5851589068770409
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

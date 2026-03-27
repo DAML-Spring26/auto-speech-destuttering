@@ -1,0 +1,87 @@
+{
+    "text": " The new policy will be the implemented next quarter.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.68,
+            "text": " The new policy will be the implemented next quarter.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                3897,
+                486,
+                312,
+                264,
+                12270,
+                958,
+                6555,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32938469373262846,
+            "compression_ratio": 0.896551724137931,
+            "no_speech_prob": 0.00458268029615283,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8054633736610413
+                },
+                {
+                    "word": " new",
+                    "start": 0.14,
+                    "end": 0.38,
+                    "probability": 0.9817626476287842
+                },
+                {
+                    "word": " policy",
+                    "start": 0.38,
+                    "end": 0.94,
+                    "probability": 0.9821192026138306
+                },
+                {
+                    "word": " will",
+                    "start": 0.94,
+                    "end": 1.26,
+                    "probability": 0.9911028146743774
+                },
+                {
+                    "word": " be",
+                    "start": 1.26,
+                    "end": 1.68,
+                    "probability": 0.9931681156158447
+                },
+                {
+                    "word": " the",
+                    "start": 1.68,
+                    "end": 3.02,
+                    "probability": 0.4406346082687378
+                },
+                {
+                    "word": " implemented",
+                    "start": 3.02,
+                    "end": 3.66,
+                    "probability": 0.7336472868919373
+                },
+                {
+                    "word": " next",
+                    "start": 3.66,
+                    "end": 4.1,
+                    "probability": 0.8994465470314026
+                },
+                {
+                    "word": " quarter.",
+                    "start": 4.1,
+                    "end": 4.68,
+                    "probability": 0.9851881265640259
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

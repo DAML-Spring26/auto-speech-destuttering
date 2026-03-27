@@ -1,0 +1,80 @@
+{
+    "text": " They need to progress all applications by Friday.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.38,
+            "text": " They need to progress all applications by Friday.",
+            "tokens": [
+                50364,
+                814,
+                643,
+                281,
+                4205,
+                439,
+                5821,
+                538,
+                6984,
+                13,
+                50494
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3547568718592326,
+            "compression_ratio": 0.8596491228070176,
+            "no_speech_prob": 0.006812491454184055,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5740408301353455
+                },
+                {
+                    "word": " need",
+                    "start": 0.14,
+                    "end": 0.3,
+                    "probability": 0.9905030727386475
+                },
+                {
+                    "word": " to",
+                    "start": 0.3,
+                    "end": 0.44,
+                    "probability": 0.9982737302780151
+                },
+                {
+                    "word": " progress",
+                    "start": 0.44,
+                    "end": 0.74,
+                    "probability": 0.969144880771637
+                },
+                {
+                    "word": " all",
+                    "start": 0.74,
+                    "end": 1.0,
+                    "probability": 0.9333486557006836
+                },
+                {
+                    "word": " applications",
+                    "start": 1.0,
+                    "end": 1.6,
+                    "probability": 0.9937830567359924
+                },
+                {
+                    "word": " by",
+                    "start": 1.6,
+                    "end": 1.98,
+                    "probability": 0.9851627945899963
+                },
+                {
+                    "word": " Friday.",
+                    "start": 1.98,
+                    "end": 2.38,
+                    "probability": 0.9938027858734131
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,110 @@
+{
+    "text": " Would you like to sign up for our... ...Walteprogram?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " Would you like to sign up for our...",
+            "tokens": [
+                50364,
+                6068,
+                291,
+                411,
+                281,
+                1465,
+                493,
+                337,
+                527,
+                485,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5869105202811105,
+            "compression_ratio": 0.8983050847457628,
+            "no_speech_prob": 0.014991248026490211,
+            "words": [
+                {
+                    "word": " Would",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.8076161742210388
+                },
+                {
+                    "word": " you",
+                    "start": 0.18,
+                    "end": 0.26,
+                    "probability": 0.9947688579559326
+                },
+                {
+                    "word": " like",
+                    "start": 0.26,
+                    "end": 0.42,
+                    "probability": 0.9989631175994873
+                },
+                {
+                    "word": " to",
+                    "start": 0.42,
+                    "end": 0.62,
+                    "probability": 0.9983837604522705
+                },
+                {
+                    "word": " sign",
+                    "start": 0.62,
+                    "end": 0.9,
+                    "probability": 0.9981940388679504
+                },
+                {
+                    "word": " up",
+                    "start": 0.9,
+                    "end": 1.1,
+                    "probability": 0.9805386066436768
+                },
+                {
+                    "word": " for",
+                    "start": 1.1,
+                    "end": 1.32,
+                    "probability": 0.9976836442947388
+                },
+                {
+                    "word": " our...",
+                    "start": 1.32,
+                    "end": 2.0,
+                    "probability": 0.7505667805671692
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.5200000000000005,
+            "end": 5.94,
+            "text": " ...Walteprogram?",
+            "tokens": [
+                50614,
+                1097,
+                54,
+                3198,
+                595,
+                340,
+                1342,
+                30,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5869105202811105,
+            "compression_ratio": 0.8983050847457628,
+            "no_speech_prob": 0.014991248026490211,
+            "words": [
+                {
+                    "word": " ...Walteprogram?",
+                    "start": 5.5200000000000005,
+                    "end": 5.94,
+                    "probability": 0.5558647786577543
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

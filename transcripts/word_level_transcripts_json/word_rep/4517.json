@@ -1,0 +1,134 @@
+{
+    "text": " Although the project was challenging, the team successfully, successfully completed it on time.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.3,
+            "text": " Although the project was challenging, the team successfully, successfully completed",
+            "tokens": [
+                50364,
+                5780,
+                264,
+                1716,
+                390,
+                7595,
+                11,
+                264,
+                1469,
+                10727,
+                11,
+                10727,
+                7365,
+                50583
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3043286232721238,
+            "compression_ratio": 1.1728395061728396,
+            "no_speech_prob": 0.006577297113835812,
+            "words": [
+                {
+                    "word": " Although",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.7828665971755981
+                },
+                {
+                    "word": " the",
+                    "start": 0.28,
+                    "end": 0.46,
+                    "probability": 0.9703587889671326
+                },
+                {
+                    "word": " project",
+                    "start": 0.46,
+                    "end": 0.84,
+                    "probability": 0.9930267333984375
+                },
+                {
+                    "word": " was",
+                    "start": 0.84,
+                    "end": 1.04,
+                    "probability": 0.9808956980705261
+                },
+                {
+                    "word": " challenging,",
+                    "start": 1.04,
+                    "end": 1.5,
+                    "probability": 0.9983955025672913
+                },
+                {
+                    "word": " the",
+                    "start": 1.74,
+                    "end": 1.8,
+                    "probability": 0.9945900440216064
+                },
+                {
+                    "word": " team",
+                    "start": 1.8,
+                    "end": 1.96,
+                    "probability": 0.9896373748779297
+                },
+                {
+                    "word": " successfully,",
+                    "start": 1.96,
+                    "end": 2.68,
+                    "probability": 0.947051465511322
+                },
+                {
+                    "word": " successfully",
+                    "start": 2.96,
+                    "end": 3.8,
+                    "probability": 0.9816606044769287
+                },
+                {
+                    "word": " completed",
+                    "start": 3.8,
+                    "end": 4.3,
+                    "probability": 0.986056923866272
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.3,
+            "end": 4.9,
+            "text": " it on time.",
+            "tokens": [
+                50583,
+                309,
+                322,
+                565,
+                13,
+                50619
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3043286232721238,
+            "compression_ratio": 1.1728395061728396,
+            "no_speech_prob": 0.006577297113835812,
+            "words": [
+                {
+                    "word": " it",
+                    "start": 4.3,
+                    "end": 4.46,
+                    "probability": 0.46772491931915283
+                },
+                {
+                    "word": " on",
+                    "start": 4.46,
+                    "end": 4.54,
+                    "probability": 0.7417381405830383
+                },
+                {
+                    "word": " time.",
+                    "start": 4.54,
+                    "end": 4.9,
+                    "probability": 0.9970159530639648
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

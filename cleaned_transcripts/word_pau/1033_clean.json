@@ -1,11 +1,11 @@
 {
-    "text": " If you hear the fire alarm proceed calmly too. The nearest exit.",
+    "text": " If you hear the fire alarm proceed calmly too. Then near it.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 3.6,
+            "end": 3.5,
             "text": " If you hear the fire alarm proceed calmly too.",
             "tokens": [
                 50364,
@@ -19,31 +19,31 @@
                 39740,
                 886,
                 13,
-                50544
+                50539
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.6282464579532021,
-            "compression_ratio": 0.9411764705882353,
-            "no_speech_prob": 0.007271393667906523
+            "avg_logprob": -0.6309255800749126,
+            "compression_ratio": 0.9230769230769231,
+            "no_speech_prob": 0.009191039949655533
         },
         {
             "id": 1,
             "seek": 0,
-            "start": 6.92,
-            "end": 8.52,
-            "text": " The nearest exit.",
+            "start": 6.9,
+            "end": 7.9,
+            "text": " Then near it.",
             "tokens": [
-                50710,
-                440,
-                23831,
-                11043,
+                50709,
+                1396,
+                2651,
+                309,
                 13,
-                50790
+                50759
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.6282464579532021,
-            "compression_ratio": 0.9411764705882353,
-            "no_speech_prob": 0.007271393667906523
+            "avg_logprob": -0.6309255800749126,
+            "compression_ratio": 0.9230769230769231,
+            "no_speech_prob": 0.009191039949655533
         }
     ],
     "language": "en"

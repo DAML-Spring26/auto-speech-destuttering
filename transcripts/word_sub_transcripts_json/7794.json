@@ -1,0 +1,60 @@
+{
+    "text": " Quarterly earnings exceeded our predictions.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.46,
+            "text": " Quarterly earnings exceeded our predictions.",
+            "tokens": [
+                50364,
+                43794,
+                356,
+                20548,
+                38026,
+                527,
+                21264,
+                13,
+                50516
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3809026002883911,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.012581971473991871,
+            "words": [
+                {
+                    "word": " Quarterly",
+                    "start": 0.0,
+                    "end": 0.58,
+                    "probability": 0.8565299212932587
+                },
+                {
+                    "word": " earnings",
+                    "start": 0.58,
+                    "end": 0.94,
+                    "probability": 0.8668376207351685
+                },
+                {
+                    "word": " exceeded",
+                    "start": 0.94,
+                    "end": 1.6,
+                    "probability": 0.9939113855361938
+                },
+                {
+                    "word": " our",
+                    "start": 1.6,
+                    "end": 1.96,
+                    "probability": 0.9905850291252136
+                },
+                {
+                    "word": " predictions.",
+                    "start": 1.96,
+                    "end": 2.46,
+                    "probability": 0.9614856243133545
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

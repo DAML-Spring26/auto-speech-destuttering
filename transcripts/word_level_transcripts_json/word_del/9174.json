@@ -1,0 +1,102 @@
+{
+    "text": " The new software update should fix the bug you've been experiencing.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.78,
+            "text": " The new software update should fix the bug you've been experiencing.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                4722,
+                5623,
+                820,
+                3191,
+                264,
+                7426,
+                291,
+                600,
+                668,
+                11139,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2481200248003006,
+            "compression_ratio": 0.9444444444444444,
+            "no_speech_prob": 0.006662295665591955,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8445727229118347
+                },
+                {
+                    "word": " new",
+                    "start": 0.14,
+                    "end": 0.26,
+                    "probability": 0.8809210062026978
+                },
+                {
+                    "word": " software",
+                    "start": 0.26,
+                    "end": 0.66,
+                    "probability": 0.9513645172119141
+                },
+                {
+                    "word": " update",
+                    "start": 0.66,
+                    "end": 1.0,
+                    "probability": 0.9651436805725098
+                },
+                {
+                    "word": " should",
+                    "start": 1.0,
+                    "end": 1.18,
+                    "probability": 0.9967010617256165
+                },
+                {
+                    "word": " fix",
+                    "start": 1.18,
+                    "end": 1.42,
+                    "probability": 0.9864206314086914
+                },
+                {
+                    "word": " the",
+                    "start": 1.42,
+                    "end": 1.62,
+                    "probability": 0.9930208325386047
+                },
+                {
+                    "word": " bug",
+                    "start": 1.62,
+                    "end": 1.86,
+                    "probability": 0.6994512677192688
+                },
+                {
+                    "word": " you've",
+                    "start": 1.86,
+                    "end": 2.1,
+                    "probability": 0.9517839848995209
+                },
+                {
+                    "word": " been",
+                    "start": 2.1,
+                    "end": 2.16,
+                    "probability": 0.9992201328277588
+                },
+                {
+                    "word": " experiencing.",
+                    "start": 2.16,
+                    "end": 2.78,
+                    "probability": 0.9976773858070374
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

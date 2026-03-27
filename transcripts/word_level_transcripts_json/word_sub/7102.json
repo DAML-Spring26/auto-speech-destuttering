@@ -1,0 +1,80 @@
+{
+    "text": " The board will preview the annual financial report.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.86,
+            "text": " The board will preview the annual financial report.",
+            "tokens": [
+                50364,
+                440,
+                3150,
+                486,
+                14281,
+                264,
+                9784,
+                4669,
+                2275,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39363765716552734,
+            "compression_ratio": 0.9107142857142857,
+            "no_speech_prob": 0.002182995667681098,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.5767724514007568
+                },
+                {
+                    "word": " board",
+                    "start": 0.16,
+                    "end": 0.46,
+                    "probability": 0.7810220718383789
+                },
+                {
+                    "word": " will",
+                    "start": 0.46,
+                    "end": 0.82,
+                    "probability": 0.9966514706611633
+                },
+                {
+                    "word": " preview",
+                    "start": 0.82,
+                    "end": 1.18,
+                    "probability": 0.510772705078125
+                },
+                {
+                    "word": " the",
+                    "start": 1.18,
+                    "end": 1.42,
+                    "probability": 0.9814887642860413
+                },
+                {
+                    "word": " annual",
+                    "start": 1.42,
+                    "end": 1.8,
+                    "probability": 0.7543594837188721
+                },
+                {
+                    "word": " financial",
+                    "start": 1.8,
+                    "end": 2.42,
+                    "probability": 0.8618122339248657
+                },
+                {
+                    "word": " report.",
+                    "start": 2.42,
+                    "end": 2.86,
+                    "probability": 0.997308611869812
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

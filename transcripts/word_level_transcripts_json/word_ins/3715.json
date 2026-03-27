@@ -1,0 +1,87 @@
+{
+    "text": " Can you please forward the email to the team?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.2000000000000004,
+            "end": 3.98,
+            "text": " Can you please forward the email to the team?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                1767,
+                2128,
+                264,
+                3796,
+                281,
+                264,
+                1469,
+                30,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3549329684330867,
+            "compression_ratio": 0.9183673469387755,
+            "no_speech_prob": 0.06790906935930252,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 1.2000000000000004,
+                    "end": 1.8,
+                    "probability": 0.9252013564109802
+                },
+                {
+                    "word": " you",
+                    "start": 1.8,
+                    "end": 1.94,
+                    "probability": 0.9961806535720825
+                },
+                {
+                    "word": " please",
+                    "start": 1.94,
+                    "end": 2.26,
+                    "probability": 0.9956536293029785
+                },
+                {
+                    "word": " forward",
+                    "start": 2.26,
+                    "end": 2.64,
+                    "probability": 0.9779786467552185
+                },
+                {
+                    "word": " the",
+                    "start": 2.64,
+                    "end": 2.86,
+                    "probability": 0.9897380471229553
+                },
+                {
+                    "word": " email",
+                    "start": 2.86,
+                    "end": 3.24,
+                    "probability": 0.8617799282073975
+                },
+                {
+                    "word": " to",
+                    "start": 3.24,
+                    "end": 3.52,
+                    "probability": 0.9967285394668579
+                },
+                {
+                    "word": " the",
+                    "start": 3.52,
+                    "end": 3.64,
+                    "probability": 0.9940284490585327
+                },
+                {
+                    "word": " team?",
+                    "start": 3.64,
+                    "end": 3.98,
+                    "probability": 0.9886103272438049
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

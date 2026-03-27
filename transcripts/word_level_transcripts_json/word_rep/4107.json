@@ -1,0 +1,45 @@
+{
+    "text": " the sun shines.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.1,
+            "text": " the sun shines.",
+            "tokens": [
+                50364,
+                264,
+                3295,
+                28056,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5482093266078404,
+            "compression_ratio": 0.6521739130434783,
+            "no_speech_prob": 0.05221021547913551,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.6439911127090454
+                },
+                {
+                    "word": " sun",
+                    "start": 0.2,
+                    "end": 0.74,
+                    "probability": 0.6310927867889404
+                },
+                {
+                    "word": " shines.",
+                    "start": 0.74,
+                    "end": 1.1,
+                    "probability": 0.9903392195701599
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

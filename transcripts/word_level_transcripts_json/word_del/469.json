@@ -1,0 +1,73 @@
+{
+    "text": " How may I assist your account today?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.64,
+            "text": " How may I assist your account today?",
+            "tokens": [
+                50364,
+                1012,
+                815,
+                286,
+                4255,
+                428,
+                2696,
+                965,
+                30,
+                50454
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4849772886796431,
+            "compression_ratio": 0.8181818181818182,
+            "no_speech_prob": 0.011152759194374084,
+            "words": [
+                {
+                    "word": " How",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.2169148474931717
+                },
+                {
+                    "word": " may",
+                    "start": 0.18,
+                    "end": 0.32,
+                    "probability": 0.7999371886253357
+                },
+                {
+                    "word": " I",
+                    "start": 0.32,
+                    "end": 0.44,
+                    "probability": 0.9660453200340271
+                },
+                {
+                    "word": " assist",
+                    "start": 0.44,
+                    "end": 0.72,
+                    "probability": 0.9815353155136108
+                },
+                {
+                    "word": " your",
+                    "start": 0.72,
+                    "end": 1.04,
+                    "probability": 0.47726869583129883
+                },
+                {
+                    "word": " account",
+                    "start": 1.04,
+                    "end": 1.34,
+                    "probability": 0.8372617363929749
+                },
+                {
+                    "word": " today?",
+                    "start": 1.34,
+                    "end": 1.64,
+                    "probability": 0.9958289265632629
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

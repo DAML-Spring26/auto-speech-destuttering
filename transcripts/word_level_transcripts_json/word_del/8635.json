@@ -1,0 +1,87 @@
+{
+    "text": " She wondered she should apply for the job runner.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.86,
+            "text": " She wondered she should apply for the job runner.",
+            "tokens": [
+                50364,
+                1240,
+                17055,
+                750,
+                820,
+                3079,
+                337,
+                264,
+                1691,
+                24376,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21789341706496018,
+            "compression_ratio": 0.9074074074074074,
+            "no_speech_prob": 0.00504274433478713,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.759954571723938
+                },
+                {
+                    "word": " wondered",
+                    "start": 0.14,
+                    "end": 0.36,
+                    "probability": 0.8782176971435547
+                },
+                {
+                    "word": " she",
+                    "start": 0.36,
+                    "end": 0.56,
+                    "probability": 0.9765862226486206
+                },
+                {
+                    "word": " should",
+                    "start": 0.56,
+                    "end": 0.78,
+                    "probability": 0.9826000332832336
+                },
+                {
+                    "word": " apply",
+                    "start": 0.78,
+                    "end": 1.04,
+                    "probability": 0.9951946139335632
+                },
+                {
+                    "word": " for",
+                    "start": 1.04,
+                    "end": 1.28,
+                    "probability": 0.9952941536903381
+                },
+                {
+                    "word": " the",
+                    "start": 1.28,
+                    "end": 1.4,
+                    "probability": 0.9855006337165833
+                },
+                {
+                    "word": " job",
+                    "start": 1.4,
+                    "end": 1.64,
+                    "probability": 0.8723644614219666
+                },
+                {
+                    "word": " runner.",
+                    "start": 1.64,
+                    "end": 1.86,
+                    "probability": 0.7217846512794495
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

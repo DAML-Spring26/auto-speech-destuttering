@@ -1,0 +1,94 @@
+{
+    "text": " Either you or your brother to attend the family reunion.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.84,
+            "text": " Either you or your brother to attend the family reunion.",
+            "tokens": [
+                50364,
+                13746,
+                291,
+                420,
+                428,
+                3708,
+                281,
+                6888,
+                264,
+                1605,
+                34720,
+                13,
+                50516
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32906600407191683,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.00276323314756155,
+            "words": [
+                {
+                    "word": " Either",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.752252995967865
+                },
+                {
+                    "word": " you",
+                    "start": 0.3,
+                    "end": 0.5,
+                    "probability": 0.9792476892471313
+                },
+                {
+                    "word": " or",
+                    "start": 0.5,
+                    "end": 0.7,
+                    "probability": 0.8530060052871704
+                },
+                {
+                    "word": " your",
+                    "start": 0.7,
+                    "end": 0.86,
+                    "probability": 0.9960772395133972
+                },
+                {
+                    "word": " brother",
+                    "start": 0.86,
+                    "end": 1.18,
+                    "probability": 0.9914374947547913
+                },
+                {
+                    "word": " to",
+                    "start": 1.18,
+                    "end": 1.42,
+                    "probability": 0.6882500648498535
+                },
+                {
+                    "word": " attend",
+                    "start": 1.42,
+                    "end": 1.78,
+                    "probability": 0.997294008731842
+                },
+                {
+                    "word": " the",
+                    "start": 1.78,
+                    "end": 1.96,
+                    "probability": 0.956503689289093
+                },
+                {
+                    "word": " family",
+                    "start": 1.96,
+                    "end": 2.32,
+                    "probability": 0.6794450879096985
+                },
+                {
+                    "word": " reunion.",
+                    "start": 2.32,
+                    "end": 2.84,
+                    "probability": 0.9958237409591675
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

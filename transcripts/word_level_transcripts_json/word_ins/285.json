@@ -1,0 +1,97 @@
+{
+    "text": " Does anyone have questions about the assignment? Like",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.54,
+            "end": 4.74,
+            "text": " Does anyone have questions about the assignment?",
+            "tokens": [
+                50364,
+                4402,
+                2878,
+                362,
+                1651,
+                466,
+                264,
+                15187,
+                30,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36502228464399067,
+            "compression_ratio": 0.8833333333333333,
+            "no_speech_prob": 0.11050277203321457,
+            "words": [
+                {
+                    "word": " Does",
+                    "start": 1.54,
+                    "end": 2.34,
+                    "probability": 0.8131664395332336
+                },
+                {
+                    "word": " anyone",
+                    "start": 2.34,
+                    "end": 2.72,
+                    "probability": 0.9895785450935364
+                },
+                {
+                    "word": " have",
+                    "start": 2.72,
+                    "end": 3.08,
+                    "probability": 0.9986498951911926
+                },
+                {
+                    "word": " questions",
+                    "start": 3.08,
+                    "end": 3.6,
+                    "probability": 0.9667796492576599
+                },
+                {
+                    "word": " about",
+                    "start": 3.6,
+                    "end": 4.0,
+                    "probability": 0.996634304523468
+                },
+                {
+                    "word": " the",
+                    "start": 4.0,
+                    "end": 4.24,
+                    "probability": 0.9810716509819031
+                },
+                {
+                    "word": " assignment?",
+                    "start": 4.24,
+                    "end": 4.74,
+                    "probability": 0.9930780529975891
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.14,
+            "end": 6.38,
+            "text": " Like",
+            "tokens": [
+                50664,
+                1743,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36502228464399067,
+            "compression_ratio": 0.8833333333333333,
+            "no_speech_prob": 0.11050277203321457,
+            "words": [
+                {
+                    "word": " Like",
+                    "start": 6.14,
+                    "end": 6.38,
+                    "probability": 0.8568541407585144
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

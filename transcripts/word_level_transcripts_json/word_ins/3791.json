@@ -1,0 +1,87 @@
+{
+    "text": " We should plan a trip together sometime soon the...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.64,
+            "text": " We should plan a trip together sometime soon the...",
+            "tokens": [
+                50364,
+                492,
+                820,
+                1393,
+                257,
+                4931,
+                1214,
+                15053,
+                2321,
+                264,
+                485,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47994826390193057,
+            "compression_ratio": 0.8947368421052632,
+            "no_speech_prob": 0.10236071795225143,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 1.14,
+                    "probability": 0.8590834736824036
+                },
+                {
+                    "word": " should",
+                    "start": 1.14,
+                    "end": 1.32,
+                    "probability": 0.997124969959259
+                },
+                {
+                    "word": " plan",
+                    "start": 1.32,
+                    "end": 1.58,
+                    "probability": 0.9845890402793884
+                },
+                {
+                    "word": " a",
+                    "start": 1.58,
+                    "end": 1.72,
+                    "probability": 0.9942195415496826
+                },
+                {
+                    "word": " trip",
+                    "start": 1.72,
+                    "end": 1.92,
+                    "probability": 0.999327540397644
+                },
+                {
+                    "word": " together",
+                    "start": 1.92,
+                    "end": 2.34,
+                    "probability": 0.9961434602737427
+                },
+                {
+                    "word": " sometime",
+                    "start": 2.34,
+                    "end": 2.78,
+                    "probability": 0.7031585574150085
+                },
+                {
+                    "word": " soon",
+                    "start": 2.78,
+                    "end": 3.32,
+                    "probability": 0.9955652356147766
+                },
+                {
+                    "word": " the...",
+                    "start": 3.32,
+                    "end": 3.64,
+                    "probability": 0.4990851730108261
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,102 @@
+{
+    "text": " We need to improve our response time to your customer inquiries.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.08,
+            "text": " We need to improve our response time to your customer inquiries.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                3470,
+                527,
+                4134,
+                565,
+                281,
+                428,
+                5474,
+                13570,
+                38619,
+                13,
+                50636
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.43393781781196594,
+            "compression_ratio": 1.0158730158730158,
+            "no_speech_prob": 0.004389088600873947,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6773995161056519
+                },
+                {
+                    "word": " need",
+                    "start": 0.16,
+                    "end": 0.3,
+                    "probability": 0.9939135909080505
+                },
+                {
+                    "word": " to",
+                    "start": 0.3,
+                    "end": 0.46,
+                    "probability": 0.9969883561134338
+                },
+                {
+                    "word": " improve",
+                    "start": 0.46,
+                    "end": 0.8,
+                    "probability": 0.9398794174194336
+                },
+                {
+                    "word": " our",
+                    "start": 0.8,
+                    "end": 1.02,
+                    "probability": 0.9315659403800964
+                },
+                {
+                    "word": " response",
+                    "start": 1.02,
+                    "end": 1.44,
+                    "probability": 0.9532970786094666
+                },
+                {
+                    "word": " time",
+                    "start": 1.44,
+                    "end": 1.76,
+                    "probability": 0.5345664024353027
+                },
+                {
+                    "word": " to",
+                    "start": 1.76,
+                    "end": 1.96,
+                    "probability": 0.5686829686164856
+                },
+                {
+                    "word": " your",
+                    "start": 1.96,
+                    "end": 2.08,
+                    "probability": 0.7088233232498169
+                },
+                {
+                    "word": " customer",
+                    "start": 2.08,
+                    "end": 4.4,
+                    "probability": 0.4289519786834717
+                },
+                {
+                    "word": " inquiries.",
+                    "start": 4.4,
+                    "end": 5.08,
+                    "probability": 0.8856071829795837
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

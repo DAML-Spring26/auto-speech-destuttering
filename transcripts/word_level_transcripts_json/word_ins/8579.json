@@ -1,0 +1,109 @@
+{
+    "text": " We need to finalize the budget before the end of the week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.7600000000000013,
+            "end": 6.78,
+            "text": " We need to finalize the budget before the end of the week.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                2572,
+                1125,
+                264,
+                4706,
+                949,
+                264,
+                917,
+                295,
+                264,
+                1243,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2659752789665671,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.11733652651309967,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.7600000000000013,
+                    "end": 1.24,
+                    "probability": 0.7443076372146606
+                },
+                {
+                    "word": " need",
+                    "start": 1.24,
+                    "end": 1.42,
+                    "probability": 0.9933130145072937
+                },
+                {
+                    "word": " to",
+                    "start": 1.42,
+                    "end": 1.6,
+                    "probability": 0.998624324798584
+                },
+                {
+                    "word": " finalize",
+                    "start": 1.6,
+                    "end": 2.26,
+                    "probability": 0.9346418678760529
+                },
+                {
+                    "word": " the",
+                    "start": 2.26,
+                    "end": 2.38,
+                    "probability": 0.9907166361808777
+                },
+                {
+                    "word": " budget",
+                    "start": 2.38,
+                    "end": 2.74,
+                    "probability": 0.9890344142913818
+                },
+                {
+                    "word": " before",
+                    "start": 2.74,
+                    "end": 5.72,
+                    "probability": 0.8430739045143127
+                },
+                {
+                    "word": " the",
+                    "start": 5.72,
+                    "end": 6.0,
+                    "probability": 0.9973804354667664
+                },
+                {
+                    "word": " end",
+                    "start": 6.0,
+                    "end": 6.24,
+                    "probability": 0.9954907298088074
+                },
+                {
+                    "word": " of",
+                    "start": 6.24,
+                    "end": 6.44,
+                    "probability": 0.9976275563240051
+                },
+                {
+                    "word": " the",
+                    "start": 6.44,
+                    "end": 6.58,
+                    "probability": 0.9955818057060242
+                },
+                {
+                    "word": " week.",
+                    "start": 6.58,
+                    "end": 6.78,
+                    "probability": 0.9981111288070679
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

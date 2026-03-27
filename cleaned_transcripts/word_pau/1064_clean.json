@@ -1,49 +1,21 @@
 {
-    "text": " Would you mind picking up? The dry cleaning on your way home.",
+    "text": " with",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 3.84,
-            "text": " Would you mind picking up?",
+            "end": 2.0,
+            "text": " with",
             "tokens": [
                 50364,
-                6068,
-                291,
-                1575,
-                8867,
-                493,
-                30,
-                50556
+                365,
+                50464
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.4161618383307206,
-            "compression_ratio": 0.9384615384615385,
-            "no_speech_prob": 0.0062840464524924755
-        },
-        {
-            "id": 1,
-            "seek": 0,
-            "start": 3.84,
-            "end": 5.84,
-            "text": " The dry cleaning on your way home.",
-            "tokens": [
-                50556,
-                440,
-                4016,
-                8924,
-                322,
-                428,
-                636,
-                1280,
-                13,
-                50656
-            ],
-            "temperature": 0.0,
-            "avg_logprob": -0.4161618383307206,
-            "compression_ratio": 0.9384615384615385,
-            "no_speech_prob": 0.0062840464524924755
+            "avg_logprob": -0.7625637054443359,
+            "compression_ratio": 0.3333333333333333,
+            "no_speech_prob": 0.3959558308124542
         }
     ],
     "language": "en"

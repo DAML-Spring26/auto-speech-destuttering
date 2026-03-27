@@ -1,0 +1,82 @@
+{
+    "text": " The company's stock prices fluctuated dramatically the spoiler.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.28,
+            "text": " The company's stock prices fluctuated dramatically the spoiler.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                4127,
+                7901,
+                23448,
+                27275,
+                17548,
+                264,
+                26927,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.46492488043648855,
+            "compression_ratio": 0.9264705882352942,
+            "no_speech_prob": 0.0027351926546543837,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.630183756351471
+                },
+                {
+                    "word": " company's",
+                    "start": 0.12,
+                    "end": 0.64,
+                    "probability": 0.9084517359733582
+                },
+                {
+                    "word": " stock",
+                    "start": 0.64,
+                    "end": 0.86,
+                    "probability": 0.9983868598937988
+                },
+                {
+                    "word": " prices",
+                    "start": 0.86,
+                    "end": 1.44,
+                    "probability": 0.6772574782371521
+                },
+                {
+                    "word": " fluctuated",
+                    "start": 1.44,
+                    "end": 2.16,
+                    "probability": 0.9801086485385895
+                },
+                {
+                    "word": " dramatically",
+                    "start": 2.16,
+                    "end": 2.62,
+                    "probability": 0.9902464151382446
+                },
+                {
+                    "word": " the",
+                    "start": 2.62,
+                    "end": 2.96,
+                    "probability": 0.740831196308136
+                },
+                {
+                    "word": " spoiler.",
+                    "start": 2.96,
+                    "end": 3.28,
+                    "probability": 0.25847071409225464
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

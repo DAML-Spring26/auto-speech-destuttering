@@ -1,0 +1,52 @@
+{
+    "text": " Please submit required determination.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.1,
+            "text": " Please submit required determination.",
+            "tokens": [
+                50364,
+                2555,
+                10315,
+                4739,
+                18432,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5052430629730225,
+            "compression_ratio": 0.8222222222222222,
+            "no_speech_prob": 0.015649544075131416,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.7061929106712341
+                },
+                {
+                    "word": " submit",
+                    "start": 0.22,
+                    "end": 0.7,
+                    "probability": 0.9630408883094788
+                },
+                {
+                    "word": " required",
+                    "start": 0.7,
+                    "end": 1.32,
+                    "probability": 0.8144338726997375
+                },
+                {
+                    "word": " determination.",
+                    "start": 1.32,
+                    "end": 2.1,
+                    "probability": 0.9447709321975708
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

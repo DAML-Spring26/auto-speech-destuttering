@@ -1,0 +1,73 @@
+{
+    "text": " The software update will enhance system preference.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.6,
+            "text": " The software update will enhance system preference.",
+            "tokens": [
+                50364,
+                440,
+                4722,
+                5623,
+                486,
+                11985,
+                1185,
+                17502,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31122788515957917,
+            "compression_ratio": 0.9107142857142857,
+            "no_speech_prob": 0.0026161763817071915,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8362522721290588
+                },
+                {
+                    "word": " software",
+                    "start": 0.12,
+                    "end": 0.52,
+                    "probability": 0.9171018004417419
+                },
+                {
+                    "word": " update",
+                    "start": 0.52,
+                    "end": 0.96,
+                    "probability": 0.9708961844444275
+                },
+                {
+                    "word": " will",
+                    "start": 0.96,
+                    "end": 1.24,
+                    "probability": 0.9982978701591492
+                },
+                {
+                    "word": " enhance",
+                    "start": 1.24,
+                    "end": 1.6,
+                    "probability": 0.973301112651825
+                },
+                {
+                    "word": " system",
+                    "start": 1.6,
+                    "end": 2.16,
+                    "probability": 0.9442375302314758
+                },
+                {
+                    "word": " preference.",
+                    "start": 2.16,
+                    "end": 2.6,
+                    "probability": 0.9889121055603027
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

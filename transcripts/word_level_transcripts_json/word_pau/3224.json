@@ -1,0 +1,95 @@
+{
+    "text": " Could you provide more information about the company's expansion plans?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.7,
+            "text": " Could you provide more information about the company's expansion plans?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                2893,
+                544,
+                1589,
+                466,
+                264,
+                2237,
+                311,
+                11260,
+                5482,
+                30,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2763291676839193,
+            "compression_ratio": 0.9861111111111112,
+            "no_speech_prob": 0.014489940367639065,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.8592021465301514
+                },
+                {
+                    "word": " you",
+                    "start": 0.1,
+                    "end": 0.22,
+                    "probability": 0.9985658526420593
+                },
+                {
+                    "word": " provide",
+                    "start": 0.22,
+                    "end": 0.58,
+                    "probability": 0.9918357729911804
+                },
+                {
+                    "word": " more",
+                    "start": 0.58,
+                    "end": 0.86,
+                    "probability": 0.9955973029136658
+                },
+                {
+                    "word": " information",
+                    "start": 0.86,
+                    "end": 1.68,
+                    "probability": 0.9947863817214966
+                },
+                {
+                    "word": " about",
+                    "start": 1.68,
+                    "end": 2.18,
+                    "probability": 0.9960190653800964
+                },
+                {
+                    "word": " the",
+                    "start": 2.18,
+                    "end": 3.78,
+                    "probability": 0.6312236785888672
+                },
+                {
+                    "word": " company's",
+                    "start": 3.78,
+                    "end": 4.48,
+                    "probability": 0.9360693395137787
+                },
+                {
+                    "word": " expansion",
+                    "start": 4.48,
+                    "end": 5.1,
+                    "probability": 0.9946005344390869
+                },
+                {
+                    "word": " plans?",
+                    "start": 5.1,
+                    "end": 5.7,
+                    "probability": 0.9904610514640808
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,80 @@
+{
+    "text": " the attorney presented compelling evidence to the journey.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.6,
+            "text": " the attorney presented compelling evidence to the journey.",
+            "tokens": [
+                50364,
+                264,
+                13469,
+                8212,
+                20050,
+                4467,
+                281,
+                264,
+                4671,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40326738357543945,
+            "compression_ratio": 0.9508196721311475,
+            "no_speech_prob": 0.007439443375915289,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5616724491119385
+                },
+                {
+                    "word": " attorney",
+                    "start": 0.12,
+                    "end": 0.4,
+                    "probability": 0.35528573393821716
+                },
+                {
+                    "word": " presented",
+                    "start": 0.4,
+                    "end": 0.9,
+                    "probability": 0.9807299375534058
+                },
+                {
+                    "word": " compelling",
+                    "start": 0.9,
+                    "end": 1.44,
+                    "probability": 0.9782128930091858
+                },
+                {
+                    "word": " evidence",
+                    "start": 1.44,
+                    "end": 1.88,
+                    "probability": 0.9977721571922302
+                },
+                {
+                    "word": " to",
+                    "start": 1.88,
+                    "end": 2.14,
+                    "probability": 0.9930056929588318
+                },
+                {
+                    "word": " the",
+                    "start": 2.14,
+                    "end": 2.22,
+                    "probability": 0.9906152486801147
+                },
+                {
+                    "word": " journey.",
+                    "start": 2.22,
+                    "end": 2.6,
+                    "probability": 0.8135294318199158
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

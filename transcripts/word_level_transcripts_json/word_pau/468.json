@@ -1,0 +1,126 @@
+{
+    "text": " if you notice. Any suspicious activity report it to the authorities immediately.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.92,
+            "text": " if you notice.",
+            "tokens": [
+                50364,
+                498,
+                291,
+                3449,
+                13,
+                50608
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4218061848690635,
+            "compression_ratio": 1.095890410958904,
+            "no_speech_prob": 0.022569091990590096,
+            "words": [
+                {
+                    "word": " if",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.45345327258110046
+                },
+                {
+                    "word": " you",
+                    "start": 0.18,
+                    "end": 0.26,
+                    "probability": 0.9870038628578186
+                },
+                {
+                    "word": " notice.",
+                    "start": 0.26,
+                    "end": 0.92,
+                    "probability": 0.980311393737793
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.88,
+            "end": 9.14,
+            "text": " Any suspicious activity report it to the authorities immediately.",
+            "tokens": [
+                50608,
+                2639,
+                17931,
+                5191,
+                2275,
+                309,
+                281,
+                264,
+                12076,
+                4258,
+                13,
+                50836
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4218061848690635,
+            "compression_ratio": 1.095890410958904,
+            "no_speech_prob": 0.022569091990590096,
+            "words": [
+                {
+                    "word": " Any",
+                    "start": 4.47,
+                    "end": 5.0,
+                    "probability": 0.8404328227043152
+                },
+                {
+                    "word": " suspicious",
+                    "start": 5.0,
+                    "end": 5.62,
+                    "probability": 0.9787359833717346
+                },
+                {
+                    "word": " activity",
+                    "start": 5.62,
+                    "end": 6.48,
+                    "probability": 0.9509522914886475
+                },
+                {
+                    "word": " report",
+                    "start": 6.48,
+                    "end": 7.14,
+                    "probability": 0.817663311958313
+                },
+                {
+                    "word": " it",
+                    "start": 7.14,
+                    "end": 7.48,
+                    "probability": 0.9717128872871399
+                },
+                {
+                    "word": " to",
+                    "start": 7.48,
+                    "end": 7.72,
+                    "probability": 0.9941184520721436
+                },
+                {
+                    "word": " the",
+                    "start": 7.72,
+                    "end": 7.88,
+                    "probability": 0.9884101152420044
+                },
+                {
+                    "word": " authorities",
+                    "start": 7.88,
+                    "end": 8.42,
+                    "probability": 0.9818826913833618
+                },
+                {
+                    "word": " immediately.",
+                    "start": 8.42,
+                    "end": 9.14,
+                    "probability": 0.9893265962600708
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

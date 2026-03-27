@@ -1,0 +1,117 @@
+{
+    "text": " The movie was so boring, I fell asleep halfway through a misty ending.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.06,
+            "text": " The movie was so boring, I fell asleep halfway through a misty ending.",
+            "tokens": [
+                50364,
+                440,
+                3169,
+                390,
+                370,
+                9989,
+                11,
+                286,
+                5696,
+                11039,
+                15461,
+                807,
+                257,
+                3544,
+                88,
+                8121,
+                13,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31859867196334035,
+            "compression_ratio": 0.958904109589041,
+            "no_speech_prob": 0.006019240245223045,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.832865834236145
+                },
+                {
+                    "word": " movie",
+                    "start": 0.12,
+                    "end": 0.4,
+                    "probability": 0.9940674304962158
+                },
+                {
+                    "word": " was",
+                    "start": 0.4,
+                    "end": 0.58,
+                    "probability": 0.9961276650428772
+                },
+                {
+                    "word": " so",
+                    "start": 0.58,
+                    "end": 0.76,
+                    "probability": 0.9939425587654114
+                },
+                {
+                    "word": " boring,",
+                    "start": 0.76,
+                    "end": 1.02,
+                    "probability": 0.9959099292755127
+                },
+                {
+                    "word": " I",
+                    "start": 1.2,
+                    "end": 1.2,
+                    "probability": 0.9008894562721252
+                },
+                {
+                    "word": " fell",
+                    "start": 1.2,
+                    "end": 1.42,
+                    "probability": 0.95867919921875
+                },
+                {
+                    "word": " asleep",
+                    "start": 1.42,
+                    "end": 1.68,
+                    "probability": 0.9975294470787048
+                },
+                {
+                    "word": " halfway",
+                    "start": 1.68,
+                    "end": 2.06,
+                    "probability": 0.6862640380859375
+                },
+                {
+                    "word": " through",
+                    "start": 2.06,
+                    "end": 2.32,
+                    "probability": 0.9976633787155151
+                },
+                {
+                    "word": " a",
+                    "start": 2.32,
+                    "end": 2.4,
+                    "probability": 0.783294677734375
+                },
+                {
+                    "word": " misty",
+                    "start": 2.4,
+                    "end": 2.74,
+                    "probability": 0.7251410037279129
+                },
+                {
+                    "word": " ending.",
+                    "start": 2.74,
+                    "end": 3.06,
+                    "probability": 0.9955037236213684
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

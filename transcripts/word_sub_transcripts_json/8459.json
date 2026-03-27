@@ -1,0 +1,81 @@
+{
+    "text": " The rest John's ambulance enhances the dining experience.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.54,
+            "text": " The rest John's ambulance enhances the dining experience.",
+            "tokens": [
+                50364,
+                440,
+                1472,
+                2619,
+                311,
+                26744,
+                46628,
+                264,
+                17874,
+                1752,
+                13,
+                50510
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5623146570645846,
+            "compression_ratio": 0.95,
+            "no_speech_prob": 0.00496743805706501,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8022982478141785
+                },
+                {
+                    "word": " rest",
+                    "start": 0.12,
+                    "end": 0.3,
+                    "probability": 0.5652904510498047
+                },
+                {
+                    "word": " John's",
+                    "start": 0.3,
+                    "end": 0.7,
+                    "probability": 0.5480337366461754
+                },
+                {
+                    "word": " ambulance",
+                    "start": 0.7,
+                    "end": 1.0,
+                    "probability": 0.7577495574951172
+                },
+                {
+                    "word": " enhances",
+                    "start": 1.0,
+                    "end": 1.58,
+                    "probability": 0.9298248291015625
+                },
+                {
+                    "word": " the",
+                    "start": 1.58,
+                    "end": 1.82,
+                    "probability": 0.9923431277275085
+                },
+                {
+                    "word": " dining",
+                    "start": 1.82,
+                    "end": 2.04,
+                    "probability": 0.4288465976715088
+                },
+                {
+                    "word": " experience.",
+                    "start": 2.04,
+                    "end": 2.54,
+                    "probability": 0.9959596991539001
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,88 @@
+{
+    "text": " She's been working on this project for 6 months.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.7,
+            "text": " She's been working on this project for 6 months.",
+            "tokens": [
+                50364,
+                1240,
+                311,
+                668,
+                1364,
+                322,
+                341,
+                1716,
+                337,
+                1386,
+                2493,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4407454899379185,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.005635601468384266,
+            "words": [
+                {
+                    "word": " She's",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.8307220935821533
+                },
+                {
+                    "word": " been",
+                    "start": 0.3,
+                    "end": 0.48,
+                    "probability": 0.992542028427124
+                },
+                {
+                    "word": " working",
+                    "start": 0.48,
+                    "end": 0.86,
+                    "probability": 0.995524525642395
+                },
+                {
+                    "word": " on",
+                    "start": 0.86,
+                    "end": 1.06,
+                    "probability": 0.9957919120788574
+                },
+                {
+                    "word": " this",
+                    "start": 1.06,
+                    "end": 1.24,
+                    "probability": 0.9742351770401001
+                },
+                {
+                    "word": " project",
+                    "start": 1.24,
+                    "end": 1.62,
+                    "probability": 0.9743319153785706
+                },
+                {
+                    "word": " for",
+                    "start": 1.62,
+                    "end": 1.96,
+                    "probability": 0.9836516976356506
+                },
+                {
+                    "word": " 6",
+                    "start": 1.96,
+                    "end": 3.42,
+                    "probability": 0.23762744665145874
+                },
+                {
+                    "word": " months.",
+                    "start": 3.42,
+                    "end": 4.7,
+                    "probability": 0.9837284684181213
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

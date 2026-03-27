@@ -1,0 +1,95 @@
+{
+    "text": " The car front's schedule for next week has been postponed.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.44,
+            "text": " The car front's schedule for next week has been postponed.",
+            "tokens": [
+                50364,
+                440,
+                1032,
+                1868,
+                311,
+                7567,
+                337,
+                958,
+                1243,
+                575,
+                668,
+                49023,
+                13,
+                50496
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37890828450520836,
+            "compression_ratio": 0.90625,
+            "no_speech_prob": 0.013429859653115273,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.8532246947288513
+                },
+                {
+                    "word": " car",
+                    "start": 0.1,
+                    "end": 0.26,
+                    "probability": 0.9260151982307434
+                },
+                {
+                    "word": " front's",
+                    "start": 0.26,
+                    "end": 0.72,
+                    "probability": 0.4385840520262718
+                },
+                {
+                    "word": " schedule",
+                    "start": 0.72,
+                    "end": 1.28,
+                    "probability": 0.9598532915115356
+                },
+                {
+                    "word": " for",
+                    "start": 1.28,
+                    "end": 1.46,
+                    "probability": 0.9685266613960266
+                },
+                {
+                    "word": " next",
+                    "start": 1.46,
+                    "end": 1.6,
+                    "probability": 0.9927552342414856
+                },
+                {
+                    "word": " week",
+                    "start": 1.6,
+                    "end": 1.8,
+                    "probability": 0.9925011992454529
+                },
+                {
+                    "word": " has",
+                    "start": 1.8,
+                    "end": 1.98,
+                    "probability": 0.984062135219574
+                },
+                {
+                    "word": " been",
+                    "start": 1.98,
+                    "end": 2.08,
+                    "probability": 0.9965907335281372
+                },
+                {
+                    "word": " postponed.",
+                    "start": 2.08,
+                    "end": 2.44,
+                    "probability": 0.8640368580818176
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

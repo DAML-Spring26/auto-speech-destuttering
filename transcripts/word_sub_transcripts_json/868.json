@@ -1,0 +1,59 @@
+{
+    "text": " Please permit your application online.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.58,
+            "text": " Please permit your application online.",
+            "tokens": [
+                50364,
+                2555,
+                13423,
+                428,
+                3861,
+                2950,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.307501130633884,
+            "compression_ratio": 0.8260869565217391,
+            "no_speech_prob": 0.004471429158002138,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7894526720046997
+                },
+                {
+                    "word": " permit",
+                    "start": 0.14,
+                    "end": 0.5,
+                    "probability": 0.946086585521698
+                },
+                {
+                    "word": " your",
+                    "start": 0.5,
+                    "end": 0.64,
+                    "probability": 0.9903942942619324
+                },
+                {
+                    "word": " application",
+                    "start": 0.64,
+                    "end": 1.02,
+                    "probability": 0.9852136969566345
+                },
+                {
+                    "word": " online.",
+                    "start": 1.02,
+                    "end": 1.58,
+                    "probability": 0.989841639995575
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

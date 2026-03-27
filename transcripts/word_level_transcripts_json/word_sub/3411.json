@@ -1,0 +1,66 @@
+{
+    "text": " the research paper explored cognitive deployment.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.8,
+            "text": " the research paper explored cognitive deployment.",
+            "tokens": [
+                50364,
+                264,
+                2132,
+                3035,
+                24016,
+                15605,
+                19317,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4684363842010498,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.006434971932321787,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.48052921891212463
+                },
+                {
+                    "word": " research",
+                    "start": 0.12,
+                    "end": 0.5,
+                    "probability": 0.8518366813659668
+                },
+                {
+                    "word": " paper",
+                    "start": 0.5,
+                    "end": 1.0,
+                    "probability": 0.9451714158058167
+                },
+                {
+                    "word": " explored",
+                    "start": 1.0,
+                    "end": 1.6,
+                    "probability": 0.9253883957862854
+                },
+                {
+                    "word": " cognitive",
+                    "start": 1.6,
+                    "end": 2.1,
+                    "probability": 0.9290439486503601
+                },
+                {
+                    "word": " deployment.",
+                    "start": 2.1,
+                    "end": 2.8,
+                    "probability": 0.9167234301567078
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

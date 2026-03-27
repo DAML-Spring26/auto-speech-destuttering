@@ -1,0 +1,52 @@
+{
+    "text": " She paints paints creatively.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.42,
+            "text": " She paints paints creatively.",
+            "tokens": [
+                50364,
+                1240,
+                28076,
+                28076,
+                43750,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5116300582885742,
+            "compression_ratio": 0.9666666666666667,
+            "no_speech_prob": 0.0053656077943742275,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.7418640851974487
+                },
+                {
+                    "word": " paints",
+                    "start": 0.2,
+                    "end": 0.56,
+                    "probability": 0.950292706489563
+                },
+                {
+                    "word": " paints",
+                    "start": 0.56,
+                    "end": 0.84,
+                    "probability": 0.5176640152931213
+                },
+                {
+                    "word": " creatively.",
+                    "start": 0.84,
+                    "end": 1.42,
+                    "probability": 0.990050733089447
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,126 @@
+{
+    "text": " The nurse will be with you shortly to discuss. Your test results.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.4,
+            "text": " The nurse will be with you shortly to discuss.",
+            "tokens": [
+                50364,
+                440,
+                14012,
+                486,
+                312,
+                365,
+                291,
+                13392,
+                281,
+                2248,
+                13,
+                50499
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4695612254895662,
+            "compression_ratio": 0.9848484848484849,
+            "no_speech_prob": 0.0050389114767313,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7306653261184692
+                },
+                {
+                    "word": " nurse",
+                    "start": 0.14,
+                    "end": 0.34,
+                    "probability": 0.9774405360221863
+                },
+                {
+                    "word": " will",
+                    "start": 0.34,
+                    "end": 0.56,
+                    "probability": 0.9977579712867737
+                },
+                {
+                    "word": " be",
+                    "start": 0.56,
+                    "end": 0.78,
+                    "probability": 0.9922175407409668
+                },
+                {
+                    "word": " with",
+                    "start": 0.78,
+                    "end": 1.0,
+                    "probability": 0.9971477389335632
+                },
+                {
+                    "word": " you",
+                    "start": 1.0,
+                    "end": 1.16,
+                    "probability": 0.9966616630554199
+                },
+                {
+                    "word": " shortly",
+                    "start": 1.16,
+                    "end": 1.52,
+                    "probability": 0.9976736903190613
+                },
+                {
+                    "word": " to",
+                    "start": 1.52,
+                    "end": 1.86,
+                    "probability": 0.9677161574363708
+                },
+                {
+                    "word": " discuss.",
+                    "start": 1.86,
+                    "end": 2.4,
+                    "probability": 0.9974997639656067
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.160000000000001,
+            "end": 6.46,
+            "text": " Your test results.",
+            "tokens": [
+                50644,
+                2260,
+                1500,
+                3542,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4695612254895662,
+            "compression_ratio": 0.9848484848484849,
+            "no_speech_prob": 0.0050389114767313,
+            "words": [
+                {
+                    "word": " Your",
+                    "start": 5.160000000000001,
+                    "end": 5.78,
+                    "probability": 0.7278379797935486
+                },
+                {
+                    "word": " test",
+                    "start": 5.78,
+                    "end": 6.06,
+                    "probability": 0.687293529510498
+                },
+                {
+                    "word": " results.",
+                    "start": 6.06,
+                    "end": 6.46,
+                    "probability": 0.9965257048606873
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

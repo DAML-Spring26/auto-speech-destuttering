@@ -1,0 +1,95 @@
+{
+    "text": " We should discuss the budget allocation for next year's products.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.84,
+            "text": " We should discuss the budget allocation for next year's products.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                2248,
+                264,
+                4706,
+                27599,
+                337,
+                958,
+                1064,
+                311,
+                3383,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30969359079996744,
+            "compression_ratio": 0.9701492537313433,
+            "no_speech_prob": 0.0055501400493085384,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6017960906028748
+                },
+                {
+                    "word": " should",
+                    "start": 0.1,
+                    "end": 0.22,
+                    "probability": 0.9967185854911804
+                },
+                {
+                    "word": " discuss",
+                    "start": 0.22,
+                    "end": 0.78,
+                    "probability": 0.9943179488182068
+                },
+                {
+                    "word": " the",
+                    "start": 0.78,
+                    "end": 1.8,
+                    "probability": 0.917582094669342
+                },
+                {
+                    "word": " budget",
+                    "start": 1.8,
+                    "end": 4.6,
+                    "probability": 0.8753236532211304
+                },
+                {
+                    "word": " allocation",
+                    "start": 4.6,
+                    "end": 5.3,
+                    "probability": 0.9973028898239136
+                },
+                {
+                    "word": " for",
+                    "start": 5.3,
+                    "end": 5.66,
+                    "probability": 0.9963860511779785
+                },
+                {
+                    "word": " next",
+                    "start": 5.66,
+                    "end": 5.84,
+                    "probability": 0.9910673499107361
+                },
+                {
+                    "word": " year's",
+                    "start": 5.84,
+                    "end": 6.4,
+                    "probability": 0.9825765192508698
+                },
+                {
+                    "word": " products.",
+                    "start": 6.4,
+                    "end": 6.84,
+                    "probability": 0.9025899767875671
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

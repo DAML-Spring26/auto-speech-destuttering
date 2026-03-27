@@ -1,0 +1,87 @@
+{
+    "text": " We should the new neighbours over for coffee sometime.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.04,
+            "text": " We should the new neighbours over for coffee sometime.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                264,
+                777,
+                35548,
+                670,
+                337,
+                4982,
+                15053,
+                13,
+                50480
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40253763932448167,
+            "compression_ratio": 0.9152542372881356,
+            "no_speech_prob": 0.002037371275946498,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7311103940010071
+                },
+                {
+                    "word": " should",
+                    "start": 0.12,
+                    "end": 0.24,
+                    "probability": 0.8509230017662048
+                },
+                {
+                    "word": " the",
+                    "start": 0.24,
+                    "end": 0.36,
+                    "probability": 0.49591994285583496
+                },
+                {
+                    "word": " new",
+                    "start": 0.36,
+                    "end": 0.52,
+                    "probability": 0.9777073860168457
+                },
+                {
+                    "word": " neighbours",
+                    "start": 0.52,
+                    "end": 0.82,
+                    "probability": 0.6414361000061035
+                },
+                {
+                    "word": " over",
+                    "start": 0.82,
+                    "end": 1.22,
+                    "probability": 0.9369834065437317
+                },
+                {
+                    "word": " for",
+                    "start": 1.22,
+                    "end": 1.4,
+                    "probability": 0.9870932698249817
+                },
+                {
+                    "word": " coffee",
+                    "start": 1.4,
+                    "end": 1.66,
+                    "probability": 0.971379816532135
+                },
+                {
+                    "word": " sometime.",
+                    "start": 1.66,
+                    "end": 2.04,
+                    "probability": 0.7620866894721985
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

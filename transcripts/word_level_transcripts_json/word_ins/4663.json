@@ -1,0 +1,87 @@
+{
+    "text": " We should clean the house before the guests arrive.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.8600000000000001,
+            "end": 5.9,
+            "text": " We should clean the house before the guests arrive.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                2541,
+                264,
+                1782,
+                949,
+                264,
+                9804,
+                8881,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35597724180955154,
+            "compression_ratio": 0.9444444444444444,
+            "no_speech_prob": 0.08346693962812424,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.8600000000000001,
+                    "end": 1.64,
+                    "probability": 0.821677565574646
+                },
+                {
+                    "word": " should",
+                    "start": 1.64,
+                    "end": 1.86,
+                    "probability": 0.9937378168106079
+                },
+                {
+                    "word": " clean",
+                    "start": 1.86,
+                    "end": 2.14,
+                    "probability": 0.9908881187438965
+                },
+                {
+                    "word": " the",
+                    "start": 2.14,
+                    "end": 2.36,
+                    "probability": 0.9960463643074036
+                },
+                {
+                    "word": " house",
+                    "start": 2.36,
+                    "end": 2.76,
+                    "probability": 0.9960029721260071
+                },
+                {
+                    "word": " before",
+                    "start": 2.76,
+                    "end": 4.54,
+                    "probability": 0.7502044439315796
+                },
+                {
+                    "word": " the",
+                    "start": 4.54,
+                    "end": 4.92,
+                    "probability": 0.9554040431976318
+                },
+                {
+                    "word": " guests",
+                    "start": 4.92,
+                    "end": 5.32,
+                    "probability": 0.9786655306816101
+                },
+                {
+                    "word": " arrive.",
+                    "start": 5.32,
+                    "end": 5.9,
+                    "probability": 0.9806000590324402
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

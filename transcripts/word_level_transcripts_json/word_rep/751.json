@@ -1,0 +1,59 @@
+{
+    "text": " They are a studying heart.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.32,
+            "text": " They are a studying heart.",
+            "tokens": [
+                50364,
+                814,
+                366,
+                257,
+                7601,
+                1917,
+                13,
+                50444
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4539555443657769,
+            "compression_ratio": 0.7647058823529411,
+            "no_speech_prob": 0.0067659844644367695,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.6856270432472229
+                },
+                {
+                    "word": " are",
+                    "start": 0.18,
+                    "end": 0.32,
+                    "probability": 0.9365482926368713
+                },
+                {
+                    "word": " a",
+                    "start": 0.32,
+                    "end": 0.48,
+                    "probability": 0.8038874864578247
+                },
+                {
+                    "word": " studying",
+                    "start": 0.48,
+                    "end": 0.88,
+                    "probability": 0.8062728643417358
+                },
+                {
+                    "word": " heart.",
+                    "start": 0.88,
+                    "end": 1.32,
+                    "probability": 0.7788629531860352
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

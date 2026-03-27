@@ -1,0 +1,95 @@
+{
+    "text": " In case of a medical emergency, dial 911 immediately okay.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.5,
+            "text": " In case of a medical emergency, dial 911 immediately okay.",
+            "tokens": [
+                50364,
+                682,
+                1389,
+                295,
+                257,
+                4625,
+                7473,
+                11,
+                5502,
+                26901,
+                4258,
+                1392,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3101200103759766,
+            "compression_ratio": 0.9354838709677419,
+            "no_speech_prob": 0.02179880253970623,
+            "words": [
+                {
+                    "word": " In",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.8525206446647644
+                },
+                {
+                    "word": " case",
+                    "start": 0.32,
+                    "end": 0.5,
+                    "probability": 0.9880484938621521
+                },
+                {
+                    "word": " of",
+                    "start": 0.5,
+                    "end": 0.7,
+                    "probability": 0.996026873588562
+                },
+                {
+                    "word": " a",
+                    "start": 0.7,
+                    "end": 0.74,
+                    "probability": 0.9704164862632751
+                },
+                {
+                    "word": " medical",
+                    "start": 0.74,
+                    "end": 1.0,
+                    "probability": 0.9893965125083923
+                },
+                {
+                    "word": " emergency,",
+                    "start": 1.0,
+                    "end": 1.64,
+                    "probability": 0.9986506104469299
+                },
+                {
+                    "word": " dial",
+                    "start": 1.84,
+                    "end": 2.0,
+                    "probability": 0.9741960167884827
+                },
+                {
+                    "word": " 911",
+                    "start": 2.0,
+                    "end": 2.48,
+                    "probability": 0.4999985694885254
+                },
+                {
+                    "word": " immediately",
+                    "start": 2.48,
+                    "end": 3.02,
+                    "probability": 0.9498597979545593
+                },
+                {
+                    "word": " okay.",
+                    "start": 3.02,
+                    "end": 3.5,
+                    "probability": 0.6249492764472961
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

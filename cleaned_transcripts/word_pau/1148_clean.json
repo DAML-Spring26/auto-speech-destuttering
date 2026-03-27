@@ -1,45 +1,40 @@
 {
-    "text": " Which restaurant would you prefer for? Dinner tonight?",
+    "text": " Witcher. Dinner tonight.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
             "end": 2.0,
-            "text": " Which restaurant would you prefer for?",
+            "text": " Witcher.",
             "tokens": [
                 50364,
-                3013,
-                6383,
-                576,
-                291,
-                4382,
-                337,
-                30,
+                47383,
+                13,
                 50464
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.5628002166748047,
-            "compression_ratio": 0.9,
-            "no_speech_prob": 0.00863904133439064
+            "avg_logprob": -0.8762686729431153,
+            "compression_ratio": 0.75,
+            "no_speech_prob": 0.028886623680591583
         },
         {
             "id": 1,
             "seek": 0,
-            "start": 4.74,
-            "end": 5.74,
-            "text": " Dinner tonight?",
+            "start": 3.2,
+            "end": 5.2,
+            "text": " Dinner tonight.",
             "tokens": [
-                50601,
+                50524,
                 46678,
                 4440,
-                30,
-                50651
+                13,
+                50624
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.5628002166748047,
-            "compression_ratio": 0.9,
-            "no_speech_prob": 0.00863904133439064
+            "avg_logprob": -0.8762686729431153,
+            "compression_ratio": 0.75,
+            "no_speech_prob": 0.028886623680591583
         }
     ],
     "language": "en"

@@ -1,0 +1,102 @@
+{
+    "text": " If you smell gas, some open all windows and doors immediately.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.84,
+            "text": " If you smell gas, some open all windows and doors immediately.",
+            "tokens": [
+                50364,
+                759,
+                291,
+                4316,
+                4211,
+                11,
+                512,
+                1269,
+                439,
+                9309,
+                293,
+                8077,
+                4258,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34956008195877075,
+            "compression_ratio": 0.9393939393939394,
+            "no_speech_prob": 0.021417034789919853,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.826526403427124
+                },
+                {
+                    "word": " you",
+                    "start": 0.34,
+                    "end": 0.4,
+                    "probability": 0.9972383975982666
+                },
+                {
+                    "word": " smell",
+                    "start": 0.4,
+                    "end": 0.62,
+                    "probability": 0.9665812849998474
+                },
+                {
+                    "word": " gas,",
+                    "start": 0.62,
+                    "end": 0.94,
+                    "probability": 0.940403163433075
+                },
+                {
+                    "word": " some",
+                    "start": 1.12,
+                    "end": 1.22,
+                    "probability": 0.5497531294822693
+                },
+                {
+                    "word": " open",
+                    "start": 1.22,
+                    "end": 1.46,
+                    "probability": 0.9626765847206116
+                },
+                {
+                    "word": " all",
+                    "start": 1.46,
+                    "end": 1.64,
+                    "probability": 0.5870987772941589
+                },
+                {
+                    "word": " windows",
+                    "start": 1.64,
+                    "end": 1.94,
+                    "probability": 0.9632529616355896
+                },
+                {
+                    "word": " and",
+                    "start": 1.94,
+                    "end": 2.18,
+                    "probability": 0.9012407064437866
+                },
+                {
+                    "word": " doors",
+                    "start": 2.18,
+                    "end": 2.38,
+                    "probability": 0.9907512068748474
+                },
+                {
+                    "word": " immediately.",
+                    "start": 2.38,
+                    "end": 2.84,
+                    "probability": 0.9850892424583435
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

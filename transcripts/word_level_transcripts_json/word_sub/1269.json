@@ -1,0 +1,66 @@
+{
+    "text": " The software update includes performance environments.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.02,
+            "text": " The software update includes performance environments.",
+            "tokens": [
+                50364,
+                440,
+                4722,
+                5623,
+                5974,
+                3389,
+                12388,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48279905319213867,
+            "compression_ratio": 0.9,
+            "no_speech_prob": 0.002873379271477461,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7980290651321411
+                },
+                {
+                    "word": " software",
+                    "start": 0.12,
+                    "end": 0.58,
+                    "probability": 0.37061962485313416
+                },
+                {
+                    "word": " update",
+                    "start": 0.58,
+                    "end": 1.02,
+                    "probability": 0.9630311727523804
+                },
+                {
+                    "word": " includes",
+                    "start": 1.02,
+                    "end": 1.5,
+                    "probability": 0.9951362013816833
+                },
+                {
+                    "word": " performance",
+                    "start": 1.5,
+                    "end": 2.18,
+                    "probability": 0.9226036071777344
+                },
+                {
+                    "word": " environments.",
+                    "start": 2.18,
+                    "end": 3.02,
+                    "probability": 0.9768297076225281
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

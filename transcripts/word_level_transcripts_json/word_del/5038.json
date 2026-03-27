@@ -1,0 +1,73 @@
+{
+    "text": " The family vacation postponed until next summer.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.62,
+            "text": " The family vacation postponed until next summer.",
+            "tokens": [
+                50364,
+                440,
+                1605,
+                12830,
+                49023,
+                1826,
+                958,
+                4266,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34335214441472833,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.003647532081231475,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7076283693313599
+                },
+                {
+                    "word": " family",
+                    "start": 0.12,
+                    "end": 0.44,
+                    "probability": 0.8088619112968445
+                },
+                {
+                    "word": " vacation",
+                    "start": 0.44,
+                    "end": 1.0,
+                    "probability": 0.9438535571098328
+                },
+                {
+                    "word": " postponed",
+                    "start": 1.0,
+                    "end": 1.48,
+                    "probability": 0.9911966323852539
+                },
+                {
+                    "word": " until",
+                    "start": 1.48,
+                    "end": 1.9,
+                    "probability": 0.9888941645622253
+                },
+                {
+                    "word": " next",
+                    "start": 1.9,
+                    "end": 2.26,
+                    "probability": 0.9865015149116516
+                },
+                {
+                    "word": " summer.",
+                    "start": 2.26,
+                    "end": 2.62,
+                    "probability": 0.9717118740081787
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

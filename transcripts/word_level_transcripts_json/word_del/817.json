@@ -1,0 +1,101 @@
+{
+    "text": " we should leave early to avoid getting in rush our traffic.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.64,
+            "text": " we should leave early to avoid getting in rush our traffic.",
+            "tokens": [
+                50364,
+                321,
+                820,
+                1856,
+                2440,
+                281,
+                5042,
+                1242,
+                294,
+                9300,
+                527,
+                6419,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3744664192199707,
+            "compression_ratio": 0.9672131147540983,
+            "no_speech_prob": 0.003983197268098593,
+            "words": [
+                {
+                    "word": " we",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.4167426526546478
+                },
+                {
+                    "word": " should",
+                    "start": 0.1,
+                    "end": 0.2,
+                    "probability": 0.8851174116134644
+                },
+                {
+                    "word": " leave",
+                    "start": 0.2,
+                    "end": 0.44,
+                    "probability": 0.996178150177002
+                },
+                {
+                    "word": " early",
+                    "start": 0.44,
+                    "end": 0.72,
+                    "probability": 0.9741568565368652
+                },
+                {
+                    "word": " to",
+                    "start": 0.72,
+                    "end": 0.94,
+                    "probability": 0.9931026697158813
+                },
+                {
+                    "word": " avoid",
+                    "start": 0.94,
+                    "end": 1.22,
+                    "probability": 0.9994532465934753
+                },
+                {
+                    "word": " getting",
+                    "start": 1.22,
+                    "end": 1.56,
+                    "probability": 0.9982774257659912
+                },
+                {
+                    "word": " in",
+                    "start": 1.56,
+                    "end": 1.78,
+                    "probability": 0.5934757590293884
+                },
+                {
+                    "word": " rush",
+                    "start": 1.78,
+                    "end": 2.04,
+                    "probability": 0.8878078460693359
+                },
+                {
+                    "word": " our",
+                    "start": 2.04,
+                    "end": 2.22,
+                    "probability": 0.6638352274894714
+                },
+                {
+                    "word": " traffic.",
+                    "start": 2.22,
+                    "end": 2.64,
+                    "probability": 0.9958539009094238
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

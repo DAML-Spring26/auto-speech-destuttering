@@ -1,0 +1,69 @@
+{
+    "text": " The symposum focused on emerging ideologies.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.24,
+            "text": " The symposum focused on emerging ideologies.",
+            "tokens": [
+                50364,
+                440,
+                13240,
+                329,
+                449,
+                5178,
+                322,
+                14989,
+                1153,
+                6204,
+                13,
+                50548
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4842339295607347,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.005426159594208002,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.43438848853111267
+                },
+                {
+                    "word": " symposum",
+                    "start": 0.12,
+                    "end": 0.84,
+                    "probability": 0.5582991441090902
+                },
+                {
+                    "word": " focused",
+                    "start": 0.84,
+                    "end": 1.3,
+                    "probability": 0.9628869891166687
+                },
+                {
+                    "word": " on",
+                    "start": 1.3,
+                    "end": 1.68,
+                    "probability": 0.9964750409126282
+                },
+                {
+                    "word": " emerging",
+                    "start": 1.68,
+                    "end": 2.18,
+                    "probability": 0.9854147434234619
+                },
+                {
+                    "word": " ideologies.",
+                    "start": 2.18,
+                    "end": 3.24,
+                    "probability": 0.9960858821868896
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

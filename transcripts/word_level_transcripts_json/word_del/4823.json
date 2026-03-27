@@ -1,0 +1,87 @@
+{
+    "text": " the committee considering whether to approve the proposed budget.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.22,
+            "text": " the committee considering whether to approve the proposed budget.",
+            "tokens": [
+                50364,
+                264,
+                7482,
+                8079,
+                1968,
+                281,
+                18827,
+                264,
+                10348,
+                4706,
+                13,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4242859987112192,
+            "compression_ratio": 1.0317460317460319,
+            "no_speech_prob": 0.015262298285961151,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.4645763039588928
+                },
+                {
+                    "word": " committee",
+                    "start": 0.14,
+                    "end": 0.5,
+                    "probability": 0.7598083019256592
+                },
+                {
+                    "word": " considering",
+                    "start": 0.5,
+                    "end": 1.18,
+                    "probability": 0.8590630292892456
+                },
+                {
+                    "word": " whether",
+                    "start": 1.18,
+                    "end": 1.46,
+                    "probability": 0.9882070422172546
+                },
+                {
+                    "word": " to",
+                    "start": 1.46,
+                    "end": 1.72,
+                    "probability": 0.9972706437110901
+                },
+                {
+                    "word": " approve",
+                    "start": 1.72,
+                    "end": 2.08,
+                    "probability": 0.9711195230484009
+                },
+                {
+                    "word": " the",
+                    "start": 2.08,
+                    "end": 2.28,
+                    "probability": 0.7224095463752747
+                },
+                {
+                    "word": " proposed",
+                    "start": 2.28,
+                    "end": 2.68,
+                    "probability": 0.9951075315475464
+                },
+                {
+                    "word": " budget.",
+                    "start": 2.68,
+                    "end": 3.22,
+                    "probability": 0.9945662021636963
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

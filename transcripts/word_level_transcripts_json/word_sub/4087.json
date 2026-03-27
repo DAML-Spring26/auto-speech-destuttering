@@ -1,0 +1,66 @@
+{
+    "text": " We should discuss this matter privately.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.74,
+            "text": " We should discuss this matter privately.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                2248,
+                341,
+                1871,
+                31919,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3214060544967651,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.008786390535533428,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5364383459091187
+                },
+                {
+                    "word": " should",
+                    "start": 0.12,
+                    "end": 0.26,
+                    "probability": 0.9874793887138367
+                },
+                {
+                    "word": " discuss",
+                    "start": 0.26,
+                    "end": 0.66,
+                    "probability": 0.9907695651054382
+                },
+                {
+                    "word": " this",
+                    "start": 0.66,
+                    "end": 0.96,
+                    "probability": 0.9866681098937988
+                },
+                {
+                    "word": " matter",
+                    "start": 0.96,
+                    "end": 1.28,
+                    "probability": 0.9686939716339111
+                },
+                {
+                    "word": " privately.",
+                    "start": 1.28,
+                    "end": 1.74,
+                    "probability": 0.9909765720367432
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

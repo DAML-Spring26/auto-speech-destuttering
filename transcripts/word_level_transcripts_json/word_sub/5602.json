@@ -1,0 +1,61 @@
+{
+    "text": " this spacecraft entered Mars' biosphere.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.86,
+            "text": " this spacecraft entered Mars' biosphere.",
+            "tokens": [
+                50364,
+                341,
+                22910,
+                9065,
+                9692,
+                6,
+                36997,
+                6605,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5044093998995695,
+            "compression_ratio": 0.851063829787234,
+            "no_speech_prob": 0.005379473324865103,
+            "words": [
+                {
+                    "word": " this",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.3886646330356598
+                },
+                {
+                    "word": " spacecraft",
+                    "start": 0.16,
+                    "end": 0.62,
+                    "probability": 0.9448114037513733
+                },
+                {
+                    "word": " entered",
+                    "start": 0.62,
+                    "end": 0.94,
+                    "probability": 0.6884579658508301
+                },
+                {
+                    "word": " Mars'",
+                    "start": 0.94,
+                    "end": 1.22,
+                    "probability": 0.8969579339027405
+                },
+                {
+                    "word": " biosphere.",
+                    "start": 1.36,
+                    "end": 1.86,
+                    "probability": 0.8651820123195648
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

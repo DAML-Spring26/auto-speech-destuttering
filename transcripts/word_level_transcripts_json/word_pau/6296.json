@@ -1,0 +1,92 @@
+{
+    "text": " She's considering a career. Change next year.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.56,
+            "text": " She's considering a career.",
+            "tokens": [
+                50364,
+                1240,
+                311,
+                8079,
+                257,
+                3988,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6441102345784505,
+            "compression_ratio": 0.8490566037735849,
+            "no_speech_prob": 0.004459980875253677,
+            "words": [
+                {
+                    "word": " She's",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.7313763797283173
+                },
+                {
+                    "word": " considering",
+                    "start": 0.38,
+                    "end": 0.98,
+                    "probability": 0.8980275392532349
+                },
+                {
+                    "word": " a",
+                    "start": 0.98,
+                    "end": 1.28,
+                    "probability": 0.6633446216583252
+                },
+                {
+                    "word": " career.",
+                    "start": 1.28,
+                    "end": 1.56,
+                    "probability": 0.976984977722168
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.8,
+            "end": 3.86,
+            "text": " Change next year.",
+            "tokens": [
+                50508,
+                15060,
+                958,
+                1064,
+                13,
+                50568
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6441102345784505,
+            "compression_ratio": 0.8490566037735849,
+            "no_speech_prob": 0.004459980875253677,
+            "words": [
+                {
+                    "word": " Change",
+                    "start": 2.8,
+                    "end": 3.16,
+                    "probability": 0.8781594634056091
+                },
+                {
+                    "word": " next",
+                    "start": 3.16,
+                    "end": 3.48,
+                    "probability": 0.8861558437347412
+                },
+                {
+                    "word": " year.",
+                    "start": 3.48,
+                    "end": 3.86,
+                    "probability": 0.9300910234451294
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

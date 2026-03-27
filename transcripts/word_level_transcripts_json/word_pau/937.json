@@ -1,0 +1,124 @@
+{
+    "text": " I'm sorry but I don't have the information you'll... ...locking for.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.84,
+            "text": " I'm sorry but I don't have the information you'll...",
+            "tokens": [
+                50364,
+                286,
+                478,
+                2597,
+                457,
+                286,
+                500,
+                380,
+                362,
+                264,
+                1589,
+                291,
+                603,
+                485,
+                50506
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5212478223054305,
+            "compression_ratio": 0.9577464788732394,
+            "no_speech_prob": 0.017770489677786827,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.928873598575592
+                },
+                {
+                    "word": " sorry",
+                    "start": 0.26,
+                    "end": 0.62,
+                    "probability": 0.9962688684463501
+                },
+                {
+                    "word": " but",
+                    "start": 0.62,
+                    "end": 0.86,
+                    "probability": 0.5423893928527832
+                },
+                {
+                    "word": " I",
+                    "start": 0.86,
+                    "end": 0.98,
+                    "probability": 0.9488922357559204
+                },
+                {
+                    "word": " don't",
+                    "start": 0.98,
+                    "end": 1.24,
+                    "probability": 0.9934653043746948
+                },
+                {
+                    "word": " have",
+                    "start": 1.24,
+                    "end": 1.38,
+                    "probability": 0.9955164790153503
+                },
+                {
+                    "word": " the",
+                    "start": 1.38,
+                    "end": 1.58,
+                    "probability": 0.979555070400238
+                },
+                {
+                    "word": " information",
+                    "start": 1.58,
+                    "end": 2.14,
+                    "probability": 0.9835157990455627
+                },
+                {
+                    "word": " you'll...",
+                    "start": 2.14,
+                    "end": 2.84,
+                    "probability": 0.5845973889032999
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.920000000000001,
+            "end": 4.74,
+            "text": " ...locking for.",
+            "tokens": [
+                50564,
+                1097,
+                4102,
+                278,
+                337,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5212478223054305,
+            "compression_ratio": 0.9577464788732394,
+            "no_speech_prob": 0.017770489677786827,
+            "words": [
+                {
+                    "word": " ...locking",
+                    "start": 3.920000000000001,
+                    "end": 4.46,
+                    "probability": 0.6125843226909637
+                },
+                {
+                    "word": " for.",
+                    "start": 4.46,
+                    "end": 4.74,
+                    "probability": 0.9832807779312134
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,74 @@
+{
+    "text": " Dad, when are we going on vacation?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.44,
+            "text": " Dad, when are we going on vacation?",
+            "tokens": [
+                50364,
+                5639,
+                11,
+                562,
+                366,
+                321,
+                516,
+                322,
+                12830,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2952807943026225,
+            "compression_ratio": 0.813953488372093,
+            "no_speech_prob": 0.11828377097845078,
+            "words": [
+                {
+                    "word": " Dad,",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.6356191039085388
+                },
+                {
+                    "word": " when",
+                    "start": 0.52,
+                    "end": 0.56,
+                    "probability": 0.9372804760932922
+                },
+                {
+                    "word": " are",
+                    "start": 0.56,
+                    "end": 0.66,
+                    "probability": 0.9933835864067078
+                },
+                {
+                    "word": " we",
+                    "start": 0.66,
+                    "end": 0.76,
+                    "probability": 0.991367518901825
+                },
+                {
+                    "word": " going",
+                    "start": 0.76,
+                    "end": 1.04,
+                    "probability": 0.33012157678604126
+                },
+                {
+                    "word": " on",
+                    "start": 1.04,
+                    "end": 1.2,
+                    "probability": 0.9929298758506775
+                },
+                {
+                    "word": " vacation?",
+                    "start": 1.2,
+                    "end": 1.44,
+                    "probability": 0.971462070941925
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

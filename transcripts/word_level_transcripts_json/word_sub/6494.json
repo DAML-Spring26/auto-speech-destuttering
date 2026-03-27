@@ -1,0 +1,96 @@
+{
+    "text": " Have you ever visited the ancient ruins of Machu Picchu?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.68,
+            "text": " Have you ever visited the ancient ruins of Machu Picchu?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                1562,
+                11220,
+                264,
+                7832,
+                24747,
+                295,
+                12089,
+                84,
+                25895,
+                29013,
+                30,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.281642884016037,
+            "compression_ratio": 0.9032258064516129,
+            "no_speech_prob": 0.003935773856937885,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.8928138017654419
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.28,
+                    "probability": 0.9939845204353333
+                },
+                {
+                    "word": " ever",
+                    "start": 0.28,
+                    "end": 0.48,
+                    "probability": 0.9985765218734741
+                },
+                {
+                    "word": " visited",
+                    "start": 0.48,
+                    "end": 0.84,
+                    "probability": 0.9955182671546936
+                },
+                {
+                    "word": " the",
+                    "start": 0.84,
+                    "end": 1.06,
+                    "probability": 0.9472811222076416
+                },
+                {
+                    "word": " ancient",
+                    "start": 1.06,
+                    "end": 1.28,
+                    "probability": 0.9701367020606995
+                },
+                {
+                    "word": " ruins",
+                    "start": 1.28,
+                    "end": 1.62,
+                    "probability": 0.9872860312461853
+                },
+                {
+                    "word": " of",
+                    "start": 1.62,
+                    "end": 1.82,
+                    "probability": 0.9979231953620911
+                },
+                {
+                    "word": " Machu",
+                    "start": 1.82,
+                    "end": 2.2,
+                    "probability": 0.7528640627861023
+                },
+                {
+                    "word": " Picchu?",
+                    "start": 2.2,
+                    "end": 2.68,
+                    "probability": 0.7458938956260681
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

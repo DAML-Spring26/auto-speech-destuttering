@@ -1,0 +1,87 @@
+{
+    "text": " Have you ever seen the new family photo album?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.22,
+            "text": " Have you ever seen the new family photo album?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                1562,
+                1612,
+                264,
+                777,
+                1605,
+                5052,
+                6030,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3449234595665565,
+            "compression_ratio": 0.8518518518518519,
+            "no_speech_prob": 0.035050347447395325,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.8621348142623901
+                },
+                {
+                    "word": " you",
+                    "start": 0.38,
+                    "end": 0.54,
+                    "probability": 0.9944432377815247
+                },
+                {
+                    "word": " ever",
+                    "start": 0.54,
+                    "end": 0.66,
+                    "probability": 0.7612162232398987
+                },
+                {
+                    "word": " seen",
+                    "start": 0.66,
+                    "end": 0.92,
+                    "probability": 0.9628196954727173
+                },
+                {
+                    "word": " the",
+                    "start": 0.92,
+                    "end": 1.1,
+                    "probability": 0.9377068281173706
+                },
+                {
+                    "word": " new",
+                    "start": 1.1,
+                    "end": 1.24,
+                    "probability": 0.9560624957084656
+                },
+                {
+                    "word": " family",
+                    "start": 1.24,
+                    "end": 1.58,
+                    "probability": 0.5080944299697876
+                },
+                {
+                    "word": " photo",
+                    "start": 1.58,
+                    "end": 1.9,
+                    "probability": 0.9842220544815063
+                },
+                {
+                    "word": " album?",
+                    "start": 1.9,
+                    "end": 2.22,
+                    "probability": 0.9793065786361694
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

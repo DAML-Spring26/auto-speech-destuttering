@@ -1,0 +1,84 @@
+{
+    "text": " Can you speak more? Slowly please.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.06,
+            "text": " Can you speak more?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                1710,
+                544,
+                30,
+                50532
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5661176534799429,
+            "compression_ratio": 0.8095238095238095,
+            "no_speech_prob": 0.030329983681440353,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7667802572250366
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.34,
+                    "probability": 0.9973581433296204
+                },
+                {
+                    "word": " speak",
+                    "start": 0.34,
+                    "end": 0.62,
+                    "probability": 0.9974983334541321
+                },
+                {
+                    "word": " more?",
+                    "start": 0.62,
+                    "end": 1.06,
+                    "probability": 0.9951440095901489
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.92,
+            "end": 4.24,
+            "text": " Slowly please.",
+            "tokens": [
+                50532,
+                29674,
+                1767,
+                13,
+                50607
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5661176534799429,
+            "compression_ratio": 0.8095238095238095,
+            "no_speech_prob": 0.030329983681440353,
+            "words": [
+                {
+                    "word": " Slowly",
+                    "start": 2.92,
+                    "end": 3.8,
+                    "probability": 0.9278212189674377
+                },
+                {
+                    "word": " please.",
+                    "start": 3.8,
+                    "end": 4.24,
+                    "probability": 0.7521058917045593
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,45 @@
+{
+    "text": " Check the bends.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.94,
+            "text": " Check the bends.",
+            "tokens": [
+                50364,
+                6881,
+                264,
+                42990,
+                13,
+                50424
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7375115667070661,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.028675375506281853,
+            "words": [
+                {
+                    "word": " Check",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.6892474293708801
+                },
+                {
+                    "word": " the",
+                    "start": 0.28,
+                    "end": 0.56,
+                    "probability": 0.989520788192749
+                },
+                {
+                    "word": " bends.",
+                    "start": 0.56,
+                    "end": 0.94,
+                    "probability": 0.5242621898651123
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

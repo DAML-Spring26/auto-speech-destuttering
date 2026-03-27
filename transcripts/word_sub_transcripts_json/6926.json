@@ -1,0 +1,59 @@
+{
+    "text": " The experiment requires precise measurements.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.38,
+            "text": " The experiment requires precise measurements.",
+            "tokens": [
+                50364,
+                440,
+                5120,
+                7029,
+                13600,
+                15383,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4489508204989963,
+            "compression_ratio": 0.8823529411764706,
+            "no_speech_prob": 0.00814181286841631,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7181386351585388
+                },
+                {
+                    "word": " experiment",
+                    "start": 0.1,
+                    "end": 0.66,
+                    "probability": 0.9715015888214111
+                },
+                {
+                    "word": " requires",
+                    "start": 0.66,
+                    "end": 1.14,
+                    "probability": 0.9916942715644836
+                },
+                {
+                    "word": " precise",
+                    "start": 1.14,
+                    "end": 1.7,
+                    "probability": 0.9990455508232117
+                },
+                {
+                    "word": " measurements.",
+                    "start": 1.7,
+                    "end": 2.38,
+                    "probability": 0.9799706935882568
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

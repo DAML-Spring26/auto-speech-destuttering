@@ -1,0 +1,94 @@
+{
+    "text": " The research team discovered a potential breakthrough in cancer treatment.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.18,
+            "text": " The research team discovered a potential breakthrough in cancer treatment.",
+            "tokens": [
+                50364,
+                440,
+                2132,
+                1469,
+                6941,
+                257,
+                3995,
+                22397,
+                294,
+                5592,
+                5032,
+                13,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34465575218200684,
+            "compression_ratio": 1.0422535211267605,
+            "no_speech_prob": 0.0036895298399031162,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5095770955085754
+                },
+                {
+                    "word": " research",
+                    "start": 0.1,
+                    "end": 0.4,
+                    "probability": 0.8700501918792725
+                },
+                {
+                    "word": " team",
+                    "start": 0.4,
+                    "end": 0.74,
+                    "probability": 0.9927962422370911
+                },
+                {
+                    "word": " discovered",
+                    "start": 0.74,
+                    "end": 1.2,
+                    "probability": 0.9956125020980835
+                },
+                {
+                    "word": " a",
+                    "start": 1.2,
+                    "end": 1.38,
+                    "probability": 0.8230823278427124
+                },
+                {
+                    "word": " potential",
+                    "start": 1.38,
+                    "end": 1.82,
+                    "probability": 0.9978359341621399
+                },
+                {
+                    "word": " breakthrough",
+                    "start": 1.82,
+                    "end": 2.24,
+                    "probability": 0.9968317151069641
+                },
+                {
+                    "word": " in",
+                    "start": 2.24,
+                    "end": 2.44,
+                    "probability": 0.9845236539840698
+                },
+                {
+                    "word": " cancer",
+                    "start": 2.44,
+                    "end": 2.74,
+                    "probability": 0.9657869338989258
+                },
+                {
+                    "word": " treatment.",
+                    "start": 2.74,
+                    "end": 3.18,
+                    "probability": 0.9954968690872192
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

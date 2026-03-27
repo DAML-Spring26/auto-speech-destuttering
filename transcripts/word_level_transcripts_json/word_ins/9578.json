@@ -1,0 +1,94 @@
+{
+    "text": " Have you checked if your firewall is blocking the application?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.28,
+            "text": " Have you checked if your firewall is blocking the application?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                10033,
+                498,
+                428,
+                36109,
+                307,
+                17776,
+                264,
+                3861,
+                30,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3188539913722447,
+            "compression_ratio": 0.9393939393939394,
+            "no_speech_prob": 0.026755573228001595,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 0.92,
+                    "probability": 0.7851501703262329
+                },
+                {
+                    "word": " you",
+                    "start": 0.92,
+                    "end": 1.06,
+                    "probability": 0.9985544085502625
+                },
+                {
+                    "word": " checked",
+                    "start": 1.06,
+                    "end": 1.32,
+                    "probability": 0.9941443800926208
+                },
+                {
+                    "word": " if",
+                    "start": 1.32,
+                    "end": 1.48,
+                    "probability": 0.9794999361038208
+                },
+                {
+                    "word": " your",
+                    "start": 1.48,
+                    "end": 1.6,
+                    "probability": 0.9589981436729431
+                },
+                {
+                    "word": " firewall",
+                    "start": 1.6,
+                    "end": 2.0,
+                    "probability": 0.958552360534668
+                },
+                {
+                    "word": " is",
+                    "start": 2.0,
+                    "end": 2.38,
+                    "probability": 0.9634925127029419
+                },
+                {
+                    "word": " blocking",
+                    "start": 2.38,
+                    "end": 3.44,
+                    "probability": 0.9377654194831848
+                },
+                {
+                    "word": " the",
+                    "start": 3.44,
+                    "end": 3.7,
+                    "probability": 0.9952272176742554
+                },
+                {
+                    "word": " application?",
+                    "start": 3.7,
+                    "end": 4.28,
+                    "probability": 0.993529736995697
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

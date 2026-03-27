@@ -1,0 +1,80 @@
+{
+    "text": " The professors let your covered advanced statistical content.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.7,
+            "text": " The professors let your covered advanced statistical content.",
+            "tokens": [
+                50364,
+                440,
+                15924,
+                718,
+                428,
+                5343,
+                7339,
+                22820,
+                2701,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6676857471466064,
+            "compression_ratio": 0.9384615384615385,
+            "no_speech_prob": 0.007605777587741613,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5491637587547302
+                },
+                {
+                    "word": " professors",
+                    "start": 0.14,
+                    "end": 0.58,
+                    "probability": 0.23566558957099915
+                },
+                {
+                    "word": " let",
+                    "start": 0.58,
+                    "end": 0.88,
+                    "probability": 0.8201022744178772
+                },
+                {
+                    "word": " your",
+                    "start": 0.88,
+                    "end": 1.04,
+                    "probability": 0.4817151129245758
+                },
+                {
+                    "word": " covered",
+                    "start": 1.04,
+                    "end": 1.28,
+                    "probability": 0.8598639369010925
+                },
+                {
+                    "word": " advanced",
+                    "start": 1.28,
+                    "end": 1.6,
+                    "probability": 0.8617392778396606
+                },
+                {
+                    "word": " statistical",
+                    "start": 1.6,
+                    "end": 2.24,
+                    "probability": 0.9958727955818176
+                },
+                {
+                    "word": " content.",
+                    "start": 2.24,
+                    "end": 2.7,
+                    "probability": 0.33763521909713745
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

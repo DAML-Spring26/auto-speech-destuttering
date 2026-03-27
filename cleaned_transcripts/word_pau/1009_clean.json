@@ -1,12 +1,12 @@
 {
-    "text": " I'm sorry, but your warranty has expired for this product.",
+    "text": " I'm sorry, but you're for product.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 6.32,
-            "text": " I'm sorry, but your warranty has expired for this product.",
+            "end": 3.0,
+            "text": " I'm sorry, but you're for product.",
             "tokens": [
                 50364,
                 286,
@@ -14,20 +14,17 @@
                 2597,
                 11,
                 457,
-                428,
-                26852,
-                575,
-                36587,
+                291,
+                434,
                 337,
-                341,
                 1674,
                 13,
-                50680
+                50514
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.30147790908813477,
-            "compression_ratio": 0.8923076923076924,
-            "no_speech_prob": 0.011334221810102463
+            "avg_logprob": -0.4900771654569186,
+            "compression_ratio": 0.8095238095238095,
+            "no_speech_prob": 0.011897881515324116
         }
     ],
     "language": "en"

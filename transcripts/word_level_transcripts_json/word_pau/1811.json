@@ -1,0 +1,94 @@
+{
+    "text": " The new initiative aims to enhance customer engagement and loyalty.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.78,
+            "text": " The new initiative aims to enhance customer engagement and loyalty.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                11552,
+                24683,
+                281,
+                11985,
+                5474,
+                8742,
+                293,
+                22831,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24502946649278914,
+            "compression_ratio": 0.9852941176470589,
+            "no_speech_prob": 0.0025950188282877207,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6174417734146118
+                },
+                {
+                    "word": " new",
+                    "start": 0.14,
+                    "end": 0.36,
+                    "probability": 0.9631751179695129
+                },
+                {
+                    "word": " initiative",
+                    "start": 0.36,
+                    "end": 0.78,
+                    "probability": 0.963241696357727
+                },
+                {
+                    "word": " aims",
+                    "start": 0.78,
+                    "end": 1.2,
+                    "probability": 0.9955253005027771
+                },
+                {
+                    "word": " to",
+                    "start": 1.2,
+                    "end": 1.66,
+                    "probability": 0.994856595993042
+                },
+                {
+                    "word": " enhance",
+                    "start": 1.66,
+                    "end": 3.6,
+                    "probability": 0.9702164530754089
+                },
+                {
+                    "word": " customer",
+                    "start": 3.6,
+                    "end": 4.28,
+                    "probability": 0.9928233623504639
+                },
+                {
+                    "word": " engagement",
+                    "start": 4.28,
+                    "end": 4.84,
+                    "probability": 0.9981077909469604
+                },
+                {
+                    "word": " and",
+                    "start": 4.84,
+                    "end": 5.24,
+                    "probability": 0.9960981607437134
+                },
+                {
+                    "word": " loyalty.",
+                    "start": 5.24,
+                    "end": 5.78,
+                    "probability": 0.998172402381897
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

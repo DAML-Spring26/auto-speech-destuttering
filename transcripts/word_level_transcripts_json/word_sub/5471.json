@@ -1,0 +1,89 @@
+{
+    "text": " She's writing a novel about time travel and parodies.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.08,
+            "text": " She's writing a novel about time travel and parodies.",
+            "tokens": [
+                50364,
+                1240,
+                311,
+                3579,
+                257,
+                7613,
+                466,
+                565,
+                3147,
+                293,
+                971,
+                6087,
+                13,
+                50534
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4335826237996419,
+            "compression_ratio": 0.9137931034482759,
+            "no_speech_prob": 0.0014778776094317436,
+            "words": [
+                {
+                    "word": " She's",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.8171399533748627
+                },
+                {
+                    "word": " writing",
+                    "start": 0.28,
+                    "end": 0.62,
+                    "probability": 0.9855761528015137
+                },
+                {
+                    "word": " a",
+                    "start": 0.62,
+                    "end": 0.9,
+                    "probability": 0.9124287366867065
+                },
+                {
+                    "word": " novel",
+                    "start": 0.9,
+                    "end": 1.22,
+                    "probability": 0.9731147289276123
+                },
+                {
+                    "word": " about",
+                    "start": 1.22,
+                    "end": 1.54,
+                    "probability": 0.9991459846496582
+                },
+                {
+                    "word": " time",
+                    "start": 1.54,
+                    "end": 1.9,
+                    "probability": 0.7143182754516602
+                },
+                {
+                    "word": " travel",
+                    "start": 1.9,
+                    "end": 2.32,
+                    "probability": 0.532092809677124
+                },
+                {
+                    "word": " and",
+                    "start": 2.32,
+                    "end": 2.52,
+                    "probability": 0.9864271283149719
+                },
+                {
+                    "word": " parodies.",
+                    "start": 2.52,
+                    "end": 3.08,
+                    "probability": 0.6391474455595016
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

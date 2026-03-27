@@ -1,0 +1,94 @@
+{
+    "text": " We need to schedule time to clean out the garage.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.12,
+            "text": " We need to schedule time to clean out the garage.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                7567,
+                565,
+                281,
+                2541,
+                484,
+                264,
+                14400,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34452424730573383,
+            "compression_ratio": 0.8909090909090909,
+            "no_speech_prob": 0.004234755877405405,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7362368702888489
+                },
+                {
+                    "word": " need",
+                    "start": 0.1,
+                    "end": 0.22,
+                    "probability": 0.997268557548523
+                },
+                {
+                    "word": " to",
+                    "start": 0.22,
+                    "end": 0.32,
+                    "probability": 0.9970678687095642
+                },
+                {
+                    "word": " schedule",
+                    "start": 0.32,
+                    "end": 0.74,
+                    "probability": 0.6474474668502808
+                },
+                {
+                    "word": " time",
+                    "start": 0.74,
+                    "end": 1.08,
+                    "probability": 0.8832608461380005
+                },
+                {
+                    "word": " to",
+                    "start": 1.08,
+                    "end": 1.34,
+                    "probability": 0.8920130133628845
+                },
+                {
+                    "word": " clean",
+                    "start": 1.34,
+                    "end": 4.56,
+                    "probability": 0.6215060949325562
+                },
+                {
+                    "word": " out",
+                    "start": 4.56,
+                    "end": 4.76,
+                    "probability": 0.9059772491455078
+                },
+                {
+                    "word": " the",
+                    "start": 4.76,
+                    "end": 4.9,
+                    "probability": 0.9910436868667603
+                },
+                {
+                    "word": " garage.",
+                    "start": 4.9,
+                    "end": 5.12,
+                    "probability": 0.8866574764251709
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

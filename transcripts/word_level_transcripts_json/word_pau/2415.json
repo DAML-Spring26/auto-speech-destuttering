@@ -1,0 +1,125 @@
+{
+    "text": " Grandport always tells us The most interesting story is about his childhood",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.56,
+            "text": " Grandport always tells us",
+            "tokens": [
+                50364,
+                6757,
+                2707,
+                1009,
+                5112,
+                505,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5911767217848036,
+            "compression_ratio": 1.0416666666666667,
+            "no_speech_prob": 0.005300797987729311,
+            "words": [
+                {
+                    "word": " Grandport",
+                    "start": 0.0,
+                    "end": 0.52,
+                    "probability": 0.4144580513238907
+                },
+                {
+                    "word": " always",
+                    "start": 0.52,
+                    "end": 0.82,
+                    "probability": 0.9915000796318054
+                },
+                {
+                    "word": " tells",
+                    "start": 0.82,
+                    "end": 1.1,
+                    "probability": 0.6189299821853638
+                },
+                {
+                    "word": " us",
+                    "start": 1.1,
+                    "end": 1.56,
+                    "probability": 0.9939160943031311
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.2,
+            "end": 6.8,
+            "text": " The most interesting story is about his childhood",
+            "tokens": [
+                50574,
+                440,
+                881,
+                1880,
+                1657,
+                307,
+                466,
+                702,
+                9278,
+                50724
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5911767217848036,
+            "compression_ratio": 1.0416666666666667,
+            "no_speech_prob": 0.005300797987729311,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 3.92,
+                    "end": 4.3,
+                    "probability": 0.05589093267917633
+                },
+                {
+                    "word": " most",
+                    "start": 4.3,
+                    "end": 4.62,
+                    "probability": 0.9637725949287415
+                },
+                {
+                    "word": " interesting",
+                    "start": 4.62,
+                    "end": 5.22,
+                    "probability": 0.997269332408905
+                },
+                {
+                    "word": " story",
+                    "start": 5.22,
+                    "end": 5.76,
+                    "probability": 0.7704163193702698
+                },
+                {
+                    "word": " is",
+                    "start": 5.76,
+                    "end": 5.96,
+                    "probability": 0.4599807858467102
+                },
+                {
+                    "word": " about",
+                    "start": 5.96,
+                    "end": 6.12,
+                    "probability": 0.9944672584533691
+                },
+                {
+                    "word": " his",
+                    "start": 6.12,
+                    "end": 6.36,
+                    "probability": 0.9709229469299316
+                },
+                {
+                    "word": " childhood",
+                    "start": 6.36,
+                    "end": 6.8,
+                    "probability": 0.9632971286773682
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

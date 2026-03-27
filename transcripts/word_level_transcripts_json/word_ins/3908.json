@@ -1,0 +1,101 @@
+{
+    "text": " Your test results should be available in a few on days.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.36,
+            "text": " Your test results should be available in a few on days.",
+            "tokens": [
+                50364,
+                2260,
+                1500,
+                3542,
+                820,
+                312,
+                2435,
+                294,
+                257,
+                1326,
+                322,
+                1708,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25771018664042156,
+            "compression_ratio": 0.9166666666666666,
+            "no_speech_prob": 0.02082120068371296,
+            "words": [
+                {
+                    "word": " Your",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.856803834438324
+                },
+                {
+                    "word": " test",
+                    "start": 0.4,
+                    "end": 0.58,
+                    "probability": 0.9965823292732239
+                },
+                {
+                    "word": " results",
+                    "start": 0.58,
+                    "end": 0.86,
+                    "probability": 0.6874887347221375
+                },
+                {
+                    "word": " should",
+                    "start": 0.86,
+                    "end": 1.08,
+                    "probability": 0.9967160224914551
+                },
+                {
+                    "word": " be",
+                    "start": 1.08,
+                    "end": 1.2,
+                    "probability": 0.9971342086791992
+                },
+                {
+                    "word": " available",
+                    "start": 1.2,
+                    "end": 1.52,
+                    "probability": 0.9982826709747314
+                },
+                {
+                    "word": " in",
+                    "start": 1.52,
+                    "end": 1.76,
+                    "probability": 0.9974918365478516
+                },
+                {
+                    "word": " a",
+                    "start": 1.76,
+                    "end": 1.84,
+                    "probability": 0.992405354976654
+                },
+                {
+                    "word": " few",
+                    "start": 1.84,
+                    "end": 1.98,
+                    "probability": 0.999778687953949
+                },
+                {
+                    "word": " on",
+                    "start": 1.98,
+                    "end": 2.14,
+                    "probability": 0.6908911466598511
+                },
+                {
+                    "word": " days.",
+                    "start": 2.14,
+                    "end": 2.36,
+                    "probability": 0.9833920001983643
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

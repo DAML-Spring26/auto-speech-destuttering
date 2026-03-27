@@ -1,0 +1,52 @@
+{
+    "text": " the project needs sources.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.18,
+            "text": " the project needs sources.",
+            "tokens": [
+                50364,
+                264,
+                1716,
+                2203,
+                7139,
+                13,
+                50446
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5059646964073181,
+            "compression_ratio": 0.7647058823529411,
+            "no_speech_prob": 0.005509317386895418,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.4237692356109619
+                },
+                {
+                    "word": " project",
+                    "start": 0.1,
+                    "end": 0.46,
+                    "probability": 0.9729401469230652
+                },
+                {
+                    "word": " needs",
+                    "start": 0.46,
+                    "end": 0.72,
+                    "probability": 0.9854494333267212
+                },
+                {
+                    "word": " sources.",
+                    "start": 0.72,
+                    "end": 1.18,
+                    "probability": 0.9253660440444946
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,106 @@
+{
+    "text": " I heard you got a new job. Well, congratulations.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.76,
+            "text": " I heard you got a new job.",
+            "tokens": [
+                50364,
+                286,
+                2198,
+                291,
+                658,
+                257,
+                777,
+                1691,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27794795877793255,
+            "compression_ratio": 0.8596491228070176,
+            "no_speech_prob": 0.029652290046215057,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.52,
+                    "probability": 0.848825216293335
+                },
+                {
+                    "word": " heard",
+                    "start": 0.52,
+                    "end": 0.7,
+                    "probability": 0.9915287494659424
+                },
+                {
+                    "word": " you",
+                    "start": 0.7,
+                    "end": 0.86,
+                    "probability": 0.9947285056114197
+                },
+                {
+                    "word": " got",
+                    "start": 0.86,
+                    "end": 1.02,
+                    "probability": 0.9772124886512756
+                },
+                {
+                    "word": " a",
+                    "start": 1.02,
+                    "end": 1.12,
+                    "probability": 0.9988829493522644
+                },
+                {
+                    "word": " new",
+                    "start": 1.12,
+                    "end": 1.28,
+                    "probability": 0.996466875076294
+                },
+                {
+                    "word": " job.",
+                    "start": 1.28,
+                    "end": 1.76,
+                    "probability": 0.9994376301765442
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.0,
+            "end": 3.06,
+            "text": " Well, congratulations.",
+            "tokens": [
+                50464,
+                1042,
+                11,
+                13568,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27794795877793255,
+            "compression_ratio": 0.8596491228070176,
+            "no_speech_prob": 0.029652290046215057,
+            "words": [
+                {
+                    "word": " Well,",
+                    "start": 2.0,
+                    "end": 2.32,
+                    "probability": 0.896708071231842
+                },
+                {
+                    "word": " congratulations.",
+                    "start": 2.44,
+                    "end": 3.06,
+                    "probability": 0.9683104753494263
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

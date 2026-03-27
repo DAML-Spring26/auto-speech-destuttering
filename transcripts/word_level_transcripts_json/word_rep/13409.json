@@ -1,0 +1,182 @@
+{
+    "text": " Although the initial results are promising, we need to conduct further trials to validate that the effectiveness of the treatment.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.48,
+            "text": " Although the initial results are promising, we need to conduct further trials to validate",
+            "tokens": [
+                50364,
+                5780,
+                264,
+                5883,
+                3542,
+                366,
+                20257,
+                11,
+                321,
+                643,
+                281,
+                6018,
+                3052,
+                12450,
+                281,
+                29562,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20309326383802626,
+            "compression_ratio": 1.2745098039215685,
+            "no_speech_prob": 0.0033232825808227062,
+            "words": [
+                {
+                    "word": " Although",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.8825681209564209
+                },
+                {
+                    "word": " the",
+                    "start": 0.28,
+                    "end": 0.46,
+                    "probability": 0.9829872846603394
+                },
+                {
+                    "word": " initial",
+                    "start": 0.46,
+                    "end": 0.78,
+                    "probability": 0.9985045194625854
+                },
+                {
+                    "word": " results",
+                    "start": 0.78,
+                    "end": 1.14,
+                    "probability": 0.998134434223175
+                },
+                {
+                    "word": " are",
+                    "start": 1.14,
+                    "end": 1.38,
+                    "probability": 0.9972937703132629
+                },
+                {
+                    "word": " promising,",
+                    "start": 1.38,
+                    "end": 1.88,
+                    "probability": 0.9957290291786194
+                },
+                {
+                    "word": " we",
+                    "start": 2.34,
+                    "end": 2.42,
+                    "probability": 0.9960365891456604
+                },
+                {
+                    "word": " need",
+                    "start": 2.42,
+                    "end": 2.6,
+                    "probability": 0.9975529313087463
+                },
+                {
+                    "word": " to",
+                    "start": 2.6,
+                    "end": 2.76,
+                    "probability": 0.9991612434387207
+                },
+                {
+                    "word": " conduct",
+                    "start": 2.76,
+                    "end": 3.1,
+                    "probability": 0.9965258240699768
+                },
+                {
+                    "word": " further",
+                    "start": 3.1,
+                    "end": 3.44,
+                    "probability": 0.9971457123756409
+                },
+                {
+                    "word": " trials",
+                    "start": 3.44,
+                    "end": 3.82,
+                    "probability": 0.9983206391334534
+                },
+                {
+                    "word": " to",
+                    "start": 3.82,
+                    "end": 4.12,
+                    "probability": 0.9979292154312134
+                },
+                {
+                    "word": " validate",
+                    "start": 4.12,
+                    "end": 4.48,
+                    "probability": 0.9961814880371094
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.48,
+            "end": 6.32,
+            "text": " that the effectiveness of the treatment.",
+            "tokens": [
+                50596,
+                300,
+                264,
+                21208,
+                295,
+                264,
+                5032,
+                13,
+                50692
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20309326383802626,
+            "compression_ratio": 1.2745098039215685,
+            "no_speech_prob": 0.0033232825808227062,
+            "words": [
+                {
+                    "word": " that",
+                    "start": 4.48,
+                    "end": 4.8,
+                    "probability": 0.9263918399810791
+                },
+                {
+                    "word": " the",
+                    "start": 4.8,
+                    "end": 4.96,
+                    "probability": 0.9932613968849182
+                },
+                {
+                    "word": " effectiveness",
+                    "start": 4.96,
+                    "end": 5.48,
+                    "probability": 0.9962700605392456
+                },
+                {
+                    "word": " of",
+                    "start": 5.48,
+                    "end": 5.84,
+                    "probability": 0.9990628361701965
+                },
+                {
+                    "word": " the",
+                    "start": 5.84,
+                    "end": 5.96,
+                    "probability": 0.990980327129364
+                },
+                {
+                    "word": " treatment.",
+                    "start": 5.96,
+                    "end": 6.32,
+                    "probability": 0.9928060173988342
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,134 @@
+{
+    "text": " What's the name of that actor who starred in? The latest superhero film.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.06,
+            "text": " What's the name of that actor who starred in?",
+            "tokens": [
+                50364,
+                708,
+                311,
+                264,
+                1315,
+                295,
+                300,
+                8747,
+                567,
+                39438,
+                294,
+                30,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4343978791009812,
+            "compression_ratio": 0.972972972972973,
+            "no_speech_prob": 0.006731678266078234,
+            "words": [
+                {
+                    "word": " What's",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.8626839220523834
+                },
+                {
+                    "word": " the",
+                    "start": 0.28,
+                    "end": 0.38,
+                    "probability": 0.9968252182006836
+                },
+                {
+                    "word": " name",
+                    "start": 0.38,
+                    "end": 0.52,
+                    "probability": 0.9960766434669495
+                },
+                {
+                    "word": " of",
+                    "start": 0.52,
+                    "end": 0.7,
+                    "probability": 0.9940084218978882
+                },
+                {
+                    "word": " that",
+                    "start": 0.7,
+                    "end": 0.84,
+                    "probability": 0.9724105000495911
+                },
+                {
+                    "word": " actor",
+                    "start": 0.84,
+                    "end": 1.2,
+                    "probability": 0.9967071413993835
+                },
+                {
+                    "word": " who",
+                    "start": 1.2,
+                    "end": 1.38,
+                    "probability": 0.9285004734992981
+                },
+                {
+                    "word": " starred",
+                    "start": 1.38,
+                    "end": 1.66,
+                    "probability": 0.7941778898239136
+                },
+                {
+                    "word": " in?",
+                    "start": 1.66,
+                    "end": 2.06,
+                    "probability": 0.9931190013885498
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.18,
+            "end": 7.12,
+            "text": " The latest superhero film.",
+            "tokens": [
+                50614,
+                440,
+                6792,
+                19428,
+                2007,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4343978791009812,
+            "compression_ratio": 0.972972972972973,
+            "no_speech_prob": 0.006731678266078234,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 5.18,
+                    "end": 5.74,
+                    "probability": 0.9317894577980042
+                },
+                {
+                    "word": " latest",
+                    "start": 5.74,
+                    "end": 5.96,
+                    "probability": 0.9820651412010193
+                },
+                {
+                    "word": " superhero",
+                    "start": 5.96,
+                    "end": 6.5,
+                    "probability": 0.987250804901123
+                },
+                {
+                    "word": " film.",
+                    "start": 6.5,
+                    "end": 7.12,
+                    "probability": 0.993403971195221
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,97 @@
+{
+    "text": " The patient's symptoms indicate a possible allergic reaction",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.7,
+            "text": " The patient's symptoms indicate",
+            "tokens": [
+                50364,
+                440,
+                4537,
+                311,
+                8332,
+                13330,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41388300486973356,
+            "compression_ratio": 0.9375,
+            "no_speech_prob": 0.00711764907464385,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6826478838920593
+                },
+                {
+                    "word": " patient's",
+                    "start": 0.12,
+                    "end": 0.7,
+                    "probability": 0.8182505965232849
+                },
+                {
+                    "word": " symptoms",
+                    "start": 0.7,
+                    "end": 1.0,
+                    "probability": 0.9946834444999695
+                },
+                {
+                    "word": " indicate",
+                    "start": 1.0,
+                    "end": 1.7,
+                    "probability": 0.9963627457618713
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.7,
+            "end": 6.66,
+            "text": " a possible allergic reaction",
+            "tokens": [
+                50614,
+                257,
+                1944,
+                31606,
+                5480,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41388300486973356,
+            "compression_ratio": 0.9375,
+            "no_speech_prob": 0.00711764907464385,
+            "words": [
+                {
+                    "word": " a",
+                    "start": 1.7,
+                    "end": 2.9,
+                    "probability": 0.391451895236969
+                },
+                {
+                    "word": " possible",
+                    "start": 2.9,
+                    "end": 5.54,
+                    "probability": 0.9806046485900879
+                },
+                {
+                    "word": " allergic",
+                    "start": 5.54,
+                    "end": 5.96,
+                    "probability": 0.9468176960945129
+                },
+                {
+                    "word": " reaction",
+                    "start": 5.96,
+                    "end": 6.66,
+                    "probability": 0.9970279335975647
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

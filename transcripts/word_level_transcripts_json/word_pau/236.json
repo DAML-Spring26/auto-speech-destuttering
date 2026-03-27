@@ -1,0 +1,133 @@
+{
+    "text": " the merger between the two companies is expected to to finalize next month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.68,
+            "text": " the merger between the two companies is expected to",
+            "tokens": [
+                50364,
+                264,
+                48002,
+                1296,
+                264,
+                732,
+                3431,
+                307,
+                5176,
+                281,
+                50502
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45273613929748535,
+            "compression_ratio": 1.0714285714285714,
+            "no_speech_prob": 0.0038761065807193518,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.4018964469432831
+                },
+                {
+                    "word": " merger",
+                    "start": 0.14,
+                    "end": 0.48,
+                    "probability": 0.9944987893104553
+                },
+                {
+                    "word": " between",
+                    "start": 0.48,
+                    "end": 0.82,
+                    "probability": 0.9950007796287537
+                },
+                {
+                    "word": " the",
+                    "start": 0.82,
+                    "end": 1.0,
+                    "probability": 0.9543903470039368
+                },
+                {
+                    "word": " two",
+                    "start": 1.0,
+                    "end": 1.18,
+                    "probability": 0.9694746136665344
+                },
+                {
+                    "word": " companies",
+                    "start": 1.18,
+                    "end": 1.68,
+                    "probability": 0.9901319742202759
+                },
+                {
+                    "word": " is",
+                    "start": 1.68,
+                    "end": 1.94,
+                    "probability": 0.9477612376213074
+                },
+                {
+                    "word": " expected",
+                    "start": 1.94,
+                    "end": 2.24,
+                    "probability": 0.9839854836463928
+                },
+                {
+                    "word": " to",
+                    "start": 2.24,
+                    "end": 2.68,
+                    "probability": 0.9745818376541138
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.56,
+            "end": 4.74,
+            "text": " to finalize next month.",
+            "tokens": [
+                50542,
+                281,
+                2572,
+                1125,
+                958,
+                1618,
+                13,
+                50612
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45273613929748535,
+            "compression_ratio": 1.0714285714285714,
+            "no_speech_prob": 0.0038761065807193518,
+            "words": [
+                {
+                    "word": " to",
+                    "start": 3.37,
+                    "end": 3.66,
+                    "probability": 0.06701422482728958
+                },
+                {
+                    "word": " finalize",
+                    "start": 3.66,
+                    "end": 4.26,
+                    "probability": 0.7172499895095825
+                },
+                {
+                    "word": " next",
+                    "start": 4.26,
+                    "end": 4.46,
+                    "probability": 0.9694216251373291
+                },
+                {
+                    "word": " month.",
+                    "start": 4.46,
+                    "end": 4.74,
+                    "probability": 0.9939289093017578
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

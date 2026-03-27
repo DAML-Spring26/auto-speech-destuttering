@@ -1,0 +1,101 @@
+{
+    "text": " The committee will review all applications before making a final decision.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.82,
+            "text": " The committee will review all applications before making a final decision.",
+            "tokens": [
+                50364,
+                440,
+                7482,
+                486,
+                3131,
+                439,
+                5821,
+                949,
+                1455,
+                257,
+                2572,
+                3537,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2572075366973877,
+            "compression_ratio": 1.0277777777777777,
+            "no_speech_prob": 0.02217915467917919,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.592738926410675
+                },
+                {
+                    "word": " committee",
+                    "start": 0.14,
+                    "end": 0.48,
+                    "probability": 0.7250127792358398
+                },
+                {
+                    "word": " will",
+                    "start": 0.48,
+                    "end": 0.86,
+                    "probability": 0.9900916814804077
+                },
+                {
+                    "word": " review",
+                    "start": 0.86,
+                    "end": 1.52,
+                    "probability": 0.8102054595947266
+                },
+                {
+                    "word": " all",
+                    "start": 1.52,
+                    "end": 1.94,
+                    "probability": 0.9903740882873535
+                },
+                {
+                    "word": " applications",
+                    "start": 1.94,
+                    "end": 2.68,
+                    "probability": 0.9860488176345825
+                },
+                {
+                    "word": " before",
+                    "start": 2.68,
+                    "end": 3.22,
+                    "probability": 0.9724180698394775
+                },
+                {
+                    "word": " making",
+                    "start": 3.22,
+                    "end": 3.66,
+                    "probability": 0.9984604120254517
+                },
+                {
+                    "word": " a",
+                    "start": 3.66,
+                    "end": 3.92,
+                    "probability": 0.9912334084510803
+                },
+                {
+                    "word": " final",
+                    "start": 3.92,
+                    "end": 4.2,
+                    "probability": 0.9878646731376648
+                },
+                {
+                    "word": " decision.",
+                    "start": 4.2,
+                    "end": 4.82,
+                    "probability": 0.9984885454177856
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

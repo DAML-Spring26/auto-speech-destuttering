@@ -1,0 +1,97 @@
+{
+    "text": " The botanist cataloged bare plant species in the Amazon rainforest.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.62,
+            "text": " The botanist cataloged bare plant species in the Amazon rainforest.",
+            "tokens": [
+                50364,
+                440,
+                10592,
+                282,
+                468,
+                19746,
+                292,
+                6949,
+                3709,
+                6172,
+                294,
+                264,
+                6795,
+                48531,
+                13,
+                50572
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.44467437968534584,
+            "compression_ratio": 0.9571428571428572,
+            "no_speech_prob": 0.007301677484065294,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6004859805107117
+                },
+                {
+                    "word": " botanist",
+                    "start": 0.14,
+                    "end": 0.72,
+                    "probability": 0.771069864432017
+                },
+                {
+                    "word": " cataloged",
+                    "start": 0.72,
+                    "end": 1.4,
+                    "probability": 0.6729527413845062
+                },
+                {
+                    "word": " bare",
+                    "start": 1.4,
+                    "end": 1.52,
+                    "probability": 0.18311205506324768
+                },
+                {
+                    "word": " plant",
+                    "start": 1.52,
+                    "end": 1.84,
+                    "probability": 0.9634045362472534
+                },
+                {
+                    "word": " species",
+                    "start": 1.84,
+                    "end": 2.24,
+                    "probability": 0.9978302121162415
+                },
+                {
+                    "word": " in",
+                    "start": 2.24,
+                    "end": 2.54,
+                    "probability": 0.9839730262756348
+                },
+                {
+                    "word": " the",
+                    "start": 2.54,
+                    "end": 2.68,
+                    "probability": 0.9682608246803284
+                },
+                {
+                    "word": " Amazon",
+                    "start": 2.68,
+                    "end": 3.12,
+                    "probability": 0.9703177809715271
+                },
+                {
+                    "word": " rainforest.",
+                    "start": 3.12,
+                    "end": 3.62,
+                    "probability": 0.9508901238441467
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

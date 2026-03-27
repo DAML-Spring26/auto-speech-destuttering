@@ -1,0 +1,115 @@
+{
+    "text": " the marketing team and the sales department are working on the new campaign.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.4,
+            "text": " the marketing team and the sales department are working on the new campaign.",
+            "tokens": [
+                50364,
+                264,
+                6370,
+                1469,
+                293,
+                264,
+                5763,
+                5882,
+                366,
+                1364,
+                322,
+                264,
+                777,
+                5129,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30692173452938304,
+            "compression_ratio": 1.1014492753623188,
+            "no_speech_prob": 0.00641595060005784,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.44705715775489807
+                },
+                {
+                    "word": " marketing",
+                    "start": 0.1,
+                    "end": 0.42,
+                    "probability": 0.9207837581634521
+                },
+                {
+                    "word": " team",
+                    "start": 0.42,
+                    "end": 0.8,
+                    "probability": 0.9975169897079468
+                },
+                {
+                    "word": " and",
+                    "start": 0.8,
+                    "end": 1.22,
+                    "probability": 0.8708850741386414
+                },
+                {
+                    "word": " the",
+                    "start": 1.22,
+                    "end": 1.32,
+                    "probability": 0.7131329774856567
+                },
+                {
+                    "word": " sales",
+                    "start": 1.32,
+                    "end": 1.54,
+                    "probability": 0.9722655415534973
+                },
+                {
+                    "word": " department",
+                    "start": 1.54,
+                    "end": 2.08,
+                    "probability": 0.9883559942245483
+                },
+                {
+                    "word": " are",
+                    "start": 2.08,
+                    "end": 2.32,
+                    "probability": 0.894531786441803
+                },
+                {
+                    "word": " working",
+                    "start": 2.32,
+                    "end": 2.6,
+                    "probability": 0.9926806092262268
+                },
+                {
+                    "word": " on",
+                    "start": 2.6,
+                    "end": 2.8,
+                    "probability": 0.9941907525062561
+                },
+                {
+                    "word": " the",
+                    "start": 2.8,
+                    "end": 2.9,
+                    "probability": 0.706612229347229
+                },
+                {
+                    "word": " new",
+                    "start": 2.9,
+                    "end": 3.04,
+                    "probability": 0.9889177083969116
+                },
+                {
+                    "word": " campaign.",
+                    "start": 3.04,
+                    "end": 3.4,
+                    "probability": 0.9965505599975586
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

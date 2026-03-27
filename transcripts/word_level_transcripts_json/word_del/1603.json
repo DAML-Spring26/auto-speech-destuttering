@@ -1,0 +1,97 @@
+{
+    "text": " The committee decided the proposal should be revised and resummeted.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.74,
+            "text": " The committee decided the proposal should be revised and resummeted.",
+            "tokens": [
+                50364,
+                440,
+                7482,
+                3047,
+                264,
+                11494,
+                820,
+                312,
+                35228,
+                293,
+                725,
+                449,
+                5537,
+                292,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30544314664952893,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.018840955570340157,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6114295721054077
+                },
+                {
+                    "word": " committee",
+                    "start": 0.12,
+                    "end": 0.5,
+                    "probability": 0.910277247428894
+                },
+                {
+                    "word": " decided",
+                    "start": 0.5,
+                    "end": 1.32,
+                    "probability": 0.9836565256118774
+                },
+                {
+                    "word": " the",
+                    "start": 1.32,
+                    "end": 1.56,
+                    "probability": 0.9446090459823608
+                },
+                {
+                    "word": " proposal",
+                    "start": 1.56,
+                    "end": 1.94,
+                    "probability": 0.9914952516555786
+                },
+                {
+                    "word": " should",
+                    "start": 1.94,
+                    "end": 2.26,
+                    "probability": 0.995597779750824
+                },
+                {
+                    "word": " be",
+                    "start": 2.26,
+                    "end": 2.44,
+                    "probability": 0.9984970092773438
+                },
+                {
+                    "word": " revised",
+                    "start": 2.44,
+                    "end": 2.84,
+                    "probability": 0.9872699975967407
+                },
+                {
+                    "word": " and",
+                    "start": 2.84,
+                    "end": 3.12,
+                    "probability": 0.9958447813987732
+                },
+                {
+                    "word": " resummeted.",
+                    "start": 3.12,
+                    "end": 3.74,
+                    "probability": 0.7469071596860886
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

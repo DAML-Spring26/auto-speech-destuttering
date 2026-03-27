@@ -1,0 +1,88 @@
+{
+    "text": " If you smell gas, evacuate the building immediately on.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.76,
+            "end": 4.76,
+            "text": " If you smell gas, evacuate the building immediately on.",
+            "tokens": [
+                50364,
+                759,
+                291,
+                4316,
+                4211,
+                11,
+                48570,
+                264,
+                2390,
+                4258,
+                322,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33153414726257324,
+            "compression_ratio": 0.8870967741935484,
+            "no_speech_prob": 0.07311584800481796,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 0.76,
+                    "end": 1.36,
+                    "probability": 0.8725687265396118
+                },
+                {
+                    "word": " you",
+                    "start": 1.36,
+                    "end": 1.44,
+                    "probability": 0.9973502159118652
+                },
+                {
+                    "word": " smell",
+                    "start": 1.44,
+                    "end": 1.66,
+                    "probability": 0.9241809844970703
+                },
+                {
+                    "word": " gas,",
+                    "start": 1.66,
+                    "end": 1.96,
+                    "probability": 0.9909056425094604
+                },
+                {
+                    "word": " evacuate",
+                    "start": 3.1,
+                    "end": 3.52,
+                    "probability": 0.9893031120300293
+                },
+                {
+                    "word": " the",
+                    "start": 3.52,
+                    "end": 3.72,
+                    "probability": 0.9889466166496277
+                },
+                {
+                    "word": " building",
+                    "start": 3.72,
+                    "end": 4.02,
+                    "probability": 0.9932085871696472
+                },
+                {
+                    "word": " immediately",
+                    "start": 4.02,
+                    "end": 4.42,
+                    "probability": 0.9989665746688843
+                },
+                {
+                    "word": " on.",
+                    "start": 4.42,
+                    "end": 4.76,
+                    "probability": 0.978438675403595
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

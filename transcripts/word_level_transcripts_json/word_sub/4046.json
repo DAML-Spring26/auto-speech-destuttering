@@ -1,0 +1,66 @@
+{
+    "text": " She can form the appointment time.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.76,
+            "text": " She can form the appointment time.",
+            "tokens": [
+                50364,
+                1240,
+                393,
+                1254,
+                264,
+                13653,
+                565,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3394192934036255,
+            "compression_ratio": 0.85,
+            "no_speech_prob": 0.0034640058875083923,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.5418655276298523
+                },
+                {
+                    "word": " can",
+                    "start": 0.18,
+                    "end": 0.38,
+                    "probability": 0.9391584992408752
+                },
+                {
+                    "word": " form",
+                    "start": 0.38,
+                    "end": 0.64,
+                    "probability": 0.9918835163116455
+                },
+                {
+                    "word": " the",
+                    "start": 0.64,
+                    "end": 0.84,
+                    "probability": 0.992664098739624
+                },
+                {
+                    "word": " appointment",
+                    "start": 0.84,
+                    "end": 1.24,
+                    "probability": 0.9942606687545776
+                },
+                {
+                    "word": " time.",
+                    "start": 1.24,
+                    "end": 1.76,
+                    "probability": 0.9949634075164795
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

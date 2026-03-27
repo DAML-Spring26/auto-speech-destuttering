@@ -1,0 +1,88 @@
+{
+    "text": " Did you catch the like, season final last night?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.28,
+            "text": " Did you catch the like, season final last night?",
+            "tokens": [
+                50364,
+                2589,
+                291,
+                3745,
+                264,
+                411,
+                11,
+                3196,
+                2572,
+                1036,
+                1818,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4523544652121408,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.02332429215312004,
+            "words": [
+                {
+                    "word": " Did",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.9430046081542969
+                },
+                {
+                    "word": " you",
+                    "start": 0.32,
+                    "end": 0.42,
+                    "probability": 0.9966261386871338
+                },
+                {
+                    "word": " catch",
+                    "start": 0.42,
+                    "end": 0.66,
+                    "probability": 0.9956390857696533
+                },
+                {
+                    "word": " the",
+                    "start": 0.66,
+                    "end": 0.82,
+                    "probability": 0.9923823475837708
+                },
+                {
+                    "word": " like,",
+                    "start": 0.82,
+                    "end": 1.0,
+                    "probability": 0.8813245892524719
+                },
+                {
+                    "word": " season",
+                    "start": 1.2,
+                    "end": 1.38,
+                    "probability": 0.7133286595344543
+                },
+                {
+                    "word": " final",
+                    "start": 1.38,
+                    "end": 1.74,
+                    "probability": 0.7637516260147095
+                },
+                {
+                    "word": " last",
+                    "start": 1.74,
+                    "end": 2.06,
+                    "probability": 0.8345337510108948
+                },
+                {
+                    "word": " night?",
+                    "start": 2.06,
+                    "end": 2.28,
+                    "probability": 0.9992972612380981
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

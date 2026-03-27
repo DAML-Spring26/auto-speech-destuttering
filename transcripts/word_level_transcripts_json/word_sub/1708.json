@@ -1,0 +1,66 @@
+{
+    "text": " they discussed the market trend synthesis.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.88,
+            "text": " they discussed the market trend synthesis.",
+            "tokens": [
+                50364,
+                436,
+                7152,
+                264,
+                2142,
+                6028,
+                30252,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5804998397827148,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.014426035806536674,
+            "words": [
+                {
+                    "word": " they",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.27422890067100525
+                },
+                {
+                    "word": " discussed",
+                    "start": 0.1,
+                    "end": 0.42,
+                    "probability": 0.6493244767189026
+                },
+                {
+                    "word": " the",
+                    "start": 0.42,
+                    "end": 0.68,
+                    "probability": 0.9297769069671631
+                },
+                {
+                    "word": " market",
+                    "start": 0.68,
+                    "end": 0.94,
+                    "probability": 0.9645934104919434
+                },
+                {
+                    "word": " trend",
+                    "start": 0.94,
+                    "end": 1.28,
+                    "probability": 0.49162033200263977
+                },
+                {
+                    "word": " synthesis.",
+                    "start": 1.28,
+                    "end": 1.88,
+                    "probability": 0.9957939386367798
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

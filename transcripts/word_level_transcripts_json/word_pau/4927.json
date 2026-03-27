@@ -1,0 +1,119 @@
+{
+    "text": " The new virtual reality heads it offers. An immersive gaming experience.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.84,
+            "text": " The new virtual reality heads it offers.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                6374,
+                4103,
+                8050,
+                309,
+                7736,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5891701380411783,
+            "compression_ratio": 0.9863013698630136,
+            "no_speech_prob": 0.051022209227085114,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.76,
+                    "probability": 0.6745486855506897
+                },
+                {
+                    "word": " new",
+                    "start": 0.76,
+                    "end": 0.96,
+                    "probability": 0.977687418460846
+                },
+                {
+                    "word": " virtual",
+                    "start": 0.96,
+                    "end": 1.4,
+                    "probability": 0.6076673269271851
+                },
+                {
+                    "word": " reality",
+                    "start": 1.4,
+                    "end": 1.94,
+                    "probability": 0.9884510040283203
+                },
+                {
+                    "word": " heads",
+                    "start": 1.94,
+                    "end": 2.28,
+                    "probability": 0.40330544114112854
+                },
+                {
+                    "word": " it",
+                    "start": 2.28,
+                    "end": 2.38,
+                    "probability": 0.42849573493003845
+                },
+                {
+                    "word": " offers.",
+                    "start": 2.38,
+                    "end": 2.84,
+                    "probability": 0.7684362530708313
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.8,
+            "end": 7.22,
+            "text": " An immersive gaming experience.",
+            "tokens": [
+                50614,
+                1107,
+                35409,
+                9703,
+                1752,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5891701380411783,
+            "compression_ratio": 0.9863013698630136,
+            "no_speech_prob": 0.051022209227085114,
+            "words": [
+                {
+                    "word": " An",
+                    "start": 4.8,
+                    "end": 5.72,
+                    "probability": 0.9159219861030579
+                },
+                {
+                    "word": " immersive",
+                    "start": 5.72,
+                    "end": 6.1,
+                    "probability": 0.9883978962898254
+                },
+                {
+                    "word": " gaming",
+                    "start": 6.1,
+                    "end": 6.52,
+                    "probability": 0.9917015433311462
+                },
+                {
+                    "word": " experience.",
+                    "start": 6.52,
+                    "end": 7.22,
+                    "probability": 0.9987916350364685
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

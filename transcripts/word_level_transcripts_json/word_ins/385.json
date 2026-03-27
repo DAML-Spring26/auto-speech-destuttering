@@ -1,0 +1,95 @@
+{
+    "text": " We should plan a weekend getaway to the beach soon.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.24,
+            "text": " We should plan a weekend getaway to the beach soon.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                1393,
+                257,
+                6711,
+                483,
+                10318,
+                281,
+                264,
+                7534,
+                2321,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3262831687927246,
+            "compression_ratio": 0.8793103448275862,
+            "no_speech_prob": 0.012129319831728935,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.8078744411468506
+                },
+                {
+                    "word": " should",
+                    "start": 0.34,
+                    "end": 0.48,
+                    "probability": 0.9952367544174194
+                },
+                {
+                    "word": " plan",
+                    "start": 0.48,
+                    "end": 0.68,
+                    "probability": 0.9942094087600708
+                },
+                {
+                    "word": " a",
+                    "start": 0.68,
+                    "end": 0.8,
+                    "probability": 0.9854403138160706
+                },
+                {
+                    "word": " weekend",
+                    "start": 0.8,
+                    "end": 0.98,
+                    "probability": 0.868224561214447
+                },
+                {
+                    "word": " getaway",
+                    "start": 0.98,
+                    "end": 1.4,
+                    "probability": 0.8779120743274689
+                },
+                {
+                    "word": " to",
+                    "start": 1.4,
+                    "end": 1.54,
+                    "probability": 0.9893563389778137
+                },
+                {
+                    "word": " the",
+                    "start": 1.54,
+                    "end": 1.62,
+                    "probability": 0.9889386892318726
+                },
+                {
+                    "word": " beach",
+                    "start": 1.62,
+                    "end": 1.9,
+                    "probability": 0.9945712685585022
+                },
+                {
+                    "word": " soon.",
+                    "start": 1.9,
+                    "end": 2.24,
+                    "probability": 0.3397628962993622
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

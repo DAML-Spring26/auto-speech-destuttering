@@ -1,0 +1,60 @@
+{
+    "text": " The conference presentation was performative.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.2,
+            "text": " The conference presentation was performative.",
+            "tokens": [
+                50364,
+                440,
+                7586,
+                5860,
+                390,
+                2042,
+                1166,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3773146867752075,
+            "compression_ratio": 0.8653846153846154,
+            "no_speech_prob": 0.012209535576403141,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.8066309690475464
+                },
+                {
+                    "word": " conference",
+                    "start": 0.1,
+                    "end": 0.46,
+                    "probability": 0.9811845421791077
+                },
+                {
+                    "word": " presentation",
+                    "start": 0.46,
+                    "end": 1.18,
+                    "probability": 0.9896060228347778
+                },
+                {
+                    "word": " was",
+                    "start": 1.18,
+                    "end": 1.44,
+                    "probability": 0.9970172643661499
+                },
+                {
+                    "word": " performative.",
+                    "start": 1.44,
+                    "end": 2.2,
+                    "probability": 0.9783762097358704
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,52 @@
+{
+    "text": " We need more sources.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.18,
+            "text": " We need more sources.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                544,
+                7139,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4300757944583893,
+            "compression_ratio": 0.7241379310344828,
+            "no_speech_prob": 0.008327526971697807,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6964843273162842
+                },
+                {
+                    "word": " need",
+                    "start": 0.16,
+                    "end": 0.4,
+                    "probability": 0.9985328912734985
+                },
+                {
+                    "word": " more",
+                    "start": 0.4,
+                    "end": 0.66,
+                    "probability": 0.997974693775177
+                },
+                {
+                    "word": " sources.",
+                    "start": 0.66,
+                    "end": 1.18,
+                    "probability": 0.9667935967445374
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

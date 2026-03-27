@@ -1,0 +1,66 @@
+{
+    "text": " The clinical trial reduces promising results.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.04,
+            "text": " The clinical trial reduces promising results.",
+            "tokens": [
+                50364,
+                440,
+                9115,
+                7308,
+                18081,
+                20257,
+                3542,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4202925205230713,
+            "compression_ratio": 0.9,
+            "no_speech_prob": 0.007344442885369062,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6715596914291382
+                },
+                {
+                    "word": " clinical",
+                    "start": 0.12,
+                    "end": 0.58,
+                    "probability": 0.9317038059234619
+                },
+                {
+                    "word": " trial",
+                    "start": 0.58,
+                    "end": 1.1,
+                    "probability": 0.9987362027168274
+                },
+                {
+                    "word": " reduces",
+                    "start": 1.1,
+                    "end": 1.7,
+                    "probability": 0.9874805808067322
+                },
+                {
+                    "word": " promising",
+                    "start": 1.7,
+                    "end": 2.3,
+                    "probability": 0.9889684915542603
+                },
+                {
+                    "word": " results.",
+                    "start": 2.3,
+                    "end": 3.04,
+                    "probability": 0.9987623691558838
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

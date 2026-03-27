@@ -1,0 +1,102 @@
+{
+    "text": " Remember to water the plants while I'm away on um vacation.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.74,
+            "text": " Remember to water the plants while I'm away on um vacation.",
+            "tokens": [
+                50364,
+                5459,
+                281,
+                1281,
+                264,
+                5972,
+                1339,
+                286,
+                478,
+                1314,
+                322,
+                1105,
+                12830,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4012640118598938,
+            "compression_ratio": 0.921875,
+            "no_speech_prob": 0.027051061391830444,
+            "words": [
+                {
+                    "word": " Remember",
+                    "start": 0.0,
+                    "end": 0.56,
+                    "probability": 0.8384253978729248
+                },
+                {
+                    "word": " to",
+                    "start": 0.56,
+                    "end": 0.74,
+                    "probability": 0.9932911396026611
+                },
+                {
+                    "word": " water",
+                    "start": 0.74,
+                    "end": 1.0,
+                    "probability": 0.9900817275047302
+                },
+                {
+                    "word": " the",
+                    "start": 1.0,
+                    "end": 1.18,
+                    "probability": 0.9964659214019775
+                },
+                {
+                    "word": " plants",
+                    "start": 1.18,
+                    "end": 1.58,
+                    "probability": 0.9895581603050232
+                },
+                {
+                    "word": " while",
+                    "start": 1.58,
+                    "end": 1.84,
+                    "probability": 0.9872293472290039
+                },
+                {
+                    "word": " I'm",
+                    "start": 1.84,
+                    "end": 2.06,
+                    "probability": 0.9598483443260193
+                },
+                {
+                    "word": " away",
+                    "start": 2.06,
+                    "end": 2.26,
+                    "probability": 0.9811797738075256
+                },
+                {
+                    "word": " on",
+                    "start": 2.26,
+                    "end": 2.52,
+                    "probability": 0.9874468445777893
+                },
+                {
+                    "word": " um",
+                    "start": 2.52,
+                    "end": 3.06,
+                    "probability": 0.21651557087898254
+                },
+                {
+                    "word": " vacation.",
+                    "start": 3.06,
+                    "end": 3.74,
+                    "probability": 0.339308500289917
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

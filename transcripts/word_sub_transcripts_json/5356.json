@@ -1,0 +1,73 @@
+{
+    "text": " The journalist investigated allegations of corporate fraud.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.86,
+            "text": " The journalist investigated allegations of corporate fraud.",
+            "tokens": [
+                50364,
+                440,
+                17277,
+                30070,
+                29259,
+                295,
+                10896,
+                14560,
+                13,
+                50576
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42851959575306287,
+            "compression_ratio": 0.921875,
+            "no_speech_prob": 0.004984233994036913,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8153655529022217
+                },
+                {
+                    "word": " journalist",
+                    "start": 0.14,
+                    "end": 0.56,
+                    "probability": 0.7964605093002319
+                },
+                {
+                    "word": " investigated",
+                    "start": 0.56,
+                    "end": 1.68,
+                    "probability": 0.9943392872810364
+                },
+                {
+                    "word": " allegations",
+                    "start": 1.68,
+                    "end": 2.36,
+                    "probability": 0.9721986055374146
+                },
+                {
+                    "word": " of",
+                    "start": 2.36,
+                    "end": 2.92,
+                    "probability": 0.9970433115959167
+                },
+                {
+                    "word": " corporate",
+                    "start": 2.92,
+                    "end": 3.38,
+                    "probability": 0.9698063731193542
+                },
+                {
+                    "word": " fraud.",
+                    "start": 3.38,
+                    "end": 3.86,
+                    "probability": 0.6320788860321045
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

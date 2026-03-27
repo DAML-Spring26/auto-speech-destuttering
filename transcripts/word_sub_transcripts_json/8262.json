@@ -1,0 +1,88 @@
+{
+    "text": " We need to optimise the algorithm for better performance.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.34,
+            "text": " We need to optimise the algorithm for better performance.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                5028,
+                908,
+                264,
+                9284,
+                337,
+                1101,
+                3389,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3289304460797991,
+            "compression_ratio": 0.95,
+            "no_speech_prob": 0.0034227934665977955,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6365178823471069
+                },
+                {
+                    "word": " need",
+                    "start": 0.12,
+                    "end": 0.24,
+                    "probability": 0.9930932521820068
+                },
+                {
+                    "word": " to",
+                    "start": 0.24,
+                    "end": 0.38,
+                    "probability": 0.9987949132919312
+                },
+                {
+                    "word": " optimise",
+                    "start": 0.38,
+                    "end": 0.92,
+                    "probability": 0.8104940056800842
+                },
+                {
+                    "word": " the",
+                    "start": 0.92,
+                    "end": 1.06,
+                    "probability": 0.9834513664245605
+                },
+                {
+                    "word": " algorithm",
+                    "start": 1.06,
+                    "end": 1.42,
+                    "probability": 0.9671963453292847
+                },
+                {
+                    "word": " for",
+                    "start": 1.42,
+                    "end": 1.64,
+                    "probability": 0.9815048575401306
+                },
+                {
+                    "word": " better",
+                    "start": 1.64,
+                    "end": 1.9,
+                    "probability": 0.9369890093803406
+                },
+                {
+                    "word": " performance.",
+                    "start": 1.9,
+                    "end": 2.34,
+                    "probability": 0.983932614326477
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

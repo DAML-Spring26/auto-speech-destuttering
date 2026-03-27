@@ -1,47 +1,40 @@
 {
-    "text": " The surgery is scheduled for you now. Next Tuesday morning.",
+    "text": " And no. In.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 3.48,
-            "text": " The surgery is scheduled for you now.",
+            "end": 1.0,
+            "text": " And no.",
             "tokens": [
                 50364,
-                440,
-                7930,
-                307,
-                15678,
-                337,
-                291,
-                586,
+                400,
+                572,
                 13,
-                50538
+                50414
             ],
-            "temperature": 0.0,
-            "avg_logprob": -0.5359793270335478,
-            "compression_ratio": 0.9076923076923077,
-            "no_speech_prob": 0.04900343716144562
+            "temperature": 0.4,
+            "avg_logprob": -0.9596244812011718,
+            "compression_ratio": 0.5789473684210527,
+            "no_speech_prob": 0.11349697411060333
         },
         {
             "id": 1,
             "seek": 0,
-            "start": 3.48,
-            "end": 5.48,
-            "text": " Next Tuesday morning.",
+            "start": 1.0,
+            "end": 2.0,
+            "text": " In.",
             "tokens": [
-                50538,
-                3087,
-                10017,
-                2446,
+                50414,
+                682,
                 13,
-                50638
+                50464
             ],
-            "temperature": 0.0,
-            "avg_logprob": -0.5359793270335478,
-            "compression_ratio": 0.9076923076923077,
-            "no_speech_prob": 0.04900343716144562
+            "temperature": 0.4,
+            "avg_logprob": -0.9596244812011718,
+            "compression_ratio": 0.5789473684210527,
+            "no_speech_prob": 0.11349697411060333
         }
     ],
     "language": "en"

@@ -1,0 +1,52 @@
+{
+    "text": " through through the puck.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.28,
+            "text": " through through the puck.",
+            "tokens": [
+                50364,
+                807,
+                807,
+                264,
+                47181,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7140027284622192,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.05759972333908081,
+            "words": [
+                {
+                    "word": " through",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.6162110567092896
+                },
+                {
+                    "word": " through",
+                    "start": 0.26,
+                    "end": 0.74,
+                    "probability": 0.6097186803817749
+                },
+                {
+                    "word": " the",
+                    "start": 0.74,
+                    "end": 0.9,
+                    "probability": 0.9919131994247437
+                },
+                {
+                    "word": " puck.",
+                    "start": 0.9,
+                    "end": 1.28,
+                    "probability": 0.4760633707046509
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

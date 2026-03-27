@@ -1,0 +1,73 @@
+{
+    "text": " Can you explain how this algorithm works?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.1,
+            "text": " Can you explain how this algorithm works?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                2903,
+                577,
+                341,
+                9284,
+                1985,
+                30,
+                50639
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.415914232080633,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.023165492340922356,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7248204350471497
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.32,
+                    "probability": 0.9893214702606201
+                },
+                {
+                    "word": " explain",
+                    "start": 0.32,
+                    "end": 0.66,
+                    "probability": 0.9975357055664062
+                },
+                {
+                    "word": " how",
+                    "start": 0.66,
+                    "end": 0.94,
+                    "probability": 0.9874336123466492
+                },
+                {
+                    "word": " this",
+                    "start": 0.94,
+                    "end": 1.18,
+                    "probability": 0.8992679715156555
+                },
+                {
+                    "word": " algorithm",
+                    "start": 1.18,
+                    "end": 4.5,
+                    "probability": 0.9665933847427368
+                },
+                {
+                    "word": " works?",
+                    "start": 4.5,
+                    "end": 5.1,
+                    "probability": 0.9943722486495972
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,96 @@
+{
+    "text": " Either we go out for dinner, we order takeout tonight.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.62,
+            "text": " Either we go out for dinner, we order takeout tonight.",
+            "tokens": [
+                50364,
+                13746,
+                321,
+                352,
+                484,
+                337,
+                6148,
+                11,
+                321,
+                1668,
+                747,
+                346,
+                4440,
+                13,
+                50510
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3430004417896271,
+            "compression_ratio": 0.9642857142857143,
+            "no_speech_prob": 0.006662426516413689,
+            "words": [
+                {
+                    "word": " Either",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.7281571626663208
+                },
+                {
+                    "word": " we",
+                    "start": 0.3,
+                    "end": 0.5,
+                    "probability": 0.9835872054100037
+                },
+                {
+                    "word": " go",
+                    "start": 0.5,
+                    "end": 0.68,
+                    "probability": 0.9924367070198059
+                },
+                {
+                    "word": " out",
+                    "start": 0.68,
+                    "end": 0.9,
+                    "probability": 0.9924671053886414
+                },
+                {
+                    "word": " for",
+                    "start": 0.9,
+                    "end": 1.12,
+                    "probability": 0.9833330512046814
+                },
+                {
+                    "word": " dinner,",
+                    "start": 1.12,
+                    "end": 1.4,
+                    "probability": 0.9975704550743103
+                },
+                {
+                    "word": " we",
+                    "start": 1.52,
+                    "end": 1.62,
+                    "probability": 0.9798091053962708
+                },
+                {
+                    "word": " order",
+                    "start": 1.62,
+                    "end": 1.76,
+                    "probability": 0.7413814663887024
+                },
+                {
+                    "word": " takeout",
+                    "start": 1.76,
+                    "end": 2.32,
+                    "probability": 0.6980291604995728
+                },
+                {
+                    "word": " tonight.",
+                    "start": 2.32,
+                    "end": 2.62,
+                    "probability": 0.9833695292472839
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

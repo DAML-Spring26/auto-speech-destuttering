@@ -1,0 +1,96 @@
+{
+    "text": " The meeting is scheduled for at 2 p.m. tomorrow.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.64,
+            "text": " The meeting is scheduled for at 2 p.m. tomorrow.",
+            "tokens": [
+                50364,
+                440,
+                3440,
+                307,
+                15678,
+                337,
+                412,
+                568,
+                280,
+                13,
+                76,
+                13,
+                4153,
+                13,
+                50498
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33208680152893066,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.028292445465922356,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.5,
+                    "probability": 0.8907063007354736
+                },
+                {
+                    "word": " meeting",
+                    "start": 0.5,
+                    "end": 0.76,
+                    "probability": 0.9939524531364441
+                },
+                {
+                    "word": " is",
+                    "start": 0.76,
+                    "end": 0.94,
+                    "probability": 0.9969685673713684
+                },
+                {
+                    "word": " scheduled",
+                    "start": 0.94,
+                    "end": 1.34,
+                    "probability": 0.9998241066932678
+                },
+                {
+                    "word": " for",
+                    "start": 1.34,
+                    "end": 1.62,
+                    "probability": 0.9935209155082703
+                },
+                {
+                    "word": " at",
+                    "start": 1.62,
+                    "end": 1.74,
+                    "probability": 0.8755178451538086
+                },
+                {
+                    "word": " 2",
+                    "start": 1.74,
+                    "end": 1.96,
+                    "probability": 0.9392470717430115
+                },
+                {
+                    "word": " p",
+                    "start": 1.96,
+                    "end": 2.16,
+                    "probability": 0.4790925681591034
+                },
+                {
+                    "word": ".m.",
+                    "start": 2.16,
+                    "end": 2.3,
+                    "probability": 0.9964286088943481
+                },
+                {
+                    "word": " tomorrow.",
+                    "start": 2.62,
+                    "end": 2.64,
+                    "probability": 0.9513130187988281
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

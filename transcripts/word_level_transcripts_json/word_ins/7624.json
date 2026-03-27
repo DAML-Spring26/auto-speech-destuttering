@@ -1,0 +1,102 @@
+{
+    "text": " In case of a fire alarm, use the nearest emergency exit.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.5,
+            "text": " In case of a fire alarm, use the nearest emergency exit.",
+            "tokens": [
+                50364,
+                682,
+                1389,
+                295,
+                257,
+                2610,
+                14183,
+                11,
+                764,
+                264,
+                23831,
+                7473,
+                11043,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23333366215229034,
+            "compression_ratio": 0.9032258064516129,
+            "no_speech_prob": 0.009491759352385998,
+            "words": [
+                {
+                    "word": " In",
+                    "start": 0.0,
+                    "end": 0.56,
+                    "probability": 0.8565759062767029
+                },
+                {
+                    "word": " case",
+                    "start": 0.56,
+                    "end": 0.76,
+                    "probability": 0.992790699005127
+                },
+                {
+                    "word": " of",
+                    "start": 0.76,
+                    "end": 1.0,
+                    "probability": 0.9969724416732788
+                },
+                {
+                    "word": " a",
+                    "start": 1.0,
+                    "end": 1.12,
+                    "probability": 0.9752876162528992
+                },
+                {
+                    "word": " fire",
+                    "start": 1.12,
+                    "end": 1.44,
+                    "probability": 0.976758599281311
+                },
+                {
+                    "word": " alarm,",
+                    "start": 1.44,
+                    "end": 1.88,
+                    "probability": 0.9989641904830933
+                },
+                {
+                    "word": " use",
+                    "start": 2.56,
+                    "end": 2.8,
+                    "probability": 0.9906716346740723
+                },
+                {
+                    "word": " the",
+                    "start": 2.8,
+                    "end": 2.96,
+                    "probability": 0.9948936700820923
+                },
+                {
+                    "word": " nearest",
+                    "start": 2.96,
+                    "end": 3.38,
+                    "probability": 0.9542054533958435
+                },
+                {
+                    "word": " emergency",
+                    "start": 3.38,
+                    "end": 4.86,
+                    "probability": 0.9663597941398621
+                },
+                {
+                    "word": " exit.",
+                    "start": 4.86,
+                    "end": 5.5,
+                    "probability": 0.9983987212181091
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

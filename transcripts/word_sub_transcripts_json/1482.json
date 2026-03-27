@@ -1,0 +1,59 @@
+{
+    "text": " Please fight the candle carefully.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.16,
+            "text": " Please fight the candle carefully.",
+            "tokens": [
+                50364,
+                2555,
+                2092,
+                264,
+                17968,
+                7500,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.43422359890407985,
+            "compression_ratio": 0.8717948717948718,
+            "no_speech_prob": 0.01144674327224493,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.6995174884796143
+                },
+                {
+                    "word": " fight",
+                    "start": 0.18,
+                    "end": 0.38,
+                    "probability": 0.6198061108589172
+                },
+                {
+                    "word": " the",
+                    "start": 0.38,
+                    "end": 0.5,
+                    "probability": 0.9790250658988953
+                },
+                {
+                    "word": " candle",
+                    "start": 0.5,
+                    "end": 0.74,
+                    "probability": 0.9778738617897034
+                },
+                {
+                    "word": " carefully.",
+                    "start": 0.74,
+                    "end": 1.16,
+                    "probability": 0.9653969407081604
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

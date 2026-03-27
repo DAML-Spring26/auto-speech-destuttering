@@ -1,0 +1,59 @@
+{
+    "text": " the solution appears quite processing.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.58,
+            "text": " the solution appears quite processing.",
+            "tokens": [
+                50364,
+                264,
+                3827,
+                7038,
+                1596,
+                9007,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47207021713256836,
+            "compression_ratio": 0.8260869565217391,
+            "no_speech_prob": 0.01035312283784151,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.4199070930480957
+                },
+                {
+                    "word": " solution",
+                    "start": 0.1,
+                    "end": 0.76,
+                    "probability": 0.988616406917572
+                },
+                {
+                    "word": " appears",
+                    "start": 0.76,
+                    "end": 1.28,
+                    "probability": 0.985037624835968
+                },
+                {
+                    "word": " quite",
+                    "start": 1.28,
+                    "end": 1.76,
+                    "probability": 0.9790660738945007
+                },
+                {
+                    "word": " processing.",
+                    "start": 1.76,
+                    "end": 2.58,
+                    "probability": 0.9814071655273438
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

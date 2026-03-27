@@ -1,0 +1,60 @@
+{
+    "text": " the nudge reviewed the case.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.02,
+            "text": " the nudge reviewed the case.",
+            "tokens": [
+                50364,
+                264,
+                297,
+                16032,
+                18429,
+                264,
+                1389,
+                13,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6669135570526123,
+            "compression_ratio": 0.8,
+            "no_speech_prob": 0.01747327484190464,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6180409789085388
+                },
+                {
+                    "word": " nudge",
+                    "start": 0.1,
+                    "end": 0.34,
+                    "probability": 0.6569854617118835
+                },
+                {
+                    "word": " reviewed",
+                    "start": 0.34,
+                    "end": 0.58,
+                    "probability": 0.7709740400314331
+                },
+                {
+                    "word": " the",
+                    "start": 0.58,
+                    "end": 0.78,
+                    "probability": 0.9913485646247864
+                },
+                {
+                    "word": " case.",
+                    "start": 0.78,
+                    "end": 1.02,
+                    "probability": 0.9967064261436462
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

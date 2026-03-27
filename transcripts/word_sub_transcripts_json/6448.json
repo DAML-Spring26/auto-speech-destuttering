@@ -1,0 +1,81 @@
+{
+    "text": " We're experiencing unexpected delays in the supply change.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.88,
+            "text": " We're experiencing unexpected delays in the supply change.",
+            "tokens": [
+                50364,
+                492,
+                434,
+                11139,
+                13106,
+                28610,
+                294,
+                264,
+                5847,
+                1319,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26639261612525356,
+            "compression_ratio": 0.9206349206349206,
+            "no_speech_prob": 0.002068190835416317,
+            "words": [
+                {
+                    "word": " We're",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7550735771656036
+                },
+                {
+                    "word": " experiencing",
+                    "start": 0.16,
+                    "end": 0.74,
+                    "probability": 0.996936559677124
+                },
+                {
+                    "word": " unexpected",
+                    "start": 0.74,
+                    "end": 1.42,
+                    "probability": 0.9785128831863403
+                },
+                {
+                    "word": " delays",
+                    "start": 1.42,
+                    "end": 1.88,
+                    "probability": 0.9953891038894653
+                },
+                {
+                    "word": " in",
+                    "start": 1.88,
+                    "end": 2.12,
+                    "probability": 0.9930614829063416
+                },
+                {
+                    "word": " the",
+                    "start": 2.12,
+                    "end": 2.2,
+                    "probability": 0.9928061366081238
+                },
+                {
+                    "word": " supply",
+                    "start": 2.2,
+                    "end": 2.48,
+                    "probability": 0.9890879392623901
+                },
+                {
+                    "word": " change.",
+                    "start": 2.48,
+                    "end": 2.88,
+                    "probability": 0.8493263721466064
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

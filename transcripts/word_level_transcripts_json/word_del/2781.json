@@ -1,0 +1,101 @@
+{
+    "text": " The sales team was reaching to potential clients in new markets.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.0,
+            "text": " The sales team was reaching to potential clients in new markets.",
+            "tokens": [
+                50364,
+                440,
+                5763,
+                1469,
+                390,
+                9906,
+                281,
+                3995,
+                6982,
+                294,
+                777,
+                8383,
+                13,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36447003682454426,
+            "compression_ratio": 0.9846153846153847,
+            "no_speech_prob": 0.007389591075479984,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7374686598777771
+                },
+                {
+                    "word": " sales",
+                    "start": 0.12,
+                    "end": 0.46,
+                    "probability": 0.9204856753349304
+                },
+                {
+                    "word": " team",
+                    "start": 0.46,
+                    "end": 0.82,
+                    "probability": 0.996841311454773
+                },
+                {
+                    "word": " was",
+                    "start": 0.82,
+                    "end": 1.06,
+                    "probability": 0.4617062211036682
+                },
+                {
+                    "word": " reaching",
+                    "start": 1.06,
+                    "end": 1.32,
+                    "probability": 0.9856862425804138
+                },
+                {
+                    "word": " to",
+                    "start": 1.32,
+                    "end": 1.5,
+                    "probability": 0.9089942574501038
+                },
+                {
+                    "word": " potential",
+                    "start": 1.5,
+                    "end": 1.96,
+                    "probability": 0.9873639941215515
+                },
+                {
+                    "word": " clients",
+                    "start": 1.96,
+                    "end": 2.38,
+                    "probability": 0.9941580295562744
+                },
+                {
+                    "word": " in",
+                    "start": 2.38,
+                    "end": 2.58,
+                    "probability": 0.8324949741363525
+                },
+                {
+                    "word": " new",
+                    "start": 2.58,
+                    "end": 2.7,
+                    "probability": 0.4495045840740204
+                },
+                {
+                    "word": " markets.",
+                    "start": 2.7,
+                    "end": 3.0,
+                    "probability": 0.9812138080596924
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,66 @@
+{
+    "text": " package delivered to my office yesterday.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.8,
+            "text": " package delivered to my office yesterday.",
+            "tokens": [
+                50364,
+                7372,
+                10144,
+                281,
+                452,
+                3398,
+                5186,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5189616680145264,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.012579130008816719,
+            "words": [
+                {
+                    "word": " package",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.33661922812461853
+                },
+                {
+                    "word": " delivered",
+                    "start": 0.38,
+                    "end": 0.7,
+                    "probability": 0.7307150363922119
+                },
+                {
+                    "word": " to",
+                    "start": 0.7,
+                    "end": 0.96,
+                    "probability": 0.9939898252487183
+                },
+                {
+                    "word": " my",
+                    "start": 0.96,
+                    "end": 1.1,
+                    "probability": 0.9975391626358032
+                },
+                {
+                    "word": " office",
+                    "start": 1.1,
+                    "end": 1.34,
+                    "probability": 0.9969140291213989
+                },
+                {
+                    "word": " yesterday.",
+                    "start": 1.34,
+                    "end": 1.8,
+                    "probability": 0.9900423288345337
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

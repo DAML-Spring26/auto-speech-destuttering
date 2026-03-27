@@ -1,0 +1,113 @@
+{
+    "text": " Just try the new recipe. For dinner, turn out great.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.74,
+            "text": " Just try the new recipe.",
+            "tokens": [
+                50364,
+                1449,
+                853,
+                264,
+                777,
+                6782,
+                13,
+                50656
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5758500629001193,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.008286084048449993,
+            "words": [
+                {
+                    "word": " Just",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.5875111222267151
+                },
+                {
+                    "word": " try",
+                    "start": 0.24,
+                    "end": 0.68,
+                    "probability": 0.9296360611915588
+                },
+                {
+                    "word": " the",
+                    "start": 0.68,
+                    "end": 0.9,
+                    "probability": 0.9287096261978149
+                },
+                {
+                    "word": " new",
+                    "start": 0.9,
+                    "end": 1.16,
+                    "probability": 0.9824261665344238
+                },
+                {
+                    "word": " recipe.",
+                    "start": 1.16,
+                    "end": 1.74,
+                    "probability": 0.9529455304145813
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.84,
+            "end": 7.7,
+            "text": " For dinner, turn out great.",
+            "tokens": [
+                50656,
+                1171,
+                6148,
+                11,
+                1261,
+                484,
+                869,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5758500629001193,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.008286084048449993,
+            "words": [
+                {
+                    "word": " For",
+                    "start": 5.54,
+                    "end": 5.96,
+                    "probability": 0.951654851436615
+                },
+                {
+                    "word": " dinner,",
+                    "start": 5.96,
+                    "end": 6.32,
+                    "probability": 0.9889788031578064
+                },
+                {
+                    "word": " turn",
+                    "start": 6.84,
+                    "end": 7.0,
+                    "probability": 0.9922304749488831
+                },
+                {
+                    "word": " out",
+                    "start": 7.0,
+                    "end": 7.28,
+                    "probability": 0.9844592809677124
+                },
+                {
+                    "word": " great.",
+                    "start": 7.28,
+                    "end": 7.7,
+                    "probability": 0.9967466592788696
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

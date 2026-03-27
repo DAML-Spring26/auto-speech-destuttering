@@ -1,0 +1,83 @@
+{
+    "text": " The multinational corporation announced a significant restructuring plan.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.36,
+            "text": " The multinational corporation announced a significant restructuring plan.",
+            "tokens": [
+                50364,
+                440,
+                45872,
+                1478,
+                22197,
+                7548,
+                257,
+                4776,
+                1472,
+                1757,
+                1345,
+                1393,
+                13,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3098210652669271,
+            "compression_ratio": 1.0579710144927537,
+            "no_speech_prob": 0.002766714431345463,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6736631393432617
+                },
+                {
+                    "word": " multinational",
+                    "start": 0.1,
+                    "end": 1.0,
+                    "probability": 0.9848088920116425
+                },
+                {
+                    "word": " corporation",
+                    "start": 1.0,
+                    "end": 1.74,
+                    "probability": 0.8736682534217834
+                },
+                {
+                    "word": " announced",
+                    "start": 1.74,
+                    "end": 2.2,
+                    "probability": 0.9829596281051636
+                },
+                {
+                    "word": " a",
+                    "start": 2.2,
+                    "end": 2.48,
+                    "probability": 0.9759606122970581
+                },
+                {
+                    "word": " significant",
+                    "start": 2.48,
+                    "end": 3.06,
+                    "probability": 0.9869053959846497
+                },
+                {
+                    "word": " restructuring",
+                    "start": 3.06,
+                    "end": 3.92,
+                    "probability": 0.9904647270838419
+                },
+                {
+                    "word": " plan.",
+                    "start": 3.92,
+                    "end": 4.36,
+                    "probability": 0.5013285279273987
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

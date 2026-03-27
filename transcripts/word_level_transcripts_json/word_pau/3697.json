@@ -1,0 +1,96 @@
+{
+    "text": " I apologize for the inconvenience. Let me check your reservation.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.04,
+            "text": " I apologize for the inconvenience. Let me check your reservation.",
+            "tokens": [
+                50364,
+                286,
+                12328,
+                337,
+                264,
+                28752,
+                1182,
+                13,
+                961,
+                385,
+                1520,
+                428,
+                28922,
+                13,
+                50652
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3656454384326935,
+            "compression_ratio": 0.9701492537313433,
+            "no_speech_prob": 0.012670628726482391,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.7490801215171814
+                },
+                {
+                    "word": " apologize",
+                    "start": 0.18,
+                    "end": 0.58,
+                    "probability": 0.8640870451927185
+                },
+                {
+                    "word": " for",
+                    "start": 0.58,
+                    "end": 0.88,
+                    "probability": 0.995209276676178
+                },
+                {
+                    "word": " the",
+                    "start": 0.88,
+                    "end": 1.08,
+                    "probability": 0.9726004600524902
+                },
+                {
+                    "word": " inconvenience.",
+                    "start": 1.08,
+                    "end": 1.78,
+                    "probability": 0.998625636100769
+                },
+                {
+                    "word": " Let",
+                    "start": 1.92,
+                    "end": 2.04,
+                    "probability": 0.9539182186126709
+                },
+                {
+                    "word": " me",
+                    "start": 2.04,
+                    "end": 2.18,
+                    "probability": 0.9960069060325623
+                },
+                {
+                    "word": " check",
+                    "start": 2.18,
+                    "end": 2.52,
+                    "probability": 0.9909850358963013
+                },
+                {
+                    "word": " your",
+                    "start": 2.52,
+                    "end": 2.8,
+                    "probability": 0.9209901690483093
+                },
+                {
+                    "word": " reservation.",
+                    "start": 2.8,
+                    "end": 5.04,
+                    "probability": 0.844864547252655
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

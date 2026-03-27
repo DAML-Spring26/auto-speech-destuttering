@@ -1,0 +1,157 @@
+{
+    "text": " We apologize for any inconvenience, the refund should be processed within 5-75-7 business days.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.96,
+            "text": " We apologize for any inconvenience,",
+            "tokens": [
+                50364,
+                492,
+                12328,
+                337,
+                604,
+                28752,
+                1182,
+                11,
+                50466
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32542874262883115,
+            "compression_ratio": 1.0795454545454546,
+            "no_speech_prob": 0.005855617579072714,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8425987362861633
+                },
+                {
+                    "word": " apologize",
+                    "start": 0.12,
+                    "end": 0.58,
+                    "probability": 0.9186521768569946
+                },
+                {
+                    "word": " for",
+                    "start": 0.58,
+                    "end": 0.86,
+                    "probability": 0.9963951706886292
+                },
+                {
+                    "word": " any",
+                    "start": 0.86,
+                    "end": 1.14,
+                    "probability": 0.9845132231712341
+                },
+                {
+                    "word": " inconvenience,",
+                    "start": 1.14,
+                    "end": 1.96,
+                    "probability": 0.9899946451187134
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.06,
+            "end": 6.18,
+            "text": " the refund should be processed within 5-75-7 business days.",
+            "tokens": [
+                50466,
+                264,
+                29384,
+                820,
+                312,
+                18846,
+                1951,
+                1025,
+                12,
+                11901,
+                12,
+                22,
+                1606,
+                1708,
+                13,
+                50691
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32542874262883115,
+            "compression_ratio": 1.0795454545454546,
+            "no_speech_prob": 0.005855617579072714,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 2.06,
+                    "end": 2.12,
+                    "probability": 0.2834708094596863
+                },
+                {
+                    "word": " refund",
+                    "start": 2.12,
+                    "end": 2.38,
+                    "probability": 0.5926015377044678
+                },
+                {
+                    "word": " should",
+                    "start": 2.38,
+                    "end": 2.66,
+                    "probability": 0.9820523858070374
+                },
+                {
+                    "word": " be",
+                    "start": 2.66,
+                    "end": 2.8,
+                    "probability": 0.9978395700454712
+                },
+                {
+                    "word": " processed",
+                    "start": 2.8,
+                    "end": 3.14,
+                    "probability": 0.976413905620575
+                },
+                {
+                    "word": " within",
+                    "start": 3.14,
+                    "end": 3.52,
+                    "probability": 0.9830759763717651
+                },
+                {
+                    "word": " 5",
+                    "start": 3.52,
+                    "end": 3.8,
+                    "probability": 0.7939426302909851
+                },
+                {
+                    "word": "-75",
+                    "start": 3.8,
+                    "end": 4.48,
+                    "probability": 0.8230356276035309
+                },
+                {
+                    "word": "-7",
+                    "start": 4.48,
+                    "end": 5.4,
+                    "probability": 0.9646380245685577
+                },
+                {
+                    "word": " business",
+                    "start": 5.4,
+                    "end": 5.74,
+                    "probability": 0.7386936545372009
+                },
+                {
+                    "word": " days.",
+                    "start": 5.74,
+                    "end": 6.18,
+                    "probability": 0.9829282164573669
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

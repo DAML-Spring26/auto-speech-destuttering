@@ -1,0 +1,89 @@
+{
+    "text": " If it snows heavily, schools will be closed tomorrow.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.0,
+            "text": " If it snows heavily, schools will be closed tomorrow.",
+            "tokens": [
+                50364,
+                759,
+                309,
+                2406,
+                1509,
+                10950,
+                11,
+                4656,
+                486,
+                312,
+                5395,
+                4153,
+                13,
+                50632
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4504258473714193,
+            "compression_ratio": 0.8833333333333333,
+            "no_speech_prob": 0.0290076844394207,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.6218163371086121
+                },
+                {
+                    "word": " it",
+                    "start": 0.2,
+                    "end": 0.32,
+                    "probability": 0.9268849492073059
+                },
+                {
+                    "word": " snows",
+                    "start": 0.32,
+                    "end": 0.68,
+                    "probability": 0.9626922011375427
+                },
+                {
+                    "word": " heavily,",
+                    "start": 0.68,
+                    "end": 1.14,
+                    "probability": 0.9588480591773987
+                },
+                {
+                    "word": " schools",
+                    "start": 1.44,
+                    "end": 1.56,
+                    "probability": 0.5706983208656311
+                },
+                {
+                    "word": " will",
+                    "start": 1.56,
+                    "end": 1.9,
+                    "probability": 0.6987408995628357
+                },
+                {
+                    "word": " be",
+                    "start": 1.9,
+                    "end": 3.08,
+                    "probability": 0.5252707600593567
+                },
+                {
+                    "word": " closed",
+                    "start": 3.08,
+                    "end": 4.6,
+                    "probability": 0.5729130506515503
+                },
+                {
+                    "word": " tomorrow.",
+                    "start": 4.6,
+                    "end": 5.0,
+                    "probability": 0.9682443737983704
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

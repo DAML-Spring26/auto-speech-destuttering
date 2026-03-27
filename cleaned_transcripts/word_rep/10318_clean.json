@@ -1,15 +1,14 @@
 {
-    "text": " Despite the challenges our team managed to meet the deadline.",
+    "text": " the challenges our team managed to meet the deadline.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 4.8,
-            "text": " Despite the challenges our team managed to meet the deadline.",
+            "end": 4.16,
+            "text": " the challenges our team managed to meet the deadline.",
             "tokens": [
                 50364,
-                11334,
                 264,
                 4759,
                 527,
@@ -20,12 +19,12 @@
                 264,
                 20615,
                 13,
-                50604
+                50572
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.2555001974105835,
-            "compression_ratio": 0.9682539682539683,
-            "no_speech_prob": 0.012352648191154003
+            "avg_logprob": -0.4369042469904973,
+            "compression_ratio": 0.9298245614035088,
+            "no_speech_prob": 0.04979291558265686
         }
     ],
     "language": "en"

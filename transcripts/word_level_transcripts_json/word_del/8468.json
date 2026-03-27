@@ -1,0 +1,102 @@
+{
+    "text": " Excuse me, could you tell me the nearest train station is?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.52,
+            "text": " Excuse me, could you tell me the nearest train station is?",
+            "tokens": [
+                50364,
+                11359,
+                385,
+                11,
+                727,
+                291,
+                980,
+                385,
+                264,
+                23831,
+                3847,
+                5214,
+                307,
+                30,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25963038206100464,
+            "compression_ratio": 0.90625,
+            "no_speech_prob": 0.04747580736875534,
+            "words": [
+                {
+                    "word": " Excuse",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.8222339749336243
+                },
+                {
+                    "word": " me,",
+                    "start": 0.24,
+                    "end": 0.56,
+                    "probability": 0.992340087890625
+                },
+                {
+                    "word": " could",
+                    "start": 0.8,
+                    "end": 0.94,
+                    "probability": 0.9675989747047424
+                },
+                {
+                    "word": " you",
+                    "start": 0.94,
+                    "end": 1.04,
+                    "probability": 0.9970234036445618
+                },
+                {
+                    "word": " tell",
+                    "start": 1.04,
+                    "end": 1.22,
+                    "probability": 0.9980109333992004
+                },
+                {
+                    "word": " me",
+                    "start": 1.22,
+                    "end": 1.36,
+                    "probability": 0.9963248372077942
+                },
+                {
+                    "word": " the",
+                    "start": 1.36,
+                    "end": 1.48,
+                    "probability": 0.9768404960632324
+                },
+                {
+                    "word": " nearest",
+                    "start": 1.48,
+                    "end": 1.66,
+                    "probability": 0.8658222556114197
+                },
+                {
+                    "word": " train",
+                    "start": 1.66,
+                    "end": 1.92,
+                    "probability": 0.9507762789726257
+                },
+                {
+                    "word": " station",
+                    "start": 1.92,
+                    "end": 2.32,
+                    "probability": 0.9893576502799988
+                },
+                {
+                    "word": " is?",
+                    "start": 2.32,
+                    "end": 2.52,
+                    "probability": 0.9918272495269775
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,94 @@
+{
+    "text": " The tour guide explaining the history of the ancient ruins.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.8,
+            "text": " The tour guide explaining the history of the ancient ruins.",
+            "tokens": [
+                50364,
+                440,
+                3512,
+                5934,
+                13468,
+                264,
+                2503,
+                295,
+                264,
+                7832,
+                24747,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3814168657575335,
+            "compression_ratio": 0.9516129032258065,
+            "no_speech_prob": 0.006322147790342569,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.48601189255714417
+                },
+                {
+                    "word": " tour",
+                    "start": 0.1,
+                    "end": 0.28,
+                    "probability": 0.5844009518623352
+                },
+                {
+                    "word": " guide",
+                    "start": 0.28,
+                    "end": 0.58,
+                    "probability": 0.9970659613609314
+                },
+                {
+                    "word": " explaining",
+                    "start": 0.58,
+                    "end": 1.06,
+                    "probability": 0.7833194732666016
+                },
+                {
+                    "word": " the",
+                    "start": 1.06,
+                    "end": 1.3,
+                    "probability": 0.9949170351028442
+                },
+                {
+                    "word": " history",
+                    "start": 1.3,
+                    "end": 1.64,
+                    "probability": 0.9862076044082642
+                },
+                {
+                    "word": " of",
+                    "start": 1.64,
+                    "end": 1.9,
+                    "probability": 0.9980577826499939
+                },
+                {
+                    "word": " the",
+                    "start": 1.9,
+                    "end": 2.04,
+                    "probability": 0.9489138126373291
+                },
+                {
+                    "word": " ancient",
+                    "start": 2.04,
+                    "end": 2.4,
+                    "probability": 0.9383217692375183
+                },
+                {
+                    "word": " ruins.",
+                    "start": 2.4,
+                    "end": 2.8,
+                    "probability": 0.9412844181060791
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

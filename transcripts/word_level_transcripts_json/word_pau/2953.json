@@ -1,0 +1,94 @@
+{
+    "text": " Data department is currently working on resolving the network issue.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.08,
+            "text": " Data department is currently working on resolving the network issue.",
+            "tokens": [
+                50364,
+                11888,
+                5882,
+                307,
+                4362,
+                1364,
+                322,
+                49940,
+                264,
+                3209,
+                2734,
+                13,
+                50680
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4658233438219343,
+            "compression_ratio": 0.9855072463768116,
+            "no_speech_prob": 0.00835267174988985,
+            "words": [
+                {
+                    "word": " Data",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.2941336929798126
+                },
+                {
+                    "word": " department",
+                    "start": 0.24,
+                    "end": 0.74,
+                    "probability": 0.6281219720840454
+                },
+                {
+                    "word": " is",
+                    "start": 0.74,
+                    "end": 1.04,
+                    "probability": 0.9635913372039795
+                },
+                {
+                    "word": " currently",
+                    "start": 1.04,
+                    "end": 1.28,
+                    "probability": 0.9989548921585083
+                },
+                {
+                    "word": " working",
+                    "start": 1.28,
+                    "end": 1.78,
+                    "probability": 0.9979044198989868
+                },
+                {
+                    "word": " on",
+                    "start": 1.78,
+                    "end": 2.1,
+                    "probability": 0.9970266222953796
+                },
+                {
+                    "word": " resolving",
+                    "start": 2.1,
+                    "end": 5.08,
+                    "probability": 0.9024829864501953
+                },
+                {
+                    "word": " the",
+                    "start": 5.08,
+                    "end": 5.4,
+                    "probability": 0.9917279481887817
+                },
+                {
+                    "word": " network",
+                    "start": 5.4,
+                    "end": 5.66,
+                    "probability": 0.9799659848213196
+                },
+                {
+                    "word": " issue.",
+                    "start": 5.66,
+                    "end": 6.08,
+                    "probability": 0.99261075258255
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,89 @@
+{
+    "text": " The volcanologist monitored seismic activity near the active creator.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.4,
+            "text": " The volcanologist monitored seismic activity near the active creator.",
+            "tokens": [
+                50364,
+                440,
+                31117,
+                9201,
+                36255,
+                40159,
+                299,
+                5191,
+                2651,
+                264,
+                4967,
+                14181,
+                13,
+                50548
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36993633906046547,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.006241200491786003,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6505240201950073
+                },
+                {
+                    "word": " volcanologist",
+                    "start": 0.14,
+                    "end": 0.8,
+                    "probability": 0.7127369493246078
+                },
+                {
+                    "word": " monitored",
+                    "start": 0.8,
+                    "end": 1.28,
+                    "probability": 0.8283196091651917
+                },
+                {
+                    "word": " seismic",
+                    "start": 1.28,
+                    "end": 1.86,
+                    "probability": 0.9668414890766144
+                },
+                {
+                    "word": " activity",
+                    "start": 1.86,
+                    "end": 2.22,
+                    "probability": 0.8922301530838013
+                },
+                {
+                    "word": " near",
+                    "start": 2.22,
+                    "end": 2.48,
+                    "probability": 0.9033069610595703
+                },
+                {
+                    "word": " the",
+                    "start": 2.48,
+                    "end": 2.64,
+                    "probability": 0.9855206608772278
+                },
+                {
+                    "word": " active",
+                    "start": 2.64,
+                    "end": 2.92,
+                    "probability": 0.9617640376091003
+                },
+                {
+                    "word": " creator.",
+                    "start": 2.92,
+                    "end": 3.4,
+                    "probability": 0.7834113836288452
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

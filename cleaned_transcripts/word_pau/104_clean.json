@@ -1,28 +1,42 @@
 {
-    "text": " just posted a new self on Instagram.",
+    "text": " should... I solve your Instagram.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 4.8,
-            "text": " just posted a new self on Instagram.",
+            "end": 1.0,
+            "text": " should...",
             "tokens": [
                 50364,
-                445,
-                9437,
-                257,
-                777,
-                2698,
-                322,
-                5281,
-                13,
-                50604
+                820,
+                485,
+                50414
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.7116973616860129,
-            "compression_ratio": 0.8181818181818182,
-            "no_speech_prob": 0.008722502738237381
+            "avg_logprob": -0.8142899672190348,
+            "compression_ratio": 0.8048780487804879,
+            "no_speech_prob": 0.053566548973321915
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.6,
+            "end": 4.2,
+            "text": " I solve your Instagram.",
+            "tokens": [
+                50494,
+                286,
+                5039,
+                428,
+                5281,
+                13,
+                50574
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8142899672190348,
+            "compression_ratio": 0.8048780487804879,
+            "no_speech_prob": 0.053566548973321915
         }
     ],
     "language": "en"

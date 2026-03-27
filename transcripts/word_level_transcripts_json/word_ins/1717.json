@@ -1,0 +1,87 @@
+{
+    "text": " Can you please provide your order number for reference?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.52,
+            "text": " Can you please provide your order number for reference?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                1767,
+                2893,
+                428,
+                1668,
+                1230,
+                337,
+                6408,
+                30,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3903018144460825,
+            "compression_ratio": 0.9322033898305084,
+            "no_speech_prob": 0.05890578776597977,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.7,
+                    "probability": 0.7507636547088623
+                },
+                {
+                    "word": " you",
+                    "start": 0.7,
+                    "end": 0.86,
+                    "probability": 0.9955909252166748
+                },
+                {
+                    "word": " please",
+                    "start": 0.86,
+                    "end": 1.14,
+                    "probability": 0.9916495084762573
+                },
+                {
+                    "word": " provide",
+                    "start": 1.14,
+                    "end": 1.44,
+                    "probability": 0.9951480031013489
+                },
+                {
+                    "word": " your",
+                    "start": 1.44,
+                    "end": 1.76,
+                    "probability": 0.9920394420623779
+                },
+                {
+                    "word": " order",
+                    "start": 1.76,
+                    "end": 2.02,
+                    "probability": 0.9765307307243347
+                },
+                {
+                    "word": " number",
+                    "start": 2.02,
+                    "end": 2.4,
+                    "probability": 0.9960572719573975
+                },
+                {
+                    "word": " for",
+                    "start": 2.4,
+                    "end": 3.48,
+                    "probability": 0.4903125762939453
+                },
+                {
+                    "word": " reference?",
+                    "start": 3.48,
+                    "end": 4.52,
+                    "probability": 0.9901565313339233
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

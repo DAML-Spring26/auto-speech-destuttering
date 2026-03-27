@@ -1,0 +1,87 @@
+{
+    "text": " We should grab some popcorn before the movie starts.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.2,
+            "text": " We should grab some popcorn before the movie starts.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                4444,
+                512,
+                25334,
+                949,
+                264,
+                3169,
+                3719,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26761630865243763,
+            "compression_ratio": 0.8813559322033898,
+            "no_speech_prob": 0.012779802083969116,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7017741203308105
+                },
+                {
+                    "word": " should",
+                    "start": 0.16,
+                    "end": 0.38,
+                    "probability": 0.9937078952789307
+                },
+                {
+                    "word": " grab",
+                    "start": 0.38,
+                    "end": 0.7,
+                    "probability": 0.99741131067276
+                },
+                {
+                    "word": " some",
+                    "start": 0.7,
+                    "end": 1.14,
+                    "probability": 0.9895038604736328
+                },
+                {
+                    "word": " popcorn",
+                    "start": 1.14,
+                    "end": 1.64,
+                    "probability": 0.9929699301719666
+                },
+                {
+                    "word": " before",
+                    "start": 1.64,
+                    "end": 2.32,
+                    "probability": 0.9724333882331848
+                },
+                {
+                    "word": " the",
+                    "start": 2.32,
+                    "end": 3.06,
+                    "probability": 0.543367862701416
+                },
+                {
+                    "word": " movie",
+                    "start": 3.06,
+                    "end": 5.78,
+                    "probability": 0.9827454686164856
+                },
+                {
+                    "word": " starts.",
+                    "start": 5.78,
+                    "end": 6.2,
+                    "probability": 0.9830368161201477
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

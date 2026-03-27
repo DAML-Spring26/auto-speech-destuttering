@@ -1,0 +1,66 @@
+{
+    "text": " They discuss the disposal in detail.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.3,
+            "text": " They discuss the disposal in detail.",
+            "tokens": [
+                50364,
+                814,
+                2248,
+                264,
+                26400,
+                294,
+                2607,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45531697273254396,
+            "compression_ratio": 0.8780487804878049,
+            "no_speech_prob": 0.005171407014131546,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.5534616112709045
+                },
+                {
+                    "word": " discuss",
+                    "start": 0.18,
+                    "end": 0.62,
+                    "probability": 0.7674697041511536
+                },
+                {
+                    "word": " the",
+                    "start": 0.62,
+                    "end": 0.92,
+                    "probability": 0.985346794128418
+                },
+                {
+                    "word": " disposal",
+                    "start": 0.92,
+                    "end": 1.54,
+                    "probability": 0.9839975833892822
+                },
+                {
+                    "word": " in",
+                    "start": 1.54,
+                    "end": 1.86,
+                    "probability": 0.9832682013511658
+                },
+                {
+                    "word": " detail.",
+                    "start": 1.86,
+                    "end": 2.3,
+                    "probability": 0.994521975517273
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

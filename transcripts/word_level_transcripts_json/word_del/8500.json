@@ -1,0 +1,94 @@
+{
+    "text": " The research paper was submitted before the deadline next month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.4,
+            "text": " The research paper was submitted before the deadline next month.",
+            "tokens": [
+                50364,
+                440,
+                2132,
+                3035,
+                390,
+                14405,
+                949,
+                264,
+                20615,
+                958,
+                1618,
+                13,
+                50496
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3801938806261335,
+            "compression_ratio": 0.9696969696969697,
+            "no_speech_prob": 0.006912373937666416,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6096717119216919
+                },
+                {
+                    "word": " research",
+                    "start": 0.1,
+                    "end": 0.44,
+                    "probability": 0.9673699140548706
+                },
+                {
+                    "word": " paper",
+                    "start": 0.44,
+                    "end": 0.78,
+                    "probability": 0.9844214916229248
+                },
+                {
+                    "word": " was",
+                    "start": 0.78,
+                    "end": 0.96,
+                    "probability": 0.5794362425804138
+                },
+                {
+                    "word": " submitted",
+                    "start": 0.96,
+                    "end": 1.26,
+                    "probability": 0.9950186014175415
+                },
+                {
+                    "word": " before",
+                    "start": 1.26,
+                    "end": 1.58,
+                    "probability": 0.9791967272758484
+                },
+                {
+                    "word": " the",
+                    "start": 1.58,
+                    "end": 1.7,
+                    "probability": 0.973599910736084
+                },
+                {
+                    "word": " deadline",
+                    "start": 1.7,
+                    "end": 1.94,
+                    "probability": 0.9962103366851807
+                },
+                {
+                    "word": " next",
+                    "start": 1.94,
+                    "end": 2.2,
+                    "probability": 0.9476116299629211
+                },
+                {
+                    "word": " month.",
+                    "start": 2.2,
+                    "end": 2.4,
+                    "probability": 0.9909018278121948
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

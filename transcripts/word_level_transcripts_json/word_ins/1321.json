@@ -1,0 +1,108 @@
+{
+    "text": " We need to schedule a meeting to discuss the new marketing strategy.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.98,
+            "text": " We need to schedule a meeting to discuss the new marketing strategy.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                7567,
+                257,
+                3440,
+                281,
+                2248,
+                264,
+                777,
+                6370,
+                5206,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3002973198890686,
+            "compression_ratio": 1.0149253731343284,
+            "no_speech_prob": 0.08300960063934326,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 1.0,
+                    "probability": 0.8249101042747498
+                },
+                {
+                    "word": " need",
+                    "start": 1.0,
+                    "end": 1.18,
+                    "probability": 0.997916042804718
+                },
+                {
+                    "word": " to",
+                    "start": 1.18,
+                    "end": 1.34,
+                    "probability": 0.9978639483451843
+                },
+                {
+                    "word": " schedule",
+                    "start": 1.34,
+                    "end": 1.7,
+                    "probability": 0.9981371164321899
+                },
+                {
+                    "word": " a",
+                    "start": 1.7,
+                    "end": 1.94,
+                    "probability": 0.9755520224571228
+                },
+                {
+                    "word": " meeting",
+                    "start": 1.94,
+                    "end": 2.18,
+                    "probability": 0.9989533424377441
+                },
+                {
+                    "word": " to",
+                    "start": 2.18,
+                    "end": 2.58,
+                    "probability": 0.83473140001297
+                },
+                {
+                    "word": " discuss",
+                    "start": 2.58,
+                    "end": 4.24,
+                    "probability": 0.8282826542854309
+                },
+                {
+                    "word": " the",
+                    "start": 4.24,
+                    "end": 4.6,
+                    "probability": 0.993996262550354
+                },
+                {
+                    "word": " new",
+                    "start": 4.6,
+                    "end": 4.94,
+                    "probability": 0.9775505661964417
+                },
+                {
+                    "word": " marketing",
+                    "start": 4.94,
+                    "end": 5.38,
+                    "probability": 0.6030316948890686
+                },
+                {
+                    "word": " strategy.",
+                    "start": 5.38,
+                    "end": 5.98,
+                    "probability": 0.9937081336975098
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

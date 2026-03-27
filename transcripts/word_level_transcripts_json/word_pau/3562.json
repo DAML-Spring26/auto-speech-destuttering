@@ -1,0 +1,112 @@
+{
+    "text": " Can you tell me where? The nearest post office is...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.24,
+            "text": " Can you tell me where?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                980,
+                385,
+                689,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5844000087064856,
+            "compression_ratio": 0.896551724137931,
+            "no_speech_prob": 0.006533763371407986,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.821167528629303
+                },
+                {
+                    "word": " you",
+                    "start": 0.22,
+                    "end": 0.4,
+                    "probability": 0.9970265030860901
+                },
+                {
+                    "word": " tell",
+                    "start": 0.4,
+                    "end": 0.66,
+                    "probability": 0.9974709749221802
+                },
+                {
+                    "word": " me",
+                    "start": 0.66,
+                    "end": 0.9,
+                    "probability": 0.9970588684082031
+                },
+                {
+                    "word": " where?",
+                    "start": 0.9,
+                    "end": 1.24,
+                    "probability": 0.9856227040290833
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.42,
+            "end": 4.0,
+            "text": " The nearest post office is...",
+            "tokens": [
+                50464,
+                440,
+                23831,
+                2183,
+                3398,
+                307,
+                485,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5844000087064856,
+            "compression_ratio": 0.896551724137931,
+            "no_speech_prob": 0.006533763371407986,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 2.42,
+                    "end": 2.6,
+                    "probability": 0.9221718311309814
+                },
+                {
+                    "word": " nearest",
+                    "start": 2.6,
+                    "end": 2.88,
+                    "probability": 0.8677942156791687
+                },
+                {
+                    "word": " post",
+                    "start": 2.88,
+                    "end": 3.22,
+                    "probability": 0.8706976771354675
+                },
+                {
+                    "word": " office",
+                    "start": 3.22,
+                    "end": 3.72,
+                    "probability": 0.513879656791687
+                },
+                {
+                    "word": " is...",
+                    "start": 3.72,
+                    "end": 4.0,
+                    "probability": 0.5256825387477875
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

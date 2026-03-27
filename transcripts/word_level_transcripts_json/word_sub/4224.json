@@ -1,0 +1,59 @@
+{
+    "text": " they regarded all transactions accurately.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.16,
+            "text": " they regarded all transactions accurately.",
+            "tokens": [
+                50364,
+                436,
+                26047,
+                439,
+                16856,
+                20095,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5415652063157823,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.0060550798662006855,
+            "words": [
+                {
+                    "word": " they",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.5112810134887695
+                },
+                {
+                    "word": " regarded",
+                    "start": 0.16,
+                    "end": 0.54,
+                    "probability": 0.6274713277816772
+                },
+                {
+                    "word": " all",
+                    "start": 0.54,
+                    "end": 0.8,
+                    "probability": 0.9927117824554443
+                },
+                {
+                    "word": " transactions",
+                    "start": 0.8,
+                    "end": 1.46,
+                    "probability": 0.9663663506507874
+                },
+                {
+                    "word": " accurately.",
+                    "start": 1.46,
+                    "end": 2.16,
+                    "probability": 0.9628753662109375
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,67 @@
+{
+    "text": " The scientist analysed the simple data.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.02,
+            "text": " The scientist analysed the simple data.",
+            "tokens": [
+                50364,
+                440,
+                12662,
+                23014,
+                292,
+                264,
+                2199,
+                1412,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5925798416137695,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.002375912619754672,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7367230653762817
+                },
+                {
+                    "word": " scientist",
+                    "start": 0.12,
+                    "end": 0.58,
+                    "probability": 0.6217197179794312
+                },
+                {
+                    "word": " analysed",
+                    "start": 0.58,
+                    "end": 1.34,
+                    "probability": 0.5387903302907944
+                },
+                {
+                    "word": " the",
+                    "start": 1.34,
+                    "end": 1.4,
+                    "probability": 0.48433250188827515
+                },
+                {
+                    "word": " simple",
+                    "start": 1.4,
+                    "end": 1.7,
+                    "probability": 0.986375629901886
+                },
+                {
+                    "word": " data.",
+                    "start": 1.7,
+                    "end": 2.02,
+                    "probability": 0.9724916815757751
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

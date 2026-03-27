@@ -1,0 +1,82 @@
+{
+    "text": " What's the well, best way to exchange currency?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.5,
+            "text": " What's the well, best way to exchange currency?",
+            "tokens": [
+                50364,
+                708,
+                311,
+                264,
+                731,
+                11,
+                1151,
+                636,
+                281,
+                7742,
+                13346,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2819289139338902,
+            "compression_ratio": 0.8545454545454545,
+            "no_speech_prob": 0.02168484963476658,
+            "words": [
+                {
+                    "word": " What's",
+                    "start": 0.0,
+                    "end": 0.54,
+                    "probability": 0.9172786474227905
+                },
+                {
+                    "word": " the",
+                    "start": 0.54,
+                    "end": 0.64,
+                    "probability": 0.9813473224639893
+                },
+                {
+                    "word": " well,",
+                    "start": 0.64,
+                    "end": 0.88,
+                    "probability": 0.843595027923584
+                },
+                {
+                    "word": " best",
+                    "start": 1.04,
+                    "end": 1.2,
+                    "probability": 0.960960865020752
+                },
+                {
+                    "word": " way",
+                    "start": 1.2,
+                    "end": 1.42,
+                    "probability": 0.9969450831413269
+                },
+                {
+                    "word": " to",
+                    "start": 1.42,
+                    "end": 1.58,
+                    "probability": 0.9985951781272888
+                },
+                {
+                    "word": " exchange",
+                    "start": 1.58,
+                    "end": 2.0,
+                    "probability": 0.9842037558555603
+                },
+                {
+                    "word": " currency?",
+                    "start": 2.0,
+                    "end": 2.5,
+                    "probability": 0.9933428764343262
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

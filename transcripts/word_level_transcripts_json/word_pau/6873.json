@@ -1,0 +1,101 @@
+{
+    "text": " The new AI system can process data much faster than before.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.66,
+            "text": " The new AI system can process data much faster than before.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                7318,
+                1185,
+                393,
+                1399,
+                1412,
+                709,
+                4663,
+                813,
+                949,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2577092011769613,
+            "compression_ratio": 0.921875,
+            "no_speech_prob": 0.004290348384529352,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6481123566627502
+                },
+                {
+                    "word": " new",
+                    "start": 0.14,
+                    "end": 0.28,
+                    "probability": 0.8289897441864014
+                },
+                {
+                    "word": " AI",
+                    "start": 0.28,
+                    "end": 0.44,
+                    "probability": 0.8697914481163025
+                },
+                {
+                    "word": " system",
+                    "start": 0.44,
+                    "end": 0.9,
+                    "probability": 0.9398739337921143
+                },
+                {
+                    "word": " can",
+                    "start": 0.9,
+                    "end": 1.12,
+                    "probability": 0.9954270124435425
+                },
+                {
+                    "word": " process",
+                    "start": 1.12,
+                    "end": 1.48,
+                    "probability": 0.9917141795158386
+                },
+                {
+                    "word": " data",
+                    "start": 1.48,
+                    "end": 1.86,
+                    "probability": 0.9106703400611877
+                },
+                {
+                    "word": " much",
+                    "start": 1.86,
+                    "end": 2.34,
+                    "probability": 0.8793256282806396
+                },
+                {
+                    "word": " faster",
+                    "start": 2.34,
+                    "end": 4.04,
+                    "probability": 0.9255930185317993
+                },
+                {
+                    "word": " than",
+                    "start": 4.04,
+                    "end": 4.3,
+                    "probability": 0.9895706176757812
+                },
+                {
+                    "word": " before.",
+                    "start": 4.3,
+                    "end": 4.66,
+                    "probability": 0.9991010427474976
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

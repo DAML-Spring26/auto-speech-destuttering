@@ -1,0 +1,126 @@
+{
+    "text": " Is there anything else I can you know? Assist you with today.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.38,
+            "text": " Is there anything else I can you know?",
+            "tokens": [
+                50364,
+                1119,
+                456,
+                1340,
+                1646,
+                286,
+                393,
+                291,
+                458,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3762621628610711,
+            "compression_ratio": 0.9242424242424242,
+            "no_speech_prob": 0.2577771246433258,
+            "words": [
+                {
+                    "word": " Is",
+                    "start": 0.0,
+                    "end": 1.1,
+                    "probability": 0.8325329422950745
+                },
+                {
+                    "word": " there",
+                    "start": 1.1,
+                    "end": 1.28,
+                    "probability": 0.9976656436920166
+                },
+                {
+                    "word": " anything",
+                    "start": 1.28,
+                    "end": 1.82,
+                    "probability": 0.9966539144515991
+                },
+                {
+                    "word": " else",
+                    "start": 1.82,
+                    "end": 2.18,
+                    "probability": 0.997890293598175
+                },
+                {
+                    "word": " I",
+                    "start": 2.18,
+                    "end": 2.6,
+                    "probability": 0.9788956642150879
+                },
+                {
+                    "word": " can",
+                    "start": 2.6,
+                    "end": 2.82,
+                    "probability": 0.9967483282089233
+                },
+                {
+                    "word": " you",
+                    "start": 2.82,
+                    "end": 3.02,
+                    "probability": 0.9461156725883484
+                },
+                {
+                    "word": " know?",
+                    "start": 3.02,
+                    "end": 3.38,
+                    "probability": 0.9936838150024414
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.84,
+            "end": 6.58,
+            "text": " Assist you with today.",
+            "tokens": [
+                50564,
+                49633,
+                291,
+                365,
+                965,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3762621628610711,
+            "compression_ratio": 0.9242424242424242,
+            "no_speech_prob": 0.2577771246433258,
+            "words": [
+                {
+                    "word": " Assist",
+                    "start": 4.84,
+                    "end": 5.38,
+                    "probability": 0.6687625646591187
+                },
+                {
+                    "word": " you",
+                    "start": 5.38,
+                    "end": 5.86,
+                    "probability": 0.9520637392997742
+                },
+                {
+                    "word": " with",
+                    "start": 5.86,
+                    "end": 6.16,
+                    "probability": 0.9951984286308289
+                },
+                {
+                    "word": " today.",
+                    "start": 6.16,
+                    "end": 6.58,
+                    "probability": 0.9548446536064148
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

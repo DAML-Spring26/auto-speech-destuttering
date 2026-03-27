@@ -1,0 +1,81 @@
+{
+    "text": " Can you help me troubleshoot this technical issue?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.9,
+            "text": " Can you help me troubleshoot this technical issue?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                854,
+                385,
+                15379,
+                24467,
+                341,
+                6191,
+                2734,
+                30,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33112247173602766,
+            "compression_ratio": 0.8771929824561403,
+            "no_speech_prob": 0.00404457887634635,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.8380515575408936
+                },
+                {
+                    "word": " you",
+                    "start": 0.2,
+                    "end": 0.36,
+                    "probability": 0.9924265146255493
+                },
+                {
+                    "word": " help",
+                    "start": 0.36,
+                    "end": 0.52,
+                    "probability": 0.9980643391609192
+                },
+                {
+                    "word": " me",
+                    "start": 0.52,
+                    "end": 0.68,
+                    "probability": 0.9976154565811157
+                },
+                {
+                    "word": " troubleshoot",
+                    "start": 0.68,
+                    "end": 1.32,
+                    "probability": 0.7669422328472137
+                },
+                {
+                    "word": " this",
+                    "start": 1.32,
+                    "end": 4.08,
+                    "probability": 0.7002950310707092
+                },
+                {
+                    "word": " technical",
+                    "start": 4.08,
+                    "end": 4.52,
+                    "probability": 0.947725236415863
+                },
+                {
+                    "word": " issue?",
+                    "start": 4.52,
+                    "end": 4.9,
+                    "probability": 0.9909924268722534
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

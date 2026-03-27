@@ -1,0 +1,66 @@
+{
+    "text": " Please compete the survey by Monday.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.82,
+            "text": " Please compete the survey by Monday.",
+            "tokens": [
+                50364,
+                2555,
+                11831,
+                264,
+                8984,
+                538,
+                8138,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3170016288757324,
+            "compression_ratio": 0.8181818181818182,
+            "no_speech_prob": 0.0036534632090479136,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.6628789901733398
+                },
+                {
+                    "word": " compete",
+                    "start": 0.22,
+                    "end": 0.58,
+                    "probability": 0.8597250580787659
+                },
+                {
+                    "word": " the",
+                    "start": 0.58,
+                    "end": 0.82,
+                    "probability": 0.8814332485198975
+                },
+                {
+                    "word": " survey",
+                    "start": 0.82,
+                    "end": 1.18,
+                    "probability": 0.810035228729248
+                },
+                {
+                    "word": " by",
+                    "start": 1.18,
+                    "end": 1.4,
+                    "probability": 0.9946991205215454
+                },
+                {
+                    "word": " Monday.",
+                    "start": 1.4,
+                    "end": 1.82,
+                    "probability": 0.9828358292579651
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

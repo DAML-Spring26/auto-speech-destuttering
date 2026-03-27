@@ -1,0 +1,111 @@
+{
+    "text": " she's writing her thesis on the socio-conomic impact of climate change.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.84,
+            "text": " she's writing her thesis on the socio-conomic impact of climate change.",
+            "tokens": [
+                50364,
+                750,
+                311,
+                3579,
+                720,
+                22288,
+                322,
+                264,
+                44303,
+                12,
+                1671,
+                21401,
+                2712,
+                295,
+                5659,
+                1319,
+                13,
+                50620
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.46308135986328125,
+            "compression_ratio": 1.0441176470588236,
+            "no_speech_prob": 0.0028376963455229998,
+            "words": [
+                {
+                    "word": " she's",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.6634858250617981
+                },
+                {
+                    "word": " writing",
+                    "start": 0.34,
+                    "end": 0.72,
+                    "probability": 0.9773938655853271
+                },
+                {
+                    "word": " her",
+                    "start": 0.72,
+                    "end": 1.0,
+                    "probability": 0.9905333518981934
+                },
+                {
+                    "word": " thesis",
+                    "start": 1.0,
+                    "end": 1.4,
+                    "probability": 0.998371422290802
+                },
+                {
+                    "word": " on",
+                    "start": 1.4,
+                    "end": 1.72,
+                    "probability": 0.9955025315284729
+                },
+                {
+                    "word": " the",
+                    "start": 1.72,
+                    "end": 1.86,
+                    "probability": 0.97223299741745
+                },
+                {
+                    "word": " socio",
+                    "start": 1.86,
+                    "end": 2.24,
+                    "probability": 0.9174709916114807
+                },
+                {
+                    "word": "-conomic",
+                    "start": 2.24,
+                    "end": 3.0,
+                    "probability": 0.6614581495523453
+                },
+                {
+                    "word": " impact",
+                    "start": 3.0,
+                    "end": 3.52,
+                    "probability": 0.9628402590751648
+                },
+                {
+                    "word": " of",
+                    "start": 3.52,
+                    "end": 3.94,
+                    "probability": 0.9922953844070435
+                },
+                {
+                    "word": " climate",
+                    "start": 3.94,
+                    "end": 4.42,
+                    "probability": 0.9847579002380371
+                },
+                {
+                    "word": " change.",
+                    "start": 4.42,
+                    "end": 4.84,
+                    "probability": 0.2022462785243988
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,101 @@
+{
+    "text": " Students must submit their assignments before deadline to receive full credit.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.22,
+            "text": " Students must submit their assignments before deadline to receive full credit.",
+            "tokens": [
+                50364,
+                17244,
+                1633,
+                10315,
+                641,
+                22546,
+                949,
+                20615,
+                281,
+                4774,
+                1577,
+                5397,
+                13,
+                50584
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24841801325480142,
+            "compression_ratio": 1.0684931506849316,
+            "no_speech_prob": 0.0042786370031535625,
+            "words": [
+                {
+                    "word": " Students",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.8344614505767822
+                },
+                {
+                    "word": " must",
+                    "start": 0.42,
+                    "end": 0.78,
+                    "probability": 0.9968589544296265
+                },
+                {
+                    "word": " submit",
+                    "start": 0.78,
+                    "end": 1.18,
+                    "probability": 0.9617807865142822
+                },
+                {
+                    "word": " their",
+                    "start": 1.18,
+                    "end": 1.42,
+                    "probability": 0.9890382289886475
+                },
+                {
+                    "word": " assignments",
+                    "start": 1.42,
+                    "end": 1.98,
+                    "probability": 0.9958829879760742
+                },
+                {
+                    "word": " before",
+                    "start": 1.98,
+                    "end": 2.5,
+                    "probability": 0.9953298568725586
+                },
+                {
+                    "word": " deadline",
+                    "start": 2.5,
+                    "end": 2.94,
+                    "probability": 0.9822781085968018
+                },
+                {
+                    "word": " to",
+                    "start": 2.94,
+                    "end": 3.24,
+                    "probability": 0.9965971112251282
+                },
+                {
+                    "word": " receive",
+                    "start": 3.24,
+                    "end": 3.56,
+                    "probability": 0.9943138360977173
+                },
+                {
+                    "word": " full",
+                    "start": 3.56,
+                    "end": 3.84,
+                    "probability": 0.9853826761245728
+                },
+                {
+                    "word": " credit.",
+                    "start": 3.84,
+                    "end": 4.22,
+                    "probability": 0.9892024397850037
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

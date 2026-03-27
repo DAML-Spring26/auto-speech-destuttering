@@ -1,0 +1,87 @@
+{
+    "text": " the social media influencer posted a controversial video yesterday.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.58,
+            "text": " the social media influencer posted a controversial video yesterday.",
+            "tokens": [
+                50364,
+                264,
+                2093,
+                3021,
+                39503,
+                9437,
+                257,
+                17323,
+                960,
+                5186,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35371853755070615,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.01874128170311451,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.40883970260620117
+                },
+                {
+                    "word": " social",
+                    "start": 0.16,
+                    "end": 0.62,
+                    "probability": 0.9282340407371521
+                },
+                {
+                    "word": " media",
+                    "start": 0.62,
+                    "end": 1.04,
+                    "probability": 0.8739789128303528
+                },
+                {
+                    "word": " influencer",
+                    "start": 1.04,
+                    "end": 2.0,
+                    "probability": 0.9819849133491516
+                },
+                {
+                    "word": " posted",
+                    "start": 2.0,
+                    "end": 4.56,
+                    "probability": 0.9538426995277405
+                },
+                {
+                    "word": " a",
+                    "start": 4.56,
+                    "end": 4.76,
+                    "probability": 0.9343395829200745
+                },
+                {
+                    "word": " controversial",
+                    "start": 4.76,
+                    "end": 5.42,
+                    "probability": 0.9921225905418396
+                },
+                {
+                    "word": " video",
+                    "start": 5.42,
+                    "end": 6.02,
+                    "probability": 0.9912097454071045
+                },
+                {
+                    "word": " yesterday.",
+                    "start": 6.02,
+                    "end": 6.58,
+                    "probability": 0.9744757413864136
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,84 @@
+{
+    "text": " What symptoms? Have you been experiencing?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.76,
+            "text": " What symptoms?",
+            "tokens": [
+                50364,
+                708,
+                8332,
+                30,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.684038675748385,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.012565812095999718,
+            "words": [
+                {
+                    "word": " What",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.6538211703300476
+                },
+                {
+                    "word": " symptoms?",
+                    "start": 0.2,
+                    "end": 0.76,
+                    "probability": 0.9878700375556946
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.42,
+            "end": 2.82,
+            "text": " Have you been experiencing?",
+            "tokens": [
+                50452,
+                3560,
+                291,
+                668,
+                11139,
+                30,
+                50526
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.684038675748385,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.012565812095999718,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 1.42,
+                    "end": 1.94,
+                    "probability": 0.8657751679420471
+                },
+                {
+                    "word": " you",
+                    "start": 1.94,
+                    "end": 2.06,
+                    "probability": 0.9969393014907837
+                },
+                {
+                    "word": " been",
+                    "start": 2.06,
+                    "end": 2.16,
+                    "probability": 0.9987449645996094
+                },
+                {
+                    "word": " experiencing?",
+                    "start": 2.16,
+                    "end": 2.82,
+                    "probability": 0.9928888082504272
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

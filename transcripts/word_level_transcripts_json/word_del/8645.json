@@ -1,0 +1,102 @@
+{
+    "text": " We're not sure the event will be held indoors or outdoors.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.4,
+            "text": " We're not sure the event will be held indoors or outdoors.",
+            "tokens": [
+                50364,
+                492,
+                434,
+                406,
+                988,
+                264,
+                2280,
+                486,
+                312,
+                5167,
+                29655,
+                420,
+                20980,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25545644760131836,
+            "compression_ratio": 0.9508196721311475,
+            "no_speech_prob": 0.00375122157856822,
+            "words": [
+                {
+                    "word": " We're",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7744057774543762
+                },
+                {
+                    "word": " not",
+                    "start": 0.14,
+                    "end": 0.34,
+                    "probability": 0.9982727766036987
+                },
+                {
+                    "word": " sure",
+                    "start": 0.34,
+                    "end": 0.66,
+                    "probability": 0.9992828965187073
+                },
+                {
+                    "word": " the",
+                    "start": 0.66,
+                    "end": 0.94,
+                    "probability": 0.9799656867980957
+                },
+                {
+                    "word": " event",
+                    "start": 0.94,
+                    "end": 1.2,
+                    "probability": 0.9949564337730408
+                },
+                {
+                    "word": " will",
+                    "start": 1.2,
+                    "end": 1.38,
+                    "probability": 0.9958875775337219
+                },
+                {
+                    "word": " be",
+                    "start": 1.38,
+                    "end": 1.52,
+                    "probability": 0.989221453666687
+                },
+                {
+                    "word": " held",
+                    "start": 1.52,
+                    "end": 1.84,
+                    "probability": 0.9989132881164551
+                },
+                {
+                    "word": " indoors",
+                    "start": 1.84,
+                    "end": 2.32,
+                    "probability": 0.9575435519218445
+                },
+                {
+                    "word": " or",
+                    "start": 2.32,
+                    "end": 2.8,
+                    "probability": 0.9008843302726746
+                },
+                {
+                    "word": " outdoors.",
+                    "start": 2.8,
+                    "end": 3.4,
+                    "probability": 0.9867914915084839
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

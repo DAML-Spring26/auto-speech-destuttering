@@ -1,0 +1,82 @@
+{
+    "text": " If you study hard, you'll please do exam.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.16,
+            "text": " If you study hard, you'll please do exam.",
+            "tokens": [
+                50364,
+                759,
+                291,
+                2979,
+                1152,
+                11,
+                291,
+                603,
+                1767,
+                360,
+                1139,
+                13,
+                50534
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6273282596043178,
+            "compression_ratio": 0.8913043478260869,
+            "no_speech_prob": 0.02047973871231079,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.6910818219184875
+                },
+                {
+                    "word": " you",
+                    "start": 0.24,
+                    "end": 0.32,
+                    "probability": 0.9940705895423889
+                },
+                {
+                    "word": " study",
+                    "start": 0.32,
+                    "end": 0.56,
+                    "probability": 0.9680508375167847
+                },
+                {
+                    "word": " hard,",
+                    "start": 0.56,
+                    "end": 0.9,
+                    "probability": 0.9651313424110413
+                },
+                {
+                    "word": " you'll",
+                    "start": 1.34,
+                    "end": 1.54,
+                    "probability": 0.6429111957550049
+                },
+                {
+                    "word": " please",
+                    "start": 1.54,
+                    "end": 2.62,
+                    "probability": 0.3065280020236969
+                },
+                {
+                    "word": " do",
+                    "start": 2.62,
+                    "end": 2.86,
+                    "probability": 0.1538802832365036
+                },
+                {
+                    "word": " exam.",
+                    "start": 2.86,
+                    "end": 3.16,
+                    "probability": 0.7183345556259155
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

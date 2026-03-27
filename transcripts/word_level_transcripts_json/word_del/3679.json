@@ -1,0 +1,95 @@
+{
+    "text": " The professor explained the experiment results were still being analysed.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.34,
+            "text": " The professor explained the experiment results were still being analysed.",
+            "tokens": [
+                50364,
+                440,
+                8304,
+                8825,
+                264,
+                5120,
+                3542,
+                645,
+                920,
+                885,
+                23014,
+                292,
+                13,
+                50538
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3731643358866374,
+            "compression_ratio": 1.042857142857143,
+            "no_speech_prob": 0.00808869581669569,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.4268638789653778
+                },
+                {
+                    "word": " professor",
+                    "start": 0.1,
+                    "end": 0.42,
+                    "probability": 0.7392635345458984
+                },
+                {
+                    "word": " explained",
+                    "start": 0.42,
+                    "end": 1.06,
+                    "probability": 0.9932108521461487
+                },
+                {
+                    "word": " the",
+                    "start": 1.06,
+                    "end": 1.24,
+                    "probability": 0.9594830870628357
+                },
+                {
+                    "word": " experiment",
+                    "start": 1.24,
+                    "end": 1.62,
+                    "probability": 0.9851444959640503
+                },
+                {
+                    "word": " results",
+                    "start": 1.62,
+                    "end": 1.98,
+                    "probability": 0.9279117584228516
+                },
+                {
+                    "word": " were",
+                    "start": 1.98,
+                    "end": 2.24,
+                    "probability": 0.8688679337501526
+                },
+                {
+                    "word": " still",
+                    "start": 2.24,
+                    "end": 2.42,
+                    "probability": 0.9736036658287048
+                },
+                {
+                    "word": " being",
+                    "start": 2.42,
+                    "end": 2.68,
+                    "probability": 0.9953778982162476
+                },
+                {
+                    "word": " analysed.",
+                    "start": 2.68,
+                    "end": 3.34,
+                    "probability": 0.8056368827819824
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

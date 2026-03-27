@@ -1,28 +1,26 @@
 {
-    "text": " your flight departs out at noon.",
+    "text": " It's a part sound.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 2.24,
-            "text": " your flight departs out at noon.",
+            "end": 1.0,
+            "text": " It's a part sound.",
             "tokens": [
                 50364,
-                428,
-                7018,
-                9110,
-                82,
-                484,
-                412,
-                24040,
+                467,
+                311,
+                257,
+                644,
+                1626,
                 13,
-                50476
+                50414
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.4758331125432795,
-            "compression_ratio": 0.8,
-            "no_speech_prob": 0.006901113782078028
+            "avg_logprob": -0.9806123309665256,
+            "compression_ratio": 0.6923076923076923,
+            "no_speech_prob": 0.027380626648664474
         }
     ],
     "language": "en"

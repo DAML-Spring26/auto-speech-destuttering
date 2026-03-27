@@ -1,0 +1,122 @@
+{
+    "text": " The report which was submitted last week is now being reviewed by the board.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.78,
+            "text": " The report which was submitted last week is now being reviewed by the board.",
+            "tokens": [
+                50364,
+                440,
+                2275,
+                597,
+                390,
+                14405,
+                1036,
+                1243,
+                307,
+                586,
+                885,
+                18429,
+                538,
+                264,
+                3150,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2940785355038113,
+            "compression_ratio": 1.027027027027027,
+            "no_speech_prob": 0.01374933309853077,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7033656239509583
+                },
+                {
+                    "word": " report",
+                    "start": 0.14,
+                    "end": 0.66,
+                    "probability": 0.9629778861999512
+                },
+                {
+                    "word": " which",
+                    "start": 0.66,
+                    "end": 1.9,
+                    "probability": 0.5046664476394653
+                },
+                {
+                    "word": " was",
+                    "start": 1.9,
+                    "end": 2.1,
+                    "probability": 0.9429164528846741
+                },
+                {
+                    "word": " submitted",
+                    "start": 2.1,
+                    "end": 2.62,
+                    "probability": 0.998681366443634
+                },
+                {
+                    "word": " last",
+                    "start": 2.62,
+                    "end": 2.92,
+                    "probability": 0.9850426912307739
+                },
+                {
+                    "word": " week",
+                    "start": 2.92,
+                    "end": 3.3,
+                    "probability": 0.9966417551040649
+                },
+                {
+                    "word": " is",
+                    "start": 3.3,
+                    "end": 3.94,
+                    "probability": 0.9277145862579346
+                },
+                {
+                    "word": " now",
+                    "start": 3.94,
+                    "end": 4.2,
+                    "probability": 0.954530656337738
+                },
+                {
+                    "word": " being",
+                    "start": 4.2,
+                    "end": 4.66,
+                    "probability": 0.9974825978279114
+                },
+                {
+                    "word": " reviewed",
+                    "start": 4.66,
+                    "end": 5.92,
+                    "probability": 0.31201717257499695
+                },
+                {
+                    "word": " by",
+                    "start": 5.92,
+                    "end": 6.28,
+                    "probability": 0.9939945340156555
+                },
+                {
+                    "word": " the",
+                    "start": 6.28,
+                    "end": 6.46,
+                    "probability": 0.978601336479187
+                },
+                {
+                    "word": " board.",
+                    "start": 6.46,
+                    "end": 6.78,
+                    "probability": 0.6572320461273193
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

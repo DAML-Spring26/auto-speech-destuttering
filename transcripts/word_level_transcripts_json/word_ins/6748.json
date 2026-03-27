@@ -1,0 +1,95 @@
+{
+    "text": " Core 911 immediately if you are, see any suspicious activity.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.94,
+            "text": " Core 911 immediately if you are, see any suspicious activity.",
+            "tokens": [
+                50364,
+                14798,
+                26901,
+                4258,
+                498,
+                291,
+                366,
+                11,
+                536,
+                604,
+                17931,
+                5191,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5823893229166667,
+            "compression_ratio": 0.9104477611940298,
+            "no_speech_prob": 0.06244973838329315,
+            "words": [
+                {
+                    "word": " Core",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.5079626441001892
+                },
+                {
+                    "word": " 911",
+                    "start": 0.36,
+                    "end": 0.64,
+                    "probability": 0.5256056785583496
+                },
+                {
+                    "word": " immediately",
+                    "start": 0.64,
+                    "end": 1.16,
+                    "probability": 0.8324421644210815
+                },
+                {
+                    "word": " if",
+                    "start": 1.16,
+                    "end": 1.42,
+                    "probability": 0.3942911922931671
+                },
+                {
+                    "word": " you",
+                    "start": 1.42,
+                    "end": 1.52,
+                    "probability": 0.7977378964424133
+                },
+                {
+                    "word": " are,",
+                    "start": 1.52,
+                    "end": 1.66,
+                    "probability": 0.2321033626794815
+                },
+                {
+                    "word": " see",
+                    "start": 1.82,
+                    "end": 1.94,
+                    "probability": 0.9328280091285706
+                },
+                {
+                    "word": " any",
+                    "start": 1.94,
+                    "end": 2.12,
+                    "probability": 0.993145227432251
+                },
+                {
+                    "word": " suspicious",
+                    "start": 2.12,
+                    "end": 2.48,
+                    "probability": 0.9967960715293884
+                },
+                {
+                    "word": " activity.",
+                    "start": 2.48,
+                    "end": 2.94,
+                    "probability": 0.9780086278915405
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

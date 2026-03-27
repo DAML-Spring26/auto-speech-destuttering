@@ -1,0 +1,80 @@
+{
+    "text": " Students must admit their thesis disposal by Friday.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.48,
+            "text": " Students must admit their thesis disposal by Friday.",
+            "tokens": [
+                50364,
+                17244,
+                1633,
+                9796,
+                641,
+                22288,
+                26400,
+                538,
+                6984,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37358856201171875,
+            "compression_ratio": 0.9122807017543859,
+            "no_speech_prob": 0.004120782017707825,
+            "words": [
+                {
+                    "word": " Students",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.7627989053726196
+                },
+                {
+                    "word": " must",
+                    "start": 0.4,
+                    "end": 0.68,
+                    "probability": 0.9932128190994263
+                },
+                {
+                    "word": " admit",
+                    "start": 0.68,
+                    "end": 0.92,
+                    "probability": 0.6529821157455444
+                },
+                {
+                    "word": " their",
+                    "start": 0.92,
+                    "end": 1.08,
+                    "probability": 0.9884217381477356
+                },
+                {
+                    "word": " thesis",
+                    "start": 1.08,
+                    "end": 1.36,
+                    "probability": 0.971458375453949
+                },
+                {
+                    "word": " disposal",
+                    "start": 1.36,
+                    "end": 1.88,
+                    "probability": 0.6766247749328613
+                },
+                {
+                    "word": " by",
+                    "start": 1.88,
+                    "end": 2.12,
+                    "probability": 0.9958635568618774
+                },
+                {
+                    "word": " Friday.",
+                    "start": 2.12,
+                    "end": 2.48,
+                    "probability": 0.9896113872528076
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

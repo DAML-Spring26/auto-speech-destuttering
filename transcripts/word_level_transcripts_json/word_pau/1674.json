@@ -1,0 +1,88 @@
+{
+    "text": " I'll meet you at the coffee shop around noon.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.52,
+            "text": " I'll meet you at the coffee shop around noon.",
+            "tokens": [
+                50364,
+                286,
+                603,
+                1677,
+                291,
+                412,
+                264,
+                4982,
+                3945,
+                926,
+                24040,
+                13,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3425191470554897,
+            "compression_ratio": 0.8490566037735849,
+            "no_speech_prob": 0.005024401005357504,
+            "words": [
+                {
+                    "word": " I'll",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.9458939731121063
+                },
+                {
+                    "word": " meet",
+                    "start": 0.24,
+                    "end": 0.42,
+                    "probability": 0.9968183040618896
+                },
+                {
+                    "word": " you",
+                    "start": 0.42,
+                    "end": 0.64,
+                    "probability": 0.9978540539741516
+                },
+                {
+                    "word": " at",
+                    "start": 0.64,
+                    "end": 0.76,
+                    "probability": 0.9903557300567627
+                },
+                {
+                    "word": " the",
+                    "start": 0.76,
+                    "end": 3.34,
+                    "probability": 0.518862247467041
+                },
+                {
+                    "word": " coffee",
+                    "start": 3.34,
+                    "end": 3.66,
+                    "probability": 0.7312281131744385
+                },
+                {
+                    "word": " shop",
+                    "start": 3.66,
+                    "end": 3.88,
+                    "probability": 0.9949511289596558
+                },
+                {
+                    "word": " around",
+                    "start": 3.88,
+                    "end": 4.24,
+                    "probability": 0.9714893102645874
+                },
+                {
+                    "word": " noon.",
+                    "start": 4.24,
+                    "end": 4.52,
+                    "probability": 0.9791622161865234
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

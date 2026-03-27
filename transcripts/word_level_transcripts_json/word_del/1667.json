@@ -1,0 +1,102 @@
+{
+    "text": " The chef explained the secret ingredient was a roti of spice.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.36,
+            "text": " The chef explained the secret ingredient was a roti of spice.",
+            "tokens": [
+                50364,
+                440,
+                10530,
+                8825,
+                264,
+                4054,
+                14751,
+                390,
+                257,
+                4297,
+                72,
+                295,
+                19436,
+                13,
+                50548
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5280040502548218,
+            "compression_ratio": 0.953125,
+            "no_speech_prob": 0.0020584501326084137,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.8542081713676453
+                },
+                {
+                    "word": " chef",
+                    "start": 0.1,
+                    "end": 0.34,
+                    "probability": 0.7999448180198669
+                },
+                {
+                    "word": " explained",
+                    "start": 0.34,
+                    "end": 0.84,
+                    "probability": 0.9867952466011047
+                },
+                {
+                    "word": " the",
+                    "start": 0.84,
+                    "end": 1.04,
+                    "probability": 0.9191127419471741
+                },
+                {
+                    "word": " secret",
+                    "start": 1.04,
+                    "end": 1.36,
+                    "probability": 0.9709102511405945
+                },
+                {
+                    "word": " ingredient",
+                    "start": 1.36,
+                    "end": 1.96,
+                    "probability": 0.9921948909759521
+                },
+                {
+                    "word": " was",
+                    "start": 1.96,
+                    "end": 2.26,
+                    "probability": 0.9535964727401733
+                },
+                {
+                    "word": " a",
+                    "start": 2.26,
+                    "end": 2.38,
+                    "probability": 0.978748083114624
+                },
+                {
+                    "word": " roti",
+                    "start": 2.38,
+                    "end": 2.82,
+                    "probability": 0.17455999553203583
+                },
+                {
+                    "word": " of",
+                    "start": 2.82,
+                    "end": 2.96,
+                    "probability": 0.4447489380836487
+                },
+                {
+                    "word": " spice.",
+                    "start": 2.96,
+                    "end": 3.36,
+                    "probability": 0.9868065714836121
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

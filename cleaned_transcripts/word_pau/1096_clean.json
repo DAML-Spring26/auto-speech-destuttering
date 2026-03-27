@@ -1,12 +1,12 @@
 {
-    "text": " Let's grab some popcorn before the movie starts.",
+    "text": " Let's grab some popcorn before... Larts.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 4.64,
-            "text": " Let's grab some popcorn before the movie starts.",
+            "end": 2.0,
+            "text": " Let's grab some popcorn before...",
             "tokens": [
                 50364,
                 961,
@@ -15,16 +15,31 @@
                 512,
                 25334,
                 949,
-                264,
-                3169,
-                3719,
-                13,
-                50596
+                485,
+                50464
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.40023502936730015,
-            "compression_ratio": 0.8571428571428571,
-            "no_speech_prob": 0.0030776087660342455
+            "avg_logprob": -0.8121826171875,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.003668135730549693
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.48,
+            "end": 3.98,
+            "text": " Larts.",
+            "tokens": [
+                50538,
+                441,
+                11814,
+                13,
+                50563
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8121826171875,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.003668135730549693
         }
     ],
     "language": "en"

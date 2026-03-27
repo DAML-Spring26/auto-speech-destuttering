@@ -1,0 +1,81 @@
+{
+    "text": " The movie was interesting, but a bit long.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.88,
+            "text": " The movie was interesting, but a bit long.",
+            "tokens": [
+                50364,
+                440,
+                3169,
+                390,
+                1880,
+                11,
+                457,
+                257,
+                857,
+                938,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3881067129281851,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.020122330635786057,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.58,
+                    "probability": 0.828090488910675
+                },
+                {
+                    "word": " movie",
+                    "start": 0.58,
+                    "end": 0.92,
+                    "probability": 0.9922089576721191
+                },
+                {
+                    "word": " was",
+                    "start": 0.92,
+                    "end": 1.16,
+                    "probability": 0.9955599308013916
+                },
+                {
+                    "word": " interesting,",
+                    "start": 1.16,
+                    "end": 1.74,
+                    "probability": 0.9978798627853394
+                },
+                {
+                    "word": " but",
+                    "start": 2.06,
+                    "end": 2.22,
+                    "probability": 0.9962463974952698
+                },
+                {
+                    "word": " a",
+                    "start": 2.22,
+                    "end": 4.36,
+                    "probability": 0.3736429214477539
+                },
+                {
+                    "word": " bit",
+                    "start": 4.36,
+                    "end": 4.52,
+                    "probability": 0.9961538910865784
+                },
+                {
+                    "word": " long.",
+                    "start": 4.52,
+                    "end": 4.88,
+                    "probability": 0.9965108036994934
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

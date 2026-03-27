@@ -1,0 +1,97 @@
+{
+    "text": " Just shared a funny cap video on. Facebook",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.06,
+            "text": " Just shared a funny cap video on.",
+            "tokens": [
+                50364,
+                1449,
+                5507,
+                257,
+                4074,
+                1410,
+                960,
+                322,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5793248585292271,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.009008198976516724,
+            "words": [
+                {
+                    "word": " Just",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.654718816280365
+                },
+                {
+                    "word": " shared",
+                    "start": 0.2,
+                    "end": 0.5,
+                    "probability": 0.5510669350624084
+                },
+                {
+                    "word": " a",
+                    "start": 0.5,
+                    "end": 0.68,
+                    "probability": 0.9947894811630249
+                },
+                {
+                    "word": " funny",
+                    "start": 0.68,
+                    "end": 0.9,
+                    "probability": 0.9300623536109924
+                },
+                {
+                    "word": " cap",
+                    "start": 0.9,
+                    "end": 1.14,
+                    "probability": 0.57570880651474
+                },
+                {
+                    "word": " video",
+                    "start": 1.14,
+                    "end": 1.56,
+                    "probability": 0.993051290512085
+                },
+                {
+                    "word": " on.",
+                    "start": 1.56,
+                    "end": 2.06,
+                    "probability": 0.9871113896369934
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.840000000000001,
+            "end": 5.44,
+            "text": " Facebook",
+            "tokens": [
+                50614,
+                4384,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5793248585292271,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.009008198976516724,
+            "words": [
+                {
+                    "word": " Facebook",
+                    "start": 4.840000000000001,
+                    "end": 5.44,
+                    "probability": 0.8345153331756592
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

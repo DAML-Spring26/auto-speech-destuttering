@@ -1,0 +1,59 @@
+{
+    "text": " Quality control ensures product security.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.38,
+            "text": " Quality control ensures product security.",
+            "tokens": [
+                50364,
+                28892,
+                1969,
+                28111,
+                1674,
+                3825,
+                13,
+                50496
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6791708734300401,
+            "compression_ratio": 0.8541666666666666,
+            "no_speech_prob": 0.007827278226613998,
+            "words": [
+                {
+                    "word": " Quality",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.7545182704925537
+                },
+                {
+                    "word": " control",
+                    "start": 0.38,
+                    "end": 0.9,
+                    "probability": 0.8569139838218689
+                },
+                {
+                    "word": " ensures",
+                    "start": 0.9,
+                    "end": 1.28,
+                    "probability": 0.6070930361747742
+                },
+                {
+                    "word": " product",
+                    "start": 1.28,
+                    "end": 1.88,
+                    "probability": 0.4427134096622467
+                },
+                {
+                    "word": " security.",
+                    "start": 1.88,
+                    "end": 2.38,
+                    "probability": 0.3768462836742401
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

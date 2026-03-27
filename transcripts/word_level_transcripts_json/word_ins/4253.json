@@ -1,0 +1,195 @@
+{
+    "text": " The please calls Elifte Stella. The please calls Stella. The guest lecturer will give a presentation the next week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.96,
+            "text": " The please calls Elifte Stella.",
+            "tokens": [
+                50364,
+                440,
+                1767,
+                5498,
+                2699,
+                351,
+                975,
+                45073,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4099261991439327,
+            "compression_ratio": 1.3529411764705883,
+            "no_speech_prob": 0.05987810343503952,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.62,
+                    "probability": 0.6734673380851746
+                },
+                {
+                    "word": " please",
+                    "start": 0.62,
+                    "end": 0.82,
+                    "probability": 0.463775098323822
+                },
+                {
+                    "word": " calls",
+                    "start": 0.82,
+                    "end": 1.14,
+                    "probability": 0.7256595492362976
+                },
+                {
+                    "word": " Elifte",
+                    "start": 1.14,
+                    "end": 1.66,
+                    "probability": 0.5313035249710083
+                },
+                {
+                    "word": " Stella.",
+                    "start": 1.66,
+                    "end": 1.96,
+                    "probability": 0.567909836769104
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.52,
+            "end": 3.76,
+            "text": " The please calls Stella.",
+            "tokens": [
+                50504,
+                440,
+                1767,
+                5498,
+                45073,
+                13,
+                50588
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4099261991439327,
+            "compression_ratio": 1.3529411764705883,
+            "no_speech_prob": 0.05987810343503952,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 2.52,
+                    "end": 2.92,
+                    "probability": 0.9778603315353394
+                },
+                {
+                    "word": " please",
+                    "start": 2.92,
+                    "end": 3.12,
+                    "probability": 0.9544724225997925
+                },
+                {
+                    "word": " calls",
+                    "start": 3.12,
+                    "end": 3.38,
+                    "probability": 0.7786170840263367
+                },
+                {
+                    "word": " Stella.",
+                    "start": 3.38,
+                    "end": 3.76,
+                    "probability": 0.9647992253303528
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.3,
+            "end": 7.52,
+            "text": " The guest lecturer will give a presentation the next week.",
+            "tokens": [
+                50588,
+                440,
+                8341,
+                49881,
+                486,
+                976,
+                257,
+                5860,
+                264,
+                958,
+                1243,
+                13,
+                50744
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4099261991439327,
+            "compression_ratio": 1.3529411764705883,
+            "no_speech_prob": 0.05987810343503952,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 4.3,
+                    "end": 4.58,
+                    "probability": 0.9804221987724304
+                },
+                {
+                    "word": " guest",
+                    "start": 4.58,
+                    "end": 4.74,
+                    "probability": 0.9130122065544128
+                },
+                {
+                    "word": " lecturer",
+                    "start": 4.74,
+                    "end": 5.22,
+                    "probability": 0.9788289070129395
+                },
+                {
+                    "word": " will",
+                    "start": 5.22,
+                    "end": 5.8,
+                    "probability": 0.8736668825149536
+                },
+                {
+                    "word": " give",
+                    "start": 5.8,
+                    "end": 6.08,
+                    "probability": 0.9964882135391235
+                },
+                {
+                    "word": " a",
+                    "start": 6.08,
+                    "end": 6.24,
+                    "probability": 0.9943821430206299
+                },
+                {
+                    "word": " presentation",
+                    "start": 6.24,
+                    "end": 6.72,
+                    "probability": 0.9937580823898315
+                },
+                {
+                    "word": " the",
+                    "start": 6.72,
+                    "end": 7.1,
+                    "probability": 0.9734680652618408
+                },
+                {
+                    "word": " next",
+                    "start": 7.1,
+                    "end": 7.34,
+                    "probability": 0.9990125894546509
+                },
+                {
+                    "word": " week.",
+                    "start": 7.34,
+                    "end": 7.52,
+                    "probability": 0.9986822009086609
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

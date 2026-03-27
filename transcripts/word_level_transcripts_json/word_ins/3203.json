@@ -1,0 +1,95 @@
+{
+    "text": " We should evaluate the project's success after six months well.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.92,
+            "text": " We should evaluate the project's success after six months well.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                13059,
+                264,
+                1716,
+                311,
+                2245,
+                934,
+                2309,
+                2493,
+                731,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36391719182332355,
+            "compression_ratio": 0.9692307692307692,
+            "no_speech_prob": 0.03776479512453079,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.98,
+                    "probability": 0.8608843684196472
+                },
+                {
+                    "word": " should",
+                    "start": 0.98,
+                    "end": 1.2,
+                    "probability": 0.9982529282569885
+                },
+                {
+                    "word": " evaluate",
+                    "start": 1.2,
+                    "end": 1.68,
+                    "probability": 0.9944385290145874
+                },
+                {
+                    "word": " the",
+                    "start": 1.68,
+                    "end": 2.0,
+                    "probability": 0.9929026961326599
+                },
+                {
+                    "word": " project's",
+                    "start": 2.0,
+                    "end": 2.7,
+                    "probability": 0.8685772120952606
+                },
+                {
+                    "word": " success",
+                    "start": 2.7,
+                    "end": 3.04,
+                    "probability": 0.996034562587738
+                },
+                {
+                    "word": " after",
+                    "start": 3.04,
+                    "end": 3.92,
+                    "probability": 0.8752403259277344
+                },
+                {
+                    "word": " six",
+                    "start": 3.92,
+                    "end": 4.28,
+                    "probability": 0.730154275894165
+                },
+                {
+                    "word": " months",
+                    "start": 4.28,
+                    "end": 4.52,
+                    "probability": 0.9966674447059631
+                },
+                {
+                    "word": " well.",
+                    "start": 4.52,
+                    "end": 4.92,
+                    "probability": 0.3471496105194092
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

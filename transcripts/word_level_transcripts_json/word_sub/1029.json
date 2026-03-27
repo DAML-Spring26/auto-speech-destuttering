@@ -1,0 +1,60 @@
+{
+    "text": " students presented their research bindings.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.76,
+            "text": " students presented their research bindings.",
+            "tokens": [
+                50364,
+                1731,
+                8212,
+                641,
+                2132,
+                14786,
+                1109,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.50523362159729,
+            "compression_ratio": 0.9148936170212766,
+            "no_speech_prob": 0.0033627136144787073,
+            "words": [
+                {
+                    "word": " students",
+                    "start": 0.0,
+                    "end": 0.46,
+                    "probability": 0.5022321343421936
+                },
+                {
+                    "word": " presented",
+                    "start": 0.46,
+                    "end": 1.16,
+                    "probability": 0.9928503036499023
+                },
+                {
+                    "word": " their",
+                    "start": 1.16,
+                    "end": 1.42,
+                    "probability": 0.9942871928215027
+                },
+                {
+                    "word": " research",
+                    "start": 1.42,
+                    "end": 1.9,
+                    "probability": 0.9957062602043152
+                },
+                {
+                    "word": " bindings.",
+                    "start": 1.9,
+                    "end": 2.76,
+                    "probability": 0.7963768541812897
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

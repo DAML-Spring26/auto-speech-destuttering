@@ -1,0 +1,80 @@
+{
+    "text": " Our neighbours invited us for dinner this weekend.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.28,
+            "text": " Our neighbours invited us for dinner this weekend.",
+            "tokens": [
+                50364,
+                2621,
+                35548,
+                9185,
+                505,
+                337,
+                6148,
+                341,
+                6711,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4042878945668538,
+            "compression_ratio": 0.8771929824561403,
+            "no_speech_prob": 0.013351858593523502,
+            "words": [
+                {
+                    "word": " Our",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.6605748534202576
+                },
+                {
+                    "word": " neighbours",
+                    "start": 0.2,
+                    "end": 0.64,
+                    "probability": 0.4620852470397949
+                },
+                {
+                    "word": " invited",
+                    "start": 0.64,
+                    "end": 1.88,
+                    "probability": 0.5338138341903687
+                },
+                {
+                    "word": " us",
+                    "start": 1.88,
+                    "end": 2.24,
+                    "probability": 0.9963986873626709
+                },
+                {
+                    "word": " for",
+                    "start": 2.24,
+                    "end": 2.38,
+                    "probability": 0.9784536361694336
+                },
+                {
+                    "word": " dinner",
+                    "start": 2.38,
+                    "end": 2.64,
+                    "probability": 0.9973860383033752
+                },
+                {
+                    "word": " this",
+                    "start": 2.64,
+                    "end": 2.92,
+                    "probability": 0.9908580183982849
+                },
+                {
+                    "word": " weekend.",
+                    "start": 2.92,
+                    "end": 3.28,
+                    "probability": 0.9911790490150452
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

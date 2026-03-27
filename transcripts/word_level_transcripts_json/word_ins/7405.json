@@ -1,0 +1,88 @@
+{
+    "text": " The patient's condition has significantly improved since the surgery.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.12,
+            "text": " The patient's condition has significantly improved since the surgery.",
+            "tokens": [
+                50364,
+                440,
+                4537,
+                311,
+                4188,
+                575,
+                10591,
+                9689,
+                1670,
+                264,
+                7930,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33161561829703196,
+            "compression_ratio": 0.9583333333333334,
+            "no_speech_prob": 0.25124555826187134,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 1.44,
+                    "probability": 0.7661256194114685
+                },
+                {
+                    "word": " patient's",
+                    "start": 1.44,
+                    "end": 1.96,
+                    "probability": 0.9507458209991455
+                },
+                {
+                    "word": " condition",
+                    "start": 1.96,
+                    "end": 2.42,
+                    "probability": 0.9984392523765564
+                },
+                {
+                    "word": " has",
+                    "start": 2.42,
+                    "end": 3.78,
+                    "probability": 0.9222561120986938
+                },
+                {
+                    "word": " significantly",
+                    "start": 3.78,
+                    "end": 5.38,
+                    "probability": 0.9428219199180603
+                },
+                {
+                    "word": " improved",
+                    "start": 5.38,
+                    "end": 6.28,
+                    "probability": 0.9978088736534119
+                },
+                {
+                    "word": " since",
+                    "start": 6.28,
+                    "end": 6.54,
+                    "probability": 0.9954364895820618
+                },
+                {
+                    "word": " the",
+                    "start": 6.54,
+                    "end": 6.76,
+                    "probability": 0.9771892428398132
+                },
+                {
+                    "word": " surgery.",
+                    "start": 6.76,
+                    "end": 7.12,
+                    "probability": 0.9976812601089478
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

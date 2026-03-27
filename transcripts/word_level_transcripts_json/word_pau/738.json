@@ -1,0 +1,113 @@
+{
+    "text": " The new AI algorithm can... ...first estate a much faster.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " The new AI algorithm can...",
+            "tokens": [
+                50364,
+                440,
+                777,
+                7318,
+                9284,
+                393,
+                485,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6770371860928006,
+            "compression_ratio": 0.90625,
+            "no_speech_prob": 0.009406911209225655,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6149269342422485
+                },
+                {
+                    "word": " new",
+                    "start": 0.16,
+                    "end": 0.4,
+                    "probability": 0.8880752921104431
+                },
+                {
+                    "word": " AI",
+                    "start": 0.4,
+                    "end": 0.62,
+                    "probability": 0.9785813689231873
+                },
+                {
+                    "word": " algorithm",
+                    "start": 0.62,
+                    "end": 1.14,
+                    "probability": 0.8991541266441345
+                },
+                {
+                    "word": " can...",
+                    "start": 1.14,
+                    "end": 2.0,
+                    "probability": 0.6050377786159515
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.6,
+            "end": 5.2,
+            "text": " ...first estate a much faster.",
+            "tokens": [
+                50544,
+                1097,
+                29581,
+                9749,
+                257,
+                709,
+                4663,
+                13,
+                50644
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6770371860928006,
+            "compression_ratio": 0.90625,
+            "no_speech_prob": 0.009406911209225655,
+            "words": [
+                {
+                    "word": " ...first",
+                    "start": 3.3400000000000003,
+                    "end": 3.78,
+                    "probability": 0.366162970662117
+                },
+                {
+                    "word": " estate",
+                    "start": 3.78,
+                    "end": 4.24,
+                    "probability": 0.37269535660743713
+                },
+                {
+                    "word": " a",
+                    "start": 4.24,
+                    "end": 4.4,
+                    "probability": 0.6433383226394653
+                },
+                {
+                    "word": " much",
+                    "start": 4.4,
+                    "end": 4.6,
+                    "probability": 0.9912789463996887
+                },
+                {
+                    "word": " faster.",
+                    "start": 4.6,
+                    "end": 5.2,
+                    "probability": 0.9945496916770935
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

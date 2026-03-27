@@ -1,0 +1,141 @@
+{
+    "text": " After reviewing your application we'd like to invite you for an interview. Next week...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.9600000000000002,
+            "end": 5.44,
+            "text": " After reviewing your application we'd like to invite you for an interview.",
+            "tokens": [
+                50364,
+                2381,
+                19576,
+                428,
+                3861,
+                321,
+                1116,
+                411,
+                281,
+                7980,
+                291,
+                337,
+                364,
+                4049,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31083386594598944,
+            "compression_ratio": 1.0609756097560976,
+            "no_speech_prob": 0.05193828046321869,
+            "words": [
+                {
+                    "word": " After",
+                    "start": 0.9600000000000002,
+                    "end": 1.76,
+                    "probability": 0.8400171399116516
+                },
+                {
+                    "word": " reviewing",
+                    "start": 1.76,
+                    "end": 2.16,
+                    "probability": 0.9937281608581543
+                },
+                {
+                    "word": " your",
+                    "start": 2.16,
+                    "end": 2.4,
+                    "probability": 0.9963611960411072
+                },
+                {
+                    "word": " application",
+                    "start": 2.4,
+                    "end": 3.06,
+                    "probability": 0.9900082349777222
+                },
+                {
+                    "word": " we'd",
+                    "start": 3.06,
+                    "end": 3.46,
+                    "probability": 0.8686922490596771
+                },
+                {
+                    "word": " like",
+                    "start": 3.46,
+                    "end": 3.58,
+                    "probability": 0.9983260035514832
+                },
+                {
+                    "word": " to",
+                    "start": 3.58,
+                    "end": 3.8,
+                    "probability": 0.9976586103439331
+                },
+                {
+                    "word": " invite",
+                    "start": 3.8,
+                    "end": 4.08,
+                    "probability": 0.9975784420967102
+                },
+                {
+                    "word": " you",
+                    "start": 4.08,
+                    "end": 4.36,
+                    "probability": 0.9977935552597046
+                },
+                {
+                    "word": " for",
+                    "start": 4.36,
+                    "end": 4.56,
+                    "probability": 0.9959368705749512
+                },
+                {
+                    "word": " an",
+                    "start": 4.56,
+                    "end": 4.82,
+                    "probability": 0.9957218170166016
+                },
+                {
+                    "word": " interview.",
+                    "start": 4.82,
+                    "end": 5.44,
+                    "probability": 0.9874132871627808
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.08,
+            "end": 8.46,
+            "text": " Next week...",
+            "tokens": [
+                50714,
+                3087,
+                1243,
+                485,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31083386594598944,
+            "compression_ratio": 1.0609756097560976,
+            "no_speech_prob": 0.05193828046321869,
+            "words": [
+                {
+                    "word": " Next",
+                    "start": 7.08,
+                    "end": 7.88,
+                    "probability": 0.5069298148155212
+                },
+                {
+                    "word": " week...",
+                    "start": 7.88,
+                    "end": 8.46,
+                    "probability": 0.6977444887161255
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,88 @@
+{
+    "text": " I'm thrilled about starting my new job next week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.9,
+            "text": " I'm thrilled about starting my new job next week.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                18744,
+                466,
+                2891,
+                452,
+                777,
+                1691,
+                958,
+                1243,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3653414249420166,
+            "compression_ratio": 0.8909090909090909,
+            "no_speech_prob": 0.009282980114221573,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.7569979429244995
+                },
+                {
+                    "word": " thrilled",
+                    "start": 0.26,
+                    "end": 0.56,
+                    "probability": 0.8492622971534729
+                },
+                {
+                    "word": " about",
+                    "start": 0.56,
+                    "end": 0.88,
+                    "probability": 0.9910622835159302
+                },
+                {
+                    "word": " starting",
+                    "start": 0.88,
+                    "end": 2.7,
+                    "probability": 0.48598968982696533
+                },
+                {
+                    "word": " my",
+                    "start": 2.7,
+                    "end": 2.9,
+                    "probability": 0.9784823060035706
+                },
+                {
+                    "word": " new",
+                    "start": 2.9,
+                    "end": 3.06,
+                    "probability": 0.9979485869407654
+                },
+                {
+                    "word": " job",
+                    "start": 3.06,
+                    "end": 3.26,
+                    "probability": 0.9879459142684937
+                },
+                {
+                    "word": " next",
+                    "start": 3.26,
+                    "end": 3.64,
+                    "probability": 0.9928379654884338
+                },
+                {
+                    "word": " week.",
+                    "start": 3.64,
+                    "end": 3.9,
+                    "probability": 0.9973766803741455
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

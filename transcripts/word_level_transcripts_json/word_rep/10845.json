@@ -1,0 +1,101 @@
+{
+    "text": " Can you check if though the network cable is properly connected?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.12,
+            "text": " Can you check if though the network cable is properly connected?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                1520,
+                498,
+                1673,
+                264,
+                3209,
+                8220,
+                307,
+                6108,
+                4582,
+                30,
+                50539
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4556280136108398,
+            "compression_ratio": 0.9552238805970149,
+            "no_speech_prob": 0.011792175471782684,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.43332719802856445
+                },
+                {
+                    "word": " you",
+                    "start": 0.14,
+                    "end": 0.32,
+                    "probability": 0.9922778606414795
+                },
+                {
+                    "word": " check",
+                    "start": 0.32,
+                    "end": 0.6,
+                    "probability": 0.9958983063697815
+                },
+                {
+                    "word": " if",
+                    "start": 0.6,
+                    "end": 0.76,
+                    "probability": 0.9623244404792786
+                },
+                {
+                    "word": " though",
+                    "start": 0.76,
+                    "end": 1.04,
+                    "probability": 0.32237645983695984
+                },
+                {
+                    "word": " the",
+                    "start": 1.04,
+                    "end": 1.3,
+                    "probability": 0.5577263236045837
+                },
+                {
+                    "word": " network",
+                    "start": 1.3,
+                    "end": 1.62,
+                    "probability": 0.9273379445075989
+                },
+                {
+                    "word": " cable",
+                    "start": 1.62,
+                    "end": 2.0,
+                    "probability": 0.9884669780731201
+                },
+                {
+                    "word": " is",
+                    "start": 2.0,
+                    "end": 2.2,
+                    "probability": 0.9844760298728943
+                },
+                {
+                    "word": " properly",
+                    "start": 2.2,
+                    "end": 2.56,
+                    "probability": 0.9753095507621765
+                },
+                {
+                    "word": " connected?",
+                    "start": 2.56,
+                    "end": 3.12,
+                    "probability": 0.9967742562294006
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

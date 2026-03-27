@@ -1,0 +1,73 @@
+{
+    "text": " She managed to compete the project early.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.02,
+            "text": " She managed to compete the project early.",
+            "tokens": [
+                50364,
+                1240,
+                6453,
+                281,
+                11831,
+                264,
+                1716,
+                2440,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35941748185591266,
+            "compression_ratio": 0.8541666666666666,
+            "no_speech_prob": 0.004035500343888998,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.6249901652336121
+                },
+                {
+                    "word": " managed",
+                    "start": 0.26,
+                    "end": 0.52,
+                    "probability": 0.9958898425102234
+                },
+                {
+                    "word": " to",
+                    "start": 0.52,
+                    "end": 0.68,
+                    "probability": 0.9992361068725586
+                },
+                {
+                    "word": " compete",
+                    "start": 0.68,
+                    "end": 0.98,
+                    "probability": 0.9378929138183594
+                },
+                {
+                    "word": " the",
+                    "start": 0.98,
+                    "end": 1.2,
+                    "probability": 0.9600508809089661
+                },
+                {
+                    "word": " project",
+                    "start": 1.2,
+                    "end": 1.6,
+                    "probability": 0.9897847771644592
+                },
+                {
+                    "word": " early.",
+                    "start": 1.6,
+                    "end": 2.02,
+                    "probability": 0.9837794899940491
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

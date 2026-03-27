@@ -1,0 +1,87 @@
+{
+    "text": " The company is investing heavily in research and development.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.52,
+            "text": " The company is investing heavily in research and development.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                307,
+                10978,
+                10950,
+                294,
+                2132,
+                293,
+                3250,
+                13,
+                50556
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25571667231046236,
+            "compression_ratio": 0.9384615384615385,
+            "no_speech_prob": 0.010666334070265293,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7626932263374329
+                },
+                {
+                    "word": " company",
+                    "start": 0.14,
+                    "end": 0.46,
+                    "probability": 0.9942367076873779
+                },
+                {
+                    "word": " is",
+                    "start": 0.46,
+                    "end": 0.78,
+                    "probability": 0.997025191783905
+                },
+                {
+                    "word": " investing",
+                    "start": 0.78,
+                    "end": 1.22,
+                    "probability": 0.9981275200843811
+                },
+                {
+                    "word": " heavily",
+                    "start": 1.22,
+                    "end": 1.66,
+                    "probability": 0.9991538524627686
+                },
+                {
+                    "word": " in",
+                    "start": 1.66,
+                    "end": 1.98,
+                    "probability": 0.9967241883277893
+                },
+                {
+                    "word": " research",
+                    "start": 1.98,
+                    "end": 2.72,
+                    "probability": 0.9349237680435181
+                },
+                {
+                    "word": " and",
+                    "start": 2.72,
+                    "end": 3.0,
+                    "probability": 0.9973238706588745
+                },
+                {
+                    "word": " development.",
+                    "start": 3.0,
+                    "end": 3.52,
+                    "probability": 0.9996203184127808
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

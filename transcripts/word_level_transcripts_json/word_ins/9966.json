@@ -1,0 +1,91 @@
+{
+    "text": " Let's meet at the park for a well-picknic.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.5999999999999999,
+            "end": 2.96,
+            "text": " Let's meet at the park for a well-picknic.",
+            "tokens": [
+                50364,
+                961,
+                311,
+                1677,
+                412,
+                264,
+                3884,
+                337,
+                257,
+                731,
+                12,
+                79,
+                618,
+                7692,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4784906611723058,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.030871231108903885,
+            "words": [
+                {
+                    "word": " Let's",
+                    "start": 0.5999999999999999,
+                    "end": 0.98,
+                    "probability": 0.9250600337982178
+                },
+                {
+                    "word": " meet",
+                    "start": 0.98,
+                    "end": 1.12,
+                    "probability": 0.997003972530365
+                },
+                {
+                    "word": " at",
+                    "start": 1.12,
+                    "end": 1.24,
+                    "probability": 0.9970836043357849
+                },
+                {
+                    "word": " the",
+                    "start": 1.24,
+                    "end": 1.34,
+                    "probability": 0.993457019329071
+                },
+                {
+                    "word": " park",
+                    "start": 1.34,
+                    "end": 1.6,
+                    "probability": 0.9611073136329651
+                },
+                {
+                    "word": " for",
+                    "start": 1.6,
+                    "end": 1.84,
+                    "probability": 0.9957308173179626
+                },
+                {
+                    "word": " a",
+                    "start": 1.84,
+                    "end": 1.96,
+                    "probability": 0.9934952855110168
+                },
+                {
+                    "word": " well",
+                    "start": 1.96,
+                    "end": 2.2,
+                    "probability": 0.4752260148525238
+                },
+                {
+                    "word": "-picknic.",
+                    "start": 2.2,
+                    "end": 2.96,
+                    "probability": 0.49394602328538895
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

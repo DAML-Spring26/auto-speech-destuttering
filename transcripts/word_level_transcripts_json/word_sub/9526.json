@@ -1,0 +1,66 @@
+{
+    "text": " The strategy meaning starts at noon.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.98,
+            "text": " The strategy meaning starts at noon.",
+            "tokens": [
+                50364,
+                440,
+                5206,
+                3620,
+                3719,
+                412,
+                24040,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38977234363555907,
+            "compression_ratio": 0.8372093023255814,
+            "no_speech_prob": 0.011242419481277466,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6330556273460388
+                },
+                {
+                    "word": " strategy",
+                    "start": 0.14,
+                    "end": 0.62,
+                    "probability": 0.9261399507522583
+                },
+                {
+                    "word": " meaning",
+                    "start": 0.62,
+                    "end": 0.98,
+                    "probability": 0.7294788360595703
+                },
+                {
+                    "word": " starts",
+                    "start": 0.98,
+                    "end": 1.46,
+                    "probability": 0.9208690524101257
+                },
+                {
+                    "word": " at",
+                    "start": 1.46,
+                    "end": 1.74,
+                    "probability": 0.9962034821510315
+                },
+                {
+                    "word": " noon.",
+                    "start": 1.74,
+                    "end": 1.98,
+                    "probability": 0.8730238080024719
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

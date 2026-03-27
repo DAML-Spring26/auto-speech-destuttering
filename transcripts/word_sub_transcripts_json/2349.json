@@ -1,0 +1,59 @@
+{
+    "text": " the researcher appeals interesting patterns.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.9,
+            "text": " the researcher appeals interesting patterns.",
+            "tokens": [
+                50364,
+                264,
+                21751,
+                32603,
+                1880,
+                8294,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5886972215440538,
+            "compression_ratio": 0.8979591836734694,
+            "no_speech_prob": 0.005181377753615379,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.4483564794063568
+                },
+                {
+                    "word": " researcher",
+                    "start": 0.18,
+                    "end": 0.92,
+                    "probability": 0.6451946496963501
+                },
+                {
+                    "word": " appeals",
+                    "start": 0.92,
+                    "end": 1.48,
+                    "probability": 0.9327819347381592
+                },
+                {
+                    "word": " interesting",
+                    "start": 1.48,
+                    "end": 2.3,
+                    "probability": 0.9538092017173767
+                },
+                {
+                    "word": " patterns.",
+                    "start": 2.3,
+                    "end": 2.9,
+                    "probability": 0.9460815191268921
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

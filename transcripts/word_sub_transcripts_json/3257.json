@@ -1,0 +1,66 @@
+{
+    "text": " The Corporation implemented new security projects.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.26,
+            "text": " The Corporation implemented new security projects.",
+            "tokens": [
+                50364,
+                440,
+                26464,
+                12270,
+                777,
+                3825,
+                4455,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4895013809204102,
+            "compression_ratio": 0.8620689655172413,
+            "no_speech_prob": 0.0025866201613098383,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6057484149932861
+                },
+                {
+                    "word": " Corporation",
+                    "start": 0.1,
+                    "end": 0.52,
+                    "probability": 0.5817279815673828
+                },
+                {
+                    "word": " implemented",
+                    "start": 0.52,
+                    "end": 1.14,
+                    "probability": 0.912117600440979
+                },
+                {
+                    "word": " new",
+                    "start": 1.14,
+                    "end": 1.42,
+                    "probability": 0.9636020660400391
+                },
+                {
+                    "word": " security",
+                    "start": 1.42,
+                    "end": 1.74,
+                    "probability": 0.9668298363685608
+                },
+                {
+                    "word": " projects.",
+                    "start": 1.74,
+                    "end": 2.26,
+                    "probability": 0.9936332702636719
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

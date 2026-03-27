@@ -1,0 +1,74 @@
+{
+    "text": " Please dial 911 in case of emergencies.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.74,
+            "text": " Please dial 911 in case of emergencies.",
+            "tokens": [
+                50364,
+                2555,
+                5502,
+                1722,
+                5348,
+                294,
+                1389,
+                295,
+                43483,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3657788832982381,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.007144389674067497,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.8564207553863525
+                },
+                {
+                    "word": " dial",
+                    "start": 0.22,
+                    "end": 0.58,
+                    "probability": 0.9912603497505188
+                },
+                {
+                    "word": " 911",
+                    "start": 0.58,
+                    "end": 1.44,
+                    "probability": 0.7125399708747864
+                },
+                {
+                    "word": " in",
+                    "start": 1.44,
+                    "end": 1.72,
+                    "probability": 0.9713832139968872
+                },
+                {
+                    "word": " case",
+                    "start": 1.72,
+                    "end": 1.98,
+                    "probability": 0.981646716594696
+                },
+                {
+                    "word": " of",
+                    "start": 1.98,
+                    "end": 2.18,
+                    "probability": 0.9987051486968994
+                },
+                {
+                    "word": " emergencies.",
+                    "start": 2.18,
+                    "end": 2.74,
+                    "probability": 0.9841800928115845
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

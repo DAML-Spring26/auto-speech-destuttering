@@ -1,0 +1,66 @@
+{
+    "text": " The quarterly report shows significant glow.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.28,
+            "text": " The quarterly report shows significant glow.",
+            "tokens": [
+                50364,
+                440,
+                38633,
+                2275,
+                3110,
+                4776,
+                17513,
+                13,
+                50538
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45832052230834963,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.009321212768554688,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7049541473388672
+                },
+                {
+                    "word": " quarterly",
+                    "start": 0.14,
+                    "end": 0.66,
+                    "probability": 0.9280652403831482
+                },
+                {
+                    "word": " report",
+                    "start": 0.66,
+                    "end": 1.34,
+                    "probability": 0.9655025005340576
+                },
+                {
+                    "word": " shows",
+                    "start": 1.34,
+                    "end": 1.9,
+                    "probability": 0.9739333987236023
+                },
+                {
+                    "word": " significant",
+                    "start": 1.9,
+                    "end": 2.76,
+                    "probability": 0.9875695109367371
+                },
+                {
+                    "word": " glow.",
+                    "start": 2.76,
+                    "end": 3.28,
+                    "probability": 0.9676492214202881
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

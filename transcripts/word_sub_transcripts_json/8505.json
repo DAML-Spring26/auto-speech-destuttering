@@ -1,0 +1,88 @@
+{
+    "text": " The stock market fluctuates wildly due to economic uncertainty.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.38,
+            "text": " The stock market fluctuates wildly due to economic uncertainty.",
+            "tokens": [
+                50364,
+                440,
+                4127,
+                2142,
+                23448,
+                27710,
+                34731,
+                3462,
+                281,
+                4836,
+                15697,
+                13,
+                50550
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3578207152230399,
+            "compression_ratio": 0.9692307692307692,
+            "no_speech_prob": 0.004213524516671896,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6769892573356628
+                },
+                {
+                    "word": " stock",
+                    "start": 0.1,
+                    "end": 0.34,
+                    "probability": 0.9953462481498718
+                },
+                {
+                    "word": " market",
+                    "start": 0.34,
+                    "end": 0.82,
+                    "probability": 0.9923292994499207
+                },
+                {
+                    "word": " fluctuates",
+                    "start": 0.82,
+                    "end": 1.52,
+                    "probability": 0.6443476527929306
+                },
+                {
+                    "word": " wildly",
+                    "start": 1.52,
+                    "end": 1.92,
+                    "probability": 0.9695250391960144
+                },
+                {
+                    "word": " due",
+                    "start": 1.92,
+                    "end": 2.22,
+                    "probability": 0.9969227910041809
+                },
+                {
+                    "word": " to",
+                    "start": 2.22,
+                    "end": 2.36,
+                    "probability": 0.9986842274665833
+                },
+                {
+                    "word": " economic",
+                    "start": 2.36,
+                    "end": 2.8,
+                    "probability": 0.9801427721977234
+                },
+                {
+                    "word": " uncertainty.",
+                    "start": 2.8,
+                    "end": 3.38,
+                    "probability": 0.8330602049827576
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

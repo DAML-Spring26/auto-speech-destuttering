@@ -1,0 +1,59 @@
+{
+    "text": " Place the cat on tightly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.06,
+            "text": " Place the cat on tightly.",
+            "tokens": [
+                50364,
+                13637,
+                264,
+                3857,
+                322,
+                21952,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.463900089263916,
+            "compression_ratio": 0.7575757575757576,
+            "no_speech_prob": 0.006701512262225151,
+            "words": [
+                {
+                    "word": " Place",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7500061392784119
+                },
+                {
+                    "word": " the",
+                    "start": 0.16,
+                    "end": 0.36,
+                    "probability": 0.9935142993927002
+                },
+                {
+                    "word": " cat",
+                    "start": 0.36,
+                    "end": 0.54,
+                    "probability": 0.7313169836997986
+                },
+                {
+                    "word": " on",
+                    "start": 0.54,
+                    "end": 0.68,
+                    "probability": 0.9730076193809509
+                },
+                {
+                    "word": " tightly.",
+                    "start": 0.68,
+                    "end": 1.06,
+                    "probability": 0.991605281829834
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

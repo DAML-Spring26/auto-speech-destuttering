@@ -1,0 +1,120 @@
+{
+    "text": " We should consider all options before making your final investment. Decision.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.4,
+            "text": " We should consider all options before making your final investment.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                1949,
+                439,
+                3956,
+                949,
+                1455,
+                428,
+                2572,
+                6078,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4927724035162675,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.009066256694495678,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.544778048992157
+                },
+                {
+                    "word": " should",
+                    "start": 0.16,
+                    "end": 0.26,
+                    "probability": 0.9733434915542603
+                },
+                {
+                    "word": " consider",
+                    "start": 0.26,
+                    "end": 0.74,
+                    "probability": 0.9942625164985657
+                },
+                {
+                    "word": " all",
+                    "start": 0.74,
+                    "end": 1.02,
+                    "probability": 0.6570908427238464
+                },
+                {
+                    "word": " options",
+                    "start": 1.02,
+                    "end": 1.38,
+                    "probability": 0.9815276265144348
+                },
+                {
+                    "word": " before",
+                    "start": 1.38,
+                    "end": 1.78,
+                    "probability": 0.9408395290374756
+                },
+                {
+                    "word": " making",
+                    "start": 1.78,
+                    "end": 2.22,
+                    "probability": 0.9915865659713745
+                },
+                {
+                    "word": " your",
+                    "start": 2.22,
+                    "end": 2.4,
+                    "probability": 0.5216933488845825
+                },
+                {
+                    "word": " final",
+                    "start": 2.4,
+                    "end": 2.72,
+                    "probability": 0.9906713962554932
+                },
+                {
+                    "word": " investment.",
+                    "start": 2.72,
+                    "end": 3.4,
+                    "probability": 0.9866148829460144
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.180000000000001,
+            "end": 5.9,
+            "text": " Decision.",
+            "tokens": [
+                50614,
+                12427,
+                1991,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4927724035162675,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.009066256694495678,
+            "words": [
+                {
+                    "word": " Decision.",
+                    "start": 5.180000000000001,
+                    "end": 5.9,
+                    "probability": 0.9189342856407166
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

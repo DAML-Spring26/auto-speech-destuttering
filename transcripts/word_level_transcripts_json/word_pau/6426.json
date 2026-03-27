@@ -1,0 +1,108 @@
+{
+    "text": " Could you please send me the files by a close of business?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.96,
+            "text": " Could you please send me the files by a close of business?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                2845,
+                385,
+                264,
+                7098,
+                538,
+                257,
+                1998,
+                295,
+                1606,
+                30,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3822076916694641,
+            "compression_ratio": 0.9354838709677419,
+            "no_speech_prob": 0.014994197525084019,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.8959993124008179
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.3,
+                    "probability": 0.9976516366004944
+                },
+                {
+                    "word": " please",
+                    "start": 0.3,
+                    "end": 0.58,
+                    "probability": 0.9947280287742615
+                },
+                {
+                    "word": " send",
+                    "start": 0.58,
+                    "end": 0.8,
+                    "probability": 0.45497485995292664
+                },
+                {
+                    "word": " me",
+                    "start": 0.8,
+                    "end": 0.98,
+                    "probability": 0.996512234210968
+                },
+                {
+                    "word": " the",
+                    "start": 0.98,
+                    "end": 1.14,
+                    "probability": 0.9795960187911987
+                },
+                {
+                    "word": " files",
+                    "start": 1.14,
+                    "end": 1.42,
+                    "probability": 0.9607338309288025
+                },
+                {
+                    "word": " by",
+                    "start": 1.42,
+                    "end": 1.76,
+                    "probability": 0.9812927842140198
+                },
+                {
+                    "word": " a",
+                    "start": 1.76,
+                    "end": 2.94,
+                    "probability": 0.5054512023925781
+                },
+                {
+                    "word": " close",
+                    "start": 2.94,
+                    "end": 5.4,
+                    "probability": 0.8405947089195251
+                },
+                {
+                    "word": " of",
+                    "start": 5.4,
+                    "end": 5.56,
+                    "probability": 0.815997838973999
+                },
+                {
+                    "word": " business?",
+                    "start": 5.56,
+                    "end": 5.96,
+                    "probability": 0.9543241858482361
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

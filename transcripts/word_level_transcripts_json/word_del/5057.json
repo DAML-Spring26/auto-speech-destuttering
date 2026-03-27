@@ -1,0 +1,102 @@
+{
+    "text": " We need a schedule of follow-up appointment in two weeks.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.2,
+            "text": " We need a schedule of follow-up appointment in two weeks.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                257,
+                7567,
+                295,
+                1524,
+                12,
+                1010,
+                13653,
+                294,
+                732,
+                3259,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5348653197288513,
+            "compression_ratio": 0.9344262295081968,
+            "no_speech_prob": 0.0090479776263237,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6248705387115479
+                },
+                {
+                    "word": " need",
+                    "start": 0.12,
+                    "end": 0.22,
+                    "probability": 0.9871464967727661
+                },
+                {
+                    "word": " a",
+                    "start": 0.22,
+                    "end": 0.38,
+                    "probability": 0.26109203696250916
+                },
+                {
+                    "word": " schedule",
+                    "start": 0.38,
+                    "end": 0.64,
+                    "probability": 0.7291812896728516
+                },
+                {
+                    "word": " of",
+                    "start": 0.64,
+                    "end": 0.82,
+                    "probability": 0.6867116093635559
+                },
+                {
+                    "word": " follow",
+                    "start": 0.82,
+                    "end": 1.02,
+                    "probability": 0.8971690535545349
+                },
+                {
+                    "word": "-up",
+                    "start": 1.02,
+                    "end": 1.2,
+                    "probability": 0.7248592376708984
+                },
+                {
+                    "word": " appointment",
+                    "start": 1.2,
+                    "end": 1.56,
+                    "probability": 0.97099369764328
+                },
+                {
+                    "word": " in",
+                    "start": 1.56,
+                    "end": 1.78,
+                    "probability": 0.8518663048744202
+                },
+                {
+                    "word": " two",
+                    "start": 1.78,
+                    "end": 1.94,
+                    "probability": 0.4498113989830017
+                },
+                {
+                    "word": " weeks.",
+                    "start": 1.94,
+                    "end": 2.2,
+                    "probability": 0.9889875054359436
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

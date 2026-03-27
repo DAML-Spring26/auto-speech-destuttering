@@ -1,0 +1,88 @@
+{
+    "text": " The book was engaging, but the ending felt rushed.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.76,
+            "text": " The book was engaging, but the ending felt rushed.",
+            "tokens": [
+                50364,
+                440,
+                1446,
+                390,
+                11268,
+                11,
+                457,
+                264,
+                8121,
+                2762,
+                24421,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3338231699807303,
+            "compression_ratio": 0.9090909090909091,
+            "no_speech_prob": 0.00489719957113266,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6944324374198914
+                },
+                {
+                    "word": " book",
+                    "start": 0.12,
+                    "end": 0.36,
+                    "probability": 0.9982650876045227
+                },
+                {
+                    "word": " was",
+                    "start": 0.36,
+                    "end": 0.6,
+                    "probability": 0.9980871677398682
+                },
+                {
+                    "word": " engaging,",
+                    "start": 0.6,
+                    "end": 1.12,
+                    "probability": 0.993066668510437
+                },
+                {
+                    "word": " but",
+                    "start": 1.72,
+                    "end": 1.98,
+                    "probability": 0.9953083395957947
+                },
+                {
+                    "word": " the",
+                    "start": 1.98,
+                    "end": 4.5,
+                    "probability": 0.4282379746437073
+                },
+                {
+                    "word": " ending",
+                    "start": 4.5,
+                    "end": 4.78,
+                    "probability": 0.9930877089500427
+                },
+                {
+                    "word": " felt",
+                    "start": 4.78,
+                    "end": 5.16,
+                    "probability": 0.9966514706611633
+                },
+                {
+                    "word": " rushed.",
+                    "start": 5.16,
+                    "end": 5.76,
+                    "probability": 0.9686471223831177
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

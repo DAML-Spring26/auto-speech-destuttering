@@ -1,0 +1,90 @@
+{
+    "text": " I'm really you know. Excited about the upcoming concert.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.6399999999999999,
+            "end": 4.64,
+            "text": " I'm really you know. Excited about the upcoming concert.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                534,
+                291,
+                458,
+                13,
+                9368,
+                1226,
+                466,
+                264,
+                11500,
+                8543,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3872694671154022,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.10320873558521271,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.6399999999999999,
+                    "end": 1.16,
+                    "probability": 0.9291514754295349
+                },
+                {
+                    "word": " really",
+                    "start": 1.16,
+                    "end": 1.36,
+                    "probability": 0.9871067404747009
+                },
+                {
+                    "word": " you",
+                    "start": 1.36,
+                    "end": 1.62,
+                    "probability": 0.9118239283561707
+                },
+                {
+                    "word": " know.",
+                    "start": 1.62,
+                    "end": 1.84,
+                    "probability": 0.9471587538719177
+                },
+                {
+                    "word": " Excited",
+                    "start": 2.72,
+                    "end": 3.24,
+                    "probability": 0.9742074906826019
+                },
+                {
+                    "word": " about",
+                    "start": 3.24,
+                    "end": 3.48,
+                    "probability": 0.9954115748405457
+                },
+                {
+                    "word": " the",
+                    "start": 3.48,
+                    "end": 3.68,
+                    "probability": 0.9910277724266052
+                },
+                {
+                    "word": " upcoming",
+                    "start": 3.68,
+                    "end": 4.1,
+                    "probability": 0.9775547981262207
+                },
+                {
+                    "word": " concert.",
+                    "start": 4.1,
+                    "end": 4.64,
+                    "probability": 0.9902352094650269
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

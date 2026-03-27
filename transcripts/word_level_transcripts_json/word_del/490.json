@@ -1,0 +1,80 @@
+{
+    "text": " The emergency exits clearly marked throughout the building.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.34,
+            "text": " The emergency exits clearly marked throughout the building.",
+            "tokens": [
+                50364,
+                440,
+                7473,
+                44183,
+                4448,
+                12658,
+                3710,
+                264,
+                2390,
+                13,
+                50539
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3990047375361125,
+            "compression_ratio": 0.9076923076923077,
+            "no_speech_prob": 0.005392537917941809,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.5399597883224487
+                },
+                {
+                    "word": " emergency",
+                    "start": 0.16,
+                    "end": 0.7,
+                    "probability": 0.9545952677726746
+                },
+                {
+                    "word": " exits",
+                    "start": 0.7,
+                    "end": 1.34,
+                    "probability": 0.6571059226989746
+                },
+                {
+                    "word": " clearly",
+                    "start": 1.34,
+                    "end": 1.8,
+                    "probability": 0.9731615781784058
+                },
+                {
+                    "word": " marked",
+                    "start": 1.8,
+                    "end": 2.28,
+                    "probability": 0.7215998768806458
+                },
+                {
+                    "word": " throughout",
+                    "start": 2.28,
+                    "end": 2.66,
+                    "probability": 0.8930076956748962
+                },
+                {
+                    "word": " the",
+                    "start": 2.66,
+                    "end": 2.94,
+                    "probability": 0.9907320141792297
+                },
+                {
+                    "word": " building.",
+                    "start": 2.94,
+                    "end": 3.34,
+                    "probability": 0.9981611371040344
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

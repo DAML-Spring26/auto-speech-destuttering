@@ -1,0 +1,74 @@
+{
+    "text": " The system crashed, crashed and expected the...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.2,
+            "text": " The system crashed, crashed and expected the...",
+            "tokens": [
+                50364,
+                440,
+                1185,
+                24190,
+                11,
+                24190,
+                293,
+                5176,
+                264,
+                485,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.544014056523641,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.006521664094179869,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.44727399945259094
+                },
+                {
+                    "word": " system",
+                    "start": 0.12,
+                    "end": 0.4,
+                    "probability": 0.9844586849212646
+                },
+                {
+                    "word": " crashed,",
+                    "start": 0.4,
+                    "end": 0.86,
+                    "probability": 0.9254618883132935
+                },
+                {
+                    "word": " crashed",
+                    "start": 0.96,
+                    "end": 1.14,
+                    "probability": 0.860167384147644
+                },
+                {
+                    "word": " and",
+                    "start": 1.14,
+                    "end": 1.3,
+                    "probability": 0.8307605385780334
+                },
+                {
+                    "word": " expected",
+                    "start": 1.3,
+                    "end": 1.7,
+                    "probability": 0.7237595915794373
+                },
+                {
+                    "word": " the...",
+                    "start": 1.7,
+                    "end": 2.2,
+                    "probability": 0.5064830631017685
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

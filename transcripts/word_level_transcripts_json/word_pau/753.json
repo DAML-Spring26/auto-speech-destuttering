@@ -1,0 +1,80 @@
+{
+    "text": " Could you please set the table for dinner?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.4,
+            "text": " Could you please set the table for dinner?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                992,
+                264,
+                3199,
+                337,
+                6148,
+                30,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3022029201189677,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.007519708015024662,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.8904417753219604
+                },
+                {
+                    "word": " you",
+                    "start": 0.18,
+                    "end": 0.34,
+                    "probability": 0.9985878467559814
+                },
+                {
+                    "word": " please",
+                    "start": 0.34,
+                    "end": 0.64,
+                    "probability": 0.9854786396026611
+                },
+                {
+                    "word": " set",
+                    "start": 0.64,
+                    "end": 1.02,
+                    "probability": 0.9936748147010803
+                },
+                {
+                    "word": " the",
+                    "start": 1.02,
+                    "end": 3.46,
+                    "probability": 0.9225747585296631
+                },
+                {
+                    "word": " table",
+                    "start": 3.46,
+                    "end": 3.84,
+                    "probability": 0.9782986640930176
+                },
+                {
+                    "word": " for",
+                    "start": 3.84,
+                    "end": 4.06,
+                    "probability": 0.9976040720939636
+                },
+                {
+                    "word": " dinner?",
+                    "start": 4.06,
+                    "end": 4.4,
+                    "probability": 0.9780099987983704
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

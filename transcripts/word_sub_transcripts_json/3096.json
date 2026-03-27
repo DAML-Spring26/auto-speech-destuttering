@@ -1,0 +1,59 @@
+{
+    "text": " Please review the contact carefully.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.76,
+            "text": " Please review the contact carefully.",
+            "tokens": [
+                50364,
+                2555,
+                3131,
+                264,
+                3385,
+                7500,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32232480578952366,
+            "compression_ratio": 0.8181818181818182,
+            "no_speech_prob": 0.022269921377301216,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.5267685651779175
+                },
+                {
+                    "word": " review",
+                    "start": 0.22,
+                    "end": 0.58,
+                    "probability": 0.9586755037307739
+                },
+                {
+                    "word": " the",
+                    "start": 0.58,
+                    "end": 0.72,
+                    "probability": 0.9720247983932495
+                },
+                {
+                    "word": " contact",
+                    "start": 0.72,
+                    "end": 1.1,
+                    "probability": 0.9698017835617065
+                },
+                {
+                    "word": " carefully.",
+                    "start": 1.1,
+                    "end": 1.76,
+                    "probability": 0.9929403066635132
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

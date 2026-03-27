@@ -1,0 +1,73 @@
+{
+    "text": " The scientists examined the molecular structure carefully.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.94,
+            "text": " The scientists examined the molecular structure carefully.",
+            "tokens": [
+                50364,
+                440,
+                7708,
+                30972,
+                264,
+                19046,
+                3877,
+                7500,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5621279803189364,
+            "compression_ratio": 0.90625,
+            "no_speech_prob": 0.0020547297317534685,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5784932374954224
+                },
+                {
+                    "word": " scientists",
+                    "start": 0.12,
+                    "end": 0.6,
+                    "probability": 0.7413877248764038
+                },
+                {
+                    "word": " examined",
+                    "start": 0.6,
+                    "end": 1.18,
+                    "probability": 0.911403238773346
+                },
+                {
+                    "word": " the",
+                    "start": 1.18,
+                    "end": 1.36,
+                    "probability": 0.9434459209442139
+                },
+                {
+                    "word": " molecular",
+                    "start": 1.36,
+                    "end": 1.68,
+                    "probability": 0.9603685736656189
+                },
+                {
+                    "word": " structure",
+                    "start": 1.68,
+                    "end": 2.36,
+                    "probability": 0.9971694350242615
+                },
+                {
+                    "word": " carefully.",
+                    "start": 2.36,
+                    "end": 2.94,
+                    "probability": 0.21157869696617126
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

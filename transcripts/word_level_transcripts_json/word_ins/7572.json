@@ -1,0 +1,95 @@
+{
+    "text": " Your cholesterol levels have well improved since your last checkup.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.74,
+            "text": " Your cholesterol levels have well improved since your last checkup.",
+            "tokens": [
+                50364,
+                2260,
+                24716,
+                4358,
+                362,
+                731,
+                9689,
+                1670,
+                428,
+                1036,
+                1520,
+                1010,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4349041938781738,
+            "compression_ratio": 0.9852941176470589,
+            "no_speech_prob": 0.02219458669424057,
+            "words": [
+                {
+                    "word": " Your",
+                    "start": 0.0,
+                    "end": 1.48,
+                    "probability": 0.7466652393341064
+                },
+                {
+                    "word": " cholesterol",
+                    "start": 1.48,
+                    "end": 2.04,
+                    "probability": 0.9542845487594604
+                },
+                {
+                    "word": " levels",
+                    "start": 2.04,
+                    "end": 2.68,
+                    "probability": 0.9970957040786743
+                },
+                {
+                    "word": " have",
+                    "start": 2.68,
+                    "end": 2.9,
+                    "probability": 0.9950407147407532
+                },
+                {
+                    "word": " well",
+                    "start": 2.9,
+                    "end": 3.34,
+                    "probability": 0.9949209094047546
+                },
+                {
+                    "word": " improved",
+                    "start": 3.34,
+                    "end": 5.08,
+                    "probability": 0.5798162221908569
+                },
+                {
+                    "word": " since",
+                    "start": 5.08,
+                    "end": 5.5,
+                    "probability": 0.9945948719978333
+                },
+                {
+                    "word": " your",
+                    "start": 5.5,
+                    "end": 5.78,
+                    "probability": 0.9894228577613831
+                },
+                {
+                    "word": " last",
+                    "start": 5.78,
+                    "end": 6.1,
+                    "probability": 0.9968942403793335
+                },
+                {
+                    "word": " checkup.",
+                    "start": 6.1,
+                    "end": 6.74,
+                    "probability": 0.7459143102169037
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,95 @@
+{
+    "text": " She's been working as a freelance writer for two years.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.68,
+            "text": " She's been working as a freelance writer for two years.",
+            "tokens": [
+                50364,
+                1240,
+                311,
+                668,
+                1364,
+                382,
+                257,
+                47875,
+                9936,
+                337,
+                732,
+                924,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27596848805745444,
+            "compression_ratio": 0.9016393442622951,
+            "no_speech_prob": 0.0077093313448131084,
+            "words": [
+                {
+                    "word": " She's",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.8670649826526642
+                },
+                {
+                    "word": " been",
+                    "start": 0.34,
+                    "end": 0.5,
+                    "probability": 0.9978145360946655
+                },
+                {
+                    "word": " working",
+                    "start": 0.5,
+                    "end": 0.9,
+                    "probability": 0.9909716844558716
+                },
+                {
+                    "word": " as",
+                    "start": 0.9,
+                    "end": 1.14,
+                    "probability": 0.9905168414115906
+                },
+                {
+                    "word": " a",
+                    "start": 1.14,
+                    "end": 1.24,
+                    "probability": 0.9688072204589844
+                },
+                {
+                    "word": " freelance",
+                    "start": 1.24,
+                    "end": 1.56,
+                    "probability": 0.788804829120636
+                },
+                {
+                    "word": " writer",
+                    "start": 1.56,
+                    "end": 2.06,
+                    "probability": 0.9918617010116577
+                },
+                {
+                    "word": " for",
+                    "start": 2.06,
+                    "end": 2.38,
+                    "probability": 0.9898852109909058
+                },
+                {
+                    "word": " two",
+                    "start": 2.38,
+                    "end": 4.3,
+                    "probability": 0.6105373501777649
+                },
+                {
+                    "word": " years.",
+                    "start": 4.3,
+                    "end": 4.68,
+                    "probability": 0.9956024885177612
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

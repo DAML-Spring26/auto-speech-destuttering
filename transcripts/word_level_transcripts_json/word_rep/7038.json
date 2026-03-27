@@ -1,0 +1,180 @@
+{
+    "text": " just posted a pic of my, my new haircut. What do you guys think? Hash no look.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.42,
+            "text": " just posted a pic of my, my new haircut.",
+            "tokens": [
+                50364,
+                445,
+                9437,
+                257,
+                13363,
+                295,
+                452,
+                11,
+                452,
+                777,
+                30328,
+                13,
+                50510
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48607802391052246,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.043724603950977325,
+            "words": [
+                {
+                    "word": " just",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.4445951581001282
+                },
+                {
+                    "word": " posted",
+                    "start": 0.14,
+                    "end": 0.66,
+                    "probability": 0.9452627897262573
+                },
+                {
+                    "word": " a",
+                    "start": 0.66,
+                    "end": 0.86,
+                    "probability": 0.982715368270874
+                },
+                {
+                    "word": " pic",
+                    "start": 0.86,
+                    "end": 1.06,
+                    "probability": 0.7975712418556213
+                },
+                {
+                    "word": " of",
+                    "start": 1.06,
+                    "end": 1.26,
+                    "probability": 0.9953308701515198
+                },
+                {
+                    "word": " my,",
+                    "start": 1.26,
+                    "end": 1.48,
+                    "probability": 0.7819684743881226
+                },
+                {
+                    "word": " my",
+                    "start": 1.66,
+                    "end": 1.8,
+                    "probability": 0.962795078754425
+                },
+                {
+                    "word": " new",
+                    "start": 1.8,
+                    "end": 2.02,
+                    "probability": 0.9901683330535889
+                },
+                {
+                    "word": " haircut.",
+                    "start": 2.02,
+                    "end": 2.42,
+                    "probability": 0.9776197671890259
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.82,
+            "end": 3.98,
+            "text": " What do you guys think?",
+            "tokens": [
+                50510,
+                708,
+                360,
+                291,
+                1074,
+                519,
+                30,
+                50588
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48607802391052246,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.043724603950977325,
+            "words": [
+                {
+                    "word": " What",
+                    "start": 2.82,
+                    "end": 2.92,
+                    "probability": 0.8831901550292969
+                },
+                {
+                    "word": " do",
+                    "start": 2.92,
+                    "end": 3.12,
+                    "probability": 0.9876224398612976
+                },
+                {
+                    "word": " you",
+                    "start": 3.12,
+                    "end": 3.24,
+                    "probability": 0.9882851839065552
+                },
+                {
+                    "word": " guys",
+                    "start": 3.24,
+                    "end": 3.52,
+                    "probability": 0.9951790571212769
+                },
+                {
+                    "word": " think?",
+                    "start": 3.52,
+                    "end": 3.98,
+                    "probability": 0.9924943447113037
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.24,
+            "end": 5.04,
+            "text": " Hash no look.",
+            "tokens": [
+                50588,
+                30775,
+                572,
+                574,
+                13,
+                50618
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48607802391052246,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.043724603950977325,
+            "words": [
+                {
+                    "word": " Hash",
+                    "start": 4.24,
+                    "end": 4.58,
+                    "probability": 0.23945774137973785
+                },
+                {
+                    "word": " no",
+                    "start": 4.58,
+                    "end": 4.8,
+                    "probability": 0.6165177226066589
+                },
+                {
+                    "word": " look.",
+                    "start": 4.8,
+                    "end": 5.04,
+                    "probability": 0.7102922201156616
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,87 @@
+{
+    "text": " has the package been delivered to the correct address.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.92,
+            "text": " has the package been delivered to the correct address.",
+            "tokens": [
+                50364,
+                575,
+                264,
+                7372,
+                668,
+                10144,
+                281,
+                264,
+                3006,
+                2985,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38587474822998047,
+            "compression_ratio": 0.9310344827586207,
+            "no_speech_prob": 0.0065049296244978905,
+            "words": [
+                {
+                    "word": " has",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.41128838062286377
+                },
+                {
+                    "word": " the",
+                    "start": 0.2,
+                    "end": 0.36,
+                    "probability": 0.9717438817024231
+                },
+                {
+                    "word": " package",
+                    "start": 0.36,
+                    "end": 0.84,
+                    "probability": 0.9692990779876709
+                },
+                {
+                    "word": " been",
+                    "start": 0.84,
+                    "end": 1.22,
+                    "probability": 0.9791812896728516
+                },
+                {
+                    "word": " delivered",
+                    "start": 1.22,
+                    "end": 1.82,
+                    "probability": 0.9787278771400452
+                },
+                {
+                    "word": " to",
+                    "start": 1.82,
+                    "end": 2.12,
+                    "probability": 0.9936679005622864
+                },
+                {
+                    "word": " the",
+                    "start": 2.12,
+                    "end": 2.24,
+                    "probability": 0.9945967197418213
+                },
+                {
+                    "word": " correct",
+                    "start": 2.24,
+                    "end": 2.48,
+                    "probability": 0.9613814353942871
+                },
+                {
+                    "word": " address.",
+                    "start": 2.48,
+                    "end": 2.92,
+                    "probability": 0.9991918206214905
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,59 @@
+{
+    "text": " The renovation project requires planting.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.48,
+            "text": " The renovation project requires planting.",
+            "tokens": [
+                50364,
+                440,
+                39973,
+                1716,
+                7029,
+                20585,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.44166941112942165,
+            "compression_ratio": 0.8541666666666666,
+            "no_speech_prob": 0.005737700965255499,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7701929807662964
+                },
+                {
+                    "word": " renovation",
+                    "start": 0.12,
+                    "end": 0.72,
+                    "probability": 0.6901789903640747
+                },
+                {
+                    "word": " project",
+                    "start": 0.72,
+                    "end": 1.24,
+                    "probability": 0.9955627918243408
+                },
+                {
+                    "word": " requires",
+                    "start": 1.24,
+                    "end": 1.82,
+                    "probability": 0.9943323135375977
+                },
+                {
+                    "word": " planting.",
+                    "start": 1.82,
+                    "end": 2.48,
+                    "probability": 0.9687808156013489
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

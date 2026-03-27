@@ -1,0 +1,113 @@
+{
+    "text": " If you see any suspicious activity, please. Report is immediately.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.22,
+            "text": " If you see any suspicious activity, please.",
+            "tokens": [
+                50364,
+                759,
+                291,
+                536,
+                604,
+                17931,
+                5191,
+                11,
+                1767,
+                13,
+                50530
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5469850964016385,
+            "compression_ratio": 0.9565217391304348,
+            "no_speech_prob": 0.021132854744791985,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.7298732399940491
+                },
+                {
+                    "word": " you",
+                    "start": 0.32,
+                    "end": 0.44,
+                    "probability": 0.9968806505203247
+                },
+                {
+                    "word": " see",
+                    "start": 0.44,
+                    "end": 0.68,
+                    "probability": 0.9978575110435486
+                },
+                {
+                    "word": " any",
+                    "start": 0.68,
+                    "end": 0.98,
+                    "probability": 0.998702883720398
+                },
+                {
+                    "word": " suspicious",
+                    "start": 0.98,
+                    "end": 1.6,
+                    "probability": 0.9921646118164062
+                },
+                {
+                    "word": " activity,",
+                    "start": 1.6,
+                    "end": 2.38,
+                    "probability": 0.968110978603363
+                },
+                {
+                    "word": " please.",
+                    "start": 2.72,
+                    "end": 3.22,
+                    "probability": 0.9792672395706177
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.2,
+            "end": 7.5,
+            "text": " Report is immediately.",
+            "tokens": [
+                50674,
+                16057,
+                307,
+                4258,
+                13,
+                50760
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5469850964016385,
+            "compression_ratio": 0.9565217391304348,
+            "no_speech_prob": 0.021132854744791985,
+            "words": [
+                {
+                    "word": " Report",
+                    "start": 6.1,
+                    "end": 6.6,
+                    "probability": 0.7140231728553772
+                },
+                {
+                    "word": " is",
+                    "start": 6.6,
+                    "end": 7.0,
+                    "probability": 0.9887562394142151
+                },
+                {
+                    "word": " immediately.",
+                    "start": 7.0,
+                    "end": 7.5,
+                    "probability": 0.9899175763130188
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

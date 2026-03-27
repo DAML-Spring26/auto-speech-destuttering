@@ -1,0 +1,126 @@
+{
+    "text": " which exhibit are you most looking forward to. At the Art Gallery.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.38,
+            "text": " which exhibit are you most looking forward to.",
+            "tokens": [
+                50364,
+                597,
+                20487,
+                366,
+                291,
+                881,
+                1237,
+                2128,
+                281,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6497683274118524,
+            "compression_ratio": 0.9565217391304348,
+            "no_speech_prob": 0.003258662298321724,
+            "words": [
+                {
+                    "word": " which",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.6100559234619141
+                },
+                {
+                    "word": " exhibit",
+                    "start": 0.2,
+                    "end": 0.6,
+                    "probability": 0.4936840832233429
+                },
+                {
+                    "word": " are",
+                    "start": 0.6,
+                    "end": 0.76,
+                    "probability": 0.6294891834259033
+                },
+                {
+                    "word": " you",
+                    "start": 0.76,
+                    "end": 0.86,
+                    "probability": 0.9865585565567017
+                },
+                {
+                    "word": " most",
+                    "start": 0.86,
+                    "end": 1.06,
+                    "probability": 0.549785315990448
+                },
+                {
+                    "word": " looking",
+                    "start": 1.06,
+                    "end": 1.36,
+                    "probability": 0.9921063184738159
+                },
+                {
+                    "word": " forward",
+                    "start": 1.36,
+                    "end": 1.86,
+                    "probability": 0.9533107876777649
+                },
+                {
+                    "word": " to.",
+                    "start": 1.86,
+                    "end": 2.38,
+                    "probability": 0.9857558608055115
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.8200000000000003,
+            "end": 5.3,
+            "text": " At the Art Gallery.",
+            "tokens": [
+                50580,
+                1711,
+                264,
+                5735,
+                29733,
+                13,
+                50640
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6497683274118524,
+            "compression_ratio": 0.9565217391304348,
+            "no_speech_prob": 0.003258662298321724,
+            "words": [
+                {
+                    "word": " At",
+                    "start": 3.8200000000000003,
+                    "end": 4.48,
+                    "probability": 0.8330216407775879
+                },
+                {
+                    "word": " the",
+                    "start": 4.48,
+                    "end": 4.68,
+                    "probability": 0.9543857574462891
+                },
+                {
+                    "word": " Art",
+                    "start": 4.68,
+                    "end": 4.86,
+                    "probability": 0.5401384830474854
+                },
+                {
+                    "word": " Gallery.",
+                    "start": 4.86,
+                    "end": 5.3,
+                    "probability": 0.9626399278640747
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

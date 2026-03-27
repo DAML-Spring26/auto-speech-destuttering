@@ -1,0 +1,80 @@
+{
+    "text": " Please remain calm and follow the emergency procedures.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.44,
+            "text": " Please remain calm and follow the emergency procedures.",
+            "tokens": [
+                50364,
+                2555,
+                6222,
+                7151,
+                293,
+                1524,
+                264,
+                7473,
+                13846,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40755391120910645,
+            "compression_ratio": 0.9016393442622951,
+            "no_speech_prob": 0.17792238295078278,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 1.14,
+                    "probability": 0.5531328916549683
+                },
+                {
+                    "word": " remain",
+                    "start": 1.14,
+                    "end": 1.54,
+                    "probability": 0.9875965714454651
+                },
+                {
+                    "word": " calm",
+                    "start": 1.54,
+                    "end": 1.98,
+                    "probability": 0.9957120418548584
+                },
+                {
+                    "word": " and",
+                    "start": 1.98,
+                    "end": 3.26,
+                    "probability": 0.7935291528701782
+                },
+                {
+                    "word": " follow",
+                    "start": 3.26,
+                    "end": 4.84,
+                    "probability": 0.9400561451911926
+                },
+                {
+                    "word": " the",
+                    "start": 4.84,
+                    "end": 5.14,
+                    "probability": 0.9963889122009277
+                },
+                {
+                    "word": " emergency",
+                    "start": 5.14,
+                    "end": 5.66,
+                    "probability": 0.9802647829055786
+                },
+                {
+                    "word": " procedures.",
+                    "start": 5.66,
+                    "end": 6.44,
+                    "probability": 0.995962917804718
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

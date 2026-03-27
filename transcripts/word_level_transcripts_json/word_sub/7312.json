@@ -1,0 +1,81 @@
+{
+    "text": " the patient's symptoms indicate a rare genetic disorder.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.84,
+            "text": " the patient's symptoms indicate a rare genetic disorder.",
+            "tokens": [
+                50364,
+                264,
+                4537,
+                311,
+                8332,
+                13330,
+                257,
+                5892,
+                12462,
+                13399,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4091811913710374,
+            "compression_ratio": 0.9491525423728814,
+            "no_speech_prob": 0.023296326398849487,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5078791379928589
+                },
+                {
+                    "word": " patient's",
+                    "start": 0.12,
+                    "end": 0.66,
+                    "probability": 0.8881224989891052
+                },
+                {
+                    "word": " symptoms",
+                    "start": 0.66,
+                    "end": 0.96,
+                    "probability": 0.9541448950767517
+                },
+                {
+                    "word": " indicate",
+                    "start": 0.96,
+                    "end": 1.54,
+                    "probability": 0.9868313074111938
+                },
+                {
+                    "word": " a",
+                    "start": 1.54,
+                    "end": 1.74,
+                    "probability": 0.9587467312812805
+                },
+                {
+                    "word": " rare",
+                    "start": 1.74,
+                    "end": 1.94,
+                    "probability": 0.8104755282402039
+                },
+                {
+                    "word": " genetic",
+                    "start": 1.94,
+                    "end": 2.34,
+                    "probability": 0.9934584498405457
+                },
+                {
+                    "word": " disorder.",
+                    "start": 2.34,
+                    "end": 2.84,
+                    "probability": 0.9959315657615662
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

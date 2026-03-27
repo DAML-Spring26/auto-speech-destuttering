@@ -1,0 +1,80 @@
+{
+    "text": " Could you explain how the new system works?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.04,
+            "text": " Could you explain how the new system works?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                2903,
+                577,
+                264,
+                777,
+                1185,
+                1985,
+                30,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3591170310974121,
+            "compression_ratio": 0.8431372549019608,
+            "no_speech_prob": 0.02297966741025448,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.8454333543777466
+                },
+                {
+                    "word": " you",
+                    "start": 0.16,
+                    "end": 0.36,
+                    "probability": 0.9962552785873413
+                },
+                {
+                    "word": " explain",
+                    "start": 0.36,
+                    "end": 0.76,
+                    "probability": 0.9982064962387085
+                },
+                {
+                    "word": " how",
+                    "start": 0.76,
+                    "end": 1.16,
+                    "probability": 0.9714037775993347
+                },
+                {
+                    "word": " the",
+                    "start": 1.16,
+                    "end": 3.86,
+                    "probability": 0.779526948928833
+                },
+                {
+                    "word": " new",
+                    "start": 3.86,
+                    "end": 4.02,
+                    "probability": 0.97324138879776
+                },
+                {
+                    "word": " system",
+                    "start": 4.02,
+                    "end": 4.5,
+                    "probability": 0.9826128482818604
+                },
+                {
+                    "word": " works?",
+                    "start": 4.5,
+                    "end": 5.04,
+                    "probability": 0.9981729984283447
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

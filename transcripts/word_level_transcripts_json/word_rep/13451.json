@@ -1,0 +1,109 @@
+{
+    "text": " The patient symptoms have improved significantly since starting the new treatment regimen.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.86,
+            "text": " The patient symptoms have improved significantly since starting the new treatment regimen.",
+            "tokens": [
+                50364,
+                440,
+                4537,
+                8332,
+                362,
+                9689,
+                10591,
+                1670,
+                2891,
+                264,
+                777,
+                5032,
+                1121,
+                19676,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37682101305793314,
+            "compression_ratio": 1.0975609756097562,
+            "no_speech_prob": 0.007068929728120565,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5689017176628113
+                },
+                {
+                    "word": " patient",
+                    "start": 0.14,
+                    "end": 0.72,
+                    "probability": 0.6937742829322815
+                },
+                {
+                    "word": " symptoms",
+                    "start": 0.72,
+                    "end": 1.58,
+                    "probability": 0.5340695381164551
+                },
+                {
+                    "word": " have",
+                    "start": 1.58,
+                    "end": 1.82,
+                    "probability": 0.9933932423591614
+                },
+                {
+                    "word": " improved",
+                    "start": 1.82,
+                    "end": 2.46,
+                    "probability": 0.9954623579978943
+                },
+                {
+                    "word": " significantly",
+                    "start": 2.46,
+                    "end": 3.42,
+                    "probability": 0.9966359734535217
+                },
+                {
+                    "word": " since",
+                    "start": 3.42,
+                    "end": 4.7,
+                    "probability": 0.9916222095489502
+                },
+                {
+                    "word": " starting",
+                    "start": 4.7,
+                    "end": 6.18,
+                    "probability": 0.22961628437042236
+                },
+                {
+                    "word": " the",
+                    "start": 6.18,
+                    "end": 6.42,
+                    "probability": 0.9780542254447937
+                },
+                {
+                    "word": " new",
+                    "start": 6.42,
+                    "end": 6.66,
+                    "probability": 0.9323345422744751
+                },
+                {
+                    "word": " treatment",
+                    "start": 6.66,
+                    "end": 7.18,
+                    "probability": 0.9985520243644714
+                },
+                {
+                    "word": " regimen.",
+                    "start": 7.18,
+                    "end": 7.86,
+                    "probability": 0.984243780374527
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

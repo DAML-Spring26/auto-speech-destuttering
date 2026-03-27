@@ -1,0 +1,59 @@
+{
+    "text": " the software directed multiple errors.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.76,
+            "text": " the software directed multiple errors.",
+            "tokens": [
+                50364,
+                264,
+                4722,
+                12898,
+                3866,
+                13603,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42661039034525555,
+            "compression_ratio": 0.8260869565217391,
+            "no_speech_prob": 0.004556826315820217,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.516640305519104
+                },
+                {
+                    "word": " software",
+                    "start": 0.12,
+                    "end": 0.5,
+                    "probability": 0.9516154527664185
+                },
+                {
+                    "word": " directed",
+                    "start": 0.5,
+                    "end": 0.96,
+                    "probability": 0.8136590719223022
+                },
+                {
+                    "word": " multiple",
+                    "start": 0.96,
+                    "end": 1.34,
+                    "probability": 0.9908088445663452
+                },
+                {
+                    "word": " errors.",
+                    "start": 1.34,
+                    "end": 1.76,
+                    "probability": 0.95652174949646
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

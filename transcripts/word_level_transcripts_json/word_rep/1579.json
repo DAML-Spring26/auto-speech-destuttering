@@ -1,0 +1,59 @@
+{
+    "text": " work hard but with smart.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.28,
+            "text": " work hard but with smart.",
+            "tokens": [
+                50364,
+                589,
+                1152,
+                457,
+                365,
+                4069,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.803285280863444,
+            "compression_ratio": 0.7575757575757576,
+            "no_speech_prob": 0.028373386710882187,
+            "words": [
+                {
+                    "word": " work",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.21275410056114197
+                },
+                {
+                    "word": " hard",
+                    "start": 0.24,
+                    "end": 0.54,
+                    "probability": 0.890580952167511
+                },
+                {
+                    "word": " but",
+                    "start": 0.54,
+                    "end": 0.82,
+                    "probability": 0.6371532082557678
+                },
+                {
+                    "word": " with",
+                    "start": 0.82,
+                    "end": 1.0,
+                    "probability": 0.4330400228500366
+                },
+                {
+                    "word": " smart.",
+                    "start": 1.0,
+                    "end": 1.28,
+                    "probability": 0.952289879322052
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

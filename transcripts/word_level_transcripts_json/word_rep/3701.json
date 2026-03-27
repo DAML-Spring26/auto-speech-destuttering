@@ -1,0 +1,67 @@
+{
+    "text": " I'll go but be you stay.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.38,
+            "text": " I'll go but be you stay.",
+            "tokens": [
+                50364,
+                286,
+                603,
+                352,
+                457,
+                312,
+                291,
+                1754,
+                13,
+                50444
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4429136189547452,
+            "compression_ratio": 0.75,
+            "no_speech_prob": 0.011173724196851254,
+            "words": [
+                {
+                    "word": " I'll",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.8924444019794464
+                },
+                {
+                    "word": " go",
+                    "start": 0.28,
+                    "end": 0.5,
+                    "probability": 0.9877240657806396
+                },
+                {
+                    "word": " but",
+                    "start": 0.5,
+                    "end": 0.76,
+                    "probability": 0.7691382765769958
+                },
+                {
+                    "word": " be",
+                    "start": 0.76,
+                    "end": 0.98,
+                    "probability": 0.7704254388809204
+                },
+                {
+                    "word": " you",
+                    "start": 0.98,
+                    "end": 1.12,
+                    "probability": 0.3619559109210968
+                },
+                {
+                    "word": " stay.",
+                    "start": 1.12,
+                    "end": 1.38,
+                    "probability": 0.9517489671707153
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

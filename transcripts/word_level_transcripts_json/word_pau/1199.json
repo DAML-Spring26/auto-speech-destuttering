@@ -1,0 +1,87 @@
+{
+    "text": " The company stocks have risen sharply in recent months.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.8,
+            "text": " The company stocks have risen sharply in recent months.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                12966,
+                362,
+                28614,
+                42893,
+                294,
+                5162,
+                2493,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3799083416278546,
+            "compression_ratio": 0.9166666666666666,
+            "no_speech_prob": 0.010971358977258205,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7966558933258057
+                },
+                {
+                    "word": " company",
+                    "start": 0.12,
+                    "end": 0.52,
+                    "probability": 0.9773699641227722
+                },
+                {
+                    "word": " stocks",
+                    "start": 0.52,
+                    "end": 0.92,
+                    "probability": 0.41892075538635254
+                },
+                {
+                    "word": " have",
+                    "start": 0.92,
+                    "end": 1.24,
+                    "probability": 0.782194197177887
+                },
+                {
+                    "word": " risen",
+                    "start": 1.24,
+                    "end": 1.5,
+                    "probability": 0.9862141013145447
+                },
+                {
+                    "word": " sharply",
+                    "start": 1.5,
+                    "end": 2.04,
+                    "probability": 0.9984490871429443
+                },
+                {
+                    "word": " in",
+                    "start": 2.04,
+                    "end": 2.34,
+                    "probability": 0.968583345413208
+                },
+                {
+                    "word": " recent",
+                    "start": 2.34,
+                    "end": 4.24,
+                    "probability": 0.9103964567184448
+                },
+                {
+                    "word": " months.",
+                    "start": 4.24,
+                    "end": 4.8,
+                    "probability": 0.9981673955917358
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

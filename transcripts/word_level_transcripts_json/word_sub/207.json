@@ -1,0 +1,59 @@
+{
+    "text": " The research shows significant process.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.72,
+            "text": " The research shows significant process.",
+            "tokens": [
+                50364,
+                440,
+                2132,
+                3110,
+                4776,
+                1399,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5161599583095975,
+            "compression_ratio": 0.8297872340425532,
+            "no_speech_prob": 0.0041968501172959805,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6251808404922485
+                },
+                {
+                    "word": " research",
+                    "start": 0.1,
+                    "end": 0.36,
+                    "probability": 0.9256870150566101
+                },
+                {
+                    "word": " shows",
+                    "start": 0.36,
+                    "end": 0.68,
+                    "probability": 0.7268869876861572
+                },
+                {
+                    "word": " significant",
+                    "start": 0.68,
+                    "end": 1.1,
+                    "probability": 0.5809389352798462
+                },
+                {
+                    "word": " process.",
+                    "start": 1.1,
+                    "end": 1.72,
+                    "probability": 0.9298084378242493
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

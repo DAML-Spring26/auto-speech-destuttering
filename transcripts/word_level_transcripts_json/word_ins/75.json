@@ -1,0 +1,94 @@
+{
+    "text": " The conference room is booked for the entire on day.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.2,
+            "text": " The conference room is booked for the entire on day.",
+            "tokens": [
+                50364,
+                440,
+                7586,
+                1808,
+                307,
+                26735,
+                337,
+                264,
+                2302,
+                322,
+                786,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3875812121800014,
+            "compression_ratio": 0.9122807017543859,
+            "no_speech_prob": 0.07885178178548813,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.82,
+                    "probability": 0.8544110059738159
+                },
+                {
+                    "word": " conference",
+                    "start": 0.82,
+                    "end": 1.24,
+                    "probability": 0.9756948947906494
+                },
+                {
+                    "word": " room",
+                    "start": 1.24,
+                    "end": 1.6,
+                    "probability": 0.9978613257408142
+                },
+                {
+                    "word": " is",
+                    "start": 1.6,
+                    "end": 1.8,
+                    "probability": 0.9956808090209961
+                },
+                {
+                    "word": " booked",
+                    "start": 1.8,
+                    "end": 2.06,
+                    "probability": 0.9954903721809387
+                },
+                {
+                    "word": " for",
+                    "start": 2.06,
+                    "end": 2.26,
+                    "probability": 0.9968156218528748
+                },
+                {
+                    "word": " the",
+                    "start": 2.26,
+                    "end": 2.36,
+                    "probability": 0.9962829947471619
+                },
+                {
+                    "word": " entire",
+                    "start": 2.36,
+                    "end": 2.8,
+                    "probability": 0.9830603003501892
+                },
+                {
+                    "word": " on",
+                    "start": 2.8,
+                    "end": 2.98,
+                    "probability": 0.6094499230384827
+                },
+                {
+                    "word": " day.",
+                    "start": 2.98,
+                    "end": 3.2,
+                    "probability": 0.5623522996902466
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

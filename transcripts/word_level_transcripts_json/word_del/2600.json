@@ -1,0 +1,108 @@
+{
+    "text": " I need to buy some groceries before I go home this evening.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.52,
+            "text": " I need to buy some groceries before I go home this evening.",
+            "tokens": [
+                50364,
+                286,
+                643,
+                281,
+                2256,
+                512,
+                31391,
+                949,
+                286,
+                352,
+                1280,
+                341,
+                5634,
+                13,
+                50496
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1951213777065277,
+            "compression_ratio": 0.9365079365079365,
+            "no_speech_prob": 0.0034070422407239676,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.9591295123100281
+                },
+                {
+                    "word": " need",
+                    "start": 0.22,
+                    "end": 0.36,
+                    "probability": 0.9912983179092407
+                },
+                {
+                    "word": " to",
+                    "start": 0.36,
+                    "end": 0.5,
+                    "probability": 0.9569453597068787
+                },
+                {
+                    "word": " buy",
+                    "start": 0.5,
+                    "end": 0.6,
+                    "probability": 0.9969044327735901
+                },
+                {
+                    "word": " some",
+                    "start": 0.6,
+                    "end": 0.82,
+                    "probability": 0.9769672155380249
+                },
+                {
+                    "word": " groceries",
+                    "start": 0.82,
+                    "end": 1.18,
+                    "probability": 0.9979451298713684
+                },
+                {
+                    "word": " before",
+                    "start": 1.18,
+                    "end": 1.58,
+                    "probability": 0.9772828221321106
+                },
+                {
+                    "word": " I",
+                    "start": 1.58,
+                    "end": 1.74,
+                    "probability": 0.9759244322776794
+                },
+                {
+                    "word": " go",
+                    "start": 1.74,
+                    "end": 1.86,
+                    "probability": 0.9937922358512878
+                },
+                {
+                    "word": " home",
+                    "start": 1.86,
+                    "end": 2.06,
+                    "probability": 0.9973426461219788
+                },
+                {
+                    "word": " this",
+                    "start": 2.06,
+                    "end": 2.22,
+                    "probability": 0.9970532655715942
+                },
+                {
+                    "word": " evening.",
+                    "start": 2.22,
+                    "end": 2.52,
+                    "probability": 0.9951509237289429
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,88 @@
+{
+    "text": " I'm so excited for the music festival next month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.5,
+            "text": " I'm so excited for the music festival next month.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                370,
+                2919,
+                337,
+                264,
+                1318,
+                12091,
+                958,
+                1618,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3503289222717285,
+            "compression_ratio": 0.8596491228070176,
+            "no_speech_prob": 0.02931847609579563,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.52,
+                    "probability": 0.951921820640564
+                },
+                {
+                    "word": " so",
+                    "start": 0.52,
+                    "end": 0.64,
+                    "probability": 0.9945523142814636
+                },
+                {
+                    "word": " excited",
+                    "start": 0.64,
+                    "end": 1.04,
+                    "probability": 0.9947964549064636
+                },
+                {
+                    "word": " for",
+                    "start": 1.04,
+                    "end": 1.22,
+                    "probability": 0.99564528465271
+                },
+                {
+                    "word": " the",
+                    "start": 1.22,
+                    "end": 1.44,
+                    "probability": 0.8736649751663208
+                },
+                {
+                    "word": " music",
+                    "start": 1.44,
+                    "end": 1.66,
+                    "probability": 0.5205444693565369
+                },
+                {
+                    "word": " festival",
+                    "start": 1.66,
+                    "end": 2.04,
+                    "probability": 0.9728220105171204
+                },
+                {
+                    "word": " next",
+                    "start": 2.04,
+                    "end": 2.24,
+                    "probability": 0.9855162501335144
+                },
+                {
+                    "word": " month.",
+                    "start": 2.24,
+                    "end": 2.5,
+                    "probability": 0.998121440410614
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

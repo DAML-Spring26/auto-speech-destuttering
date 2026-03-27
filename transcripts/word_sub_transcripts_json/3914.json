@@ -1,0 +1,60 @@
+{
+    "text": " the educational program promotes littering.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.42,
+            "text": " the educational program promotes littering.",
+            "tokens": [
+                50364,
+                264,
+                10189,
+                1461,
+                36015,
+                26540,
+                278,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47639904022216795,
+            "compression_ratio": 0.8958333333333334,
+            "no_speech_prob": 0.007096674293279648,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.5502609610557556
+                },
+                {
+                    "word": " educational",
+                    "start": 0.18,
+                    "end": 0.82,
+                    "probability": 0.583989679813385
+                },
+                {
+                    "word": " program",
+                    "start": 0.82,
+                    "end": 1.46,
+                    "probability": 0.9716100096702576
+                },
+                {
+                    "word": " promotes",
+                    "start": 1.46,
+                    "end": 1.92,
+                    "probability": 0.9685860276222229
+                },
+                {
+                    "word": " littering.",
+                    "start": 1.92,
+                    "end": 2.42,
+                    "probability": 0.9934425950050354
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

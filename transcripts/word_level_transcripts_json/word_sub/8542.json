@@ -1,0 +1,87 @@
+{
+    "text": " Students must critically analyse the test for underlying themes.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.78,
+            "text": " Students must critically analyse the test for underlying themes.",
+            "tokens": [
+                50364,
+                17244,
+                1633,
+                22797,
+                37840,
+                264,
+                1500,
+                337,
+                14217,
+                13544,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33542390970083386,
+            "compression_ratio": 0.9552238805970149,
+            "no_speech_prob": 0.0038879564963281155,
+            "words": [
+                {
+                    "word": " Students",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.802390456199646
+                },
+                {
+                    "word": " must",
+                    "start": 0.28,
+                    "end": 0.5,
+                    "probability": 0.7466992139816284
+                },
+                {
+                    "word": " critically",
+                    "start": 0.5,
+                    "end": 0.86,
+                    "probability": 0.977035641670227
+                },
+                {
+                    "word": " analyse",
+                    "start": 0.86,
+                    "end": 1.38,
+                    "probability": 0.7808530926704407
+                },
+                {
+                    "word": " the",
+                    "start": 1.38,
+                    "end": 1.64,
+                    "probability": 0.9907640218734741
+                },
+                {
+                    "word": " test",
+                    "start": 1.64,
+                    "end": 1.86,
+                    "probability": 0.6281218528747559
+                },
+                {
+                    "word": " for",
+                    "start": 1.86,
+                    "end": 2.04,
+                    "probability": 0.9919763207435608
+                },
+                {
+                    "word": " underlying",
+                    "start": 2.04,
+                    "end": 2.36,
+                    "probability": 0.9923535585403442
+                },
+                {
+                    "word": " themes.",
+                    "start": 2.36,
+                    "end": 2.78,
+                    "probability": 0.973102331161499
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,96 @@
+{
+    "text": " The concert will begin to at 8 p.m. sharp.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.64,
+            "text": " The concert will begin to at 8 p.m. sharp.",
+            "tokens": [
+                50364,
+                440,
+                8543,
+                486,
+                1841,
+                281,
+                412,
+                1649,
+                280,
+                13,
+                76,
+                13,
+                8199,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3578273057937622,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.05374767631292343,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.48,
+                    "probability": 0.8709053993225098
+                },
+                {
+                    "word": " concert",
+                    "start": 0.48,
+                    "end": 0.9,
+                    "probability": 0.986946702003479
+                },
+                {
+                    "word": " will",
+                    "start": 0.9,
+                    "end": 1.1,
+                    "probability": 0.9926446676254272
+                },
+                {
+                    "word": " begin",
+                    "start": 1.1,
+                    "end": 1.38,
+                    "probability": 0.9966048002243042
+                },
+                {
+                    "word": " to",
+                    "start": 1.38,
+                    "end": 1.6,
+                    "probability": 0.9027544260025024
+                },
+                {
+                    "word": " at",
+                    "start": 1.6,
+                    "end": 1.76,
+                    "probability": 0.6033373475074768
+                },
+                {
+                    "word": " 8",
+                    "start": 1.76,
+                    "end": 1.94,
+                    "probability": 0.9426072835922241
+                },
+                {
+                    "word": " p",
+                    "start": 1.94,
+                    "end": 2.2,
+                    "probability": 0.38599106669425964
+                },
+                {
+                    "word": ".m.",
+                    "start": 2.2,
+                    "end": 2.36,
+                    "probability": 0.9958353638648987
+                },
+                {
+                    "word": " sharp.",
+                    "start": 2.52,
+                    "end": 2.64,
+                    "probability": 0.9424057602882385
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

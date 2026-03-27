@@ -1,0 +1,132 @@
+{
+    "text": " The new product features should give us a competitive edge in the market.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.2,
+            "text": " The new product features should give us a competitive",
+            "tokens": [
+                50364,
+                440,
+                777,
+                1674,
+                4122,
+                820,
+                976,
+                505,
+                257,
+                10043,
+                50552
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36403364884225947,
+            "compression_ratio": 1.0138888888888888,
+            "no_speech_prob": 0.004706743638962507,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6769135594367981
+                },
+                {
+                    "word": " new",
+                    "start": 0.14,
+                    "end": 0.3,
+                    "probability": 0.9924697279930115
+                },
+                {
+                    "word": " product",
+                    "start": 0.3,
+                    "end": 0.62,
+                    "probability": 0.9816159009933472
+                },
+                {
+                    "word": " features",
+                    "start": 0.62,
+                    "end": 1.0,
+                    "probability": 0.9431209564208984
+                },
+                {
+                    "word": " should",
+                    "start": 1.0,
+                    "end": 1.28,
+                    "probability": 0.992401123046875
+                },
+                {
+                    "word": " give",
+                    "start": 1.28,
+                    "end": 1.4,
+                    "probability": 0.9839968085289001
+                },
+                {
+                    "word": " us",
+                    "start": 1.4,
+                    "end": 1.52,
+                    "probability": 0.9962083101272583
+                },
+                {
+                    "word": " a",
+                    "start": 1.52,
+                    "end": 1.62,
+                    "probability": 0.98405921459198
+                },
+                {
+                    "word": " competitive",
+                    "start": 1.62,
+                    "end": 2.2,
+                    "probability": 0.9801130294799805
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.54,
+            "end": 4.42,
+            "text": " edge in the market.",
+            "tokens": [
+                50552,
+                4691,
+                294,
+                264,
+                2142,
+                13,
+                50602
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36403364884225947,
+            "compression_ratio": 1.0138888888888888,
+            "no_speech_prob": 0.004706743638962507,
+            "words": [
+                {
+                    "word": " edge",
+                    "start": 3.54,
+                    "end": 3.98,
+                    "probability": 0.13104580342769623
+                },
+                {
+                    "word": " in",
+                    "start": 3.98,
+                    "end": 4.08,
+                    "probability": 0.9611186385154724
+                },
+                {
+                    "word": " the",
+                    "start": 4.08,
+                    "end": 4.12,
+                    "probability": 0.9666156768798828
+                },
+                {
+                    "word": " market.",
+                    "start": 4.12,
+                    "end": 4.42,
+                    "probability": 0.9976529479026794
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

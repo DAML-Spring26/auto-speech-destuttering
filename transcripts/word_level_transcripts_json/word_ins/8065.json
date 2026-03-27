@@ -1,0 +1,95 @@
+{
+    "text": " In case of earthquake well, drop cover and hold on.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.8,
+            "text": " In case of earthquake well, drop cover and hold on.",
+            "tokens": [
+                50364,
+                682,
+                1389,
+                295,
+                18778,
+                731,
+                11,
+                3270,
+                2060,
+                293,
+                1797,
+                322,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3175222396850586,
+            "compression_ratio": 0.864406779661017,
+            "no_speech_prob": 0.021103043109178543,
+            "words": [
+                {
+                    "word": " In",
+                    "start": 0.0,
+                    "end": 0.56,
+                    "probability": 0.9154438972473145
+                },
+                {
+                    "word": " case",
+                    "start": 0.56,
+                    "end": 0.76,
+                    "probability": 0.9935978651046753
+                },
+                {
+                    "word": " of",
+                    "start": 0.76,
+                    "end": 0.98,
+                    "probability": 0.9894337058067322
+                },
+                {
+                    "word": " earthquake",
+                    "start": 0.98,
+                    "end": 1.26,
+                    "probability": 0.9472126364707947
+                },
+                {
+                    "word": " well,",
+                    "start": 1.26,
+                    "end": 1.72,
+                    "probability": 0.960379958152771
+                },
+                {
+                    "word": " drop",
+                    "start": 2.02,
+                    "end": 2.2,
+                    "probability": 0.9878981709480286
+                },
+                {
+                    "word": " cover",
+                    "start": 2.2,
+                    "end": 2.66,
+                    "probability": 0.4883047044277191
+                },
+                {
+                    "word": " and",
+                    "start": 2.66,
+                    "end": 3.3,
+                    "probability": 0.7332054376602173
+                },
+                {
+                    "word": " hold",
+                    "start": 3.3,
+                    "end": 3.54,
+                    "probability": 0.9938777089118958
+                },
+                {
+                    "word": " on.",
+                    "start": 3.54,
+                    "end": 3.8,
+                    "probability": 0.9745134711265564
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

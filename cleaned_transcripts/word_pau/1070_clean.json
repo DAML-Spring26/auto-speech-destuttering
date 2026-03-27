@@ -1,12 +1,12 @@
 {
-    "text": " In case of a chemical spill, evacuate the area immediately and call for help.",
+    "text": " In case of a chemical spill, evacuate the area immediately and call...",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 8.0,
-            "text": " In case of a chemical spill, evacuate the area immediately and call for help.",
+            "end": 4.8,
+            "text": " In case of a chemical spill, evacuate the area immediately and call...",
             "tokens": [
                 50364,
                 682,
@@ -22,15 +22,13 @@
                 4258,
                 293,
                 818,
-                337,
-                854,
-                13,
-                50764
+                485,
+                50604
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.395867573587518,
-            "compression_ratio": 1.0405405405405406,
-            "no_speech_prob": 0.013798266649246216
+            "avg_logprob": -0.463689411387724,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.01210514735430479
         }
     ],
     "language": "en"

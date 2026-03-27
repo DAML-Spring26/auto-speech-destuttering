@@ -1,0 +1,81 @@
+{
+    "text": " The new legislation aims to improve public surety.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.24,
+            "text": " The new legislation aims to improve public surety.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                11329,
+                24683,
+                281,
+                3470,
+                1908,
+                988,
+                874,
+                13,
+                50534
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31893025911771333,
+            "compression_ratio": 0.8620689655172413,
+            "no_speech_prob": 0.0030359593220055103,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6887755393981934
+                },
+                {
+                    "word": " new",
+                    "start": 0.14,
+                    "end": 0.34,
+                    "probability": 0.9512993693351746
+                },
+                {
+                    "word": " legislation",
+                    "start": 0.34,
+                    "end": 0.96,
+                    "probability": 0.9951785802841187
+                },
+                {
+                    "word": " aims",
+                    "start": 0.96,
+                    "end": 1.52,
+                    "probability": 0.9985507130622864
+                },
+                {
+                    "word": " to",
+                    "start": 1.52,
+                    "end": 1.82,
+                    "probability": 0.9982055425643921
+                },
+                {
+                    "word": " improve",
+                    "start": 1.82,
+                    "end": 2.18,
+                    "probability": 0.9953939914703369
+                },
+                {
+                    "word": " public",
+                    "start": 2.18,
+                    "end": 2.64,
+                    "probability": 0.9882515072822571
+                },
+                {
+                    "word": " surety.",
+                    "start": 2.64,
+                    "end": 3.24,
+                    "probability": 0.9120258390903473
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

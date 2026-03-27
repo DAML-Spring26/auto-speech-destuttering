@@ -1,12 +1,12 @@
 {
-    "text": " If you smell gas, open. All windows and doors immediately.",
+    "text": " If you smell gas, S\u00e5 revenue",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 2.0,
-            "text": " If you smell gas, open.",
+            "end": 1.84,
+            "text": " If you smell gas,",
             "tokens": [
                 50364,
                 759,
@@ -14,35 +14,29 @@
                 4316,
                 4211,
                 11,
-                1269,
-                13,
-                50464
+                50456
             ],
-            "temperature": 0.0,
-            "avg_logprob": -0.5299223793877496,
-            "compression_ratio": 0.90625,
-            "no_speech_prob": 0.00527986278757453
+            "temperature": 1.0,
+            "avg_logprob": -3.5144004821777344,
+            "compression_ratio": 0.7837837837837838,
+            "no_speech_prob": 0.02510364167392254
         },
         {
             "id": 1,
             "seek": 0,
-            "start": 3.5,
-            "end": 5.5,
-            "text": " All windows and doors immediately.",
+            "start": 3.02,
+            "end": 4.74,
+            "text": " S\u00e5 revenue",
             "tokens": [
-                50539,
-                1057,
-                9309,
-                293,
-                8077,
-                4258,
-                13,
-                50639
+                50515,
+                12728,
+                9324,
+                50601
             ],
-            "temperature": 0.0,
-            "avg_logprob": -0.5299223793877496,
-            "compression_ratio": 0.90625,
-            "no_speech_prob": 0.00527986278757453
+            "temperature": 1.0,
+            "avg_logprob": -3.5144004821777344,
+            "compression_ratio": 0.7837837837837838,
+            "no_speech_prob": 0.02510364167392254
         }
     ],
     "language": "en"

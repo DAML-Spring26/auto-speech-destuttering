@@ -1,48 +1,71 @@
 {
-    "text": " I apologize, but this product is... Currently out of stock.",
+    "text": " I apologise.jaz Kirk Als",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 3.36,
-            "text": " I apologize, but this product is...",
+            "end": 1.2,
+            "text": " I apologise.",
             "tokens": [
                 50364,
                 286,
-                12328,
-                11,
-                457,
-                341,
-                1674,
-                307,
-                485,
-                50532
+                50128,
+                13,
+                50424
             ],
-            "temperature": 0.0,
-            "avg_logprob": -0.6494519445631239,
-            "compression_ratio": 0.8939393939393939,
-            "no_speech_prob": 0.009731723926961422
+            "temperature": 1.0,
+            "avg_logprob": -3.2259371439615885,
+            "compression_ratio": 0.75,
+            "no_speech_prob": 0.2522794008255005
         },
         {
             "id": 1,
             "seek": 0,
-            "start": 6.16,
-            "end": 7.84,
-            "text": " Currently out of stock.",
+            "start": 1.2,
+            "end": 4.88,
+            "text": "jaz",
             "tokens": [
-                50672,
-                19964,
-                484,
-                295,
-                4127,
-                13,
-                50756
+                50424,
+                34820,
+                50608
             ],
-            "temperature": 0.0,
-            "avg_logprob": -0.6494519445631239,
-            "compression_ratio": 0.8939393939393939,
-            "no_speech_prob": 0.009731723926961422
+            "temperature": 1.0,
+            "avg_logprob": -3.2259371439615885,
+            "compression_ratio": 0.75,
+            "no_speech_prob": 0.2522794008255005
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.88,
+            "end": 5.68,
+            "text": " Kirk",
+            "tokens": [
+                50608,
+                27834,
+                50648
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.2259371439615885,
+            "compression_ratio": 0.75,
+            "no_speech_prob": 0.2522794008255005
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 5.68,
+            "end": 11.92,
+            "text": " Als",
+            "tokens": [
+                50648,
+                12948,
+                50960
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.2259371439615885,
+            "compression_ratio": 0.75,
+            "no_speech_prob": 0.2522794008255005
         }
     ],
     "language": "en"

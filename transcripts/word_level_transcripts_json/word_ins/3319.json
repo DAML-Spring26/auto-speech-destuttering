@@ -1,0 +1,81 @@
+{
+    "text": " The train is scheduled to arrive at 3pm.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.44,
+            "text": " The train is scheduled to arrive at 3pm.",
+            "tokens": [
+                50364,
+                440,
+                3847,
+                307,
+                15678,
+                281,
+                8881,
+                412,
+                805,
+                14395,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.44379615783691406,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.10912963002920151,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 1.02,
+                    "probability": 0.8739636540412903
+                },
+                {
+                    "word": " train",
+                    "start": 1.02,
+                    "end": 1.32,
+                    "probability": 0.9844092726707458
+                },
+                {
+                    "word": " is",
+                    "start": 1.32,
+                    "end": 1.46,
+                    "probability": 0.996698796749115
+                },
+                {
+                    "word": " scheduled",
+                    "start": 1.46,
+                    "end": 1.86,
+                    "probability": 0.9996365308761597
+                },
+                {
+                    "word": " to",
+                    "start": 1.86,
+                    "end": 2.12,
+                    "probability": 0.9991297125816345
+                },
+                {
+                    "word": " arrive",
+                    "start": 2.12,
+                    "end": 2.42,
+                    "probability": 0.9972119927406311
+                },
+                {
+                    "word": " at",
+                    "start": 2.42,
+                    "end": 2.66,
+                    "probability": 0.9875211715698242
+                },
+                {
+                    "word": " 3pm.",
+                    "start": 2.66,
+                    "end": 3.44,
+                    "probability": 0.555761843919754
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

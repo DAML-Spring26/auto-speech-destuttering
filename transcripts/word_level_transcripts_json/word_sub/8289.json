@@ -1,0 +1,87 @@
+{
+    "text": " The company will decrease production to meet growing demand.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.78,
+            "text": " The company will decrease production to meet growing demand.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                486,
+                11514,
+                4265,
+                281,
+                1677,
+                4194,
+                4733,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2855336299309364,
+            "compression_ratio": 0.9230769230769231,
+            "no_speech_prob": 0.004538711626082659,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6500809788703918
+                },
+                {
+                    "word": " company",
+                    "start": 0.12,
+                    "end": 0.46,
+                    "probability": 0.9837779998779297
+                },
+                {
+                    "word": " will",
+                    "start": 0.46,
+                    "end": 0.7,
+                    "probability": 0.9973307847976685
+                },
+                {
+                    "word": " decrease",
+                    "start": 0.7,
+                    "end": 1.04,
+                    "probability": 0.9285995364189148
+                },
+                {
+                    "word": " production",
+                    "start": 1.04,
+                    "end": 1.68,
+                    "probability": 0.9882530570030212
+                },
+                {
+                    "word": " to",
+                    "start": 1.68,
+                    "end": 1.96,
+                    "probability": 0.993614137172699
+                },
+                {
+                    "word": " meet",
+                    "start": 1.96,
+                    "end": 2.12,
+                    "probability": 0.9735915660858154
+                },
+                {
+                    "word": " growing",
+                    "start": 2.12,
+                    "end": 2.38,
+                    "probability": 0.9863957166671753
+                },
+                {
+                    "word": " demand.",
+                    "start": 2.38,
+                    "end": 2.78,
+                    "probability": 0.9978273510932922
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

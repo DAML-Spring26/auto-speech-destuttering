@@ -1,0 +1,87 @@
+{
+    "text": " The team worked diligently to meet the project deadline.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.9,
+            "text": " The team worked diligently to meet the project deadline.",
+            "tokens": [
+                50364,
+                440,
+                1469,
+                2732,
+                49013,
+                281,
+                1677,
+                264,
+                1716,
+                20615,
+                13,
+                50579
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30864187387319714,
+            "compression_ratio": 0.9032258064516129,
+            "no_speech_prob": 0.0090708052739501,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.826543390750885
+                },
+                {
+                    "word": " team",
+                    "start": 0.12,
+                    "end": 0.4,
+                    "probability": 0.9768824577331543
+                },
+                {
+                    "word": " worked",
+                    "start": 0.4,
+                    "end": 0.86,
+                    "probability": 0.9937434792518616
+                },
+                {
+                    "word": " diligently",
+                    "start": 0.86,
+                    "end": 2.14,
+                    "probability": 0.8721666932106018
+                },
+                {
+                    "word": " to",
+                    "start": 2.14,
+                    "end": 2.64,
+                    "probability": 0.997562050819397
+                },
+                {
+                    "word": " meet",
+                    "start": 2.64,
+                    "end": 2.82,
+                    "probability": 0.9974029660224915
+                },
+                {
+                    "word": " the",
+                    "start": 2.82,
+                    "end": 2.94,
+                    "probability": 0.986081600189209
+                },
+                {
+                    "word": " project",
+                    "start": 2.94,
+                    "end": 3.34,
+                    "probability": 0.8037029504776001
+                },
+                {
+                    "word": " deadline.",
+                    "start": 3.34,
+                    "end": 3.9,
+                    "probability": 0.9009854793548584
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

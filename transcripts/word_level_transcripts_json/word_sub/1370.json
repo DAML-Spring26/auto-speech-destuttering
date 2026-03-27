@@ -1,0 +1,52 @@
+{
+    "text": " She presented compelling residents.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.6,
+            "text": " She presented compelling residents.",
+            "tokens": [
+                50364,
+                1240,
+                8212,
+                20050,
+                9630,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4085341989994049,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.006362722255289555,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6919378638267517
+                },
+                {
+                    "word": " presented",
+                    "start": 0.14,
+                    "end": 0.6,
+                    "probability": 0.9961580634117126
+                },
+                {
+                    "word": " compelling",
+                    "start": 0.6,
+                    "end": 1.04,
+                    "probability": 0.9541323184967041
+                },
+                {
+                    "word": " residents.",
+                    "start": 1.04,
+                    "end": 1.6,
+                    "probability": 0.5957164168357849
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

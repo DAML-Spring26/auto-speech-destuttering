@@ -1,0 +1,82 @@
+{
+    "text": " The shareholder is expected to comprehensive quarterly retort.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.82,
+            "text": " The shareholder is expected to comprehensive quarterly retort.",
+            "tokens": [
+                50364,
+                440,
+                2073,
+                20480,
+                307,
+                5176,
+                281,
+                13914,
+                38633,
+                1533,
+                477,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5653518608638218,
+            "compression_ratio": 0.9393939393939394,
+            "no_speech_prob": 0.008820218965411186,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8200188279151917
+                },
+                {
+                    "word": " shareholder",
+                    "start": 0.12,
+                    "end": 0.52,
+                    "probability": 0.559600442647934
+                },
+                {
+                    "word": " is",
+                    "start": 0.52,
+                    "end": 0.7,
+                    "probability": 0.6677504777908325
+                },
+                {
+                    "word": " expected",
+                    "start": 0.7,
+                    "end": 0.98,
+                    "probability": 0.5005302429199219
+                },
+                {
+                    "word": " to",
+                    "start": 0.98,
+                    "end": 1.24,
+                    "probability": 0.957861065864563
+                },
+                {
+                    "word": " comprehensive",
+                    "start": 1.24,
+                    "end": 1.66,
+                    "probability": 0.849209189414978
+                },
+                {
+                    "word": " quarterly",
+                    "start": 1.66,
+                    "end": 2.3,
+                    "probability": 0.4728669226169586
+                },
+                {
+                    "word": " retort.",
+                    "start": 2.3,
+                    "end": 2.82,
+                    "probability": 0.7533654570579529
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

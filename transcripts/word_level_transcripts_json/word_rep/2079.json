@@ -1,0 +1,45 @@
+{
+    "text": " Drive to work.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.4,
+            "text": " Drive to work.",
+            "tokens": [
+                50364,
+                15622,
+                281,
+                589,
+                13,
+                50446
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8241425922938755,
+            "compression_ratio": 0.6363636363636364,
+            "no_speech_prob": 0.010535068809986115,
+            "words": [
+                {
+                    "word": " Drive",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.8562255501747131
+                },
+                {
+                    "word": " to",
+                    "start": 0.28,
+                    "end": 0.72,
+                    "probability": 0.4002115726470947
+                },
+                {
+                    "word": " work.",
+                    "start": 0.72,
+                    "end": 1.4,
+                    "probability": 0.27042320370674133
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

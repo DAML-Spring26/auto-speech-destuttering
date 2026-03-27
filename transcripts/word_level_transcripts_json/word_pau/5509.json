@@ -1,0 +1,111 @@
+{
+    "text": " Dust posted a throwback pick from our vacation last summer",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.04,
+            "text": " Dust posted a throwback pick from",
+            "tokens": [
+                50364,
+                26483,
+                9437,
+                257,
+                3507,
+                3207,
+                1888,
+                490,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6326064467430115,
+            "compression_ratio": 0.9354838709677419,
+            "no_speech_prob": 0.016047265380620956,
+            "words": [
+                {
+                    "word": " Dust",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.2450961172580719
+                },
+                {
+                    "word": " posted",
+                    "start": 0.2,
+                    "end": 0.68,
+                    "probability": 0.825966477394104
+                },
+                {
+                    "word": " a",
+                    "start": 0.68,
+                    "end": 0.88,
+                    "probability": 0.9919108748435974
+                },
+                {
+                    "word": " throwback",
+                    "start": 0.88,
+                    "end": 1.38,
+                    "probability": 0.9768964946269989
+                },
+                {
+                    "word": " pick",
+                    "start": 1.38,
+                    "end": 1.68,
+                    "probability": 0.6483688950538635
+                },
+                {
+                    "word": " from",
+                    "start": 1.68,
+                    "end": 2.04,
+                    "probability": 0.9736436605453491
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.64,
+            "end": 6.2,
+            "text": " our vacation last summer",
+            "tokens": [
+                50596,
+                527,
+                12830,
+                1036,
+                4266,
+                50696
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6326064467430115,
+            "compression_ratio": 0.9354838709677419,
+            "no_speech_prob": 0.016047265380620956,
+            "words": [
+                {
+                    "word": " our",
+                    "start": 4.49,
+                    "end": 4.88,
+                    "probability": 0.17931775748729706
+                },
+                {
+                    "word": " vacation",
+                    "start": 4.88,
+                    "end": 5.44,
+                    "probability": 0.90114426612854
+                },
+                {
+                    "word": " last",
+                    "start": 5.44,
+                    "end": 5.78,
+                    "probability": 0.988467276096344
+                },
+                {
+                    "word": " summer",
+                    "start": 5.78,
+                    "end": 6.2,
+                    "probability": 0.9813339114189148
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,114 @@
+{
+    "text": " We need to schedule a meeting with the UNO. Clients.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.9399999999999995,
+            "end": 3.54,
+            "text": " We need to schedule a meeting with the UNO.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                7567,
+                257,
+                3440,
+                365,
+                264,
+                8229,
+                46,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37702562934473943,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.10115236788988113,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.9399999999999995,
+                    "end": 1.5,
+                    "probability": 0.8652042150497437
+                },
+                {
+                    "word": " need",
+                    "start": 1.5,
+                    "end": 1.7,
+                    "probability": 0.9961400628089905
+                },
+                {
+                    "word": " to",
+                    "start": 1.7,
+                    "end": 1.88,
+                    "probability": 0.9949200749397278
+                },
+                {
+                    "word": " schedule",
+                    "start": 1.88,
+                    "end": 2.28,
+                    "probability": 0.9950796365737915
+                },
+                {
+                    "word": " a",
+                    "start": 2.28,
+                    "end": 2.46,
+                    "probability": 0.9903210997581482
+                },
+                {
+                    "word": " meeting",
+                    "start": 2.46,
+                    "end": 2.74,
+                    "probability": 0.9990240335464478
+                },
+                {
+                    "word": " with",
+                    "start": 2.74,
+                    "end": 3.02,
+                    "probability": 0.9986441731452942
+                },
+                {
+                    "word": " the",
+                    "start": 3.02,
+                    "end": 3.12,
+                    "probability": 0.9163625240325928
+                },
+                {
+                    "word": " UNO.",
+                    "start": 3.12,
+                    "end": 3.54,
+                    "probability": 0.7817372381687164
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.1,
+            "end": 4.66,
+            "text": " Clients.",
+            "tokens": [
+                50564,
+                2033,
+                2448,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37702562934473943,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.10115236788988113,
+            "words": [
+                {
+                    "word": " Clients.",
+                    "start": 4.1,
+                    "end": 4.66,
+                    "probability": 0.8563783168792725
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

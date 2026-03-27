@@ -1,0 +1,73 @@
+{
+    "text": " The new software tested thoroughly before implementation.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.26,
+            "text": " The new software tested thoroughly before implementation.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                4722,
+                8246,
+                17987,
+                949,
+                11420,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3072293888438832,
+            "compression_ratio": 0.890625,
+            "no_speech_prob": 0.008738312870264053,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8769029378890991
+                },
+                {
+                    "word": " new",
+                    "start": 0.12,
+                    "end": 0.26,
+                    "probability": 0.9086748361587524
+                },
+                {
+                    "word": " software",
+                    "start": 0.26,
+                    "end": 0.78,
+                    "probability": 0.9885826110839844
+                },
+                {
+                    "word": " tested",
+                    "start": 0.78,
+                    "end": 1.28,
+                    "probability": 0.9850893616676331
+                },
+                {
+                    "word": " thoroughly",
+                    "start": 1.28,
+                    "end": 1.76,
+                    "probability": 0.989938497543335
+                },
+                {
+                    "word": " before",
+                    "start": 1.76,
+                    "end": 2.24,
+                    "probability": 0.9925898313522339
+                },
+                {
+                    "word": " implementation.",
+                    "start": 2.24,
+                    "end": 3.26,
+                    "probability": 0.9525301456451416
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

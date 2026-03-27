@@ -1,0 +1,80 @@
+{
+    "text": " Could you send the financial support by email?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.16,
+            "text": " Could you send the financial support by email?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                2845,
+                264,
+                4669,
+                1406,
+                538,
+                3796,
+                30,
+                50480
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27175448338190716,
+            "compression_ratio": 0.8518518518518519,
+            "no_speech_prob": 0.006650312803685665,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.8122623562812805
+                },
+                {
+                    "word": " you",
+                    "start": 0.18,
+                    "end": 0.32,
+                    "probability": 0.9964315891265869
+                },
+                {
+                    "word": " send",
+                    "start": 0.32,
+                    "end": 0.52,
+                    "probability": 0.9835463762283325
+                },
+                {
+                    "word": " the",
+                    "start": 0.52,
+                    "end": 0.68,
+                    "probability": 0.953218400478363
+                },
+                {
+                    "word": " financial",
+                    "start": 0.68,
+                    "end": 1.18,
+                    "probability": 0.9284797310829163
+                },
+                {
+                    "word": " support",
+                    "start": 1.18,
+                    "end": 1.6,
+                    "probability": 0.9953025579452515
+                },
+                {
+                    "word": " by",
+                    "start": 1.6,
+                    "end": 1.86,
+                    "probability": 0.9627335071563721
+                },
+                {
+                    "word": " email?",
+                    "start": 1.86,
+                    "end": 2.16,
+                    "probability": 0.9688193798065186
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

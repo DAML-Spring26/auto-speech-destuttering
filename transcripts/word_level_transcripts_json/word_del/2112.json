@@ -1,0 +1,115 @@
+{
+    "text": " The research team conducted experiments to test the new hypothesis for six months.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.54,
+            "text": " The research team conducted experiments to test the new hypothesis for six months.",
+            "tokens": [
+                50364,
+                440,
+                2132,
+                1469,
+                13809,
+                12050,
+                281,
+                1500,
+                264,
+                777,
+                17291,
+                337,
+                2309,
+                2493,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2594435916227453,
+            "compression_ratio": 1.0649350649350648,
+            "no_speech_prob": 0.0035138046368956566,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8283956050872803
+                },
+                {
+                    "word": " research",
+                    "start": 0.14,
+                    "end": 0.5,
+                    "probability": 0.9042769074440002
+                },
+                {
+                    "word": " team",
+                    "start": 0.5,
+                    "end": 0.92,
+                    "probability": 0.9989602565765381
+                },
+                {
+                    "word": " conducted",
+                    "start": 0.92,
+                    "end": 1.38,
+                    "probability": 0.568030595779419
+                },
+                {
+                    "word": " experiments",
+                    "start": 1.38,
+                    "end": 2.0,
+                    "probability": 0.9979087114334106
+                },
+                {
+                    "word": " to",
+                    "start": 2.0,
+                    "end": 2.3,
+                    "probability": 0.9988952279090881
+                },
+                {
+                    "word": " test",
+                    "start": 2.3,
+                    "end": 2.6,
+                    "probability": 0.9974414110183716
+                },
+                {
+                    "word": " the",
+                    "start": 2.6,
+                    "end": 2.78,
+                    "probability": 0.9771353006362915
+                },
+                {
+                    "word": " new",
+                    "start": 2.78,
+                    "end": 2.96,
+                    "probability": 0.9660868048667908
+                },
+                {
+                    "word": " hypothesis",
+                    "start": 2.96,
+                    "end": 3.52,
+                    "probability": 0.9392048716545105
+                },
+                {
+                    "word": " for",
+                    "start": 3.52,
+                    "end": 3.92,
+                    "probability": 0.9943406581878662
+                },
+                {
+                    "word": " six",
+                    "start": 3.92,
+                    "end": 4.22,
+                    "probability": 0.7199371457099915
+                },
+                {
+                    "word": " months.",
+                    "start": 4.22,
+                    "end": 4.54,
+                    "probability": 0.9987975358963013
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

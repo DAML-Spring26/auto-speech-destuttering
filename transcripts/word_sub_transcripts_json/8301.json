@@ -1,0 +1,94 @@
+{
+    "text": " Can you help me set up the new computer software?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.16,
+            "text": " Can you help me set up the new computer software?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                854,
+                385,
+                992,
+                493,
+                264,
+                777,
+                3820,
+                4722,
+                30,
+                50494
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3199049064091274,
+            "compression_ratio": 0.8596491228070176,
+            "no_speech_prob": 0.012795548886060715,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6296631097793579
+                },
+                {
+                    "word": " you",
+                    "start": 0.14,
+                    "end": 0.3,
+                    "probability": 0.989930272102356
+                },
+                {
+                    "word": " help",
+                    "start": 0.3,
+                    "end": 0.5,
+                    "probability": 0.9954255223274231
+                },
+                {
+                    "word": " me",
+                    "start": 0.5,
+                    "end": 0.64,
+                    "probability": 0.9816893339157104
+                },
+                {
+                    "word": " set",
+                    "start": 0.64,
+                    "end": 0.9,
+                    "probability": 0.8972640633583069
+                },
+                {
+                    "word": " up",
+                    "start": 0.9,
+                    "end": 1.0,
+                    "probability": 0.9934090375900269
+                },
+                {
+                    "word": " the",
+                    "start": 1.0,
+                    "end": 1.14,
+                    "probability": 0.9532812237739563
+                },
+                {
+                    "word": " new",
+                    "start": 1.14,
+                    "end": 1.24,
+                    "probability": 0.9905877113342285
+                },
+                {
+                    "word": " computer",
+                    "start": 1.24,
+                    "end": 1.7,
+                    "probability": 0.8937891721725464
+                },
+                {
+                    "word": " software?",
+                    "start": 1.7,
+                    "end": 2.16,
+                    "probability": 0.9309189915657043
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

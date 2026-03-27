@@ -1,0 +1,59 @@
+{
+    "text": " The museum displayed ancient articles.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.36,
+            "text": " The museum displayed ancient articles.",
+            "tokens": [
+                50364,
+                440,
+                8441,
+                16372,
+                7832,
+                11290,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47169902589586044,
+            "compression_ratio": 0.8260869565217391,
+            "no_speech_prob": 0.002993243047967553,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6846014857292175
+                },
+                {
+                    "word": " museum",
+                    "start": 0.12,
+                    "end": 0.56,
+                    "probability": 0.947400689125061
+                },
+                {
+                    "word": " displayed",
+                    "start": 0.56,
+                    "end": 1.18,
+                    "probability": 0.9801470637321472
+                },
+                {
+                    "word": " ancient",
+                    "start": 1.18,
+                    "end": 1.74,
+                    "probability": 0.9831475615501404
+                },
+                {
+                    "word": " articles.",
+                    "start": 1.74,
+                    "end": 2.36,
+                    "probability": 0.9857891201972961
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

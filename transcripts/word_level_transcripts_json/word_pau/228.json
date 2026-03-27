@@ -1,0 +1,102 @@
+{
+    "text": " We need to discuss the budget for next year's family vacation.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.16,
+            "text": " We need to discuss the budget for next year's family vacation.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                2248,
+                264,
+                4706,
+                337,
+                958,
+                1064,
+                311,
+                1605,
+                12830,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3045996129512787,
+            "compression_ratio": 0.9253731343283582,
+            "no_speech_prob": 0.004733784589916468,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7121804356575012
+                },
+                {
+                    "word": " need",
+                    "start": 0.1,
+                    "end": 0.22,
+                    "probability": 0.9952928423881531
+                },
+                {
+                    "word": " to",
+                    "start": 0.22,
+                    "end": 0.36,
+                    "probability": 0.9967984557151794
+                },
+                {
+                    "word": " discuss",
+                    "start": 0.36,
+                    "end": 0.62,
+                    "probability": 0.9884997010231018
+                },
+                {
+                    "word": " the",
+                    "start": 0.62,
+                    "end": 0.84,
+                    "probability": 0.9756807088851929
+                },
+                {
+                    "word": " budget",
+                    "start": 0.84,
+                    "end": 1.14,
+                    "probability": 0.9871661067008972
+                },
+                {
+                    "word": " for",
+                    "start": 1.14,
+                    "end": 1.4,
+                    "probability": 0.9556517601013184
+                },
+                {
+                    "word": " next",
+                    "start": 1.4,
+                    "end": 4.96,
+                    "probability": 0.5338194370269775
+                },
+                {
+                    "word": " year's",
+                    "start": 4.96,
+                    "end": 5.46,
+                    "probability": 0.9892253279685974
+                },
+                {
+                    "word": " family",
+                    "start": 5.46,
+                    "end": 5.74,
+                    "probability": 0.6972200274467468
+                },
+                {
+                    "word": " vacation.",
+                    "start": 5.74,
+                    "end": 6.16,
+                    "probability": 0.985355794429779
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

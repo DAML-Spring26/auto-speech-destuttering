@@ -1,0 +1,95 @@
+{
+    "text": " Can you help me with my homework after dinner, though?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.6199999999999999,
+            "end": 2.92,
+            "text": " Can you help me with my homework after dinner, though?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                854,
+                385,
+                365,
+                452,
+                14578,
+                934,
+                6148,
+                11,
+                1673,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37944564819335935,
+            "compression_ratio": 0.8709677419354839,
+            "no_speech_prob": 0.19033950567245483,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.6199999999999999,
+                    "end": 0.94,
+                    "probability": 0.7222287654876709
+                },
+                {
+                    "word": " you",
+                    "start": 0.94,
+                    "end": 1.08,
+                    "probability": 0.9953814744949341
+                },
+                {
+                    "word": " help",
+                    "start": 1.08,
+                    "end": 1.26,
+                    "probability": 0.9964525699615479
+                },
+                {
+                    "word": " me",
+                    "start": 1.26,
+                    "end": 1.42,
+                    "probability": 0.958810031414032
+                },
+                {
+                    "word": " with",
+                    "start": 1.42,
+                    "end": 1.58,
+                    "probability": 0.9952517747879028
+                },
+                {
+                    "word": " my",
+                    "start": 1.58,
+                    "end": 1.72,
+                    "probability": 0.9972841739654541
+                },
+                {
+                    "word": " homework",
+                    "start": 1.72,
+                    "end": 2.02,
+                    "probability": 0.9878629446029663
+                },
+                {
+                    "word": " after",
+                    "start": 2.02,
+                    "end": 2.46,
+                    "probability": 0.984493613243103
+                },
+                {
+                    "word": " dinner,",
+                    "start": 2.46,
+                    "end": 2.72,
+                    "probability": 0.9952768087387085
+                },
+                {
+                    "word": " though?",
+                    "start": 2.8,
+                    "end": 2.92,
+                    "probability": 0.6821687817573547
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

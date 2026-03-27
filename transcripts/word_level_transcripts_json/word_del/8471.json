@@ -1,0 +1,101 @@
+{
+    "text": " You checked in for your flight online or at the airport.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.58,
+            "text": " You checked in for your flight online or at the airport.",
+            "tokens": [
+                50364,
+                509,
+                10033,
+                294,
+                337,
+                428,
+                7018,
+                2950,
+                420,
+                412,
+                264,
+                10155,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3397159258524577,
+            "compression_ratio": 0.9032258064516129,
+            "no_speech_prob": 0.020277466624975204,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.2746618986129761
+                },
+                {
+                    "word": " checked",
+                    "start": 0.12,
+                    "end": 0.42,
+                    "probability": 0.890895426273346
+                },
+                {
+                    "word": " in",
+                    "start": 0.42,
+                    "end": 0.64,
+                    "probability": 0.959308385848999
+                },
+                {
+                    "word": " for",
+                    "start": 0.64,
+                    "end": 0.86,
+                    "probability": 0.9933252334594727
+                },
+                {
+                    "word": " your",
+                    "start": 0.86,
+                    "end": 1.04,
+                    "probability": 0.9923458099365234
+                },
+                {
+                    "word": " flight",
+                    "start": 1.04,
+                    "end": 1.26,
+                    "probability": 0.8377814292907715
+                },
+                {
+                    "word": " online",
+                    "start": 1.26,
+                    "end": 1.68,
+                    "probability": 0.9744768738746643
+                },
+                {
+                    "word": " or",
+                    "start": 1.68,
+                    "end": 1.9,
+                    "probability": 0.9300543069839478
+                },
+                {
+                    "word": " at",
+                    "start": 1.9,
+                    "end": 2.1,
+                    "probability": 0.9834544658660889
+                },
+                {
+                    "word": " the",
+                    "start": 2.1,
+                    "end": 2.2,
+                    "probability": 0.9923182725906372
+                },
+                {
+                    "word": " airport.",
+                    "start": 2.2,
+                    "end": 2.58,
+                    "probability": 0.9667503833770752
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

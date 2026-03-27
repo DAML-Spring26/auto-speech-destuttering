@@ -1,0 +1,96 @@
+{
+    "text": " we should call Plummo because the sink is leaking again.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.12,
+            "text": " we should call Plummo because the sink is leaking again.",
+            "tokens": [
+                50364,
+                321,
+                820,
+                818,
+                2149,
+                449,
+                3280,
+                570,
+                264,
+                9500,
+                307,
+                32856,
+                797,
+                13,
+                50538
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3942195177078247,
+            "compression_ratio": 0.9032258064516129,
+            "no_speech_prob": 0.0026252076495438814,
+            "words": [
+                {
+                    "word": " we",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.4717642366886139
+                },
+                {
+                    "word": " should",
+                    "start": 0.12,
+                    "end": 0.32,
+                    "probability": 0.9910509586334229
+                },
+                {
+                    "word": " call",
+                    "start": 0.32,
+                    "end": 0.54,
+                    "probability": 0.9847016930580139
+                },
+                {
+                    "word": " Plummo",
+                    "start": 0.54,
+                    "end": 1.02,
+                    "probability": 0.4861098925272624
+                },
+                {
+                    "word": " because",
+                    "start": 1.02,
+                    "end": 1.32,
+                    "probability": 0.9493010640144348
+                },
+                {
+                    "word": " the",
+                    "start": 1.32,
+                    "end": 1.58,
+                    "probability": 0.9385984539985657
+                },
+                {
+                    "word": " sink",
+                    "start": 1.58,
+                    "end": 1.98,
+                    "probability": 0.9440116882324219
+                },
+                {
+                    "word": " is",
+                    "start": 1.98,
+                    "end": 2.3,
+                    "probability": 0.9955735206604004
+                },
+                {
+                    "word": " leaking",
+                    "start": 2.3,
+                    "end": 2.68,
+                    "probability": 0.991304874420166
+                },
+                {
+                    "word": " again.",
+                    "start": 2.68,
+                    "end": 3.12,
+                    "probability": 0.9974111914634705
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

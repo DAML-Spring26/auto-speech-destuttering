@@ -1,0 +1,87 @@
+{
+    "text": " The new software update will be available tomorrow in.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.84,
+            "text": " The new software update will be available tomorrow in.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                4722,
+                5623,
+                486,
+                312,
+                2435,
+                4153,
+                294,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26552752348092884,
+            "compression_ratio": 0.9152542372881356,
+            "no_speech_prob": 0.007642032578587532,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.9190517663955688
+                },
+                {
+                    "word": " new",
+                    "start": 0.36,
+                    "end": 0.52,
+                    "probability": 0.9421069622039795
+                },
+                {
+                    "word": " software",
+                    "start": 0.52,
+                    "end": 0.96,
+                    "probability": 0.978966236114502
+                },
+                {
+                    "word": " update",
+                    "start": 0.96,
+                    "end": 1.36,
+                    "probability": 0.9957872033119202
+                },
+                {
+                    "word": " will",
+                    "start": 1.36,
+                    "end": 1.56,
+                    "probability": 0.9968750476837158
+                },
+                {
+                    "word": " be",
+                    "start": 1.56,
+                    "end": 1.68,
+                    "probability": 0.9972532391548157
+                },
+                {
+                    "word": " available",
+                    "start": 1.68,
+                    "end": 2.06,
+                    "probability": 0.9991126656532288
+                },
+                {
+                    "word": " tomorrow",
+                    "start": 2.06,
+                    "end": 2.46,
+                    "probability": 0.9942033886909485
+                },
+                {
+                    "word": " in.",
+                    "start": 2.46,
+                    "end": 2.84,
+                    "probability": 0.9212034940719604
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

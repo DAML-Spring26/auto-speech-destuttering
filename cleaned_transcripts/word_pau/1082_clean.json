@@ -1,45 +1,41 @@
 {
-    "text": " Can you pass the... ...sort plays?",
+    "text": " this. Soap please..",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 2.0,
-            "text": " Can you pass the...",
+            "end": 3.86,
+            "text": " this.",
             "tokens": [
                 50364,
-                1664,
-                291,
-                1320,
-                264,
-                485,
-                50464
+                341,
+                13,
+                50557
             ],
-            "temperature": 0.0,
-            "avg_logprob": -0.894570795694987,
-            "compression_ratio": 0.85,
-            "no_speech_prob": 0.027902044355869293
+            "temperature": 1.0,
+            "avg_logprob": -2.131258487701416,
+            "compression_ratio": 0.7037037037037037,
+            "no_speech_prob": 0.1380590945482254
         },
         {
             "id": 1,
             "seek": 0,
-            "start": 4.4,
-            "end": 6.4,
-            "text": " ...sort plays?",
+            "start": 3.86,
+            "end": 24.54,
+            "text": " Soap please..",
             "tokens": [
-                50584,
-                1097,
-                82,
-                477,
-                5749,
-                30,
-                50684
+                50557,
+                407,
+                569,
+                1767,
+                353,
+                51591
             ],
-            "temperature": 0.0,
-            "avg_logprob": -0.894570795694987,
-            "compression_ratio": 0.85,
-            "no_speech_prob": 0.027902044355869293
+            "temperature": 1.0,
+            "avg_logprob": -2.131258487701416,
+            "compression_ratio": 0.7037037037037037,
+            "no_speech_prob": 0.1380590945482254
         }
     ],
     "language": "en"

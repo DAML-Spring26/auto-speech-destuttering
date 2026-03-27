@@ -1,0 +1,73 @@
+{
+    "text": " They need to dismiss the budget constraints.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.94,
+            "text": " They need to dismiss the budget constraints.",
+            "tokens": [
+                50364,
+                814,
+                643,
+                281,
+                16974,
+                264,
+                4706,
+                18491,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47411940314553,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.009677340276539326,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.4138905704021454
+                },
+                {
+                    "word": " need",
+                    "start": 0.14,
+                    "end": 0.32,
+                    "probability": 0.9833341240882874
+                },
+                {
+                    "word": " to",
+                    "start": 0.32,
+                    "end": 0.48,
+                    "probability": 0.9981229901313782
+                },
+                {
+                    "word": " dismiss",
+                    "start": 0.48,
+                    "end": 0.84,
+                    "probability": 0.9610771536827087
+                },
+                {
+                    "word": " the",
+                    "start": 0.84,
+                    "end": 1.08,
+                    "probability": 0.9877439141273499
+                },
+                {
+                    "word": " budget",
+                    "start": 1.08,
+                    "end": 1.32,
+                    "probability": 0.4750411808490753
+                },
+                {
+                    "word": " constraints.",
+                    "start": 1.32,
+                    "end": 1.94,
+                    "probability": 0.9795418381690979
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

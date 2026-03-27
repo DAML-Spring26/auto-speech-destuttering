@@ -1,0 +1,111 @@
+{
+    "text": " If you're free later, we should, should grab coffee and catch up.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.82,
+            "text": " If you're free later, we should, should grab coffee and catch up.",
+            "tokens": [
+                50364,
+                759,
+                291,
+                434,
+                1737,
+                1780,
+                11,
+                321,
+                820,
+                11,
+                820,
+                4444,
+                4982,
+                293,
+                3745,
+                493,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26351742995412725,
+            "compression_ratio": 0.9848484848484849,
+            "no_speech_prob": 0.007627861108630896,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.6594964861869812
+                },
+                {
+                    "word": " you're",
+                    "start": 0.2,
+                    "end": 0.3,
+                    "probability": 0.928630918264389
+                },
+                {
+                    "word": " free",
+                    "start": 0.3,
+                    "end": 0.52,
+                    "probability": 0.987717866897583
+                },
+                {
+                    "word": " later,",
+                    "start": 0.52,
+                    "end": 0.96,
+                    "probability": 0.9916085600852966
+                },
+                {
+                    "word": " we",
+                    "start": 1.62,
+                    "end": 1.82,
+                    "probability": 0.9870856404304504
+                },
+                {
+                    "word": " should,",
+                    "start": 1.82,
+                    "end": 2.14,
+                    "probability": 0.975417971611023
+                },
+                {
+                    "word": " should",
+                    "start": 2.42,
+                    "end": 2.64,
+                    "probability": 0.9826531410217285
+                },
+                {
+                    "word": " grab",
+                    "start": 2.64,
+                    "end": 2.8,
+                    "probability": 0.9927985668182373
+                },
+                {
+                    "word": " coffee",
+                    "start": 2.8,
+                    "end": 3.14,
+                    "probability": 0.9513553380966187
+                },
+                {
+                    "word": " and",
+                    "start": 3.14,
+                    "end": 3.32,
+                    "probability": 0.9894842505455017
+                },
+                {
+                    "word": " catch",
+                    "start": 3.32,
+                    "end": 3.62,
+                    "probability": 0.7528049945831299
+                },
+                {
+                    "word": " up.",
+                    "start": 3.62,
+                    "end": 3.82,
+                    "probability": 0.9491211771965027
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

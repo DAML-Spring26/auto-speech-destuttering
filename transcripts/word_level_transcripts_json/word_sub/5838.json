@@ -1,0 +1,66 @@
+{
+    "text": " the government implemented new economic qualities.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.58,
+            "text": " the government implemented new economic qualities.",
+            "tokens": [
+                50364,
+                264,
+                2463,
+                12270,
+                777,
+                4836,
+                16477,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5115976810455323,
+            "compression_ratio": 0.9090909090909091,
+            "no_speech_prob": 0.008017213083803654,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.41888266801834106
+                },
+                {
+                    "word": " government",
+                    "start": 0.12,
+                    "end": 0.5,
+                    "probability": 0.9107599258422852
+                },
+                {
+                    "word": " implemented",
+                    "start": 0.5,
+                    "end": 1.2,
+                    "probability": 0.9362694025039673
+                },
+                {
+                    "word": " new",
+                    "start": 1.2,
+                    "end": 1.5,
+                    "probability": 0.9962000250816345
+                },
+                {
+                    "word": " economic",
+                    "start": 1.5,
+                    "end": 2.0,
+                    "probability": 0.9977126121520996
+                },
+                {
+                    "word": " qualities.",
+                    "start": 2.0,
+                    "end": 2.58,
+                    "probability": 0.476251482963562
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

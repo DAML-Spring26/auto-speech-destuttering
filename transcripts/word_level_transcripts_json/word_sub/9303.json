@@ -1,0 +1,59 @@
+{
+    "text": " The manager reviewed performance mechanics.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.14,
+            "text": " The manager reviewed performance mechanics.",
+            "tokens": [
+                50364,
+                440,
+                6598,
+                18429,
+                3389,
+                12939,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5549526214599609,
+            "compression_ratio": 0.8958333333333334,
+            "no_speech_prob": 0.002415661234408617,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6970105767250061
+                },
+                {
+                    "word": " manager",
+                    "start": 0.12,
+                    "end": 0.5,
+                    "probability": 0.7120479941368103
+                },
+                {
+                    "word": " reviewed",
+                    "start": 0.5,
+                    "end": 0.92,
+                    "probability": 0.9208230972290039
+                },
+                {
+                    "word": " performance",
+                    "start": 0.92,
+                    "end": 1.5,
+                    "probability": 0.5498711466789246
+                },
+                {
+                    "word": " mechanics.",
+                    "start": 1.5,
+                    "end": 2.14,
+                    "probability": 0.9981005787849426
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

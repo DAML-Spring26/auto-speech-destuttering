@@ -1,0 +1,73 @@
+{
+    "text": " the experiment conducted by the research team.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.68,
+            "text": " the experiment conducted by the research team.",
+            "tokens": [
+                50364,
+                264,
+                5120,
+                13809,
+                538,
+                264,
+                2132,
+                1469,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4091614376414906,
+            "compression_ratio": 0.8679245283018868,
+            "no_speech_prob": 0.005362063180655241,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.423575758934021
+                },
+                {
+                    "word": " experiment",
+                    "start": 0.1,
+                    "end": 0.66,
+                    "probability": 0.9698660373687744
+                },
+                {
+                    "word": " conducted",
+                    "start": 0.66,
+                    "end": 1.24,
+                    "probability": 0.9946986436843872
+                },
+                {
+                    "word": " by",
+                    "start": 1.24,
+                    "end": 1.54,
+                    "probability": 0.9966358542442322
+                },
+                {
+                    "word": " the",
+                    "start": 1.54,
+                    "end": 1.68,
+                    "probability": 0.9850191473960876
+                },
+                {
+                    "word": " research",
+                    "start": 1.68,
+                    "end": 2.12,
+                    "probability": 0.8971340656280518
+                },
+                {
+                    "word": " team.",
+                    "start": 2.12,
+                    "end": 2.68,
+                    "probability": 0.9992258548736572
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

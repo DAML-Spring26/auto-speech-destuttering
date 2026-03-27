@@ -1,0 +1,96 @@
+{
+    "text": " The concert has been postponed due to unforeseen for circumstances.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.34,
+            "text": " The concert has been postponed due to unforeseen for circumstances.",
+            "tokens": [
+                50364,
+                440,
+                8543,
+                575,
+                668,
+                49023,
+                3462,
+                281,
+                517,
+                845,
+                22008,
+                337,
+                9121,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22320328652858734,
+            "compression_ratio": 0.9852941176470589,
+            "no_speech_prob": 0.017481505870819092,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.5,
+                    "probability": 0.9281232357025146
+                },
+                {
+                    "word": " concert",
+                    "start": 0.5,
+                    "end": 0.86,
+                    "probability": 0.9923197627067566
+                },
+                {
+                    "word": " has",
+                    "start": 0.86,
+                    "end": 1.04,
+                    "probability": 0.9981840252876282
+                },
+                {
+                    "word": " been",
+                    "start": 1.04,
+                    "end": 1.22,
+                    "probability": 0.9992403984069824
+                },
+                {
+                    "word": " postponed",
+                    "start": 1.22,
+                    "end": 1.68,
+                    "probability": 0.9753134846687317
+                },
+                {
+                    "word": " due",
+                    "start": 1.68,
+                    "end": 1.98,
+                    "probability": 0.9990680813789368
+                },
+                {
+                    "word": " to",
+                    "start": 1.98,
+                    "end": 2.12,
+                    "probability": 0.9989720582962036
+                },
+                {
+                    "word": " unforeseen",
+                    "start": 2.12,
+                    "end": 2.6,
+                    "probability": 0.9779847462972006
+                },
+                {
+                    "word": " for",
+                    "start": 2.6,
+                    "end": 2.78,
+                    "probability": 0.9859200716018677
+                },
+                {
+                    "word": " circumstances.",
+                    "start": 2.78,
+                    "end": 3.34,
+                    "probability": 0.9928646087646484
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

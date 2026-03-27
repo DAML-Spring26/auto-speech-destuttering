@@ -1,0 +1,101 @@
+{
+    "text": " The professor emphasized the importance of citing sources and academic papers.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.62,
+            "text": " The professor emphasized the importance of citing sources and academic papers.",
+            "tokens": [
+                50364,
+                440,
+                8304,
+                34068,
+                264,
+                7379,
+                295,
+                48749,
+                7139,
+                293,
+                7778,
+                10577,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4074972152709961,
+            "compression_ratio": 1.0684931506849316,
+            "no_speech_prob": 0.0013020660262554884,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5868587493896484
+                },
+                {
+                    "word": " professor",
+                    "start": 0.1,
+                    "end": 0.62,
+                    "probability": 0.7601722478866577
+                },
+                {
+                    "word": " emphasized",
+                    "start": 0.62,
+                    "end": 1.06,
+                    "probability": 0.43208637833595276
+                },
+                {
+                    "word": " the",
+                    "start": 1.06,
+                    "end": 1.5,
+                    "probability": 0.980646014213562
+                },
+                {
+                    "word": " importance",
+                    "start": 1.5,
+                    "end": 1.94,
+                    "probability": 0.996782660484314
+                },
+                {
+                    "word": " of",
+                    "start": 1.94,
+                    "end": 2.22,
+                    "probability": 0.9968137145042419
+                },
+                {
+                    "word": " citing",
+                    "start": 2.22,
+                    "end": 2.9,
+                    "probability": 0.3998406231403351
+                },
+                {
+                    "word": " sources",
+                    "start": 2.9,
+                    "end": 3.36,
+                    "probability": 0.9913654327392578
+                },
+                {
+                    "word": " and",
+                    "start": 3.36,
+                    "end": 3.64,
+                    "probability": 0.6239007115364075
+                },
+                {
+                    "word": " academic",
+                    "start": 3.64,
+                    "end": 4.08,
+                    "probability": 0.9939621090888977
+                },
+                {
+                    "word": " papers.",
+                    "start": 4.08,
+                    "end": 4.62,
+                    "probability": 0.983437180519104
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

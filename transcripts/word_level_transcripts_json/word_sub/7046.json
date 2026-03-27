@@ -1,0 +1,101 @@
+{
+    "text": " Could you please forward the minutes of the last board meeting?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.52,
+            "text": " Could you please forward the minutes of the last board meeting?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                2128,
+                264,
+                2077,
+                295,
+                264,
+                1036,
+                3150,
+                3440,
+                30,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23015527725219725,
+            "compression_ratio": 0.9692307692307692,
+            "no_speech_prob": 0.01364183146506548,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.928618848323822
+                },
+                {
+                    "word": " you",
+                    "start": 0.12,
+                    "end": 0.24,
+                    "probability": 0.9929361939430237
+                },
+                {
+                    "word": " please",
+                    "start": 0.24,
+                    "end": 0.52,
+                    "probability": 0.9975777268409729
+                },
+                {
+                    "word": " forward",
+                    "start": 0.52,
+                    "end": 0.86,
+                    "probability": 0.8949215412139893
+                },
+                {
+                    "word": " the",
+                    "start": 0.86,
+                    "end": 1.04,
+                    "probability": 0.9850698113441467
+                },
+                {
+                    "word": " minutes",
+                    "start": 1.04,
+                    "end": 1.26,
+                    "probability": 0.9939022064208984
+                },
+                {
+                    "word": " of",
+                    "start": 1.26,
+                    "end": 1.48,
+                    "probability": 0.9952078461647034
+                },
+                {
+                    "word": " the",
+                    "start": 1.48,
+                    "end": 1.62,
+                    "probability": 0.9774340987205505
+                },
+                {
+                    "word": " last",
+                    "start": 1.62,
+                    "end": 1.86,
+                    "probability": 0.9796844720840454
+                },
+                {
+                    "word": " board",
+                    "start": 1.86,
+                    "end": 2.14,
+                    "probability": 0.8653894662857056
+                },
+                {
+                    "word": " meeting?",
+                    "start": 2.14,
+                    "end": 2.52,
+                    "probability": 0.9946487545967102
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

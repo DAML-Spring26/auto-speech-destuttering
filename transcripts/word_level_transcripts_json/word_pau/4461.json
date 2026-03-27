@@ -1,0 +1,101 @@
+{
+    "text": " Please remain seated until the seat belt sign is turned off.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.98,
+            "text": " Please remain seated until the seat belt sign is turned off.",
+            "tokens": [
+                50364,
+                2555,
+                6222,
+                20959,
+                1826,
+                264,
+                6121,
+                10750,
+                1465,
+                307,
+                3574,
+                766,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3297462781270345,
+            "compression_ratio": 0.967741935483871,
+            "no_speech_prob": 0.0038632326759397984,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.6017894148826599
+                },
+                {
+                    "word": " remain",
+                    "start": 0.24,
+                    "end": 0.56,
+                    "probability": 0.9144443869590759
+                },
+                {
+                    "word": " seated",
+                    "start": 0.56,
+                    "end": 0.96,
+                    "probability": 0.9958618879318237
+                },
+                {
+                    "word": " until",
+                    "start": 0.96,
+                    "end": 1.5,
+                    "probability": 0.9765084385871887
+                },
+                {
+                    "word": " the",
+                    "start": 1.5,
+                    "end": 3.44,
+                    "probability": 0.7774842381477356
+                },
+                {
+                    "word": " seat",
+                    "start": 3.44,
+                    "end": 3.68,
+                    "probability": 0.9889200329780579
+                },
+                {
+                    "word": " belt",
+                    "start": 3.68,
+                    "end": 3.86,
+                    "probability": 0.4794105589389801
+                },
+                {
+                    "word": " sign",
+                    "start": 3.86,
+                    "end": 4.18,
+                    "probability": 0.7598392367362976
+                },
+                {
+                    "word": " is",
+                    "start": 4.18,
+                    "end": 4.34,
+                    "probability": 0.9659737944602966
+                },
+                {
+                    "word": " turned",
+                    "start": 4.34,
+                    "end": 4.58,
+                    "probability": 0.9957738518714905
+                },
+                {
+                    "word": " off.",
+                    "start": 4.58,
+                    "end": 4.98,
+                    "probability": 0.9948284029960632
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

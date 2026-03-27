@@ -1,0 +1,109 @@
+{
+    "text": " We recommend getting a flu shot annually, especially for patients over 65.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.7,
+            "text": " We recommend getting a flu shot annually, especially for patients over 65.",
+            "tokens": [
+                50364,
+                492,
+                2748,
+                1242,
+                257,
+                5029,
+                3347,
+                29974,
+                11,
+                2318,
+                337,
+                4209,
+                670,
+                11624,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26612206066355987,
+            "compression_ratio": 0.9866666666666667,
+            "no_speech_prob": 0.0033352780155837536,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.736697256565094
+                },
+                {
+                    "word": " recommend",
+                    "start": 0.12,
+                    "end": 0.54,
+                    "probability": 0.9957369565963745
+                },
+                {
+                    "word": " getting",
+                    "start": 0.54,
+                    "end": 0.96,
+                    "probability": 0.9913440942764282
+                },
+                {
+                    "word": " a",
+                    "start": 0.96,
+                    "end": 1.16,
+                    "probability": 0.9759016036987305
+                },
+                {
+                    "word": " flu",
+                    "start": 1.16,
+                    "end": 1.36,
+                    "probability": 0.9339004755020142
+                },
+                {
+                    "word": " shot",
+                    "start": 1.36,
+                    "end": 1.66,
+                    "probability": 0.9666582345962524
+                },
+                {
+                    "word": " annually,",
+                    "start": 1.66,
+                    "end": 2.12,
+                    "probability": 0.9939659237861633
+                },
+                {
+                    "word": " especially",
+                    "start": 2.38,
+                    "end": 2.82,
+                    "probability": 0.9897352457046509
+                },
+                {
+                    "word": " for",
+                    "start": 2.82,
+                    "end": 3.14,
+                    "probability": 0.9853613972663879
+                },
+                {
+                    "word": " patients",
+                    "start": 3.14,
+                    "end": 3.74,
+                    "probability": 0.9504294395446777
+                },
+                {
+                    "word": " over",
+                    "start": 3.74,
+                    "end": 4.12,
+                    "probability": 0.9093834161758423
+                },
+                {
+                    "word": " 65.",
+                    "start": 4.12,
+                    "end": 4.7,
+                    "probability": 0.9884373545646667
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,52 @@
+{
+    "text": " they discussed the legend.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.0,
+            "text": " they discussed the legend.",
+            "tokens": [
+                50364,
+                436,
+                7152,
+                264,
+                9451,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.587702751159668,
+            "compression_ratio": 0.7647058823529411,
+            "no_speech_prob": 0.011736277490854263,
+            "words": [
+                {
+                    "word": " they",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5906360149383545
+                },
+                {
+                    "word": " discussed",
+                    "start": 0.12,
+                    "end": 0.48,
+                    "probability": 0.6597116589546204
+                },
+                {
+                    "word": " the",
+                    "start": 0.48,
+                    "end": 0.68,
+                    "probability": 0.8204383254051208
+                },
+                {
+                    "word": " legend.",
+                    "start": 0.68,
+                    "end": 1.0,
+                    "probability": 0.9238698482513428
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

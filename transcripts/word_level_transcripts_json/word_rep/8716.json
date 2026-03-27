@@ -1,0 +1,103 @@
+{
+    "text": " The conference call is scheduled for 3pm Eastern, Eastern Standard Time.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.58,
+            "text": " The conference call is scheduled for 3pm Eastern, Eastern Standard Time.",
+            "tokens": [
+                50364,
+                440,
+                7586,
+                818,
+                307,
+                15678,
+                337,
+                805,
+                14395,
+                12901,
+                11,
+                12901,
+                21298,
+                6161,
+                13,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3965681580936207,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.013405839912593365,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.9298961162567139
+                },
+                {
+                    "word": " conference",
+                    "start": 0.12,
+                    "end": 0.54,
+                    "probability": 0.9780243635177612
+                },
+                {
+                    "word": " call",
+                    "start": 0.54,
+                    "end": 0.94,
+                    "probability": 0.9870399832725525
+                },
+                {
+                    "word": " is",
+                    "start": 0.94,
+                    "end": 1.22,
+                    "probability": 0.9885031580924988
+                },
+                {
+                    "word": " scheduled",
+                    "start": 1.22,
+                    "end": 1.62,
+                    "probability": 0.9429618120193481
+                },
+                {
+                    "word": " for",
+                    "start": 1.62,
+                    "end": 1.88,
+                    "probability": 0.985855758190155
+                },
+                {
+                    "word": " 3pm",
+                    "start": 1.88,
+                    "end": 2.54,
+                    "probability": 0.6117910444736481
+                },
+                {
+                    "word": " Eastern,",
+                    "start": 2.54,
+                    "end": 3.06,
+                    "probability": 0.5570473074913025
+                },
+                {
+                    "word": " Eastern",
+                    "start": 3.34,
+                    "end": 3.62,
+                    "probability": 0.6392634510993958
+                },
+                {
+                    "word": " Standard",
+                    "start": 3.62,
+                    "end": 4.16,
+                    "probability": 0.9457359910011292
+                },
+                {
+                    "word": " Time.",
+                    "start": 4.16,
+                    "end": 4.58,
+                    "probability": 0.776350200176239
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

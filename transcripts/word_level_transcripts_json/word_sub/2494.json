@@ -1,0 +1,67 @@
+{
+    "text": " then meeting will condense at noon.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.58,
+            "text": " then meeting will condense at noon.",
+            "tokens": [
+                50364,
+                550,
+                3440,
+                486,
+                2224,
+                1288,
+                412,
+                24040,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36273006959394977,
+            "compression_ratio": 0.813953488372093,
+            "no_speech_prob": 0.004652328789234161,
+            "words": [
+                {
+                    "word": " then",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.4435153305530548
+                },
+                {
+                    "word": " meeting",
+                    "start": 0.16,
+                    "end": 0.44,
+                    "probability": 0.8376118540763855
+                },
+                {
+                    "word": " will",
+                    "start": 0.44,
+                    "end": 0.62,
+                    "probability": 0.7911553382873535
+                },
+                {
+                    "word": " condense",
+                    "start": 0.62,
+                    "end": 1.16,
+                    "probability": 0.9153250455856323
+                },
+                {
+                    "word": " at",
+                    "start": 1.16,
+                    "end": 1.3,
+                    "probability": 0.8080534934997559
+                },
+                {
+                    "word": " noon.",
+                    "start": 1.3,
+                    "end": 1.58,
+                    "probability": 0.9834601283073425
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

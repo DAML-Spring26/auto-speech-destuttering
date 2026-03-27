@@ -1,0 +1,67 @@
+{
+    "text": " The company's profits have decreased substantially.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.08,
+            "text": " The company's profits have decreased substantially.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                17982,
+                362,
+                24436,
+                30797,
+                13,
+                50480
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30771756172180176,
+            "compression_ratio": 0.864406779661017,
+            "no_speech_prob": 0.0027719628997147083,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5012618899345398
+                },
+                {
+                    "word": " company's",
+                    "start": 0.12,
+                    "end": 0.6,
+                    "probability": 0.9718872606754303
+                },
+                {
+                    "word": " profits",
+                    "start": 0.6,
+                    "end": 0.88,
+                    "probability": 0.977743923664093
+                },
+                {
+                    "word": " have",
+                    "start": 0.88,
+                    "end": 1.1,
+                    "probability": 0.9864240288734436
+                },
+                {
+                    "word": " decreased",
+                    "start": 1.1,
+                    "end": 1.4,
+                    "probability": 0.9842382073402405
+                },
+                {
+                    "word": " substantially.",
+                    "start": 1.4,
+                    "end": 2.08,
+                    "probability": 0.9974150657653809
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

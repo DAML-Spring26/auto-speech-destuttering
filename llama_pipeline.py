@@ -134,7 +134,6 @@ def run_pipeline(
         confidence  = float(classify_data.get("confidence", 0.0))
         reason      = classify_data.get("reason", "")
     except (json.JSONDecodeError, ValueError):
-        # Fallback to try to find a label keyword in response
         pred_label = "UNK"
         confidence = 0.0
         reason     = classify_raw[:200]
@@ -198,8 +197,12 @@ def run_batch(split: str, model: str, output_csv: str, limit: Optional[int] = No
         raise FileNotFoundError(f"Split CSV not found: {csv_path}")
 
     df = pd.read_csv(csv_path)
+
+    # remove dup
+    df = df.drop_duplicates(subset=["audio_id"])
+
     if limit:
-        df = df.head(limit)
+        df = df.sample(n=min(limit, len(df)), random_state=42)
 
     os.makedirs(os.path.dirname(output_csv), exist_ok=True)
 
@@ -218,6 +221,7 @@ def run_batch(split: str, model: str, output_csv: str, limit: Optional[int] = No
 
         try:
             result = run_pipeline(transcript, true_label=true_label, model=model, verbose=True)
+            result["audio_id"] = row["audio_id"]  # 🔥 ADD THIS
             results.append(result)
 
             if result["pred_label"] == true_label:
@@ -241,8 +245,8 @@ def run_batch(split: str, model: str, output_csv: str, limit: Optional[int] = No
 
     #save the csv
     with open(output_csv, "w", newline="", encoding="utf-8") as f:
-        fieldnames = ["transcript", "true_label", "pred_label", "confidence",
-                      "classify_reason", "cleaned", "explanation"]
+        fieldnames = ["audio_id", "transcript", "true_label", "pred_label", "confidence",
+              "classify_reason", "cleaned", "explanation"]
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(results)

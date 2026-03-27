@@ -1,12 +1,12 @@
 {
-    "text": " The latest smartphone model features a camera that takes stunning photos and low light.",
+    "text": " The latest smartphone model features a camera that that takes done is in the light.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 5.0,
-            "text": " The latest smartphone model features a camera that takes stunning photos and low light.",
+            "end": 4.24,
+            "text": " The latest smartphone model features a camera that that takes done is in the light.",
             "tokens": [
                 50364,
                 440,
@@ -17,19 +17,20 @@
                 257,
                 2799,
                 300,
+                300,
                 2516,
-                18550,
-                5787,
-                293,
-                2295,
+                1096,
+                307,
+                294,
+                264,
                 1442,
                 13,
-                50614
+                50576
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.30640284220377606,
-            "compression_ratio": 1.1012658227848102,
-            "no_speech_prob": 0.001498164958320558
+            "avg_logprob": -0.5483525426764237,
+            "compression_ratio": 1.1066666666666667,
+            "no_speech_prob": 0.0034181762021034956
         }
     ],
     "language": "en"

@@ -1,0 +1,99 @@
+{
+    "text": " The Anthropologists studied cultural practices and indigenous commodities.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.84,
+            "text": " The Anthropologists studied cultural practices",
+            "tokens": [
+                50364,
+                440,
+                12727,
+                1513,
+                12256,
+                9454,
+                6988,
+                7525,
+                50520
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.44387567043304443,
+            "compression_ratio": 1.0422535211267605,
+            "no_speech_prob": 0.0023363004438579082,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7573488354682922
+                },
+                {
+                    "word": " Anthropologists",
+                    "start": 0.16,
+                    "end": 1.04,
+                    "probability": 0.6920159856478373
+                },
+                {
+                    "word": " studied",
+                    "start": 1.04,
+                    "end": 1.6,
+                    "probability": 0.9561459422111511
+                },
+                {
+                    "word": " cultural",
+                    "start": 1.6,
+                    "end": 2.08,
+                    "probability": 0.9791132807731628
+                },
+                {
+                    "word": " practices",
+                    "start": 2.08,
+                    "end": 2.84,
+                    "probability": 0.971247673034668
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.84,
+            "end": 4.58,
+            "text": " and indigenous commodities.",
+            "tokens": [
+                50520,
+                293,
+                15511,
+                40777,
+                13,
+                50630
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.44387567043304443,
+            "compression_ratio": 1.0422535211267605,
+            "no_speech_prob": 0.0023363004438579082,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 2.84,
+                    "end": 3.22,
+                    "probability": 0.6193210482597351
+                },
+                {
+                    "word": " indigenous",
+                    "start": 3.22,
+                    "end": 3.74,
+                    "probability": 0.6258886456489563
+                },
+                {
+                    "word": " commodities.",
+                    "start": 3.74,
+                    "end": 4.58,
+                    "probability": 0.9863090515136719
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

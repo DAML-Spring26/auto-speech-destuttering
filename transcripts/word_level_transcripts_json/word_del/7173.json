@@ -1,0 +1,66 @@
+{
+    "text": " The executive attend the board meeting.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.66,
+            "text": " The executive attend the board meeting.",
+            "tokens": [
+                50364,
+                440,
+                10140,
+                6888,
+                264,
+                3150,
+                3440,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4794789791107178,
+            "compression_ratio": 0.8478260869565217,
+            "no_speech_prob": 0.008197936229407787,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.2715998888015747
+                },
+                {
+                    "word": " executive",
+                    "start": 0.12,
+                    "end": 0.56,
+                    "probability": 0.7764252424240112
+                },
+                {
+                    "word": " attend",
+                    "start": 0.56,
+                    "end": 0.98,
+                    "probability": 0.5498207211494446
+                },
+                {
+                    "word": " the",
+                    "start": 0.98,
+                    "end": 1.16,
+                    "probability": 0.9663174152374268
+                },
+                {
+                    "word": " board",
+                    "start": 1.16,
+                    "end": 1.32,
+                    "probability": 0.8952227830886841
+                },
+                {
+                    "word": " meeting.",
+                    "start": 1.32,
+                    "end": 1.66,
+                    "probability": 0.998795747756958
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

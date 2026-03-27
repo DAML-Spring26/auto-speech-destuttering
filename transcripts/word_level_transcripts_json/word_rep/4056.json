@@ -1,0 +1,53 @@
+{
+    "text": " Find nice, nice shoes.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.26,
+            "text": " Find nice, nice shoes.",
+            "tokens": [
+                50364,
+                11809,
+                1481,
+                11,
+                1481,
+                6654,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5287402470906576,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.025498580187559128,
+            "words": [
+                {
+                    "word": " Find",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.8804653286933899
+                },
+                {
+                    "word": " nice,",
+                    "start": 0.28,
+                    "end": 0.82,
+                    "probability": 0.9782702922821045
+                },
+                {
+                    "word": " nice",
+                    "start": 1.14,
+                    "end": 1.74,
+                    "probability": 0.9931250810623169
+                },
+                {
+                    "word": " shoes.",
+                    "start": 1.74,
+                    "end": 2.26,
+                    "probability": 0.9958561062812805
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

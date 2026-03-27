@@ -1,0 +1,81 @@
+{
+    "text": " What's your favorite scene from the classic movie?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.62,
+            "text": " What's your favorite scene from the classic movie?",
+            "tokens": [
+                50364,
+                708,
+                311,
+                428,
+                2954,
+                4145,
+                490,
+                264,
+                7230,
+                3169,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34541152073786807,
+            "compression_ratio": 0.8620689655172413,
+            "no_speech_prob": 0.13854585587978363,
+            "words": [
+                {
+                    "word": " What's",
+                    "start": 0.0,
+                    "end": 1.02,
+                    "probability": 0.9028438627719879
+                },
+                {
+                    "word": " your",
+                    "start": 1.02,
+                    "end": 1.12,
+                    "probability": 0.9899848699569702
+                },
+                {
+                    "word": " favorite",
+                    "start": 1.12,
+                    "end": 1.44,
+                    "probability": 0.9219949841499329
+                },
+                {
+                    "word": " scene",
+                    "start": 1.44,
+                    "end": 1.9,
+                    "probability": 0.9895708560943604
+                },
+                {
+                    "word": " from",
+                    "start": 1.9,
+                    "end": 2.68,
+                    "probability": 0.8234800100326538
+                },
+                {
+                    "word": " the",
+                    "start": 2.68,
+                    "end": 2.84,
+                    "probability": 0.9773484468460083
+                },
+                {
+                    "word": " classic",
+                    "start": 2.84,
+                    "end": 3.24,
+                    "probability": 0.8619646430015564
+                },
+                {
+                    "word": " movie?",
+                    "start": 3.24,
+                    "end": 3.62,
+                    "probability": 0.9951409101486206
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

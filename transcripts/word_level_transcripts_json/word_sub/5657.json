@@ -1,0 +1,73 @@
+{
+    "text": " philosophers often wonder the meaning of life.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.36,
+            "text": " philosophers often wonder the meaning of life.",
+            "tokens": [
+                50364,
+                36839,
+                2049,
+                2441,
+                264,
+                3620,
+                295,
+                993,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5555988658558239,
+            "compression_ratio": 0.8679245283018868,
+            "no_speech_prob": 0.0037234309129416943,
+            "words": [
+                {
+                    "word": " philosophers",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.21819892525672913
+                },
+                {
+                    "word": " often",
+                    "start": 0.38,
+                    "end": 1.06,
+                    "probability": 0.9345567226409912
+                },
+                {
+                    "word": " wonder",
+                    "start": 1.06,
+                    "end": 1.36,
+                    "probability": 0.4307078719139099
+                },
+                {
+                    "word": " the",
+                    "start": 1.36,
+                    "end": 1.56,
+                    "probability": 0.9892156720161438
+                },
+                {
+                    "word": " meaning",
+                    "start": 1.56,
+                    "end": 1.82,
+                    "probability": 0.9958279728889465
+                },
+                {
+                    "word": " of",
+                    "start": 1.82,
+                    "end": 2.1,
+                    "probability": 0.9948482513427734
+                },
+                {
+                    "word": " life.",
+                    "start": 2.1,
+                    "end": 2.36,
+                    "probability": 0.9732402563095093
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

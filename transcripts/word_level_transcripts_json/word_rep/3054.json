@@ -1,0 +1,66 @@
+{
+    "text": " This coffee is stronger than usual.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " This coffee is stronger than usual.",
+            "tokens": [
+                50364,
+                639,
+                4982,
+                307,
+                7249,
+                813,
+                7713,
+                13,
+                50480
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37385218143463134,
+            "compression_ratio": 0.8536585365853658,
+            "no_speech_prob": 0.005624912213534117,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.7960588932037354
+                },
+                {
+                    "word": " coffee",
+                    "start": 0.2,
+                    "end": 0.58,
+                    "probability": 0.9853575825691223
+                },
+                {
+                    "word": " is",
+                    "start": 0.58,
+                    "end": 0.78,
+                    "probability": 0.9931286573410034
+                },
+                {
+                    "word": " stronger",
+                    "start": 0.78,
+                    "end": 1.14,
+                    "probability": 0.9898439645767212
+                },
+                {
+                    "word": " than",
+                    "start": 1.14,
+                    "end": 1.46,
+                    "probability": 0.9608483910560608
+                },
+                {
+                    "word": " usual.",
+                    "start": 1.46,
+                    "end": 2.0,
+                    "probability": 0.47573918104171753
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

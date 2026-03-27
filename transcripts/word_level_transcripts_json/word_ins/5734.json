@@ -1,0 +1,253 @@
+{
+    "text": " The police are Stella. Call Stella under these call false Stella. Police counts the patient's condition has stabilized. Instabilized but they will remain their observation overnight fortunately.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.92,
+            "text": " The police are Stella. Call Stella under these call false Stella.",
+            "tokens": [
+                50364,
+                440,
+                3804,
+                366,
+                45073,
+                13,
+                7807,
+                45073,
+                833,
+                613,
+                818,
+                7908,
+                45073,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3815041286189382,
+            "compression_ratio": 1.416058394160584,
+            "no_speech_prob": 0.18180745840072632,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.76,
+                    "probability": 0.49948424100875854
+                },
+                {
+                    "word": " police",
+                    "start": 0.76,
+                    "end": 1.06,
+                    "probability": 0.7624392509460449
+                },
+                {
+                    "word": " are",
+                    "start": 1.06,
+                    "end": 1.32,
+                    "probability": 0.34932467341423035
+                },
+                {
+                    "word": " Stella.",
+                    "start": 1.32,
+                    "end": 1.7,
+                    "probability": 0.8961321711540222
+                },
+                {
+                    "word": " Call",
+                    "start": 2.26,
+                    "end": 2.94,
+                    "probability": 0.9336467385292053
+                },
+                {
+                    "word": " Stella",
+                    "start": 2.94,
+                    "end": 3.34,
+                    "probability": 0.9741287231445312
+                },
+                {
+                    "word": " under",
+                    "start": 3.34,
+                    "end": 3.74,
+                    "probability": 0.6095585823059082
+                },
+                {
+                    "word": " these",
+                    "start": 3.74,
+                    "end": 4.0,
+                    "probability": 0.8686096668243408
+                },
+                {
+                    "word": " call",
+                    "start": 4.0,
+                    "end": 4.24,
+                    "probability": 0.8997905850410461
+                },
+                {
+                    "word": " false",
+                    "start": 4.24,
+                    "end": 4.54,
+                    "probability": 0.396922767162323
+                },
+                {
+                    "word": " Stella.",
+                    "start": 4.54,
+                    "end": 4.92,
+                    "probability": 0.8745631575584412
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.0,
+            "end": 8.64,
+            "text": " Police counts the patient's condition has stabilized.",
+            "tokens": [
+                50664,
+                11882,
+                14893,
+                264,
+                4537,
+                311,
+                4188,
+                575,
+                48384,
+                13,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3815041286189382,
+            "compression_ratio": 1.416058394160584,
+            "no_speech_prob": 0.18180745840072632,
+            "words": [
+                {
+                    "word": " Police",
+                    "start": 5.68,
+                    "end": 6.08,
+                    "probability": 0.5509995818138123
+                },
+                {
+                    "word": " counts",
+                    "start": 6.08,
+                    "end": 6.58,
+                    "probability": 0.33025607466697693
+                },
+                {
+                    "word": " the",
+                    "start": 6.58,
+                    "end": 6.98,
+                    "probability": 0.6614018082618713
+                },
+                {
+                    "word": " patient's",
+                    "start": 6.98,
+                    "end": 7.42,
+                    "probability": 0.9681488573551178
+                },
+                {
+                    "word": " condition",
+                    "start": 7.42,
+                    "end": 7.82,
+                    "probability": 0.99715256690979
+                },
+                {
+                    "word": " has",
+                    "start": 7.82,
+                    "end": 8.1,
+                    "probability": 0.9916905164718628
+                },
+                {
+                    "word": " stabilized.",
+                    "start": 8.1,
+                    "end": 8.64,
+                    "probability": 0.9149255156517029
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.94,
+            "end": 13.6,
+            "text": " Instabilized but they will remain their observation overnight fortunately.",
+            "tokens": [
+                50864,
+                2730,
+                5177,
+                1602,
+                457,
+                436,
+                486,
+                6222,
+                641,
+                14816,
+                13935,
+                25511,
+                13,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3815041286189382,
+            "compression_ratio": 1.416058394160584,
+            "no_speech_prob": 0.18180745840072632,
+            "words": [
+                {
+                    "word": " Instabilized",
+                    "start": 9.94,
+                    "end": 10.74,
+                    "probability": 0.7786060074965159
+                },
+                {
+                    "word": " but",
+                    "start": 10.74,
+                    "end": 10.98,
+                    "probability": 0.6805896162986755
+                },
+                {
+                    "word": " they",
+                    "start": 10.98,
+                    "end": 11.18,
+                    "probability": 0.9927085041999817
+                },
+                {
+                    "word": " will",
+                    "start": 11.18,
+                    "end": 11.3,
+                    "probability": 0.9959624409675598
+                },
+                {
+                    "word": " remain",
+                    "start": 11.3,
+                    "end": 11.56,
+                    "probability": 0.8310782313346863
+                },
+                {
+                    "word": " their",
+                    "start": 11.56,
+                    "end": 11.76,
+                    "probability": 0.722400426864624
+                },
+                {
+                    "word": " observation",
+                    "start": 11.76,
+                    "end": 12.46,
+                    "probability": 0.9969459176063538
+                },
+                {
+                    "word": " overnight",
+                    "start": 12.46,
+                    "end": 12.98,
+                    "probability": 0.9772424101829529
+                },
+                {
+                    "word": " fortunately.",
+                    "start": 12.98,
+                    "end": 13.6,
+                    "probability": 0.7648070454597473
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

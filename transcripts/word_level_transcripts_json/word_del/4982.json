@@ -1,0 +1,80 @@
+{
+    "text": " the children excited about the upcoming family vacation.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.56,
+            "text": " the children excited about the upcoming family vacation.",
+            "tokens": [
+                50364,
+                264,
+                2227,
+                2919,
+                466,
+                264,
+                11500,
+                1605,
+                12830,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32415950298309326,
+            "compression_ratio": 0.9032258064516129,
+            "no_speech_prob": 0.005350231658667326,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.46877843141555786
+                },
+                {
+                    "word": " children",
+                    "start": 0.12,
+                    "end": 0.4,
+                    "probability": 0.9087114334106445
+                },
+                {
+                    "word": " excited",
+                    "start": 0.4,
+                    "end": 0.78,
+                    "probability": 0.9760348796844482
+                },
+                {
+                    "word": " about",
+                    "start": 0.78,
+                    "end": 1.1,
+                    "probability": 0.9978703260421753
+                },
+                {
+                    "word": " the",
+                    "start": 1.1,
+                    "end": 1.32,
+                    "probability": 0.9923174381256104
+                },
+                {
+                    "word": " upcoming",
+                    "start": 1.32,
+                    "end": 1.62,
+                    "probability": 0.9909582138061523
+                },
+                {
+                    "word": " family",
+                    "start": 1.62,
+                    "end": 2.08,
+                    "probability": 0.9013726115226746
+                },
+                {
+                    "word": " vacation.",
+                    "start": 2.08,
+                    "end": 2.56,
+                    "probability": 0.9919068813323975
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

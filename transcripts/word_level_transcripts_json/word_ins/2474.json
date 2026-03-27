@@ -1,0 +1,113 @@
+{
+    "text": " Can we reschedule the meeting for next you know? Week",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.92,
+            "text": " Can we reschedule the meeting for next you know?",
+            "tokens": [
+                50364,
+                1664,
+                321,
+                725,
+                19318,
+                2271,
+                264,
+                3440,
+                337,
+                958,
+                291,
+                458,
+                30,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42036671108669704,
+            "compression_ratio": 0.8688524590163934,
+            "no_speech_prob": 0.05087047442793846,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.72,
+                    "probability": 0.7844250798225403
+                },
+                {
+                    "word": " we",
+                    "start": 0.72,
+                    "end": 0.9,
+                    "probability": 0.9934879541397095
+                },
+                {
+                    "word": " reschedule",
+                    "start": 0.9,
+                    "end": 1.54,
+                    "probability": 0.9532883564631144
+                },
+                {
+                    "word": " the",
+                    "start": 1.54,
+                    "end": 1.72,
+                    "probability": 0.9954264760017395
+                },
+                {
+                    "word": " meeting",
+                    "start": 1.72,
+                    "end": 1.96,
+                    "probability": 0.987694501876831
+                },
+                {
+                    "word": " for",
+                    "start": 1.96,
+                    "end": 2.22,
+                    "probability": 0.9980236291885376
+                },
+                {
+                    "word": " next",
+                    "start": 2.22,
+                    "end": 2.44,
+                    "probability": 0.9137067198753357
+                },
+                {
+                    "word": " you",
+                    "start": 2.44,
+                    "end": 2.7,
+                    "probability": 0.8276166319847107
+                },
+                {
+                    "word": " know?",
+                    "start": 2.7,
+                    "end": 2.92,
+                    "probability": 0.9110537767410278
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.52,
+            "end": 3.74,
+            "text": " Week",
+            "tokens": [
+                50544,
+                12615,
+                50569
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42036671108669704,
+            "compression_ratio": 0.8688524590163934,
+            "no_speech_prob": 0.05087047442793846,
+            "words": [
+                {
+                    "word": " Week",
+                    "start": 3.52,
+                    "end": 3.74,
+                    "probability": 0.5678233504295349
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

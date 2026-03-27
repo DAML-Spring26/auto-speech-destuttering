@@ -1,0 +1,81 @@
+{
+    "text": " What are the like, symptoms of this condition?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.52,
+            "text": " What are the like, symptoms of this condition?",
+            "tokens": [
+                50364,
+                708,
+                366,
+                264,
+                411,
+                11,
+                8332,
+                295,
+                341,
+                4188,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3172782751230093,
+            "compression_ratio": 0.8679245283018868,
+            "no_speech_prob": 0.030367283150553703,
+            "words": [
+                {
+                    "word": " What",
+                    "start": 0.0,
+                    "end": 0.58,
+                    "probability": 0.8727341294288635
+                },
+                {
+                    "word": " are",
+                    "start": 0.58,
+                    "end": 0.68,
+                    "probability": 0.991933286190033
+                },
+                {
+                    "word": " the",
+                    "start": 0.68,
+                    "end": 0.8,
+                    "probability": 0.9942355751991272
+                },
+                {
+                    "word": " like,",
+                    "start": 0.8,
+                    "end": 1.06,
+                    "probability": 0.883209228515625
+                },
+                {
+                    "word": " symptoms",
+                    "start": 1.32,
+                    "end": 1.7,
+                    "probability": 0.9868637323379517
+                },
+                {
+                    "word": " of",
+                    "start": 1.7,
+                    "end": 1.96,
+                    "probability": 0.9993985891342163
+                },
+                {
+                    "word": " this",
+                    "start": 1.96,
+                    "end": 2.08,
+                    "probability": 0.9985557198524475
+                },
+                {
+                    "word": " condition?",
+                    "start": 2.08,
+                    "end": 2.52,
+                    "probability": 0.9950733780860901
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

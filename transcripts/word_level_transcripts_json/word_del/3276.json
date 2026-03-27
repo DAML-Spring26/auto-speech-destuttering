@@ -1,0 +1,94 @@
+{
+    "text": " the patient undergoing intensive physical therapy for the past month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.24,
+            "text": " the patient undergoing intensive physical therapy for the past month.",
+            "tokens": [
+                50364,
+                264,
+                4537,
+                40033,
+                18957,
+                4001,
+                9492,
+                337,
+                264,
+                1791,
+                1618,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.406855719430106,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.00543450890108943,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.4229224622249603
+                },
+                {
+                    "word": " patient",
+                    "start": 0.12,
+                    "end": 0.46,
+                    "probability": 0.9956359267234802
+                },
+                {
+                    "word": " undergoing",
+                    "start": 0.46,
+                    "end": 0.94,
+                    "probability": 0.4497455060482025
+                },
+                {
+                    "word": " intensive",
+                    "start": 0.94,
+                    "end": 1.58,
+                    "probability": 0.922408938407898
+                },
+                {
+                    "word": " physical",
+                    "start": 1.58,
+                    "end": 2.0,
+                    "probability": 0.9902976155281067
+                },
+                {
+                    "word": " therapy",
+                    "start": 2.0,
+                    "end": 2.4,
+                    "probability": 0.9950560331344604
+                },
+                {
+                    "word": " for",
+                    "start": 2.4,
+                    "end": 2.62,
+                    "probability": 0.9886670708656311
+                },
+                {
+                    "word": " the",
+                    "start": 2.62,
+                    "end": 2.7,
+                    "probability": 0.990502119064331
+                },
+                {
+                    "word": " past",
+                    "start": 2.7,
+                    "end": 2.92,
+                    "probability": 0.9981778860092163
+                },
+                {
+                    "word": " month.",
+                    "start": 2.92,
+                    "end": 3.24,
+                    "probability": 0.990956723690033
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

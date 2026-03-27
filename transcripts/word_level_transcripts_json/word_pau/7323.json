@@ -1,0 +1,102 @@
+{
+    "text": " Could you please summarize the key, take away from the meeting?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.48,
+            "text": " Could you please summarize the key, take away from the meeting?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                20858,
+                264,
+                2141,
+                11,
+                747,
+                1314,
+                490,
+                264,
+                3440,
+                30,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37251248955726624,
+            "compression_ratio": 0.9264705882352942,
+            "no_speech_prob": 0.008150526322424412,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.8914820551872253
+                },
+                {
+                    "word": " you",
+                    "start": 0.24,
+                    "end": 0.4,
+                    "probability": 0.998627781867981
+                },
+                {
+                    "word": " please",
+                    "start": 0.4,
+                    "end": 0.68,
+                    "probability": 0.9896466135978699
+                },
+                {
+                    "word": " summarize",
+                    "start": 0.68,
+                    "end": 1.22,
+                    "probability": 0.9477518796920776
+                },
+                {
+                    "word": " the",
+                    "start": 1.22,
+                    "end": 1.54,
+                    "probability": 0.9885868430137634
+                },
+                {
+                    "word": " key,",
+                    "start": 1.54,
+                    "end": 1.82,
+                    "probability": 0.9904665350914001
+                },
+                {
+                    "word": " take",
+                    "start": 2.12,
+                    "end": 3.28,
+                    "probability": 0.9101005792617798
+                },
+                {
+                    "word": " away",
+                    "start": 3.28,
+                    "end": 3.6,
+                    "probability": 0.48338583111763
+                },
+                {
+                    "word": " from",
+                    "start": 3.6,
+                    "end": 3.94,
+                    "probability": 0.9261879920959473
+                },
+                {
+                    "word": " the",
+                    "start": 3.94,
+                    "end": 4.14,
+                    "probability": 0.9956717491149902
+                },
+                {
+                    "word": " meeting?",
+                    "start": 4.14,
+                    "end": 4.48,
+                    "probability": 0.9942681789398193
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

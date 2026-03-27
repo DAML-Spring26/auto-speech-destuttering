@@ -1,0 +1,88 @@
+{
+    "text": " just finished the challenging project, feeling accomplished and relieved.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.62,
+            "text": " just finished the challenging project, feeling accomplished and relieved.",
+            "tokens": [
+                50364,
+                445,
+                4335,
+                264,
+                7595,
+                1716,
+                11,
+                2633,
+                15419,
+                293,
+                27972,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41276986258370535,
+            "compression_ratio": 1.042857142857143,
+            "no_speech_prob": 0.009120018221437931,
+            "words": [
+                {
+                    "word": " just",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.4988951086997986
+                },
+                {
+                    "word": " finished",
+                    "start": 0.18,
+                    "end": 0.58,
+                    "probability": 0.8778280019760132
+                },
+                {
+                    "word": " the",
+                    "start": 0.58,
+                    "end": 0.82,
+                    "probability": 0.6325812935829163
+                },
+                {
+                    "word": " challenging",
+                    "start": 0.82,
+                    "end": 1.2,
+                    "probability": 0.9698925018310547
+                },
+                {
+                    "word": " project,",
+                    "start": 1.2,
+                    "end": 1.94,
+                    "probability": 0.9965940117835999
+                },
+                {
+                    "word": " feeling",
+                    "start": 2.46,
+                    "end": 2.9,
+                    "probability": 0.9416940808296204
+                },
+                {
+                    "word": " accomplished",
+                    "start": 2.9,
+                    "end": 3.42,
+                    "probability": 0.9940045475959778
+                },
+                {
+                    "word": " and",
+                    "start": 3.42,
+                    "end": 3.88,
+                    "probability": 0.9316390156745911
+                },
+                {
+                    "word": " relieved.",
+                    "start": 3.88,
+                    "end": 6.62,
+                    "probability": 0.5416736006736755
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

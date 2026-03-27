@@ -1,0 +1,123 @@
+{
+    "text": " The airline announced offlights to the affected area been cancelled due to severe weather.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.66,
+            "text": " The airline announced offlights to the affected area been cancelled due to severe weather.",
+            "tokens": [
+                50364,
+                440,
+                29528,
+                7548,
+                766,
+                20827,
+                281,
+                264,
+                8028,
+                1859,
+                668,
+                25103,
+                3462,
+                281,
+                8922,
+                5503,
+                13,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34232955229909795,
+            "compression_ratio": 1.125,
+            "no_speech_prob": 0.006979684811085463,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7923479676246643
+                },
+                {
+                    "word": " airline",
+                    "start": 0.16,
+                    "end": 0.48,
+                    "probability": 0.9289936423301697
+                },
+                {
+                    "word": " announced",
+                    "start": 0.48,
+                    "end": 1.02,
+                    "probability": 0.9908336997032166
+                },
+                {
+                    "word": " offlights",
+                    "start": 1.02,
+                    "end": 1.48,
+                    "probability": 0.39253629744052887
+                },
+                {
+                    "word": " to",
+                    "start": 1.48,
+                    "end": 1.68,
+                    "probability": 0.9982169270515442
+                },
+                {
+                    "word": " the",
+                    "start": 1.68,
+                    "end": 1.8,
+                    "probability": 0.9959832429885864
+                },
+                {
+                    "word": " affected",
+                    "start": 1.8,
+                    "end": 2.12,
+                    "probability": 0.9434979557991028
+                },
+                {
+                    "word": " area",
+                    "start": 2.12,
+                    "end": 2.52,
+                    "probability": 0.9951156377792358
+                },
+                {
+                    "word": " been",
+                    "start": 2.52,
+                    "end": 2.76,
+                    "probability": 0.5818229913711548
+                },
+                {
+                    "word": " cancelled",
+                    "start": 2.76,
+                    "end": 3.14,
+                    "probability": 0.8392869830131531
+                },
+                {
+                    "word": " due",
+                    "start": 3.14,
+                    "end": 3.76,
+                    "probability": 0.9003115892410278
+                },
+                {
+                    "word": " to",
+                    "start": 3.76,
+                    "end": 3.94,
+                    "probability": 0.9986844658851624
+                },
+                {
+                    "word": " severe",
+                    "start": 3.94,
+                    "end": 4.24,
+                    "probability": 0.9928531050682068
+                },
+                {
+                    "word": " weather.",
+                    "start": 4.24,
+                    "end": 4.66,
+                    "probability": 0.9994267225265503
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

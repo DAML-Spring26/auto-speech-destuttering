@@ -1,0 +1,59 @@
+{
+    "text": " Please contact the user manual.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.7,
+            "text": " Please contact the user manual.",
+            "tokens": [
+                50364,
+                2555,
+                3385,
+                264,
+                4195,
+                9688,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3893686400519477,
+            "compression_ratio": 0.7948717948717948,
+            "no_speech_prob": 0.053355395793914795,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.64,
+                    "probability": 0.5844637155532837
+                },
+                {
+                    "word": " contact",
+                    "start": 0.64,
+                    "end": 0.94,
+                    "probability": 0.7073988318443298
+                },
+                {
+                    "word": " the",
+                    "start": 0.94,
+                    "end": 1.12,
+                    "probability": 0.8172793388366699
+                },
+                {
+                    "word": " user",
+                    "start": 1.12,
+                    "end": 1.32,
+                    "probability": 0.9509296417236328
+                },
+                {
+                    "word": " manual.",
+                    "start": 1.32,
+                    "end": 1.7,
+                    "probability": 0.9500906467437744
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

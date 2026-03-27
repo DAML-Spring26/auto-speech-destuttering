@@ -1,0 +1,103 @@
+{
+    "text": " Thank you for your patience. I'm looking into the tissue now.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.38,
+            "text": " Thank you for your patience. I'm looking into the tissue now.",
+            "tokens": [
+                50364,
+                1044,
+                291,
+                337,
+                428,
+                14826,
+                13,
+                286,
+                478,
+                1237,
+                666,
+                264,
+                12404,
+                586,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4404574843013988,
+            "compression_ratio": 0.9242424242424242,
+            "no_speech_prob": 0.0044828178361058235,
+            "words": [
+                {
+                    "word": " Thank",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.9269823431968689
+                },
+                {
+                    "word": " you",
+                    "start": 0.18,
+                    "end": 0.32,
+                    "probability": 0.9883883595466614
+                },
+                {
+                    "word": " for",
+                    "start": 0.32,
+                    "end": 0.46,
+                    "probability": 0.978871762752533
+                },
+                {
+                    "word": " your",
+                    "start": 0.46,
+                    "end": 0.56,
+                    "probability": 0.9827550053596497
+                },
+                {
+                    "word": " patience.",
+                    "start": 0.56,
+                    "end": 1.04,
+                    "probability": 0.9924295544624329
+                },
+                {
+                    "word": " I'm",
+                    "start": 1.5,
+                    "end": 1.66,
+                    "probability": 0.9054662883281708
+                },
+                {
+                    "word": " looking",
+                    "start": 1.66,
+                    "end": 1.88,
+                    "probability": 0.9799428582191467
+                },
+                {
+                    "word": " into",
+                    "start": 1.88,
+                    "end": 2.28,
+                    "probability": 0.96988445520401
+                },
+                {
+                    "word": " the",
+                    "start": 2.28,
+                    "end": 4.68,
+                    "probability": 0.2320634126663208
+                },
+                {
+                    "word": " tissue",
+                    "start": 4.68,
+                    "end": 5.14,
+                    "probability": 0.964116632938385
+                },
+                {
+                    "word": " now.",
+                    "start": 5.14,
+                    "end": 5.38,
+                    "probability": 0.9765282273292542
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

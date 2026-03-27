@@ -1,0 +1,82 @@
+{
+    "text": " When you're ready, we can begin the presentation.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.22,
+            "text": " When you're ready, we can begin the presentation.",
+            "tokens": [
+                50364,
+                1133,
+                291,
+                434,
+                1919,
+                11,
+                321,
+                393,
+                1841,
+                264,
+                5860,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30781204359872,
+            "compression_ratio": 0.8596491228070176,
+            "no_speech_prob": 0.007074202410876751,
+            "words": [
+                {
+                    "word": " When",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7140745520591736
+                },
+                {
+                    "word": " you're",
+                    "start": 0.14,
+                    "end": 0.38,
+                    "probability": 0.9253922700881958
+                },
+                {
+                    "word": " ready,",
+                    "start": 0.38,
+                    "end": 0.74,
+                    "probability": 0.9985244870185852
+                },
+                {
+                    "word": " we",
+                    "start": 1.6,
+                    "end": 4.6,
+                    "probability": 0.9642064571380615
+                },
+                {
+                    "word": " can",
+                    "start": 4.6,
+                    "end": 4.78,
+                    "probability": 0.9937134385108948
+                },
+                {
+                    "word": " begin",
+                    "start": 4.78,
+                    "end": 5.12,
+                    "probability": 0.9974000453948975
+                },
+                {
+                    "word": " the",
+                    "start": 5.12,
+                    "end": 5.32,
+                    "probability": 0.9953646659851074
+                },
+                {
+                    "word": " presentation.",
+                    "start": 5.32,
+                    "end": 6.22,
+                    "probability": 0.9956694841384888
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

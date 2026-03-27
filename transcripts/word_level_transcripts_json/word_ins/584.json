@@ -1,0 +1,108 @@
+{
+    "text": " Please fill out this medical history form before to seeing the doctor.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.64,
+            "text": " Please fill out this medical history form before to seeing the doctor.",
+            "tokens": [
+                50364,
+                2555,
+                2836,
+                484,
+                341,
+                4625,
+                2503,
+                1254,
+                949,
+                281,
+                2577,
+                264,
+                4631,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2826635241508484,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.033100515604019165,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.84,
+                    "probability": 0.7972813844680786
+                },
+                {
+                    "word": " fill",
+                    "start": 0.84,
+                    "end": 1.12,
+                    "probability": 0.9935050010681152
+                },
+                {
+                    "word": " out",
+                    "start": 1.12,
+                    "end": 1.38,
+                    "probability": 0.9945066571235657
+                },
+                {
+                    "word": " this",
+                    "start": 1.38,
+                    "end": 1.62,
+                    "probability": 0.9953578114509583
+                },
+                {
+                    "word": " medical",
+                    "start": 1.62,
+                    "end": 2.04,
+                    "probability": 0.9139617681503296
+                },
+                {
+                    "word": " history",
+                    "start": 2.04,
+                    "end": 2.46,
+                    "probability": 0.9941573143005371
+                },
+                {
+                    "word": " form",
+                    "start": 2.46,
+                    "end": 2.96,
+                    "probability": 0.9639619588851929
+                },
+                {
+                    "word": " before",
+                    "start": 2.96,
+                    "end": 3.62,
+                    "probability": 0.6819465160369873
+                },
+                {
+                    "word": " to",
+                    "start": 3.62,
+                    "end": 3.84,
+                    "probability": 0.7885787487030029
+                },
+                {
+                    "word": " seeing",
+                    "start": 3.84,
+                    "end": 4.08,
+                    "probability": 0.9780135154724121
+                },
+                {
+                    "word": " the",
+                    "start": 4.08,
+                    "end": 4.26,
+                    "probability": 0.9934846758842468
+                },
+                {
+                    "word": " doctor.",
+                    "start": 4.26,
+                    "end": 4.64,
+                    "probability": 0.9551869034767151
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

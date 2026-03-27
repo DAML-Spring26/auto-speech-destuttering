@@ -1,0 +1,81 @@
+{
+    "text": " The committee will convene to discuss budget allegations.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.46,
+            "text": " The committee will convene to discuss budget allegations.",
+            "tokens": [
+                50364,
+                440,
+                7482,
+                486,
+                7158,
+                68,
+                281,
+                2248,
+                4706,
+                29259,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38402040188129133,
+            "compression_ratio": 0.9193548387096774,
+            "no_speech_prob": 0.03281928971409798,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5744745135307312
+                },
+                {
+                    "word": " committee",
+                    "start": 0.1,
+                    "end": 0.5,
+                    "probability": 0.8434311747550964
+                },
+                {
+                    "word": " will",
+                    "start": 0.5,
+                    "end": 0.74,
+                    "probability": 0.9976085424423218
+                },
+                {
+                    "word": " convene",
+                    "start": 0.74,
+                    "end": 1.2,
+                    "probability": 0.7855653762817383
+                },
+                {
+                    "word": " to",
+                    "start": 1.2,
+                    "end": 1.26,
+                    "probability": 0.9666396379470825
+                },
+                {
+                    "word": " discuss",
+                    "start": 1.26,
+                    "end": 1.56,
+                    "probability": 0.9939613342285156
+                },
+                {
+                    "word": " budget",
+                    "start": 1.56,
+                    "end": 1.98,
+                    "probability": 0.990709662437439
+                },
+                {
+                    "word": " allegations.",
+                    "start": 1.98,
+                    "end": 2.46,
+                    "probability": 0.760986328125
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,80 @@
+{
+    "text": " the kids asking for a puppy for months.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.12,
+            "text": " the kids asking for a puppy for months.",
+            "tokens": [
+                50364,
+                264,
+                2301,
+                3365,
+                337,
+                257,
+                18196,
+                337,
+                2493,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3882639805475871,
+            "compression_ratio": 0.9069767441860465,
+            "no_speech_prob": 0.003492116928100586,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.49753591418266296
+                },
+                {
+                    "word": " kids",
+                    "start": 0.16,
+                    "end": 0.4,
+                    "probability": 0.9723905324935913
+                },
+                {
+                    "word": " asking",
+                    "start": 0.4,
+                    "end": 0.9,
+                    "probability": 0.9104043841362
+                },
+                {
+                    "word": " for",
+                    "start": 0.9,
+                    "end": 1.18,
+                    "probability": 0.9899477958679199
+                },
+                {
+                    "word": " a",
+                    "start": 1.18,
+                    "end": 1.34,
+                    "probability": 0.9477752447128296
+                },
+                {
+                    "word": " puppy",
+                    "start": 1.34,
+                    "end": 1.6,
+                    "probability": 0.9951752424240112
+                },
+                {
+                    "word": " for",
+                    "start": 1.6,
+                    "end": 1.86,
+                    "probability": 0.9940510392189026
+                },
+                {
+                    "word": " months.",
+                    "start": 1.86,
+                    "end": 2.12,
+                    "probability": 0.9963889122009277
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,59 @@
+{
+    "text": " the medication caused severe reductions.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " the medication caused severe reductions.",
+            "tokens": [
+                50364,
+                264,
+                13851,
+                7008,
+                8922,
+                40296,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6009812355041504,
+            "compression_ratio": 0.8695652173913043,
+            "no_speech_prob": 0.005155644845217466,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.473183274269104
+                },
+                {
+                    "word": " medication",
+                    "start": 0.1,
+                    "end": 0.7,
+                    "probability": 0.9726947546005249
+                },
+                {
+                    "word": " caused",
+                    "start": 0.7,
+                    "end": 1.12,
+                    "probability": 0.6868669986724854
+                },
+                {
+                    "word": " severe",
+                    "start": 1.12,
+                    "end": 1.48,
+                    "probability": 0.9899195432662964
+                },
+                {
+                    "word": " reductions.",
+                    "start": 1.48,
+                    "end": 2.0,
+                    "probability": 0.8385046124458313
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

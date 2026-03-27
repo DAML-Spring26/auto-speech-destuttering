@@ -1,0 +1,45 @@
+{
+    "text": " She is working.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.8,
+            "text": " She is working.",
+            "tokens": [
+                50364,
+                1240,
+                307,
+                1364,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5584856782640729,
+            "compression_ratio": 0.6521739130434783,
+            "no_speech_prob": 0.028635075315833092,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.88,
+                    "probability": 0.6782753467559814
+                },
+                {
+                    "word": " is",
+                    "start": 0.88,
+                    "end": 1.2,
+                    "probability": 0.9811718463897705
+                },
+                {
+                    "word": " working.",
+                    "start": 1.2,
+                    "end": 1.8,
+                    "probability": 0.3266679644584656
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

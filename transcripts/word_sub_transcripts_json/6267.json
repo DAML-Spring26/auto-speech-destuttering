@@ -1,0 +1,88 @@
+{
+    "text": " What's the estimated completion date for the construction prospect?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.28,
+            "text": " What's the estimated completion date for the construction prospect?",
+            "tokens": [
+                50364,
+                708,
+                311,
+                264,
+                14109,
+                19372,
+                4002,
+                337,
+                264,
+                6435,
+                15005,
+                30,
+                50548
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3344211918967111,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.005210870876908302,
+            "words": [
+                {
+                    "word": " What's",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.7568534910678864
+                },
+                {
+                    "word": " the",
+                    "start": 0.28,
+                    "end": 0.36,
+                    "probability": 0.9931883811950684
+                },
+                {
+                    "word": " estimated",
+                    "start": 0.36,
+                    "end": 0.84,
+                    "probability": 0.9870221018791199
+                },
+                {
+                    "word": " completion",
+                    "start": 0.84,
+                    "end": 1.42,
+                    "probability": 0.9930157661437988
+                },
+                {
+                    "word": " date",
+                    "start": 1.42,
+                    "end": 1.68,
+                    "probability": 0.9993054866790771
+                },
+                {
+                    "word": " for",
+                    "start": 1.68,
+                    "end": 1.94,
+                    "probability": 0.9927875399589539
+                },
+                {
+                    "word": " the",
+                    "start": 1.94,
+                    "end": 2.04,
+                    "probability": 0.986646294593811
+                },
+                {
+                    "word": " construction",
+                    "start": 2.04,
+                    "end": 2.66,
+                    "probability": 0.9697980880737305
+                },
+                {
+                    "word": " prospect?",
+                    "start": 2.66,
+                    "end": 3.28,
+                    "probability": 0.9940999150276184
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

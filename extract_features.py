@@ -8,10 +8,10 @@ AUDIO_ROOT = "data/word_level"
 FEATURE_DIR = "features"
 os.makedirs(FEATURE_DIR, exist_ok=True)
 
-# load train/val/test splits
+# load splits
 train_df = pd.read_csv("data/train.csv")
 val_df   = pd.read_csv("data/val.csv")
-test_df  = pd.read_csv("data/test.csv")  # optional
+test_df  = pd.read_csv("data/test.csv")
 
 folder_map = {
     "REP": "word_rep",
@@ -21,9 +21,11 @@ folder_map = {
     "SUB": "word_sub"
 }
 
-# extract MFCC
+WINDOW = 0.2
+
 def extract_features(df_split):
     features = []
+
     for _, row in df_split.iterrows():
         label_name = LABEL_NAMES[row["label"]]
         folder = folder_map[label_name]
@@ -32,19 +34,43 @@ def extract_features(df_split):
         if not os.path.exists(path):
             continue
 
-        y, sr = librosa.load(path, sr=None)
-        segment = y[int(row["start"] * sr):int(row["end"] * sr)]
+        try:
+            y, sr = librosa.load(path, sr=None)
 
-        if len(segment) < sr * 0.1:
-            continue
+            start = max(0, int((row["start"] - WINDOW) * sr))
+            end   = min(len(y), int((row["end"] + WINDOW) * sr))
 
-        mfcc = librosa.feature.mfcc(y=segment, sr=sr, n_mfcc=13)
-        mfcc_mean = np.mean(mfcc, axis=1)
+            segment = y[start:end]
 
-        features.append(np.append(mfcc_mean, row["label"]))
+            if len(segment) < sr * 0.05:
+                continue
+
+            # MFCC
+            mfcc = librosa.feature.mfcc(y=segment, sr=sr, n_mfcc=13)
+            delta = librosa.feature.delta(mfcc)
+            delta2 = librosa.feature.delta(mfcc, order=2)
+
+            feat = np.concatenate([
+                np.mean(mfcc, axis=1),
+                np.std(mfcc, axis=1),
+                np.mean(delta, axis=1),
+                np.mean(delta2, axis=1),
+            ])
+
+            # additional features
+            zcr = librosa.feature.zero_crossing_rate(segment)
+            energy = np.mean(segment ** 2)
+
+            feat = np.concatenate([feat, [np.mean(zcr), energy]])
+
+            features.append(np.append(feat, row["label"]))
+
+        except Exception as e:
+            print(f"Error processing {row['audio_id']}: {e}")
+
     return np.array(features)
 
-# extract/save features
+
 print("Extracting train features:")
 train_features = extract_features(train_df)
 np.save(os.path.join(FEATURE_DIR, "train_features.npy"), train_features)
@@ -53,4 +79,8 @@ print("Extracting validation features:")
 val_features = extract_features(val_df)
 np.save(os.path.join(FEATURE_DIR, "val_features.npy"), val_features)
 
-print("Feature extraction complete")
+print("Extracting test features:")
+test_features = extract_features(test_df)
+np.save(os.path.join(FEATURE_DIR, "test_features.npy"), test_features)
+
+print("Feature extraction complete.")

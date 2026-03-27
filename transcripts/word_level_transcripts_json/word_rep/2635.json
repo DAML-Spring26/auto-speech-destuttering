@@ -1,0 +1,52 @@
+{
+    "text": " We dance with joy.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.02,
+            "text": " We dance with joy.",
+            "tokens": [
+                50364,
+                492,
+                4489,
+                365,
+                6258,
+                13,
+                50422
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6234361529350281,
+            "compression_ratio": 0.6923076923076923,
+            "no_speech_prob": 0.010574310086667538,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6255152821540833
+                },
+                {
+                    "word": " dance",
+                    "start": 0.14,
+                    "end": 0.5,
+                    "probability": 0.4135802686214447
+                },
+                {
+                    "word": " with",
+                    "start": 0.5,
+                    "end": 0.74,
+                    "probability": 0.9929018616676331
+                },
+                {
+                    "word": " joy.",
+                    "start": 0.74,
+                    "end": 1.02,
+                    "probability": 0.4891863167285919
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

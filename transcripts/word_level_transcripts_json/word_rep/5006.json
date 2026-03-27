@@ -1,0 +1,95 @@
+{
+    "text": " The company's annual report highlights its achievement in future goals.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.5,
+            "text": " The company's annual report highlights its achievement in future goals.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                311,
+                9784,
+                2275,
+                14254,
+                1080,
+                15838,
+                294,
+                2027,
+                5493,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2990160306294759,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.006114795804023743,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7940467596054077
+                },
+                {
+                    "word": " company's",
+                    "start": 0.14,
+                    "end": 0.78,
+                    "probability": 0.9097185134887695
+                },
+                {
+                    "word": " annual",
+                    "start": 0.78,
+                    "end": 1.0,
+                    "probability": 0.9780157208442688
+                },
+                {
+                    "word": " report",
+                    "start": 1.0,
+                    "end": 1.36,
+                    "probability": 0.9884485602378845
+                },
+                {
+                    "word": " highlights",
+                    "start": 1.36,
+                    "end": 1.8,
+                    "probability": 0.9930786490440369
+                },
+                {
+                    "word": " its",
+                    "start": 1.8,
+                    "end": 2.1,
+                    "probability": 0.8805786371231079
+                },
+                {
+                    "word": " achievement",
+                    "start": 2.1,
+                    "end": 2.68,
+                    "probability": 0.7637832164764404
+                },
+                {
+                    "word": " in",
+                    "start": 2.68,
+                    "end": 2.86,
+                    "probability": 0.8732680082321167
+                },
+                {
+                    "word": " future",
+                    "start": 2.86,
+                    "end": 3.1,
+                    "probability": 0.9970113039016724
+                },
+                {
+                    "word": " goals.",
+                    "start": 3.1,
+                    "end": 3.5,
+                    "probability": 0.997546374797821
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

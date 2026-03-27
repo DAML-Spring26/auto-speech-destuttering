@@ -1,0 +1,97 @@
+{
+    "text": " the patient's condition has improved, but we're still monitoring closely.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.44,
+            "text": " the patient's condition has improved, but we're still monitoring closely.",
+            "tokens": [
+                50364,
+                264,
+                4537,
+                311,
+                4188,
+                575,
+                9689,
+                11,
+                457,
+                321,
+                434,
+                920,
+                11028,
+                8185,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36227820901309743,
+            "compression_ratio": 1.0138888888888888,
+            "no_speech_prob": 0.010311422869563103,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.4740883409976959
+                },
+                {
+                    "word": " patient's",
+                    "start": 0.14,
+                    "end": 0.68,
+                    "probability": 0.930495411157608
+                },
+                {
+                    "word": " condition",
+                    "start": 0.68,
+                    "end": 1.08,
+                    "probability": 0.9978640675544739
+                },
+                {
+                    "word": " has",
+                    "start": 1.08,
+                    "end": 1.36,
+                    "probability": 0.9486860036849976
+                },
+                {
+                    "word": " improved,",
+                    "start": 1.36,
+                    "end": 1.74,
+                    "probability": 0.9968265891075134
+                },
+                {
+                    "word": " but",
+                    "start": 2.12,
+                    "end": 2.26,
+                    "probability": 0.9967605471611023
+                },
+                {
+                    "word": " we're",
+                    "start": 2.26,
+                    "end": 4.06,
+                    "probability": 0.8934769034385681
+                },
+                {
+                    "word": " still",
+                    "start": 4.06,
+                    "end": 4.32,
+                    "probability": 0.9990890026092529
+                },
+                {
+                    "word": " monitoring",
+                    "start": 4.32,
+                    "end": 4.78,
+                    "probability": 0.8957406878471375
+                },
+                {
+                    "word": " closely.",
+                    "start": 4.78,
+                    "end": 5.44,
+                    "probability": 0.998189389705658
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

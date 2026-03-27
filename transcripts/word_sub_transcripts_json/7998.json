@@ -1,0 +1,80 @@
+{
+    "text": " We need to promote sustainable practices in agriculture.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.1,
+            "text": " We need to promote sustainable practices in agriculture.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                9773,
+                11235,
+                7525,
+                294,
+                14837,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37374258041381836,
+            "compression_ratio": 0.9333333333333333,
+            "no_speech_prob": 0.002775949891656637,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6032354831695557
+                },
+                {
+                    "word": " need",
+                    "start": 0.12,
+                    "end": 0.24,
+                    "probability": 0.99870765209198
+                },
+                {
+                    "word": " to",
+                    "start": 0.24,
+                    "end": 0.4,
+                    "probability": 0.9965276122093201
+                },
+                {
+                    "word": " promote",
+                    "start": 0.4,
+                    "end": 0.64,
+                    "probability": 0.6529234647750854
+                },
+                {
+                    "word": " sustainable",
+                    "start": 0.64,
+                    "end": 1.1,
+                    "probability": 0.9934471249580383
+                },
+                {
+                    "word": " practices",
+                    "start": 1.1,
+                    "end": 2.0,
+                    "probability": 0.9527799487113953
+                },
+                {
+                    "word": " in",
+                    "start": 2.0,
+                    "end": 2.58,
+                    "probability": 0.9865102171897888
+                },
+                {
+                    "word": " agriculture.",
+                    "start": 2.58,
+                    "end": 3.1,
+                    "probability": 0.989309549331665
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

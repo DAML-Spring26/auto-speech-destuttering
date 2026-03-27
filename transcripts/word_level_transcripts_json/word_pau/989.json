@@ -1,0 +1,94 @@
+{
+    "text": " The company is investing in employee training and development programs.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 8.24,
+            "text": " The company is investing in employee training and development programs.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                307,
+                10978,
+                294,
+                10738,
+                3097,
+                293,
+                3250,
+                4268,
+                13,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33193118231637136,
+            "compression_ratio": 1.0142857142857142,
+            "no_speech_prob": 0.007463440299034119,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7860447764396667
+                },
+                {
+                    "word": " company",
+                    "start": 0.12,
+                    "end": 0.54,
+                    "probability": 0.9912494421005249
+                },
+                {
+                    "word": " is",
+                    "start": 0.54,
+                    "end": 0.96,
+                    "probability": 0.9970687031745911
+                },
+                {
+                    "word": " investing",
+                    "start": 0.96,
+                    "end": 1.66,
+                    "probability": 0.997249186038971
+                },
+                {
+                    "word": " in",
+                    "start": 1.66,
+                    "end": 1.98,
+                    "probability": 0.9980260133743286
+                },
+                {
+                    "word": " employee",
+                    "start": 1.98,
+                    "end": 2.34,
+                    "probability": 0.9886471629142761
+                },
+                {
+                    "word": " training",
+                    "start": 2.34,
+                    "end": 2.84,
+                    "probability": 0.993921160697937
+                },
+                {
+                    "word": " and",
+                    "start": 2.84,
+                    "end": 3.34,
+                    "probability": 0.979346513748169
+                },
+                {
+                    "word": " development",
+                    "start": 3.34,
+                    "end": 7.46,
+                    "probability": 0.7530069947242737
+                },
+                {
+                    "word": " programs.",
+                    "start": 7.46,
+                    "end": 8.24,
+                    "probability": 0.6771749258041382
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

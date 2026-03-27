@@ -1,0 +1,94 @@
+{
+    "text": " The chef created a fusion of Eastern and Western machines.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.84,
+            "text": " The chef created a fusion of Eastern and Western machines.",
+            "tokens": [
+                50364,
+                440,
+                10530,
+                2942,
+                257,
+                23100,
+                295,
+                12901,
+                293,
+                8724,
+                8379,
+                13,
+                50572
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31608360154288156,
+            "compression_ratio": 0.9508196721311475,
+            "no_speech_prob": 0.0029894134495407343,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7934865951538086
+                },
+                {
+                    "word": " chef",
+                    "start": 0.12,
+                    "end": 0.38,
+                    "probability": 0.8083677887916565
+                },
+                {
+                    "word": " created",
+                    "start": 0.38,
+                    "end": 1.02,
+                    "probability": 0.9938021898269653
+                },
+                {
+                    "word": " a",
+                    "start": 1.02,
+                    "end": 1.2,
+                    "probability": 0.9725642800331116
+                },
+                {
+                    "word": " fusion",
+                    "start": 1.2,
+                    "end": 1.64,
+                    "probability": 0.9929050803184509
+                },
+                {
+                    "word": " of",
+                    "start": 1.64,
+                    "end": 2.0,
+                    "probability": 0.9973202347755432
+                },
+                {
+                    "word": " Eastern",
+                    "start": 2.0,
+                    "end": 2.44,
+                    "probability": 0.5259070992469788
+                },
+                {
+                    "word": " and",
+                    "start": 2.44,
+                    "end": 2.7,
+                    "probability": 0.9828973412513733
+                },
+                {
+                    "word": " Western",
+                    "start": 2.7,
+                    "end": 3.14,
+                    "probability": 0.937374472618103
+                },
+                {
+                    "word": " machines.",
+                    "start": 3.14,
+                    "end": 3.84,
+                    "probability": 0.9594200849533081
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,68 @@
+{
+    "text": " She's she bicked cookies for us.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.76,
+            "text": " She's she bicked cookies for us.",
+            "tokens": [
+                50364,
+                1240,
+                311,
+                750,
+                272,
+                12598,
+                13670,
+                337,
+                505,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.591989795366923,
+            "compression_ratio": 0.8,
+            "no_speech_prob": 0.016539640724658966,
+            "words": [
+                {
+                    "word": " She's",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.2928940877318382
+                },
+                {
+                    "word": " she",
+                    "start": 0.38,
+                    "end": 0.5,
+                    "probability": 0.3981773257255554
+                },
+                {
+                    "word": " bicked",
+                    "start": 0.5,
+                    "end": 0.78,
+                    "probability": 0.7052896618843079
+                },
+                {
+                    "word": " cookies",
+                    "start": 0.78,
+                    "end": 1.06,
+                    "probability": 0.9931841492652893
+                },
+                {
+                    "word": " for",
+                    "start": 1.06,
+                    "end": 1.42,
+                    "probability": 0.9981080293655396
+                },
+                {
+                    "word": " us.",
+                    "start": 1.42,
+                    "end": 1.76,
+                    "probability": 0.9981178045272827
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

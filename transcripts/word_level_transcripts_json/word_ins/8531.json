@@ -1,0 +1,91 @@
+{
+    "text": " We're thinking of remodeling the kitchen like. Next spring.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.2,
+            "text": " We're thinking of remodeling the kitchen like. Next spring.",
+            "tokens": [
+                50364,
+                492,
+                434,
+                1953,
+                295,
+                890,
+                378,
+                11031,
+                264,
+                6525,
+                411,
+                13,
+                3087,
+                5587,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4160345301908605,
+            "compression_ratio": 0.9365079365079365,
+            "no_speech_prob": 0.06299569457769394,
+            "words": [
+                {
+                    "word": " We're",
+                    "start": 0.0,
+                    "end": 1.08,
+                    "probability": 0.9008584320545197
+                },
+                {
+                    "word": " thinking",
+                    "start": 1.08,
+                    "end": 1.36,
+                    "probability": 0.9974467754364014
+                },
+                {
+                    "word": " of",
+                    "start": 1.36,
+                    "end": 1.6,
+                    "probability": 0.997905969619751
+                },
+                {
+                    "word": " remodeling",
+                    "start": 1.6,
+                    "end": 2.1,
+                    "probability": 0.9765081206957499
+                },
+                {
+                    "word": " the",
+                    "start": 2.1,
+                    "end": 2.32,
+                    "probability": 0.9972833395004272
+                },
+                {
+                    "word": " kitchen",
+                    "start": 2.32,
+                    "end": 2.62,
+                    "probability": 0.9881508350372314
+                },
+                {
+                    "word": " like.",
+                    "start": 2.62,
+                    "end": 2.9,
+                    "probability": 0.9391474723815918
+                },
+                {
+                    "word": " Next",
+                    "start": 3.56,
+                    "end": 3.84,
+                    "probability": 0.9656822085380554
+                },
+                {
+                    "word": " spring.",
+                    "start": 3.84,
+                    "end": 4.2,
+                    "probability": 0.8905967473983765
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

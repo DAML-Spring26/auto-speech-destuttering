@@ -1,0 +1,104 @@
+{
+    "text": " The research has published their findings in the peer-reviewed journal.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.0,
+            "text": " The research has published their findings in the peer-reviewed journal.",
+            "tokens": [
+                50364,
+                440,
+                2132,
+                575,
+                6572,
+                641,
+                16483,
+                294,
+                264,
+                15108,
+                12,
+                265,
+                1759,
+                292,
+                6708,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31864190101623535,
+            "compression_ratio": 1.0142857142857142,
+            "no_speech_prob": 0.00459661241620779,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.878067672252655
+                },
+                {
+                    "word": " research",
+                    "start": 0.1,
+                    "end": 0.5,
+                    "probability": 0.9669443964958191
+                },
+                {
+                    "word": " has",
+                    "start": 0.5,
+                    "end": 0.76,
+                    "probability": 0.9505059719085693
+                },
+                {
+                    "word": " published",
+                    "start": 0.76,
+                    "end": 1.04,
+                    "probability": 0.9944327473640442
+                },
+                {
+                    "word": " their",
+                    "start": 1.04,
+                    "end": 1.3,
+                    "probability": 0.7463929653167725
+                },
+                {
+                    "word": " findings",
+                    "start": 1.3,
+                    "end": 1.7,
+                    "probability": 0.9970415234565735
+                },
+                {
+                    "word": " in",
+                    "start": 1.7,
+                    "end": 1.98,
+                    "probability": 0.8944091796875
+                },
+                {
+                    "word": " the",
+                    "start": 1.98,
+                    "end": 2.08,
+                    "probability": 0.6003947257995605
+                },
+                {
+                    "word": " peer",
+                    "start": 2.08,
+                    "end": 2.3,
+                    "probability": 0.8249126076698303
+                },
+                {
+                    "word": "-reviewed",
+                    "start": 2.3,
+                    "end": 2.72,
+                    "probability": 0.8139923736453056
+                },
+                {
+                    "word": " journal.",
+                    "start": 2.72,
+                    "end": 3.0,
+                    "probability": 0.978099524974823
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

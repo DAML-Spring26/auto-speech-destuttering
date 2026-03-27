@@ -1,0 +1,101 @@
+{
+    "text": " is important to take your medication as prescribed by your doctor.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.5,
+            "text": " is important to take your medication as prescribed by your doctor.",
+            "tokens": [
+                50364,
+                307,
+                1021,
+                281,
+                747,
+                428,
+                13851,
+                382,
+                29099,
+                538,
+                428,
+                4631,
+                13,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32921053568522135,
+            "compression_ratio": 1.03125,
+            "no_speech_prob": 0.010333617217838764,
+            "words": [
+                {
+                    "word": " is",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.5005637407302856
+                },
+                {
+                    "word": " important",
+                    "start": 0.22,
+                    "end": 0.86,
+                    "probability": 0.9943311214447021
+                },
+                {
+                    "word": " to",
+                    "start": 0.86,
+                    "end": 1.14,
+                    "probability": 0.9945939183235168
+                },
+                {
+                    "word": " take",
+                    "start": 1.14,
+                    "end": 1.34,
+                    "probability": 0.9969122409820557
+                },
+                {
+                    "word": " your",
+                    "start": 1.34,
+                    "end": 1.54,
+                    "probability": 0.9929381012916565
+                },
+                {
+                    "word": " medication",
+                    "start": 1.54,
+                    "end": 2.3,
+                    "probability": 0.9942502975463867
+                },
+                {
+                    "word": " as",
+                    "start": 2.3,
+                    "end": 2.76,
+                    "probability": 0.9788199067115784
+                },
+                {
+                    "word": " prescribed",
+                    "start": 2.76,
+                    "end": 3.52,
+                    "probability": 0.996591329574585
+                },
+                {
+                    "word": " by",
+                    "start": 3.52,
+                    "end": 3.88,
+                    "probability": 0.9955102205276489
+                },
+                {
+                    "word": " your",
+                    "start": 3.88,
+                    "end": 4.06,
+                    "probability": 0.9847899079322815
+                },
+                {
+                    "word": " doctor.",
+                    "start": 4.06,
+                    "end": 4.5,
+                    "probability": 0.9918586611747742
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

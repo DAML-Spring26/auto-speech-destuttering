@@ -1,0 +1,60 @@
+{
+    "text": " Students must submit their disposals.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.36,
+            "text": " Students must submit their disposals.",
+            "tokens": [
+                50364,
+                17244,
+                1633,
+                10315,
+                641,
+                15885,
+                1124,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5666633605957031,
+            "compression_ratio": 0.8222222222222222,
+            "no_speech_prob": 0.05315765365958214,
+            "words": [
+                {
+                    "word": " Students",
+                    "start": 0.0,
+                    "end": 0.76,
+                    "probability": 0.7167873382568359
+                },
+                {
+                    "word": " must",
+                    "start": 0.76,
+                    "end": 1.02,
+                    "probability": 0.9963878393173218
+                },
+                {
+                    "word": " submit",
+                    "start": 1.02,
+                    "end": 1.34,
+                    "probability": 0.9984949827194214
+                },
+                {
+                    "word": " their",
+                    "start": 1.34,
+                    "end": 1.54,
+                    "probability": 0.9976783394813538
+                },
+                {
+                    "word": " disposals.",
+                    "start": 1.54,
+                    "end": 2.36,
+                    "probability": 0.6303906142711639
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

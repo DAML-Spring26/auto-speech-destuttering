@@ -1,0 +1,60 @@
+{
+    "text": " The restaurant serves freshly-fed.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.98,
+            "text": " The restaurant serves freshly-fed.",
+            "tokens": [
+                50364,
+                440,
+                6383,
+                13451,
+                34412,
+                12,
+                33712,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6163153648376465,
+            "compression_ratio": 0.8292682926829268,
+            "no_speech_prob": 0.007639356888830662,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.690059244632721
+                },
+                {
+                    "word": " restaurant",
+                    "start": 0.14,
+                    "end": 0.56,
+                    "probability": 0.7095394730567932
+                },
+                {
+                    "word": " serves",
+                    "start": 0.56,
+                    "end": 1.1,
+                    "probability": 0.9702540636062622
+                },
+                {
+                    "word": " freshly",
+                    "start": 1.1,
+                    "end": 1.54,
+                    "probability": 0.9643879532814026
+                },
+                {
+                    "word": "-fed.",
+                    "start": 1.54,
+                    "end": 1.98,
+                    "probability": 0.3749634176492691
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,59 @@
+{
+    "text": " The program requires special draining.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.3,
+            "text": " The program requires special draining.",
+            "tokens": [
+                50364,
+                440,
+                1461,
+                7029,
+                2121,
+                42916,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5164540078904893,
+            "compression_ratio": 0.8260869565217391,
+            "no_speech_prob": 0.005285903345793486,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7615166306495667
+                },
+                {
+                    "word": " program",
+                    "start": 0.12,
+                    "end": 0.5,
+                    "probability": 0.9841389060020447
+                },
+                {
+                    "word": " requires",
+                    "start": 0.5,
+                    "end": 1.16,
+                    "probability": 0.9878182411193848
+                },
+                {
+                    "word": " special",
+                    "start": 1.16,
+                    "end": 1.76,
+                    "probability": 0.9829171299934387
+                },
+                {
+                    "word": " draining.",
+                    "start": 1.76,
+                    "end": 2.3,
+                    "probability": 0.7957123517990112
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

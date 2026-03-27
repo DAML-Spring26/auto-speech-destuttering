@@ -1,47 +1,26 @@
 {
-    "text": " I can't believe how. Many likes my pose got.",
+    "text": " Oh, a pose got.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 2.88,
-            "text": " I can't believe how.",
+            "end": 2.0,
+            "text": " Oh, a pose got.",
             "tokens": [
                 50364,
-                286,
-                393,
-                380,
-                1697,
-                577,
-                13,
-                50508
-            ],
-            "temperature": 0.0,
-            "avg_logprob": -0.5487342161290786,
-            "compression_ratio": 0.8461538461538461,
-            "no_speech_prob": 0.016680775210261345
-        },
-        {
-            "id": 1,
-            "seek": 0,
-            "start": 2.88,
-            "end": 4.24,
-            "text": " Many likes my pose got.",
-            "tokens": [
-                50508,
-                5126,
-                5902,
-                452,
+                876,
+                11,
+                257,
                 10774,
                 658,
                 13,
-                50576
+                50464
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.5487342161290786,
-            "compression_ratio": 0.8461538461538461,
-            "no_speech_prob": 0.016680775210261345
+            "avg_logprob": -0.9454313913981119,
+            "compression_ratio": 0.6521739130434783,
+            "no_speech_prob": 0.27656400203704834
         }
     ],
     "language": "en"

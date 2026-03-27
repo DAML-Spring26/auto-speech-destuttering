@@ -1,0 +1,80 @@
+{
+    "text": " Can you please pass the salt and pepper?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.26,
+            "text": " Can you please pass the salt and pepper?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                1767,
+                1320,
+                264,
+                5139,
+                293,
+                8532,
+                30,
+                50589
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4924345413843791,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.00633664894849062,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.6275982856750488
+                },
+                {
+                    "word": " you",
+                    "start": 0.18,
+                    "end": 0.34,
+                    "probability": 0.9944668412208557
+                },
+                {
+                    "word": " please",
+                    "start": 0.34,
+                    "end": 0.64,
+                    "probability": 0.9958849549293518
+                },
+                {
+                    "word": " pass",
+                    "start": 0.64,
+                    "end": 1.18,
+                    "probability": 0.9933050274848938
+                },
+                {
+                    "word": " the",
+                    "start": 1.18,
+                    "end": 3.38,
+                    "probability": 0.6056659817695618
+                },
+                {
+                    "word": " salt",
+                    "start": 3.38,
+                    "end": 3.7,
+                    "probability": 0.5255277752876282
+                },
+                {
+                    "word": " and",
+                    "start": 3.7,
+                    "end": 3.92,
+                    "probability": 0.9610376358032227
+                },
+                {
+                    "word": " pepper?",
+                    "start": 3.92,
+                    "end": 4.26,
+                    "probability": 0.9959650039672852
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

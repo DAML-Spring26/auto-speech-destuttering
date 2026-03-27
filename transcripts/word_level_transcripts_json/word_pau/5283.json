@@ -1,0 +1,121 @@
+{
+    "text": " The new AI model can... ...present natural language with high accuracy.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " The new AI model can...",
+            "tokens": [
+                50364,
+                440,
+                777,
+                7318,
+                2316,
+                393,
+                485,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6572714805603027,
+            "compression_ratio": 0.9726027397260274,
+            "no_speech_prob": 0.010886630043387413,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7138267159461975
+                },
+                {
+                    "word": " new",
+                    "start": 0.16,
+                    "end": 0.38,
+                    "probability": 0.8726392984390259
+                },
+                {
+                    "word": " AI",
+                    "start": 0.38,
+                    "end": 0.64,
+                    "probability": 0.9702099561691284
+                },
+                {
+                    "word": " model",
+                    "start": 0.64,
+                    "end": 1.0,
+                    "probability": 0.9847391843795776
+                },
+                {
+                    "word": " can...",
+                    "start": 1.0,
+                    "end": 2.0,
+                    "probability": 0.6178025007247925
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.46,
+            "end": 6.74,
+            "text": " ...present natural language with high accuracy.",
+            "tokens": [
+                50587,
+                1097,
+                79,
+                11662,
+                3303,
+                2856,
+                365,
+                1090,
+                14170,
+                13,
+                50717
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6572714805603027,
+            "compression_ratio": 0.9726027397260274,
+            "no_speech_prob": 0.010886630043387413,
+            "words": [
+                {
+                    "word": " ...present",
+                    "start": 4.34,
+                    "end": 4.72,
+                    "probability": 0.4769278069337209
+                },
+                {
+                    "word": " natural",
+                    "start": 4.72,
+                    "end": 5.34,
+                    "probability": 0.9803084135055542
+                },
+                {
+                    "word": " language",
+                    "start": 5.34,
+                    "end": 5.74,
+                    "probability": 0.9939965009689331
+                },
+                {
+                    "word": " with",
+                    "start": 5.74,
+                    "end": 6.04,
+                    "probability": 0.9884915351867676
+                },
+                {
+                    "word": " high",
+                    "start": 6.04,
+                    "end": 6.18,
+                    "probability": 0.47166386246681213
+                },
+                {
+                    "word": " accuracy.",
+                    "start": 6.18,
+                    "end": 6.74,
+                    "probability": 0.9759359955787659
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

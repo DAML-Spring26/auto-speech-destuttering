@@ -1,0 +1,80 @@
+{
+    "text": " Can you please submit your assignment by Friday?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.36,
+            "text": " Can you please submit your assignment by Friday?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                1767,
+                10315,
+                428,
+                15187,
+                538,
+                6984,
+                30,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3336724042892456,
+            "compression_ratio": 0.8888888888888888,
+            "no_speech_prob": 0.012807311490178108,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7498732805252075
+                },
+                {
+                    "word": " you",
+                    "start": 0.12,
+                    "end": 0.24,
+                    "probability": 0.994122326374054
+                },
+                {
+                    "word": " please",
+                    "start": 0.24,
+                    "end": 0.68,
+                    "probability": 0.9918087124824524
+                },
+                {
+                    "word": " submit",
+                    "start": 0.68,
+                    "end": 1.06,
+                    "probability": 0.9890123605728149
+                },
+                {
+                    "word": " your",
+                    "start": 1.06,
+                    "end": 3.84,
+                    "probability": 0.9081853032112122
+                },
+                {
+                    "word": " assignment",
+                    "start": 3.84,
+                    "end": 4.46,
+                    "probability": 0.9757834076881409
+                },
+                {
+                    "word": " by",
+                    "start": 4.46,
+                    "end": 4.8,
+                    "probability": 0.9846034646034241
+                },
+                {
+                    "word": " Friday?",
+                    "start": 4.8,
+                    "end": 5.36,
+                    "probability": 0.9756556153297424
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

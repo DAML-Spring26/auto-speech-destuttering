@@ -1,0 +1,113 @@
+{
+    "text": " Honey, can you pick up? Milk on your way home.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.24,
+            "text": " Honey, can you pick up?",
+            "tokens": [
+                50364,
+                16187,
+                11,
+                393,
+                291,
+                1888,
+                493,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4549269676208496,
+            "compression_ratio": 0.9019607843137255,
+            "no_speech_prob": 0.01569272018969059,
+            "words": [
+                {
+                    "word": " Honey,",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.3476460874080658
+                },
+                {
+                    "word": " can",
+                    "start": 0.54,
+                    "end": 0.64,
+                    "probability": 0.956365168094635
+                },
+                {
+                    "word": " you",
+                    "start": 0.64,
+                    "end": 0.74,
+                    "probability": 0.9953030347824097
+                },
+                {
+                    "word": " pick",
+                    "start": 0.74,
+                    "end": 0.94,
+                    "probability": 0.9962856769561768
+                },
+                {
+                    "word": " up?",
+                    "start": 0.94,
+                    "end": 1.24,
+                    "probability": 0.9972098469734192
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.12,
+            "end": 4.22,
+            "text": " Milk on your way home.",
+            "tokens": [
+                50514,
+                26986,
+                322,
+                428,
+                636,
+                1280,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4549269676208496,
+            "compression_ratio": 0.9019607843137255,
+            "no_speech_prob": 0.01569272018969059,
+            "words": [
+                {
+                    "word": " Milk",
+                    "start": 3.12,
+                    "end": 3.4,
+                    "probability": 0.8884655237197876
+                },
+                {
+                    "word": " on",
+                    "start": 3.4,
+                    "end": 3.56,
+                    "probability": 0.9946194887161255
+                },
+                {
+                    "word": " your",
+                    "start": 3.56,
+                    "end": 3.68,
+                    "probability": 0.9689180850982666
+                },
+                {
+                    "word": " way",
+                    "start": 3.68,
+                    "end": 3.88,
+                    "probability": 0.9957765936851501
+                },
+                {
+                    "word": " home.",
+                    "start": 3.88,
+                    "end": 4.22,
+                    "probability": 0.9992164373397827
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

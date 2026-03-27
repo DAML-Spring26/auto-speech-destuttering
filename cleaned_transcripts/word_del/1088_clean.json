@@ -1,16 +1,16 @@
 {
-    "text": " The teachers explained the concept, the students still didn't understand.",
+    "text": " The teacher explained the concept, the students still and...",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 4.8,
-            "text": " The teachers explained the concept, the students still didn't understand.",
+            "end": 4.0,
+            "text": " The teacher explained the concept, the students still and...",
             "tokens": [
                 50364,
                 440,
-                6023,
+                5027,
                 8825,
                 264,
                 3410,
@@ -18,16 +18,14 @@
                 264,
                 1731,
                 920,
-                994,
-                380,
-                1223,
-                13,
-                50604
+                293,
+                485,
+                50564
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.34228628873825073,
-            "compression_ratio": 1.0138888888888888,
-            "no_speech_prob": 0.004865341354161501
+            "avg_logprob": -0.5453141757420131,
+            "compression_ratio": 0.967741935483871,
+            "no_speech_prob": 0.0061887637712061405
         }
     ],
     "language": "en"

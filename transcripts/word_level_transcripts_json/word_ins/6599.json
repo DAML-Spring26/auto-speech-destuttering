@@ -1,0 +1,80 @@
+{
+    "text": " Just posted like a new selfie on Instagram.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.48,
+            "text": " Just posted like a new selfie on Instagram.",
+            "tokens": [
+                50364,
+                1449,
+                9437,
+                411,
+                257,
+                777,
+                22147,
+                322,
+                5281,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.44380279382069904,
+            "compression_ratio": 0.8431372549019608,
+            "no_speech_prob": 0.14200997352600098,
+            "words": [
+                {
+                    "word": " Just",
+                    "start": 0.0,
+                    "end": 1.24,
+                    "probability": 0.7936177849769592
+                },
+                {
+                    "word": " posted",
+                    "start": 1.24,
+                    "end": 1.68,
+                    "probability": 0.9258664846420288
+                },
+                {
+                    "word": " like",
+                    "start": 1.68,
+                    "end": 1.98,
+                    "probability": 0.8052312731742859
+                },
+                {
+                    "word": " a",
+                    "start": 1.98,
+                    "end": 2.9,
+                    "probability": 0.6166638731956482
+                },
+                {
+                    "word": " new",
+                    "start": 2.9,
+                    "end": 3.2,
+                    "probability": 0.9507062435150146
+                },
+                {
+                    "word": " selfie",
+                    "start": 3.2,
+                    "end": 3.7,
+                    "probability": 0.9531744122505188
+                },
+                {
+                    "word": " on",
+                    "start": 3.7,
+                    "end": 3.94,
+                    "probability": 0.9971471428871155
+                },
+                {
+                    "word": " Instagram.",
+                    "start": 3.94,
+                    "end": 4.48,
+                    "probability": 0.9137347936630249
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

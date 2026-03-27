@@ -1,0 +1,73 @@
+{
+    "text": " The fight reflected off the smooth surface.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.88,
+            "text": " The fight reflected off the smooth surface.",
+            "tokens": [
+                50364,
+                440,
+                2092,
+                15502,
+                766,
+                264,
+                5508,
+                3753,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35813164710998535,
+            "compression_ratio": 0.86,
+            "no_speech_prob": 0.004676143638789654,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5955918431282043
+                },
+                {
+                    "word": " fight",
+                    "start": 0.12,
+                    "end": 0.38,
+                    "probability": 0.8351146578788757
+                },
+                {
+                    "word": " reflected",
+                    "start": 0.38,
+                    "end": 0.86,
+                    "probability": 0.9894786477088928
+                },
+                {
+                    "word": " off",
+                    "start": 0.86,
+                    "end": 1.06,
+                    "probability": 0.9677318930625916
+                },
+                {
+                    "word": " the",
+                    "start": 1.06,
+                    "end": 1.22,
+                    "probability": 0.9722055196762085
+                },
+                {
+                    "word": " smooth",
+                    "start": 1.22,
+                    "end": 1.42,
+                    "probability": 0.987206220626831
+                },
+                {
+                    "word": " surface.",
+                    "start": 1.42,
+                    "end": 1.88,
+                    "probability": 0.9971469044685364
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

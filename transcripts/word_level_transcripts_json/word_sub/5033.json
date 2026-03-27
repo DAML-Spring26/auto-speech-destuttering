@@ -1,0 +1,68 @@
+{
+    "text": " The actor's performance was truly captivating.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.64,
+            "text": " The actor's performance was truly captivating.",
+            "tokens": [
+                50364,
+                440,
+                8747,
+                311,
+                3389,
+                390,
+                4908,
+                40769,
+                990,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4366749127705892,
+            "compression_ratio": 0.8518518518518519,
+            "no_speech_prob": 0.003492442425340414,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.52016282081604
+                },
+                {
+                    "word": " actor's",
+                    "start": 0.12,
+                    "end": 0.74,
+                    "probability": 0.9278399050235748
+                },
+                {
+                    "word": " performance",
+                    "start": 0.74,
+                    "end": 1.22,
+                    "probability": 0.9971119165420532
+                },
+                {
+                    "word": " was",
+                    "start": 1.22,
+                    "end": 1.58,
+                    "probability": 0.996556282043457
+                },
+                {
+                    "word": " truly",
+                    "start": 1.58,
+                    "end": 1.94,
+                    "probability": 0.9974095225334167
+                },
+                {
+                    "word": " captivating.",
+                    "start": 1.94,
+                    "end": 2.64,
+                    "probability": 0.6588371247053146
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

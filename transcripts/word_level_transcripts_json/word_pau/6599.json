@@ -1,0 +1,88 @@
+{
+    "text": " I'm thinking of buying a new car next month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.06,
+            "text": " I'm thinking of buying a new car next month.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                1953,
+                295,
+                6382,
+                257,
+                777,
+                1032,
+                958,
+                1618,
+                13,
+                50676
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42499797684805735,
+            "compression_ratio": 0.9166666666666666,
+            "no_speech_prob": 0.008982016704976559,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.817585289478302
+                },
+                {
+                    "word": " thinking",
+                    "start": 0.28,
+                    "end": 0.6,
+                    "probability": 0.9932765960693359
+                },
+                {
+                    "word": " of",
+                    "start": 0.6,
+                    "end": 0.88,
+                    "probability": 0.976435124874115
+                },
+                {
+                    "word": " buying",
+                    "start": 0.88,
+                    "end": 1.2,
+                    "probability": 0.9811679124832153
+                },
+                {
+                    "word": " a",
+                    "start": 1.2,
+                    "end": 5.02,
+                    "probability": 0.7091761827468872
+                },
+                {
+                    "word": " new",
+                    "start": 5.02,
+                    "end": 5.18,
+                    "probability": 0.9545198678970337
+                },
+                {
+                    "word": " car",
+                    "start": 5.18,
+                    "end": 5.4,
+                    "probability": 0.9458543062210083
+                },
+                {
+                    "word": " next",
+                    "start": 5.4,
+                    "end": 5.7,
+                    "probability": 0.9935961961746216
+                },
+                {
+                    "word": " month.",
+                    "start": 5.7,
+                    "end": 6.06,
+                    "probability": 0.9975505471229553
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

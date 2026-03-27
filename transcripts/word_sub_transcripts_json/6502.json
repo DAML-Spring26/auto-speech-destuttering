@@ -1,0 +1,84 @@
+{
+    "text": " The astrophysicist calculated the trajectory of the comet.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.78,
+            "text": " The astrophysicist calculated the trajectory of the comet.",
+            "tokens": [
+                50364,
+                440,
+                5357,
+                11741,
+                749,
+                299,
+                468,
+                15598,
+                264,
+                21512,
+                295,
+                264,
+                33696,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3014201521873474,
+            "compression_ratio": 0.9508196721311475,
+            "no_speech_prob": 0.004949443973600864,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.3572023808956146
+                },
+                {
+                    "word": " astrophysicist",
+                    "start": 0.12,
+                    "end": 1.06,
+                    "probability": 0.8780323624610901
+                },
+                {
+                    "word": " calculated",
+                    "start": 1.06,
+                    "end": 1.46,
+                    "probability": 0.9692404866218567
+                },
+                {
+                    "word": " the",
+                    "start": 1.46,
+                    "end": 1.76,
+                    "probability": 0.9959716200828552
+                },
+                {
+                    "word": " trajectory",
+                    "start": 1.76,
+                    "end": 2.16,
+                    "probability": 0.9972847700119019
+                },
+                {
+                    "word": " of",
+                    "start": 2.16,
+                    "end": 2.48,
+                    "probability": 0.9989956021308899
+                },
+                {
+                    "word": " the",
+                    "start": 2.48,
+                    "end": 2.58,
+                    "probability": 0.9921119213104248
+                },
+                {
+                    "word": " comet.",
+                    "start": 2.58,
+                    "end": 2.78,
+                    "probability": 0.963640034198761
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

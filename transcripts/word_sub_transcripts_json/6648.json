@@ -1,0 +1,87 @@
+{
+    "text": " The CEO announced a merger with their biggest computer.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.46,
+            "text": " The CEO announced a merger with their biggest computer.",
+            "tokens": [
+                50364,
+                440,
+                9282,
+                7548,
+                257,
+                48002,
+                365,
+                641,
+                3880,
+                3820,
+                13,
+                50496
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3736993716313289,
+            "compression_ratio": 0.873015873015873,
+            "no_speech_prob": 0.003329324768856168,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.567658007144928
+                },
+                {
+                    "word": " CEO",
+                    "start": 0.12,
+                    "end": 0.46,
+                    "probability": 0.9740110635757446
+                },
+                {
+                    "word": " announced",
+                    "start": 0.46,
+                    "end": 0.88,
+                    "probability": 0.9898948073387146
+                },
+                {
+                    "word": " a",
+                    "start": 0.88,
+                    "end": 1.02,
+                    "probability": 0.898198127746582
+                },
+                {
+                    "word": " merger",
+                    "start": 1.02,
+                    "end": 1.34,
+                    "probability": 0.8470335602760315
+                },
+                {
+                    "word": " with",
+                    "start": 1.34,
+                    "end": 1.54,
+                    "probability": 0.9855033159255981
+                },
+                {
+                    "word": " their",
+                    "start": 1.54,
+                    "end": 1.66,
+                    "probability": 0.9909267425537109
+                },
+                {
+                    "word": " biggest",
+                    "start": 1.66,
+                    "end": 1.9,
+                    "probability": 0.9789578914642334
+                },
+                {
+                    "word": " computer.",
+                    "start": 1.9,
+                    "end": 2.46,
+                    "probability": 0.9957969188690186
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

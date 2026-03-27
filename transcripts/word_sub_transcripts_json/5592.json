@@ -1,0 +1,66 @@
+{
+    "text": " patient complaint of severe abdominal gain.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.88,
+            "text": " patient complaint of severe abdominal gain.",
+            "tokens": [
+                50364,
+                4537,
+                20100,
+                295,
+                8922,
+                38701,
+                6052,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5335592269897461,
+            "compression_ratio": 0.8958333333333334,
+            "no_speech_prob": 0.034773990511894226,
+            "words": [
+                {
+                    "word": " patient",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.5884675979614258
+                },
+                {
+                    "word": " complaint",
+                    "start": 0.36,
+                    "end": 0.72,
+                    "probability": 0.593610942363739
+                },
+                {
+                    "word": " of",
+                    "start": 0.72,
+                    "end": 0.9,
+                    "probability": 0.9632394909858704
+                },
+                {
+                    "word": " severe",
+                    "start": 0.9,
+                    "end": 1.18,
+                    "probability": 0.9929268956184387
+                },
+                {
+                    "word": " abdominal",
+                    "start": 1.18,
+                    "end": 1.54,
+                    "probability": 0.9892138838768005
+                },
+                {
+                    "word": " gain.",
+                    "start": 1.54,
+                    "end": 1.88,
+                    "probability": 0.9798453450202942
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

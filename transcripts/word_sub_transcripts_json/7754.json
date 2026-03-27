@@ -1,0 +1,67 @@
+{
+    "text": " a loc engyrun vereahagyth\ufffd\ufffd\uc774 ych",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.22,
+            "text": " a loc engyrun vereahagyth\ufffd\ufffd\uc774 ych",
+            "tokens": [
+                50364,
+                257,
+                1628,
+                465,
+                1480,
+                81,
+                409,
+                16443,
+                545,
+                559,
+                88,
+                392,
+                8109,
+                288,
+                339,
+                50571
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -6.397298027487362,
+            "compression_ratio": 0.8444444444444444,
+            "no_speech_prob": 0.0027318752836436033,
+            "words": [
+                {
+                    "word": " a",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.011884820647537708
+                },
+                {
+                    "word": " loc",
+                    "start": 0.12,
+                    "end": 0.28,
+                    "probability": 0.00016788154607638717
+                },
+                {
+                    "word": " engyrun",
+                    "start": 0.28,
+                    "end": 0.72,
+                    "probability": 0.017720987169013824
+                },
+                {
+                    "word": " vereahagyth\ufffd\ufffd\uc774",
+                    "start": 0.72,
+                    "end": 1.78,
+                    "probability": 0.0017985480621215781
+                },
+                {
+                    "word": " ych",
+                    "start": 1.78,
+                    "end": 2.22,
+                    "probability": 0.022991869132965803
+                }
+            ]
+        }
+    ],
+    "language": "cy"
+}

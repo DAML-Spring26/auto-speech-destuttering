@@ -1,0 +1,80 @@
+{
+    "text": " We need to carefully consider all available options.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.28,
+            "text": " We need to carefully consider all available options.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                7500,
+                1949,
+                439,
+                2435,
+                3956,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29590117931365967,
+            "compression_ratio": 0.8813559322033898,
+            "no_speech_prob": 0.005131331738084555,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.6617239117622375
+                },
+                {
+                    "word": " need",
+                    "start": 0.22,
+                    "end": 0.42,
+                    "probability": 0.9983382225036621
+                },
+                {
+                    "word": " to",
+                    "start": 0.42,
+                    "end": 0.62,
+                    "probability": 0.9955050349235535
+                },
+                {
+                    "word": " carefully",
+                    "start": 0.62,
+                    "end": 1.18,
+                    "probability": 0.9958555102348328
+                },
+                {
+                    "word": " consider",
+                    "start": 1.18,
+                    "end": 1.8,
+                    "probability": 0.9950228929519653
+                },
+                {
+                    "word": " all",
+                    "start": 1.8,
+                    "end": 2.16,
+                    "probability": 0.9832179546356201
+                },
+                {
+                    "word": " available",
+                    "start": 2.16,
+                    "end": 5.34,
+                    "probability": 0.9575163125991821
+                },
+                {
+                    "word": " options.",
+                    "start": 5.34,
+                    "end": 6.28,
+                    "probability": 0.9892032742500305
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

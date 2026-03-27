@@ -1,0 +1,81 @@
+{
+    "text": " I'm thinking of changing my hairstyle next month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.26,
+            "text": " I'm thinking of changing my hairstyle next month.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                1953,
+                295,
+                4473,
+                452,
+                32770,
+                958,
+                1618,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3278670310974121,
+            "compression_ratio": 0.9074074074074074,
+            "no_speech_prob": 0.10729989409446716,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 1.06,
+                    "probability": 0.9339664280414581
+                },
+                {
+                    "word": " thinking",
+                    "start": 1.06,
+                    "end": 1.38,
+                    "probability": 0.9940713047981262
+                },
+                {
+                    "word": " of",
+                    "start": 1.38,
+                    "end": 1.7,
+                    "probability": 0.9883711934089661
+                },
+                {
+                    "word": " changing",
+                    "start": 1.7,
+                    "end": 2.8,
+                    "probability": 0.8706074953079224
+                },
+                {
+                    "word": " my",
+                    "start": 2.8,
+                    "end": 3.12,
+                    "probability": 0.9966089725494385
+                },
+                {
+                    "word": " hairstyle",
+                    "start": 3.12,
+                    "end": 3.58,
+                    "probability": 0.9153391122817993
+                },
+                {
+                    "word": " next",
+                    "start": 3.58,
+                    "end": 4.0,
+                    "probability": 0.9941853880882263
+                },
+                {
+                    "word": " month.",
+                    "start": 4.0,
+                    "end": 4.26,
+                    "probability": 0.9950549602508545
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

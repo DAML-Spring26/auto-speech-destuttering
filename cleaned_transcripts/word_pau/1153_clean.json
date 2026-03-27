@@ -1,54 +1,48 @@
 {
-    "text": " The new Troubleshows promising results in... ...tutin' chronic pain.",
+    "text": " the truck shows promables in.. ...at the shootingeffet",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
             "end": 2.48,
-            "text": " The new Troubleshows promising results in...",
+            "text": " the truck shows promables in..",
             "tokens": [
                 50364,
-                440,
-                777,
-                1765,
-                263,
-                8806,
-                71,
-                1509,
-                20257,
-                3542,
+                264,
+                5898,
+                3110,
+                2234,
+                2965,
                 294,
-                485,
+                353,
                 50488
             ],
-            "temperature": 0.0,
-            "avg_logprob": -0.8735584417978922,
-            "compression_ratio": 0.9714285714285714,
-            "no_speech_prob": 0.00480883801355958
+            "temperature": 1.0,
+            "avg_logprob": -2.915172576904297,
+            "compression_ratio": 0.9152542372881356,
+            "no_speech_prob": 0.005210821982473135
         },
         {
             "id": 1,
             "seek": 0,
-            "start": 4.32,
-            "end": 5.76,
-            "text": " ...tutin' chronic pain.",
+            "start": 3.7600000000000002,
+            "end": 4.44,
+            "text": " ...at the shootingeffet",
             "tokens": [
-                50580,
+                50552,
                 1097,
-                83,
-                325,
-                259,
-                6,
-                14493,
-                1822,
-                13,
-                50652
+                267,
+                264,
+                5942,
+                30774,
+                302,
+                50586
             ],
-            "temperature": 0.0,
-            "avg_logprob": -0.8735584417978922,
-            "compression_ratio": 0.9714285714285714,
-            "no_speech_prob": 0.00480883801355958
+            "temperature": 1.0,
+            "avg_logprob": -2.915172576904297,
+            "compression_ratio": 0.9152542372881356,
+            "no_speech_prob": 0.005210821982473135
         }
     ],
     "language": "en"

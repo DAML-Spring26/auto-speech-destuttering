@@ -1,0 +1,73 @@
+{
+    "text": " We should discuss this matter in private.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.52,
+            "text": " We should discuss this matter in private.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                2248,
+                341,
+                1871,
+                294,
+                4551,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.296085617759011,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.007795814890414476,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.58,
+                    "probability": 0.7850414514541626
+                },
+                {
+                    "word": " should",
+                    "start": 0.58,
+                    "end": 0.8,
+                    "probability": 0.9949224591255188
+                },
+                {
+                    "word": " discuss",
+                    "start": 0.8,
+                    "end": 1.26,
+                    "probability": 0.9957192540168762
+                },
+                {
+                    "word": " this",
+                    "start": 1.26,
+                    "end": 1.72,
+                    "probability": 0.9912363290786743
+                },
+                {
+                    "word": " matter",
+                    "start": 1.72,
+                    "end": 2.18,
+                    "probability": 0.9870601892471313
+                },
+                {
+                    "word": " in",
+                    "start": 2.18,
+                    "end": 3.04,
+                    "probability": 0.9845309257507324
+                },
+                {
+                    "word": " private.",
+                    "start": 3.04,
+                    "end": 3.52,
+                    "probability": 0.9756763577461243
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

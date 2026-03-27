@@ -1,0 +1,80 @@
+{
+    "text": " just got tickets to the Seoul Delta concert.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.06,
+            "text": " just got tickets to the Seoul Delta concert.",
+            "tokens": [
+                50364,
+                445,
+                658,
+                12628,
+                281,
+                264,
+                17100,
+                18183,
+                8543,
+                13,
+                50580
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7659715811411539,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.014175050891935825,
+            "words": [
+                {
+                    "word": " just",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.5657882690429688
+                },
+                {
+                    "word": " got",
+                    "start": 0.16,
+                    "end": 0.38,
+                    "probability": 0.9339873194694519
+                },
+                {
+                    "word": " tickets",
+                    "start": 0.38,
+                    "end": 0.8,
+                    "probability": 0.9868466258049011
+                },
+                {
+                    "word": " to",
+                    "start": 0.8,
+                    "end": 1.16,
+                    "probability": 0.8677066564559937
+                },
+                {
+                    "word": " the",
+                    "start": 1.16,
+                    "end": 1.62,
+                    "probability": 0.6886404156684875
+                },
+                {
+                    "word": " Seoul",
+                    "start": 1.62,
+                    "end": 3.12,
+                    "probability": 0.21982510387897491
+                },
+                {
+                    "word": " Delta",
+                    "start": 3.12,
+                    "end": 3.34,
+                    "probability": 0.1908736377954483
+                },
+                {
+                    "word": " concert.",
+                    "start": 3.34,
+                    "end": 4.06,
+                    "probability": 0.5361153483390808
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

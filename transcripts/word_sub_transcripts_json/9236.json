@@ -1,0 +1,52 @@
+{
+    "text": " Please permit your report.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.38,
+            "text": " Please permit your report.",
+            "tokens": [
+                50364,
+                2555,
+                13423,
+                428,
+                2275,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39998912811279297,
+            "compression_ratio": 0.7647058823529411,
+            "no_speech_prob": 0.018615534529089928,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.7321082353591919
+                },
+                {
+                    "word": " permit",
+                    "start": 0.24,
+                    "end": 0.76,
+                    "probability": 0.9712158441543579
+                },
+                {
+                    "word": " your",
+                    "start": 0.76,
+                    "end": 1.04,
+                    "probability": 0.9766939878463745
+                },
+                {
+                    "word": " report.",
+                    "start": 1.04,
+                    "end": 1.38,
+                    "probability": 0.9935922026634216
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

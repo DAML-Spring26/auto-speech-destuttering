@@ -1,0 +1,59 @@
+{
+    "text": " they discuss the project slope.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.38,
+            "text": " they discuss the project slope.",
+            "tokens": [
+                50364,
+                436,
+                2248,
+                264,
+                1716,
+                13525,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.49285003874037003,
+            "compression_ratio": 0.7948717948717948,
+            "no_speech_prob": 0.014356820844113827,
+            "words": [
+                {
+                    "word": " they",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5216754674911499
+                },
+                {
+                    "word": " discuss",
+                    "start": 0.14,
+                    "end": 0.46,
+                    "probability": 0.8769674897193909
+                },
+                {
+                    "word": " the",
+                    "start": 0.46,
+                    "end": 0.66,
+                    "probability": 0.9712854623794556
+                },
+                {
+                    "word": " project",
+                    "start": 0.66,
+                    "end": 1.02,
+                    "probability": 0.9543761014938354
+                },
+                {
+                    "word": " slope.",
+                    "start": 1.02,
+                    "end": 1.38,
+                    "probability": 0.5502350330352783
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

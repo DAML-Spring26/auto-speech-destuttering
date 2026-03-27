@@ -1,0 +1,88 @@
+{
+    "text": " The library will be closed for renovations next month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.18,
+            "text": " The library will be closed for renovations next month.",
+            "tokens": [
+                50364,
+                440,
+                6405,
+                486,
+                312,
+                5395,
+                337,
+                18845,
+                763,
+                958,
+                1618,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4194896561758859,
+            "compression_ratio": 0.8852459016393442,
+            "no_speech_prob": 0.19101807475090027,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 1.5,
+                    "probability": 0.8689120411872864
+                },
+                {
+                    "word": " library",
+                    "start": 1.5,
+                    "end": 2.16,
+                    "probability": 0.9019140601158142
+                },
+                {
+                    "word": " will",
+                    "start": 2.16,
+                    "end": 2.56,
+                    "probability": 0.995595395565033
+                },
+                {
+                    "word": " be",
+                    "start": 2.56,
+                    "end": 2.74,
+                    "probability": 0.998271107673645
+                },
+                {
+                    "word": " closed",
+                    "start": 2.74,
+                    "end": 3.54,
+                    "probability": 0.9970480799674988
+                },
+                {
+                    "word": " for",
+                    "start": 3.54,
+                    "end": 4.08,
+                    "probability": 0.9799081683158875
+                },
+                {
+                    "word": " renovations",
+                    "start": 4.08,
+                    "end": 5.04,
+                    "probability": 0.9956234097480774
+                },
+                {
+                    "word": " next",
+                    "start": 5.04,
+                    "end": 6.74,
+                    "probability": 0.43556639552116394
+                },
+                {
+                    "word": " month.",
+                    "start": 6.74,
+                    "end": 7.18,
+                    "probability": 0.37624767422676086
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

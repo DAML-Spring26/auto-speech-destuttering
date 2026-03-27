@@ -1,0 +1,118 @@
+{
+    "text": " The doctor suggests increasing your daily water intake for better hydration.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.7,
+            "text": " The doctor suggests increasing your daily water intake for",
+            "tokens": [
+                50364,
+                440,
+                4631,
+                13409,
+                5662,
+                428,
+                5212,
+                1281,
+                18060,
+                337,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.491450029260972,
+            "compression_ratio": 1.0133333333333334,
+            "no_speech_prob": 0.007544678170233965,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6067355275154114
+                },
+                {
+                    "word": " doctor",
+                    "start": 0.16,
+                    "end": 0.64,
+                    "probability": 0.7813003659248352
+                },
+                {
+                    "word": " suggests",
+                    "start": 0.64,
+                    "end": 1.2,
+                    "probability": 0.9340967535972595
+                },
+                {
+                    "word": " increasing",
+                    "start": 1.2,
+                    "end": 2.02,
+                    "probability": 0.9879521727561951
+                },
+                {
+                    "word": " your",
+                    "start": 2.02,
+                    "end": 2.44,
+                    "probability": 0.9939447045326233
+                },
+                {
+                    "word": " daily",
+                    "start": 2.44,
+                    "end": 2.8,
+                    "probability": 0.9940242171287537
+                },
+                {
+                    "word": " water",
+                    "start": 2.8,
+                    "end": 3.38,
+                    "probability": 0.9924888610839844
+                },
+                {
+                    "word": " intake",
+                    "start": 3.38,
+                    "end": 4.16,
+                    "probability": 0.9987837672233582
+                },
+                {
+                    "word": " for",
+                    "start": 4.16,
+                    "end": 4.7,
+                    "probability": 0.9678727388381958
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.539999999999999,
+            "end": 8.38,
+            "text": " better hydration.",
+            "tokens": [
+                50714,
+                1101,
+                43631,
+                13,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.491450029260972,
+            "compression_ratio": 1.0133333333333334,
+            "no_speech_prob": 0.007544678170233965,
+            "words": [
+                {
+                    "word": " better",
+                    "start": 6.539999999999999,
+                    "end": 7.64,
+                    "probability": 0.3834057152271271
+                },
+                {
+                    "word": " hydration.",
+                    "start": 7.64,
+                    "end": 8.38,
+                    "probability": 0.9974706172943115
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

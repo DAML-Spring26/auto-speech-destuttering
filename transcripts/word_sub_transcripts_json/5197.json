@@ -1,0 +1,75 @@
+{
+    "text": " the psychologist specialised in cognitive behavioural therapist.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.66,
+            "text": " the psychologist specialised in cognitive behavioural therapist.",
+            "tokens": [
+                50364,
+                264,
+                29514,
+                2121,
+                2640,
+                294,
+                15605,
+                17229,
+                304,
+                19830,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.443084533397968,
+            "compression_ratio": 0.9846153846153847,
+            "no_speech_prob": 0.008310338482260704,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.41377580165863037
+                },
+                {
+                    "word": " psychologist",
+                    "start": 0.12,
+                    "end": 0.58,
+                    "probability": 0.6348696947097778
+                },
+                {
+                    "word": " specialised",
+                    "start": 0.58,
+                    "end": 1.24,
+                    "probability": 0.6079463958740234
+                },
+                {
+                    "word": " in",
+                    "start": 1.24,
+                    "end": 1.34,
+                    "probability": 0.9967555403709412
+                },
+                {
+                    "word": " cognitive",
+                    "start": 1.34,
+                    "end": 1.62,
+                    "probability": 0.7733770608901978
+                },
+                {
+                    "word": " behavioural",
+                    "start": 1.62,
+                    "end": 2.22,
+                    "probability": 0.9258223474025726
+                },
+                {
+                    "word": " therapist.",
+                    "start": 2.22,
+                    "end": 2.66,
+                    "probability": 0.9146904945373535
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

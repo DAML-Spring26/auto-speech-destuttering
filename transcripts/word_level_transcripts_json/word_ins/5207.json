@@ -1,0 +1,108 @@
+{
+    "text": " The logistics team is working on improving delivery times for customer orders.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.34,
+            "text": " The logistics team is working on improving delivery times for customer orders.",
+            "tokens": [
+                50364,
+                440,
+                27420,
+                1469,
+                307,
+                1364,
+                322,
+                11470,
+                8982,
+                1413,
+                337,
+                5474,
+                9470,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3068321943283081,
+            "compression_ratio": 1.054054054054054,
+            "no_speech_prob": 0.02744050696492195,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.54,
+                    "probability": 0.8801147937774658
+                },
+                {
+                    "word": " logistics",
+                    "start": 0.54,
+                    "end": 0.96,
+                    "probability": 0.9586828351020813
+                },
+                {
+                    "word": " team",
+                    "start": 0.96,
+                    "end": 1.38,
+                    "probability": 0.9983568787574768
+                },
+                {
+                    "word": " is",
+                    "start": 1.38,
+                    "end": 1.56,
+                    "probability": 0.9969534873962402
+                },
+                {
+                    "word": " working",
+                    "start": 1.56,
+                    "end": 1.84,
+                    "probability": 0.9990339279174805
+                },
+                {
+                    "word": " on",
+                    "start": 1.84,
+                    "end": 2.06,
+                    "probability": 0.9993355870246887
+                },
+                {
+                    "word": " improving",
+                    "start": 2.06,
+                    "end": 2.58,
+                    "probability": 0.9963539838790894
+                },
+                {
+                    "word": " delivery",
+                    "start": 2.58,
+                    "end": 3.08,
+                    "probability": 0.9977321624755859
+                },
+                {
+                    "word": " times",
+                    "start": 3.08,
+                    "end": 3.64,
+                    "probability": 0.9888284802436829
+                },
+                {
+                    "word": " for",
+                    "start": 3.64,
+                    "end": 4.04,
+                    "probability": 0.9941666126251221
+                },
+                {
+                    "word": " customer",
+                    "start": 4.04,
+                    "end": 4.88,
+                    "probability": 0.4940131902694702
+                },
+                {
+                    "word": " orders.",
+                    "start": 4.88,
+                    "end": 5.34,
+                    "probability": 0.9983758926391602
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

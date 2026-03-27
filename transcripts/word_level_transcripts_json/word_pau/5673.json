@@ -1,0 +1,100 @@
+{
+    "text": " Could you explain this concept in... ...simpler terms?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.36,
+            "text": " Could you explain this concept in...",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                2903,
+                341,
+                3410,
+                294,
+                485,
+                50482
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.664830768809599,
+            "compression_ratio": 0.9,
+            "no_speech_prob": 0.013095598667860031,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.925061047077179
+                },
+                {
+                    "word": " you",
+                    "start": 0.22,
+                    "end": 0.44,
+                    "probability": 0.9965923428535461
+                },
+                {
+                    "word": " explain",
+                    "start": 0.44,
+                    "end": 0.92,
+                    "probability": 0.9977728724479675
+                },
+                {
+                    "word": " this",
+                    "start": 0.92,
+                    "end": 1.18,
+                    "probability": 0.9934433698654175
+                },
+                {
+                    "word": " concept",
+                    "start": 1.18,
+                    "end": 1.66,
+                    "probability": 0.9932714104652405
+                },
+                {
+                    "word": " in...",
+                    "start": 1.66,
+                    "end": 2.36,
+                    "probability": 0.6502011269330978
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.38,
+            "end": 5.36,
+            "text": " ...simpler terms?",
+            "tokens": [
+                50582,
+                1097,
+                30937,
+                22732,
+                2115,
+                30,
+                50656
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.664830768809599,
+            "compression_ratio": 0.9,
+            "no_speech_prob": 0.013095598667860031,
+            "words": [
+                {
+                    "word": " ...simpler",
+                    "start": 4.38,
+                    "end": 4.86,
+                    "probability": 0.5663995891809464
+                },
+                {
+                    "word": " terms?",
+                    "start": 4.86,
+                    "end": 5.36,
+                    "probability": 0.9319868683815002
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

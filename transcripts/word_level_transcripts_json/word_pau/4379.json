@@ -1,0 +1,99 @@
+{
+    "text": " Mom, can we order pizza for? Dinner tonight?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.58,
+            "text": " Mom, can we order pizza for?",
+            "tokens": [
+                50364,
+                5576,
+                11,
+                393,
+                321,
+                1668,
+                8298,
+                337,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6274840831756592,
+            "compression_ratio": 0.8627450980392157,
+            "no_speech_prob": 0.024189604446291924,
+            "words": [
+                {
+                    "word": " Mom,",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.7843126654624939
+                },
+                {
+                    "word": " can",
+                    "start": 0.5,
+                    "end": 0.6,
+                    "probability": 0.9798842668533325
+                },
+                {
+                    "word": " we",
+                    "start": 0.6,
+                    "end": 0.74,
+                    "probability": 0.9964708089828491
+                },
+                {
+                    "word": " order",
+                    "start": 0.74,
+                    "end": 0.94,
+                    "probability": 0.9946686625480652
+                },
+                {
+                    "word": " pizza",
+                    "start": 0.94,
+                    "end": 1.34,
+                    "probability": 0.9258952140808105
+                },
+                {
+                    "word": " for?",
+                    "start": 1.34,
+                    "end": 1.58,
+                    "probability": 0.8162882328033447
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.48,
+            "end": 5.54,
+            "text": " Dinner tonight?",
+            "tokens": [
+                50604,
+                46678,
+                4440,
+                30,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6274840831756592,
+            "compression_ratio": 0.8627450980392157,
+            "no_speech_prob": 0.024189604446291924,
+            "words": [
+                {
+                    "word": " Dinner",
+                    "start": 4.48,
+                    "end": 5.08,
+                    "probability": 0.7674789428710938
+                },
+                {
+                    "word": " tonight?",
+                    "start": 5.08,
+                    "end": 5.54,
+                    "probability": 0.9750766754150391
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

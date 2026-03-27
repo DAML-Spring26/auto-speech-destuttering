@@ -1,0 +1,73 @@
+{
+    "text": " Climate change affects global weather pattern significantly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.06,
+            "text": " Climate change affects global weather pattern significantly.",
+            "tokens": [
+                50364,
+                27025,
+                1319,
+                11807,
+                4338,
+                5503,
+                5102,
+                10591,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39695856787941675,
+            "compression_ratio": 0.9523809523809523,
+            "no_speech_prob": 0.006298517808318138,
+            "words": [
+                {
+                    "word": " Climate",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.913866400718689
+                },
+                {
+                    "word": " change",
+                    "start": 0.26,
+                    "end": 0.64,
+                    "probability": 0.9686787724494934
+                },
+                {
+                    "word": " affects",
+                    "start": 0.64,
+                    "end": 0.98,
+                    "probability": 0.9257919192314148
+                },
+                {
+                    "word": " global",
+                    "start": 0.98,
+                    "end": 1.42,
+                    "probability": 0.9513379335403442
+                },
+                {
+                    "word": " weather",
+                    "start": 1.42,
+                    "end": 1.76,
+                    "probability": 0.9858365058898926
+                },
+                {
+                    "word": " pattern",
+                    "start": 1.76,
+                    "end": 2.26,
+                    "probability": 0.6437218189239502
+                },
+                {
+                    "word": " significantly.",
+                    "start": 2.26,
+                    "end": 3.06,
+                    "probability": 0.9867600202560425
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

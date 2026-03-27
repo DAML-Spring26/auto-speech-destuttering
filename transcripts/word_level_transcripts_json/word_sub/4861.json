@@ -1,0 +1,80 @@
+{
+    "text": " Could you please confirm your flight preservation number?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.42,
+            "text": " Could you please confirm your flight preservation number?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                9064,
+                428,
+                7018,
+                27257,
+                1230,
+                30,
+                50494
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30728832880655926,
+            "compression_ratio": 0.9047619047619048,
+            "no_speech_prob": 0.021071618422865868,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.9159836769104004
+                },
+                {
+                    "word": " you",
+                    "start": 0.14,
+                    "end": 0.22,
+                    "probability": 0.9967057108879089
+                },
+                {
+                    "word": " please",
+                    "start": 0.22,
+                    "end": 0.44,
+                    "probability": 0.9919450879096985
+                },
+                {
+                    "word": " confirm",
+                    "start": 0.44,
+                    "end": 0.78,
+                    "probability": 0.9943315982818604
+                },
+                {
+                    "word": " your",
+                    "start": 0.78,
+                    "end": 1.02,
+                    "probability": 0.982180118560791
+                },
+                {
+                    "word": " flight",
+                    "start": 1.02,
+                    "end": 1.26,
+                    "probability": 0.9070302248001099
+                },
+                {
+                    "word": " preservation",
+                    "start": 1.26,
+                    "end": 1.92,
+                    "probability": 0.9697030186653137
+                },
+                {
+                    "word": " number?",
+                    "start": 1.92,
+                    "end": 2.42,
+                    "probability": 0.9889212846755981
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

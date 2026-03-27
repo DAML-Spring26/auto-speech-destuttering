@@ -1,0 +1,88 @@
+{
+    "text": " The research team is conducting experiments on cell degeneration.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.04,
+            "text": " The research team is conducting experiments on cell degeneration.",
+            "tokens": [
+                50364,
+                440,
+                2132,
+                1469,
+                307,
+                21749,
+                12050,
+                322,
+                2815,
+                368,
+                30372,
+                13,
+                50580
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28101221152714323,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.0025223842822015285,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.872827410697937
+                },
+                {
+                    "word": " research",
+                    "start": 0.12,
+                    "end": 0.52,
+                    "probability": 0.790898859500885
+                },
+                {
+                    "word": " team",
+                    "start": 0.52,
+                    "end": 1.02,
+                    "probability": 0.9969731569290161
+                },
+                {
+                    "word": " is",
+                    "start": 1.02,
+                    "end": 1.26,
+                    "probability": 0.9930728077888489
+                },
+                {
+                    "word": " conducting",
+                    "start": 1.26,
+                    "end": 1.76,
+                    "probability": 0.9989117383956909
+                },
+                {
+                    "word": " experiments",
+                    "start": 1.76,
+                    "end": 2.54,
+                    "probability": 0.9971935153007507
+                },
+                {
+                    "word": " on",
+                    "start": 2.54,
+                    "end": 2.98,
+                    "probability": 0.9711416363716125
+                },
+                {
+                    "word": " cell",
+                    "start": 2.98,
+                    "end": 3.24,
+                    "probability": 0.9431104063987732
+                },
+                {
+                    "word": " degeneration.",
+                    "start": 3.24,
+                    "end": 4.04,
+                    "probability": 0.8685946762561798
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

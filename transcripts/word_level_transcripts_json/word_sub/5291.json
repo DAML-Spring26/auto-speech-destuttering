@@ -1,0 +1,73 @@
+{
+    "text": " Please continue your attendance at the conference.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.14,
+            "text": " Please continue your attendance at the conference.",
+            "tokens": [
+                50364,
+                2555,
+                2354,
+                428,
+                24337,
+                412,
+                264,
+                7586,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39529557661576703,
+            "compression_ratio": 0.9615384615384616,
+            "no_speech_prob": 0.009738804772496223,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.7788732051849365
+                },
+                {
+                    "word": " continue",
+                    "start": 0.18,
+                    "end": 0.74,
+                    "probability": 0.7912291884422302
+                },
+                {
+                    "word": " your",
+                    "start": 0.74,
+                    "end": 0.94,
+                    "probability": 0.8723487854003906
+                },
+                {
+                    "word": " attendance",
+                    "start": 0.94,
+                    "end": 1.34,
+                    "probability": 0.9475708603858948
+                },
+                {
+                    "word": " at",
+                    "start": 1.34,
+                    "end": 1.62,
+                    "probability": 0.9938361048698425
+                },
+                {
+                    "word": " the",
+                    "start": 1.62,
+                    "end": 1.7,
+                    "probability": 0.9836381673812866
+                },
+                {
+                    "word": " conference.",
+                    "start": 1.7,
+                    "end": 2.14,
+                    "probability": 0.982628583908081
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

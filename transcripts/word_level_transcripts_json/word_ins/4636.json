@@ -1,0 +1,88 @@
+{
+    "text": " The maintenance team will inspect all elevators next week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.5,
+            "text": " The maintenance team will inspect all elevators next week.",
+            "tokens": [
+                50364,
+                440,
+                11258,
+                1469,
+                486,
+                15018,
+                439,
+                7701,
+                3391,
+                958,
+                1243,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32954164913722445,
+            "compression_ratio": 0.9354838709677419,
+            "no_speech_prob": 0.12005434930324554,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.72,
+                    "probability": 0.7695116996765137
+                },
+                {
+                    "word": " maintenance",
+                    "start": 0.72,
+                    "end": 1.16,
+                    "probability": 0.7251929640769958
+                },
+                {
+                    "word": " team",
+                    "start": 1.16,
+                    "end": 1.72,
+                    "probability": 0.9977486729621887
+                },
+                {
+                    "word": " will",
+                    "start": 1.72,
+                    "end": 2.22,
+                    "probability": 0.9780279994010925
+                },
+                {
+                    "word": " inspect",
+                    "start": 2.22,
+                    "end": 2.82,
+                    "probability": 0.9961751699447632
+                },
+                {
+                    "word": " all",
+                    "start": 2.82,
+                    "end": 3.44,
+                    "probability": 0.9879863858222961
+                },
+                {
+                    "word": " elevators",
+                    "start": 3.44,
+                    "end": 4.86,
+                    "probability": 0.9837319552898407
+                },
+                {
+                    "word": " next",
+                    "start": 4.86,
+                    "end": 5.2,
+                    "probability": 0.9916737675666809
+                },
+                {
+                    "word": " week.",
+                    "start": 5.2,
+                    "end": 5.5,
+                    "probability": 0.9982138872146606
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

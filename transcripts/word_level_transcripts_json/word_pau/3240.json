@@ -1,0 +1,120 @@
+{
+    "text": " which you've considered all potential outcomes before. Making our final decision.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.86,
+            "text": " which you've considered all potential outcomes before.",
+            "tokens": [
+                50364,
+                597,
+                291,
+                600,
+                4888,
+                439,
+                3995,
+                10070,
+                949,
+                13,
+                50526
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5896524630094829,
+            "compression_ratio": 1.0253164556962024,
+            "no_speech_prob": 0.0027367407456040382,
+            "words": [
+                {
+                    "word": " which",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.4156746566295624
+                },
+                {
+                    "word": " you've",
+                    "start": 0.18,
+                    "end": 0.36,
+                    "probability": 0.8221302628517151
+                },
+                {
+                    "word": " considered",
+                    "start": 0.36,
+                    "end": 0.86,
+                    "probability": 0.9254257678985596
+                },
+                {
+                    "word": " all",
+                    "start": 0.86,
+                    "end": 1.14,
+                    "probability": 0.8888748288154602
+                },
+                {
+                    "word": " potential",
+                    "start": 1.14,
+                    "end": 1.6,
+                    "probability": 0.9963304400444031
+                },
+                {
+                    "word": " outcomes",
+                    "start": 1.6,
+                    "end": 2.12,
+                    "probability": 0.9964402318000793
+                },
+                {
+                    "word": " before.",
+                    "start": 2.12,
+                    "end": 2.86,
+                    "probability": 0.992673933506012
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.4,
+            "end": 7.82,
+            "text": " Making our final decision.",
+            "tokens": [
+                50684,
+                14595,
+                527,
+                2572,
+                3537,
+                13,
+                50772
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5896524630094829,
+            "compression_ratio": 1.0253164556962024,
+            "no_speech_prob": 0.0027367407456040382,
+            "words": [
+                {
+                    "word": " Making",
+                    "start": 6.26,
+                    "end": 6.72,
+                    "probability": 0.9140014052391052
+                },
+                {
+                    "word": " our",
+                    "start": 6.72,
+                    "end": 6.96,
+                    "probability": 0.9860553741455078
+                },
+                {
+                    "word": " final",
+                    "start": 6.96,
+                    "end": 7.26,
+                    "probability": 0.9946147799491882
+                },
+                {
+                    "word": " decision.",
+                    "start": 7.26,
+                    "end": 7.82,
+                    "probability": 0.9859722852706909
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

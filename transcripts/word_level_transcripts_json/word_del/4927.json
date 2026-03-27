@@ -1,0 +1,115 @@
+{
+    "text": " The results of the study will publish in a scientific journal next month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.8,
+            "text": " The results of the study will publish in a scientific journal next month.",
+            "tokens": [
+                50364,
+                440,
+                3542,
+                295,
+                264,
+                2979,
+                486,
+                11374,
+                294,
+                257,
+                8134,
+                6708,
+                958,
+                1618,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24166631698608398,
+            "compression_ratio": 1.028169014084507,
+            "no_speech_prob": 0.002981865778565407,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.8515872359275818
+                },
+                {
+                    "word": " results",
+                    "start": 0.14,
+                    "end": 0.48,
+                    "probability": 0.982770562171936
+                },
+                {
+                    "word": " of",
+                    "start": 0.48,
+                    "end": 0.7,
+                    "probability": 0.9520121216773987
+                },
+                {
+                    "word": " the",
+                    "start": 0.7,
+                    "end": 0.86,
+                    "probability": 0.9524068236351013
+                },
+                {
+                    "word": " study",
+                    "start": 0.86,
+                    "end": 1.2,
+                    "probability": 0.9971936941146851
+                },
+                {
+                    "word": " will",
+                    "start": 1.2,
+                    "end": 1.46,
+                    "probability": 0.9629450440406799
+                },
+                {
+                    "word": " publish",
+                    "start": 1.46,
+                    "end": 1.88,
+                    "probability": 0.6028565168380737
+                },
+                {
+                    "word": " in",
+                    "start": 1.88,
+                    "end": 2.2,
+                    "probability": 0.9951753616333008
+                },
+                {
+                    "word": " a",
+                    "start": 2.2,
+                    "end": 2.3,
+                    "probability": 0.9569429755210876
+                },
+                {
+                    "word": " scientific",
+                    "start": 2.3,
+                    "end": 2.76,
+                    "probability": 0.9417487382888794
+                },
+                {
+                    "word": " journal",
+                    "start": 2.76,
+                    "end": 3.22,
+                    "probability": 0.9978151321411133
+                },
+                {
+                    "word": " next",
+                    "start": 3.22,
+                    "end": 3.56,
+                    "probability": 0.9966842532157898
+                },
+                {
+                    "word": " month.",
+                    "start": 3.56,
+                    "end": 3.8,
+                    "probability": 0.9966722726821899
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

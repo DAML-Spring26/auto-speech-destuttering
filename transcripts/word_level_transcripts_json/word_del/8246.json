@@ -1,0 +1,96 @@
+{
+    "text": " The paramedics are on their way and arrive within minutes.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.34,
+            "text": " The paramedics are on their way and arrive within minutes.",
+            "tokens": [
+                50364,
+                440,
+                971,
+                3475,
+                1167,
+                366,
+                322,
+                641,
+                636,
+                293,
+                8881,
+                1951,
+                2077,
+                13,
+                50548
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2900340259075165,
+            "compression_ratio": 0.9206349206349206,
+            "no_speech_prob": 0.0038418557960540056,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.6614095568656921
+                },
+                {
+                    "word": " paramedics",
+                    "start": 0.16,
+                    "end": 1.08,
+                    "probability": 0.832028329372406
+                },
+                {
+                    "word": " are",
+                    "start": 1.08,
+                    "end": 1.24,
+                    "probability": 0.9960667490959167
+                },
+                {
+                    "word": " on",
+                    "start": 1.24,
+                    "end": 1.4,
+                    "probability": 0.9968444108963013
+                },
+                {
+                    "word": " their",
+                    "start": 1.4,
+                    "end": 1.58,
+                    "probability": 0.9971242547035217
+                },
+                {
+                    "word": " way",
+                    "start": 1.58,
+                    "end": 1.88,
+                    "probability": 0.9981039762496948
+                },
+                {
+                    "word": " and",
+                    "start": 1.88,
+                    "end": 2.22,
+                    "probability": 0.9598520994186401
+                },
+                {
+                    "word": " arrive",
+                    "start": 2.22,
+                    "end": 2.58,
+                    "probability": 0.9646514654159546
+                },
+                {
+                    "word": " within",
+                    "start": 2.58,
+                    "end": 2.94,
+                    "probability": 0.9944853186607361
+                },
+                {
+                    "word": " minutes.",
+                    "start": 2.94,
+                    "end": 3.34,
+                    "probability": 0.9969160556793213
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

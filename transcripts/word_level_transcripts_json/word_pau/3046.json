@@ -1,0 +1,95 @@
+{
+    "text": " According to the study, regular exercise can improve cognitive function.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.9,
+            "text": " According to the study, regular exercise can improve cognitive function.",
+            "tokens": [
+                50364,
+                7328,
+                281,
+                264,
+                2979,
+                11,
+                3890,
+                5380,
+                393,
+                3470,
+                15605,
+                2445,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3300153414408366,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.001152531709522009,
+            "words": [
+                {
+                    "word": " According",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.8422964215278625
+                },
+                {
+                    "word": " to",
+                    "start": 0.44,
+                    "end": 0.72,
+                    "probability": 0.997975766658783
+                },
+                {
+                    "word": " the",
+                    "start": 0.72,
+                    "end": 0.82,
+                    "probability": 0.983753502368927
+                },
+                {
+                    "word": " study,",
+                    "start": 0.82,
+                    "end": 1.16,
+                    "probability": 0.9777702689170837
+                },
+                {
+                    "word": " regular",
+                    "start": 1.84,
+                    "end": 2.2,
+                    "probability": 0.757775068283081
+                },
+                {
+                    "word": " exercise",
+                    "start": 2.2,
+                    "end": 2.84,
+                    "probability": 0.9654917120933533
+                },
+                {
+                    "word": " can",
+                    "start": 2.84,
+                    "end": 3.34,
+                    "probability": 0.9416304230690002
+                },
+                {
+                    "word": " improve",
+                    "start": 3.34,
+                    "end": 6.68,
+                    "probability": 0.5178565382957458
+                },
+                {
+                    "word": " cognitive",
+                    "start": 6.68,
+                    "end": 7.24,
+                    "probability": 0.9682748913764954
+                },
+                {
+                    "word": " function.",
+                    "start": 7.24,
+                    "end": 7.9,
+                    "probability": 0.9811573624610901
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

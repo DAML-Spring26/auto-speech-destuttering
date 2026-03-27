@@ -1,0 +1,95 @@
+{
+    "text": " I'd like to upgrade my you know current subscription plan.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.12,
+            "text": " I'd like to upgrade my you know current subscription plan.",
+            "tokens": [
+                50364,
+                286,
+                1116,
+                411,
+                281,
+                11484,
+                452,
+                291,
+                458,
+                2190,
+                17231,
+                1393,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.46528717676798503,
+            "compression_ratio": 0.8923076923076924,
+            "no_speech_prob": 0.3276870846748352,
+            "words": [
+                {
+                    "word": " I'd",
+                    "start": 0.0,
+                    "end": 1.0,
+                    "probability": 0.9353863000869751
+                },
+                {
+                    "word": " like",
+                    "start": 1.0,
+                    "end": 1.08,
+                    "probability": 0.9976436495780945
+                },
+                {
+                    "word": " to",
+                    "start": 1.08,
+                    "end": 1.2,
+                    "probability": 0.9987003803253174
+                },
+                {
+                    "word": " upgrade",
+                    "start": 1.2,
+                    "end": 1.56,
+                    "probability": 0.9969773292541504
+                },
+                {
+                    "word": " my",
+                    "start": 1.56,
+                    "end": 1.8,
+                    "probability": 0.8798289895057678
+                },
+                {
+                    "word": " you",
+                    "start": 1.8,
+                    "end": 1.96,
+                    "probability": 0.47329965233802795
+                },
+                {
+                    "word": " know",
+                    "start": 1.96,
+                    "end": 2.22,
+                    "probability": 0.7122140526771545
+                },
+                {
+                    "word": " current",
+                    "start": 2.22,
+                    "end": 3.06,
+                    "probability": 0.4808749556541443
+                },
+                {
+                    "word": " subscription",
+                    "start": 3.06,
+                    "end": 3.64,
+                    "probability": 0.9895036220550537
+                },
+                {
+                    "word": " plan.",
+                    "start": 3.64,
+                    "end": 4.12,
+                    "probability": 0.9846411347389221
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

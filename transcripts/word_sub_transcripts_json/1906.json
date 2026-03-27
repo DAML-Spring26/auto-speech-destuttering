@@ -1,0 +1,67 @@
+{
+    "text": " The corporation's physical policy remains unchanged.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.96,
+            "text": " The corporation's physical policy remains unchanged.",
+            "tokens": [
+                50364,
+                440,
+                22197,
+                311,
+                4001,
+                3897,
+                7023,
+                44553,
+                13,
+                50588
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4221814762462269,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.013355037197470665,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.44452330470085144
+                },
+                {
+                    "word": " corporation's",
+                    "start": 0.14,
+                    "end": 1.14,
+                    "probability": 0.8459451794624329
+                },
+                {
+                    "word": " physical",
+                    "start": 1.14,
+                    "end": 1.56,
+                    "probability": 0.9669377207756042
+                },
+                {
+                    "word": " policy",
+                    "start": 1.56,
+                    "end": 2.24,
+                    "probability": 0.9950711727142334
+                },
+                {
+                    "word": " remains",
+                    "start": 2.24,
+                    "end": 3.0,
+                    "probability": 0.9901843070983887
+                },
+                {
+                    "word": " unchanged.",
+                    "start": 3.0,
+                    "end": 3.96,
+                    "probability": 0.9911608099937439
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

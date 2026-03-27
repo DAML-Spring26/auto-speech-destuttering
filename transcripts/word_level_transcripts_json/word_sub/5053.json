@@ -1,0 +1,88 @@
+{
+    "text": " The sheath gun is the dish with fresh herbs.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.88,
+            "text": " The sheath gun is the dish with fresh herbs.",
+            "tokens": [
+                50364,
+                440,
+                750,
+                998,
+                3874,
+                307,
+                264,
+                5025,
+                365,
+                4451,
+                21426,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5870865413120815,
+            "compression_ratio": 0.9166666666666666,
+            "no_speech_prob": 0.01029679924249649,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.5408404469490051
+                },
+                {
+                    "word": " sheath",
+                    "start": 0.08,
+                    "end": 0.36,
+                    "probability": 0.2503739669919014
+                },
+                {
+                    "word": " gun",
+                    "start": 0.36,
+                    "end": 0.52,
+                    "probability": 0.5282337665557861
+                },
+                {
+                    "word": " is",
+                    "start": 0.52,
+                    "end": 0.68,
+                    "probability": 0.937433123588562
+                },
+                {
+                    "word": " the",
+                    "start": 0.68,
+                    "end": 0.8,
+                    "probability": 0.9156139492988586
+                },
+                {
+                    "word": " dish",
+                    "start": 0.8,
+                    "end": 1.06,
+                    "probability": 0.9617454409599304
+                },
+                {
+                    "word": " with",
+                    "start": 1.06,
+                    "end": 1.22,
+                    "probability": 0.9926596283912659
+                },
+                {
+                    "word": " fresh",
+                    "start": 1.22,
+                    "end": 1.54,
+                    "probability": 0.9893603324890137
+                },
+                {
+                    "word": " herbs.",
+                    "start": 1.54,
+                    "end": 1.88,
+                    "probability": 0.4752555191516876
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,95 @@
+{
+    "text": " We appreciate your patience well, we resolve this technical issue.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.48,
+            "text": " We appreciate your patience well, we resolve this technical issue.",
+            "tokens": [
+                50364,
+                492,
+                4449,
+                428,
+                14826,
+                731,
+                11,
+                321,
+                14151,
+                341,
+                6191,
+                2734,
+                13,
+                50644
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4110713958740234,
+            "compression_ratio": 0.9850746268656716,
+            "no_speech_prob": 0.00432464387267828,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.8197340369224548
+                },
+                {
+                    "word": " appreciate",
+                    "start": 0.1,
+                    "end": 0.58,
+                    "probability": 0.9977189898490906
+                },
+                {
+                    "word": " your",
+                    "start": 0.58,
+                    "end": 0.82,
+                    "probability": 0.9813856482505798
+                },
+                {
+                    "word": " patience",
+                    "start": 0.82,
+                    "end": 1.26,
+                    "probability": 0.7797496914863586
+                },
+                {
+                    "word": " well,",
+                    "start": 1.26,
+                    "end": 1.62,
+                    "probability": 0.5337868332862854
+                },
+                {
+                    "word": " we",
+                    "start": 1.92,
+                    "end": 2.16,
+                    "probability": 0.9857046604156494
+                },
+                {
+                    "word": " resolve",
+                    "start": 2.16,
+                    "end": 2.44,
+                    "probability": 0.9890124797821045
+                },
+                {
+                    "word": " this",
+                    "start": 2.44,
+                    "end": 4.64,
+                    "probability": 0.5029072761535645
+                },
+                {
+                    "word": " technical",
+                    "start": 4.64,
+                    "end": 5.04,
+                    "probability": 0.9855535626411438
+                },
+                {
+                    "word": " issue.",
+                    "start": 5.04,
+                    "end": 5.48,
+                    "probability": 0.9954679012298584
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

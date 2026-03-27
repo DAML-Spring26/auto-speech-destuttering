@@ -1,12 +1,12 @@
 {
-    "text": " She explained that she would late for the meeting because of the heavy traffic on the freeway.",
+    "text": " She explained that she would late for the meeting because of the heavy traffic on me.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 3.36,
-            "text": " She explained that she would late for the meeting because of the heavy traffic on the",
+            "end": 3.6,
+            "text": " She explained that she would late for the meeting because of the heavy traffic on me.",
             "tokens": [
                 50364,
                 1240,
@@ -24,31 +24,14 @@
                 4676,
                 6419,
                 322,
-                264,
-                50532
-            ],
-            "temperature": 0.0,
-            "avg_logprob": -0.22960132360458374,
-            "compression_ratio": 1.1604938271604939,
-            "no_speech_prob": 0.0027871225029230118
-        },
-        {
-            "id": 1,
-            "seek": 0,
-            "start": 3.36,
-            "end": 3.92,
-            "text": " freeway.",
-            "tokens": [
-                50532,
-                1737,
-                676,
+                385,
                 13,
-                50560
+                50544
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.22960132360458374,
-            "compression_ratio": 1.1604938271604939,
-            "no_speech_prob": 0.0027871225029230118
+            "avg_logprob": -0.29713242053985595,
+            "compression_ratio": 1.0897435897435896,
+            "no_speech_prob": 0.004582870285958052
         }
     ],
     "language": "en"

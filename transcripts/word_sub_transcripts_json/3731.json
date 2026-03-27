@@ -1,0 +1,74 @@
+{
+    "text": " we should contend to all possible options.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.18,
+            "text": " we should contend to all possible options.",
+            "tokens": [
+                50364,
+                321,
+                820,
+                660,
+                521,
+                281,
+                439,
+                1944,
+                3956,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5239861408869425,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.0056894877925515175,
+            "words": [
+                {
+                    "word": " we",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5536699295043945
+                },
+                {
+                    "word": " should",
+                    "start": 0.12,
+                    "end": 0.28,
+                    "probability": 0.9953799247741699
+                },
+                {
+                    "word": " contend",
+                    "start": 0.28,
+                    "end": 0.78,
+                    "probability": 0.5647924989461899
+                },
+                {
+                    "word": " to",
+                    "start": 0.78,
+                    "end": 0.92,
+                    "probability": 0.7445489168167114
+                },
+                {
+                    "word": " all",
+                    "start": 0.92,
+                    "end": 1.06,
+                    "probability": 0.8440669178962708
+                },
+                {
+                    "word": " possible",
+                    "start": 1.06,
+                    "end": 1.56,
+                    "probability": 0.9918966889381409
+                },
+                {
+                    "word": " options.",
+                    "start": 1.56,
+                    "end": 2.18,
+                    "probability": 0.9826673865318298
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,106 @@
+{
+    "text": " She's been working on improving her. Public speaking skills.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.88,
+            "text": " She's been working on improving her.",
+            "tokens": [
+                50364,
+                1240,
+                311,
+                668,
+                1364,
+                322,
+                11470,
+                720,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5065240859985352,
+            "compression_ratio": 0.967741935483871,
+            "no_speech_prob": 0.016720006242394447,
+            "words": [
+                {
+                    "word": " She's",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.8358521461486816
+                },
+                {
+                    "word": " been",
+                    "start": 0.36,
+                    "end": 0.52,
+                    "probability": 0.9976010918617249
+                },
+                {
+                    "word": " working",
+                    "start": 0.52,
+                    "end": 0.86,
+                    "probability": 0.9954284429550171
+                },
+                {
+                    "word": " on",
+                    "start": 0.86,
+                    "end": 1.04,
+                    "probability": 0.9982280135154724
+                },
+                {
+                    "word": " improving",
+                    "start": 1.04,
+                    "end": 1.56,
+                    "probability": 0.9946225881576538
+                },
+                {
+                    "word": " her.",
+                    "start": 1.56,
+                    "end": 1.88,
+                    "probability": 0.9954367280006409
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.5600000000000005,
+            "end": 5.94,
+            "text": " Public speaking skills.",
+            "tokens": [
+                50592,
+                9489,
+                4124,
+                3942,
+                13,
+                50692
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5065240859985352,
+            "compression_ratio": 0.967741935483871,
+            "no_speech_prob": 0.016720006242394447,
+            "words": [
+                {
+                    "word": " Public",
+                    "start": 4.4,
+                    "end": 4.9,
+                    "probability": 0.7969525456428528
+                },
+                {
+                    "word": " speaking",
+                    "start": 4.9,
+                    "end": 5.4,
+                    "probability": 0.8660976886749268
+                },
+                {
+                    "word": " skills.",
+                    "start": 5.4,
+                    "end": 5.94,
+                    "probability": 0.9863669276237488
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

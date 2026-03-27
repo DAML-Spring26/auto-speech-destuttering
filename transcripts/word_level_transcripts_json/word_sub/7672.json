@@ -1,0 +1,68 @@
+{
+    "text": " The Auguster conduct raised his baton.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.86,
+            "text": " The Auguster conduct raised his baton.",
+            "tokens": [
+                50364,
+                440,
+                6897,
+                260,
+                6018,
+                6005,
+                702,
+                7362,
+                266,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5092561642328898,
+            "compression_ratio": 0.8260869565217391,
+            "no_speech_prob": 0.0028724137227982283,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.48177841305732727
+                },
+                {
+                    "word": " Auguster",
+                    "start": 0.14,
+                    "end": 0.84,
+                    "probability": 0.5981553792953491
+                },
+                {
+                    "word": " conduct",
+                    "start": 0.84,
+                    "end": 1.16,
+                    "probability": 0.48871588706970215
+                },
+                {
+                    "word": " raised",
+                    "start": 1.16,
+                    "end": 1.78,
+                    "probability": 0.7696302533149719
+                },
+                {
+                    "word": " his",
+                    "start": 1.78,
+                    "end": 2.24,
+                    "probability": 0.9841471910476685
+                },
+                {
+                    "word": " baton.",
+                    "start": 2.24,
+                    "end": 2.86,
+                    "probability": 0.8006078600883484
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

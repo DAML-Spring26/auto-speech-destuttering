@@ -1,0 +1,67 @@
+{
+    "text": " The research laboratory conducts experimental files.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.82,
+            "text": " The research laboratory conducts experimental files.",
+            "tokens": [
+                50364,
+                440,
+                2132,
+                16523,
+                6018,
+                82,
+                17069,
+                7098,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41754609888250177,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.004959490150213242,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.555138111114502
+                },
+                {
+                    "word": " research",
+                    "start": 0.1,
+                    "end": 0.46,
+                    "probability": 0.5062087178230286
+                },
+                {
+                    "word": " laboratory",
+                    "start": 0.46,
+                    "end": 1.06,
+                    "probability": 0.97532719373703
+                },
+                {
+                    "word": " conducts",
+                    "start": 1.06,
+                    "end": 1.78,
+                    "probability": 0.9767371714115143
+                },
+                {
+                    "word": " experimental",
+                    "start": 1.78,
+                    "end": 2.2,
+                    "probability": 0.991407036781311
+                },
+                {
+                    "word": " files.",
+                    "start": 2.2,
+                    "end": 2.82,
+                    "probability": 0.9956890940666199
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

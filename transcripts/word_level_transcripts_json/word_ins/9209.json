@@ -1,0 +1,102 @@
+{
+    "text": " By the time we arrived, the movie had like already started.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.9400000000000004,
+            "end": 6.0,
+            "text": " By the time we arrived, the movie had like already started.",
+            "tokens": [
+                50364,
+                3146,
+                264,
+                565,
+                321,
+                6678,
+                11,
+                264,
+                3169,
+                632,
+                411,
+                1217,
+                1409,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29914671182632446,
+            "compression_ratio": 0.9516129032258065,
+            "no_speech_prob": 0.18017332255840302,
+            "words": [
+                {
+                    "word": " By",
+                    "start": 0.9400000000000004,
+                    "end": 1.5,
+                    "probability": 0.867899477481842
+                },
+                {
+                    "word": " the",
+                    "start": 1.5,
+                    "end": 1.62,
+                    "probability": 0.9933156371116638
+                },
+                {
+                    "word": " time",
+                    "start": 1.62,
+                    "end": 1.9,
+                    "probability": 0.9989486336708069
+                },
+                {
+                    "word": " we",
+                    "start": 1.9,
+                    "end": 2.08,
+                    "probability": 0.9945603013038635
+                },
+                {
+                    "word": " arrived,",
+                    "start": 2.08,
+                    "end": 2.62,
+                    "probability": 0.994537889957428
+                },
+                {
+                    "word": " the",
+                    "start": 3.22,
+                    "end": 3.5,
+                    "probability": 0.9815399050712585
+                },
+                {
+                    "word": " movie",
+                    "start": 3.5,
+                    "end": 3.78,
+                    "probability": 0.9952616691589355
+                },
+                {
+                    "word": " had",
+                    "start": 3.78,
+                    "end": 4.04,
+                    "probability": 0.9946908354759216
+                },
+                {
+                    "word": " like",
+                    "start": 4.04,
+                    "end": 4.32,
+                    "probability": 0.8666359782218933
+                },
+                {
+                    "word": " already",
+                    "start": 4.32,
+                    "end": 5.4,
+                    "probability": 0.3866080045700073
+                },
+                {
+                    "word": " started.",
+                    "start": 5.4,
+                    "end": 6.0,
+                    "probability": 0.9948181509971619
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,95 @@
+{
+    "text": " I think we should repaint the living room this weekend.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.16,
+            "text": " I think we should repaint the living room this weekend.",
+            "tokens": [
+                50364,
+                286,
+                519,
+                321,
+                820,
+                1085,
+                5114,
+                264,
+                2647,
+                1808,
+                341,
+                6711,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35900643666585286,
+            "compression_ratio": 0.9322033898305084,
+            "no_speech_prob": 0.04345031827688217,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.86,
+                    "probability": 0.9471983909606934
+                },
+                {
+                    "word": " think",
+                    "start": 0.86,
+                    "end": 1.06,
+                    "probability": 0.9982013702392578
+                },
+                {
+                    "word": " we",
+                    "start": 1.06,
+                    "end": 1.3,
+                    "probability": 0.9963743090629578
+                },
+                {
+                    "word": " should",
+                    "start": 1.3,
+                    "end": 1.54,
+                    "probability": 0.9989280104637146
+                },
+                {
+                    "word": " repaint",
+                    "start": 1.54,
+                    "end": 1.94,
+                    "probability": 0.8934617936611176
+                },
+                {
+                    "word": " the",
+                    "start": 1.94,
+                    "end": 2.98,
+                    "probability": 0.8420236110687256
+                },
+                {
+                    "word": " living",
+                    "start": 2.98,
+                    "end": 3.24,
+                    "probability": 0.9948469400405884
+                },
+                {
+                    "word": " room",
+                    "start": 3.24,
+                    "end": 3.52,
+                    "probability": 0.9994221925735474
+                },
+                {
+                    "word": " this",
+                    "start": 3.52,
+                    "end": 3.74,
+                    "probability": 0.9803363680839539
+                },
+                {
+                    "word": " weekend.",
+                    "start": 3.74,
+                    "end": 4.16,
+                    "probability": 0.41669905185699463
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

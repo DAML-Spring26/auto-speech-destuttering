@@ -1,0 +1,66 @@
+{
+    "text": " Your account balance is currently negative.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.92,
+            "text": " Your account balance is currently negative.",
+            "tokens": [
+                50364,
+                2260,
+                2696,
+                4772,
+                307,
+                4362,
+                3671,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5218235969543457,
+            "compression_ratio": 0.8431372549019608,
+            "no_speech_prob": 0.0891643837094307,
+            "words": [
+                {
+                    "word": " Your",
+                    "start": 0.0,
+                    "end": 0.94,
+                    "probability": 0.730652391910553
+                },
+                {
+                    "word": " account",
+                    "start": 0.94,
+                    "end": 1.3,
+                    "probability": 0.9288198947906494
+                },
+                {
+                    "word": " balance",
+                    "start": 1.3,
+                    "end": 1.7,
+                    "probability": 0.9946834444999695
+                },
+                {
+                    "word": " is",
+                    "start": 1.7,
+                    "end": 2.14,
+                    "probability": 0.9954421520233154
+                },
+                {
+                    "word": " currently",
+                    "start": 2.14,
+                    "end": 3.34,
+                    "probability": 0.6020650863647461
+                },
+                {
+                    "word": " negative.",
+                    "start": 3.34,
+                    "end": 3.92,
+                    "probability": 0.9917801022529602
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

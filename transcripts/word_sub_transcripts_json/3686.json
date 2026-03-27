@@ -1,0 +1,67 @@
+{
+    "text": " the system deflects a potential threat.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.82,
+            "text": " the system deflects a potential threat.",
+            "tokens": [
+                50364,
+                264,
+                1185,
+                41373,
+                82,
+                257,
+                3995,
+                4734,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5332748673178933,
+            "compression_ratio": 0.8297872340425532,
+            "no_speech_prob": 0.020834581926465034,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6506439447402954
+                },
+                {
+                    "word": " system",
+                    "start": 0.12,
+                    "end": 0.48,
+                    "probability": 0.8905590772628784
+                },
+                {
+                    "word": " deflects",
+                    "start": 0.48,
+                    "end": 1.14,
+                    "probability": 0.7815770506858826
+                },
+                {
+                    "word": " a",
+                    "start": 1.14,
+                    "end": 1.14,
+                    "probability": 0.2950892150402069
+                },
+                {
+                    "word": " potential",
+                    "start": 1.14,
+                    "end": 1.5,
+                    "probability": 0.9438038468360901
+                },
+                {
+                    "word": " threat.",
+                    "start": 1.5,
+                    "end": 1.82,
+                    "probability": 0.83097243309021
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

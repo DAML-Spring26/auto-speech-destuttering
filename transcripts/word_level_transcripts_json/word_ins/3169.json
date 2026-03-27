@@ -1,0 +1,119 @@
+{
+    "text": " Please call Stella. We should like discuss this matter in private.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.0600000000000003,
+            "end": 2.44,
+            "text": " Please call Stella.",
+            "tokens": [
+                50364,
+                2555,
+                818,
+                45073,
+                13,
+                50556
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5506035486857096,
+            "compression_ratio": 0.9705882352941176,
+            "no_speech_prob": 0.13542504608631134,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 1.0600000000000003,
+                    "end": 1.74,
+                    "probability": 0.7266645431518555
+                },
+                {
+                    "word": " call",
+                    "start": 1.74,
+                    "end": 2.02,
+                    "probability": 0.7949449419975281
+                },
+                {
+                    "word": " Stella.",
+                    "start": 2.02,
+                    "end": 2.44,
+                    "probability": 0.8897120952606201
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.84,
+            "end": 6.34,
+            "text": " We should like discuss this matter in private.",
+            "tokens": [
+                50556,
+                492,
+                820,
+                411,
+                2248,
+                341,
+                1871,
+                294,
+                4551,
+                13,
+                50688
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5506035486857096,
+            "compression_ratio": 0.9705882352941176,
+            "no_speech_prob": 0.13542504608631134,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 3.56,
+                    "end": 3.9,
+                    "probability": 0.9729043245315552
+                },
+                {
+                    "word": " should",
+                    "start": 3.9,
+                    "end": 4.12,
+                    "probability": 0.9927992820739746
+                },
+                {
+                    "word": " like",
+                    "start": 4.12,
+                    "end": 4.34,
+                    "probability": 0.7857733964920044
+                },
+                {
+                    "word": " discuss",
+                    "start": 4.34,
+                    "end": 5.14,
+                    "probability": 0.41957220435142517
+                },
+                {
+                    "word": " this",
+                    "start": 5.14,
+                    "end": 5.54,
+                    "probability": 0.9961267113685608
+                },
+                {
+                    "word": " matter",
+                    "start": 5.54,
+                    "end": 5.84,
+                    "probability": 0.9942383766174316
+                },
+                {
+                    "word": " in",
+                    "start": 5.84,
+                    "end": 6.0,
+                    "probability": 0.9892188906669617
+                },
+                {
+                    "word": " private.",
+                    "start": 6.0,
+                    "end": 6.34,
+                    "probability": 0.9929196238517761
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

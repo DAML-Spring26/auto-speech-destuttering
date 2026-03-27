@@ -1,12 +1,12 @@
 {
-    "text": " The committee will review all, or proposals before making a final decision.",
+    "text": " The committee will review all of the final decision.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 4.4,
-            "text": " The committee will review all, or proposals before making a final decision.",
+            "end": 3.34,
+            "text": " The committee will review all of the final decision.",
             "tokens": [
                 50364,
                 440,
@@ -14,21 +14,17 @@
                 486,
                 3131,
                 439,
-                11,
-                420,
-                20198,
-                949,
-                1455,
-                257,
+                295,
+                264,
                 2572,
                 3537,
                 13,
-                50584
+                50531
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.28367987801046934,
-            "compression_ratio": 1.0416666666666667,
-            "no_speech_prob": 0.008976100012660027
+            "avg_logprob": -0.5331300221956693,
+            "compression_ratio": 0.9122807017543859,
+            "no_speech_prob": 0.03419943526387215
         }
     ],
     "language": "en"

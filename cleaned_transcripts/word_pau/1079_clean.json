@@ -1,48 +1,26 @@
 {
-    "text": " which board game should we play for? Game night this weekend.",
+    "text": " which game night this weekend.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 2.56,
-            "text": " which board game should we play for?",
+            "end": 5.0,
+            "text": " which game night this weekend.",
             "tokens": [
                 50364,
                 597,
-                3150,
                 1216,
-                820,
-                321,
-                862,
-                337,
-                30,
-                50492
-            ],
-            "temperature": 0.0,
-            "avg_logprob": -0.560362286037869,
-            "compression_ratio": 0.9384615384615385,
-            "no_speech_prob": 0.017807306721806526
-        },
-        {
-            "id": 1,
-            "seek": 0,
-            "start": 5.08,
-            "end": 7.04,
-            "text": " Game night this weekend.",
-            "tokens": [
-                50618,
-                7522,
                 1818,
                 341,
                 6711,
                 13,
-                50716
+                50614
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.560362286037869,
-            "compression_ratio": 0.9384615384615385,
-            "no_speech_prob": 0.017807306721806526
+            "avg_logprob": -0.6353861490885416,
+            "compression_ratio": 0.7894736842105263,
+            "no_speech_prob": 0.09832218289375305
         }
     ],
     "language": "en"

@@ -1,0 +1,62 @@
+{
+    "text": " Let's go, let's go swimming.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.38,
+            "text": " Let's go, let's go swimming.",
+            "tokens": [
+                50364,
+                961,
+                311,
+                352,
+                11,
+                718,
+                311,
+                352,
+                11989,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3397938807805379,
+            "compression_ratio": 0.9333333333333333,
+            "no_speech_prob": 0.01929175853729248,
+            "words": [
+                {
+                    "word": " Let's",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.8609437644481659
+                },
+                {
+                    "word": " go,",
+                    "start": 0.38,
+                    "end": 0.52,
+                    "probability": 0.9845792055130005
+                },
+                {
+                    "word": " let's",
+                    "start": 0.6,
+                    "end": 0.82,
+                    "probability": 0.963913768529892
+                },
+                {
+                    "word": " go",
+                    "start": 0.82,
+                    "end": 0.98,
+                    "probability": 0.9883281588554382
+                },
+                {
+                    "word": " swimming.",
+                    "start": 0.98,
+                    "end": 1.38,
+                    "probability": 0.9633792042732239
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

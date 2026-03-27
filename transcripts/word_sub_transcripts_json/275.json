@@ -1,0 +1,66 @@
+{
+    "text": " She pretended to research findings yesterday.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.32,
+            "text": " She pretended to research findings yesterday.",
+            "tokens": [
+                50364,
+                1240,
+                45056,
+                281,
+                2132,
+                16483,
+                5186,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41790070533752444,
+            "compression_ratio": 0.8490566037735849,
+            "no_speech_prob": 0.00487096793949604,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.760684072971344
+                },
+                {
+                    "word": " pretended",
+                    "start": 0.26,
+                    "end": 0.64,
+                    "probability": 0.9868375658988953
+                },
+                {
+                    "word": " to",
+                    "start": 0.64,
+                    "end": 0.86,
+                    "probability": 0.9874524474143982
+                },
+                {
+                    "word": " research",
+                    "start": 0.86,
+                    "end": 1.2,
+                    "probability": 0.9957985281944275
+                },
+                {
+                    "word": " findings",
+                    "start": 1.2,
+                    "end": 1.72,
+                    "probability": 0.8311049938201904
+                },
+                {
+                    "word": " yesterday.",
+                    "start": 1.72,
+                    "end": 2.32,
+                    "probability": 0.9952630996704102
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

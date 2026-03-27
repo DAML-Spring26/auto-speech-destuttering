@@ -1,0 +1,94 @@
+{
+    "text": " The company implemented a new side of a security protocol.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.5,
+            "text": " The company implemented a new side of a security protocol.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                12270,
+                257,
+                777,
+                1252,
+                295,
+                257,
+                3825,
+                10336,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3991732256753104,
+            "compression_ratio": 0.90625,
+            "no_speech_prob": 0.003659603651612997,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.3964807987213135
+                },
+                {
+                    "word": " company",
+                    "start": 0.1,
+                    "end": 0.48,
+                    "probability": 0.9919943809509277
+                },
+                {
+                    "word": " implemented",
+                    "start": 0.48,
+                    "end": 1.3,
+                    "probability": 0.9834319949150085
+                },
+                {
+                    "word": " a",
+                    "start": 1.3,
+                    "end": 1.5,
+                    "probability": 0.9671845436096191
+                },
+                {
+                    "word": " new",
+                    "start": 1.5,
+                    "end": 1.7,
+                    "probability": 0.8943660259246826
+                },
+                {
+                    "word": " side",
+                    "start": 1.7,
+                    "end": 2.06,
+                    "probability": 0.39741402864456177
+                },
+                {
+                    "word": " of",
+                    "start": 2.06,
+                    "end": 2.22,
+                    "probability": 0.8868715763092041
+                },
+                {
+                    "word": " a",
+                    "start": 2.22,
+                    "end": 2.3,
+                    "probability": 0.8189722895622253
+                },
+                {
+                    "word": " security",
+                    "start": 2.3,
+                    "end": 2.84,
+                    "probability": 0.980075478553772
+                },
+                {
+                    "word": " protocol.",
+                    "start": 2.84,
+                    "end": 3.5,
+                    "probability": 0.9988445043563843
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

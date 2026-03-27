@@ -1,0 +1,95 @@
+{
+    "text": " Have you tried turning off the device and restarting it?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.34,
+            "text": " Have you tried turning off the device and restarting it?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                3031,
+                6246,
+                766,
+                264,
+                4302,
+                293,
+                21022,
+                278,
+                309,
+                30,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.257745901743571,
+            "compression_ratio": 0.9180327868852459,
+            "no_speech_prob": 0.00492091104388237,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.8638431429862976
+                },
+                {
+                    "word": " you",
+                    "start": 0.18,
+                    "end": 0.34,
+                    "probability": 0.998028576374054
+                },
+                {
+                    "word": " tried",
+                    "start": 0.34,
+                    "end": 0.58,
+                    "probability": 0.9818442463874817
+                },
+                {
+                    "word": " turning",
+                    "start": 0.58,
+                    "end": 0.9,
+                    "probability": 0.9910017848014832
+                },
+                {
+                    "word": " off",
+                    "start": 0.9,
+                    "end": 1.22,
+                    "probability": 0.9847842454910278
+                },
+                {
+                    "word": " the",
+                    "start": 1.22,
+                    "end": 1.48,
+                    "probability": 0.9921889305114746
+                },
+                {
+                    "word": " device",
+                    "start": 1.48,
+                    "end": 2.14,
+                    "probability": 0.9138755202293396
+                },
+                {
+                    "word": " and",
+                    "start": 2.14,
+                    "end": 2.52,
+                    "probability": 0.9468514919281006
+                },
+                {
+                    "word": " restarting",
+                    "start": 2.52,
+                    "end": 3.18,
+                    "probability": 0.9942068159580231
+                },
+                {
+                    "word": " it?",
+                    "start": 3.18,
+                    "end": 3.34,
+                    "probability": 0.9826229810714722
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

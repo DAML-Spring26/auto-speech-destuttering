@@ -1,0 +1,90 @@
+{
+    "text": " The scientist observed the cellulose psychosis under the microscope.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.44,
+            "text": " The scientist observed the cellulose psychosis under the microscope.",
+            "tokens": [
+                50364,
+                440,
+                12662,
+                13095,
+                264,
+                2815,
+                425,
+                541,
+                4681,
+                8211,
+                833,
+                264,
+                29753,
+                13,
+                50552
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5631482005119324,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.004634440876543522,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7498041987419128
+                },
+                {
+                    "word": " scientist",
+                    "start": 0.12,
+                    "end": 0.52,
+                    "probability": 0.7029615640640259
+                },
+                {
+                    "word": " observed",
+                    "start": 0.52,
+                    "end": 1.02,
+                    "probability": 0.9723552465438843
+                },
+                {
+                    "word": " the",
+                    "start": 1.02,
+                    "end": 1.26,
+                    "probability": 0.9738209843635559
+                },
+                {
+                    "word": " cellulose",
+                    "start": 1.26,
+                    "end": 1.86,
+                    "probability": 0.5994324386119843
+                },
+                {
+                    "word": " psychosis",
+                    "start": 1.86,
+                    "end": 2.4,
+                    "probability": 0.5139575395733118
+                },
+                {
+                    "word": " under",
+                    "start": 2.4,
+                    "end": 2.72,
+                    "probability": 0.9835363626480103
+                },
+                {
+                    "word": " the",
+                    "start": 2.72,
+                    "end": 2.88,
+                    "probability": 0.9944485425949097
+                },
+                {
+                    "word": " microscope.",
+                    "start": 2.88,
+                    "end": 3.44,
+                    "probability": 0.9939018487930298
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

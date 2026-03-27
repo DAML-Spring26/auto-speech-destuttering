@@ -1,0 +1,94 @@
+{
+    "text": " The board is considering to approve the proposed expansion plan.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.9,
+            "text": " The board is considering to approve the proposed expansion plan.",
+            "tokens": [
+                50364,
+                440,
+                3150,
+                307,
+                8079,
+                281,
+                18827,
+                264,
+                10348,
+                11260,
+                1393,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2899199553898403,
+            "compression_ratio": 0.9846153846153847,
+            "no_speech_prob": 0.04966391623020172,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.62,
+                    "probability": 0.7689696550369263
+                },
+                {
+                    "word": " board",
+                    "start": 0.62,
+                    "end": 0.94,
+                    "probability": 0.8121235966682434
+                },
+                {
+                    "word": " is",
+                    "start": 0.94,
+                    "end": 1.22,
+                    "probability": 0.9982984662055969
+                },
+                {
+                    "word": " considering",
+                    "start": 1.22,
+                    "end": 1.74,
+                    "probability": 0.9790490865707397
+                },
+                {
+                    "word": " to",
+                    "start": 1.74,
+                    "end": 1.98,
+                    "probability": 0.9973868727684021
+                },
+                {
+                    "word": " approve",
+                    "start": 1.98,
+                    "end": 2.22,
+                    "probability": 0.9851189255714417
+                },
+                {
+                    "word": " the",
+                    "start": 2.22,
+                    "end": 2.38,
+                    "probability": 0.9747810363769531
+                },
+                {
+                    "word": " proposed",
+                    "start": 2.38,
+                    "end": 2.82,
+                    "probability": 0.9936277866363525
+                },
+                {
+                    "word": " expansion",
+                    "start": 2.82,
+                    "end": 3.44,
+                    "probability": 0.9622122645378113
+                },
+                {
+                    "word": " plan.",
+                    "start": 3.44,
+                    "end": 3.9,
+                    "probability": 0.9972507357597351
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

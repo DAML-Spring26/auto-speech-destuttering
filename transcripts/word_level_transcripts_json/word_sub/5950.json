@@ -1,0 +1,81 @@
+{
+    "text": " the patient's symptoms indicate a possible vital infection.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.14,
+            "text": " the patient's symptoms indicate a possible vital infection.",
+            "tokens": [
+                50364,
+                264,
+                4537,
+                311,
+                8332,
+                13330,
+                257,
+                1944,
+                11707,
+                11764,
+                13,
+                50529
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3772141750042255,
+            "compression_ratio": 0.9365079365079365,
+            "no_speech_prob": 0.011382309719920158,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.4540247619152069
+                },
+                {
+                    "word": " patient's",
+                    "start": 0.12,
+                    "end": 0.64,
+                    "probability": 0.8515967130661011
+                },
+                {
+                    "word": " symptoms",
+                    "start": 0.64,
+                    "end": 0.98,
+                    "probability": 0.9931898713111877
+                },
+                {
+                    "word": " indicate",
+                    "start": 0.98,
+                    "end": 1.5,
+                    "probability": 0.9884558916091919
+                },
+                {
+                    "word": " a",
+                    "start": 1.5,
+                    "end": 1.68,
+                    "probability": 0.9878228902816772
+                },
+                {
+                    "word": " possible",
+                    "start": 1.68,
+                    "end": 2.1,
+                    "probability": 0.9966868758201599
+                },
+                {
+                    "word": " vital",
+                    "start": 2.1,
+                    "end": 2.52,
+                    "probability": 0.9613342881202698
+                },
+                {
+                    "word": " infection.",
+                    "start": 2.52,
+                    "end": 3.14,
+                    "probability": 0.9708290696144104
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

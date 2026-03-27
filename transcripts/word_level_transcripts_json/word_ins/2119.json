@@ -1,0 +1,87 @@
+{
+    "text": " Can you help me move this heavy wool box?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.52,
+            "text": " Can you help me move this heavy wool box?",
+            "tokens": [
+                50364,
+                1664,
+                291,
+                854,
+                385,
+                1286,
+                341,
+                4676,
+                24181,
+                2424,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5334557753342849,
+            "compression_ratio": 0.8541666666666666,
+            "no_speech_prob": 0.03494022414088249,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.0,
+                    "end": 0.88,
+                    "probability": 0.7662451863288879
+                },
+                {
+                    "word": " you",
+                    "start": 0.88,
+                    "end": 1.0,
+                    "probability": 0.9953479170799255
+                },
+                {
+                    "word": " help",
+                    "start": 1.0,
+                    "end": 1.16,
+                    "probability": 0.9972805976867676
+                },
+                {
+                    "word": " me",
+                    "start": 1.16,
+                    "end": 1.32,
+                    "probability": 0.9506158828735352
+                },
+                {
+                    "word": " move",
+                    "start": 1.32,
+                    "end": 1.54,
+                    "probability": 0.9439331889152527
+                },
+                {
+                    "word": " this",
+                    "start": 1.54,
+                    "end": 1.8,
+                    "probability": 0.9882165789604187
+                },
+                {
+                    "word": " heavy",
+                    "start": 1.8,
+                    "end": 2.04,
+                    "probability": 0.9340972304344177
+                },
+                {
+                    "word": " wool",
+                    "start": 2.04,
+                    "end": 2.26,
+                    "probability": 0.18622589111328125
+                },
+                {
+                    "word": " box?",
+                    "start": 2.26,
+                    "end": 2.52,
+                    "probability": 0.9874703288078308
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

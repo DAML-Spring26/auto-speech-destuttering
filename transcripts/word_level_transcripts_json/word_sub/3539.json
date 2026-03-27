@@ -1,0 +1,59 @@
+{
+    "text": " they approve the proposed charges.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.7,
+            "text": " they approve the proposed charges.",
+            "tokens": [
+                50364,
+                436,
+                18827,
+                264,
+                10348,
+                12235,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.43582746717664933,
+            "compression_ratio": 0.85,
+            "no_speech_prob": 0.005309104919433594,
+            "words": [
+                {
+                    "word": " they",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5649040937423706
+                },
+                {
+                    "word": " approve",
+                    "start": 0.14,
+                    "end": 0.52,
+                    "probability": 0.4991763234138489
+                },
+                {
+                    "word": " the",
+                    "start": 0.52,
+                    "end": 0.76,
+                    "probability": 0.9698278903961182
+                },
+                {
+                    "word": " proposed",
+                    "start": 0.76,
+                    "end": 1.14,
+                    "probability": 0.9985297918319702
+                },
+                {
+                    "word": " charges.",
+                    "start": 1.14,
+                    "end": 1.7,
+                    "probability": 0.9881653785705566
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

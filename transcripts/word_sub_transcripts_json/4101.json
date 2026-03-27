@@ -1,0 +1,60 @@
+{
+    "text": " The device pleases precise values.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.06,
+            "text": " The device pleases precise values.",
+            "tokens": [
+                50364,
+                440,
+                4302,
+                3362,
+                1957,
+                13600,
+                4190,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41678729057312014,
+            "compression_ratio": 0.8095238095238095,
+            "no_speech_prob": 0.0032389324624091387,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.7551752328872681
+                },
+                {
+                    "word": " device",
+                    "start": 0.14,
+                    "end": 0.5,
+                    "probability": 0.9966248273849487
+                },
+                {
+                    "word": " pleases",
+                    "start": 0.5,
+                    "end": 0.98,
+                    "probability": 0.8732083141803741
+                },
+                {
+                    "word": " precise",
+                    "start": 0.98,
+                    "end": 1.38,
+                    "probability": 0.9919529557228088
+                },
+                {
+                    "word": " values.",
+                    "start": 1.38,
+                    "end": 2.06,
+                    "probability": 0.9694385528564453
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

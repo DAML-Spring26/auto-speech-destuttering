@@ -1,0 +1,75 @@
+{
+    "text": " Please evacuate the building, comey and quickly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.92,
+            "text": " Please evacuate the building, comey and quickly.",
+            "tokens": [
+                50364,
+                2555,
+                48570,
+                264,
+                2390,
+                11,
+                808,
+                88,
+                293,
+                2661,
+                13,
+                50572
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5867671232957107,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.008918617852032185,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.8077692985534668
+                },
+                {
+                    "word": " evacuate",
+                    "start": 0.24,
+                    "end": 0.7,
+                    "probability": 0.8545186519622803
+                },
+                {
+                    "word": " the",
+                    "start": 0.7,
+                    "end": 0.92,
+                    "probability": 0.9868351817131042
+                },
+                {
+                    "word": " building,",
+                    "start": 0.92,
+                    "end": 1.24,
+                    "probability": 0.9665096402168274
+                },
+                {
+                    "word": " comey",
+                    "start": 1.48,
+                    "end": 1.86,
+                    "probability": 0.3532733768224716
+                },
+                {
+                    "word": " and",
+                    "start": 1.86,
+                    "end": 2.12,
+                    "probability": 0.6408769488334656
+                },
+                {
+                    "word": " quickly.",
+                    "start": 2.12,
+                    "end": 3.92,
+                    "probability": 0.3937588632106781
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

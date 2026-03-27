@@ -1,0 +1,105 @@
+{
+    "text": " The art gallery's latest exhibition, which showcases local artists, well received.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.52,
+            "text": " The art gallery's latest exhibition, which showcases local artists, well received.",
+            "tokens": [
+                50364,
+                440,
+                1523,
+                18378,
+                311,
+                6792,
+                14414,
+                11,
+                597,
+                29794,
+                1957,
+                2654,
+                6910,
+                11,
+                731,
+                4613,
+                13,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2826521773087351,
+            "compression_ratio": 1.0512820512820513,
+            "no_speech_prob": 0.007207649759948254,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8630589842796326
+                },
+                {
+                    "word": " art",
+                    "start": 0.12,
+                    "end": 0.3,
+                    "probability": 0.8748366236686707
+                },
+                {
+                    "word": " gallery's",
+                    "start": 0.3,
+                    "end": 0.82,
+                    "probability": 0.9093476831912994
+                },
+                {
+                    "word": " latest",
+                    "start": 0.82,
+                    "end": 1.06,
+                    "probability": 0.9941084384918213
+                },
+                {
+                    "word": " exhibition,",
+                    "start": 1.06,
+                    "end": 1.7,
+                    "probability": 0.9985517859458923
+                },
+                {
+                    "word": " which",
+                    "start": 2.12,
+                    "end": 2.36,
+                    "probability": 0.9277765154838562
+                },
+                {
+                    "word": " showcases",
+                    "start": 2.36,
+                    "end": 2.88,
+                    "probability": 0.9933448433876038
+                },
+                {
+                    "word": " local",
+                    "start": 2.88,
+                    "end": 3.24,
+                    "probability": 0.986436665058136
+                },
+                {
+                    "word": " artists,",
+                    "start": 3.24,
+                    "end": 3.6,
+                    "probability": 0.9688363075256348
+                },
+                {
+                    "word": " well",
+                    "start": 3.98,
+                    "end": 4.08,
+                    "probability": 0.9132940769195557
+                },
+                {
+                    "word": " received.",
+                    "start": 4.08,
+                    "end": 4.52,
+                    "probability": 0.6370271444320679
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,95 @@
+{
+    "text": " Just tried the new restaurant downtown, the food was amazing.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.16,
+            "text": " Just tried the new restaurant downtown, the food was amazing.",
+            "tokens": [
+                50364,
+                1449,
+                3031,
+                264,
+                777,
+                6383,
+                14209,
+                11,
+                264,
+                1755,
+                390,
+                2243,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39428650538126625,
+            "compression_ratio": 0.953125,
+            "no_speech_prob": 0.0070703886449337006,
+            "words": [
+                {
+                    "word": " Just",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.5865015387535095
+                },
+                {
+                    "word": " tried",
+                    "start": 0.18,
+                    "end": 0.42,
+                    "probability": 0.9084780216217041
+                },
+                {
+                    "word": " the",
+                    "start": 0.42,
+                    "end": 0.58,
+                    "probability": 0.9862521290779114
+                },
+                {
+                    "word": " new",
+                    "start": 0.58,
+                    "end": 0.76,
+                    "probability": 0.968975305557251
+                },
+                {
+                    "word": " restaurant",
+                    "start": 0.76,
+                    "end": 1.16,
+                    "probability": 0.9925276041030884
+                },
+                {
+                    "word": " downtown,",
+                    "start": 1.16,
+                    "end": 1.78,
+                    "probability": 0.8997384309768677
+                },
+                {
+                    "word": " the",
+                    "start": 2.04,
+                    "end": 2.1,
+                    "probability": 0.9251046776771545
+                },
+                {
+                    "word": " food",
+                    "start": 2.1,
+                    "end": 2.28,
+                    "probability": 0.8778524398803711
+                },
+                {
+                    "word": " was",
+                    "start": 2.28,
+                    "end": 2.52,
+                    "probability": 0.9667891263961792
+                },
+                {
+                    "word": " amazing.",
+                    "start": 2.52,
+                    "end": 4.16,
+                    "probability": 0.8060501217842102
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,95 @@
+{
+    "text": " The company is looking for experienced and entry-level employees.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.56,
+            "text": " The company is looking for experienced and entry-level employees.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                307,
+                1237,
+                337,
+                6751,
+                293,
+                8729,
+                12,
+                12418,
+                6619,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30678529739379884,
+            "compression_ratio": 0.9701492537313433,
+            "no_speech_prob": 0.00939609669148922,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6082845330238342
+                },
+                {
+                    "word": " company",
+                    "start": 0.1,
+                    "end": 0.42,
+                    "probability": 0.9970550537109375
+                },
+                {
+                    "word": " is",
+                    "start": 0.42,
+                    "end": 0.62,
+                    "probability": 0.9963257908821106
+                },
+                {
+                    "word": " looking",
+                    "start": 0.62,
+                    "end": 0.84,
+                    "probability": 0.9977171421051025
+                },
+                {
+                    "word": " for",
+                    "start": 0.84,
+                    "end": 1.1,
+                    "probability": 0.9936389327049255
+                },
+                {
+                    "word": " experienced",
+                    "start": 1.1,
+                    "end": 1.64,
+                    "probability": 0.8529984951019287
+                },
+                {
+                    "word": " and",
+                    "start": 1.64,
+                    "end": 1.86,
+                    "probability": 0.9842049479484558
+                },
+                {
+                    "word": " entry",
+                    "start": 1.86,
+                    "end": 2.08,
+                    "probability": 0.46803247928619385
+                },
+                {
+                    "word": "-level",
+                    "start": 2.08,
+                    "end": 2.28,
+                    "probability": 0.82732293009758
+                },
+                {
+                    "word": " employees.",
+                    "start": 2.28,
+                    "end": 2.56,
+                    "probability": 0.9968320727348328
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,74 @@
+{
+    "text": " She's allergic to peanuts and tree cuts.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.96,
+            "text": " She's allergic to peanuts and tree cuts.",
+            "tokens": [
+                50364,
+                1240,
+                311,
+                31606,
+                281,
+                32895,
+                293,
+                4230,
+                9992,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4207760492960612,
+            "compression_ratio": 0.8888888888888888,
+            "no_speech_prob": 0.005373912863433361,
+            "words": [
+                {
+                    "word": " She's",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.8271726965904236
+                },
+                {
+                    "word": " allergic",
+                    "start": 0.26,
+                    "end": 0.58,
+                    "probability": 0.997747004032135
+                },
+                {
+                    "word": " to",
+                    "start": 0.58,
+                    "end": 0.92,
+                    "probability": 0.9982761144638062
+                },
+                {
+                    "word": " peanuts",
+                    "start": 0.92,
+                    "end": 1.24,
+                    "probability": 0.9648427367210388
+                },
+                {
+                    "word": " and",
+                    "start": 1.24,
+                    "end": 1.48,
+                    "probability": 0.9855629205703735
+                },
+                {
+                    "word": " tree",
+                    "start": 1.48,
+                    "end": 1.68,
+                    "probability": 0.7507436871528625
+                },
+                {
+                    "word": " cuts.",
+                    "start": 1.68,
+                    "end": 1.96,
+                    "probability": 0.47073042392730713
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

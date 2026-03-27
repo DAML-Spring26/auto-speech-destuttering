@@ -1,0 +1,81 @@
+{
+    "text": " Please remain calm and exit the building, immediately.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.06,
+            "text": " Please remain calm and exit the building, immediately.",
+            "tokens": [
+                50364,
+                2555,
+                6222,
+                7151,
+                293,
+                11043,
+                264,
+                2390,
+                11,
+                4258,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33094171377328724,
+            "compression_ratio": 0.8852459016393442,
+            "no_speech_prob": 0.02035018615424633,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.6720158457756042
+                },
+                {
+                    "word": " remain",
+                    "start": 0.42,
+                    "end": 0.76,
+                    "probability": 0.9913473725318909
+                },
+                {
+                    "word": " calm",
+                    "start": 0.76,
+                    "end": 1.16,
+                    "probability": 0.9962669014930725
+                },
+                {
+                    "word": " and",
+                    "start": 1.16,
+                    "end": 1.34,
+                    "probability": 0.9970172643661499
+                },
+                {
+                    "word": " exit",
+                    "start": 1.34,
+                    "end": 1.6,
+                    "probability": 0.9865708947181702
+                },
+                {
+                    "word": " the",
+                    "start": 1.6,
+                    "end": 1.8,
+                    "probability": 0.9938616752624512
+                },
+                {
+                    "word": " building,",
+                    "start": 1.8,
+                    "end": 2.14,
+                    "probability": 0.9925863146781921
+                },
+                {
+                    "word": " immediately.",
+                    "start": 2.56,
+                    "end": 3.06,
+                    "probability": 0.6652498841285706
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

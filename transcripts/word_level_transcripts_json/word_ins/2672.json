@@ -1,0 +1,119 @@
+{
+    "text": " We should consider the long term implications of this decision. Well...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.9000000000000001,
+            "end": 5.12,
+            "text": " We should consider the long term implications of this decision.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                1949,
+                264,
+                938,
+                1433,
+                16602,
+                295,
+                341,
+                3537,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3660688665178087,
+            "compression_ratio": 1.0597014925373134,
+            "no_speech_prob": 0.17356979846954346,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.9000000000000001,
+                    "end": 1.8,
+                    "probability": 0.7173106670379639
+                },
+                {
+                    "word": " should",
+                    "start": 1.8,
+                    "end": 2.06,
+                    "probability": 0.9981266856193542
+                },
+                {
+                    "word": " consider",
+                    "start": 2.06,
+                    "end": 2.58,
+                    "probability": 0.9962882995605469
+                },
+                {
+                    "word": " the",
+                    "start": 2.58,
+                    "end": 2.76,
+                    "probability": 0.9977286458015442
+                },
+                {
+                    "word": " long",
+                    "start": 2.76,
+                    "end": 3.02,
+                    "probability": 0.9953833222389221
+                },
+                {
+                    "word": " term",
+                    "start": 3.02,
+                    "end": 3.42,
+                    "probability": 0.47904911637306213
+                },
+                {
+                    "word": " implications",
+                    "start": 3.42,
+                    "end": 4.14,
+                    "probability": 0.9891547560691833
+                },
+                {
+                    "word": " of",
+                    "start": 4.14,
+                    "end": 4.46,
+                    "probability": 0.9985716342926025
+                },
+                {
+                    "word": " this",
+                    "start": 4.46,
+                    "end": 4.62,
+                    "probability": 0.9985346794128418
+                },
+                {
+                    "word": " decision.",
+                    "start": 4.62,
+                    "end": 5.12,
+                    "probability": 0.9958589673042297
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.18,
+            "end": 7.08,
+            "text": " Well...",
+            "tokens": [
+                50664,
+                1042,
+                485,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3660688665178087,
+            "compression_ratio": 1.0597014925373134,
+            "no_speech_prob": 0.17356979846954346,
+            "words": [
+                {
+                    "word": " Well...",
+                    "start": 6.18,
+                    "end": 7.08,
+                    "probability": 0.6258873492479324
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

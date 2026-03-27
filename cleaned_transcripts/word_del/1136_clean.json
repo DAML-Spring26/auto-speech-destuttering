@@ -1,12 +1,12 @@
 {
-    "text": " The students were excited about the coming field trip to the museum.",
+    "text": " The students were excited about coming to the museum.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 3.0,
-            "text": " The students were excited about the coming field trip to the museum.",
+            "end": 2.8000000000000003,
+            "text": " The students were excited about coming to the museum.",
             "tokens": [
                 50364,
                 440,
@@ -14,20 +14,17 @@
                 645,
                 2919,
                 466,
-                264,
                 1348,
-                2519,
-                4931,
                 281,
                 264,
                 8441,
                 13,
-                50514
+                50504
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.2811732292175293,
-            "compression_ratio": 1.0,
-            "no_speech_prob": 0.007977336645126343
+            "avg_logprob": -0.6025655086223896,
+            "compression_ratio": 0.8833333333333333,
+            "no_speech_prob": 0.008242852054536343
         }
     ],
     "language": "en"

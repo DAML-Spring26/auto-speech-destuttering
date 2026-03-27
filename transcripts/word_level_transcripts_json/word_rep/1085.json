@@ -1,0 +1,46 @@
+{
+    "text": " I'll call you.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.58,
+            "text": " I'll call you.",
+            "tokens": [
+                50364,
+                286,
+                603,
+                818,
+                291,
+                13,
+                50454
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.49406787753105164,
+            "compression_ratio": 0.7,
+            "no_speech_prob": 0.05339990183711052,
+            "words": [
+                {
+                    "word": " I'll",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.8071419298648834
+                },
+                {
+                    "word": " call",
+                    "start": 0.28,
+                    "end": 0.72,
+                    "probability": 0.8263681530952454
+                },
+                {
+                    "word": " you.",
+                    "start": 0.72,
+                    "end": 1.58,
+                    "probability": 0.7686787843704224
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

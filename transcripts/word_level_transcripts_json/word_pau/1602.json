@@ -1,0 +1,105 @@
+{
+    "text": " Have you tried turning it off? And on again?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.16,
+            "text": " Have you tried turning it off?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                3031,
+                6246,
+                309,
+                766,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6415215730667114,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.004257180728018284,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.3949745297431946
+                },
+                {
+                    "word": " you",
+                    "start": 0.2,
+                    "end": 0.3,
+                    "probability": 0.8941264152526855
+                },
+                {
+                    "word": " tried",
+                    "start": 0.3,
+                    "end": 0.5,
+                    "probability": 0.5336642861366272
+                },
+                {
+                    "word": " turning",
+                    "start": 0.5,
+                    "end": 0.8,
+                    "probability": 0.8445280194282532
+                },
+                {
+                    "word": " it",
+                    "start": 0.8,
+                    "end": 0.98,
+                    "probability": 0.9945520758628845
+                },
+                {
+                    "word": " off?",
+                    "start": 0.98,
+                    "end": 1.16,
+                    "probability": 0.9931702613830566
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.9200000000000004,
+            "end": 4.7,
+            "text": " And on again?",
+            "tokens": [
+                50574,
+                400,
+                322,
+                797,
+                30,
+                50624
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6415215730667114,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.004257180728018284,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 3.9200000000000004,
+                    "end": 4.32,
+                    "probability": 0.8852073550224304
+                },
+                {
+                    "word": " on",
+                    "start": 4.32,
+                    "end": 4.42,
+                    "probability": 0.9890475869178772
+                },
+                {
+                    "word": " again?",
+                    "start": 4.42,
+                    "end": 4.7,
+                    "probability": 0.9558844566345215
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

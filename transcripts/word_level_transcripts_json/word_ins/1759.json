@@ -1,0 +1,73 @@
+{
+    "text": " Please submit your assignments by next week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.8,
+            "text": " Please submit your assignments by next week.",
+            "tokens": [
+                50364,
+                2555,
+                10315,
+                428,
+                22546,
+                538,
+                958,
+                1243,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2648069208318537,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.07025926560163498,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.7065776586532593
+                },
+                {
+                    "word": " submit",
+                    "start": 0.36,
+                    "end": 0.6,
+                    "probability": 0.9961930513381958
+                },
+                {
+                    "word": " your",
+                    "start": 0.6,
+                    "end": 0.78,
+                    "probability": 0.9975162744522095
+                },
+                {
+                    "word": " assignments",
+                    "start": 0.78,
+                    "end": 1.12,
+                    "probability": 0.9950416684150696
+                },
+                {
+                    "word": " by",
+                    "start": 1.12,
+                    "end": 1.36,
+                    "probability": 0.9809891581535339
+                },
+                {
+                    "word": " next",
+                    "start": 1.36,
+                    "end": 1.6,
+                    "probability": 0.6293482184410095
+                },
+                {
+                    "word": " week.",
+                    "start": 1.6,
+                    "end": 1.8,
+                    "probability": 0.9950000047683716
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

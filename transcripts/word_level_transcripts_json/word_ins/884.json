@@ -1,0 +1,80 @@
+{
+    "text": " Remember to take your medication twice a day.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.8799999999999999,
+            "end": 4.2,
+            "text": " Remember to take your medication twice a day.",
+            "tokens": [
+                50364,
+                5459,
+                281,
+                747,
+                428,
+                13851,
+                6091,
+                257,
+                786,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4144025643666585,
+            "compression_ratio": 0.8490566037735849,
+            "no_speech_prob": 0.0379941500723362,
+            "words": [
+                {
+                    "word": " Remember",
+                    "start": 0.8799999999999999,
+                    "end": 1.4,
+                    "probability": 0.8462767004966736
+                },
+                {
+                    "word": " to",
+                    "start": 1.4,
+                    "end": 1.66,
+                    "probability": 0.9945933222770691
+                },
+                {
+                    "word": " take",
+                    "start": 1.66,
+                    "end": 1.9,
+                    "probability": 0.9928147792816162
+                },
+                {
+                    "word": " your",
+                    "start": 1.9,
+                    "end": 2.18,
+                    "probability": 0.9952629804611206
+                },
+                {
+                    "word": " medication",
+                    "start": 2.18,
+                    "end": 2.86,
+                    "probability": 0.9895077347755432
+                },
+                {
+                    "word": " twice",
+                    "start": 2.86,
+                    "end": 3.78,
+                    "probability": 0.8042332530021667
+                },
+                {
+                    "word": " a",
+                    "start": 3.78,
+                    "end": 4.0,
+                    "probability": 0.9740866422653198
+                },
+                {
+                    "word": " day.",
+                    "start": 4.0,
+                    "end": 4.2,
+                    "probability": 0.5815919637680054
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

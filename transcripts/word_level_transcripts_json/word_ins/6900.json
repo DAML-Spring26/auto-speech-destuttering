@@ -1,0 +1,170 @@
+{
+    "text": " I it a do the print please call Stella. What time does our flight to Paris, um, depart?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.62,
+            "text": " I it a do the print please call Stella.",
+            "tokens": [
+                50364,
+                286,
+                309,
+                257,
+                360,
+                264,
+                4482,
+                1767,
+                818,
+                45073,
+                13,
+                50552
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5887581860577619,
+            "compression_ratio": 1.0481927710843373,
+            "no_speech_prob": 0.03746623173356056,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.56,
+                    "probability": 0.7253782153129578
+                },
+                {
+                    "word": " it",
+                    "start": 0.56,
+                    "end": 0.72,
+                    "probability": 0.15023969113826752
+                },
+                {
+                    "word": " a",
+                    "start": 0.72,
+                    "end": 0.8,
+                    "probability": 0.23007646203041077
+                },
+                {
+                    "word": " do",
+                    "start": 0.8,
+                    "end": 0.98,
+                    "probability": 0.5649794936180115
+                },
+                {
+                    "word": " the",
+                    "start": 0.98,
+                    "end": 1.24,
+                    "probability": 0.6223291754722595
+                },
+                {
+                    "word": " print",
+                    "start": 1.24,
+                    "end": 1.5,
+                    "probability": 0.22913725674152374
+                },
+                {
+                    "word": " please",
+                    "start": 1.5,
+                    "end": 1.84,
+                    "probability": 0.8218337297439575
+                },
+                {
+                    "word": " call",
+                    "start": 1.84,
+                    "end": 2.12,
+                    "probability": 0.9669556617736816
+                },
+                {
+                    "word": " Stella.",
+                    "start": 2.12,
+                    "end": 2.62,
+                    "probability": 0.8232449889183044
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.24,
+            "end": 6.02,
+            "text": " What time does our flight to Paris, um, depart?",
+            "tokens": [
+                50552,
+                708,
+                565,
+                775,
+                527,
+                7018,
+                281,
+                8380,
+                11,
+                1105,
+                11,
+                9110,
+                30,
+                50678
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5887581860577619,
+            "compression_ratio": 1.0481927710843373,
+            "no_speech_prob": 0.03746623173356056,
+            "words": [
+                {
+                    "word": " What",
+                    "start": 3.24,
+                    "end": 3.76,
+                    "probability": 0.8790882229804993
+                },
+                {
+                    "word": " time",
+                    "start": 3.76,
+                    "end": 4.0,
+                    "probability": 0.9819748997688293
+                },
+                {
+                    "word": " does",
+                    "start": 4.0,
+                    "end": 4.2,
+                    "probability": 0.9979110360145569
+                },
+                {
+                    "word": " our",
+                    "start": 4.2,
+                    "end": 4.32,
+                    "probability": 0.995155930519104
+                },
+                {
+                    "word": " flight",
+                    "start": 4.32,
+                    "end": 4.58,
+                    "probability": 0.9928507804870605
+                },
+                {
+                    "word": " to",
+                    "start": 4.58,
+                    "end": 4.78,
+                    "probability": 0.9911711812019348
+                },
+                {
+                    "word": " Paris,",
+                    "start": 4.78,
+                    "end": 5.12,
+                    "probability": 0.9713418483734131
+                },
+                {
+                    "word": " um,",
+                    "start": 5.6,
+                    "end": 5.72,
+                    "probability": 0.7433297634124756
+                },
+                {
+                    "word": " depart?",
+                    "start": 6.0,
+                    "end": 6.02,
+                    "probability": 0.9775218963623047
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

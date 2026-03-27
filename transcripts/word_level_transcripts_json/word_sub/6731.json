@@ -1,0 +1,94 @@
+{
+    "text": " The economy has predicted a recession in the coming year.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.62,
+            "text": " The economy has predicted a recession in the coming year.",
+            "tokens": [
+                50364,
+                440,
+                5010,
+                575,
+                19147,
+                257,
+                24828,
+                294,
+                264,
+                1348,
+                1064,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5183609553745815,
+            "compression_ratio": 0.9344262295081968,
+            "no_speech_prob": 0.006019056774675846,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 0.5547990798950195
+                },
+                {
+                    "word": " economy",
+                    "start": 0.08,
+                    "end": 0.42,
+                    "probability": 0.16293871402740479
+                },
+                {
+                    "word": " has",
+                    "start": 0.42,
+                    "end": 0.6,
+                    "probability": 0.7785834074020386
+                },
+                {
+                    "word": " predicted",
+                    "start": 0.6,
+                    "end": 1.02,
+                    "probability": 0.5158388018608093
+                },
+                {
+                    "word": " a",
+                    "start": 1.02,
+                    "end": 1.2,
+                    "probability": 0.9843898415565491
+                },
+                {
+                    "word": " recession",
+                    "start": 1.2,
+                    "end": 1.76,
+                    "probability": 0.9331169724464417
+                },
+                {
+                    "word": " in",
+                    "start": 1.76,
+                    "end": 2.0,
+                    "probability": 0.7500616312026978
+                },
+                {
+                    "word": " the",
+                    "start": 2.0,
+                    "end": 2.06,
+                    "probability": 0.9849421977996826
+                },
+                {
+                    "word": " coming",
+                    "start": 2.06,
+                    "end": 2.32,
+                    "probability": 0.9892265796661377
+                },
+                {
+                    "word": " year.",
+                    "start": 2.32,
+                    "end": 2.62,
+                    "probability": 0.9600426554679871
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

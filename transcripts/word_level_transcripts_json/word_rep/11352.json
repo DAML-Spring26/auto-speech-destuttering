@@ -1,0 +1,122 @@
+{
+    "text": " This smartphone is more expensive than the one we saw at the other store.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.84,
+            "text": " This smartphone is more expensive than the one we saw at the other store.",
+            "tokens": [
+                50364,
+                639,
+                13307,
+                307,
+                544,
+                5124,
+                813,
+                264,
+                472,
+                321,
+                1866,
+                412,
+                264,
+                661,
+                3531,
+                13,
+                50572
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2322839895884196,
+            "compression_ratio": 1.0579710144927537,
+            "no_speech_prob": 0.007257311139255762,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7855494022369385
+                },
+                {
+                    "word": " smartphone",
+                    "start": 0.16,
+                    "end": 0.7,
+                    "probability": 0.9635616540908813
+                },
+                {
+                    "word": " is",
+                    "start": 0.7,
+                    "end": 0.98,
+                    "probability": 0.9970687031745911
+                },
+                {
+                    "word": " more",
+                    "start": 0.98,
+                    "end": 1.16,
+                    "probability": 0.9915476441383362
+                },
+                {
+                    "word": " expensive",
+                    "start": 1.16,
+                    "end": 1.6,
+                    "probability": 0.9975994229316711
+                },
+                {
+                    "word": " than",
+                    "start": 1.6,
+                    "end": 2.0,
+                    "probability": 0.8473278880119324
+                },
+                {
+                    "word": " the",
+                    "start": 2.0,
+                    "end": 2.4,
+                    "probability": 0.498346745967865
+                },
+                {
+                    "word": " one",
+                    "start": 2.4,
+                    "end": 2.64,
+                    "probability": 0.9788640141487122
+                },
+                {
+                    "word": " we",
+                    "start": 2.64,
+                    "end": 2.8,
+                    "probability": 0.9894583225250244
+                },
+                {
+                    "word": " saw",
+                    "start": 2.8,
+                    "end": 3.02,
+                    "probability": 0.9933998584747314
+                },
+                {
+                    "word": " at",
+                    "start": 3.02,
+                    "end": 3.18,
+                    "probability": 0.9823821187019348
+                },
+                {
+                    "word": " the",
+                    "start": 3.18,
+                    "end": 3.28,
+                    "probability": 0.9416337013244629
+                },
+                {
+                    "word": " other",
+                    "start": 3.28,
+                    "end": 3.46,
+                    "probability": 0.9842516779899597
+                },
+                {
+                    "word": " store.",
+                    "start": 3.46,
+                    "end": 3.84,
+                    "probability": 0.9942723512649536
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

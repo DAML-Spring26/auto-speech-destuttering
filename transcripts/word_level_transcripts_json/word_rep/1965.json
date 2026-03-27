@@ -1,0 +1,52 @@
+{
+    "text": " She might make come.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.06,
+            "text": " She might make come.",
+            "tokens": [
+                50364,
+                1240,
+                1062,
+                652,
+                808,
+                13,
+                50424
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5831555128097534,
+            "compression_ratio": 0.7142857142857143,
+            "no_speech_prob": 0.013497356325387955,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.6524134278297424
+                },
+                {
+                    "word": " might",
+                    "start": 0.22,
+                    "end": 0.46,
+                    "probability": 0.9809607267379761
+                },
+                {
+                    "word": " make",
+                    "start": 0.46,
+                    "end": 0.76,
+                    "probability": 0.4707295596599579
+                },
+                {
+                    "word": " come.",
+                    "start": 0.76,
+                    "end": 1.06,
+                    "probability": 0.810271680355072
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

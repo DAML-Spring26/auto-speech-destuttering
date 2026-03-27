@@ -1,0 +1,88 @@
+{
+    "text": " Who's up for a virtual game night this weekend?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.2,
+            "text": " Who's up for a virtual game night this weekend?",
+            "tokens": [
+                50364,
+                2102,
+                311,
+                493,
+                337,
+                257,
+                6374,
+                1216,
+                1818,
+                341,
+                6711,
+                30,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.407691376549857,
+            "compression_ratio": 0.8545454545454545,
+            "no_speech_prob": 0.02928883209824562,
+            "words": [
+                {
+                    "word": " Who's",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.7358906269073486
+                },
+                {
+                    "word": " up",
+                    "start": 0.26,
+                    "end": 0.38,
+                    "probability": 0.9043600559234619
+                },
+                {
+                    "word": " for",
+                    "start": 0.38,
+                    "end": 0.66,
+                    "probability": 0.9815356135368347
+                },
+                {
+                    "word": " a",
+                    "start": 0.66,
+                    "end": 0.94,
+                    "probability": 0.5807104110717773
+                },
+                {
+                    "word": " virtual",
+                    "start": 0.94,
+                    "end": 1.56,
+                    "probability": 0.5844287872314453
+                },
+                {
+                    "word": " game",
+                    "start": 1.56,
+                    "end": 3.32,
+                    "probability": 0.9024895429611206
+                },
+                {
+                    "word": " night",
+                    "start": 3.32,
+                    "end": 3.6,
+                    "probability": 0.7831494212150574
+                },
+                {
+                    "word": " this",
+                    "start": 3.6,
+                    "end": 3.84,
+                    "probability": 0.968798816204071
+                },
+                {
+                    "word": " weekend?",
+                    "start": 3.84,
+                    "end": 4.2,
+                    "probability": 0.9930087327957153
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

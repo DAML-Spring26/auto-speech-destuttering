@@ -1,0 +1,73 @@
+{
+    "text": " We need to focus improving customer satisfaction.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.38,
+            "text": " We need to focus improving customer satisfaction.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                1879,
+                11470,
+                5474,
+                18715,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4231680089777166,
+            "compression_ratio": 0.8909090909090909,
+            "no_speech_prob": 0.0012983109336346388,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6596631407737732
+                },
+                {
+                    "word": " need",
+                    "start": 0.1,
+                    "end": 0.2,
+                    "probability": 0.9978111386299133
+                },
+                {
+                    "word": " to",
+                    "start": 0.2,
+                    "end": 0.32,
+                    "probability": 0.9981436729431152
+                },
+                {
+                    "word": " focus",
+                    "start": 0.32,
+                    "end": 0.6,
+                    "probability": 0.9967806339263916
+                },
+                {
+                    "word": " improving",
+                    "start": 0.6,
+                    "end": 1.12,
+                    "probability": 0.4006642997264862
+                },
+                {
+                    "word": " customer",
+                    "start": 1.12,
+                    "end": 1.6,
+                    "probability": 0.9071246385574341
+                },
+                {
+                    "word": " satisfaction.",
+                    "start": 1.6,
+                    "end": 2.38,
+                    "probability": 0.9995394945144653
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

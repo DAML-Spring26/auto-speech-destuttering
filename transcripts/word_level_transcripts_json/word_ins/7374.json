@@ -1,0 +1,88 @@
+{
+    "text": " Have you read you know? Any good books lately?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.45999999999999963,
+            "end": 3.34,
+            "text": " Have you read you know? Any good books lately?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                1401,
+                291,
+                458,
+                30,
+                2639,
+                665,
+                3642,
+                12881,
+                30,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42337982995169504,
+            "compression_ratio": 0.92,
+            "no_speech_prob": 0.17715132236480713,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.45999999999999963,
+                    "end": 0.9,
+                    "probability": 0.803695797920227
+                },
+                {
+                    "word": " you",
+                    "start": 0.9,
+                    "end": 1.08,
+                    "probability": 0.9946317672729492
+                },
+                {
+                    "word": " read",
+                    "start": 1.08,
+                    "end": 1.24,
+                    "probability": 0.9954655766487122
+                },
+                {
+                    "word": " you",
+                    "start": 1.24,
+                    "end": 1.44,
+                    "probability": 0.8424056172370911
+                },
+                {
+                    "word": " know?",
+                    "start": 1.44,
+                    "end": 1.66,
+                    "probability": 0.9530109167098999
+                },
+                {
+                    "word": " Any",
+                    "start": 2.26,
+                    "end": 2.42,
+                    "probability": 0.9336795210838318
+                },
+                {
+                    "word": " good",
+                    "start": 2.42,
+                    "end": 2.64,
+                    "probability": 0.9823482632637024
+                },
+                {
+                    "word": " books",
+                    "start": 2.64,
+                    "end": 3.0,
+                    "probability": 0.9762595891952515
+                },
+                {
+                    "word": " lately?",
+                    "start": 3.0,
+                    "end": 3.34,
+                    "probability": 0.9759261012077332
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

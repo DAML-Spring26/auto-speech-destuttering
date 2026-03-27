@@ -1,0 +1,93 @@
+{
+    "text": " How would you like your steak? Cucked.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.06,
+            "text": " How would you like your steak?",
+            "tokens": [
+                50364,
+                1012,
+                576,
+                291,
+                411,
+                428,
+                17009,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5286368131637573,
+            "compression_ratio": 0.8837209302325582,
+            "no_speech_prob": 0.004806890618056059,
+            "words": [
+                {
+                    "word": " How",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.8223757743835449
+                },
+                {
+                    "word": " would",
+                    "start": 0.18,
+                    "end": 0.32,
+                    "probability": 0.9410743713378906
+                },
+                {
+                    "word": " you",
+                    "start": 0.32,
+                    "end": 0.4,
+                    "probability": 0.9939876794815063
+                },
+                {
+                    "word": " like",
+                    "start": 0.4,
+                    "end": 0.54,
+                    "probability": 0.998307466506958
+                },
+                {
+                    "word": " your",
+                    "start": 0.54,
+                    "end": 0.7,
+                    "probability": 0.9936063289642334
+                },
+                {
+                    "word": " steak?",
+                    "start": 0.7,
+                    "end": 1.06,
+                    "probability": 0.9685031771659851
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.24,
+            "end": 4.6,
+            "text": " Cucked.",
+            "tokens": [
+                50572,
+                383,
+                1134,
+                292,
+                13,
+                50672
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5286368131637573,
+            "compression_ratio": 0.8837209302325582,
+            "no_speech_prob": 0.004806890618056059,
+            "words": [
+                {
+                    "word": " Cucked.",
+                    "start": 4.24,
+                    "end": 4.6,
+                    "probability": 0.6403330862522125
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

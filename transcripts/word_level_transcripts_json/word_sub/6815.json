@@ -1,0 +1,88 @@
+{
+    "text": " What's the estimated completion date for the construction object?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.38,
+            "text": " What's the estimated completion date for the construction object?",
+            "tokens": [
+                50364,
+                708,
+                311,
+                264,
+                14109,
+                19372,
+                4002,
+                337,
+                264,
+                6435,
+                2657,
+                30,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2870068209511893,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.007218018639832735,
+            "words": [
+                {
+                    "word": " What's",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.8222433030605316
+                },
+                {
+                    "word": " the",
+                    "start": 0.42,
+                    "end": 0.52,
+                    "probability": 0.96851646900177
+                },
+                {
+                    "word": " estimated",
+                    "start": 0.52,
+                    "end": 1.2,
+                    "probability": 0.9719997048377991
+                },
+                {
+                    "word": " completion",
+                    "start": 1.2,
+                    "end": 2.02,
+                    "probability": 0.9863936305046082
+                },
+                {
+                    "word": " date",
+                    "start": 2.02,
+                    "end": 2.44,
+                    "probability": 0.9992555975914001
+                },
+                {
+                    "word": " for",
+                    "start": 2.44,
+                    "end": 2.8,
+                    "probability": 0.9913615584373474
+                },
+                {
+                    "word": " the",
+                    "start": 2.8,
+                    "end": 2.96,
+                    "probability": 0.9927540421485901
+                },
+                {
+                    "word": " construction",
+                    "start": 2.96,
+                    "end": 3.74,
+                    "probability": 0.8279650807380676
+                },
+                {
+                    "word": " object?",
+                    "start": 3.74,
+                    "end": 4.38,
+                    "probability": 0.9953694939613342
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

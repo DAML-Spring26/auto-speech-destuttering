@@ -1,0 +1,110 @@
+{
+    "text": " We need to finalize the budgetum by the end of the week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.02,
+            "text": " We need to finalize the budgetum by the end of the week.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                2572,
+                1125,
+                264,
+                4706,
+                449,
+                538,
+                264,
+                917,
+                295,
+                264,
+                1243,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23047012752956814,
+            "compression_ratio": 0.9824561403508771,
+            "no_speech_prob": 0.022534161806106567,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.64,
+                    "probability": 0.8517219424247742
+                },
+                {
+                    "word": " need",
+                    "start": 0.64,
+                    "end": 0.78,
+                    "probability": 0.9982984662055969
+                },
+                {
+                    "word": " to",
+                    "start": 0.78,
+                    "end": 0.94,
+                    "probability": 0.9987207055091858
+                },
+                {
+                    "word": " finalize",
+                    "start": 0.94,
+                    "end": 1.48,
+                    "probability": 0.9590341448783875
+                },
+                {
+                    "word": " the",
+                    "start": 1.48,
+                    "end": 1.62,
+                    "probability": 0.995101809501648
+                },
+                {
+                    "word": " budgetum",
+                    "start": 1.62,
+                    "end": 2.08,
+                    "probability": 0.7877027690410614
+                },
+                {
+                    "word": " by",
+                    "start": 2.08,
+                    "end": 2.26,
+                    "probability": 0.9976086616516113
+                },
+                {
+                    "word": " the",
+                    "start": 2.26,
+                    "end": 2.4,
+                    "probability": 0.9988051652908325
+                },
+                {
+                    "word": " end",
+                    "start": 2.4,
+                    "end": 2.56,
+                    "probability": 0.9988813996315002
+                },
+                {
+                    "word": " of",
+                    "start": 2.56,
+                    "end": 2.72,
+                    "probability": 0.9971925616264343
+                },
+                {
+                    "word": " the",
+                    "start": 2.72,
+                    "end": 2.82,
+                    "probability": 0.9968066215515137
+                },
+                {
+                    "word": " week.",
+                    "start": 2.82,
+                    "end": 3.02,
+                    "probability": 0.9987945556640625
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

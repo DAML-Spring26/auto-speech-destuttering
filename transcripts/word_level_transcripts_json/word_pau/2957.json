@@ -1,0 +1,128 @@
+{
+    "text": " Don't forget to bring your ID. I'm boarding pass to the airport.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.48,
+            "text": " Don't forget to bring your ID.",
+            "tokens": [
+                50364,
+                1468,
+                380,
+                2870,
+                281,
+                1565,
+                428,
+                7348,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33798662821451825,
+            "compression_ratio": 0.9411764705882353,
+            "no_speech_prob": 0.006285723764449358,
+            "words": [
+                {
+                    "word": " Don't",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.8985466957092285
+                },
+                {
+                    "word": " forget",
+                    "start": 0.22,
+                    "end": 0.58,
+                    "probability": 0.9897204041481018
+                },
+                {
+                    "word": " to",
+                    "start": 0.58,
+                    "end": 0.78,
+                    "probability": 0.9939664602279663
+                },
+                {
+                    "word": " bring",
+                    "start": 0.78,
+                    "end": 0.96,
+                    "probability": 0.979918360710144
+                },
+                {
+                    "word": " your",
+                    "start": 0.96,
+                    "end": 1.16,
+                    "probability": 0.9725635051727295
+                },
+                {
+                    "word": " ID.",
+                    "start": 1.16,
+                    "end": 1.48,
+                    "probability": 0.8676789999008179
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.7,
+            "end": 5.54,
+            "text": " I'm boarding pass to the airport.",
+            "tokens": [
+                50564,
+                286,
+                478,
+                30528,
+                1320,
+                281,
+                264,
+                10155,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33798662821451825,
+            "compression_ratio": 0.9411764705882353,
+            "no_speech_prob": 0.006285723764449358,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 3.7,
+                    "end": 4.28,
+                    "probability": 0.9006464183330536
+                },
+                {
+                    "word": " boarding",
+                    "start": 4.28,
+                    "end": 4.52,
+                    "probability": 0.9780862927436829
+                },
+                {
+                    "word": " pass",
+                    "start": 4.52,
+                    "end": 4.86,
+                    "probability": 0.6523385643959045
+                },
+                {
+                    "word": " to",
+                    "start": 4.86,
+                    "end": 5.12,
+                    "probability": 0.9912986159324646
+                },
+                {
+                    "word": " the",
+                    "start": 5.12,
+                    "end": 5.22,
+                    "probability": 0.975271999835968
+                },
+                {
+                    "word": " airport.",
+                    "start": 5.22,
+                    "end": 5.54,
+                    "probability": 0.9534106254577637
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

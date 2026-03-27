@@ -1,0 +1,95 @@
+{
+    "text": " The artist's new sculpture was a masterpiece of modern heart.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.34,
+            "text": " The artist's new sculpture was a masterpiece of modern heart.",
+            "tokens": [
+                50364,
+                440,
+                5748,
+                311,
+                777,
+                22972,
+                390,
+                257,
+                32208,
+                295,
+                4363,
+                1917,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.282632319132487,
+            "compression_ratio": 0.9242424242424242,
+            "no_speech_prob": 0.002165899844840169,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8971258997917175
+                },
+                {
+                    "word": " artist's",
+                    "start": 0.12,
+                    "end": 0.68,
+                    "probability": 0.9178386628627777
+                },
+                {
+                    "word": " new",
+                    "start": 0.68,
+                    "end": 0.8,
+                    "probability": 0.9819837808609009
+                },
+                {
+                    "word": " sculpture",
+                    "start": 0.8,
+                    "end": 1.28,
+                    "probability": 0.9949356317520142
+                },
+                {
+                    "word": " was",
+                    "start": 1.28,
+                    "end": 1.66,
+                    "probability": 0.9919850826263428
+                },
+                {
+                    "word": " a",
+                    "start": 1.66,
+                    "end": 1.8,
+                    "probability": 0.9901589751243591
+                },
+                {
+                    "word": " masterpiece",
+                    "start": 1.8,
+                    "end": 2.38,
+                    "probability": 0.9604355096817017
+                },
+                {
+                    "word": " of",
+                    "start": 2.38,
+                    "end": 2.74,
+                    "probability": 0.9965492486953735
+                },
+                {
+                    "word": " modern",
+                    "start": 2.74,
+                    "end": 2.98,
+                    "probability": 0.9390602111816406
+                },
+                {
+                    "word": " heart.",
+                    "start": 2.98,
+                    "end": 3.34,
+                    "probability": 0.6556873321533203
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

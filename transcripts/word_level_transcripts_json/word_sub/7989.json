@@ -1,0 +1,81 @@
+{
+    "text": " the athlete demonstrated remarkable S-rank then agility.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.9,
+            "text": " the athlete demonstrated remarkable S-rank then agility.",
+            "tokens": [
+                50364,
+                264,
+                18002,
+                18772,
+                12802,
+                318,
+                12,
+                20479,
+                550,
+                39794,
+                13,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.547511834364671,
+            "compression_ratio": 0.9180327868852459,
+            "no_speech_prob": 0.005385489668697119,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.6713266372680664
+                },
+                {
+                    "word": " athlete",
+                    "start": 0.14,
+                    "end": 0.48,
+                    "probability": 0.8238682746887207
+                },
+                {
+                    "word": " demonstrated",
+                    "start": 0.48,
+                    "end": 1.14,
+                    "probability": 0.9933708906173706
+                },
+                {
+                    "word": " remarkable",
+                    "start": 1.14,
+                    "end": 1.7,
+                    "probability": 0.9939419627189636
+                },
+                {
+                    "word": " S",
+                    "start": 1.7,
+                    "end": 2.0,
+                    "probability": 0.41332191228866577
+                },
+                {
+                    "word": "-rank",
+                    "start": 2.0,
+                    "end": 2.22,
+                    "probability": 0.500764399766922
+                },
+                {
+                    "word": " then",
+                    "start": 2.22,
+                    "end": 2.46,
+                    "probability": 0.49458566308021545
+                },
+                {
+                    "word": " agility.",
+                    "start": 2.46,
+                    "end": 2.9,
+                    "probability": 0.5837346911430359
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

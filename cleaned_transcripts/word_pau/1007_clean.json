@@ -1,46 +1,45 @@
 {
-    "text": " The professor's lecture on... Quantum mechanics was fascinating.",
+    "text": " The professor is lecture on... ...quanting.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 2.0,
-            "text": " The professor's lecture on...",
+            "end": 4.58,
+            "text": " The professor is lecture on...",
             "tokens": [
                 50364,
                 440,
                 8304,
-                311,
+                307,
                 7991,
                 322,
                 485,
-                50464
+                50593
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.7298028469085693,
-            "compression_ratio": 0.9411764705882353,
-            "no_speech_prob": 0.005643866956233978
+            "avg_logprob": -0.8419869740804037,
+            "compression_ratio": 0.8775510204081632,
+            "no_speech_prob": 0.00971321389079094
         },
         {
             "id": 1,
             "seek": 0,
-            "start": 4.84,
-            "end": 7.0,
-            "text": " Quantum mechanics was fascinating.",
+            "start": 4.58,
+            "end": 5.58,
+            "text": " ...quanting.",
             "tokens": [
-                50606,
-                44964,
-                12939,
-                390,
-                10343,
+                50593,
+                1097,
+                358,
+                18571,
                 13,
-                50714
+                50643
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.7298028469085693,
-            "compression_ratio": 0.9411764705882353,
-            "no_speech_prob": 0.005643866956233978
+            "avg_logprob": -0.8419869740804037,
+            "compression_ratio": 0.8775510204081632,
+            "no_speech_prob": 0.00971321389079094
         }
     ],
     "language": "en"

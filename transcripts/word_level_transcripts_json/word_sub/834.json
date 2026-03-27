@@ -1,0 +1,75 @@
+{
+    "text": " She wrote detailed notes during the roccia.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.96,
+            "text": " She wrote detailed notes during the roccia.",
+            "tokens": [
+                50364,
+                1240,
+                4114,
+                9942,
+                5570,
+                1830,
+                264,
+                744,
+                66,
+                2755,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47791095880361706,
+            "compression_ratio": 0.8958333333333334,
+            "no_speech_prob": 0.0009446095791645348,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.8936478495597839
+                },
+                {
+                    "word": " wrote",
+                    "start": 0.22,
+                    "end": 0.4,
+                    "probability": 0.9885678291320801
+                },
+                {
+                    "word": " detailed",
+                    "start": 0.4,
+                    "end": 0.74,
+                    "probability": 0.7494890093803406
+                },
+                {
+                    "word": " notes",
+                    "start": 0.74,
+                    "end": 1.1,
+                    "probability": 0.9973588585853577
+                },
+                {
+                    "word": " during",
+                    "start": 1.1,
+                    "end": 1.38,
+                    "probability": 0.9965541362762451
+                },
+                {
+                    "word": " the",
+                    "start": 1.38,
+                    "end": 1.54,
+                    "probability": 0.967650294303894
+                },
+                {
+                    "word": " roccia.",
+                    "start": 1.54,
+                    "end": 1.96,
+                    "probability": 0.4821828951438268
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

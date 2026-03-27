@@ -1,0 +1,49 @@
+{
+    "text": " books, bookstale teals.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.74,
+            "text": " books, bookstale teals.",
+            "tokens": [
+                50364,
+                3642,
+                11,
+                1446,
+                372,
+                1220,
+                535,
+                1124,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.585543459111994,
+            "compression_ratio": 0.8214285714285714,
+            "no_speech_prob": 0.04611210152506828,
+            "words": [
+                {
+                    "word": " books,",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.5014256238937378
+                },
+                {
+                    "word": " bookstale",
+                    "start": 0.6,
+                    "end": 1.2,
+                    "probability": 0.731761505206426
+                },
+                {
+                    "word": " teals.",
+                    "start": 1.2,
+                    "end": 1.74,
+                    "probability": 0.7069650590419769
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

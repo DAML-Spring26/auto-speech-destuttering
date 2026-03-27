@@ -1,0 +1,59 @@
+{
+    "text": " Management improved the proposed changes.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.5,
+            "text": " Management improved the proposed changes.",
+            "tokens": [
+                50364,
+                14781,
+                9689,
+                264,
+                10348,
+                2962,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47125985887315536,
+            "compression_ratio": 0.8913043478260869,
+            "no_speech_prob": 0.0038053891621530056,
+            "words": [
+                {
+                    "word": " Management",
+                    "start": 0.0,
+                    "end": 0.54,
+                    "probability": 0.7508513927459717
+                },
+                {
+                    "word": " improved",
+                    "start": 0.54,
+                    "end": 1.12,
+                    "probability": 0.8976120352745056
+                },
+                {
+                    "word": " the",
+                    "start": 1.12,
+                    "end": 1.38,
+                    "probability": 0.6775427460670471
+                },
+                {
+                    "word": " proposed",
+                    "start": 1.38,
+                    "end": 1.8,
+                    "probability": 0.9969832301139832
+                },
+                {
+                    "word": " changes.",
+                    "start": 1.8,
+                    "end": 2.5,
+                    "probability": 0.9980888962745667
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

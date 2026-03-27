@@ -1,0 +1,80 @@
+{
+    "text": " We need to progress these documents quite clearly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.08,
+            "text": " We need to progress these documents quite clearly.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                4205,
+                613,
+                8512,
+                1596,
+                4448,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40339712301890057,
+            "compression_ratio": 0.8620689655172413,
+            "no_speech_prob": 0.004696629010140896,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.7890782952308655
+                },
+                {
+                    "word": " need",
+                    "start": 0.18,
+                    "end": 0.3,
+                    "probability": 0.9956133365631104
+                },
+                {
+                    "word": " to",
+                    "start": 0.3,
+                    "end": 0.42,
+                    "probability": 0.9991063475608826
+                },
+                {
+                    "word": " progress",
+                    "start": 0.42,
+                    "end": 0.7,
+                    "probability": 0.9727141261100769
+                },
+                {
+                    "word": " these",
+                    "start": 0.7,
+                    "end": 1.04,
+                    "probability": 0.9771246314048767
+                },
+                {
+                    "word": " documents",
+                    "start": 1.04,
+                    "end": 1.44,
+                    "probability": 0.9969307780265808
+                },
+                {
+                    "word": " quite",
+                    "start": 1.44,
+                    "end": 1.78,
+                    "probability": 0.7359650731086731
+                },
+                {
+                    "word": " clearly.",
+                    "start": 1.78,
+                    "end": 2.08,
+                    "probability": 0.36941319704055786
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

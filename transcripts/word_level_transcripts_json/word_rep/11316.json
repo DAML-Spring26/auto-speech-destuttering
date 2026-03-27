@@ -1,0 +1,166 @@
+{
+    "text": " The project manager, the project manager, emphasise the importance of clear communication on team members.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.1,
+            "text": " The project manager, the project manager,",
+            "tokens": [
+                50364,
+                440,
+                1716,
+                6598,
+                11,
+                264,
+                1716,
+                6598,
+                11,
+                50474
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3998404282789964,
+            "compression_ratio": 1.308641975308642,
+            "no_speech_prob": 0.004985152743756771,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7152861952781677
+                },
+                {
+                    "word": " project",
+                    "start": 0.12,
+                    "end": 0.46,
+                    "probability": 0.746477484703064
+                },
+                {
+                    "word": " manager,",
+                    "start": 0.46,
+                    "end": 0.9,
+                    "probability": 0.9610767960548401
+                },
+                {
+                    "word": " the",
+                    "start": 1.06,
+                    "end": 1.16,
+                    "probability": 0.9919405579566956
+                },
+                {
+                    "word": " project",
+                    "start": 1.16,
+                    "end": 1.54,
+                    "probability": 0.9803987145423889
+                },
+                {
+                    "word": " manager,",
+                    "start": 1.54,
+                    "end": 2.1,
+                    "probability": 0.9973670840263367
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.3,
+            "end": 5.04,
+            "text": " emphasise the importance of clear communication",
+            "tokens": [
+                50474,
+                7896,
+                908,
+                264,
+                7379,
+                295,
+                1850,
+                6101,
+                50638
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3998404282789964,
+            "compression_ratio": 1.308641975308642,
+            "no_speech_prob": 0.004985152743756771,
+            "words": [
+                {
+                    "word": " emphasise",
+                    "start": 2.3,
+                    "end": 2.98,
+                    "probability": 0.5446480214595795
+                },
+                {
+                    "word": " the",
+                    "start": 2.98,
+                    "end": 3.14,
+                    "probability": 0.994390070438385
+                },
+                {
+                    "word": " importance",
+                    "start": 3.14,
+                    "end": 3.64,
+                    "probability": 0.9955981373786926
+                },
+                {
+                    "word": " of",
+                    "start": 3.64,
+                    "end": 3.96,
+                    "probability": 0.9978528022766113
+                },
+                {
+                    "word": " clear",
+                    "start": 3.96,
+                    "end": 4.24,
+                    "probability": 0.9307115077972412
+                },
+                {
+                    "word": " communication",
+                    "start": 4.24,
+                    "end": 5.04,
+                    "probability": 0.9926732182502747
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 5.04,
+            "end": 6.5,
+            "text": " on team members.",
+            "tokens": [
+                50638,
+                322,
+                1469,
+                2679,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3998404282789964,
+            "compression_ratio": 1.308641975308642,
+            "no_speech_prob": 0.004985152743756771,
+            "words": [
+                {
+                    "word": " on",
+                    "start": 5.04,
+                    "end": 5.6,
+                    "probability": 0.26936036348342896
+                },
+                {
+                    "word": " team",
+                    "start": 5.6,
+                    "end": 5.98,
+                    "probability": 0.351931631565094
+                },
+                {
+                    "word": " members.",
+                    "start": 5.98,
+                    "end": 6.5,
+                    "probability": 0.9926844239234924
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

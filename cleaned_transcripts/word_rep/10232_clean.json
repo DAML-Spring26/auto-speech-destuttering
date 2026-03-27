@@ -1,24 +1,37 @@
 {
-    "text": " The more we invest in, in employee training, the more productive our workforce becomes.",
+    "text": " that we invest in an employee training, the more productive our workforce becomes.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 5.76,
-            "text": " The more we invest in, in employee training, the more productive our workforce becomes.",
+            "end": 3.04,
+            "text": " that we invest in an employee training,",
             "tokens": [
                 50364,
-                440,
-                544,
+                300,
                 321,
                 1963,
                 294,
-                11,
-                294,
+                364,
                 10738,
                 3097,
                 11,
+                50516
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4225621223449707,
+            "compression_ratio": 1.0789473684210527,
+            "no_speech_prob": 0.00535662891343236
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.04,
+            "end": 5.68,
+            "text": " the more productive our workforce becomes.",
+            "tokens": [
+                50516,
                 264,
                 544,
                 13304,
@@ -26,12 +39,12 @@
                 14201,
                 3643,
                 13,
-                50652
+                50648
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.3084315299987793,
-            "compression_ratio": 1.0875,
-            "no_speech_prob": 0.005991567391902208
+            "avg_logprob": -0.4225621223449707,
+            "compression_ratio": 1.0789473684210527,
+            "no_speech_prob": 0.00535662891343236
         }
     ],
     "language": "en"

@@ -1,0 +1,87 @@
+{
+    "text": " during the meeting the Board discussed strategic planting initiatives.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.6,
+            "text": " during the meeting the Board discussed strategic planting initiatives.",
+            "tokens": [
+                50364,
+                1830,
+                264,
+                3440,
+                264,
+                10008,
+                7152,
+                10924,
+                20585,
+                16194,
+                13,
+                50516
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5082615338839017,
+            "compression_ratio": 1.044776119402985,
+            "no_speech_prob": 0.005661105737090111,
+            "words": [
+                {
+                    "word": " during",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.5180859565734863
+                },
+                {
+                    "word": " the",
+                    "start": 0.24,
+                    "end": 0.38,
+                    "probability": 0.9809651970863342
+                },
+                {
+                    "word": " meeting",
+                    "start": 0.38,
+                    "end": 0.7,
+                    "probability": 0.9850485920906067
+                },
+                {
+                    "word": " the",
+                    "start": 0.7,
+                    "end": 0.94,
+                    "probability": 0.6621115207672119
+                },
+                {
+                    "word": " Board",
+                    "start": 0.94,
+                    "end": 1.12,
+                    "probability": 0.5041047930717468
+                },
+                {
+                    "word": " discussed",
+                    "start": 1.12,
+                    "end": 1.4,
+                    "probability": 0.6875823736190796
+                },
+                {
+                    "word": " strategic",
+                    "start": 1.4,
+                    "end": 1.88,
+                    "probability": 0.9855048060417175
+                },
+                {
+                    "word": " planting",
+                    "start": 1.88,
+                    "end": 2.22,
+                    "probability": 0.6242491006851196
+                },
+                {
+                    "word": " initiatives.",
+                    "start": 2.22,
+                    "end": 2.6,
+                    "probability": 0.9881556034088135
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

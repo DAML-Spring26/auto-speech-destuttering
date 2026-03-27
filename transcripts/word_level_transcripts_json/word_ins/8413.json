@@ -1,0 +1,133 @@
+{
+    "text": " Are there any known drug interactions I should you know? Be aware of.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.16,
+            "text": " Are there any known drug interactions I should you know?",
+            "tokens": [
+                50364,
+                2014,
+                456,
+                604,
+                2570,
+                4110,
+                13280,
+                286,
+                820,
+                291,
+                458,
+                30,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3274245738983154,
+            "compression_ratio": 0.9857142857142858,
+            "no_speech_prob": 0.25357261300086975,
+            "words": [
+                {
+                    "word": " Are",
+                    "start": 0.0,
+                    "end": 1.2,
+                    "probability": 0.7694517970085144
+                },
+                {
+                    "word": " there",
+                    "start": 1.2,
+                    "end": 1.4,
+                    "probability": 0.995840311050415
+                },
+                {
+                    "word": " any",
+                    "start": 1.4,
+                    "end": 1.72,
+                    "probability": 0.9943633079528809
+                },
+                {
+                    "word": " known",
+                    "start": 1.72,
+                    "end": 2.02,
+                    "probability": 0.9840667247772217
+                },
+                {
+                    "word": " drug",
+                    "start": 2.02,
+                    "end": 2.34,
+                    "probability": 0.9861806035041809
+                },
+                {
+                    "word": " interactions",
+                    "start": 2.34,
+                    "end": 2.96,
+                    "probability": 0.9961373209953308
+                },
+                {
+                    "word": " I",
+                    "start": 2.96,
+                    "end": 3.4,
+                    "probability": 0.8905943632125854
+                },
+                {
+                    "word": " should",
+                    "start": 3.4,
+                    "end": 3.62,
+                    "probability": 0.9950777292251587
+                },
+                {
+                    "word": " you",
+                    "start": 3.62,
+                    "end": 3.8,
+                    "probability": 0.9070744514465332
+                },
+                {
+                    "word": " know?",
+                    "start": 3.8,
+                    "end": 4.16,
+                    "probability": 0.9917538166046143
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.52,
+            "end": 5.86,
+            "text": " Be aware of.",
+            "tokens": [
+                50614,
+                879,
+                3650,
+                295,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3274245738983154,
+            "compression_ratio": 0.9857142857142858,
+            "no_speech_prob": 0.25357261300086975,
+            "words": [
+                {
+                    "word": " Be",
+                    "start": 4.52,
+                    "end": 5.16,
+                    "probability": 0.9626105427742004
+                },
+                {
+                    "word": " aware",
+                    "start": 5.16,
+                    "end": 5.52,
+                    "probability": 0.9958283305168152
+                },
+                {
+                    "word": " of.",
+                    "start": 5.52,
+                    "end": 5.86,
+                    "probability": 0.9939275979995728
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

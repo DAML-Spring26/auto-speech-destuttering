@@ -1,0 +1,82 @@
+{
+    "text": " We're planning a surprise party for Mom's birthday.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.52,
+            "text": " We're planning a surprise party for Mom's birthday.",
+            "tokens": [
+                50364,
+                492,
+                434,
+                5038,
+                257,
+                6365,
+                3595,
+                337,
+                5576,
+                311,
+                6154,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3394632339477539,
+            "compression_ratio": 0.8793103448275862,
+            "no_speech_prob": 0.05341655761003494,
+            "words": [
+                {
+                    "word": " We're",
+                    "start": 0.0,
+                    "end": 0.8,
+                    "probability": 0.8100150525569916
+                },
+                {
+                    "word": " planning",
+                    "start": 0.8,
+                    "end": 1.12,
+                    "probability": 0.9909862875938416
+                },
+                {
+                    "word": " a",
+                    "start": 1.12,
+                    "end": 1.32,
+                    "probability": 0.9978803396224976
+                },
+                {
+                    "word": " surprise",
+                    "start": 1.32,
+                    "end": 1.62,
+                    "probability": 0.9553644061088562
+                },
+                {
+                    "word": " party",
+                    "start": 1.62,
+                    "end": 2.22,
+                    "probability": 0.9970506429672241
+                },
+                {
+                    "word": " for",
+                    "start": 2.22,
+                    "end": 3.72,
+                    "probability": 0.8366143107414246
+                },
+                {
+                    "word": " Mom's",
+                    "start": 3.72,
+                    "end": 4.14,
+                    "probability": 0.7520022690296173
+                },
+                {
+                    "word": " birthday.",
+                    "start": 4.14,
+                    "end": 4.52,
+                    "probability": 0.9599204063415527
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

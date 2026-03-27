@@ -1,0 +1,95 @@
+{
+    "text": " I'm amazed at how quickly technology is advancing these days.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.02,
+            "text": " I'm amazed at how quickly technology is advancing these days.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                20507,
+                412,
+                577,
+                2661,
+                2899,
+                307,
+                27267,
+                613,
+                1708,
+                13,
+                50732
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30893306732177733,
+            "compression_ratio": 0.9104477611940298,
+            "no_speech_prob": 0.01457030326128006,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.8622694313526154
+                },
+                {
+                    "word": " amazed",
+                    "start": 0.26,
+                    "end": 0.56,
+                    "probability": 0.9986284971237183
+                },
+                {
+                    "word": " at",
+                    "start": 0.56,
+                    "end": 0.76,
+                    "probability": 0.9334574937820435
+                },
+                {
+                    "word": " how",
+                    "start": 0.76,
+                    "end": 0.86,
+                    "probability": 0.9982415437698364
+                },
+                {
+                    "word": " quickly",
+                    "start": 0.86,
+                    "end": 1.2,
+                    "probability": 0.9771575331687927
+                },
+                {
+                    "word": " technology",
+                    "start": 1.2,
+                    "end": 1.94,
+                    "probability": 0.9915072917938232
+                },
+                {
+                    "word": " is",
+                    "start": 1.94,
+                    "end": 2.4,
+                    "probability": 0.9840861558914185
+                },
+                {
+                    "word": " advancing",
+                    "start": 2.4,
+                    "end": 6.16,
+                    "probability": 0.9007313847541809
+                },
+                {
+                    "word": " these",
+                    "start": 6.16,
+                    "end": 6.62,
+                    "probability": 0.9898142218589783
+                },
+                {
+                    "word": " days.",
+                    "start": 6.62,
+                    "end": 7.02,
+                    "probability": 0.9981322884559631
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

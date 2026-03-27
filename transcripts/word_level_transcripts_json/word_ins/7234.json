@@ -1,0 +1,73 @@
+{
+    "text": " The client feedback has been overwhelmingly positive.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.16,
+            "text": " The client feedback has been overwhelmingly positive.",
+            "tokens": [
+                50364,
+                440,
+                6423,
+                5824,
+                575,
+                668,
+                42926,
+                3353,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34039532054554333,
+            "compression_ratio": 0.8833333333333333,
+            "no_speech_prob": 0.01970427669584751,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.46,
+                    "probability": 0.9094449281692505
+                },
+                {
+                    "word": " client",
+                    "start": 0.46,
+                    "end": 0.76,
+                    "probability": 0.9841221570968628
+                },
+                {
+                    "word": " feedback",
+                    "start": 0.76,
+                    "end": 1.12,
+                    "probability": 0.9809606075286865
+                },
+                {
+                    "word": " has",
+                    "start": 1.12,
+                    "end": 1.48,
+                    "probability": 0.9961702227592468
+                },
+                {
+                    "word": " been",
+                    "start": 1.48,
+                    "end": 1.74,
+                    "probability": 0.9991884827613831
+                },
+                {
+                    "word": " overwhelmingly",
+                    "start": 1.74,
+                    "end": 2.44,
+                    "probability": 0.9692250490188599
+                },
+                {
+                    "word": " positive.",
+                    "start": 2.44,
+                    "end": 3.16,
+                    "probability": 0.9989414811134338
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

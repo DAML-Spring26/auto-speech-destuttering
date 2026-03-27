@@ -1,0 +1,81 @@
+{
+    "text": " The new software updates include several performance optimizations.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.62,
+            "text": " The new software updates include several performance optimizations.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                4722,
+                9205,
+                4090,
+                2940,
+                3389,
+                5028,
+                14455,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2862978715163011,
+            "compression_ratio": 0.9852941176470589,
+            "no_speech_prob": 0.0030622933991253376,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8535869717597961
+                },
+                {
+                    "word": " new",
+                    "start": 0.12,
+                    "end": 0.24,
+                    "probability": 0.8742959499359131
+                },
+                {
+                    "word": " software",
+                    "start": 0.24,
+                    "end": 0.64,
+                    "probability": 0.9688555598258972
+                },
+                {
+                    "word": " updates",
+                    "start": 0.64,
+                    "end": 1.06,
+                    "probability": 0.9325097799301147
+                },
+                {
+                    "word": " include",
+                    "start": 1.06,
+                    "end": 1.54,
+                    "probability": 0.900532603263855
+                },
+                {
+                    "word": " several",
+                    "start": 1.54,
+                    "end": 2.18,
+                    "probability": 0.9898300766944885
+                },
+                {
+                    "word": " performance",
+                    "start": 2.18,
+                    "end": 5.64,
+                    "probability": 0.62624192237854
+                },
+                {
+                    "word": " optimizations.",
+                    "start": 5.64,
+                    "end": 6.62,
+                    "probability": 0.9133112728595734
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,101 @@
+{
+    "text": " The campus bookstore is having a sale on all course materials.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.0,
+            "text": " The campus bookstore is having a sale on all course materials.",
+            "tokens": [
+                50364,
+                440,
+                4828,
+                43478,
+                307,
+                1419,
+                257,
+                8680,
+                322,
+                439,
+                1164,
+                5319,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31433111826578775,
+            "compression_ratio": 0.9841269841269841,
+            "no_speech_prob": 0.047466740012168884,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.8616214990615845
+                },
+                {
+                    "word": " campus",
+                    "start": 0.38,
+                    "end": 0.7,
+                    "probability": 0.6375824213027954
+                },
+                {
+                    "word": " bookstore",
+                    "start": 0.7,
+                    "end": 1.24,
+                    "probability": 0.7484369277954102
+                },
+                {
+                    "word": " is",
+                    "start": 1.24,
+                    "end": 1.64,
+                    "probability": 0.9481012225151062
+                },
+                {
+                    "word": " having",
+                    "start": 1.64,
+                    "end": 2.32,
+                    "probability": 0.8364158868789673
+                },
+                {
+                    "word": " a",
+                    "start": 2.32,
+                    "end": 2.5,
+                    "probability": 0.9941797256469727
+                },
+                {
+                    "word": " sale",
+                    "start": 2.5,
+                    "end": 2.78,
+                    "probability": 0.9144259691238403
+                },
+                {
+                    "word": " on",
+                    "start": 2.78,
+                    "end": 3.0,
+                    "probability": 0.9913758635520935
+                },
+                {
+                    "word": " all",
+                    "start": 3.0,
+                    "end": 3.14,
+                    "probability": 0.9920374155044556
+                },
+                {
+                    "word": " course",
+                    "start": 3.14,
+                    "end": 3.38,
+                    "probability": 0.9618786573410034
+                },
+                {
+                    "word": " materials.",
+                    "start": 3.38,
+                    "end": 4.0,
+                    "probability": 0.9913316965103149
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

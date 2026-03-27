@@ -1,0 +1,80 @@
+{
+    "text": " We should grab coffee and sometime this week.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.58,
+            "text": " We should grab coffee and sometime this week.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                4444,
+                4982,
+                293,
+                15053,
+                341,
+                1243,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3089378873507182,
+            "compression_ratio": 0.8490566037735849,
+            "no_speech_prob": 0.019135834649205208,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.66,
+                    "probability": 0.8692175149917603
+                },
+                {
+                    "word": " should",
+                    "start": 0.66,
+                    "end": 0.82,
+                    "probability": 0.9956711530685425
+                },
+                {
+                    "word": " grab",
+                    "start": 0.82,
+                    "end": 1.02,
+                    "probability": 0.9989951252937317
+                },
+                {
+                    "word": " coffee",
+                    "start": 1.02,
+                    "end": 1.46,
+                    "probability": 0.8927978277206421
+                },
+                {
+                    "word": " and",
+                    "start": 1.46,
+                    "end": 1.68,
+                    "probability": 0.750143826007843
+                },
+                {
+                    "word": " sometime",
+                    "start": 1.68,
+                    "end": 2.04,
+                    "probability": 0.8999634385108948
+                },
+                {
+                    "word": " this",
+                    "start": 2.04,
+                    "end": 2.38,
+                    "probability": 0.9967904686927795
+                },
+                {
+                    "word": " week.",
+                    "start": 2.38,
+                    "end": 2.58,
+                    "probability": 0.9225975275039673
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

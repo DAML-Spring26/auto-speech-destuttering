@@ -1,0 +1,80 @@
+{
+    "text": " We depend on accurate data for our analysis.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.12,
+            "text": " We depend on accurate data for our analysis.",
+            "tokens": [
+                50364,
+                492,
+                5672,
+                322,
+                8559,
+                1412,
+                337,
+                527,
+                5215,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4161805709203084,
+            "compression_ratio": 0.8627450980392157,
+            "no_speech_prob": 0.006568901240825653,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.6154013276100159
+                },
+                {
+                    "word": " depend",
+                    "start": 0.1,
+                    "end": 0.38,
+                    "probability": 0.9805014729499817
+                },
+                {
+                    "word": " on",
+                    "start": 0.38,
+                    "end": 0.68,
+                    "probability": 0.8405519723892212
+                },
+                {
+                    "word": " accurate",
+                    "start": 0.68,
+                    "end": 0.98,
+                    "probability": 0.4513249099254608
+                },
+                {
+                    "word": " data",
+                    "start": 0.98,
+                    "end": 1.32,
+                    "probability": 0.9778948426246643
+                },
+                {
+                    "word": " for",
+                    "start": 1.32,
+                    "end": 1.54,
+                    "probability": 0.9641178250312805
+                },
+                {
+                    "word": " our",
+                    "start": 1.54,
+                    "end": 1.7,
+                    "probability": 0.936281681060791
+                },
+                {
+                    "word": " analysis.",
+                    "start": 1.7,
+                    "end": 2.12,
+                    "probability": 0.9926977753639221
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

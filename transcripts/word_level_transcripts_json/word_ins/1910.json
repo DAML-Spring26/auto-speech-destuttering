@@ -1,0 +1,108 @@
+{
+    "text": " Please check in at the front desk upon arrival at the airport.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.22,
+            "text": " Please check in at the front desk upon arrival at the airport.",
+            "tokens": [
+                50364,
+                2555,
+                1520,
+                294,
+                412,
+                264,
+                1868,
+                10026,
+                3564,
+                18365,
+                412,
+                264,
+                10155,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3208930194377899,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.06752847880125046,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.9,
+                    "probability": 0.4512268602848053
+                },
+                {
+                    "word": " check",
+                    "start": 0.9,
+                    "end": 1.34,
+                    "probability": 0.9846369028091431
+                },
+                {
+                    "word": " in",
+                    "start": 1.34,
+                    "end": 1.66,
+                    "probability": 0.9914888143539429
+                },
+                {
+                    "word": " at",
+                    "start": 1.66,
+                    "end": 1.78,
+                    "probability": 0.9875417351722717
+                },
+                {
+                    "word": " the",
+                    "start": 1.78,
+                    "end": 1.92,
+                    "probability": 0.9883916974067688
+                },
+                {
+                    "word": " front",
+                    "start": 1.92,
+                    "end": 2.22,
+                    "probability": 0.9704177975654602
+                },
+                {
+                    "word": " desk",
+                    "start": 2.22,
+                    "end": 2.64,
+                    "probability": 0.9879431128501892
+                },
+                {
+                    "word": " upon",
+                    "start": 2.64,
+                    "end": 2.92,
+                    "probability": 0.9035894274711609
+                },
+                {
+                    "word": " arrival",
+                    "start": 2.92,
+                    "end": 3.4,
+                    "probability": 0.9969589710235596
+                },
+                {
+                    "word": " at",
+                    "start": 3.4,
+                    "end": 3.62,
+                    "probability": 0.9924195408821106
+                },
+                {
+                    "word": " the",
+                    "start": 3.62,
+                    "end": 3.78,
+                    "probability": 0.9950620532035828
+                },
+                {
+                    "word": " airport.",
+                    "start": 3.78,
+                    "end": 4.22,
+                    "probability": 0.9651967287063599
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

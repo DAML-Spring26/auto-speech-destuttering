@@ -1,16 +1,15 @@
 {
-    "text": " In the event of an emergency, remain comment, follow staff, or contact with him. Successful instructions",
+    "text": " In event of an emergency, remain comment, follow staff, instructions,",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 4.5600000000000005,
-            "text": " In the event of an emergency, remain comment, follow staff,",
+            "end": 4.48,
+            "text": " In event of an emergency, remain comment, follow staff,",
             "tokens": [
                 50364,
                 682,
-                264,
                 2280,
                 295,
                 364,
@@ -22,50 +21,29 @@
                 1524,
                 3525,
                 11,
-                50592
+                50588
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.37652910456937905,
-            "compression_ratio": 0.9365079365079365,
-            "no_speech_prob": 0.011433470994234085
+            "avg_logprob": -0.622927515130294,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.012845336459577084
         },
         {
             "id": 1,
-            "seek": 456,
-            "start": 4.56,
-            "end": 22.36,
-            "text": " or contact with him.",
+            "seek": 0,
+            "start": 7.36,
+            "end": 8.56,
+            "text": " instructions,",
             "tokens": [
-                50364,
-                420,
-                3385,
-                365,
-                796,
-                13,
-                51254
-            ],
-            "temperature": 1.0,
-            "avg_logprob": -4.147885186331613,
-            "compression_ratio": 0.8461538461538461,
-            "no_speech_prob": 0.2867584526538849
-        },
-        {
-            "id": 2,
-            "seek": 456,
-            "start": 22.46,
-            "end": 28.84,
-            "text": " Successful instructions",
-            "tokens": [
-                51259,
-                23669,
-                906,
+                50732,
                 9415,
-                51578
+                11,
+                50792
             ],
-            "temperature": 1.0,
-            "avg_logprob": -4.147885186331613,
-            "compression_ratio": 0.8461538461538461,
-            "no_speech_prob": 0.2867584526538849
+            "temperature": 0.0,
+            "avg_logprob": -0.622927515130294,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.012845336459577084
         }
     ],
     "language": "en"

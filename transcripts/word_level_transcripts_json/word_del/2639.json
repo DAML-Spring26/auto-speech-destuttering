@@ -1,0 +1,122 @@
+{
+    "text": " She wondered her presentation would be well received by the audience at the conference.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.98,
+            "text": " She wondered her presentation would be well received by the audience at the conference.",
+            "tokens": [
+                50364,
+                1240,
+                17055,
+                720,
+                5860,
+                576,
+                312,
+                731,
+                4613,
+                538,
+                264,
+                4034,
+                412,
+                264,
+                7586,
+                13,
+                50580
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24902497397528756,
+            "compression_ratio": 1.1012658227848102,
+            "no_speech_prob": 0.005644070450216532,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.7777140736579895
+                },
+                {
+                    "word": " wondered",
+                    "start": 0.2,
+                    "end": 0.5,
+                    "probability": 0.9759785532951355
+                },
+                {
+                    "word": " her",
+                    "start": 0.5,
+                    "end": 0.72,
+                    "probability": 0.9616677761077881
+                },
+                {
+                    "word": " presentation",
+                    "start": 0.72,
+                    "end": 1.24,
+                    "probability": 0.9975159168243408
+                },
+                {
+                    "word": " would",
+                    "start": 1.24,
+                    "end": 1.54,
+                    "probability": 0.98748779296875
+                },
+                {
+                    "word": " be",
+                    "start": 1.54,
+                    "end": 1.7,
+                    "probability": 0.9765840768814087
+                },
+                {
+                    "word": " well",
+                    "start": 1.7,
+                    "end": 1.94,
+                    "probability": 0.9819913506507874
+                },
+                {
+                    "word": " received",
+                    "start": 1.94,
+                    "end": 2.36,
+                    "probability": 0.8708817958831787
+                },
+                {
+                    "word": " by",
+                    "start": 2.36,
+                    "end": 2.64,
+                    "probability": 0.9966174960136414
+                },
+                {
+                    "word": " the",
+                    "start": 2.64,
+                    "end": 2.8,
+                    "probability": 0.981804370880127
+                },
+                {
+                    "word": " audience",
+                    "start": 2.8,
+                    "end": 3.26,
+                    "probability": 0.9869508147239685
+                },
+                {
+                    "word": " at",
+                    "start": 3.26,
+                    "end": 3.46,
+                    "probability": 0.9876999855041504
+                },
+                {
+                    "word": " the",
+                    "start": 3.46,
+                    "end": 3.56,
+                    "probability": 0.9888579845428467
+                },
+                {
+                    "word": " conference.",
+                    "start": 3.56,
+                    "end": 3.98,
+                    "probability": 0.9955095052719116
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

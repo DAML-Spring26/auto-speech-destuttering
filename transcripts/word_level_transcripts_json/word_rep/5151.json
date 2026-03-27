@@ -1,0 +1,108 @@
+{
+    "text": " We need to exchange some currency before we explore the city tomorrow.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.22,
+            "text": " We need to exchange some currency before we explore the city tomorrow.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                7742,
+                512,
+                13346,
+                949,
+                321,
+                6839,
+                264,
+                2307,
+                4153,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28184860944747925,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.0037512623239308596,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.9060547351837158
+                },
+                {
+                    "word": " need",
+                    "start": 0.1,
+                    "end": 0.22,
+                    "probability": 0.9976239800453186
+                },
+                {
+                    "word": " to",
+                    "start": 0.22,
+                    "end": 0.34,
+                    "probability": 0.9990202188491821
+                },
+                {
+                    "word": " exchange",
+                    "start": 0.34,
+                    "end": 0.68,
+                    "probability": 0.9894436597824097
+                },
+                {
+                    "word": " some",
+                    "start": 0.68,
+                    "end": 0.94,
+                    "probability": 0.9923254251480103
+                },
+                {
+                    "word": " currency",
+                    "start": 0.94,
+                    "end": 1.32,
+                    "probability": 0.9926804900169373
+                },
+                {
+                    "word": " before",
+                    "start": 1.32,
+                    "end": 1.68,
+                    "probability": 0.967591404914856
+                },
+                {
+                    "word": " we",
+                    "start": 1.68,
+                    "end": 1.84,
+                    "probability": 0.997607946395874
+                },
+                {
+                    "word": " explore",
+                    "start": 1.84,
+                    "end": 2.18,
+                    "probability": 0.9429619908332825
+                },
+                {
+                    "word": " the",
+                    "start": 2.18,
+                    "end": 2.42,
+                    "probability": 0.6219006180763245
+                },
+                {
+                    "word": " city",
+                    "start": 2.42,
+                    "end": 2.84,
+                    "probability": 0.7808122038841248
+                },
+                {
+                    "word": " tomorrow.",
+                    "start": 2.84,
+                    "end": 3.22,
+                    "probability": 0.9435592889785767
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

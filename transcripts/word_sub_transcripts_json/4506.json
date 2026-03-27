@@ -1,0 +1,59 @@
+{
+    "text": " she compared the financial statement.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.82,
+            "text": " she compared the financial statement.",
+            "tokens": [
+                50364,
+                750,
+                5347,
+                264,
+                4669,
+                5629,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39565491676330566,
+            "compression_ratio": 0.8604651162790697,
+            "no_speech_prob": 0.0035623209550976753,
+            "words": [
+                {
+                    "word": " she",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.5208045244216919
+                },
+                {
+                    "word": " compared",
+                    "start": 0.22,
+                    "end": 0.64,
+                    "probability": 0.9745280742645264
+                },
+                {
+                    "word": " the",
+                    "start": 0.64,
+                    "end": 0.86,
+                    "probability": 0.9585668444633484
+                },
+                {
+                    "word": " financial",
+                    "start": 0.86,
+                    "end": 1.32,
+                    "probability": 0.9871720671653748
+                },
+                {
+                    "word": " statement.",
+                    "start": 1.32,
+                    "end": 1.82,
+                    "probability": 0.976173460483551
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

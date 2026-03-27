@@ -1,17 +1,15 @@
 {
-    "text": " The train depart from platform 3.",
+    "text": " Lots from platform 3.",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
             "end": 2.0,
-            "text": " The train depart from platform 3.",
+            "text": " Lots from platform 3.",
             "tokens": [
                 50364,
-                440,
-                3847,
-                9110,
+                15908,
                 490,
                 3663,
                 805,
@@ -19,9 +17,9 @@
                 50464
             ],
             "temperature": 0.0,
-            "avg_logprob": -0.6341323375701904,
-            "compression_ratio": 0.8048780487804879,
-            "no_speech_prob": 0.007678007706999779
+            "avg_logprob": -0.7393564581871033,
+            "compression_ratio": 0.7241379310344828,
+            "no_speech_prob": 0.04536687582731247
         }
     ],
     "language": "en"

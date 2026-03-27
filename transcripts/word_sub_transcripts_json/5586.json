@@ -1,0 +1,73 @@
+{
+    "text": " The company is focusing on digital innovation.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.98,
+            "text": " The company is focusing on digital innovation.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                307,
+                8416,
+                322,
+                4562,
+                8504,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3094782395796342,
+            "compression_ratio": 0.8518518518518519,
+            "no_speech_prob": 0.008520150557160378,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7537316083908081
+                },
+                {
+                    "word": " company",
+                    "start": 0.1,
+                    "end": 0.58,
+                    "probability": 0.9931539297103882
+                },
+                {
+                    "word": " is",
+                    "start": 0.58,
+                    "end": 0.92,
+                    "probability": 0.9961733222007751
+                },
+                {
+                    "word": " focusing",
+                    "start": 0.92,
+                    "end": 1.36,
+                    "probability": 0.9811338186264038
+                },
+                {
+                    "word": " on",
+                    "start": 1.36,
+                    "end": 1.76,
+                    "probability": 0.9990140199661255
+                },
+                {
+                    "word": " digital",
+                    "start": 1.76,
+                    "end": 2.24,
+                    "probability": 0.9734067320823669
+                },
+                {
+                    "word": " innovation.",
+                    "start": 2.24,
+                    "end": 2.98,
+                    "probability": 0.9907842874526978
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

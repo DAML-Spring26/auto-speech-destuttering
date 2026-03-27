@@ -1,0 +1,80 @@
+{
+    "text": " The new policy in force starting next month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.24,
+            "text": " The new policy in force starting next month.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                3897,
+                294,
+                3464,
+                2891,
+                958,
+                1618,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5297367572784424,
+            "compression_ratio": 0.8627450980392157,
+            "no_speech_prob": 0.004521748051047325,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5842823386192322
+                },
+                {
+                    "word": " new",
+                    "start": 0.14,
+                    "end": 0.3,
+                    "probability": 0.9573553800582886
+                },
+                {
+                    "word": " policy",
+                    "start": 0.3,
+                    "end": 0.78,
+                    "probability": 0.9425840973854065
+                },
+                {
+                    "word": " in",
+                    "start": 0.78,
+                    "end": 0.94,
+                    "probability": 0.15680694580078125
+                },
+                {
+                    "word": " force",
+                    "start": 0.94,
+                    "end": 1.22,
+                    "probability": 0.9236167669296265
+                },
+                {
+                    "word": " starting",
+                    "start": 1.22,
+                    "end": 1.64,
+                    "probability": 0.9510669112205505
+                },
+                {
+                    "word": " next",
+                    "start": 1.64,
+                    "end": 1.96,
+                    "probability": 0.9945524334907532
+                },
+                {
+                    "word": " month.",
+                    "start": 1.96,
+                    "end": 2.24,
+                    "probability": 0.9940470457077026
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

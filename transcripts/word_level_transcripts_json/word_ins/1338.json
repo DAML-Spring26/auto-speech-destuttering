@@ -1,0 +1,94 @@
+{
+    "text": " We need to schedule a meeting with the marketing team.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.8799999999999994,
+            "end": 5.66,
+            "text": " We need to schedule a meeting with the marketing team.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                7567,
+                257,
+                3440,
+                365,
+                264,
+                6370,
+                1469,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39416653769356863,
+            "compression_ratio": 0.9310344827586207,
+            "no_speech_prob": 0.18967503309249878,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.8799999999999994,
+                    "end": 1.44,
+                    "probability": 0.7492495179176331
+                },
+                {
+                    "word": " need",
+                    "start": 1.44,
+                    "end": 1.58,
+                    "probability": 0.9947603344917297
+                },
+                {
+                    "word": " to",
+                    "start": 1.58,
+                    "end": 1.74,
+                    "probability": 0.9973381161689758
+                },
+                {
+                    "word": " schedule",
+                    "start": 1.74,
+                    "end": 2.08,
+                    "probability": 0.9975910186767578
+                },
+                {
+                    "word": " a",
+                    "start": 2.08,
+                    "end": 2.3,
+                    "probability": 0.9974743723869324
+                },
+                {
+                    "word": " meeting",
+                    "start": 2.3,
+                    "end": 2.58,
+                    "probability": 0.9989520311355591
+                },
+                {
+                    "word": " with",
+                    "start": 2.58,
+                    "end": 3.76,
+                    "probability": 0.9523440003395081
+                },
+                {
+                    "word": " the",
+                    "start": 3.76,
+                    "end": 3.98,
+                    "probability": 0.9852149486541748
+                },
+                {
+                    "word": " marketing",
+                    "start": 3.98,
+                    "end": 5.2,
+                    "probability": 0.3789355158805847
+                },
+                {
+                    "word": " team.",
+                    "start": 5.2,
+                    "end": 5.66,
+                    "probability": 0.9982245564460754
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

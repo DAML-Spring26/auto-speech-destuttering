@@ -1,0 +1,124 @@
+{
+    "text": " The CEO announced that the company would be restructuring its operations to improve efficiency.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.8,
+            "text": " The CEO announced that the company would be restructuring its operations to improve efficiency.",
+            "tokens": [
+                50364,
+                440,
+                9282,
+                7548,
+                300,
+                264,
+                2237,
+                576,
+                312,
+                1472,
+                1757,
+                1345,
+                1080,
+                7705,
+                281,
+                3470,
+                10493,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2229243040084839,
+            "compression_ratio": 1.0555555555555556,
+            "no_speech_prob": 0.009980070404708385,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.610325038433075
+                },
+                {
+                    "word": " CEO",
+                    "start": 0.18,
+                    "end": 0.6,
+                    "probability": 0.6371074318885803
+                },
+                {
+                    "word": " announced",
+                    "start": 0.6,
+                    "end": 1.0,
+                    "probability": 0.9752882122993469
+                },
+                {
+                    "word": " that",
+                    "start": 1.0,
+                    "end": 1.48,
+                    "probability": 0.9784882068634033
+                },
+                {
+                    "word": " the",
+                    "start": 1.48,
+                    "end": 2.06,
+                    "probability": 0.9460009932518005
+                },
+                {
+                    "word": " company",
+                    "start": 2.06,
+                    "end": 2.5,
+                    "probability": 0.9961386322975159
+                },
+                {
+                    "word": " would",
+                    "start": 2.5,
+                    "end": 2.8,
+                    "probability": 0.9833961129188538
+                },
+                {
+                    "word": " be",
+                    "start": 2.8,
+                    "end": 3.04,
+                    "probability": 0.9716392755508423
+                },
+                {
+                    "word": " restructuring",
+                    "start": 3.04,
+                    "end": 4.02,
+                    "probability": 0.9733379483222961
+                },
+                {
+                    "word": " its",
+                    "start": 4.02,
+                    "end": 4.28,
+                    "probability": 0.9705826640129089
+                },
+                {
+                    "word": " operations",
+                    "start": 4.28,
+                    "end": 5.04,
+                    "probability": 0.9917211532592773
+                },
+                {
+                    "word": " to",
+                    "start": 5.04,
+                    "end": 5.48,
+                    "probability": 0.9918392300605774
+                },
+                {
+                    "word": " improve",
+                    "start": 5.48,
+                    "end": 5.94,
+                    "probability": 0.9965708255767822
+                },
+                {
+                    "word": " efficiency.",
+                    "start": 5.94,
+                    "end": 6.8,
+                    "probability": 0.9708423614501953
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

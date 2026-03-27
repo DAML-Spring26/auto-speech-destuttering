@@ -1,0 +1,87 @@
+{
+    "text": " Have you like seen the keys to the car?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.5199999999999998,
+            "end": 3.08,
+            "text": " Have you like seen the keys to the car?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                411,
+                1612,
+                264,
+                9317,
+                281,
+                264,
+                1032,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4833650588989258,
+            "compression_ratio": 0.9069767441860465,
+            "no_speech_prob": 0.31036636233329773,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.5199999999999998,
+                    "end": 0.94,
+                    "probability": 0.7499089241027832
+                },
+                {
+                    "word": " you",
+                    "start": 0.94,
+                    "end": 1.12,
+                    "probability": 0.9937894940376282
+                },
+                {
+                    "word": " like",
+                    "start": 1.12,
+                    "end": 1.34,
+                    "probability": 0.6656267046928406
+                },
+                {
+                    "word": " seen",
+                    "start": 1.34,
+                    "end": 2.04,
+                    "probability": 0.3778989911079407
+                },
+                {
+                    "word": " the",
+                    "start": 2.04,
+                    "end": 2.2,
+                    "probability": 0.9827203750610352
+                },
+                {
+                    "word": " keys",
+                    "start": 2.2,
+                    "end": 2.48,
+                    "probability": 0.9933943152427673
+                },
+                {
+                    "word": " to",
+                    "start": 2.48,
+                    "end": 2.68,
+                    "probability": 0.9962719678878784
+                },
+                {
+                    "word": " the",
+                    "start": 2.68,
+                    "end": 2.8,
+                    "probability": 0.9955571293830872
+                },
+                {
+                    "word": " car?",
+                    "start": 2.8,
+                    "end": 3.08,
+                    "probability": 0.9948987364768982
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,110 @@
+{
+    "text": " I apologize for the inconvenience, let me check on that for you.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.8,
+            "text": " I apologize for the inconvenience, let me check on that for you.",
+            "tokens": [
+                50364,
+                286,
+                12328,
+                337,
+                264,
+                28752,
+                1182,
+                11,
+                718,
+                385,
+                1520,
+                322,
+                300,
+                337,
+                291,
+                13,
+                50560
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29937730895148384,
+            "compression_ratio": 0.9552238805970149,
+            "no_speech_prob": 0.00495285727083683,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.8928777575492859
+                },
+                {
+                    "word": " apologize",
+                    "start": 0.2,
+                    "end": 0.68,
+                    "probability": 0.698897659778595
+                },
+                {
+                    "word": " for",
+                    "start": 0.68,
+                    "end": 0.98,
+                    "probability": 0.9942928552627563
+                },
+                {
+                    "word": " the",
+                    "start": 0.98,
+                    "end": 1.08,
+                    "probability": 0.9795118570327759
+                },
+                {
+                    "word": " inconvenience,",
+                    "start": 1.08,
+                    "end": 1.96,
+                    "probability": 0.9930520355701447
+                },
+                {
+                    "word": " let",
+                    "start": 2.16,
+                    "end": 2.24,
+                    "probability": 0.95931476354599
+                },
+                {
+                    "word": " me",
+                    "start": 2.24,
+                    "end": 2.44,
+                    "probability": 0.9926592707633972
+                },
+                {
+                    "word": " check",
+                    "start": 2.44,
+                    "end": 3.02,
+                    "probability": 0.4079051911830902
+                },
+                {
+                    "word": " on",
+                    "start": 3.02,
+                    "end": 3.26,
+                    "probability": 0.9577878713607788
+                },
+                {
+                    "word": " that",
+                    "start": 3.26,
+                    "end": 3.44,
+                    "probability": 0.9879384636878967
+                },
+                {
+                    "word": " for",
+                    "start": 3.44,
+                    "end": 3.64,
+                    "probability": 0.9523531198501587
+                },
+                {
+                    "word": " you.",
+                    "start": 3.64,
+                    "end": 3.8,
+                    "probability": 0.9951700568199158
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

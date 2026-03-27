@@ -1,0 +1,66 @@
+{
+    "text": " The company plans to expand operations.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.2,
+            "text": " The company plans to expand operations.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                5482,
+                281,
+                5268,
+                7705,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3855318546295166,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.017928684130311012,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6643034815788269
+                },
+                {
+                    "word": " company",
+                    "start": 0.12,
+                    "end": 0.48,
+                    "probability": 0.99101322889328
+                },
+                {
+                    "word": " plans",
+                    "start": 0.48,
+                    "end": 0.9,
+                    "probability": 0.9925979375839233
+                },
+                {
+                    "word": " to",
+                    "start": 0.9,
+                    "end": 1.18,
+                    "probability": 0.9987185001373291
+                },
+                {
+                    "word": " expand",
+                    "start": 1.18,
+                    "end": 1.56,
+                    "probability": 0.9856658577919006
+                },
+                {
+                    "word": " operations.",
+                    "start": 1.56,
+                    "end": 2.2,
+                    "probability": 0.7010148167610168
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

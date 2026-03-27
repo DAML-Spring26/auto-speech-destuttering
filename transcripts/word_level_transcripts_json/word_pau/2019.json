@@ -1,0 +1,88 @@
+{
+    "text": " Don't forget to pack your passport and travel documents.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.0,
+            "text": " Don't forget to pack your passport and travel documents.",
+            "tokens": [
+                50364,
+                1468,
+                380,
+                2870,
+                281,
+                2844,
+                428,
+                24694,
+                293,
+                3147,
+                8512,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3618922914777483,
+            "compression_ratio": 0.9032258064516129,
+            "no_speech_prob": 0.005394811742007732,
+            "words": [
+                {
+                    "word": " Don't",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.9422515630722046
+                },
+                {
+                    "word": " forget",
+                    "start": 0.2,
+                    "end": 0.42,
+                    "probability": 0.9947800636291504
+                },
+                {
+                    "word": " to",
+                    "start": 0.42,
+                    "end": 0.62,
+                    "probability": 0.9942067861557007
+                },
+                {
+                    "word": " pack",
+                    "start": 0.62,
+                    "end": 0.92,
+                    "probability": 0.930702805519104
+                },
+                {
+                    "word": " your",
+                    "start": 0.92,
+                    "end": 3.68,
+                    "probability": 0.5572553873062134
+                },
+                {
+                    "word": " passport",
+                    "start": 3.68,
+                    "end": 4.1,
+                    "probability": 0.9666557908058167
+                },
+                {
+                    "word": " and",
+                    "start": 4.1,
+                    "end": 4.3,
+                    "probability": 0.7793048620223999
+                },
+                {
+                    "word": " travel",
+                    "start": 4.3,
+                    "end": 4.56,
+                    "probability": 0.9941641688346863
+                },
+                {
+                    "word": " documents.",
+                    "start": 4.56,
+                    "end": 5.0,
+                    "probability": 0.992531955242157
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,81 @@
+{
+    "text": " I'm excited about the upcoming team building event.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.26,
+            "text": " I'm excited about the upcoming team building event.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                2919,
+                466,
+                264,
+                11500,
+                1469,
+                2390,
+                2280,
+                13,
+                50636
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34678444495567906,
+            "compression_ratio": 0.9107142857142857,
+            "no_speech_prob": 0.007994567975401878,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.9139032363891602
+                },
+                {
+                    "word": " excited",
+                    "start": 0.26,
+                    "end": 0.76,
+                    "probability": 0.9604350924491882
+                },
+                {
+                    "word": " about",
+                    "start": 0.76,
+                    "end": 1.14,
+                    "probability": 0.9958859086036682
+                },
+                {
+                    "word": " the",
+                    "start": 1.14,
+                    "end": 3.62,
+                    "probability": 0.860084593296051
+                },
+                {
+                    "word": " upcoming",
+                    "start": 3.62,
+                    "end": 3.94,
+                    "probability": 0.9278919100761414
+                },
+                {
+                    "word": " team",
+                    "start": 3.94,
+                    "end": 4.42,
+                    "probability": 0.8896399140357971
+                },
+                {
+                    "word": " building",
+                    "start": 4.42,
+                    "end": 4.8,
+                    "probability": 0.8601256012916565
+                },
+                {
+                    "word": " event.",
+                    "start": 4.8,
+                    "end": 5.26,
+                    "probability": 0.997367799282074
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

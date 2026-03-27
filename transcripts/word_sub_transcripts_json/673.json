@@ -1,0 +1,73 @@
+{
+    "text": " Students must compete their assignments before deadline.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.26,
+            "text": " Students must compete their assignments before deadline.",
+            "tokens": [
+                50364,
+                17244,
+                1633,
+                11831,
+                641,
+                22546,
+                949,
+                20615,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37076065757057886,
+            "compression_ratio": 0.9180327868852459,
+            "no_speech_prob": 0.002576600993052125,
+            "words": [
+                {
+                    "word": " Students",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.745949387550354
+                },
+                {
+                    "word": " must",
+                    "start": 0.44,
+                    "end": 0.78,
+                    "probability": 0.9988024234771729
+                },
+                {
+                    "word": " compete",
+                    "start": 0.78,
+                    "end": 1.22,
+                    "probability": 0.8885783553123474
+                },
+                {
+                    "word": " their",
+                    "start": 1.22,
+                    "end": 1.5,
+                    "probability": 0.9814055562019348
+                },
+                {
+                    "word": " assignments",
+                    "start": 1.5,
+                    "end": 2.12,
+                    "probability": 0.9951120018959045
+                },
+                {
+                    "word": " before",
+                    "start": 2.12,
+                    "end": 2.74,
+                    "probability": 0.990867018699646
+                },
+                {
+                    "word": " deadline.",
+                    "start": 2.74,
+                    "end": 3.26,
+                    "probability": 0.9801946878433228
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

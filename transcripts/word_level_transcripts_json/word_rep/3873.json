@@ -1,0 +1,56 @@
+{
+    "text": " Birds, birds chirp merrily.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.4,
+            "text": " Birds, birds chirp merrily.",
+            "tokens": [
+                50364,
+                41456,
+                11,
+                9009,
+                23782,
+                79,
+                3551,
+                470,
+                356,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5322461922963461,
+            "compression_ratio": 0.84375,
+            "no_speech_prob": 0.019539272412657738,
+            "words": [
+                {
+                    "word": " Birds,",
+                    "start": 0.0,
+                    "end": 0.52,
+                    "probability": 0.9286430478096008
+                },
+                {
+                    "word": " birds",
+                    "start": 0.7,
+                    "end": 1.2,
+                    "probability": 0.8962971568107605
+                },
+                {
+                    "word": " chirp",
+                    "start": 1.2,
+                    "end": 1.76,
+                    "probability": 0.628354862332344
+                },
+                {
+                    "word": " merrily.",
+                    "start": 1.76,
+                    "end": 2.4,
+                    "probability": 0.8824416995048523
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,103 @@
+{
+    "text": " The new Employee Benefits package will be effective from in January.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 8.4,
+            "text": " The new Employee Benefits package will be effective from in January.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                26878,
+                1653,
+                27702,
+                13979,
+                7372,
+                486,
+                312,
+                4942,
+                490,
+                294,
+                7061,
+                13,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4129497864667107,
+            "compression_ratio": 0.9444444444444444,
+            "no_speech_prob": 0.10059792548418045,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 1.54,
+                    "probability": 0.6978139877319336
+                },
+                {
+                    "word": " new",
+                    "start": 1.54,
+                    "end": 1.88,
+                    "probability": 0.7379148006439209
+                },
+                {
+                    "word": " Employee",
+                    "start": 1.88,
+                    "end": 4.06,
+                    "probability": 0.7847802042961121
+                },
+                {
+                    "word": " Benefits",
+                    "start": 4.06,
+                    "end": 4.72,
+                    "probability": 0.9440197050571442
+                },
+                {
+                    "word": " package",
+                    "start": 4.72,
+                    "end": 6.26,
+                    "probability": 0.2590883672237396
+                },
+                {
+                    "word": " will",
+                    "start": 6.26,
+                    "end": 6.62,
+                    "probability": 0.9969109892845154
+                },
+                {
+                    "word": " be",
+                    "start": 6.62,
+                    "end": 6.82,
+                    "probability": 0.9986832737922668
+                },
+                {
+                    "word": " effective",
+                    "start": 6.82,
+                    "end": 7.3,
+                    "probability": 0.9857707023620605
+                },
+                {
+                    "word": " from",
+                    "start": 7.3,
+                    "end": 7.72,
+                    "probability": 0.99199378490448
+                },
+                {
+                    "word": " in",
+                    "start": 7.72,
+                    "end": 7.9,
+                    "probability": 0.5465696454048157
+                },
+                {
+                    "word": " January.",
+                    "start": 7.9,
+                    "end": 8.4,
+                    "probability": 0.9742060899734497
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

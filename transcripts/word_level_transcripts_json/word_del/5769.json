@@ -1,0 +1,94 @@
+{
+    "text": " the museum planning and exhibition of contemporary art next month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.42,
+            "text": " the museum planning and exhibition of contemporary art next month.",
+            "tokens": [
+                50364,
+                264,
+                8441,
+                5038,
+                293,
+                14414,
+                295,
+                14878,
+                1523,
+                958,
+                1618,
+                13,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37239469800676617,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.004765757825225592,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5039158463478088
+                },
+                {
+                    "word": " museum",
+                    "start": 0.1,
+                    "end": 0.62,
+                    "probability": 0.8399503827095032
+                },
+                {
+                    "word": " planning",
+                    "start": 0.62,
+                    "end": 1.22,
+                    "probability": 0.8935980796813965
+                },
+                {
+                    "word": " and",
+                    "start": 1.22,
+                    "end": 1.58,
+                    "probability": 0.8588458895683289
+                },
+                {
+                    "word": " exhibition",
+                    "start": 1.58,
+                    "end": 2.26,
+                    "probability": 0.9870091080665588
+                },
+                {
+                    "word": " of",
+                    "start": 2.26,
+                    "end": 2.62,
+                    "probability": 0.9849622249603271
+                },
+                {
+                    "word": " contemporary",
+                    "start": 2.62,
+                    "end": 3.38,
+                    "probability": 0.6191756725311279
+                },
+                {
+                    "word": " art",
+                    "start": 3.38,
+                    "end": 3.86,
+                    "probability": 0.9942266941070557
+                },
+                {
+                    "word": " next",
+                    "start": 3.86,
+                    "end": 4.16,
+                    "probability": 0.9818509817123413
+                },
+                {
+                    "word": " month.",
+                    "start": 4.16,
+                    "end": 4.42,
+                    "probability": 0.9961091876029968
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

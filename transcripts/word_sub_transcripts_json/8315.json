@@ -1,0 +1,74 @@
+{
+    "text": " The latest smartphone boosts improved screen resolution.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.52,
+            "text": " The latest smartphone boosts improved screen resolution.",
+            "tokens": [
+                50364,
+                440,
+                6792,
+                13307,
+                9194,
+                82,
+                9689,
+                2568,
+                8669,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5699440240859985,
+            "compression_ratio": 0.9333333333333333,
+            "no_speech_prob": 0.0027321644593030214,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6582928895950317
+                },
+                {
+                    "word": " latest",
+                    "start": 0.12,
+                    "end": 0.34,
+                    "probability": 0.9984753727912903
+                },
+                {
+                    "word": " smartphone",
+                    "start": 0.34,
+                    "end": 0.76,
+                    "probability": 0.8053516745567322
+                },
+                {
+                    "word": " boosts",
+                    "start": 0.76,
+                    "end": 1.4,
+                    "probability": 0.3570817783474922
+                },
+                {
+                    "word": " improved",
+                    "start": 1.4,
+                    "end": 1.66,
+                    "probability": 0.6993082165718079
+                },
+                {
+                    "word": " screen",
+                    "start": 1.66,
+                    "end": 2.0,
+                    "probability": 0.9627078771591187
+                },
+                {
+                    "word": " resolution.",
+                    "start": 2.0,
+                    "end": 2.52,
+                    "probability": 0.9974965453147888
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

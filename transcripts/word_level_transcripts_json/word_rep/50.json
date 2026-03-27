@@ -1,0 +1,59 @@
+{
+    "text": " look behind behind the curtains.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.78,
+            "text": " look behind behind the curtains.",
+            "tokens": [
+                50364,
+                574,
+                2261,
+                2261,
+                264,
+                36539,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6455660925971137,
+            "compression_ratio": 0.9696969696969697,
+            "no_speech_prob": 0.011313910596072674,
+            "words": [
+                {
+                    "word": " look",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.456854909658432
+                },
+                {
+                    "word": " behind",
+                    "start": 0.24,
+                    "end": 0.58,
+                    "probability": 0.9926683306694031
+                },
+                {
+                    "word": " behind",
+                    "start": 0.58,
+                    "end": 1.14,
+                    "probability": 0.3406783640384674
+                },
+                {
+                    "word": " the",
+                    "start": 1.14,
+                    "end": 1.38,
+                    "probability": 0.9859259724617004
+                },
+                {
+                    "word": " curtains.",
+                    "start": 1.38,
+                    "end": 1.78,
+                    "probability": 0.9896388053894043
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

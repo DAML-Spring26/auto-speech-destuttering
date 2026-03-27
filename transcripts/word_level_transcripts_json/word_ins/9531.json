@@ -1,0 +1,140 @@
+{
+    "text": " Do you know where I can like? Find a good restaurant near the hotel.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.6000000000000003,
+            "end": 2.3,
+            "text": " Do you know where I can like?",
+            "tokens": [
+                50364,
+                1144,
+                291,
+                458,
+                689,
+                286,
+                393,
+                411,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3308770315987723,
+            "compression_ratio": 0.9714285714285714,
+            "no_speech_prob": 0.05997481942176819,
+            "words": [
+                {
+                    "word": " Do",
+                    "start": 0.6000000000000003,
+                    "end": 1.08,
+                    "probability": 0.8646436333656311
+                },
+                {
+                    "word": " you",
+                    "start": 1.08,
+                    "end": 1.2,
+                    "probability": 0.9909851551055908
+                },
+                {
+                    "word": " know",
+                    "start": 1.2,
+                    "end": 1.38,
+                    "probability": 0.9958056211471558
+                },
+                {
+                    "word": " where",
+                    "start": 1.38,
+                    "end": 1.64,
+                    "probability": 0.9935144186019897
+                },
+                {
+                    "word": " I",
+                    "start": 1.64,
+                    "end": 1.84,
+                    "probability": 0.9335448145866394
+                },
+                {
+                    "word": " can",
+                    "start": 1.84,
+                    "end": 2.02,
+                    "probability": 0.9852200746536255
+                },
+                {
+                    "word": " like?",
+                    "start": 2.02,
+                    "end": 2.3,
+                    "probability": 0.9831966161727905
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.6,
+            "end": 5.88,
+            "text": " Find a good restaurant near the hotel.",
+            "tokens": [
+                50564,
+                11809,
+                257,
+                665,
+                6383,
+                2651,
+                264,
+                7622,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3308770315987723,
+            "compression_ratio": 0.9714285714285714,
+            "no_speech_prob": 0.05997481942176819,
+            "words": [
+                {
+                    "word": " Find",
+                    "start": 3.6,
+                    "end": 4.02,
+                    "probability": 0.9738023281097412
+                },
+                {
+                    "word": " a",
+                    "start": 4.02,
+                    "end": 4.2,
+                    "probability": 0.9965094923973083
+                },
+                {
+                    "word": " good",
+                    "start": 4.2,
+                    "end": 4.4,
+                    "probability": 0.9925534129142761
+                },
+                {
+                    "word": " restaurant",
+                    "start": 4.4,
+                    "end": 4.96,
+                    "probability": 0.9969757795333862
+                },
+                {
+                    "word": " near",
+                    "start": 4.96,
+                    "end": 5.32,
+                    "probability": 0.9897951483726501
+                },
+                {
+                    "word": " the",
+                    "start": 5.32,
+                    "end": 5.52,
+                    "probability": 0.9969375133514404
+                },
+                {
+                    "word": " hotel.",
+                    "start": 5.52,
+                    "end": 5.88,
+                    "probability": 0.9844605326652527
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

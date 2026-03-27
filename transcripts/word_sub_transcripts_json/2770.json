@@ -1,0 +1,66 @@
+{
+    "text": " they should renew the proposal thoroughly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.98,
+            "text": " they should renew the proposal thoroughly.",
+            "tokens": [
+                50364,
+                436,
+                820,
+                10162,
+                264,
+                11494,
+                17987,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4336555480957031,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.006773447617888451,
+            "words": [
+                {
+                    "word": " they",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.511618971824646
+                },
+                {
+                    "word": " should",
+                    "start": 0.18,
+                    "end": 0.42,
+                    "probability": 0.995430588722229
+                },
+                {
+                    "word": " renew",
+                    "start": 0.42,
+                    "end": 0.7,
+                    "probability": 0.9562157392501831
+                },
+                {
+                    "word": " the",
+                    "start": 0.7,
+                    "end": 0.84,
+                    "probability": 0.9689757227897644
+                },
+                {
+                    "word": " proposal",
+                    "start": 0.84,
+                    "end": 1.38,
+                    "probability": 0.6235361695289612
+                },
+                {
+                    "word": " thoroughly.",
+                    "start": 1.38,
+                    "end": 1.98,
+                    "probability": 0.9973706007003784
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

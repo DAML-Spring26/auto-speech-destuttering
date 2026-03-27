@@ -1,0 +1,95 @@
+{
+    "text": " Please contact technical support and can't you any further problems.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.84,
+            "text": " Please contact technical support and can't you any further problems.",
+            "tokens": [
+                50364,
+                2555,
+                3385,
+                6191,
+                1406,
+                293,
+                393,
+                380,
+                291,
+                604,
+                3052,
+                2740,
+                13,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5524928410847981,
+            "compression_ratio": 0.9714285714285714,
+            "no_speech_prob": 0.004938027821481228,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5038459897041321
+                },
+                {
+                    "word": " contact",
+                    "start": 0.14,
+                    "end": 0.54,
+                    "probability": 0.9935930371284485
+                },
+                {
+                    "word": " technical",
+                    "start": 0.54,
+                    "end": 1.02,
+                    "probability": 0.7553756833076477
+                },
+                {
+                    "word": " support",
+                    "start": 1.02,
+                    "end": 1.46,
+                    "probability": 0.9150694012641907
+                },
+                {
+                    "word": " and",
+                    "start": 1.46,
+                    "end": 1.66,
+                    "probability": 0.39464810490608215
+                },
+                {
+                    "word": " can't",
+                    "start": 1.66,
+                    "end": 1.94,
+                    "probability": 0.38345909118652344
+                },
+                {
+                    "word": " you",
+                    "start": 1.94,
+                    "end": 2.0,
+                    "probability": 0.3957361578941345
+                },
+                {
+                    "word": " any",
+                    "start": 2.0,
+                    "end": 2.16,
+                    "probability": 0.9492526054382324
+                },
+                {
+                    "word": " further",
+                    "start": 2.16,
+                    "end": 2.42,
+                    "probability": 0.9962173104286194
+                },
+                {
+                    "word": " problems.",
+                    "start": 2.42,
+                    "end": 2.84,
+                    "probability": 0.6665781736373901
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

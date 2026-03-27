@@ -1,0 +1,88 @@
+{
+    "text": " The museum closed on Mondays for maintenance and cleaning.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.26,
+            "text": " The museum closed on Mondays for maintenance and cleaning.",
+            "tokens": [
+                50364,
+                440,
+                8441,
+                5395,
+                322,
+                7492,
+                3772,
+                337,
+                11258,
+                293,
+                8924,
+                13,
+                50538
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2671791655676706,
+            "compression_ratio": 0.90625,
+            "no_speech_prob": 0.0019596819765865803,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8633046746253967
+                },
+                {
+                    "word": " museum",
+                    "start": 0.12,
+                    "end": 0.48,
+                    "probability": 0.9368069767951965
+                },
+                {
+                    "word": " closed",
+                    "start": 0.48,
+                    "end": 0.9,
+                    "probability": 0.9898561239242554
+                },
+                {
+                    "word": " on",
+                    "start": 0.9,
+                    "end": 1.2,
+                    "probability": 0.9854586124420166
+                },
+                {
+                    "word": " Mondays",
+                    "start": 1.2,
+                    "end": 1.74,
+                    "probability": 0.9346062541007996
+                },
+                {
+                    "word": " for",
+                    "start": 1.74,
+                    "end": 1.94,
+                    "probability": 0.9701910018920898
+                },
+                {
+                    "word": " maintenance",
+                    "start": 1.94,
+                    "end": 2.42,
+                    "probability": 0.9458314180374146
+                },
+                {
+                    "word": " and",
+                    "start": 2.42,
+                    "end": 2.86,
+                    "probability": 0.9885731935501099
+                },
+                {
+                    "word": " cleaning.",
+                    "start": 2.86,
+                    "end": 3.26,
+                    "probability": 0.998238205909729
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

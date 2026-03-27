@@ -1,0 +1,147 @@
+{
+    "text": " When the power went out, we had to risk to schedule the important video conference.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.1,
+            "text": " When the power went out, we had to risk",
+            "tokens": [
+                50364,
+                1133,
+                264,
+                1347,
+                1437,
+                484,
+                11,
+                321,
+                632,
+                281,
+                3148,
+                50532
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47986845536665484,
+            "compression_ratio": 1.077922077922078,
+            "no_speech_prob": 0.009688747115433216,
+            "words": [
+                {
+                    "word": " When",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.8365368843078613
+                },
+                {
+                    "word": " the",
+                    "start": 0.18,
+                    "end": 0.28,
+                    "probability": 0.9735535979270935
+                },
+                {
+                    "word": " power",
+                    "start": 0.28,
+                    "end": 0.56,
+                    "probability": 0.980823278427124
+                },
+                {
+                    "word": " went",
+                    "start": 0.56,
+                    "end": 0.86,
+                    "probability": 0.9957737326622009
+                },
+                {
+                    "word": " out,",
+                    "start": 0.86,
+                    "end": 1.2,
+                    "probability": 0.9931951761245728
+                },
+                {
+                    "word": " we",
+                    "start": 1.54,
+                    "end": 1.62,
+                    "probability": 0.9934011101722717
+                },
+                {
+                    "word": " had",
+                    "start": 1.62,
+                    "end": 1.86,
+                    "probability": 0.9879354238510132
+                },
+                {
+                    "word": " to",
+                    "start": 1.86,
+                    "end": 2.28,
+                    "probability": 0.5482335686683655
+                },
+                {
+                    "word": " risk",
+                    "start": 2.28,
+                    "end": 3.1,
+                    "probability": 0.6906874179840088
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.1,
+            "end": 4.78,
+            "text": " to schedule the important video conference.",
+            "tokens": [
+                50532,
+                281,
+                7567,
+                264,
+                1021,
+                960,
+                7586,
+                13,
+                50632
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47986845536665484,
+            "compression_ratio": 1.077922077922078,
+            "no_speech_prob": 0.009688747115433216,
+            "words": [
+                {
+                    "word": " to",
+                    "start": 3.1,
+                    "end": 3.36,
+                    "probability": 0.015114459209144115
+                },
+                {
+                    "word": " schedule",
+                    "start": 3.36,
+                    "end": 3.56,
+                    "probability": 0.6416860818862915
+                },
+                {
+                    "word": " the",
+                    "start": 3.56,
+                    "end": 3.68,
+                    "probability": 0.6679703593254089
+                },
+                {
+                    "word": " important",
+                    "start": 3.68,
+                    "end": 4.0,
+                    "probability": 0.8957101106643677
+                },
+                {
+                    "word": " video",
+                    "start": 4.0,
+                    "end": 4.26,
+                    "probability": 0.9686281085014343
+                },
+                {
+                    "word": " conference.",
+                    "start": 4.26,
+                    "end": 4.78,
+                    "probability": 0.9929646253585815
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

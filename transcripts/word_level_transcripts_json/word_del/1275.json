@@ -1,0 +1,96 @@
+{
+    "text": " We've been binge watching this new series that's so decorative.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.42,
+            "text": " We've been binge watching this new series that's so decorative.",
+            "tokens": [
+                50364,
+                492,
+                600,
+                668,
+                41487,
+                1976,
+                341,
+                777,
+                2638,
+                300,
+                311,
+                370,
+                35185,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3573114275932312,
+            "compression_ratio": 0.984375,
+            "no_speech_prob": 0.007693775463849306,
+            "words": [
+                {
+                    "word": " We've",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.8825984597206116
+                },
+                {
+                    "word": " been",
+                    "start": 0.18,
+                    "end": 0.24,
+                    "probability": 0.9951175451278687
+                },
+                {
+                    "word": " binge",
+                    "start": 0.24,
+                    "end": 0.52,
+                    "probability": 0.9931721687316895
+                },
+                {
+                    "word": " watching",
+                    "start": 0.52,
+                    "end": 0.88,
+                    "probability": 0.779811680316925
+                },
+                {
+                    "word": " this",
+                    "start": 0.88,
+                    "end": 1.08,
+                    "probability": 0.9944150447845459
+                },
+                {
+                    "word": " new",
+                    "start": 1.08,
+                    "end": 1.24,
+                    "probability": 0.9858790040016174
+                },
+                {
+                    "word": " series",
+                    "start": 1.24,
+                    "end": 1.62,
+                    "probability": 0.9787139296531677
+                },
+                {
+                    "word": " that's",
+                    "start": 1.62,
+                    "end": 1.88,
+                    "probability": 0.7467290461063385
+                },
+                {
+                    "word": " so",
+                    "start": 1.88,
+                    "end": 2.04,
+                    "probability": 0.9894357919692993
+                },
+                {
+                    "word": " decorative.",
+                    "start": 2.04,
+                    "end": 2.42,
+                    "probability": 0.4102853536605835
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

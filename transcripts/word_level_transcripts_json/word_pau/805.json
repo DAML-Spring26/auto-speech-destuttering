@@ -1,0 +1,96 @@
+{
+    "text": " The dietician suggests incorporating more whole grains into your meals.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.56,
+            "text": " The dietician suggests incorporating more whole grains into your meals.",
+            "tokens": [
+                50364,
+                440,
+                1026,
+                3532,
+                952,
+                13409,
+                33613,
+                544,
+                1379,
+                22908,
+                666,
+                428,
+                12832,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3193865716457367,
+            "compression_ratio": 1.0142857142857142,
+            "no_speech_prob": 0.002957836491987109,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.8194865584373474
+                },
+                {
+                    "word": " dietician",
+                    "start": 0.16,
+                    "end": 0.9,
+                    "probability": 0.6799314618110657
+                },
+                {
+                    "word": " suggests",
+                    "start": 0.9,
+                    "end": 1.56,
+                    "probability": 0.9535046815872192
+                },
+                {
+                    "word": " incorporating",
+                    "start": 1.56,
+                    "end": 3.56,
+                    "probability": 0.8563846349716187
+                },
+                {
+                    "word": " more",
+                    "start": 3.56,
+                    "end": 4.1,
+                    "probability": 0.9930171966552734
+                },
+                {
+                    "word": " whole",
+                    "start": 4.1,
+                    "end": 4.44,
+                    "probability": 0.7869773507118225
+                },
+                {
+                    "word": " grains",
+                    "start": 4.44,
+                    "end": 4.74,
+                    "probability": 0.8350704312324524
+                },
+                {
+                    "word": " into",
+                    "start": 4.74,
+                    "end": 5.12,
+                    "probability": 0.9596980214118958
+                },
+                {
+                    "word": " your",
+                    "start": 5.12,
+                    "end": 5.3,
+                    "probability": 0.9834639430046082
+                },
+                {
+                    "word": " meals.",
+                    "start": 5.3,
+                    "end": 5.56,
+                    "probability": 0.9808699488639832
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

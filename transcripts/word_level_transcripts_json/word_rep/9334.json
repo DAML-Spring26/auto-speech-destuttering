@@ -1,0 +1,102 @@
+{
+    "text": " The museum curator carefully selected artworks that represent different cultural perspectives.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.34,
+            "text": " The museum curator carefully selected artworks that represent different cultural perspectives.",
+            "tokens": [
+                50364,
+                440,
+                8441,
+                38519,
+                7500,
+                8209,
+                15829,
+                82,
+                300,
+                2906,
+                819,
+                6988,
+                16766,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2940470278263092,
+            "compression_ratio": 1.1325301204819278,
+            "no_speech_prob": 0.0024799040984362364,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8444641828536987
+                },
+                {
+                    "word": " museum",
+                    "start": 0.12,
+                    "end": 0.38,
+                    "probability": 0.74513840675354
+                },
+                {
+                    "word": " curator",
+                    "start": 0.38,
+                    "end": 0.8,
+                    "probability": 0.7551668882369995
+                },
+                {
+                    "word": " carefully",
+                    "start": 0.8,
+                    "end": 1.54,
+                    "probability": 0.965761125087738
+                },
+                {
+                    "word": " selected",
+                    "start": 1.54,
+                    "end": 2.18,
+                    "probability": 0.989345371723175
+                },
+                {
+                    "word": " artworks",
+                    "start": 2.18,
+                    "end": 3.16,
+                    "probability": 0.9801265001296997
+                },
+                {
+                    "word": " that",
+                    "start": 3.16,
+                    "end": 3.38,
+                    "probability": 0.9592573046684265
+                },
+                {
+                    "word": " represent",
+                    "start": 3.38,
+                    "end": 4.76,
+                    "probability": 0.7812884449958801
+                },
+                {
+                    "word": " different",
+                    "start": 4.76,
+                    "end": 5.14,
+                    "probability": 0.956574559211731
+                },
+                {
+                    "word": " cultural",
+                    "start": 5.14,
+                    "end": 5.68,
+                    "probability": 0.9893173575401306
+                },
+                {
+                    "word": " perspectives.",
+                    "start": 5.68,
+                    "end": 6.34,
+                    "probability": 0.9939761161804199
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

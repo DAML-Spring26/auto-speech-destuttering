@@ -1,0 +1,73 @@
+{
+    "text": " The test results indicate elevated cholesterol levels.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.82,
+            "text": " The test results indicate elevated cholesterol levels.",
+            "tokens": [
+                50364,
+                440,
+                1500,
+                3542,
+                13330,
+                23457,
+                24716,
+                4358,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37598713961514557,
+            "compression_ratio": 0.9310344827586207,
+            "no_speech_prob": 0.0058361743576824665,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.4829414486885071
+                },
+                {
+                    "word": " test",
+                    "start": 0.14,
+                    "end": 0.44,
+                    "probability": 0.981680154800415
+                },
+                {
+                    "word": " results",
+                    "start": 0.44,
+                    "end": 0.76,
+                    "probability": 0.9849478602409363
+                },
+                {
+                    "word": " indicate",
+                    "start": 0.76,
+                    "end": 1.38,
+                    "probability": 0.9913182258605957
+                },
+                {
+                    "word": " elevated",
+                    "start": 1.38,
+                    "end": 3.6,
+                    "probability": 0.6295864582061768
+                },
+                {
+                    "word": " cholesterol",
+                    "start": 3.6,
+                    "end": 4.28,
+                    "probability": 0.9842429161071777
+                },
+                {
+                    "word": " levels.",
+                    "start": 4.28,
+                    "end": 4.82,
+                    "probability": 0.9926355481147766
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,59 @@
+{
+    "text": " The report contains valuable confirmation.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.16,
+            "text": " The report contains valuable confirmation.",
+            "tokens": [
+                50364,
+                440,
+                2275,
+                8306,
+                8263,
+                21871,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5311077435811361,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.013211153447628021,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7301582098007202
+                },
+                {
+                    "word": " report",
+                    "start": 0.1,
+                    "end": 0.42,
+                    "probability": 0.9519726634025574
+                },
+                {
+                    "word": " contains",
+                    "start": 0.42,
+                    "end": 0.94,
+                    "probability": 0.9899328947067261
+                },
+                {
+                    "word": " valuable",
+                    "start": 0.94,
+                    "end": 1.46,
+                    "probability": 0.9670398831367493
+                },
+                {
+                    "word": " confirmation.",
+                    "start": 1.46,
+                    "end": 2.16,
+                    "probability": 0.7550545334815979
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

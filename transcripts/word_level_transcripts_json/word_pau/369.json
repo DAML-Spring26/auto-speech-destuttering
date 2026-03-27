@@ -1,0 +1,101 @@
+{
+    "text": " The company is planning to launch a new product next month.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.48,
+            "text": " The company is planning to launch a new product next month.",
+            "tokens": [
+                50364,
+                440,
+                2237,
+                307,
+                5038,
+                281,
+                4025,
+                257,
+                777,
+                1674,
+                958,
+                1618,
+                13,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28221604029337566,
+            "compression_ratio": 0.921875,
+            "no_speech_prob": 0.008504357188940048,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7834343314170837
+                },
+                {
+                    "word": " company",
+                    "start": 0.1,
+                    "end": 0.48,
+                    "probability": 0.9958316683769226
+                },
+                {
+                    "word": " is",
+                    "start": 0.48,
+                    "end": 0.76,
+                    "probability": 0.9953203797340393
+                },
+                {
+                    "word": " planning",
+                    "start": 0.76,
+                    "end": 1.1,
+                    "probability": 0.9980055689811707
+                },
+                {
+                    "word": " to",
+                    "start": 1.1,
+                    "end": 1.42,
+                    "probability": 0.9958464503288269
+                },
+                {
+                    "word": " launch",
+                    "start": 1.42,
+                    "end": 3.08,
+                    "probability": 0.9386951327323914
+                },
+                {
+                    "word": " a",
+                    "start": 3.08,
+                    "end": 3.34,
+                    "probability": 0.9928908348083496
+                },
+                {
+                    "word": " new",
+                    "start": 3.34,
+                    "end": 3.48,
+                    "probability": 0.9969598054885864
+                },
+                {
+                    "word": " product",
+                    "start": 3.48,
+                    "end": 3.8,
+                    "probability": 0.9949535727500916
+                },
+                {
+                    "word": " next",
+                    "start": 3.8,
+                    "end": 4.18,
+                    "probability": 0.9947132468223572
+                },
+                {
+                    "word": " month.",
+                    "start": 4.18,
+                    "end": 4.48,
+                    "probability": 0.9991610050201416
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

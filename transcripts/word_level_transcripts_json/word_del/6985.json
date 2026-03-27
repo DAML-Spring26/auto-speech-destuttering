@@ -1,0 +1,66 @@
+{
+    "text": " the system automatically update it now.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.04,
+            "text": " the system automatically update it now.",
+            "tokens": [
+                50364,
+                264,
+                1185,
+                6772,
+                5623,
+                309,
+                586,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.49921507835388185,
+            "compression_ratio": 0.8297872340425532,
+            "no_speech_prob": 0.00954373087733984,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6513260006904602
+                },
+                {
+                    "word": " system",
+                    "start": 0.12,
+                    "end": 0.46,
+                    "probability": 0.9581087231636047
+                },
+                {
+                    "word": " automatically",
+                    "start": 0.46,
+                    "end": 1.16,
+                    "probability": 0.9878060221672058
+                },
+                {
+                    "word": " update",
+                    "start": 1.16,
+                    "end": 1.56,
+                    "probability": 0.6922575831413269
+                },
+                {
+                    "word": " it",
+                    "start": 1.56,
+                    "end": 1.76,
+                    "probability": 0.4467412233352661
+                },
+                {
+                    "word": " now.",
+                    "start": 1.76,
+                    "end": 2.04,
+                    "probability": 0.7065824270248413
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

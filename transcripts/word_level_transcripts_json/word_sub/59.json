@@ -1,0 +1,59 @@
+{
+    "text": " We must project intellectual property.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.14,
+            "text": " We must project intellectual property.",
+            "tokens": [
+                50364,
+                492,
+                1633,
+                1716,
+                12576,
+                4707,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4255358378092448,
+            "compression_ratio": 0.9047619047619048,
+            "no_speech_prob": 0.0031679316889494658,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6369102597236633
+                },
+                {
+                    "word": " must",
+                    "start": 0.12,
+                    "end": 0.34,
+                    "probability": 0.9985333681106567
+                },
+                {
+                    "word": " project",
+                    "start": 0.34,
+                    "end": 0.8,
+                    "probability": 0.9932383298873901
+                },
+                {
+                    "word": " intellectual",
+                    "start": 0.8,
+                    "end": 1.36,
+                    "probability": 0.9825902581214905
+                },
+                {
+                    "word": " property.",
+                    "start": 1.36,
+                    "end": 2.14,
+                    "probability": 0.99712735414505
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

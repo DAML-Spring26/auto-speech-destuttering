@@ -1,0 +1,67 @@
+{
+    "text": " The logistics team optimise delivery routes.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.5,
+            "text": " The logistics team optimise delivery routes.",
+            "tokens": [
+                50364,
+                440,
+                27420,
+                1469,
+                5028,
+                908,
+                8982,
+                18242,
+                13,
+                50510
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4228717197071422,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.0035020271316170692,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5617805123329163
+                },
+                {
+                    "word": " logistics",
+                    "start": 0.1,
+                    "end": 0.54,
+                    "probability": 0.9624326229095459
+                },
+                {
+                    "word": " team",
+                    "start": 0.54,
+                    "end": 1.02,
+                    "probability": 0.9657126665115356
+                },
+                {
+                    "word": " optimise",
+                    "start": 1.02,
+                    "end": 1.58,
+                    "probability": 0.682951956987381
+                },
+                {
+                    "word": " delivery",
+                    "start": 1.58,
+                    "end": 2.04,
+                    "probability": 0.9407861232757568
+                },
+                {
+                    "word": " routes.",
+                    "start": 2.04,
+                    "end": 2.5,
+                    "probability": 0.992647647857666
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

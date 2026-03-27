@@ -1,0 +1,87 @@
+{
+    "text": " Could you please review the contract before signing it?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.9,
+            "text": " Could you please review the contract before signing it?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                3131,
+                264,
+                4364,
+                949,
+                13393,
+                309,
+                30,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38610146595881534,
+            "compression_ratio": 0.9016393442622951,
+            "no_speech_prob": 0.09656812250614166,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.8,
+                    "probability": 0.8940092921257019
+                },
+                {
+                    "word": " you",
+                    "start": 0.8,
+                    "end": 0.96,
+                    "probability": 0.998357355594635
+                },
+                {
+                    "word": " please",
+                    "start": 0.96,
+                    "end": 1.38,
+                    "probability": 0.9922027587890625
+                },
+                {
+                    "word": " review",
+                    "start": 1.38,
+                    "end": 2.96,
+                    "probability": 0.8284695744514465
+                },
+                {
+                    "word": " the",
+                    "start": 2.96,
+                    "end": 3.2,
+                    "probability": 0.993467390537262
+                },
+                {
+                    "word": " contract",
+                    "start": 3.2,
+                    "end": 3.68,
+                    "probability": 0.9765036702156067
+                },
+                {
+                    "word": " before",
+                    "start": 3.68,
+                    "end": 4.14,
+                    "probability": 0.992124617099762
+                },
+                {
+                    "word": " signing",
+                    "start": 4.14,
+                    "end": 4.58,
+                    "probability": 0.9847361445426941
+                },
+                {
+                    "word": " it?",
+                    "start": 4.58,
+                    "end": 4.9,
+                    "probability": 0.9894405007362366
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

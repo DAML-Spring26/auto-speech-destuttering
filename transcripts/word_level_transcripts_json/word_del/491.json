@@ -1,0 +1,80 @@
+{
+    "text": " Please ensure all valuable items are securely stored.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.74,
+            "text": " Please ensure all valuable items are securely stored.",
+            "tokens": [
+                50364,
+                2555,
+                5586,
+                439,
+                8263,
+                4754,
+                366,
+                38348,
+                12187,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26393282413482666,
+            "compression_ratio": 0.9137931034482759,
+            "no_speech_prob": 0.003022882156074047,
+            "words": [
+                {
+                    "word": " Please",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.7305982112884521
+                },
+                {
+                    "word": " ensure",
+                    "start": 0.2,
+                    "end": 0.52,
+                    "probability": 0.9833479523658752
+                },
+                {
+                    "word": " all",
+                    "start": 0.52,
+                    "end": 0.76,
+                    "probability": 0.9764770865440369
+                },
+                {
+                    "word": " valuable",
+                    "start": 0.76,
+                    "end": 1.2,
+                    "probability": 0.9874606728553772
+                },
+                {
+                    "word": " items",
+                    "start": 1.2,
+                    "end": 1.6,
+                    "probability": 0.9986458420753479
+                },
+                {
+                    "word": " are",
+                    "start": 1.6,
+                    "end": 1.84,
+                    "probability": 0.9729929566383362
+                },
+                {
+                    "word": " securely",
+                    "start": 1.84,
+                    "end": 2.3,
+                    "probability": 0.9941509366035461
+                },
+                {
+                    "word": " stored.",
+                    "start": 2.3,
+                    "end": 2.74,
+                    "probability": 0.9783691763877869
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

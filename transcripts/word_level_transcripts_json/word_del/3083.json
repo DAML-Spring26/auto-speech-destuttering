@@ -1,0 +1,80 @@
+{
+    "text": " The research findings presented at several international conferences.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.12,
+            "text": " The research findings presented at several international conferences.",
+            "tokens": [
+                50364,
+                440,
+                2132,
+                16483,
+                8212,
+                412,
+                2940,
+                5058,
+                22032,
+                13,
+                50540
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3883608976999919,
+            "compression_ratio": 1.0298507462686568,
+            "no_speech_prob": 0.005934604909271002,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5703952312469482
+                },
+                {
+                    "word": " research",
+                    "start": 0.1,
+                    "end": 0.4,
+                    "probability": 0.7493807673454285
+                },
+                {
+                    "word": " findings",
+                    "start": 0.4,
+                    "end": 0.84,
+                    "probability": 0.9959937334060669
+                },
+                {
+                    "word": " presented",
+                    "start": 0.84,
+                    "end": 1.36,
+                    "probability": 0.9785960912704468
+                },
+                {
+                    "word": " at",
+                    "start": 1.36,
+                    "end": 1.58,
+                    "probability": 0.9409102201461792
+                },
+                {
+                    "word": " several",
+                    "start": 1.58,
+                    "end": 1.88,
+                    "probability": 0.8958681225776672
+                },
+                {
+                    "word": " international",
+                    "start": 1.88,
+                    "end": 2.46,
+                    "probability": 0.9361101984977722
+                },
+                {
+                    "word": " conferences.",
+                    "start": 2.46,
+                    "end": 3.12,
+                    "probability": 0.996254563331604
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

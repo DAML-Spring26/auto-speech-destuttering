@@ -1,0 +1,87 @@
+{
+    "text": " A quarterly report indicates a slight decrease in expenses.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.88,
+            "text": " A quarterly report indicates a slight decrease in expenses.",
+            "tokens": [
+                50364,
+                316,
+                38633,
+                2275,
+                16203,
+                257,
+                4036,
+                11514,
+                294,
+                15506,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4261592718271109,
+            "compression_ratio": 0.921875,
+            "no_speech_prob": 0.0204755999147892,
+            "words": [
+                {
+                    "word": " A",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.5512986183166504
+                },
+                {
+                    "word": " quarterly",
+                    "start": 0.1,
+                    "end": 0.48,
+                    "probability": 0.949702799320221
+                },
+                {
+                    "word": " report",
+                    "start": 0.48,
+                    "end": 1.02,
+                    "probability": 0.9956204295158386
+                },
+                {
+                    "word": " indicates",
+                    "start": 1.02,
+                    "end": 1.6,
+                    "probability": 0.9876841306686401
+                },
+                {
+                    "word": " a",
+                    "start": 1.6,
+                    "end": 3.26,
+                    "probability": 0.6629555821418762
+                },
+                {
+                    "word": " slight",
+                    "start": 3.26,
+                    "end": 3.56,
+                    "probability": 0.9859827160835266
+                },
+                {
+                    "word": " decrease",
+                    "start": 3.56,
+                    "end": 4.0,
+                    "probability": 0.9916250109672546
+                },
+                {
+                    "word": " in",
+                    "start": 4.0,
+                    "end": 4.3,
+                    "probability": 0.9995137453079224
+                },
+                {
+                    "word": " expenses.",
+                    "start": 4.3,
+                    "end": 4.88,
+                    "probability": 0.9908879995346069
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

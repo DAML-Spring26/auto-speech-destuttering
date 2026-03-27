@@ -1,0 +1,94 @@
+{
+    "text": " She always brings the reusable water bottle to the gym.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.26,
+            "text": " She always brings the reusable water bottle to the gym.",
+            "tokens": [
+                50364,
+                1240,
+                1009,
+                5607,
+                264,
+                41807,
+                1281,
+                7817,
+                281,
+                264,
+                9222,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42569708824157715,
+            "compression_ratio": 0.9649122807017544,
+            "no_speech_prob": 0.004591785836964846,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.7446367144584656
+                },
+                {
+                    "word": " always",
+                    "start": 0.18,
+                    "end": 0.6,
+                    "probability": 0.9968129992485046
+                },
+                {
+                    "word": " brings",
+                    "start": 0.6,
+                    "end": 1.14,
+                    "probability": 0.9946063160896301
+                },
+                {
+                    "word": " the",
+                    "start": 1.14,
+                    "end": 2.1,
+                    "probability": 0.2256224900484085
+                },
+                {
+                    "word": " reusable",
+                    "start": 2.1,
+                    "end": 2.64,
+                    "probability": 0.9377482533454895
+                },
+                {
+                    "word": " water",
+                    "start": 2.64,
+                    "end": 3.16,
+                    "probability": 0.9901362061500549
+                },
+                {
+                    "word": " bottle",
+                    "start": 3.16,
+                    "end": 3.56,
+                    "probability": 0.9934646487236023
+                },
+                {
+                    "word": " to",
+                    "start": 3.56,
+                    "end": 3.82,
+                    "probability": 0.993124783039093
+                },
+                {
+                    "word": " the",
+                    "start": 3.82,
+                    "end": 3.98,
+                    "probability": 0.9964260458946228
+                },
+                {
+                    "word": " gym.",
+                    "start": 3.98,
+                    "end": 4.26,
+                    "probability": 0.6298331618309021
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,80 @@
+{
+    "text": " Honey did you remember to pick up milk?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.3,
+            "text": " Honey did you remember to pick up milk?",
+            "tokens": [
+                50364,
+                16187,
+                630,
+                291,
+                1604,
+                281,
+                1888,
+                493,
+                5392,
+                30,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5373662312825521,
+            "compression_ratio": 0.8297872340425532,
+            "no_speech_prob": 0.019365329295396805,
+            "words": [
+                {
+                    "word": " Honey",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.6587892770767212
+                },
+                {
+                    "word": " did",
+                    "start": 0.28,
+                    "end": 0.58,
+                    "probability": 0.5139615535736084
+                },
+                {
+                    "word": " you",
+                    "start": 0.58,
+                    "end": 0.74,
+                    "probability": 0.9939117431640625
+                },
+                {
+                    "word": " remember",
+                    "start": 0.74,
+                    "end": 1.06,
+                    "probability": 0.9944610595703125
+                },
+                {
+                    "word": " to",
+                    "start": 1.06,
+                    "end": 1.3,
+                    "probability": 0.8780918121337891
+                },
+                {
+                    "word": " pick",
+                    "start": 1.3,
+                    "end": 3.78,
+                    "probability": 0.6680384278297424
+                },
+                {
+                    "word": " up",
+                    "start": 3.78,
+                    "end": 4.04,
+                    "probability": 0.9913982152938843
+                },
+                {
+                    "word": " milk?",
+                    "start": 4.04,
+                    "end": 4.3,
+                    "probability": 0.9828764796257019
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

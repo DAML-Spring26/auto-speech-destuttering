@@ -1,0 +1,80 @@
+{
+    "text": " We need to optimize our resource collection process.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.1,
+            "text": " We need to optimize our resource collection process.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                19719,
+                527,
+                7684,
+                5765,
+                1399,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42179731527964276,
+            "compression_ratio": 0.896551724137931,
+            "no_speech_prob": 0.0021661403588950634,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.740781307220459
+                },
+                {
+                    "word": " need",
+                    "start": 0.12,
+                    "end": 0.22,
+                    "probability": 0.9977648258209229
+                },
+                {
+                    "word": " to",
+                    "start": 0.22,
+                    "end": 0.36,
+                    "probability": 0.9989070892333984
+                },
+                {
+                    "word": " optimize",
+                    "start": 0.36,
+                    "end": 0.68,
+                    "probability": 0.809248149394989
+                },
+                {
+                    "word": " our",
+                    "start": 0.68,
+                    "end": 0.86,
+                    "probability": 0.46674415469169617
+                },
+                {
+                    "word": " resource",
+                    "start": 0.86,
+                    "end": 1.1,
+                    "probability": 0.9122273325920105
+                },
+                {
+                    "word": " collection",
+                    "start": 1.1,
+                    "end": 1.48,
+                    "probability": 0.9857140779495239
+                },
+                {
+                    "word": " process.",
+                    "start": 1.48,
+                    "end": 2.1,
+                    "probability": 0.9982123374938965
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

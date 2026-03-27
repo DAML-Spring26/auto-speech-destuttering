@@ -1,0 +1,80 @@
+{
+    "text": " We need to discuss this matter in private.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.66,
+            "text": " We need to discuss this matter in private.",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                2248,
+                341,
+                1871,
+                294,
+                4551,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31218252579371136,
+            "compression_ratio": 0.84,
+            "no_speech_prob": 0.006818351335823536,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.658308207988739
+                },
+                {
+                    "word": " need",
+                    "start": 0.14,
+                    "end": 0.3,
+                    "probability": 0.9991563558578491
+                },
+                {
+                    "word": " to",
+                    "start": 0.3,
+                    "end": 0.5,
+                    "probability": 0.9990697503089905
+                },
+                {
+                    "word": " discuss",
+                    "start": 0.5,
+                    "end": 0.86,
+                    "probability": 0.996253252029419
+                },
+                {
+                    "word": " this",
+                    "start": 0.86,
+                    "end": 1.22,
+                    "probability": 0.9372873306274414
+                },
+                {
+                    "word": " matter",
+                    "start": 1.22,
+                    "end": 1.6,
+                    "probability": 0.9909693598747253
+                },
+                {
+                    "word": " in",
+                    "start": 1.6,
+                    "end": 1.9,
+                    "probability": 0.9788364768028259
+                },
+                {
+                    "word": " private.",
+                    "start": 1.9,
+                    "end": 3.66,
+                    "probability": 0.9007214307785034
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

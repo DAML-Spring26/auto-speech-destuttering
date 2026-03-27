@@ -1,0 +1,119 @@
+{
+    "text": " We should arrive at least two hours before. Your schedule flight.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.34,
+            "text": " We should arrive at least two hours before.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                8881,
+                412,
+                1935,
+                732,
+                2496,
+                949,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6411564615037706,
+            "compression_ratio": 0.9701492537313433,
+            "no_speech_prob": 0.00494807306677103,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.8041969537734985
+                },
+                {
+                    "word": " should",
+                    "start": 0.18,
+                    "end": 0.38,
+                    "probability": 0.33265435695648193
+                },
+                {
+                    "word": " arrive",
+                    "start": 0.38,
+                    "end": 0.78,
+                    "probability": 0.9268891215324402
+                },
+                {
+                    "word": " at",
+                    "start": 0.78,
+                    "end": 1.06,
+                    "probability": 0.9931561350822449
+                },
+                {
+                    "word": " least",
+                    "start": 1.06,
+                    "end": 1.2,
+                    "probability": 0.9914190769195557
+                },
+                {
+                    "word": " two",
+                    "start": 1.2,
+                    "end": 1.52,
+                    "probability": 0.49345362186431885
+                },
+                {
+                    "word": " hours",
+                    "start": 1.52,
+                    "end": 1.8,
+                    "probability": 0.9994106292724609
+                },
+                {
+                    "word": " before.",
+                    "start": 1.8,
+                    "end": 2.34,
+                    "probability": 0.9935385584831238
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.84,
+            "end": 6.32,
+            "text": " Your schedule flight.",
+            "tokens": [
+                50628,
+                2260,
+                7567,
+                7018,
+                13,
+                50694
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6411564615037706,
+            "compression_ratio": 0.9701492537313433,
+            "no_speech_prob": 0.00494807306677103,
+            "words": [
+                {
+                    "word": " Your",
+                    "start": 4.84,
+                    "end": 5.48,
+                    "probability": 0.825117826461792
+                },
+                {
+                    "word": " schedule",
+                    "start": 5.48,
+                    "end": 5.96,
+                    "probability": 0.8818572759628296
+                },
+                {
+                    "word": " flight.",
+                    "start": 5.96,
+                    "end": 6.32,
+                    "probability": 0.8332200646400452
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

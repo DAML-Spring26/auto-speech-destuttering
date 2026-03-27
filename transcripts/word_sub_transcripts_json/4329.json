@@ -1,0 +1,59 @@
+{
+    "text": " The system generates automatic updates.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.36,
+            "text": " The system generates automatic updates.",
+            "tokens": [
+                50364,
+                440,
+                1185,
+                23815,
+                12509,
+                9205,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47127548853556317,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.005173665005713701,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5861687660217285
+                },
+                {
+                    "word": " system",
+                    "start": 0.12,
+                    "end": 0.54,
+                    "probability": 0.983986496925354
+                },
+                {
+                    "word": " generates",
+                    "start": 0.54,
+                    "end": 1.12,
+                    "probability": 0.9949917197227478
+                },
+                {
+                    "word": " automatic",
+                    "start": 1.12,
+                    "end": 1.54,
+                    "probability": 0.9838199615478516
+                },
+                {
+                    "word": " updates.",
+                    "start": 1.54,
+                    "end": 2.36,
+                    "probability": 0.9916062355041504
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

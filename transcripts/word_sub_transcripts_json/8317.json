@@ -1,0 +1,80 @@
+{
+    "text": " The new policy aims to streamline administrative progress.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.46,
+            "text": " The new policy aims to streamline administrative progress.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                3897,
+                24683,
+                281,
+                47141,
+                17900,
+                4205,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3395843505859375,
+            "compression_ratio": 0.90625,
+            "no_speech_prob": 0.01629619486629963,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7295301556587219
+                },
+                {
+                    "word": " new",
+                    "start": 0.12,
+                    "end": 0.32,
+                    "probability": 0.8545057773590088
+                },
+                {
+                    "word": " policy",
+                    "start": 0.32,
+                    "end": 0.68,
+                    "probability": 0.9732527732849121
+                },
+                {
+                    "word": " aims",
+                    "start": 0.68,
+                    "end": 0.96,
+                    "probability": 0.9965572357177734
+                },
+                {
+                    "word": " to",
+                    "start": 0.96,
+                    "end": 1.1,
+                    "probability": 0.9926905035972595
+                },
+                {
+                    "word": " streamline",
+                    "start": 1.1,
+                    "end": 1.42,
+                    "probability": 0.788844108581543
+                },
+                {
+                    "word": " administrative",
+                    "start": 1.42,
+                    "end": 1.94,
+                    "probability": 0.9961430430412292
+                },
+                {
+                    "word": " progress.",
+                    "start": 1.94,
+                    "end": 2.46,
+                    "probability": 0.9963195323944092
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

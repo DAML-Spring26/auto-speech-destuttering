@@ -1,0 +1,184 @@
+{
+    "text": " A Costella. I plea one the please call Stella. Anyone you know? Grab coffee later.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.94,
+            "text": " A Costella.",
+            "tokens": [
+                50364,
+                316,
+                20863,
+                9885,
+                13,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5912713017956964,
+            "compression_ratio": 1.0379746835443038,
+            "no_speech_prob": 0.10329331457614899,
+            "words": [
+                {
+                    "word": " A",
+                    "start": 0.0,
+                    "end": 0.5,
+                    "probability": 0.4015815556049347
+                },
+                {
+                    "word": " Costella.",
+                    "start": 0.5,
+                    "end": 0.94,
+                    "probability": 0.5819758772850037
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.52,
+            "end": 2.92,
+            "text": " I plea one the please call Stella.",
+            "tokens": [
+                50414,
+                286,
+                42152,
+                472,
+                264,
+                1767,
+                818,
+                45073,
+                13,
+                50538
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5912713017956964,
+            "compression_ratio": 1.0379746835443038,
+            "no_speech_prob": 0.10329331457614899,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 1.52,
+                    "end": 1.62,
+                    "probability": 0.5545617938041687
+                },
+                {
+                    "word": " plea",
+                    "start": 1.62,
+                    "end": 1.82,
+                    "probability": 0.3948294222354889
+                },
+                {
+                    "word": " one",
+                    "start": 1.82,
+                    "end": 1.98,
+                    "probability": 0.6510239839553833
+                },
+                {
+                    "word": " the",
+                    "start": 1.98,
+                    "end": 2.08,
+                    "probability": 0.6191927790641785
+                },
+                {
+                    "word": " please",
+                    "start": 2.08,
+                    "end": 2.32,
+                    "probability": 0.780599057674408
+                },
+                {
+                    "word": " call",
+                    "start": 2.32,
+                    "end": 2.58,
+                    "probability": 0.4744490683078766
+                },
+                {
+                    "word": " Stella.",
+                    "start": 2.58,
+                    "end": 2.92,
+                    "probability": 0.7271583080291748
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 3.32,
+            "end": 4.0,
+            "text": " Anyone you know?",
+            "tokens": [
+                50538,
+                14643,
+                291,
+                458,
+                30,
+                50588
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5912713017956964,
+            "compression_ratio": 1.0379746835443038,
+            "no_speech_prob": 0.10329331457614899,
+            "words": [
+                {
+                    "word": " Anyone",
+                    "start": 3.32,
+                    "end": 3.54,
+                    "probability": 0.7529412508010864
+                },
+                {
+                    "word": " you",
+                    "start": 3.54,
+                    "end": 3.78,
+                    "probability": 0.3523176908493042
+                },
+                {
+                    "word": " know?",
+                    "start": 3.78,
+                    "end": 4.0,
+                    "probability": 0.9949097037315369
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 4.34,
+            "end": 5.16,
+            "text": " Grab coffee later.",
+            "tokens": [
+                50588,
+                20357,
+                4982,
+                1780,
+                13,
+                50636
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5912713017956964,
+            "compression_ratio": 1.0379746835443038,
+            "no_speech_prob": 0.10329331457614899,
+            "words": [
+                {
+                    "word": " Grab",
+                    "start": 4.34,
+                    "end": 4.44,
+                    "probability": 0.9676209688186646
+                },
+                {
+                    "word": " coffee",
+                    "start": 4.44,
+                    "end": 4.86,
+                    "probability": 0.9040144681930542
+                },
+                {
+                    "word": " later.",
+                    "start": 4.86,
+                    "end": 5.16,
+                    "probability": 0.9788001775741577
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

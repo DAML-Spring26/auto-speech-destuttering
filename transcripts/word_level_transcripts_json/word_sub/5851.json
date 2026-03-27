@@ -1,0 +1,73 @@
+{
+    "text": " What time does your fight to pour?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.26,
+            "text": " What time does your fight to pour?",
+            "tokens": [
+                50364,
+                708,
+                565,
+                775,
+                428,
+                2092,
+                281,
+                2016,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4115431092002175,
+            "compression_ratio": 0.8717948717948718,
+            "no_speech_prob": 0.00964245107024908,
+            "words": [
+                {
+                    "word": " What",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.780695378780365
+                },
+                {
+                    "word": " time",
+                    "start": 0.18,
+                    "end": 0.42,
+                    "probability": 0.9477398991584778
+                },
+                {
+                    "word": " does",
+                    "start": 0.42,
+                    "end": 0.6,
+                    "probability": 0.995385468006134
+                },
+                {
+                    "word": " your",
+                    "start": 0.6,
+                    "end": 0.7,
+                    "probability": 0.910252034664154
+                },
+                {
+                    "word": " fight",
+                    "start": 0.7,
+                    "end": 0.86,
+                    "probability": 0.9107823967933655
+                },
+                {
+                    "word": " to",
+                    "start": 0.86,
+                    "end": 1.02,
+                    "probability": 0.618623673915863
+                },
+                {
+                    "word": " pour?",
+                    "start": 1.02,
+                    "end": 1.26,
+                    "probability": 0.7663647532463074
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

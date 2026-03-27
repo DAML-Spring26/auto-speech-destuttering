@@ -1,0 +1,110 @@
+{
+    "text": " Dad working on fixing the leaky faucet in the kitchen all morning.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.88,
+            "text": " Dad working on fixing the leaky faucet in the kitchen all morning.",
+            "tokens": [
+                50364,
+                5639,
+                1364,
+                322,
+                19442,
+                264,
+                476,
+                15681,
+                49567,
+                302,
+                294,
+                264,
+                6525,
+                439,
+                2446,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37062931060791016,
+            "compression_ratio": 0.9850746268656716,
+            "no_speech_prob": 0.0024721678346395493,
+            "words": [
+                {
+                    "word": " Dad",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.16304568946361542
+                },
+                {
+                    "word": " working",
+                    "start": 0.22,
+                    "end": 0.68,
+                    "probability": 0.8775709867477417
+                },
+                {
+                    "word": " on",
+                    "start": 0.68,
+                    "end": 0.92,
+                    "probability": 0.8027072548866272
+                },
+                {
+                    "word": " fixing",
+                    "start": 0.92,
+                    "end": 1.34,
+                    "probability": 0.9921628832817078
+                },
+                {
+                    "word": " the",
+                    "start": 1.34,
+                    "end": 1.66,
+                    "probability": 0.9953277111053467
+                },
+                {
+                    "word": " leaky",
+                    "start": 1.66,
+                    "end": 1.92,
+                    "probability": 0.6469326615333557
+                },
+                {
+                    "word": " faucet",
+                    "start": 1.92,
+                    "end": 2.62,
+                    "probability": 0.9974866807460785
+                },
+                {
+                    "word": " in",
+                    "start": 2.62,
+                    "end": 2.76,
+                    "probability": 0.9761644601821899
+                },
+                {
+                    "word": " the",
+                    "start": 2.76,
+                    "end": 2.88,
+                    "probability": 0.9961777925491333
+                },
+                {
+                    "word": " kitchen",
+                    "start": 2.88,
+                    "end": 3.22,
+                    "probability": 0.994971752166748
+                },
+                {
+                    "word": " all",
+                    "start": 3.22,
+                    "end": 3.52,
+                    "probability": 0.9804018139839172
+                },
+                {
+                    "word": " morning.",
+                    "start": 3.52,
+                    "end": 3.88,
+                    "probability": 0.9982289671897888
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

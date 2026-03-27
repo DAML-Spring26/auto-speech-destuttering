@@ -1,32 +1,22 @@
 {
-    "text": " Don't forget to inform you bank about your travel plans.",
+    "text": " Bye!",
     "segments": [
         {
             "id": 0,
             "seek": 0,
             "start": 0.0,
-            "end": 7.0,
-            "text": " Don't forget to inform you bank about your travel plans.",
+            "end": 1.0,
+            "text": " Bye!",
             "tokens": [
                 50364,
-                1468,
-                380,
-                2870,
-                281,
-                1356,
-                291,
-                3765,
-                466,
-                428,
-                3147,
-                5482,
-                13,
-                50714
+                4621,
+                0,
+                50414
             ],
-            "temperature": 0.0,
-            "avg_logprob": -0.39814236958821614,
-            "compression_ratio": 0.9333333333333333,
-            "no_speech_prob": 0.003981621470302343
+            "temperature": 1.0,
+            "avg_logprob": -1.5752659797668458,
+            "compression_ratio": 0.3333333333333333,
+            "no_speech_prob": 0.20539753139019012
         }
     ],
     "language": "en"

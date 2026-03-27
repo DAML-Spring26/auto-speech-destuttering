@@ -1,0 +1,87 @@
+{
+    "text": " The restaurant is known for its delicious seafood dishes.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.28,
+            "text": " The restaurant is known for its delicious seafood dishes.",
+            "tokens": [
+                50364,
+                440,
+                6383,
+                307,
+                2570,
+                337,
+                1080,
+                4809,
+                23206,
+                10814,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40573277840247524,
+            "compression_ratio": 0.95,
+            "no_speech_prob": 0.003839898156002164,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8295088410377502
+                },
+                {
+                    "word": " restaurant",
+                    "start": 0.12,
+                    "end": 0.48,
+                    "probability": 0.9716036319732666
+                },
+                {
+                    "word": " is",
+                    "start": 0.48,
+                    "end": 0.84,
+                    "probability": 0.996720016002655
+                },
+                {
+                    "word": " known",
+                    "start": 0.84,
+                    "end": 1.16,
+                    "probability": 0.9955463409423828
+                },
+                {
+                    "word": " for",
+                    "start": 1.16,
+                    "end": 1.6,
+                    "probability": 0.9989131689071655
+                },
+                {
+                    "word": " its",
+                    "start": 1.6,
+                    "end": 4.62,
+                    "probability": 0.521486759185791
+                },
+                {
+                    "word": " delicious",
+                    "start": 4.62,
+                    "end": 5.28,
+                    "probability": 0.9919623732566833
+                },
+                {
+                    "word": " seafood",
+                    "start": 5.28,
+                    "end": 5.78,
+                    "probability": 0.9378079771995544
+                },
+                {
+                    "word": " dishes.",
+                    "start": 5.78,
+                    "end": 6.28,
+                    "probability": 0.9697391390800476
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

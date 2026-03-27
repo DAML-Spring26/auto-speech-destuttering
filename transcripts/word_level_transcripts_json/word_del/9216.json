@@ -1,0 +1,80 @@
+{
+    "text": " The research paper reviewed by three independent experts.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.9,
+            "text": " The research paper reviewed by three independent experts.",
+            "tokens": [
+                50364,
+                440,
+                2132,
+                3035,
+                18429,
+                538,
+                1045,
+                6695,
+                8572,
+                13,
+                50580
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.421789010365804,
+            "compression_ratio": 0.9344262295081968,
+            "no_speech_prob": 0.003313119523227215,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7045331001281738
+                },
+                {
+                    "word": " research",
+                    "start": 0.12,
+                    "end": 0.54,
+                    "probability": 0.9408036470413208
+                },
+                {
+                    "word": " paper",
+                    "start": 0.54,
+                    "end": 1.12,
+                    "probability": 0.9914305806159973
+                },
+                {
+                    "word": " reviewed",
+                    "start": 1.12,
+                    "end": 1.68,
+                    "probability": 0.9297701120376587
+                },
+                {
+                    "word": " by",
+                    "start": 1.68,
+                    "end": 1.96,
+                    "probability": 0.9949002861976624
+                },
+                {
+                    "word": " three",
+                    "start": 1.96,
+                    "end": 2.38,
+                    "probability": 0.7226401567459106
+                },
+                {
+                    "word": " independent",
+                    "start": 2.38,
+                    "end": 3.14,
+                    "probability": 0.9746612310409546
+                },
+                {
+                    "word": " experts.",
+                    "start": 3.14,
+                    "end": 3.9,
+                    "probability": 0.9946725964546204
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

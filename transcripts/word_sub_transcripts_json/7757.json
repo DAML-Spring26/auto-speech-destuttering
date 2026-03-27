@@ -1,0 +1,82 @@
+{
+    "text": " the dissertation explores cognitive biases and decision-faking.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.24,
+            "text": " the dissertation explores cognitive biases and decision-faking.",
+            "tokens": [
+                50364,
+                264,
+                39555,
+                45473,
+                15605,
+                32152,
+                293,
+                3537,
+                12,
+                69,
+                2456,
+                13,
+                50534
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4459737368992397,
+            "compression_ratio": 0.9692307692307692,
+            "no_speech_prob": 0.005137775558978319,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5462146997451782
+                },
+                {
+                    "word": " dissertation",
+                    "start": 0.14,
+                    "end": 0.7,
+                    "probability": 0.4907304346561432
+                },
+                {
+                    "word": " explores",
+                    "start": 0.7,
+                    "end": 1.24,
+                    "probability": 0.7198134064674377
+                },
+                {
+                    "word": " cognitive",
+                    "start": 1.24,
+                    "end": 1.62,
+                    "probability": 0.9753822088241577
+                },
+                {
+                    "word": " biases",
+                    "start": 1.62,
+                    "end": 2.12,
+                    "probability": 0.862795889377594
+                },
+                {
+                    "word": " and",
+                    "start": 2.12,
+                    "end": 2.44,
+                    "probability": 0.8913286924362183
+                },
+                {
+                    "word": " decision",
+                    "start": 2.44,
+                    "end": 2.84,
+                    "probability": 0.987112820148468
+                },
+                {
+                    "word": "-faking.",
+                    "start": 2.84,
+                    "end": 3.24,
+                    "probability": 0.8133543133735657
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

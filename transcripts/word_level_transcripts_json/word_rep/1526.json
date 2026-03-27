@@ -1,0 +1,52 @@
+{
+    "text": " the river flows swiftly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.4,
+            "text": " the river flows swiftly.",
+            "tokens": [
+                50364,
+                264,
+                6810,
+                12867,
+                49891,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7208665013313293,
+            "compression_ratio": 0.75,
+            "no_speech_prob": 0.021644365042448044,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.3314815163612366
+                },
+                {
+                    "word": " river",
+                    "start": 0.2,
+                    "end": 0.62,
+                    "probability": 0.23482351005077362
+                },
+                {
+                    "word": " flows",
+                    "start": 0.62,
+                    "end": 0.92,
+                    "probability": 0.88233882188797
+                },
+                {
+                    "word": " swiftly.",
+                    "start": 0.92,
+                    "end": 1.4,
+                    "probability": 0.973864734172821
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

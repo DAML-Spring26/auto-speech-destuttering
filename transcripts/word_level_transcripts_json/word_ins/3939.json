@@ -1,0 +1,101 @@
+{
+    "text": " The team is working on developing on a new marketing strategy.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.9,
+            "text": " The team is working on developing on a new marketing strategy.",
+            "tokens": [
+                50364,
+                440,
+                1469,
+                307,
+                1364,
+                322,
+                6416,
+                322,
+                257,
+                777,
+                6370,
+                5206,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2515892505645752,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.0945674479007721,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.8,
+                    "probability": 0.8527553677558899
+                },
+                {
+                    "word": " team",
+                    "start": 0.8,
+                    "end": 1.1,
+                    "probability": 0.9938076138496399
+                },
+                {
+                    "word": " is",
+                    "start": 1.1,
+                    "end": 1.24,
+                    "probability": 0.9980904459953308
+                },
+                {
+                    "word": " working",
+                    "start": 1.24,
+                    "end": 1.48,
+                    "probability": 0.9990898370742798
+                },
+                {
+                    "word": " on",
+                    "start": 1.48,
+                    "end": 1.7,
+                    "probability": 0.998984158039093
+                },
+                {
+                    "word": " developing",
+                    "start": 1.7,
+                    "end": 2.26,
+                    "probability": 0.9965826869010925
+                },
+                {
+                    "word": " on",
+                    "start": 2.26,
+                    "end": 2.56,
+                    "probability": 0.9932355284690857
+                },
+                {
+                    "word": " a",
+                    "start": 2.56,
+                    "end": 2.66,
+                    "probability": 0.997633695602417
+                },
+                {
+                    "word": " new",
+                    "start": 2.66,
+                    "end": 2.82,
+                    "probability": 0.9981766939163208
+                },
+                {
+                    "word": " marketing",
+                    "start": 2.82,
+                    "end": 3.18,
+                    "probability": 0.9819298386573792
+                },
+                {
+                    "word": " strategy.",
+                    "start": 3.18,
+                    "end": 3.9,
+                    "probability": 0.9992194175720215
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

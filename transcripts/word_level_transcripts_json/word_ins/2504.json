@@ -1,0 +1,87 @@
+{
+    "text": " Is there a study group for in this course?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.04,
+            "text": " Is there a study group for in this course?",
+            "tokens": [
+                50364,
+                1119,
+                456,
+                257,
+                2979,
+                1594,
+                337,
+                294,
+                341,
+                1164,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2660706410041222,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.026202812790870667,
+            "words": [
+                {
+                    "word": " Is",
+                    "start": 0.0,
+                    "end": 0.48,
+                    "probability": 0.8151242136955261
+                },
+                {
+                    "word": " there",
+                    "start": 0.48,
+                    "end": 0.64,
+                    "probability": 0.996035635471344
+                },
+                {
+                    "word": " a",
+                    "start": 0.64,
+                    "end": 0.78,
+                    "probability": 0.9971581697463989
+                },
+                {
+                    "word": " study",
+                    "start": 0.78,
+                    "end": 1.04,
+                    "probability": 0.9644351601600647
+                },
+                {
+                    "word": " group",
+                    "start": 1.04,
+                    "end": 1.3,
+                    "probability": 0.9948028326034546
+                },
+                {
+                    "word": " for",
+                    "start": 1.3,
+                    "end": 1.52,
+                    "probability": 0.9621692299842834
+                },
+                {
+                    "word": " in",
+                    "start": 1.52,
+                    "end": 1.62,
+                    "probability": 0.867048978805542
+                },
+                {
+                    "word": " this",
+                    "start": 1.62,
+                    "end": 1.76,
+                    "probability": 0.9974658489227295
+                },
+                {
+                    "word": " course?",
+                    "start": 1.76,
+                    "end": 2.04,
+                    "probability": 0.9955248832702637
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

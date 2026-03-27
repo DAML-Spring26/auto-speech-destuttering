@@ -1,0 +1,80 @@
+{
+    "text": " The doctor recommended taking the medication twice daily.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.02,
+            "text": " The doctor recommended taking the medication twice daily.",
+            "tokens": [
+                50364,
+                440,
+                4631,
+                9628,
+                1940,
+                264,
+                13851,
+                6091,
+                5212,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3401811122894287,
+            "compression_ratio": 0.9193548387096774,
+            "no_speech_prob": 0.004887756891548634,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6415700912475586
+                },
+                {
+                    "word": " doctor",
+                    "start": 0.12,
+                    "end": 0.5,
+                    "probability": 0.9519003033638
+                },
+                {
+                    "word": " recommended",
+                    "start": 0.5,
+                    "end": 1.14,
+                    "probability": 0.989770770072937
+                },
+                {
+                    "word": " taking",
+                    "start": 1.14,
+                    "end": 1.74,
+                    "probability": 0.9943379759788513
+                },
+                {
+                    "word": " the",
+                    "start": 1.74,
+                    "end": 2.0,
+                    "probability": 0.9664351940155029
+                },
+                {
+                    "word": " medication",
+                    "start": 2.0,
+                    "end": 2.7,
+                    "probability": 0.9981821775436401
+                },
+                {
+                    "word": " twice",
+                    "start": 2.7,
+                    "end": 4.52,
+                    "probability": 0.8275130391120911
+                },
+                {
+                    "word": " daily.",
+                    "start": 4.52,
+                    "end": 5.02,
+                    "probability": 0.995793342590332
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

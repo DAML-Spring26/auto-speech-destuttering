@@ -1,0 +1,89 @@
+{
+    "text": " I'm having trouble accessing my online, you know account.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.06,
+            "text": " I'm having trouble accessing my online, you know account.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                1419,
+                5253,
+                26440,
+                452,
+                2950,
+                11,
+                291,
+                458,
+                2696,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32990744908650715,
+            "compression_ratio": 0.95,
+            "no_speech_prob": 0.10660354048013687,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.72,
+                    "probability": 0.9018591344356537
+                },
+                {
+                    "word": " having",
+                    "start": 0.72,
+                    "end": 0.88,
+                    "probability": 0.9971508383750916
+                },
+                {
+                    "word": " trouble",
+                    "start": 0.88,
+                    "end": 1.12,
+                    "probability": 0.9951379895210266
+                },
+                {
+                    "word": " accessing",
+                    "start": 1.12,
+                    "end": 1.54,
+                    "probability": 0.9832140207290649
+                },
+                {
+                    "word": " my",
+                    "start": 1.54,
+                    "end": 1.8,
+                    "probability": 0.9956405162811279
+                },
+                {
+                    "word": " online,",
+                    "start": 1.8,
+                    "end": 2.24,
+                    "probability": 0.967451810836792
+                },
+                {
+                    "word": " you",
+                    "start": 2.56,
+                    "end": 2.66,
+                    "probability": 0.9792654514312744
+                },
+                {
+                    "word": " know",
+                    "start": 2.66,
+                    "end": 2.76,
+                    "probability": 0.9956405162811279
+                },
+                {
+                    "word": " account.",
+                    "start": 2.76,
+                    "end": 3.06,
+                    "probability": 0.704852283000946
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

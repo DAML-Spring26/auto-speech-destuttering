@@ -1,0 +1,67 @@
+{
+    "text": " they discuss the project's design today.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.92,
+            "text": " they discuss the project's design today.",
+            "tokens": [
+                50364,
+                436,
+                2248,
+                264,
+                1716,
+                311,
+                1715,
+                965,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8612009395252574,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.005629600025713444,
+            "words": [
+                {
+                    "word": " they",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.4486592710018158
+                },
+                {
+                    "word": " discuss",
+                    "start": 0.1,
+                    "end": 0.4,
+                    "probability": 0.7448644042015076
+                },
+                {
+                    "word": " the",
+                    "start": 0.4,
+                    "end": 0.64,
+                    "probability": 0.9756600260734558
+                },
+                {
+                    "word": " project's",
+                    "start": 0.64,
+                    "end": 1.24,
+                    "probability": 0.5046736132353544
+                },
+                {
+                    "word": " design",
+                    "start": 1.24,
+                    "end": 1.54,
+                    "probability": 0.12027125060558319
+                },
+                {
+                    "word": " today.",
+                    "start": 1.54,
+                    "end": 1.92,
+                    "probability": 0.8032702207565308
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

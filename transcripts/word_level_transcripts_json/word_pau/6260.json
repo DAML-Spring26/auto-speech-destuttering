@@ -1,0 +1,95 @@
+{
+    "text": " The new policy aims to reduce our company's carbon footprint.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.94,
+            "text": " The new policy aims to reduce our company's carbon footprint.",
+            "tokens": [
+                50364,
+                440,
+                777,
+                3897,
+                24683,
+                281,
+                5407,
+                527,
+                2237,
+                311,
+                5954,
+                24222,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2913484573364258,
+            "compression_ratio": 0.9242424242424242,
+            "no_speech_prob": 0.005917846690863371,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.5107201933860779
+                },
+                {
+                    "word": " new",
+                    "start": 0.16,
+                    "end": 0.32,
+                    "probability": 0.9697251915931702
+                },
+                {
+                    "word": " policy",
+                    "start": 0.32,
+                    "end": 0.94,
+                    "probability": 0.9235321879386902
+                },
+                {
+                    "word": " aims",
+                    "start": 0.94,
+                    "end": 1.44,
+                    "probability": 0.7092264294624329
+                },
+                {
+                    "word": " to",
+                    "start": 1.44,
+                    "end": 1.86,
+                    "probability": 0.9947550296783447
+                },
+                {
+                    "word": " reduce",
+                    "start": 1.86,
+                    "end": 3.86,
+                    "probability": 0.887098491191864
+                },
+                {
+                    "word": " our",
+                    "start": 3.86,
+                    "end": 4.16,
+                    "probability": 0.9835943579673767
+                },
+                {
+                    "word": " company's",
+                    "start": 4.16,
+                    "end": 4.96,
+                    "probability": 0.9803036451339722
+                },
+                {
+                    "word": " carbon",
+                    "start": 4.96,
+                    "end": 5.3,
+                    "probability": 0.9892895817756653
+                },
+                {
+                    "word": " footprint.",
+                    "start": 5.3,
+                    "end": 5.94,
+                    "probability": 0.996384859085083
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,80 @@
+{
+    "text": " Students should submit their assignments before the deadline.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.58,
+            "text": " Students should submit their assignments before the deadline.",
+            "tokens": [
+                50364,
+                17244,
+                820,
+                10315,
+                641,
+                22546,
+                949,
+                264,
+                20615,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33402228355407715,
+            "compression_ratio": 0.9682539682539683,
+            "no_speech_prob": 0.005370703525841236,
+            "words": [
+                {
+                    "word": " Students",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.7278381586074829
+                },
+                {
+                    "word": " should",
+                    "start": 0.44,
+                    "end": 0.84,
+                    "probability": 0.9979044198989868
+                },
+                {
+                    "word": " submit",
+                    "start": 0.84,
+                    "end": 1.38,
+                    "probability": 0.9969850182533264
+                },
+                {
+                    "word": " their",
+                    "start": 1.38,
+                    "end": 1.72,
+                    "probability": 0.9973257780075073
+                },
+                {
+                    "word": " assignments",
+                    "start": 1.72,
+                    "end": 2.34,
+                    "probability": 0.9946460723876953
+                },
+                {
+                    "word": " before",
+                    "start": 2.34,
+                    "end": 3.04,
+                    "probability": 0.9742513298988342
+                },
+                {
+                    "word": " the",
+                    "start": 3.04,
+                    "end": 6.24,
+                    "probability": 0.7024053335189819
+                },
+                {
+                    "word": " deadline.",
+                    "start": 6.24,
+                    "end": 6.58,
+                    "probability": 0.9959872364997864
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

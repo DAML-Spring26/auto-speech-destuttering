@@ -1,0 +1,87 @@
+{
+    "text": " Could you please conform your attendance at the conference?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.56,
+            "text": " Could you please conform your attendance at the conference?",
+            "tokens": [
+                50364,
+                7497,
+                291,
+                1767,
+                18975,
+                428,
+                24337,
+                412,
+                264,
+                7586,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3244942518380972,
+            "compression_ratio": 1.0172413793103448,
+            "no_speech_prob": 0.016695639118552208,
+            "words": [
+                {
+                    "word": " Could",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.8376933336257935
+                },
+                {
+                    "word": " you",
+                    "start": 0.12,
+                    "end": 0.24,
+                    "probability": 0.9929868578910828
+                },
+                {
+                    "word": " please",
+                    "start": 0.24,
+                    "end": 0.5,
+                    "probability": 0.9970781803131104
+                },
+                {
+                    "word": " conform",
+                    "start": 0.5,
+                    "end": 0.98,
+                    "probability": 0.6900666356086731
+                },
+                {
+                    "word": " your",
+                    "start": 0.98,
+                    "end": 1.2,
+                    "probability": 0.9872879981994629
+                },
+                {
+                    "word": " attendance",
+                    "start": 1.2,
+                    "end": 1.6,
+                    "probability": 0.8316035866737366
+                },
+                {
+                    "word": " at",
+                    "start": 1.6,
+                    "end": 1.94,
+                    "probability": 0.991916835308075
+                },
+                {
+                    "word": " the",
+                    "start": 1.94,
+                    "end": 2.1,
+                    "probability": 0.990127444267273
+                },
+                {
+                    "word": " conference?",
+                    "start": 2.1,
+                    "end": 2.56,
+                    "probability": 0.9772763848304749
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

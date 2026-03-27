@@ -1,0 +1,66 @@
+{
+    "text": " The catalyst accelerated the chemical fraction.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.22,
+            "text": " The catalyst accelerated the chemical fraction.",
+            "tokens": [
+                50364,
+                440,
+                23868,
+                29763,
+                264,
+                7313,
+                14135,
+                13,
+                50489
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.43218092918395995,
+            "compression_ratio": 0.8867924528301887,
+            "no_speech_prob": 0.005053825210779905,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.590233564376831
+                },
+                {
+                    "word": " catalyst",
+                    "start": 0.12,
+                    "end": 0.48,
+                    "probability": 0.8535485863685608
+                },
+                {
+                    "word": " accelerated",
+                    "start": 0.48,
+                    "end": 1.16,
+                    "probability": 0.9590734839439392
+                },
+                {
+                    "word": " the",
+                    "start": 1.16,
+                    "end": 1.42,
+                    "probability": 0.9827934503555298
+                },
+                {
+                    "word": " chemical",
+                    "start": 1.42,
+                    "end": 1.72,
+                    "probability": 0.9978882670402527
+                },
+                {
+                    "word": " fraction.",
+                    "start": 1.72,
+                    "end": 2.22,
+                    "probability": 0.9827268123626709
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

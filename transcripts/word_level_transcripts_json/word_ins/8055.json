@@ -1,0 +1,75 @@
+{
+    "text": " Have you tried em rebotting the system?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.24,
+            "text": " Have you tried em rebotting the system?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                3031,
+                846,
+                12970,
+                310,
+                783,
+                264,
+                1185,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5401338430551382,
+            "compression_ratio": 0.8297872340425532,
+            "no_speech_prob": 0.03689928725361824,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 1.12,
+                    "probability": 0.8393620848655701
+                },
+                {
+                    "word": " you",
+                    "start": 1.12,
+                    "end": 1.26,
+                    "probability": 0.9922439455986023
+                },
+                {
+                    "word": " tried",
+                    "start": 1.26,
+                    "end": 1.6,
+                    "probability": 0.9956592321395874
+                },
+                {
+                    "word": " em",
+                    "start": 1.6,
+                    "end": 1.9,
+                    "probability": 0.46818026900291443
+                },
+                {
+                    "word": " rebotting",
+                    "start": 1.9,
+                    "end": 2.72,
+                    "probability": 0.5357081194718679
+                },
+                {
+                    "word": " the",
+                    "start": 2.72,
+                    "end": 2.9,
+                    "probability": 0.9785496592521667
+                },
+                {
+                    "word": " system?",
+                    "start": 2.9,
+                    "end": 3.24,
+                    "probability": 0.9888112545013428
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

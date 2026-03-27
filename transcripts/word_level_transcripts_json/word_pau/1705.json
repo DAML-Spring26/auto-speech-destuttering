@@ -1,0 +1,112 @@
+{
+    "text": " I think we should reconsider our approach to... Customer service.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " I think we should reconsider our approach to...",
+            "tokens": [
+                50364,
+                286,
+                519,
+                321,
+                820,
+                40497,
+                527,
+                3109,
+                281,
+                485,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6706100912655101,
+            "compression_ratio": 0.9420289855072463,
+            "no_speech_prob": 0.01688101701438427,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.9315802454948425
+                },
+                {
+                    "word": " think",
+                    "start": 0.18,
+                    "end": 0.36,
+                    "probability": 0.9936127066612244
+                },
+                {
+                    "word": " we",
+                    "start": 0.36,
+                    "end": 0.52,
+                    "probability": 0.9956594109535217
+                },
+                {
+                    "word": " should",
+                    "start": 0.52,
+                    "end": 0.66,
+                    "probability": 0.9962736368179321
+                },
+                {
+                    "word": " reconsider",
+                    "start": 0.66,
+                    "end": 1.12,
+                    "probability": 0.9968327879905701
+                },
+                {
+                    "word": " our",
+                    "start": 1.12,
+                    "end": 1.4,
+                    "probability": 0.9624139666557312
+                },
+                {
+                    "word": " approach",
+                    "start": 1.4,
+                    "end": 1.72,
+                    "probability": 0.9991123080253601
+                },
+                {
+                    "word": " to...",
+                    "start": 1.72,
+                    "end": 2.04,
+                    "probability": 0.6557838022708893
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.48,
+            "end": 5.28,
+            "text": " Customer service.",
+            "tokens": [
+                50584,
+                37168,
+                2643,
+                13,
+                50644
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6706100912655101,
+            "compression_ratio": 0.9420289855072463,
+            "no_speech_prob": 0.01688101701438427,
+            "words": [
+                {
+                    "word": " Customer",
+                    "start": 4.48,
+                    "end": 4.84,
+                    "probability": 0.6141303777694702
+                },
+                {
+                    "word": " service.",
+                    "start": 4.84,
+                    "end": 5.28,
+                    "probability": 0.7564416527748108
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

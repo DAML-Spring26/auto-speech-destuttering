@@ -1,0 +1,179 @@
+{
+    "text": " Your satisfaction is our top priority. Is there anything else I can? Can help you with today?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.5,
+            "text": " Your satisfaction is our top priority.",
+            "tokens": [
+                50364,
+                2260,
+                18715,
+                307,
+                527,
+                1192,
+                9365,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3642859282316985,
+            "compression_ratio": 1.0689655172413792,
+            "no_speech_prob": 0.004549787379801273,
+            "words": [
+                {
+                    "word": " Your",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.8532316088676453
+                },
+                {
+                    "word": " satisfaction",
+                    "start": 0.2,
+                    "end": 1.1,
+                    "probability": 0.9508988261222839
+                },
+                {
+                    "word": " is",
+                    "start": 1.1,
+                    "end": 1.44,
+                    "probability": 0.9704341888427734
+                },
+                {
+                    "word": " our",
+                    "start": 1.44,
+                    "end": 1.56,
+                    "probability": 0.5724283456802368
+                },
+                {
+                    "word": " top",
+                    "start": 1.56,
+                    "end": 1.8,
+                    "probability": 0.9907112717628479
+                },
+                {
+                    "word": " priority.",
+                    "start": 1.8,
+                    "end": 2.5,
+                    "probability": 0.9992902278900146
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.92,
+            "end": 4.4,
+            "text": " Is there anything else I can?",
+            "tokens": [
+                50504,
+                1119,
+                456,
+                1340,
+                1646,
+                286,
+                393,
+                30,
+                50608
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3642859282316985,
+            "compression_ratio": 1.0689655172413792,
+            "no_speech_prob": 0.004549787379801273,
+            "words": [
+                {
+                    "word": " Is",
+                    "start": 2.92,
+                    "end": 3.02,
+                    "probability": 0.9657354354858398
+                },
+                {
+                    "word": " there",
+                    "start": 3.02,
+                    "end": 3.16,
+                    "probability": 0.997431218624115
+                },
+                {
+                    "word": " anything",
+                    "start": 3.16,
+                    "end": 3.62,
+                    "probability": 0.9960246086120605
+                },
+                {
+                    "word": " else",
+                    "start": 3.62,
+                    "end": 3.92,
+                    "probability": 0.9829714894294739
+                },
+                {
+                    "word": " I",
+                    "start": 3.92,
+                    "end": 4.1,
+                    "probability": 0.9833287000656128
+                },
+                {
+                    "word": " can?",
+                    "start": 4.1,
+                    "end": 4.4,
+                    "probability": 0.9985482096672058
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.94,
+            "end": 6.0,
+            "text": " Can help you with today?",
+            "tokens": [
+                50608,
+                1664,
+                854,
+                291,
+                365,
+                965,
+                30,
+                50684
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3642859282316985,
+            "compression_ratio": 1.0689655172413792,
+            "no_speech_prob": 0.004549787379801273,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 4.94,
+                    "end": 5.12,
+                    "probability": 0.9563471674919128
+                },
+                {
+                    "word": " help",
+                    "start": 5.12,
+                    "end": 5.4,
+                    "probability": 0.986663818359375
+                },
+                {
+                    "word": " you",
+                    "start": 5.4,
+                    "end": 5.56,
+                    "probability": 0.9496011137962341
+                },
+                {
+                    "word": " with",
+                    "start": 5.56,
+                    "end": 5.7,
+                    "probability": 0.9797223210334778
+                },
+                {
+                    "word": " today?",
+                    "start": 5.7,
+                    "end": 6.0,
+                    "probability": 0.9909618496894836
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

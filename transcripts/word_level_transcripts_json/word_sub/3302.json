@@ -1,0 +1,81 @@
+{
+    "text": " ypt Weinidog ydy \uac19\uc740\ub370i sy'n pr\u00f4ser.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.24,
+            "text": " ypt Weinidog ydy \uac19\uc740\ub370i sy'n pr\u00f4ser.",
+            "tokens": [
+                50364,
+                288,
+                662,
+                34477,
+                327,
+                664,
+                288,
+                3173,
+                21864,
+                72,
+                943,
+                6,
+                77,
+                582,
+                2851,
+                12484,
+                13,
+                51391
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.5358111732884456,
+            "compression_ratio": 0.82,
+            "no_speech_prob": 0.0027213324792683125,
+            "words": [
+                {
+                    "word": " ypt",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.005795877776108682
+                },
+                {
+                    "word": " Weinidog",
+                    "start": 0.22,
+                    "end": 0.46,
+                    "probability": 0.3302956673724111
+                },
+                {
+                    "word": " ydy",
+                    "start": 0.46,
+                    "end": 0.9,
+                    "probability": 0.03214940847828984
+                },
+                {
+                    "word": " \uac19\uc740\ub370i",
+                    "start": 0.9,
+                    "end": 1.74,
+                    "probability": 0.023378812247443648
+                },
+                {
+                    "word": " sy",
+                    "start": 1.74,
+                    "end": 1.74,
+                    "probability": 0.00765718799084425
+                },
+                {
+                    "word": "'n",
+                    "start": 1.74,
+                    "end": 1.8,
+                    "probability": 0.7483071088790894
+                },
+                {
+                    "word": " pr\u00f4ser.",
+                    "start": 1.8,
+                    "end": 2.24,
+                    "probability": 0.12097865839799245
+                }
+            ]
+        }
+    ],
+    "language": "cy"
+}

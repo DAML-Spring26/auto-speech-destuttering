@@ -1,0 +1,99 @@
+{
+    "text": " Are you watching? The season premiered and out.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.76,
+            "text": " Are you watching?",
+            "tokens": [
+                50364,
+                2014,
+                291,
+                1976,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6493871808052063,
+            "compression_ratio": 0.8545454545454545,
+            "no_speech_prob": 0.028119398280978203,
+            "words": [
+                {
+                    "word": " Are",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.7095255255699158
+                },
+                {
+                    "word": " you",
+                    "start": 0.2,
+                    "end": 0.34,
+                    "probability": 0.9907373785972595
+                },
+                {
+                    "word": " watching?",
+                    "start": 0.34,
+                    "end": 0.76,
+                    "probability": 0.9955202341079712
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.88,
+            "end": 4.34,
+            "text": " The season premiered and out.",
+            "tokens": [
+                50508,
+                440,
+                3196,
+                12689,
+                292,
+                293,
+                484,
+                13,
+                50608
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6493871808052063,
+            "compression_ratio": 0.8545454545454545,
+            "no_speech_prob": 0.028119398280978203,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 2.7,
+                    "end": 3.08,
+                    "probability": 0.8857537508010864
+                },
+                {
+                    "word": " season",
+                    "start": 3.08,
+                    "end": 3.44,
+                    "probability": 0.9269170165061951
+                },
+                {
+                    "word": " premiered",
+                    "start": 3.44,
+                    "end": 4.0,
+                    "probability": 0.9328756928443909
+                },
+                {
+                    "word": " and",
+                    "start": 4.0,
+                    "end": 4.06,
+                    "probability": 0.3188874423503876
+                },
+                {
+                    "word": " out.",
+                    "start": 4.06,
+                    "end": 4.34,
+                    "probability": 0.5037019848823547
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,81 @@
+{
+    "text": " The patient symptom suggests a rare autoimmune disorder.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.58,
+            "text": " The patient symptom suggests a rare autoimmune disorder.",
+            "tokens": [
+                50364,
+                440,
+                4537,
+                29370,
+                13409,
+                257,
+                5892,
+                8399,
+                49031,
+                13399,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3855869219853328,
+            "compression_ratio": 0.9180327868852459,
+            "no_speech_prob": 0.0041857436299324036,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7954351305961609
+                },
+                {
+                    "word": " patient",
+                    "start": 0.1,
+                    "end": 0.54,
+                    "probability": 0.9392336010932922
+                },
+                {
+                    "word": " symptom",
+                    "start": 0.54,
+                    "end": 1.1,
+                    "probability": 0.4424920082092285
+                },
+                {
+                    "word": " suggests",
+                    "start": 1.1,
+                    "end": 1.54,
+                    "probability": 0.9095374941825867
+                },
+                {
+                    "word": " a",
+                    "start": 1.54,
+                    "end": 1.84,
+                    "probability": 0.9699788689613342
+                },
+                {
+                    "word": " rare",
+                    "start": 1.84,
+                    "end": 2.06,
+                    "probability": 0.9750310182571411
+                },
+                {
+                    "word": " autoimmune",
+                    "start": 2.06,
+                    "end": 2.9,
+                    "probability": 0.9325007200241089
+                },
+                {
+                    "word": " disorder.",
+                    "start": 2.9,
+                    "end": 3.58,
+                    "probability": 0.8192566633224487
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

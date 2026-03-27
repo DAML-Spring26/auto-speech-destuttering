@@ -1,0 +1,66 @@
+{
+    "text": " The Psychology Professor explained cognitive buses.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.44,
+            "text": " The Psychology Professor explained cognitive buses.",
+            "tokens": [
+                50364,
+                440,
+                42827,
+                8419,
+                8825,
+                15605,
+                20519,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5626668930053711,
+            "compression_ratio": 0.864406779661017,
+            "no_speech_prob": 0.009542376734316349,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.5235875248908997
+                },
+                {
+                    "word": " Psychology",
+                    "start": 0.14,
+                    "end": 0.74,
+                    "probability": 0.6970947980880737
+                },
+                {
+                    "word": " Professor",
+                    "start": 0.74,
+                    "end": 1.4,
+                    "probability": 0.7379275560379028
+                },
+                {
+                    "word": " explained",
+                    "start": 1.4,
+                    "end": 2.08,
+                    "probability": 0.7628361582756042
+                },
+                {
+                    "word": " cognitive",
+                    "start": 2.08,
+                    "end": 2.86,
+                    "probability": 0.7247306108474731
+                },
+                {
+                    "word": " buses.",
+                    "start": 2.86,
+                    "end": 3.44,
+                    "probability": 0.7232512831687927
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}
